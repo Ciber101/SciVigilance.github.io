@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-09",
+  "tagline": "Five signals from the deep field, the Moon, and the collider ring.",
+  "isDemo": true,
+  "articles": [
+    {
+      "id": "jwst-smallest-structures",
+      "title": "JWST Reveals the Smallest Structure It Has Ever Seen",
+      "summary": "In a new deep-field exposure, the James Webb Space Telescope resolves a compact stellar structure far beyond anything optical instruments have isolated — a glimpse at how the earliest galaxies began to assemble.",
+      "url": "articles/jwst-smallest-structures.html",
+      "tags": ["JWST", "Astronomy", "Cosmology"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NASA-JWST-FirstDeepField-20220712.png",
+      "imageCredit": "NASA, ESA, CSA, STScI",
+      "imageSource": "Wikimedia Commons",
+      "shareUrl": "https://twitter.com/intent/tweet?text=JWST%20Reveals%20the%20Smallest%20Structure%20It%20Has%20Ever%20Seen%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fjwst-smallest-structures.html",
+      "demo": true,
+      "readTime": "6 min",
+      "date": "2026-09-09"
+    },
+    {
+      "id": "artemis-landing-site",
+      "title": "Artemis Program Confirms Final Lunar Landing Site",
+      "summary": "NASA has locked in the coordinates for the next crewed lunar landing. The polar terrain chosen offers permanent shadowed craters rich in water ice and open sightlines for the coming lunar base.",
+      "url": "articles/artemis-landing-site.html",
+      "tags": ["Artemis", "Moon", "NASA"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Artemis_II_Launch_%28NHQ202604010307%29.jpg",
+      "imageCredit": "NASA",
+      "imageSource": "Wikimedia Commons",
+      "shareUrl": "https://twitter.com/intent/tweet?text=Artemis%20Program%20Confirms%20Final%20Lunar%20Landing%20Site%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fartemis-landing-site.html",
+      "demo": true,
+      "readTime": "5 min",
+      "date": "2026-09-08"
+    },
+    {
+      "id": "cern-higgs-self-coupling",
+      "title": "CERN Reports Progress Toward Measuring the Higgs Self-Coupling",
+      "summary": "New data from the LHC brings the direct measurement of the Higgs boson's self-coupling within reach — a test that would confirm the shape of the Standard Model's most fundamental potential.",
+      "url": "articles/cern-higgs-self-coupling.html",
+      "tags": ["CERN", "Particle Physics", "Standard Model"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg",
+      "imageCredit": "CERN",
+      "imageSource": "CERN (CC BY 4.0)",
+      "shareUrl": "https://twitter.com/intent/tweet?text=CERN%20Reports%20Progress%20Toward%20Measuring%20the%20Higgs%20Self-Coupling%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fcern-higgs-self-coupling.html",
+      "demo": true,
+      "readTime": "7 min",
+      "date": "2026-09-07"
+    },
+    {
+      "id": "perseverance-first-cores",
+      "title": "Perseverance Seals First Batch of Cored Samples on Mars",
+      "summary": "The rover has finished processing its earliest drill cores and sealed them into titanium tubes. Each sample carries a rock record from Jezero Crater — the payload at the center of the Mars Sample Return campaign.",
+      "url": "articles/perseverance-first-cores.html",
+      "tags": ["Mars", "Perseverance", "Planetary Science"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PIA25735-MarsPerseveranceRover-SelfPortrait%2BSampleTubes-20230122.jpg",
+      "imageCredit": "NASA/JPL-Caltech",
+      "imageSource": "Wikimedia Commons",
+      "shareUrl": "https://twitter.com/intent/tweet?text=Perseverance%20Seals%20First%20Batch%20of%20Cored%20Samples%20on%20Mars%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fperseverance-first-cores.html",
+      "demo": true,
+      "readTime": "5 min",
+      "date": "2026-09-06"
+    },
+    {
+      "id": "sd-coronal-mass-ejection",
+      "title": "Space Weather Watch: A Powerful Coronal Mass Ejection Clears the Sun",
+      "summary": "A major CME erupted from the sun's disk and is being tracked by NOAA and NASA. Forecasts for geomagnetic impact over the next 72 hours are now being issued for operators in high-latitude regions.",
+      "url": "articles/sd-coronal-mass-ejection.html",
+      "tags": ["Solar Physics", "Space Weather", "NOAA"],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/X3.2_Solar_flare_on_2013-05-14_at_four_wavelengths.jpg",
+      "imageCredit": "NASA/SDO",
+      "imageSource": "Wikimedia Commons",
+      "shareUrl": "https://twitter.com/intent/tweet?text=Space%20Weather%20Watch%3A%20A%20Powerful%20Coronal%20Mass%20Ejection%20Clears%20the%20Sun%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fsd-coronal-mass-ejection.html",
+      "demo": true,
+      "readTime": "4 min",
+      "date": "2026-09-05"
+    }
+  ]
+}

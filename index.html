@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SciVigilance — The Daily Signal</title>
+  <meta name="description" content="Space and science, distilled into a daily signal. Mission-control coverage of the universe, the Moon, and the particles beneath.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='42' fill='%23f5a623'/></svg>">
+</head>
+<body>
+
+  <!-- NAV -->
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="SciVigilance home">
+        <span class="mark" aria-hidden="true"></span>
+        <span class="name">Sci<b>Vigilance</b></span>
+      </a>
+      <nav aria-label="Primary">
+        <ul class="nav-links" id="navLinks">
+          <li><a href="index.html" class="active" aria-current="page">Digest</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="newsletter.html">Newsletter</a></li>
+        </ul>
+      </nav>
+      <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="nav-cta" aria-label="Follow SciVigil on X">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        Follow
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navLinks">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero" aria-label="Hero">
+      <canvas id="starfield" aria-hidden="true"></canvas>
+      <div class="container">
+        <span class="eyebrow"><span class="dot" aria-hidden="true"></span> Live Mission Feed · Updated Daily</span>
+        <h1>The daily signal from the <span class="accent">edge of everything</span> we know.</h1>
+        <p class="lede">SciVigilance cuts through the noise. One sharp digest a day — space missions, particle physics, planetary science — written for people who want to understand, not just scroll.</p>
+        <div class="hero-actions">
+          <a href="#digest" class="btn btn-primary">Read Today's Digest ↓</a>
+          <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="btn-x" aria-label="Follow on X">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            Follow @SciVigil
+          </a>
+          <a href="newsletter.html" class="btn btn-ghost">Get the Signal</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- TELEMETRY TICKER -->
+    <div class="ticker" role="marquee" aria-label="Latest headlines ticker">
+      <div class="track" id="tickerTrack">
+        <!-- Filled by JS from latest.json -->
+      </div>
+    </div>
+
+    <!-- DAILY DIGEST -->
+    <section id="digest" aria-label="Daily Digest">
+      <div class="container">
+        <div class="section-head row">
+          <div>
+            <span class="kicker">Today's Digest</span>
+            <h2>The Daily Signal</h2>
+            <p id="digestTagline">Five signals from the deep field, the Moon, and the collider ring.</p>
+          </div>
+          <a href="archive.html" class="link-more">View Archive →</a>
+        </div>
+        <div class="digest-grid" id="digestGrid">
+          <!-- Cards injected by JS -->
+          <div class="empty-state" id="digestEmpty" hidden>
+            <div class="icon" aria-hidden="true">📡</div>
+            <h3>No digest yet.</h3>
+            <p>The signal goes quiet overnight. Check back at 06:00 UTC or subscribe to get the moment it fires.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- DAILY X / MISSION SOCIAL -->
+    <section id="daily-x" aria-label="Daily X and mission social highlights">
+      <div class="container">
+        <div class="section-head row">
+          <div>
+            <span class="kicker">Daily X · Mission Social</span>
+            <h2>What the agencies are saying</h2>
+            <p>Curated highlights from NASA, ESA, CERN, NOAA, and the JWST science team. Sample data until live feed is connected.</p>
+          </div>
+          <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="link-more">Follow the thread →</a>
+        </div>
+        <div class="social-grid" id="socialGrid">
+          <!-- Injected by JS -->
+          <div class="empty-state" id="socialEmpty" hidden>
+            <div class="icon" aria-hidden="true">📡</div>
+            <h3>No mission chatter yet.</h3>
+            <p>Quiet at the relay station today. Highlights land here as they arrive.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MISSION CLOCK (flagship JS interaction) -->
+    <section id="mission-clock" aria-label="Mission telemetry panel">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Mission Telemetry</span>
+          <h2>Orbital status, in real time</h2>
+          <p>Live clock, lunar distance estimate, and a rotating orbital diagram — computed in your browser. No backend, just math.</p>
+        </div>
+        <div class="telemetry-panel" id="telemetryPanel" role="img" aria-label="Orbital diagram showing Earth and Moon positions with live UTC clock">
+          <canvas id="orbitalCanvas" width="800" height="300"></canvas>
+          <div class="telemetry-readouts">
+            <div class="readout">
+              <span class="label">UTC</span>
+              <span class="value mono" id="utcClock">--:--:--</span>
+            </div>
+            <div class="readout">
+              <span class="label">Mission Day</span>
+              <span class="value" id="missionDay">—</span>
+            </div>
+            <div class="readout">
+              <span class="label">Lunar Distance</span>
+              <span class="value mono" id="lunarDist">— km</span>
+            </div>
+            <div class="readout">
+              <span class="label">Signal</span>
+              <span class="value" id="signalStatus">● NOMINAL</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- NEWSLETTER CTA -->
+    <section class="tight" aria-label="Newsletter signup">
+      <div class="container">
+        <div class="newsletter-band">
+          <h2>Get the Signal</h2>
+          <p>One email. Every morning. The day's most important space and science stories, distilled and delivered before your first coffee.</p>
+          <form class="newsletter-form" action="https://scivigilance.example/newsletter" method="POST" novalidate>
+            <label for="nl-email" class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);">Email address</label>
+            <input type="email" id="nl-email" name="email" placeholder="you@mission.control" required>
+            <button type="submit">Subscribe</button>
+          </form>
+          <p class="newsletter-note">No spam. Unsubscribe anytime. Sample form — connect your provider.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="brand" aria-label="SciVigilance home">
+            <span class="mark" aria-hidden="true"></span>
+            <span class="name">Sci<b>Vigilance</b></span>
+          </a>
+          <p>The daily signal from the edge of everything we know. Space, science, and the missions pushing the frontier.</p>
+        </div>
+        <div class="footer-col">
+          <h5>Navigate</h5>
+          <ul>
+            <li><a href="index.html">Today's Digest</a></li>
+            <li><a href="archive.html">Archive</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Follow</h5>
+          <ul>
+            <li><a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil on X</a></li>
+            <li><a href="newsletter.html">Email newsletter</a></li>
+            <li><a href="data/latest.json">RSS / JSON feed</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Data Sources</h5>
+          <ul>
+            <li><a href="https://nssdc.gsfc.nasa.gov" target="_blank" rel="noopener">NASA NSSDC</a></li>
+            <li><a href="https://www.esa.int" target="_blank" rel="noopener">ESA</a></li>
+            <li><a href="https://www.cern.ch" target="_blank" rel="noopener">CERN</a></li>
+            <li><a href="https://www.swpc.noaa.gov" target="_blank" rel="noopener">NOAA SWPC</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 SciVigilance. Demo content. Images: NASA, ESA, CERN, NOAA (public domain / CC).</span>
+        <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="x-follow" aria-label="Follow on X">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          @SciVigil
+        </a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

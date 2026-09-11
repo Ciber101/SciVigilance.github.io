@@ -1,0 +1,54 @@
+{
+  "date": "2026-09-09",
+  "isDemo": true,
+  "highlights": [
+    {
+      "id": "nasa-jwst-post",
+      "org": "NASA JWST",
+      "handle": "@NASA_JWST",
+      "text": "New deep-field data tonight. We're resolving structures at redshifts that were invisible to Hubble. The universe's earliest assembly lines, in sharp focus.",
+      "link": "https://x.com/NASA_JWST",
+      "demo": true
+    },
+    {
+      "id": "esa-rosetta-heritage",
+      "org": "ESA",
+      "handle": "@esa",
+      "text": "Twenty years of Rosetta heritage: the Rosetta mission's cometary science still shapes how we interpret JWST detections of volatile-rich early planets.",
+      "link": "https://x.com/esa",
+      "demo": true
+    },
+    {
+      "id": "cern-lhcb-update",
+      "org": "CERN",
+      "handle": "@CERN",
+      "text": "LHCb Phase-II data taking continues. New analyses of rare B-meson decays will test the Standard Model with unprecedented precision this autumn.",
+      "link": "https://x.com/CERN",
+      "demo": true
+    },
+    {
+      "id": "noaa-space-weather",
+      "org": "NOAA SWPC",
+      "handle": "@Space_Weather",
+      "text": "Geomagnetic watch in effect. A CME detected by DSCOVR is expected to impact Earth's magnetosphere within 18 hours. Monitor for G2-G3 activity.",
+      "link": "https://x.com/Space_Weather",
+      "demo": true
+    },
+    {
+      "id": "jwst-sci-highlights",
+      "org": "JWST Science",
+      "handle": "@JWST_science",
+      "text": "The SMACS 0723 cluster continues to yield surprises. New spectroscopic confirmations extend the catalog of high-redshift galaxy candidates.",
+      "link": "https://x.com/JWST_science",
+      "demo": true
+    },
+    {
+      "id": "nih-imaging-ai",
+      "org": "NIH",
+      "handle": "@NIH",
+      "text": "New NIH-funded study demonstrates AI-assisted pathology detection achieving parity with expert radiologists across 14 cancer types.",
+      "link": "https://x.com/NIH",
+      "demo": true
+    }
+  ]
+}

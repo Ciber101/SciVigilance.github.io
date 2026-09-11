@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — SciVigilance</title>
+  <meta name="description" content="What SciVigilance is, how it works, and the principles behind the daily signal.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='42' fill='%23f5a623'/></svg>">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="SciVigilance home"><span class="mark" aria-hidden="true"></span><span class="name">Sci<b>Vigilance</b></span></a>
+      <nav aria-label="Primary">
+        <ul class="nav-links" id="navLinks">
+          <li><a href="index.html">Digest</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html" class="active" aria-current="page">About</a></li>
+          <li><a href="newsletter.html">Newsletter</a></li>
+        </ul>
+      </nav>
+      <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="nav-cta" aria-label="Follow SciVigil on X">
+        <svg viewBox="0 0 24 24" width="15" height="15" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+        Follow
+      </a>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navLinks">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-head">
+      <div class="container">
+        <span class="kicker">About</span>
+        <h1>What SciVigilance is</h1>
+        <p>A daily signal on space and science. Built to replace "Science in 280" — not a summary blog, but a sharp, curated digest with a point of view.</p>
+      </div>
+    </div>
+
+    <section>
+      <div class="container">
+        <div class="prose">
+          <h2>The mission</h2>
+          <p>SciVigilance exists to make the day's most important space and science stories <strong>understandable</strong>, not just readable. We're not trying to be a wire service or an AI summary feed. We're trying to be the thing you open once a day and trust to have done the work of reading, checking, and connecting the dots for you.</p>
+          <p>Every story in the digest is chosen for one of three reasons: it changes what we think we know, it moves a major mission forward, or it's genuinely fascinating in a way that deserves an audience. If none of those apply, it doesn't make the cut.</p>
+
+          <h2>Where the content comes from</h2>
+          <p>Our reporting draws on primary sources — mission agencies, observatories, laboratories, and the peer-reviewed record behind them. NASA, ESA, CERN, NOAA, and the universities and institutes that run the actual science are our backbone. When we report on a result, we try to get you to the result itself, not just to the press release.</p>
+          <p>The daily social track (Daily X) is a companion layer: curated, sourced highlights from the agencies and teams doing the work. It's where the day's signal first appears, before it's written up in the digest.</p>
+
+          <div class="principles">
+            <div class="principle">
+              <span class="num">01</span>
+              <h4>Understand, don't just scroll</h4>
+              <p>Every story earns a reader. We explain the "why it matters," not just the "what happened."</p>
+            </div>
+            <div class="principle">
+              <span class="num">02</span>
+              <h4>Source the signal</h4>
+              <p>Primary sources first. When we cite a result, we point you toward the result, not the rumor.</p>
+            </div>
+            <div class="principle">
+              <span class="num">03</span>
+              <h4>Be honest about uncertainty</h4>
+              <p>Science is provisional. We say "this suggests," "this rules out," "this is still being verified" — and we mean it.</p>
+            </div>
+            <div class="principle">
+              <span class="num">04</span>
+              <h4>One signal a day</h4>
+              <p>Restraint is the point. A single, sharp digest beats a firehose. Quality over volume, always.</p>
+            </div>
+          </div>
+
+          <h2>A note on this site</h2>
+          <p>This is a demo build. The articles you're reading are <strong>sample content</strong> seeded to show the layout, voice, and interaction — they are clearly labeled as such and are not live dispatches from a real publishing feed. The structure is production-ready: swap in a real <code>data/latest.json</code> pipeline and the same pages render real stories.</p>
+          <p>The images are real, sourced from public-domain and Creative-Commons collections (NASA, ESA, CERN, NOAA, Wikimedia Commons), and credited on every card and article.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="brand" aria-label="SciVigilance home"><span class="mark" aria-hidden="true"></span><span class="name">Sci<b>Vigilance</b></span></a>
+          <p>The daily signal from the edge of everything we know.</p>
+        </div>
+        <div class="footer-col">
+          <h5>Navigate</h5>
+          <ul>
+            <li><a href="index.html">Today's Digest</a></li>
+            <li><a href="archive.html">Archive</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Follow</h5>
+          <ul>
+            <li><a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil on X</a></li>
+            <li><a href="data/latest.json">JSON feed</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 SciVigilance. Demo content.</span>
+        <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="x-follow"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @SciVigil</a>
+      </div>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>
