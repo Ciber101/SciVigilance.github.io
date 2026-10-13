@@ -927,7 +927,7 @@ body { background: transparent; }
 .card .src-line { font-size: .78rem; color: var(--text-faint); }
 .card .src-line b { color: var(--cyan); font-weight: 600; }
 .x-card .x-head { display: flex; align-items: center; gap: 10px; }
-.x-card .x-av { width: 36px; height: 36px; border-radius: 50%; background: radial-gradient(circle at 35% 35%, var(--amber-hi), var(--amber) 55%, #7a4a05); flex: none; }
+.x-card .x-av { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; border: 1px solid var(--line); flex: none; }
 .x-card .x-name { display: flex; flex-direction: column; line-height: 1.2; }
 .x-card .x-name b { font-family: var(--font-display); }
 .x-card .x-name span { color: var(--text-faint); font-size: .82rem; }
@@ -942,3 +942,5 @@ body { background: transparent; }
 .short-card p { padding: 12px 14px; font-size: .9rem; color: var(--text-dim); }
 .newsletter-form button:disabled, .newsletter-form input:disabled { opacity: .6; cursor: not-allowed; }
 @media (max-width: 560px) { .shorts-grid { grid-template-columns: 1fr; justify-items: center; } .short-card { width: min(100%, 300px); } }
+
+.card .badge-tag.ai { background: var(--cyan); color: #04121a; }

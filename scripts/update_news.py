@@ -20,6 +20,19 @@ FEEDS = [  # (source name, feed url, field tag)
  ('New Scientist', 'https://www.newscientist.com/feed/home/', 'Science'),
 ]
 PER_SOURCE, TOTAL, MAX_AGE_DAYS = 3, 18, 7
+AI_FEEDS = [
+ ('Hugging Face', 'https://huggingface.co/blog/feed.xml'),
+ ('OpenAI', 'https://openai.com/news/rss.xml'),
+ ('Google DeepMind', 'https://deepmind.google/blog/rss.xml'),
+ ('Simon Willison', 'https://simonwillison.net/atom/everything/'),
+ ('Ars Technica', 'https://feeds.arstechnica.com/arstechnica/technology-lab'),
+ ('The Verge', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'),
+ ('MIT News', 'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml'),
+ ('MarkTechPost', 'https://www.marktechpost.com/feed/'),
+]
+AI_GOOD = r'\b(model|models|llm|open[- ]weights?|open[- ]source|benchmark|release[sd]?|launch(es|ed)?|gpt[- ]?\d|claude|gemini|gemma|grok|llama|qwen|mistral|deepseek|phi-?\d|gguf|ollama|llama\.cpp|quantiz\w*|reasoning|multimodal|agent\w*|parameters?|context window|fine-?tun\w*|inference|tokens?|transformer|diffusion|anthropic|deepmind|xai|meta ai|hugging ?face)\b'
+AI_BAD = r'\b(funding|raises?|valuation|ipo|lawsuit|sues|layoffs?|stock|shares|earnings|revenue|acquisition|acquires|deal|ceo|hiring|policy|regulat\w*|lobby\w*|super bowl|ads?)\b'
+AI_TOTAL, AI_MAX_AGE = 9, 14
 TAGS = [('Space', r'\b(nasa|esa|mars|moon|lunar|jwst|webb|hubble|galax|star|planet|asteroid|comet|orbit|rocket|telescope|black hole|solar|sun)\w*'),
         ('Physics', r'\b(quantum|particle|physic|cern|collider|laser|photon|neutrino)\w*'),
         ('Biology', r'\b(cell|gene|dna|protein|species|brain|bacteria|virus|evolution|animal|plant)\w*'),
@@ -56,6 +69,14 @@ def og_image(url):
             re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)', page)
         return html.unescape(m.group(1)) if m else None
     except Exception: return None
+
+def og_desc(url):
+    try:
+        page = get(url, 400000).decode('utf-8', 'ignore')
+        m = re.search(r'<meta[^>]+(?:property|name)=["\'](?:og:description|description)["\'][^>]+content=["\']([^"\']+)', page) or \
+            re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:description|description)', page)
+        return clean(m.group(1)) if m else ''
+    except Exception: return ''
 
 def tag_for(text, default):
     t = text.lower()
@@ -94,6 +115,34 @@ def news():
             if by[s]: res.append(by[s].pop(0))
     return res[:TOTAL]
 
+def ai_news():
+    now = datetime.datetime.now(datetime.timezone.utc); out = []; seen = set()
+    for src, url in AI_FEEDS:
+        try: f = feedparser.parse(get(url))
+        except Exception as ex: print('ai feed fail', src, ex, file=sys.stderr); continue
+        n = 0
+        for e in f.entries[:25]:
+            if n >= 2: break
+            link, title = e.get('link'), clean(e.get('title'))
+            if not link or not title or title.lower() in seen: continue
+            summ = short(clean(e.get('summary') or ''.join(c.get('value', '') for c in e.get('content', []))))
+            official = src in ('Hugging Face', 'OpenAI', 'Google DeepMind')
+            if len(summ) < 40 and official and re.search(AI_GOOD, title.lower()): summ = short(og_desc(link))
+            text = (title + ' ' + summ).lower()
+            if len(re.findall(AI_GOOD, text)) < (1 if official else 2) or re.search(AI_BAD, title.lower()): continue
+            t = e.get('published_parsed') or e.get('updated_parsed')
+            d = datetime.datetime(*t[:6], tzinfo=datetime.timezone.utc) if t else now
+            if (now - d).days > AI_MAX_AGE or len(summ) < 40: continue
+            img = feed_image(e) or og_image(link)
+            if not img or not img.startswith('http'): continue
+            seen.add(title.lower()); n += 1
+            out.append({'id': 'ai-' + re.sub(r'[^a-z0-9]+', '-', title.lower())[:56].strip('-'), 'title': title, 'summary': summ,
+                        'url': link, 'source': src, 'image': img.replace('http://', 'https://'),
+                        'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
+        print('AI', src, n)
+    out.sort(key=lambda a: a['ts'], reverse=True)
+    return out[:AI_TOTAL]
+
 BG_IDS = [  # hand-picked real public-domain NASA space imagery (no ground/lab photos, no artist concepts)
  'PIA04921', 'PIA15985', 'PIA18164', 'PIA23122', 'PIA03606', 'PIA12348', 'PIA22568', 'PIA17563',
  'PIA09579', 'PIA04230', 'PIA14417', 'PIA20061', 'PIA18906', 'PIA21923']
@@ -127,9 +176,12 @@ def backgrounds():
 
 if __name__ == '__main__':
     arts = news()
+    ai = ai_news()
+    if ai:  # mix the 3 newest AI stories into the main feed
+        arts = arts[:2] + ai[:1] + arts[2:6] + ai[1:2] + arts[6:10] + ai[2:3] + arts[10:]
     if len(arts) >= 5:
         json.dump({'date': datetime.date.today().isoformat(), 'updated': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='minutes'),
-                   'tagline': f'{len(arts)} real stories from the frontier of science, each linked to its source.', 'articles': arts},
+                   'tagline': f'{len(arts)} real stories from the frontier of science, each linked to its source.', 'articles': arts, 'ai': ai},
                   open(os.path.join(DATA, 'latest.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     else: print('too few articles; keeping previous latest.json', file=sys.stderr)
     bg = backgrounds()

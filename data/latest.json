@@ -1,7 +1,7 @@
 {
  "date": "2026-10-13",
- "updated": "2026-10-13T16:03+00:00",
- "tagline": "18 real stories from the frontier of science, each linked to its source.",
+ "updated": "2026-10-13T16:13+00:00",
+ "tagline": "21 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
    "id": "mushroom-derived-peptides-boost-saltiness-by-up-to-70-offeri",
@@ -28,6 +28,19 @@
    ],
    "date": "2026-10-13",
    "ts": "2026-10-13T15:00:00+00:00"
+  },
+  {
+   "id": "ai-gemini-4-argon-for-robotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:58+00:00"
   },
   {
    "id": "cells-from-your-mother-could-stay-in-your-brain-your-whole-l",
@@ -82,6 +95,19 @@
    "ts": "2026-10-13T11:27:24+00:00"
   },
   {
+   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:52+00:00"
+  },
+  {
    "id": "is-attention-the-essence-of-intelligence",
    "title": "Is ‘Attention’ the Essence of Intelligence?",
    "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first…",
@@ -132,6 +158,19 @@
    ],
    "date": "2026-10-13",
    "ts": "2026-10-13T11:12:18+00:00"
+  },
+  {
+   "id": "ai-google-finally-releases-gemini-4-argon",
+   "title": "Google finally releases Gemini 4 Argon",
+   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:00:00+00:00"
   },
   {
    "id": "what-happens-when-you-lose-your-voice",
@@ -236,6 +275,125 @@
    ],
    "date": "2026-10-13",
    "ts": "2026-10-13T01:33:58+00:00"
+  }
+ ],
+ "ai": [
+  {
+   "id": "ai-gemini-4-argon-for-robotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:58+00:00"
+  },
+  {
+   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:52+00:00"
+  },
+  {
+   "id": "ai-google-finally-releases-gemini-4-argon",
+   "title": "Google finally releases Gemini 4 Argon",
+   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "source": "The Verge",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:00:00+00:00"
+  },
+  {
+   "id": "ai-z-ai-glm-legal-beats-claude-fable-5-and-kimi-k3-on-harve",
+   "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
+   "summary": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15 per test. Access is by application.",
+   "url": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-401-3-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T08:19:54+00:00"
+  },
+  {
+   "id": "ai-alibaba-qwen-introduces-qwengyre-elastic-reinforcement-l",
+   "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+   "summary": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training.",
+   "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-401-2-1024x768.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-12",
+   "ts": "2026-10-12T21:41:50+00:00"
+  },
+  {
+   "id": "ai-meta-has-some-wonder-full-new-ai-models",
+   "title": "Meta has some Wonder Full new AI models",
+   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go…",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "source": "The Verge",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-12",
+   "ts": "2026-10-12T17:00:00+00:00"
+  },
+  {
+   "id": "ai-web-edit-0-1a0",
+   "title": "web-edit 0.1a0",
+   "summary": "Release: web-edit 0.1a0 I was working on a project from my phone using Codex Remote when I found myself wanting to edit a credentials file without round-tripping those credentials through the LLM itself. So...",
+   "url": "https://simonwillison.net/2026/Oct/12/web-edit/",
+   "source": "Simon Willison",
+   "image": "https://static.simonwillison.net/static/2026/web-edit.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-12",
+   "ts": "2026-10-12T15:54:36+00:00"
+  },
+  {
+   "id": "ai-the-model-that-didn-t-exist-so-you-made-it-yourself",
+   "title": "The model that didn't exist, so you made it yourself",
+   "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "url": "https://huggingface.co/blog/building-with-ml-intern",
+   "source": "Hugging Face",
+   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-08",
+   "ts": "2026-10-08T00:00:00+00:00"
+  },
+  {
+   "id": "ai-claude-haiku-5-5",
+   "title": "Claude Haiku 5.5",
+   "summary": "As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age.",
+   "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+   "source": "Simon Willison",
+   "image": "https://static.simonwillison.net/static/2026-10-07/haiku-5.5-max.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-07",
+   "ts": "2026-10-07T20:56:21+00:00"
   }
  ]
 }

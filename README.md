@@ -23,7 +23,7 @@ A multi-page static site for daily space and science news, built for GitHub Page
 Serve the folder with any static server, e.g. `python -m http.server` or `npx serve`, then open `index.html`.
 
 ## Daily data (automated)
-- `scripts/update_news.py` pulls real frontier-science stories from public RSS feeds (NASA, ESA, Phys.org, ScienceDaily, Quanta, Science News, New Scientist) into `data/latest.json` — every item keeps its original link and image — and picks the day's public-domain NASA background images into `data/backgrounds.json`.
+- `scripts/update_news.py` pulls real frontier-science stories from public RSS feeds (NASA, ESA, Phys.org, ScienceDaily, Quanta, Science News, New Scientist) plus AI model news (Hugging Face, Google DeepMind, OpenAI, Simon Willison, Ars Technica, The Verge, MIT News, MarkTechPost; filtered for releases/benchmarks) into `data/latest.json` — every item keeps its original link and image — and picks the day's public-domain NASA background images into `data/backgrounds.json`.
 - `scripts/update_x.py` rebuilds `data/xposts.json` (Latest from X) from the committed `data/x_raw.json` (X reads need auth, so that file is refreshed outside Actions).
 - `data/shorts.json` lists the latest YouTube Shorts.
 - `.github/workflows/daily-update.yml` runs both scripts daily and commits the data. No secrets needed.

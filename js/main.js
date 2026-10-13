@@ -110,6 +110,13 @@ async function loadDigest() {
   currentArticles = articles;
   articles.forEach(a => grid.appendChild(makeCard(a)));
   buildTicker(articles);
+  const ai = document.getElementById('aiGrid');
+  if (ai) {
+    const list = data.ai || [];
+    if (!list.length) ai.closest('section').hidden = true;
+    list.forEach(a => ai.appendChild(makeCard(a)));
+    currentArticles = currentArticles.concat(list);
+  }
 }
 
 function showEmpty(el) {
@@ -124,7 +131,7 @@ function makeCard(a) {
   card.innerHTML = `
     <a href="${url}" class="thumb" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
       <img src="${safeUrl(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-      ${tag ? `<span class="badge-tag">${escapeHtml(tag)}</span>` : ''}
+      ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : ''}">${escapeHtml(tag)}</span>` : ''}
     </a>
     <div class="body">
       <div class="meta"><span class="time">${escapeHtml(a.date || '')}</span><span>·</span><span>${escapeHtml(a.source || '')}</span></div>
@@ -182,7 +189,7 @@ async function loadX() {
     const text = escapeHtml(p.text || '').replace(/(^|\s)(#\w+)/g, '$1<span class="ht">$2</span>');
     const when = p.date ? new Date(p.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
     el.innerHTML = `
-      <div class="x-head"><span class="x-av" aria-hidden="true"></span><span class="x-name"><b>${escapeHtml(data.name || 'SciVigil')}</b><span>@${escapeHtml(data.handle || 'SciVigil')}</span></span></div>
+      <div class="x-head"><img class="x-av" src="img/scivigil-avatar.jpg" alt="@SciVigil profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(data.name || 'SciVigil')}</b><span>@${escapeHtml(data.handle || 'SciVigil')}</span></span></div>
       <p class="text">${text}${p.truncated ? '…' : ''}</p>
       ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
       ${p.link ? `<a class="x-link" href="${safeUrl(p.link)}" target="_blank" rel="noopener">🔗 Source link</a>` : ''}
