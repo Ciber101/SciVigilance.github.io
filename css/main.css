@@ -886,3 +886,13 @@ body { background: transparent; }
 @media (max-width: 560px) { .shorts-grid { grid-template-columns: 1fr; justify-items: center; } .short-card { width: min(100%, 300px); } }
 
 .card .badge-tag.ai { background: var(--cyan); color: #04121a; }
+
+.card[hidden] { display: none !important; }
+.see-all { display: flex; flex-direction: column; align-items: center; gap: 6px; width: fit-content; margin: 28px auto 0; padding: 12px 26px; border: 1px solid var(--line); border-radius: 999px; background: rgba(17,24,39,.85); color: var(--amber); font-weight: 600; font-family: var(--font-display); transition: border-color .2s, transform .2s; }
+.see-all:hover { border-color: var(--amber); transform: translateY(2px); }
+.see-all .arr { font-size: 1.4rem; line-height: 1; animation: nudge 1.8s ease-in-out infinite; }
+@keyframes nudge { 0%,100% { transform: translateY(0) } 50% { transform: translateY(4px) } }
+@media (prefers-reduced-motion: reduce) { .see-all .arr { animation: none; } }
+.filter-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
+.chip { font: 600 .82rem var(--font-body); padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line); background: rgba(17,24,39,.85); color: var(--text-dim); cursor: pointer; }
+.chip.on, .chip:hover { border-color: var(--amber); color: var(--amber); }

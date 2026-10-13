@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI News — SciVigilance</title>
+  <meta name="description" content="Frontier and open-weight AI model news, each linked to its source.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" type="image/jpeg" href="img/scivigil-avatar.jpg">
+  <link rel="apple-touch-icon" href="img/scivigil-avatar.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="SciVigilance">
+  <meta property="og:title" content="AI News">
+  <meta property="og:description" content="Space and science, distilled into a daily signal.">
+  <meta property="og:url" content="https://scivigilance.github.io/ai.html">
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8d/Artemis_II_Launch_%28NHQ202604010307%29.jpg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SciVigil">
+  <meta name="twitter:creator" content="@SciVigil">
+  <meta name="theme-color" content="#07090f">
+
+</head>
+<body>
+  <div class="bg-slides" id="bgSlides" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="index.html" class="brand" aria-label="SciVigilance home"><img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34"><span class="name">Sci<b>Vigilance</b></span></a>
+      <nav aria-label="Primary">
+        <ul class="nav-links" id="navLinks">
+          <li><a href="index.html">Digest</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="ai.html" class="active" aria-current="page">AI</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="newsletter.html">Newsletter</a></li>
+        </ul>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navLinks">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="page-head">
+      <div class="container">
+        <span class="kicker">AI Frontier</span>
+        <h1>Models, releases &amp; benchmarks</h1>
+        <p>New frontier and open-weight models — from the big labs to the ones you can run locally — each linked to its source. <span id="pageCount"></span></p>
+      </div>
+    </div>
+
+    <section>
+      <div class="container">
+        <div class="filter-chips" id="chips" hidden></div>
+        <div class="digest-grid" id="allAiGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p class="bg-credit" id="bgCredit"></p>
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="brand" aria-label="SciVigilance home"><img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34"><span class="name">Sci<b>Vigilance</b></span></a>
+          <p>The daily signal from the edge of everything we know.</p>
+        </div>
+        <div class="footer-col">
+          <h5>Navigate</h5>
+          <ul>
+            <li><a href="index.html">Today's Digest</a></li>
+            <li><a href="archive.html">Archive</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Follow</h5>
+          <ul>
+            <li><a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil on X</a></li>
+            <li><a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener">YouTube Shorts</a></li>
+            <li><a href="data/latest.json">JSON feed</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 SciVigilance. News summaries link to their original sources.</span>
+        <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="x-follow"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> @SciVigil</a>
+        <a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener" class="x-follow" aria-label="SciVigil Shorts on YouTube"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.6 15.6V8.4l6.3 3.6z"/></svg> YouTube Shorts</a>
+      </div>
+    </div>
+  </footer>
+  <script src="js/main.js"></script>
+</body>
+</html>

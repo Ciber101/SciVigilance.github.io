@@ -18,8 +18,12 @@ FEEDS = [  # (source name, feed url, field tag)
  ('Quanta Magazine', 'https://www.quantamagazine.org/feed/', 'Frontier'),
  ('Science News', 'https://www.sciencenews.org/feed', 'Science'),
  ('New Scientist', 'https://www.newscientist.com/feed/home/', 'Science'),
+ ('Live Science', 'https://www.livescience.com/feeds/all', 'Science'),
+ ('ScienceAlert', 'https://www.sciencealert.com/feed', 'Science'),
+ ('Universe Today', 'https://www.universetoday.com/feed/', 'Space'),
+ ('MIT News', 'https://news.mit.edu/rss/research', 'Science'),
 ]
-PER_SOURCE, TOTAL, MAX_AGE_DAYS = 3, 18, 7
+PER_SOURCE, TOTAL, MAX_AGE_DAYS = 8, 60, 7
 AI_FEEDS = [
  ('Hugging Face', 'https://huggingface.co/blog/feed.xml'),
  ('OpenAI', 'https://openai.com/news/rss.xml'),
@@ -29,10 +33,13 @@ AI_FEEDS = [
  ('The Verge', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'),
  ('MIT News', 'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml'),
  ('MarkTechPost', 'https://www.marktechpost.com/feed/'),
+ ('MIT Technology Review', 'https://www.technologyreview.com/topic/artificial-intelligence/feed'),
+ ('The Decoder', 'https://the-decoder.com/feed/'),
+ ('Google AI', 'https://blog.google/technology/ai/rss/'),
 ]
 AI_GOOD = r'\b(model|models|llm|open[- ]weights?|open[- ]source|benchmark|release[sd]?|launch(es|ed)?|gpt[- ]?\d|claude|gemini|gemma|grok|llama|qwen|mistral|deepseek|phi-?\d|gguf|ollama|llama\.cpp|quantiz\w*|reasoning|multimodal|agent\w*|parameters?|context window|fine-?tun\w*|inference|tokens?|transformer|diffusion|anthropic|deepmind|xai|meta ai|hugging ?face)\b'
 AI_BAD = r'\b(funding|raises?|valuation|ipo|lawsuit|sues|layoffs?|stock|shares|earnings|revenue|acquisition|acquires|deal|ceo|hiring|policy|regulat\w*|lobby\w*|super bowl|ads?)\b'
-AI_TOTAL, AI_MAX_AGE = 9, 14
+AI_TOTAL, AI_MAX_AGE, AI_PER_SOURCE = 30, 14, 5
 TAGS = [('Space', r'\b(nasa|esa|mars|moon|lunar|jwst|webb|hubble|galax|star|planet|asteroid|comet|orbit|rocket|telescope|black hole|solar|sun)\w*'),
         ('Physics', r'\b(quantum|particle|physic|cern|collider|laser|photon|neutrino)\w*'),
         ('Biology', r'\b(cell|gene|dna|protein|species|brain|bacteria|virus|evolution|animal|plant)\w*'),
@@ -78,6 +85,21 @@ def og_desc(url):
         return clean(m.group(1)) if m else ''
     except Exception: return ''
 
+def _words(t): return {w for w in re.findall(r'[a-z0-9]{4,}', t.lower())}
+def dedupe(items):
+    # drop the same story covered by two outlets (similar headline+summary or same image file)
+    keep = []
+    for a in items:
+        img = re.sub(r'[-_]?\d+x\d+|\.\w+$', '', a['image'].split('?')[0].rsplit('/', 1)[-1]).lower()
+        w = _words(a['title'] + ' ' + a['summary'])
+        dup = False
+        for b in keep:
+            wb = b['_w']
+            if (img and img == b['_img']) or (w and len(w & wb) / max(1, min(len(w), len(wb))) > 0.45): dup = True; break
+        if not dup: a['_img'], a['_w'] = img, w; keep.append(a)
+    for a in keep: a.pop('_img'); a.pop('_w')
+    return keep
+
 def tag_for(text, default):
     t = text.lower()
     for name, rx in TAGS:
@@ -107,6 +129,7 @@ def news():
                         'tags': [tag_for(title + ' ' + summ, field)], 'date': d.date().isoformat(), 'ts': d.isoformat()})
         print(src, n)
     out.sort(key=lambda a: a['ts'], reverse=True)
+    out = dedupe(out)
     # interleave so one source can't dominate the top of the feed
     res, by = [], {}
     for a in out: by.setdefault(a['source'], []).append(a)
@@ -121,12 +144,12 @@ def ai_news():
         try: f = feedparser.parse(get(url))
         except Exception as ex: print('ai feed fail', src, ex, file=sys.stderr); continue
         n = 0
-        for e in f.entries[:25]:
-            if n >= 2: break
+        for e in f.entries[:40]:
+            if n >= AI_PER_SOURCE: break
             link, title = e.get('link'), clean(e.get('title'))
             if not link or not title or title.lower() in seen: continue
             summ = short(clean(e.get('summary') or ''.join(c.get('value', '') for c in e.get('content', []))))
-            official = src in ('Hugging Face', 'OpenAI', 'Google DeepMind')
+            official = src in ('Hugging Face', 'OpenAI', 'Google DeepMind', 'Google AI')
             if len(summ) < 40 and official and re.search(AI_GOOD, title.lower()): summ = short(og_desc(link))
             text = (title + ' ' + summ).lower()
             if len(re.findall(AI_GOOD, text)) < (1 if official else 2) or re.search(AI_BAD, title.lower()): continue
@@ -141,7 +164,7 @@ def ai_news():
                         'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
         print('AI', src, n)
     out.sort(key=lambda a: a['ts'], reverse=True)
-    return out[:AI_TOTAL]
+    return dedupe(out)[:AI_TOTAL]
 
 BG_IDS = [  # hand-picked real public-domain NASA space imagery (no ground/lab photos, no artist concepts)
  'PIA04921', 'PIA15985', 'PIA18164', 'PIA23122', 'PIA03606', 'PIA12348', 'PIA22568', 'PIA17563',

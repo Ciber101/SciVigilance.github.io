@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', () => {
   loadShorts();
   loadBackground();
   if (document.getElementById('archiveList')) loadArchive();
+  if (document.getElementById('allNewsGrid') || document.getElementById('allAiGrid')) loadFullList();
+  window.addEventListener('resize', clampRows);
 });
 
 /* ---------- Nav toggle ---------- */
@@ -116,6 +118,7 @@ async function loadDigest() {
     list.forEach(a => ai.appendChild(makeCard(a)));
     currentArticles = currentArticles.concat(list);
   }
+  clampRows();
 }
 
 function showEmpty(el) {
@@ -229,6 +232,46 @@ async function loadBackground() {
   show();
   if (slides.length > 1 && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     setInterval(() => { i = (i + 1) % slides.length; show(); }, 15000);
+  }
+}
+
+/* ---------- Front page: show 2 rows per grid ---------- */
+function clampRows() {
+  ['digestGrid', 'aiGrid'].forEach(id => {
+    const g = document.getElementById(id);
+    if (!g) return;
+    const cols = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
+    [...g.querySelectorAll('.card')].forEach((c, i) => { c.hidden = i >= cols * 2; });
+  });
+}
+
+/* ---------- Full news / AI pages ---------- */
+async function loadFullList() {
+  const grid = document.getElementById('allNewsGrid') || document.getElementById('allAiGrid');
+  const isAi = grid.id === 'allAiGrid';
+  let data;
+  try { data = await (await fetch('data/latest.json')).json(); } catch (e) {
+    grid.innerHTML = '<div class="empty-state"><div class="icon">📡</div><h3>Feed unavailable.</h3><p>Please check back shortly.</p></div>'; return;
+  }
+  const list = isAi ? (data.ai || []) : (data.articles || []).filter(a => !(a.tags || []).includes('AI'));
+  currentArticles = list;
+  const count = document.getElementById('pageCount');
+  if (count) count.textContent = `${list.length} stories · updated ${data.date || ''}`;
+  const render = tag => {
+    grid.innerHTML = '';
+    list.filter(a => !tag || (a.tags || []).includes(tag)).forEach(a => grid.appendChild(makeCard(a)));
+  };
+  render('');
+  const chips = document.getElementById('chips');
+  const tags = [...new Set(list.flatMap(a => a.tags || []))];
+  if (chips && !isAi && tags.length > 1) {
+    chips.hidden = false;
+    chips.innerHTML = ['All', ...tags].map((t, i) => `<button type="button" class="chip${i ? '' : ' on'}" data-tag="${i ? escapeHtml(t) : ''}">${escapeHtml(t)}</button>`).join('');
+    chips.addEventListener('click', e => {
+      const b = e.target.closest('.chip'); if (!b) return;
+      chips.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
+      render(b.dataset.tag);
+    });
   }
 }
 

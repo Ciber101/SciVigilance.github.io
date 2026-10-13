@@ -36,6 +36,8 @@
       <nav aria-label="Primary">
         <ul class="nav-links" id="navLinks">
           <li><a href="index.html" class="active" aria-current="page">Digest</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="ai.html">AI</a></li>
           <li><a href="archive.html">Archive</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="newsletter.html">Newsletter</a></li>
@@ -76,16 +78,17 @@
             <h2>The Daily Signal</h2>
             <p id="digestTagline">Loading today's stories…</p>
           </div>
-          <a href="archive.html" class="link-more">View Archive →</a>
+          <a href="news.html" class="link-more">All science news →</a>
         </div>
         <div class="digest-grid" id="digestGrid">
-          <!-- Cards injected by JS -->
+
           <div class="empty-state" id="digestEmpty" hidden>
             <div class="icon" aria-hidden="true">📡</div>
             <h3>No digest yet.</h3>
             <p>The news feed could not be loaded right now. Please check back shortly.</p>
           </div>
         </div>
+        <a href="news.html" class="see-all" id="seeAllNews">See all science news <span class="arr" aria-hidden="true">↓</span></a>
       </div>
     </section>
 
@@ -98,6 +101,7 @@
           <p>New frontier and open-weight models — from the big labs to the ones you can run locally — each linked to its source.</p>
         </div>
         <div class="digest-grid" id="aiGrid"></div>
+        <a href="ai.html" class="see-all">See all AI news <span class="arr" aria-hidden="true">↓</span></a>
       </div>
     </section>
 
