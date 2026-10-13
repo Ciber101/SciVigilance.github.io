@@ -22,6 +22,6 @@ for p in raw.get('data', []):
                 'image': next((i for i in imgs if i), None),
                 'truncated': not re.search(r'[.!?)"\u2019\u201d]$|#\w+$', text),
                 'url': 'https://x.com/SciVigil/status/' + p['id']})
-json.dump({'handle': 'SciVigil', 'name': 'Science in 280', 'posts': out[:6]},
+json.dump({'handle': 'SciVigil', 'name': 'Science in 280', 'posts': out[:50]},
           open(os.path.join(ROOT, 'data', 'xposts.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-print('xposts', len(out[:6]))
+print('xposts', len(out[:50]))

@@ -183,7 +183,7 @@ function buildTicker(articles) {
 
 /* ---------- Latest from X (@SciVigil) ---------- */
 async function loadX() {
-  const grid = document.getElementById('xGrid');
+  const grid = document.getElementById('xGrid') || document.getElementById('allPostsGrid');
   if (!grid) return;
   const empty = document.getElementById('xEmpty');
   let data;
@@ -206,6 +206,9 @@ async function loadX() {
       </div>`;
     grid.appendChild(el);
   });
+  const count = document.getElementById('pageCount');
+  if (count && grid.id === 'allPostsGrid') count.textContent = `${posts.length} posts`;
+  clampRows();
 }
 
 /* ---------- Featured accounts (@elonmusk tech/AI/science only, @SpaceX originals) ---------- */
@@ -294,7 +297,7 @@ async function loadBackground() {
 
 /* ---------- Front page: show 2 rows per grid ---------- */
 function clampRows() {
-  ['digestGrid', 'aiGrid', 'featuredGrid', 'shortsGrid'].forEach(id => {
+  ['digestGrid', 'aiGrid', 'xGrid', 'featuredGrid', 'shortsGrid'].forEach(id => {
     const g = document.getElementById(id);
     if (!g) return;
     const cols = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
