@@ -70,12 +70,56 @@ def row(title, url, summary="", meta="", num=None):
             + (f'<div style="color:{ACC};font-size:12px;margin-top:3px;">{e(meta)}</div>' if meta else "")
             + '</td></tr></table></td></tr>')
 
-def xrow(name, text, url):
-    return (f'<tr><td class="sv-pad" style="padding:8px 24px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0">'
-            f'<tr><td style="background:{CARD};border-left:3px solid {ACC};padding:12px 14px;border-radius:4px;">'
-            f'<div style="color:{ACC};font-size:12px;font-weight:700;">{e(name)}</div>'
-            f'<div style="color:{TXT};font-size:14px;line-height:1.5;margin-top:4px;">{e(one_line(text, 220))}</div>'
-            f'<a href="{e(url)}" style="color:{ACC};font-size:12px;">View on X &rarr;</a></td></tr></table></td></tr>')
+def avatar_abs(path_or_url, handle=""):
+    """Absolute https avatar URL for email clients."""
+    if path_or_url and str(path_or_url).startswith("http"):
+        return str(path_or_url).replace("_normal.", "_400x400.")
+    if path_or_url:
+        return SITE.rstrip("/") + "/" + str(path_or_url).lstrip("/")
+    if handle:
+        # public X CDN fallback via unavatar (redirects to profile image)
+        return f"https://unavatar.io/x/{handle}?fallback=false"
+    return SITE.rstrip("/") + "/img/scivigil-avatar.jpg"
+
+def fmt_x_date(ts):
+    try:
+        dt = datetime.fromisoformat(str(ts).replace("Z", "+00:00")).astimezone()
+        # 10:14 AM · Oct 13, 2026  (matches Shorts X-card)
+        return dt.strftime("%I:%M %p · %b %-d, %Y").lstrip("0").replace(" 0", " ")
+    except Exception:
+        return ""
+
+def xrow(name, handle, text, url, avatar="", date=""):
+    """Email-safe X-style card: round avatar, name, @handle, X mark, body, date."""
+    av = avatar_abs(avatar, handle)
+    handle_disp = handle if str(handle).startswith("@") else f"@{handle}"
+    when = fmt_x_date(date) if date else ""
+    body = e(one_line(text, 280))
+    return (
+        f'<tr><td class="sv-pad" style="padding:8px 24px;">'
+        f'<a href="{e(url)}" style="text-decoration:none;color:inherit;display:block;">'
+        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="'
+        f'background:#101218;border:1px solid #383c46;border-radius:16px;">'
+        f'<tr><td style="padding:14px 16px 12px;">'
+        # header: avatar | name/handle | X
+        f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0"><tr>'
+        f'<td width="48" valign="top" style="padding-right:10px;">'
+        f'<img src="{e(av)}" alt="" width="40" height="40" style="display:block;width:40px;height:40px;'
+        f'border-radius:50%;border:0;"></td>'
+        f'<td valign="middle">'
+        f'<div style="color:{TXT};font-size:14px;font-weight:700;line-height:1.2;">{e(name)}</div>'
+        f'<div style="color:#828896;font-size:13px;line-height:1.3;margin-top:2px;">{e(handle_disp)}</div>'
+        f'</td>'
+        f'<td width="28" valign="top" align="right" style="color:{TXT};font-size:18px;font-weight:800;'
+        f'font-family:Helvetica,Arial,sans-serif;padding-top:2px;">X</td>'
+        f'</tr></table>'
+        # body
+        f'<div style="color:{TXT};font-size:14px;line-height:1.5;margin-top:12px;">{body}</div>'
+        + (f'<div style="color:#828896;font-size:12px;margin-top:10px;padding-top:10px;'
+           f'border-top:1px solid #383c46;">{e(when)}</div>' if when else
+           f'<div style="color:#828896;font-size:12px;margin-top:10px;">View on X &rarr;</div>')
+        + f'</td></tr></table></a></td></tr>'
+    )
 
 def build():
     latest = load("latest.json", {})
@@ -108,11 +152,13 @@ def build():
 
     # 4. Voices: Elon + one other agency/rocket company post
     elon = ((accts.get("elonmusk") or {}).get("posts") or [None])[0]
-    other = None
+    other = None  # (handle, display_name, post)
     for h in ["NASA", "blueorigin", "esa", "RocketLab", "ulalaunch", "isro", "Arianespace", "FireflySpace", "relativityspace"]:
         ps = [p for p in (accts.get(h) or {}).get("posts", []) if len(x_text(p["text"])) >= 50
               and not (spx and "Space_Station" in p["text"] and "Space_Station" in spx[0]["text"])]
-        if ps: other = (accts[h]["name"] if accts[h].get("name") else h, ps[0]); break
+        if ps:
+            other = (h, accts[h]["name"] if accts[h].get("name") else h, ps[0])
+            break
 
     # 5. @SciVigil: this week's science posts, no job ads / Short promos
     best = [p for p in mine if age_days(p.get("created_at")) <= 7 and not BAD_X.search(p.get("text", ""))]
@@ -138,11 +184,20 @@ def build():
         rows += [row(a["title"], a["url"], one_line(a.get("summary")), a.get("source")) for a in space]
     if elon or other:
         rows.append(head("Voices on X"))
-        if elon: rows.append(xrow("Elon Musk", elon["text"], elon["url"]))
-        if other: rows.append(xrow(other[0], other[1]["text"], other[1]["url"]))
+        if elon:
+            ea = accts.get("elonmusk") or {}
+            rows.append(xrow(ea.get("name") or "Elon Musk", "elonmusk", elon["text"], elon["url"],
+                             ea.get("avatar", ""), elon.get("date")))
+        if other:
+            oh_handle, oh_name, op = other
+            oa = accts.get(oh_handle) or {}
+            rows.append(xrow(oh_name, oh_handle, op["text"], op["url"], oa.get("avatar", ""), op.get("date")))
     if best:
         rows.append(head("From @SciVigil"))
-        rows += [xrow("@SciVigil", p["text"], p.get("url") or f'{XURL}/status/{p["id"]}') for p in best]
+        sci_av = "img/scivigil-avatar.jpg"
+        rows += [xrow("SciVigil", "SciVigil", p["text"],
+                      p.get("url") or f'{XURL}/status/{p["id"]}',
+                      sci_av, p.get("created_at")) for p in best]
     if shorts:
         rows.append(head("Top Shorts"))
         cells = ""
