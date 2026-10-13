@@ -10,7 +10,7 @@ BLOCK = r'\b(democrat\w*|republican\w*|trump|biden|harris|election\w*|vote\w*|vo
 PROMO = r'\b(giveaway|merch|shop|store|discount|sale|apply|careers?|hiring|job|jobs|internship|sweepstakes|contest|sponsored|ticket\w*|subscribe|podcast|webinar|recruit\w*)\b'
 import datetime
 CUTOFF = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)).isoformat()
-FLUFF = r'(happy|birthday|festival|solar term|thank you|thanks to|congrat\w*|agrees|anniversary|holiday|what a week|world space week|public day|day \d of|merci|joyeux|bonne f[eê]te)'
+FLUFF = r'(happy|birthday|festival|solar term|thank you|thanks to|congrat\w*|agrees|anniversary|holiday|what a week|wish\w*|come and chat|visit us|booth|world space week|public day|day \d of|merci|joyeux|bonne f[eê]te)'
 def clean(t):
     t = re.sub(r'\s*https://t\.co/\w+', '', t)
     return re.sub(r'\n{3,}', '\n\n', t).strip()
