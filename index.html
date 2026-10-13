@@ -9,7 +9,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='42' fill='%23f5a623'/></svg>">
+  <link rel="icon" type="image/jpeg" href="img/scivigil-avatar.jpg">
+  <link rel="apple-touch-icon" href="img/scivigil-avatar.jpg">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="SciVigilance">
   <meta property="og:title" content="SciVigilance — The Daily Signal">
@@ -29,7 +30,7 @@
   <header class="site-header">
     <div class="container nav-wrap">
       <a href="index.html" class="brand" aria-label="SciVigilance home">
-        <span class="mark" aria-hidden="true"></span>
+        <img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34">
         <span class="name">Sci<b>Vigilance</b></span>
       </a>
       <nav aria-label="Primary">
@@ -130,38 +131,6 @@
       </div>
     </section>
 
-    <!-- MISSION CLOCK (flagship JS interaction) -->
-    <section id="mission-clock" aria-label="Mission telemetry panel">
-      <div class="container">
-        <div class="section-head">
-          <span class="kicker">Mission Telemetry</span>
-          <h2>Orbital status, in real time</h2>
-          <p>Live clock, lunar distance estimate, and a rotating orbital diagram — computed in your browser. No backend, just math.</p>
-        </div>
-        <div class="telemetry-panel" id="telemetryPanel" role="img" aria-label="Orbital diagram showing Earth and Moon positions with live UTC clock">
-          <canvas id="orbitalCanvas" width="800" height="300"></canvas>
-          <div class="telemetry-readouts">
-            <div class="readout">
-              <span class="label">UTC</span>
-              <span class="value mono" id="utcClock">--:--:--</span>
-            </div>
-            <div class="readout">
-              <span class="label">Mission Day</span>
-              <span class="value" id="missionDay">—</span>
-            </div>
-            <div class="readout">
-              <span class="label">Lunar Distance</span>
-              <span class="value mono" id="lunarDist">— km</span>
-            </div>
-            <div class="readout">
-              <span class="label">Signal</span>
-              <span class="value" id="signalStatus">● NOMINAL</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- NEWSLETTER CTA -->
     <section class="tight" aria-label="Newsletter signup">
       <div class="container">
@@ -186,7 +155,7 @@
       <div class="footer-grid">
         <div class="footer-brand">
           <a href="index.html" class="brand" aria-label="SciVigilance home">
-            <span class="mark" aria-hidden="true"></span>
+            <img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34">
             <span class="name">Sci<b>Vigilance</b></span>
           </a>
           <p>The daily signal from the edge of everything we know. Space, science, and the missions pushing the frontier.</p>

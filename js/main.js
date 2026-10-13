@@ -9,7 +9,6 @@ document.addEventListener('DOMContentLoaded', () => {
   loadX();
   loadShorts();
   loadBackground();
-  initTelemetry();
   if (document.getElementById('archiveList')) loadArchive();
 });
 
@@ -54,7 +53,7 @@ function initStarfield() {
       a: Math.random() * 0.7 + 0.25,
       tw: Math.random() * 0.02 + 0.005,
       ph: Math.random() * Math.PI * 2,
-      hue: Math.random() < 0.12 ? 45 : (Math.random() < 0.5 ? 185 : 0),
+      hue: Math.random() < 0.5 ? 185 : 0,
     }));
   }
 
@@ -231,120 +230,6 @@ async function loadBackground() {
   if (slides.length > 1 && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
     setInterval(() => { i = (i + 1) % slides.length; show(); }, 15000);
   }
-}
-
-/* ---------- Mission telemetry (flagship) ---------- */
-function initTelemetry() {
-  const canvas = document.getElementById('orbitalCanvas');
-  if (!canvas) return;
-  const ctx = canvas.getContext('2d');
-  let w, h, dpr;
-
-  function resize() {
-    dpr = Math.min(window.devicePixelRatio || 1, 2);
-    const rect = canvas.parentElement.getBoundingClientRect();
-    w = rect.width;
-    h = 300;
-    canvas.width = w * dpr;
-    canvas.height = h * dpr;
-    canvas.style.width = w + 'px';
-    canvas.style.height = h + 'px';
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-  }
-  resize();
-  window.addEventListener('resize', resize);
-
-  const earthR = 26;
-  const orbitR = () => Math.min(w * 0.4, 120);
-
-  // Approx lunar distance model (sine wave between 356,500 and 406,700 km)
-  function lunarKm(t) {
-    const mean = 384400;
-    var amp = 25100;
-    // ~27.55 day synodic-ish period for demo smoothness
-    const phase = (t / (27.55 * 864e5)) * Math.PI * 2;
-    return mean + amp * Math.sin(phase);
-  }
-
-  // Mission day since a fixed epoch (Artemis era kickoff)
-  const epoch = Date.UTC(2026, 0, 1);
-  function missionDay(now) {
-    return Math.floor((now.getTime() - epoch) / 864e5);
-  }
-
-  let angle = Math.random() * Math.PI * 2;
-  let last = performance.now();
-
-  function frame(now) {
-    const dt = (now - last) / 1000;
-    last = now;
-    ctx.clearRect(0, 0, w, h);
-    const cx = w * 0.5, cy = h * 0.5;
-    const R = orbitR();
-
-    // orbit ring
-    ctx.beginPath();
-    ctx.arc(cx, cy, R, 0, Math.PI * 2);
-    ctx.strokeStyle = 'rgba(36,48,73,0.9)';
-    ctx.lineWidth = 1;
-    ctx.setLineDash([4, 6]);
-    ctx.stroke();
-    ctx.setLineDash([]);
-
-    // earth
-    const eg = ctx.createRadialGradient(cx - 8, cy - 8, 4, cx, cy, earthR);
-    eg.addColorStop(0, '#6fb7ff');
-    eg.addColorStop(0.55, '#2f6fd0');
-    eg.addColorStop(1, '#12356b');
-    ctx.beginPath();
-    ctx.arc(cx, cy, earthR, 0, Math.PI * 2);
-    ctx.fillStyle = eg;
-    ctx.fill();
-    ctx.fillStyle = '#0b0f1a';
-    ctx.font = '600 11px "JetBrains Mono", monospace';
-    ctx.textAlign = 'center';
-    ctx.fillText('EARTH', cx, cy + earthR + 18);
-
-    // advance moon
-    angle += dt * 0.22;
-    const mx = cx + R * Math.cos(angle);
-    const my = cy + R * Math.sin(angle);
-    const mg = ctx.createRadialGradient(mx - 3, my - 3, 1, mx, my, 9);
-    mg.addColorStop(0, '#f5f1e8');
-    mg.addColorStop(1, '#9b958a');
-    ctx.beginPath();
-    ctx.arc(mx, my, 9, 0, Math.PI * 2);
-    ctx.fillStyle = mg;
-    ctx.fill();
-    ctx.fillStyle = '#5d6b85';
-    ctx.font = '600 10px "JetBrains Mono", monospace';
-    ctx.fillText('MOON', mx, my + 24);
-
-    // link
-    ctx.beginPath();
-    ctx.moveTo(cx, cy);
-    ctx.lineTo(mx, my);
-    ctx.strokeStyle = 'rgba(79,209,197,0.4)';
-    ctx.lineWidth = 1;
-    ctx.setLineDash([2, 4]);
-    ctx.stroke();
-    ctx.setLineDash([]);
-
-    // readouts
-    const d = new Date();
-    const utc = d.toISOString().slice(11, 19);
-    const md = document.getElementById('utcClock');
-    const mday = document.getElementById('missionDay');
-    const mdist = document.getElementById('lunarDist');
-    if (md) md.textContent = utc + ' UTC';
-    if (mday) mday.textContent = 'T+' + missionDay(d);
-    if (mdist) mdist.textContent = Math.round(lunarKm(d.getTime())).toLocaleString() + ' km';
-
-    if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      requestAnimationFrame(frame);
-    }
-  }
-  requestAnimationFrame(frame);
 }
 
 /* ---------- Archive ---------- */
