@@ -896,3 +896,4 @@ body { background: transparent; }
 .filter-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 22px; }
 .chip { font: 600 .82rem var(--font-body); padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line); background: rgba(17,24,39,.85); color: var(--text-dim); cursor: pointer; }
 .chip.on, .chip:hover { border-color: var(--amber); color: var(--amber); }
+.x-card > img:not(.x-av) { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }

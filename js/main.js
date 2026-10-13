@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initStarfield();
   loadDigest();
   loadX();
+  loadFeatured();
   loadShorts();
   loadBackground();
   if (document.getElementById('archiveList')) loadArchive();
@@ -201,6 +202,30 @@ async function loadX() {
       </div>`;
     grid.appendChild(el);
   });
+}
+
+/* ---------- Featured accounts (@elonmusk tech/AI/science only, @SpaceX originals) ---------- */
+async function loadFeatured() {
+  const grid = document.getElementById('featuredGrid');
+  if (!grid) return;
+  let d;
+  try { d = await (await fetch('data/xfeatured.json')).json(); } catch (e) { return; }
+  const cards = [];
+  (d.accounts || []).forEach(acc => (acc.posts || []).forEach(p => cards.push({ acc, p })));
+  if (!cards.length) return;
+  cards.sort((a, b) => (b.p.date || '').localeCompare(a.p.date || ''));
+  grid.innerHTML = cards.map(({ acc, p }) => {
+    const when = p.date ? new Date(p.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+    const text = escapeHtml(p.text || '').replace(/(^|\s)([#@]\w+)/g, '$1<span class="ht">$2</span>');
+    return `<article class="social-card x-card">
+      <div class="x-head"><img class="x-av" src="${safeUrl(acc.avatar)}" alt="@${escapeHtml(acc.handle)} profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(acc.name)}</b><span>@${escapeHtml(acc.handle)}</span></span></div>
+      <p class="text">${text}</p>
+      ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
+      ${p.quoted ? '<span class="x-link">Quoted a post · see it on X</span>' : ''}
+      <div class="foot"><span class="label">${escapeHtml(when)}</span><a class="ext" href="${safeUrl(p.url)}" target="_blank" rel="noopener">View on X ↗</a></div>
+    </article>`;
+  }).join('');
+  grid.closest('section').hidden = false;
 }
 
 /* ---------- Latest YouTube Shorts ---------- */

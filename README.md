@@ -27,3 +27,4 @@ Serve the folder with any static server, e.g. `python -m http.server` or `npx se
 - `scripts/update_x.py` rebuilds `data/xposts.json` (Latest from X) from the committed `data/x_raw.json` (X reads need auth, so that file is refreshed outside Actions).
 - `data/shorts.json` lists the latest YouTube Shorts.
 - `.github/workflows/daily-update.yml` runs both scripts daily and commits the data. No secrets needed.
+- `scripts/update_x_featured.py` builds `data/xfeatured.json` (front-page "Frontier Voices": @elonmusk tech/AI/science posts only, @SpaceX originals) from the committed `data/x_raw_featured.json`.
