@@ -6,7 +6,9 @@ document.addEventListener('DOMContentLoaded', () => {
   initNavToggle();
   initStarfield();
   loadDigest();
-  loadSocial();
+  loadX();
+  loadShorts();
+  loadBackground();
   initTelemetry();
   if (document.getElementById('archiveList')) loadArchive();
 });
@@ -83,12 +85,6 @@ function initStarfield() {
   }
 }
 
-/* ---------- X share / open helpers ---------- */
-function shareOnX(article) {
-  const url = article.shareUrl ||
-    `https://twitter.com/intent/tweet?text=${encodeURIComponent(article.title)}&url=${encodeURIComponent(location.origin + '/' + article.url)}`;
-  window.open(url, '_blank', 'noopener,width=600,height=520');
-}
 
 /* ---------- Digest ---------- */
 async function loadDigest() {
@@ -111,6 +107,7 @@ async function loadDigest() {
   if (!articles.length) { showEmpty(empty); return; }
 
   grid.querySelectorAll('.card').forEach(c => c.remove());
+  currentArticles = articles;
   articles.forEach(a => grid.appendChild(makeCard(a)));
   buildTicker(articles);
 }
@@ -123,30 +120,42 @@ function makeCard(a) {
   const card = document.createElement('article');
   card.className = 'card';
   const tag = (a.tags && a.tags[0]) || '';
+  const url = safeUrl(a.url);
   card.innerHTML = `
-    <a href="${a.url}" class="thumb" tabindex="-1" aria-hidden="true">
-      <img src="${a.image}" alt="${escapeHtml(a.title)}" loading="lazy">
-      ${a.demo ? '<span class="badge-demo">Sample</span>' : ''}
+    <a href="${url}" class="thumb" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
+      <img src="${safeUrl(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       ${tag ? `<span class="badge-tag">${escapeHtml(tag)}</span>` : ''}
     </a>
     <div class="body">
-      <div class="meta"><span class="time">${a.date || ''}</span><span>·</span><span>${a.readTime || '—'}</span></div>
-      <h3><a href="${a.url}">${escapeHtml(a.title)}</a></h3>
+      <div class="meta"><span class="time">${escapeHtml(a.date || '')}</span><span>·</span><span>${escapeHtml(a.source || '')}</span></div>
+      <h3><a href="${url}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
       <p class="summary">${escapeHtml(a.summary || '')}</p>
-      <div class="tags">${(a.tags || []).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}</div>
       <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:4px;">
-        <a href="${a.url}" class="read">Read story <span aria-hidden="true">→</span></a>
-        <button class="btn btn-ghost share-btn" data-id="${a.id}" style="padding:6px 12px;font-size:0.78rem;" aria-label="Share on X">
+        <a href="${url}" class="read" target="_blank" rel="noopener">Read at ${escapeHtml(a.source || 'source')} <span aria-hidden="true">↗</span></a>
+        <button class="btn btn-ghost share-btn" style="padding:6px 12px;font-size:0.78rem;" aria-label="Share on X">
           <svg viewBox="0 0 24 24" width="13" height="13" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg> Share
         </button>
       </div>
     </div>`;
-  card.querySelector('.share-btn').addEventListener('click', (e) => {
-    e.preventDefault();
-    const art = currentArticles.find(x => x.id === a.id);
-    if (art) shareOnX(art);
-  });
   return card;
+}
+
+function shareOnX(a) {
+  const u = `https://twitter.com/intent/tweet?text=${encodeURIComponent(a.title + ' via @SciVigil')}&url=${encodeURIComponent(a.url)}`;
+  window.open(u, '_blank', 'noopener,width=600,height=520');
+}
+document.addEventListener('click', e => {
+  const b = e.target.closest('.share-btn');
+  if (!b) return;
+  e.preventDefault();
+  const link = b.closest('.card').querySelector('h3 a');
+  const art = currentArticles.find(x => x.url === link.href);
+  if (art) shareOnX(art);
+});
+
+function safeUrl(u) {
+  u = String(u || '');
+  return /^https?:\/\//i.test(u) || /^[\w./-]+$/.test(u) ? escapeHtml(u) : '#';
 }
 
 let currentArticles = [];
@@ -158,41 +167,63 @@ function buildTicker(articles) {
   track.innerHTML = items + items; // duplicate for seamless loop
 }
 
-/* ---------- Social ---------- */
-async function loadSocial() {
-  const grid = document.getElementById('socialGrid');
-  const empty = document.getElementById('socialEmpty');
+/* ---------- Latest from X (@SciVigil) ---------- */
+async function loadX() {
+  const grid = document.getElementById('xGrid');
   if (!grid) return;
+  const empty = document.getElementById('xEmpty');
   let data;
-  try {
-    const res = await fetch('data/social.json');
-    data = await res.json();
-  } catch (e) {
-    showEmpty(empty);
-    return;
-  }
-  const items = data.highlights || [];
-  if (!items.length) { showEmpty(empty); return; }
-  grid.querySelectorAll('.social-card').forEach(c => c.remove());
-  items.forEach(s => grid.appendChild(makeSocialCard(s)));
+  try { data = await (await fetch('data/xposts.json')).json(); } catch (e) { showEmpty(empty); return; }
+  const posts = data.posts || [];
+  if (!posts.length) { showEmpty(empty); return; }
+  posts.forEach(p => {
+    const el = document.createElement('article');
+    el.className = 'social-card x-card';
+    const text = escapeHtml(p.text || '').replace(/(^|\s)(#\w+)/g, '$1<span class="ht">$2</span>');
+    const when = p.date ? new Date(p.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+    el.innerHTML = `
+      <div class="x-head"><span class="x-av" aria-hidden="true"></span><span class="x-name"><b>${escapeHtml(data.name || 'SciVigil')}</b><span>@${escapeHtml(data.handle || 'SciVigil')}</span></span></div>
+      <p class="text">${text}${p.truncated ? '…' : ''}</p>
+      ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
+      ${p.link ? `<a class="x-link" href="${safeUrl(p.link)}" target="_blank" rel="noopener">🔗 Source link</a>` : ''}
+      <div class="foot">
+        <span class="label">${escapeHtml(when)}</span>
+        <a class="ext" href="${safeUrl(p.url)}" target="_blank" rel="noopener">${p.truncated ? 'Read on X' : 'View on X'} ↗</a>
+      </div>`;
+    grid.appendChild(el);
+  });
 }
 
-function makeSocialCard(s) {
-  const el = document.createElement('div');
-  el.className = 'social-card';
-  el.innerHTML = `
-    <div class="src">
-      <span class="org">${escapeHtml(s.org)}${s.demo ? ' · Sample' : ''}</span>
-      <span class="handle">${escapeHtml(s.handle || '')}</span>
-    </div>
-    <p class="text">${escapeHtml(s.text || '')}</p>
-    <div class="foot">
-      <span class="label">Highlight</span>
-      <a class="ext" href="${s.link}" target="_blank" rel="noopener">View on X
-        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21.174 6.812a1 1 0 0 0-.292-.707l-5.586-5.586a1 1 0 0 0-1.414 1.414l3.98 3.98L1.707 19.308a1 1 0 0 0 1.414 1.414L18.38 15.534l3.98 3.98a1 1 0 0 0 1.414-1.414z"/></svg>
-      </a>
-    </div>`;
-  return el;
+/* ---------- Latest YouTube Shorts ---------- */
+async function loadShorts() {
+  const grid = document.getElementById('shortsGrid');
+  if (!grid) return;
+  try {
+    const d = await (await fetch('data/shorts.json')).json();
+    grid.innerHTML = (d.shorts || []).slice(0, 6).map(v => `
+      <div class="short-card"><div class="frame"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}" title="${escapeHtml(v.title)}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      <p><a href="https://www.youtube.com/shorts/${encodeURIComponent(v.id)}" target="_blank" rel="noopener">${escapeHtml(v.title)}</a></p></div>`).join('');
+  } catch (e) { grid.closest('section').hidden = true; }
+}
+
+/* ---------- Daily NASA background ---------- */
+async function loadBackground() {
+  const box = document.getElementById('bgSlides');
+  if (!box) return;
+  let L;
+  try { L = await (await fetch('data/backgrounds.json')).json(); } catch (e) { return; }
+  if (!L || !L.length) return;
+  box.innerHTML = L.map(b => `<div style="background-image:url('${safeUrl(b.image)}')"></div>`).join('');
+  const slides = [...box.children], credit = document.getElementById('bgCredit');
+  let i = 0;
+  const show = () => {
+    slides.forEach((e, j) => e.classList.toggle('on', j === i));
+    if (credit) credit.innerHTML = `Background: <a href="${safeUrl(L[i].credit_url)}" target="_blank" rel="noopener">${escapeHtml(L[i].credit)}</a>`;
+  };
+  show();
+  if (slides.length > 1 && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    setInterval(() => { i = (i + 1) % slides.length; show(); }, 15000);
+  }
 }
 
 /* ---------- Mission telemetry (flagship) ---------- */
@@ -293,14 +324,14 @@ function initTelemetry() {
     ctx.setLineDash([]);
 
     // readouts
-    const now = new Date();
-    const utc = now.toISOString().slice(11, 19);
+    const d = new Date();
+    const utc = d.toISOString().slice(11, 19);
     const md = document.getElementById('utcClock');
     const mday = document.getElementById('missionDay');
     const mdist = document.getElementById('lunarDist');
     if (md) md.textContent = utc + ' UTC';
-    if (mday) mday.textContent = 'T+' + missionDay(now);
-    if (mdist) mdist.textContent = Math.round(lunarKm(now.getTime())).toLocaleString() + ' km';
+    if (mday) mday.textContent = 'T+' + missionDay(d);
+    if (mdist) mdist.textContent = Math.round(lunarKm(d.getTime())).toLocaleString() + ' km';
 
     if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
       requestAnimationFrame(frame);
@@ -326,14 +357,15 @@ async function loadArchive() {
     wrap.innerHTML = '<div class="empty-state"><div class="icon">📡</div><h3>No archive yet.</h3><p>Past digests will appear here once the feed is live.</p></div>';
     return;
   }
+  currentArticles = articles;
   const byDate = {};
   articles.forEach(a => { (byDate[a.date || 'undated'] = byDate[a.date || 'undated'] || []).push(a); });
   const dates = Object.keys(byDate).sort().reverse();
   wrap.innerHTML = dates.map(d => `
     <div class="archive-day">
-      <h3 class="archive-date"><span class="cal">${escapeHtml(d)}</span>${data.isDemo ? ' · Sample day' : ''}</h3>
+      <h3 class="archive-date"><span class="cal">${escapeHtml(d)}</span></h3>
       <div class="digest-grid">
-        ${byDate[d].map(a => makeCard(a)).map(c => c.outerHTML).join('')}
+        ${byDate[d].map(a => makeCard(a).outerHTML).join('')}
       </div>
     </div>`).join('');
 }

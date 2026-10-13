@@ -1,77 +1,241 @@
 {
-  "date": "2026-09-09",
-  "tagline": "Five signals from the deep field, the Moon, and the collider ring.",
-  "isDemo": true,
-  "articles": [
-    {
-      "id": "jwst-smallest-structures",
-      "title": "JWST Reveals the Smallest Structure It Has Ever Seen",
-      "summary": "In a new deep-field exposure, the James Webb Space Telescope resolves a compact stellar structure far beyond anything optical instruments have isolated — a glimpse at how the earliest galaxies began to assemble.",
-      "url": "articles/jwst-smallest-structures.html",
-      "tags": ["JWST", "Astronomy", "Cosmology"],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/NASA-JWST-FirstDeepField-20220712.png",
-      "imageCredit": "NASA, ESA, CSA, STScI",
-      "imageSource": "Wikimedia Commons",
-      "shareUrl": "https://twitter.com/intent/tweet?text=JWST%20Reveals%20the%20Smallest%20Structure%20It%20Has%20Ever%20Seen%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fjwst-smallest-structures.html",
-      "demo": true,
-      "readTime": "6 min",
-      "date": "2026-09-09"
-    },
-    {
-      "id": "artemis-landing-site",
-      "title": "Artemis Program Confirms Final Lunar Landing Site",
-      "summary": "NASA has locked in the coordinates for the next crewed lunar landing. The polar terrain chosen offers permanent shadowed craters rich in water ice and open sightlines for the coming lunar base.",
-      "url": "articles/artemis-landing-site.html",
-      "tags": ["Artemis", "Moon", "NASA"],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Artemis_II_Launch_%28NHQ202604010307%29.jpg",
-      "imageCredit": "NASA",
-      "imageSource": "Wikimedia Commons",
-      "shareUrl": "https://twitter.com/intent/tweet?text=Artemis%20Program%20Confirms%20Final%20Lunar%20Landing%20Site%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fartemis-landing-site.html",
-      "demo": true,
-      "readTime": "5 min",
-      "date": "2026-09-08"
-    },
-    {
-      "id": "cern-higgs-self-coupling",
-      "title": "CERN Reports Progress Toward Measuring the Higgs Self-Coupling",
-      "summary": "New data from the LHC brings the direct measurement of the Higgs boson's self-coupling within reach — a test that would confirm the shape of the Standard Model's most fundamental potential.",
-      "url": "articles/cern-higgs-self-coupling.html",
-      "tags": ["CERN", "Particle Physics", "Standard Model"],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Views_of_the_LHC_tunnel_sector_3-4%2C_tirage_2.jpg",
-      "imageCredit": "CERN",
-      "imageSource": "CERN (CC BY 4.0)",
-      "shareUrl": "https://twitter.com/intent/tweet?text=CERN%20Reports%20Progress%20Toward%20Measuring%20the%20Higgs%20Self-Coupling%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fcern-higgs-self-coupling.html",
-      "demo": true,
-      "readTime": "7 min",
-      "date": "2026-09-07"
-    },
-    {
-      "id": "perseverance-first-cores",
-      "title": "Perseverance Seals First Batch of Cored Samples on Mars",
-      "summary": "The rover has finished processing its earliest drill cores and sealed them into titanium tubes. Each sample carries a rock record from Jezero Crater — the payload at the center of the Mars Sample Return campaign.",
-      "url": "articles/perseverance-first-cores.html",
-      "tags": ["Mars", "Perseverance", "Planetary Science"],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/PIA25735-MarsPerseveranceRover-SelfPortrait%2BSampleTubes-20230122.jpg",
-      "imageCredit": "NASA/JPL-Caltech",
-      "imageSource": "Wikimedia Commons",
-      "shareUrl": "https://twitter.com/intent/tweet?text=Perseverance%20Seals%20First%20Batch%20of%20Cored%20Samples%20on%20Mars%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fperseverance-first-cores.html",
-      "demo": true,
-      "readTime": "5 min",
-      "date": "2026-09-06"
-    },
-    {
-      "id": "sd-coronal-mass-ejection",
-      "title": "Space Weather Watch: A Powerful Coronal Mass Ejection Clears the Sun",
-      "summary": "A major CME erupted from the sun's disk and is being tracked by NOAA and NASA. Forecasts for geomagnetic impact over the next 72 hours are now being issued for operators in high-latitude regions.",
-      "url": "articles/sd-coronal-mass-ejection.html",
-      "tags": ["Solar Physics", "Space Weather", "NOAA"],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/X3.2_Solar_flare_on_2013-05-14_at_four_wavelengths.jpg",
-      "imageCredit": "NASA/SDO",
-      "imageSource": "Wikimedia Commons",
-      "shareUrl": "https://twitter.com/intent/tweet?text=Space%20Weather%20Watch%3A%20A%20Powerful%20Coronal%20Mass%20Ejection%20Clears%20the%20Sun%20via%20%40SciVigil&url=https%3A%2F%2Fscivigilance.github.io%2Farticles%2Fsd-coronal-mass-ejection.html",
-      "demo": true,
-      "readTime": "4 min",
-      "date": "2026-09-05"
-    }
-  ]
+ "date": "2026-10-13",
+ "updated": "2026-10-13T16:03+00:00",
+ "tagline": "18 real stories from the frontier of science, each linked to its source.",
+ "articles": [
+  {
+   "id": "mushroom-derived-peptides-boost-saltiness-by-up-to-70-offeri",
+   "title": "Mushroom-derived peptides boost saltiness by up to 70%, offering a path to low-sodium foods",
+   "summary": "Scientists have found a way to make salt taste saltier without increasing its sodium content, a welcome development in the culinary world.",
+   "url": "https://phys.org/news/2026-10-mushroom-derived-peptides-boost-saltiness.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mushroom-derived-pepti.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:00:12+00:00"
+  },
+  {
+   "id": "a-duo-goes-against-the-tide-to-explain-an-origin-of-human-en",
+   "title": "A duo goes against the tide to explain an origin of human endurance",
+   "summary": "Theories that aquatic foraging drove human evolution have a fraught past. But the pair argue it granted stamina that other primates lack.",
+   "url": "https://www.sciencenews.org/article/origin-human-endurance-dive-evolution",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/093026_LP_swimthenrun_main.jpg?w=800",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T15:00:00+00:00"
+  },
+  {
+   "id": "cells-from-your-mother-could-stay-in-your-brain-your-whole-l",
+   "title": "Cells from your mother could stay in your brain your whole life",
+   "summary": "Most people seem to have cells that crossed the placenta from their mother into their developing brain in utero, even if they're now in their 80s",
+   "url": "https://www.newscientist.com/article/2593373-cells-from-your-mother-could-stay-in-your-brain-your-whole-life/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316444256.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T15:00:00+00:00"
+  },
+  {
+   "id": "nasa-jpl-testing-readies-voyager-technologies-lander-for-moo",
+   "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission",
+   "summary": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical tests at the agency’s Jet Propulsion Laboratory in Southern…",
+   "url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-pia26708-grifffin-tvac-wings.jpeg?w=1024",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T13:00:00+00:00"
+  },
+  {
+   "id": "mars-moon-lander-set-to-launch-on-19-october",
+   "title": "Mars moon lander set to launch on 19 October",
+   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026).",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T12:00:00+00:00"
+  },
+  {
+   "id": "james-webb-reveals-a-massive-cosmic-structure-that-challenge",
+   "title": "James Webb reveals a massive cosmic structure that challenges our understanding of the Universe",
+   "summary": "NASA’s James Webb Space Telescope has revealed an ancient galaxy cluster with an unexpectedly dense concentration of dark matter, challenging theories about how the universe developed.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261012185021.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/cluster-xlssc-122.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T11:27:24+00:00"
+  },
+  {
+   "id": "is-attention-the-essence-of-intelligence",
+   "title": "Is ‘Attention’ the Essence of Intelligence?",
+   "summary": "A mathematical mechanism enables AI models to process language at scale, undergirding the current AI revolution. Our columnist asks: Why is attention the key? The post Is ‘Attention’ the Essence of Intelligence? first…",
+   "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Attention-cr.Lisett-Ledon-Default.webp",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-12",
+   "ts": "2026-10-12T14:20:30+00:00"
+  },
+  {
+   "id": "powerful-x-rays-reveal-unexpected-roles-for-water-in-enzymes",
+   "title": "Powerful X-rays reveal unexpected roles for water in enzymes linked to cancer and penicillin",
+   "summary": "In biology, a group of enzymes called 2-oxoglutarate-dependent oxygenases is responsible for catalyzing a wide range of reactions that play a role in everything from how genetic code is used by cells to the synthesis of…",
+   "url": "https://phys.org/news/2026-10-powerful-rays-reveal-unexpected-roles.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/powerful-x-rays-reveal.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T15:40:25+00:00"
+  },
+  {
+   "id": "a-revolutionary-way-of-targeting-tumours-could-beat-even-the",
+   "title": "A revolutionary way of targeting tumours could beat even the worst cancers",
+   "summary": "We have long treated cancer based on its location in the body. But a whole new approach that analyses tumours differently is now helping people survive forms of cancer that were once considered a death sentence",
+   "url": "https://www.newscientist.com/article/2591348-a-revolutionary-way-of-targeting-tumours-could-beat-even-the-worst-cancers/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_315792197.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T15:00:00+00:00"
+  },
+  {
+   "id": "nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to",
+   "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+   "summary": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds…",
+   "url": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/nasa-spacex-35th-commercial-resupply-services-launch.png?w=1360",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T11:12:18+00:00"
+  },
+  {
+   "id": "what-happens-when-you-lose-your-voice",
+   "title": "What happens when you lose your voice?",
+   "summary": "Losing your voice can feel like losing part of yourself. Can voice-cloning technology help people find themselves again?",
+   "url": "https://www.sciencenews.org/article/deep-end-podcast-voice-communication",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100926_LS_TDE_S2E2_main.jpg?w=800",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T11:00:00+00:00"
+  },
+  {
+   "id": "scientists-uncover-a-hidden-map-of-the-brain-with-539-distin",
+   "title": "Scientists uncover a hidden map of the brain with 539 distinct regions",
+   "summary": "Scientists have uncovered a hidden layer of organization in the brain by creating the first detailed 3D map of its lipids, the fatty molecules essential for brain structure and communication.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261012185011.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/lipizones-in-mouse-brain.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T05:00:55+00:00"
+  },
+  {
+   "id": "how-does-life-unfold-a-landscape-metaphor-comes-into-its-own",
+   "title": "How Does Life Unfold? A Landscape Metaphor Comes Into Its Own.",
+   "summary": "C.H. Waddington’s powerful image of embryonic stem cells specializing on a rolling landscape has captivated biologists since the 1950s. Experimental data is finally confirming, and complicating, his visionary ideas.",
+   "url": "https://www.quantamagazine.org/how-does-life-unfold-a-landscape-metaphor-comes-into-its-own-20261009/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Waddington-cr.MarkBelan-Default.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-09",
+   "ts": "2026-10-09T14:03:07+00:00"
+  },
+  {
+   "id": "solar-orbiter-tracks-origin-of-mysterious-magnetic-switchbac",
+   "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+   "summary": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field.",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2022/05/solar_orbiter_at_perihelion_27_march_2022/24071526-1-eng-GB/Solar_Orbiter_at_perihelion_27_March_2022_card_full.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-08",
+   "ts": "2026-10-08T09:00:00+00:00"
+  },
+  {
+   "id": "newly-discovered-3d-chair-shape-can-fill-all-space-without-r",
+   "title": "Newly discovered 3D 'chair' shape can fill all space without repeating patterns",
+   "summary": "Software developer Ioannis Tsiokos has reported the discovery of a three-dimensional shape, which roughly resembles a chair, that can fill space infinitely without repeating a pattern.",
+   "url": "https://phys.org/news/2026-10-newly-3d-chair-space-patterns.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/newly-discovered-3d-ch.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T15:30:01+00:00"
+  },
+  {
+   "id": "the-land-s-ability-to-store-carbon-has-bounced-back-after-tw",
+   "title": "The land’s ability to store carbon has bounced back after two bad years",
+   "summary": "Carbon absorption by forests and grasslands bounced back in 2025 thanks to favourable growing conditions, but El Niño could lead to another sharp slump next year",
+   "url": "https://www.newscientist.com/article/2593284-the-land-carbon-sink-has-rebounded-strongly-after-two-terrible-years/?utm_campaign=RSS|NSNS&utm_content=home&utm_medium=RSS&utm_source=NSNS",
+   "source": "New Scientist",
+   "image": "https://www.newscientist.com/wp-content/uploads/2026/10/SEI_316419659.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T13:00:00+00:00"
+  },
+  {
+   "id": "apod-2026-october-13-desert-stairway-to-heaven",
+   "title": "APOD: 2026 October 13 – Desert Stairway to Heaven",
+   "summary": "APODScienceAPODAPOD: 2026 October 13 –…Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/Stairway2Heaven_Looten_6750.jpg?w=6750&#038;h=9000&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T04:05:00+00:00"
+  },
+  {
+   "id": "scientists-just-gave-the-powerhouses-of-our-cells-a-high-tec",
+   "title": "Scientists just gave the powerhouses of our cells a high-tech upgrade",
+   "summary": "Scientists have created a new coating for mitochondria that preserves their ability to produce energy, potentially opening the door to new treatments for diseases involving these tiny cellular powerhouses.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261012185008.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/mithocondria-coating.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T01:33:58+00:00"
+  }
+ ]
 }
