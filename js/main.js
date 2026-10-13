@@ -209,39 +209,67 @@ async function loadX() {
 }
 
 /* ---------- Featured accounts (@elonmusk tech/AI/science only, @SpaceX originals) ---------- */
+function featuredCard({ acc, p }) {
+  const when = p.date ? new Date(p.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+  const text = escapeHtml(p.text || '').replace(/(^|\s)([#@]\w+)/g, '$1<span class="ht">$2</span>');
+  return `<article class="social-card x-card" data-acc="${escapeHtml(acc.handle)}">
+    <div class="x-head"><img class="x-av" src="${safeUrl(acc.avatar)}" alt="@${escapeHtml(acc.handle)} profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(acc.name)}</b><span>@${escapeHtml(acc.handle)}</span></span></div>
+    <p class="text">${text}</p>
+    ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
+    ${p.quoted ? '<span class="x-link">Quoted a post · see it on X</span>' : ''}
+    <div class="foot"><span class="label">${escapeHtml(when)}</span><a class="ext" href="${safeUrl(p.url)}" target="_blank" rel="noopener">View on X ↗</a></div>
+  </article>`;
+}
+
 async function loadFeatured() {
-  const grid = document.getElementById('featuredGrid');
+  const grid = document.getElementById('featuredGrid') || document.getElementById('allVoicesGrid');
   if (!grid) return;
   let d;
   try { d = await (await fetch('data/xfeatured.json')).json(); } catch (e) { return; }
   const cards = [];
   (d.accounts || []).forEach(acc => (acc.posts || []).forEach(p => cards.push({ acc, p })));
-  if (!cards.length) return;
   cards.sort((a, b) => (b.p.date || '').localeCompare(a.p.date || ''));
-  grid.innerHTML = cards.map(({ acc, p }) => {
-    const when = p.date ? new Date(p.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
-    const text = escapeHtml(p.text || '').replace(/(^|\s)([#@]\w+)/g, '$1<span class="ht">$2</span>');
-    return `<article class="social-card x-card">
-      <div class="x-head"><img class="x-av" src="${safeUrl(acc.avatar)}" alt="@${escapeHtml(acc.handle)} profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(acc.name)}</b><span>@${escapeHtml(acc.handle)}</span></span></div>
-      <p class="text">${text}</p>
-      ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
-      ${p.quoted ? '<span class="x-link">Quoted a post · see it on X</span>' : ''}
-      <div class="foot"><span class="label">${escapeHtml(when)}</span><a class="ext" href="${safeUrl(p.url)}" target="_blank" rel="noopener">View on X ↗</a></div>
-    </article>`;
-  }).join('');
-  grid.closest('section').hidden = false;
+  if (grid.id === 'featuredGrid') {
+    if (!cards.length) return;
+    grid.innerHTML = cards.map(featuredCard).join('');
+    grid.closest('section').hidden = false;
+    clampRows();
+    return;
+  }
+  const count = document.getElementById('pageCount');
+  if (count) count.textContent = `${cards.length} posts from ${(d.accounts || []).length} accounts`;
+  if (!cards.length) { grid.innerHTML = '<div class="empty-state"><div class="icon">📡</div><h3>No recent posts.</h3><p>Check back soon.</p></div>'; return; }
+  grid.innerHTML = cards.map(featuredCard).join('');
+  const chips = document.getElementById('chips');
+  if (chips) {
+    chips.hidden = false;
+    chips.innerHTML = '<button type="button" class="chip on" data-acc="">All</button>' + (d.accounts || []).map(a => `<button type="button" class="chip" data-acc="${escapeHtml(a.handle)}">${escapeHtml(a.name)}</button>`).join('');
+    chips.addEventListener('click', e => {
+      const b = e.target.closest('.chip'); if (!b) return;
+      chips.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
+      grid.querySelectorAll('.x-card').forEach(c => { c.hidden = !!b.dataset.acc && c.dataset.acc !== b.dataset.acc; });
+    });
+  }
 }
 
 /* ---------- Latest YouTube Shorts ---------- */
 async function loadShorts() {
-  const grid = document.getElementById('shortsGrid');
+  const grid = document.getElementById('shortsGrid') || document.getElementById('allShortsGrid');
   if (!grid) return;
   try {
     const d = await (await fetch('data/shorts.json')).json();
-    grid.innerHTML = (d.shorts || []).slice(0, 6).map(v => `
+    const list = d.shorts || [];
+    if (!list.length) throw new Error('none');
+    grid.innerHTML = list.map(v => `
       <div class="short-card"><div class="frame"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}" title="${escapeHtml(v.title)}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
       <p><a href="https://www.youtube.com/shorts/${encodeURIComponent(v.id)}" target="_blank" rel="noopener">${escapeHtml(v.title)}</a></p></div>`).join('');
-  } catch (e) { grid.closest('section').hidden = true; }
+    const count = document.getElementById('pageCount');
+    if (count) count.textContent = `${list.length} Short${list.length === 1 ? '' : 's'}`;
+    clampRows();
+  } catch (e) {
+    if (grid.id === 'shortsGrid') grid.closest('section').hidden = true;
+    else grid.innerHTML = '<div class="empty-state"><div class="icon">📡</div><h3>No Shorts yet.</h3><p>Check back soon.</p></div>';
+  }
 }
 
 /* ---------- Daily NASA background ---------- */
@@ -266,11 +294,14 @@ async function loadBackground() {
 
 /* ---------- Front page: show 2 rows per grid ---------- */
 function clampRows() {
-  ['digestGrid', 'aiGrid'].forEach(id => {
+  ['digestGrid', 'aiGrid', 'featuredGrid', 'shortsGrid'].forEach(id => {
     const g = document.getElementById(id);
     if (!g) return;
     const cols = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
-    [...g.querySelectorAll('.card')].forEach((c, i) => { c.hidden = i >= cols * 2; });
+    const items = [...g.children].filter(c => !c.classList.contains('empty-state'));
+    items.forEach((c, i) => { c.hidden = i >= cols * 2; });
+    const more = document.querySelector(`.see-all[data-for="${id}"]`);
+    if (more) more.hidden = items.length <= cols * 2;
   });
 }
 
