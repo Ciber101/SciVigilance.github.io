@@ -277,7 +277,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   font-size: 0.8rem;
   color: var(--text-dim);
 }
-.ticker .track:hover { animation-play-state: paused; }
+.ticker:hover .track, .ticker .track:hover { animation-play-state: paused; }
 .ticker .track span b { color: var(--amber); font-weight: 600; }
 .ticker .track span::before { content: "◆ "; color: var(--cyan); margin-right: 6px; }
 @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }

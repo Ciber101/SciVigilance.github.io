@@ -175,6 +175,10 @@ function buildTicker(articles) {
   if (!track) return;
   const items = articles.map(a => `<span><b>${escapeHtml(a.tags && a.tags[0] || 'SIGNAL')}</b> ${escapeHtml(a.title)}</span>`).join('');
   track.innerHTML = items + items; // duplicate for seamless loop
+  // constant ~45px/s no matter how long the headline list is
+  const setSpeed = () => { const half = track.scrollWidth / 2; if (half > 0) track.style.animationDuration = Math.round(half / 45) + 's'; };
+  requestAnimationFrame(setSpeed);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(setSpeed);
 }
 
 /* ---------- Latest from X (@SciVigil) ---------- */
