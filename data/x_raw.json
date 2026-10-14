@@ -1,6 +1,50 @@
 {
   "data": [
     {
+      "created_at": "2026-10-14T04:01:19.000Z",
+      "edit_history_tweet_ids": [
+        "2110219375051747788"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 195,
+            "start": 175,
+            "tag": "CancerImmunotherapy"
+          },
+          {
+            "end": 218,
+            "start": 196,
+            "tag": "CardiovascularDisease"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Nature Communications - Immune checkpoint inhibitor (ICI)-induced myocarditis is a rare side effect of ICI therapy. Here the authors use multi-omics approaches to characterize the immune cells and...",
+            "display_url": "nature.com/articles/s4146…",
+            "end": 173,
+            "expanded_url": "https://www.nature.com/articles/s41467-026-77262-0",
+            "start": 150,
+            "status": 200,
+            "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
+            "unwound_url": "https://www.nature.com/articles/s41467-026-77262-0?error=cookies_not_supported&code=67cef1fc-5bdc-421a-8748-05c45e4f0c2b",
+            "url": "https://t.co/Tmx6eh36Wi"
+          }
+        ]
+      },
+      "id": "2110219375051747788",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Breakthrough study identifies unique immune signatures in checkpoint inhibitor-induced myocarditis, offering new diagnostic and therapeutic avenues.\n\nhttps://t.co/Tmx6eh36Wi\n\n#CancerImmunotherapy #CardiovascularDisease",
+      "url": "https://x.com/i/status/2110219375051747788"
+    },
+    {
       "created_at": "2026-10-14T01:01:41.000Z",
       "edit_history_tweet_ids": [
         "2110174167723393117"
@@ -47,7 +91,7 @@
       "id": "2110174167723393117",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 35,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -131,7 +175,7 @@
       "id": "2110158950540964263",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 3,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -187,7 +231,7 @@
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 6,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -383,7 +427,7 @@
       "id": "2110059902769205263",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 7,
+        "impression_count": 8,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -605,7 +649,7 @@
       "id": "2110057477454934399",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -661,7 +705,7 @@
       "id": "2110057018358935879",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -717,7 +761,7 @@
       "id": "2110056684295242230",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -828,7 +872,7 @@
       "id": "2110045728659878393",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -919,7 +963,6 @@
         ]
       },
       "id": "2107203693389238723",
-      "in_reply_to_user_id": "511402689",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 29,
@@ -953,7 +996,6 @@
         ]
       },
       "id": "2107132401692577990",
-      "in_reply_to_user_id": "147346374",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 29,
@@ -993,7 +1035,6 @@
         ]
       },
       "id": "2106799944992780566",
-      "in_reply_to_user_id": "1881451105454002176",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -1027,7 +1068,6 @@
         ]
       },
       "id": "2105372468286476403",
-      "in_reply_to_user_id": "194694215",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 959,
@@ -1061,7 +1101,6 @@
         ]
       },
       "id": "2104982260131012768",
-      "in_reply_to_user_id": "9624742",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 32,
@@ -1095,7 +1134,6 @@
         ]
       },
       "id": "2104705491171729481",
-      "in_reply_to_user_id": "4112496291",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 26,
@@ -1129,7 +1167,6 @@
         ]
       },
       "id": "2104705050660720672",
-      "in_reply_to_user_id": "3222018178",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 101,
@@ -1163,7 +1200,6 @@
         ]
       },
       "id": "2104610072471208349",
-      "in_reply_to_user_id": "1100064156504543233",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 10,
@@ -2064,51 +2100,12 @@
       ],
       "text": "@SpaceX @Starlink Congrats on adding 27 more to the constellation!",
       "url": "https://x.com/i/status/2091082262930694222"
-    },
-    {
-      "created_at": "2026-08-22T07:37:38.000Z",
-      "edit_history_tweet_ids": [
-        "2091067255388017111"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "34743251",
-            "start": 0,
-            "username": "SpaceX"
-          },
-          {
-            "end": 17,
-            "id": "1330170106501079041",
-            "start": 8,
-            "username": "Starlink"
-          }
-        ]
-      },
-      "id": "2091067255388017111",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 70,
-        "like_count": 3,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091061749084745979",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@SpaceX @Starlink Can't wait to see those 27 new Starlink satellites up there!",
-      "url": "https://x.com/i/status/2091067255388017111"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2110174167723393117",
-    "oldest_id": "2091067255388017111"
+    "newest_id": "2110219375051747788",
+    "oldest_id": "2091082262930694222"
   },
   "includes": {
     "tweets": [
@@ -2137,7 +2134,7 @@
         "id": "2108255757615738934",
         "public_metrics": {
           "bookmark_count": 913,
-          "impression_count": 405125,
+          "impression_count": 405433,
           "like_count": 13125,
           "quote_count": 398,
           "reply_count": 897,
@@ -2153,10 +2150,10 @@
         "id": "2108254023443009943",
         "public_metrics": {
           "bookmark_count": 1725,
-          "impression_count": 5234028,
-          "like_count": 50819,
+          "impression_count": 5235468,
+          "like_count": 50821,
           "quote_count": 2285,
-          "reply_count": 7161,
+          "reply_count": 7159,
           "retweet_count": 5049
         },
         "text": "America will establish a permanent presence on the moon. 🚀🌕"
@@ -2201,7 +2198,7 @@
         "id": "2106983467141509385",
         "public_metrics": {
           "bookmark_count": 2498,
-          "impression_count": 355430,
+          "impression_count": 355467,
           "like_count": 7832,
           "quote_count": 177,
           "reply_count": 244,
@@ -2242,7 +2239,7 @@
         "id": "2106547918098288708",
         "public_metrics": {
           "bookmark_count": 123,
-          "impression_count": 168159,
+          "impression_count": 168169,
           "like_count": 4332,
           "quote_count": 26,
           "reply_count": 115,
@@ -2275,7 +2272,7 @@
         "id": "2105338836293234963",
         "public_metrics": {
           "bookmark_count": 109,
-          "impression_count": 179601,
+          "impression_count": 179614,
           "like_count": 1081,
           "quote_count": 12,
           "reply_count": 78,
@@ -2331,7 +2328,7 @@
         "id": "2104958643225665971",
         "public_metrics": {
           "bookmark_count": 380,
-          "impression_count": 360958,
+          "impression_count": 360971,
           "like_count": 4347,
           "quote_count": 87,
           "reply_count": 151,
@@ -2397,7 +2394,7 @@
         "id": "2104667981783670890",
         "public_metrics": {
           "bookmark_count": 107,
-          "impression_count": 233889,
+          "impression_count": 233901,
           "like_count": 1247,
           "quote_count": 13,
           "reply_count": 62,
@@ -2430,7 +2427,7 @@
         "id": "2104356688006365669",
         "public_metrics": {
           "bookmark_count": 32,
-          "impression_count": 12876,
+          "impression_count": 12877,
           "like_count": 406,
           "quote_count": 5,
           "reply_count": 22,
