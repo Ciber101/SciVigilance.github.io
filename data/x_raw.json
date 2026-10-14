@@ -1,6 +1,62 @@
 {
   "data": [
     {
+      "created_at": "2026-10-14T10:01:32.000Z",
+      "edit_history_tweet_ids": [
+        "2110310023993946569"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 202,
+            "start": 187,
+            "tag": "QuantumPhysics"
+          },
+          {
+            "end": 213,
+            "start": 203,
+            "tag": "Photonics"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult ...",
+            "display_url": "phys.org/news/2026-10-u…",
+            "end": 185,
+            "expanded_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+            "images": [
+              {
+                "height": 853,
+                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 162,
+            "status": 200,
+            "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
+            "unwound_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+            "url": "https://t.co/HmyBUe2bcr"
+          }
+        ]
+      },
+      "id": "2110310023993946569",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Ultrashort laser pulses reveal electrons' quantum geometry in 2D semiconductors, measuring Berry curvature in tungsten diselenide—published in Nature Photonics.\n\nhttps://t.co/HmyBUe2bcr\n\n#QuantumPhysics #Photonics",
+      "url": "https://x.com/i/status/2110310023993946569"
+    },
+    {
       "created_at": "2026-10-14T07:01:19.000Z",
       "edit_history_tweet_ids": [
         "2110264671274197118"
@@ -91,7 +147,7 @@
       "id": "2110219375051747788",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 3,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -147,7 +203,7 @@
       "id": "2110174167723393117",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 38,
+        "impression_count": 43,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -287,7 +343,7 @@
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 8,
+        "impression_count": 9,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -343,7 +399,7 @@
       "id": "2110083588423291184",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 66,
+        "impression_count": 67,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -2118,46 +2174,6 @@
       ],
       "text": "@AMAZlNGNATURE Wow, amazing that a python can get cutting edge cancer care!",
       "url": "https://x.com/i/status/2091112845115355212"
-    },
-    {
-      "created_at": "2026-08-22T09:39:16.000Z",
-      "edit_history_tweet_ids": [
-        "2091097866664357998"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "34743251",
-            "start": 0,
-            "username": "SpaceX"
-          },
-          {
-            "end": 17,
-            "id": "1330170106501079041",
-            "start": 8,
-            "username": "Starlink"
-          }
-        ]
-      },
-      "id": "2091097866664357998",
-      "in_reply_to_user_id": "34743251",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 104,
-        "like_count": 3,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 1
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091086303068918197",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@SpaceX @Starlink Congrats on the 100th launch, 27 more Starlink satellites up!",
-      "url": "https://x.com/i/status/2091097866664357998"
     }
   ],
   "includes": {
@@ -3452,8 +3468,8 @@
     ]
   },
   "meta": {
-    "newest_id": "2110264671274197118",
-    "oldest_id": "2091097866664357998",
+    "newest_id": "2110310023993946569",
+    "oldest_id": "2091112845115355212",
     "result_count": 50
   }
 }
