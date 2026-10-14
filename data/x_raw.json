@@ -1,6 +1,62 @@
 {
   "data": [
     {
+      "created_at": "2026-10-14T07:01:19.000Z",
+      "edit_history_tweet_ids": [
+        "2110264671274197118"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 137,
+            "start": 125,
+            "tag": "JunoMission"
+          },
+          {
+            "end": 159,
+            "start": 138,
+            "tag": "JupiterMagnetosphere"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Using observations from NASA's Juno spacecraft, an international team led by Shandong University shows that Jupiter's magnetodisk is a rippling structure that rotates with the planet, contrary to what scientists previously thought.",
+            "display_url": "universetoday.com/articles/new-d…",
+            "end": 123,
+            "expanded_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
+            "images": [
+              {
+                "height": 960,
+                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 100,
+            "status": 200,
+            "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
+            "unwound_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
+            "url": "https://t.co/0zgB8xdrwc"
+          }
+        ]
+      },
+      "id": "2110264671274197118",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Jupiter's magnetodisk is wavy, per Juno data—ripples rotate with the planet, defying old theories!\n\nhttps://t.co/0zgB8xdrwc\n\n#JunoMission #JupiterMagnetosphere",
+      "url": "https://x.com/i/status/2110264671274197118"
+    },
+    {
       "created_at": "2026-10-14T04:01:19.000Z",
       "edit_history_tweet_ids": [
         "2110219375051747788"
@@ -35,7 +91,7 @@
       "id": "2110219375051747788",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 1,
+        "impression_count": 2,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -91,7 +147,7 @@
       "id": "2110174167723393117",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 35,
+        "impression_count": 38,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -231,7 +287,7 @@
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 6,
+        "impression_count": 7,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -539,7 +595,7 @@
       "id": "2110057944054395392",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -2061,51 +2117,12 @@
       ],
       "text": "@SpaceX @Starlink Congrats on the 100th launch, 27 more Starlink satellites up!",
       "url": "https://x.com/i/status/2091097866664357998"
-    },
-    {
-      "created_at": "2026-08-22T08:37:16.000Z",
-      "edit_history_tweet_ids": [
-        "2091082262930694222"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 7,
-            "id": "34743251",
-            "start": 0,
-            "username": "SpaceX"
-          },
-          {
-            "end": 17,
-            "id": "1330170106501079041",
-            "start": 8,
-            "username": "Starlink"
-          }
-        ]
-      },
-      "id": "2091082262930694222",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 283,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091080346301587497",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@SpaceX @Starlink Congrats on adding 27 more to the constellation!",
-      "url": "https://x.com/i/status/2091082262930694222"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2110219375051747788",
-    "oldest_id": "2091082262930694222"
+    "newest_id": "2110264671274197118",
+    "oldest_id": "2091097866664357998"
   },
   "includes": {
     "tweets": [
@@ -2134,7 +2151,7 @@
         "id": "2108255757615738934",
         "public_metrics": {
           "bookmark_count": 913,
-          "impression_count": 405433,
+          "impression_count": 405698,
           "like_count": 13125,
           "quote_count": 398,
           "reply_count": 897,
@@ -2150,8 +2167,8 @@
         "id": "2108254023443009943",
         "public_metrics": {
           "bookmark_count": 1725,
-          "impression_count": 5235468,
-          "like_count": 50821,
+          "impression_count": 5236099,
+          "like_count": 50818,
           "quote_count": 2285,
           "reply_count": 7159,
           "retweet_count": 5049
@@ -2197,8 +2214,8 @@
         ],
         "id": "2106983467141509385",
         "public_metrics": {
-          "bookmark_count": 2498,
-          "impression_count": 355467,
+          "bookmark_count": 2499,
+          "impression_count": 355491,
           "like_count": 7832,
           "quote_count": 177,
           "reply_count": 244,
@@ -2239,7 +2256,7 @@
         "id": "2106547918098288708",
         "public_metrics": {
           "bookmark_count": 123,
-          "impression_count": 168169,
+          "impression_count": 168170,
           "like_count": 4332,
           "quote_count": 26,
           "reply_count": 115,
@@ -2272,7 +2289,7 @@
         "id": "2105338836293234963",
         "public_metrics": {
           "bookmark_count": 109,
-          "impression_count": 179614,
+          "impression_count": 179616,
           "like_count": 1081,
           "quote_count": 12,
           "reply_count": 78,
@@ -2328,7 +2345,7 @@
         "id": "2104958643225665971",
         "public_metrics": {
           "bookmark_count": 380,
-          "impression_count": 360971,
+          "impression_count": 360974,
           "like_count": 4347,
           "quote_count": 87,
           "reply_count": 151,
@@ -2394,7 +2411,7 @@
         "id": "2104667981783670890",
         "public_metrics": {
           "bookmark_count": 107,
-          "impression_count": 233901,
+          "impression_count": 233904,
           "like_count": 1247,
           "quote_count": 13,
           "reply_count": 62,
