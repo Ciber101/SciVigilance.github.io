@@ -47,7 +47,7 @@
       "id": "2110264671274197118",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -287,7 +287,7 @@
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 7,
+        "impression_count": 8,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -399,7 +399,7 @@
       "id": "2110060654145179816",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1019,6 +1019,7 @@
         ]
       },
       "id": "2107203693389238723",
+      "in_reply_to_user_id": "511402689",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 29,
@@ -1052,6 +1053,7 @@
         ]
       },
       "id": "2107132401692577990",
+      "in_reply_to_user_id": "147346374",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 29,
@@ -1091,6 +1093,7 @@
         ]
       },
       "id": "2106799944992780566",
+      "in_reply_to_user_id": "1881451105454002176",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -1124,6 +1127,7 @@
         ]
       },
       "id": "2105372468286476403",
+      "in_reply_to_user_id": "194694215",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 959,
@@ -1157,6 +1161,7 @@
         ]
       },
       "id": "2104982260131012768",
+      "in_reply_to_user_id": "9624742",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 32,
@@ -1190,6 +1195,7 @@
         ]
       },
       "id": "2104705491171729481",
+      "in_reply_to_user_id": "4112496291",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 26,
@@ -1223,6 +1229,7 @@
         ]
       },
       "id": "2104705050660720672",
+      "in_reply_to_user_id": "3222018178",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 101,
@@ -1256,6 +1263,7 @@
         ]
       },
       "id": "2104610072471208349",
+      "in_reply_to_user_id": "1100064156504543233",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 10,
@@ -1312,6 +1320,16 @@
       "edit_history_tweet_ids": [
         "2103552702303367371"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 18,
+            "id": "1960303594047209472",
+            "start": 3,
+            "username": "Ahwoo_Official"
+          }
+        ]
+      },
       "id": "2103552702303367371",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1335,6 +1353,16 @@
       "edit_history_tweet_ids": [
         "2096621129830224143"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 12,
+            "id": "1954023090830135296",
+            "start": 0,
+            "username": "XueJia24682"
+          }
+        ]
+      },
       "id": "2096621129830224143",
       "in_reply_to_user_id": "1954023090830135296",
       "public_metrics": {
@@ -1382,6 +1410,7 @@
         ]
       },
       "id": "2094147090192720380",
+      "in_reply_to_user_id": "3167257102",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 115,
@@ -1577,7 +1606,7 @@
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 10354
+        "retweet_count": 10351
       },
       "referenced_tweets": [
         {
@@ -1610,7 +1639,7 @@
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 5928
+        "retweet_count": 5927
       },
       "referenced_tweets": [
         {
@@ -1637,6 +1666,7 @@
         ]
       },
       "id": "2091550475950924180",
+      "in_reply_to_user_id": "15726728",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 435,
@@ -1726,6 +1756,7 @@
         ]
       },
       "id": "2091429579420569808",
+      "in_reply_to_user_id": "2828212668",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 219,
@@ -1759,6 +1790,7 @@
         ]
       },
       "id": "2091370256199713271",
+      "in_reply_to_user_id": "718325771392172033",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 696,
@@ -1798,6 +1830,7 @@
         ]
       },
       "id": "2091354620924969386",
+      "in_reply_to_user_id": "718325771392172033",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 413,
@@ -1831,6 +1864,7 @@
         ]
       },
       "id": "2091325271471436007",
+      "in_reply_to_user_id": "2828212668",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 137,
@@ -1870,7 +1904,7 @@
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 243
+        "retweet_count": 242
       },
       "referenced_tweets": [
         {
@@ -1897,6 +1931,7 @@
         ]
       },
       "id": "2091294841166787038",
+      "in_reply_to_user_id": "2828212668",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 199,
@@ -1930,6 +1965,7 @@
         ]
       },
       "id": "2091279514760577200",
+      "in_reply_to_user_id": "15726728",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 665,
@@ -1963,6 +1999,7 @@
         ]
       },
       "id": "2091264473319481481",
+      "in_reply_to_user_id": "2828212668",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 661,
@@ -1996,6 +2033,7 @@
         ]
       },
       "id": "2091234305083342895",
+      "in_reply_to_user_id": "21292523",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 93,
@@ -2029,6 +2067,7 @@
         ]
       },
       "id": "2091219077306171511",
+      "in_reply_to_user_id": "1348638512267079683",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 179,
@@ -2062,6 +2101,7 @@
         ]
       },
       "id": "2091112845115355212",
+      "in_reply_to_user_id": "2828212668",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 356,
@@ -2101,6 +2141,7 @@
         ]
       },
       "id": "2091097866664357998",
+      "in_reply_to_user_id": "34743251",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 104,
@@ -2119,12 +2160,16 @@
       "url": "https://x.com/i/status/2091097866664357998"
     }
   ],
-  "meta": {
-    "result_count": 50,
-    "newest_id": "2110264671274197118",
-    "oldest_id": "2091097866664357998"
-  },
   "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "7_1482051389064826880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1482051389064826880/pu/img/G3LwosEfxszGbOdb.jpg",
+        "type": "video",
+        "width": 960
+      }
+    ],
     "tweets": [
       {
         "attachments": {
@@ -2151,10 +2196,10 @@
         "id": "2108255757615738934",
         "public_metrics": {
           "bookmark_count": 913,
-          "impression_count": 405698,
-          "like_count": 13125,
+          "impression_count": 405829,
+          "like_count": 13122,
           "quote_count": 398,
-          "reply_count": 897,
+          "reply_count": 896,
           "retweet_count": 3603
         },
         "text": "Welcome to a NEW GOLDEN AGE OF SCIENCE. \n\nThe Trump Admin just launched the biggest set of science initiatives in decades: $6B+ across government, industry, academia, &amp; philanthropy. 🚀 https://t.co/Pyvx6ixe2k"
@@ -2166,9 +2211,9 @@
         ],
         "id": "2108254023443009943",
         "public_metrics": {
-          "bookmark_count": 1725,
-          "impression_count": 5236099,
-          "like_count": 50818,
+          "bookmark_count": 1724,
+          "impression_count": 5236605,
+          "like_count": 50817,
           "quote_count": 2285,
           "reply_count": 7159,
           "retweet_count": 5049
@@ -2199,7 +2244,7 @@
         "id": "2107136323890921533",
         "public_metrics": {
           "bookmark_count": 6,
-          "impression_count": 32136,
+          "impression_count": 32137,
           "like_count": 10,
           "quote_count": 0,
           "reply_count": 3,
@@ -2213,10 +2258,13 @@
           "2106983467141509385"
         ],
         "id": "2106983467141509385",
+        "note_tweet": {
+          "text": "The end of software secrecy is almost upon us. The death of closed source, and the final triumph of open source.\n\nI should have realized this a few months ago when I successfully decompiled the game of Firefighter from an ancient DOS shareware binary. My robot friend was able to tell it had been written in Borland Pascal from looking at the data layout; it gave me back very readable Pascal code with sensibly chosen function and variable names. I transpiled it to Rust and now ship it as part of my heritage games collection. \n\nThe thing is, I thought of this as a fun stunt but didn't have any confidence that the technique would scale up to large, real programs. I have since learned that people are now doing this sort of thing with entire AAA games, which are among the most complex software artifacts ever to be shipped as a binary. If they can be decompiled, anything can be. \n\nThis has implications. Massive implications. We need to think about what the world is like when, in general, there is no longer a secrecy moat around almost any software at all.\n\n1/2"
+        },
         "public_metrics": {
           "bookmark_count": 2499,
-          "impression_count": 355491,
-          "like_count": 7832,
+          "impression_count": 355517,
+          "like_count": 7830,
           "quote_count": 177,
           "reply_count": 244,
           "retweet_count": 898
@@ -2256,7 +2304,7 @@
         "id": "2106547918098288708",
         "public_metrics": {
           "bookmark_count": 123,
-          "impression_count": 168170,
+          "impression_count": 168172,
           "like_count": 4332,
           "quote_count": 26,
           "reply_count": 115,
@@ -2289,7 +2337,7 @@
         "id": "2105338836293234963",
         "public_metrics": {
           "bookmark_count": 109,
-          "impression_count": 179616,
+          "impression_count": 179618,
           "like_count": 1081,
           "quote_count": 12,
           "reply_count": 78,
@@ -2345,7 +2393,7 @@
         "id": "2104958643225665971",
         "public_metrics": {
           "bookmark_count": 380,
-          "impression_count": 360974,
+          "impression_count": 360980,
           "like_count": 4347,
           "quote_count": 87,
           "reply_count": 151,
@@ -2376,6 +2424,28 @@
           ]
         },
         "id": "2104617327526343099",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 400,
+                "start": 387,
+                "tag": "RocketMakers"
+              },
+              {
+                "end": 407,
+                "start": 401,
+                "tag": "Civil"
+              },
+              {
+                "end": 416,
+                "start": 408,
+                "tag": "ExoMars"
+              }
+            ]
+          },
+          "text": "Don't bring Earth to Mars.\n\nRosalind Franklin searches for signs of life on Mars, so it must not carry any of its own from Earth. In ArianeGroup's clean room, both visible particles and invisible micro-organisms are tracked and eliminated before the thermal shield ever leaves for space. 🦠\n\n💬 Which do you think is harder to control: a visible particle, or an invisible micro-organism?\n\n#RocketMakers #Civil #ExoMars"
+        },
         "public_metrics": {
           "bookmark_count": 4,
           "impression_count": 5641,
@@ -2411,7 +2481,7 @@
         "id": "2104667981783670890",
         "public_metrics": {
           "bookmark_count": 107,
-          "impression_count": 233904,
+          "impression_count": 233909,
           "like_count": 1247,
           "quote_count": 13,
           "reply_count": 62,
@@ -2476,9 +2546,9 @@
         },
         "id": "2103282510029296055",
         "public_metrics": {
-          "bookmark_count": 20901,
-          "impression_count": 9763600,
-          "like_count": 119445,
+          "bookmark_count": 20899,
+          "impression_count": 9764319,
+          "like_count": 119443,
           "quote_count": 1124,
           "reply_count": 2850,
           "retweet_count": 35053
@@ -2495,10 +2565,22 @@
         "edit_history_tweet_ids": [
           "2103341662822871398"
         ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5YvXziG9v",
+              "end": 274,
+              "expanded_url": "https://x.com/Ahwoo_Official/status/2103341662822871398/photo/1",
+              "media_key": "3_2103341660469878784",
+              "start": 251,
+              "url": "https://t.co/u5YvXziG9v"
+            }
+          ]
+        },
         "id": "2103341662822871398",
         "public_metrics": {
           "bookmark_count": 149,
-          "impression_count": 33961,
+          "impression_count": 33962,
           "like_count": 1288,
           "quote_count": 24,
           "reply_count": 29,
@@ -2516,11 +2598,23 @@
         "edit_history_tweet_ids": [
           "2096452184829505801"
         ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ek9kSr2Zm5",
+              "end": 154,
+              "expanded_url": "https://x.com/XueJia24682/status/2096452184829505801/video/1",
+              "media_key": "13_2096452145356939264",
+              "start": 131,
+              "url": "https://t.co/ek9kSr2Zm5"
+            }
+          ]
+        },
         "id": "2096452184829505801",
         "public_metrics": {
           "bookmark_count": 160,
           "impression_count": 32835,
-          "like_count": 837,
+          "like_count": 836,
           "quote_count": 14,
           "reply_count": 28,
           "retweet_count": 213
@@ -2551,7 +2645,7 @@
         "id": "2093768810993942566",
         "public_metrics": {
           "bookmark_count": 123,
-          "impression_count": 106674,
+          "impression_count": 106676,
           "like_count": 736,
           "quote_count": 3,
           "reply_count": 340,
@@ -2591,7 +2685,7 @@
         "id": "2094098569607123293",
         "public_metrics": {
           "bookmark_count": 140,
-          "impression_count": 81919,
+          "impression_count": 81920,
           "like_count": 1055,
           "quote_count": 18,
           "reply_count": 13,
@@ -2679,7 +2773,7 @@
         },
         "public_metrics": {
           "bookmark_count": 209,
-          "impression_count": 218150,
+          "impression_count": 218153,
           "like_count": 1868,
           "quote_count": 76,
           "reply_count": 119,
@@ -2731,7 +2825,7 @@
         "id": "2092297852823216150",
         "public_metrics": {
           "bookmark_count": 158,
-          "impression_count": 81215,
+          "impression_count": 81217,
           "like_count": 407,
           "quote_count": 6,
           "reply_count": 23,
@@ -2758,11 +2852,11 @@
         "id": "2092292773915537580",
         "public_metrics": {
           "bookmark_count": 3885,
-          "impression_count": 31248617,
-          "like_count": 82153,
+          "impression_count": 31249061,
+          "like_count": 82143,
           "quote_count": 1145,
-          "reply_count": 7391,
-          "retweet_count": 10354
+          "reply_count": 7389,
+          "retweet_count": 10351
         },
         "referenced_tweets": [
           {
@@ -2827,11 +2921,11 @@
         },
         "public_metrics": {
           "bookmark_count": 4832,
-          "impression_count": 44793012,
-          "like_count": 36619,
+          "impression_count": 44793923,
+          "like_count": 36615,
           "quote_count": 1672,
           "reply_count": 2107,
-          "retweet_count": 5928
+          "retweet_count": 5927
         },
         "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity.\n \nThank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/hq308hvg2g"
       },
@@ -2912,7 +3006,7 @@
         "id": "2091426820352803046",
         "public_metrics": {
           "bookmark_count": 149,
-          "impression_count": 209162,
+          "impression_count": 209164,
           "like_count": 3605,
           "quote_count": 17,
           "reply_count": 55,
@@ -2954,7 +3048,7 @@
         "id": "2091354745848119530",
         "public_metrics": {
           "bookmark_count": 41,
-          "impression_count": 57965,
+          "impression_count": 57966,
           "like_count": 1648,
           "quote_count": 3,
           "reply_count": 25,
@@ -2988,7 +3082,7 @@
         "id": "2091352065956266240",
         "public_metrics": {
           "bookmark_count": 121,
-          "impression_count": 134518,
+          "impression_count": 134521,
           "like_count": 5245,
           "quote_count": 23,
           "reply_count": 72,
@@ -3021,7 +3115,7 @@
         "id": "2091310951727304876",
         "public_metrics": {
           "bookmark_count": 111,
-          "impression_count": 208233,
+          "impression_count": 208234,
           "like_count": 2251,
           "quote_count": 11,
           "reply_count": 41,
@@ -3068,11 +3162,11 @@
         },
         "public_metrics": {
           "bookmark_count": 148,
-          "impression_count": 89763,
-          "like_count": 1636,
+          "impression_count": 89780,
+          "like_count": 1635,
           "quote_count": 27,
           "reply_count": 46,
-          "retweet_count": 243
+          "retweet_count": 242
         },
         "text": "Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links — from the lunar surface and orbit all the way to Earth — with the capacity to scale further. For the first time ever, humanity will witness a Moon Base being https://t.co/j7g8uOpDz9"
       },
@@ -3101,7 +3195,7 @@
         "id": "2091288553938669605",
         "public_metrics": {
           "bookmark_count": 36,
-          "impression_count": 204670,
+          "impression_count": 204672,
           "like_count": 1269,
           "quote_count": 0,
           "reply_count": 19,
@@ -3176,7 +3270,7 @@
         "id": "2091255587040313660",
         "public_metrics": {
           "bookmark_count": 199,
-          "impression_count": 220253,
+          "impression_count": 220256,
           "like_count": 3879,
           "quote_count": 11,
           "reply_count": 25,
@@ -3249,7 +3343,7 @@
         "id": "2091206039123251639",
         "public_metrics": {
           "bookmark_count": 13,
-          "impression_count": 22148,
+          "impression_count": 22149,
           "like_count": 550,
           "quote_count": 2,
           "reply_count": 3,
@@ -3288,7 +3382,7 @@
         "id": "2091107767121784910",
         "public_metrics": {
           "bookmark_count": 71,
-          "impression_count": 206386,
+          "impression_count": 206389,
           "like_count": 1388,
           "quote_count": 6,
           "reply_count": 24,
@@ -3347,164 +3441,19 @@
         "id": "2091086303068918197",
         "public_metrics": {
           "bookmark_count": 171,
-          "impression_count": 1818161,
+          "impression_count": 1818216,
           "like_count": 7503,
           "quote_count": 146,
           "reply_count": 617,
           "retweet_count": 1048
         },
         "text": "Falcon 9 lifts off from California and delivers 27 @Starlink satellites to orbit, completing our 100th Falcon launch of the year https://t.co/cL8QFGCBHV"
-      },
-      {
-        "created_at": "2026-08-22T08:29:39.000Z",
-        "edit_history_tweet_ids": [
-          "2091080346301587497"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 26,
-              "id": "1330170106501079041",
-              "start": 17,
-              "username": "Starlink"
-            }
-          ]
-        },
-        "id": "2091080346301587497",
-        "public_metrics": {
-          "bookmark_count": 61,
-          "impression_count": 1489766,
-          "like_count": 7048,
-          "quote_count": 24,
-          "reply_count": 197,
-          "retweet_count": 499
-        },
-        "text": "Deployment of 27 @Starlink satellites confirmed"
-      },
-      {
-        "created_at": "2026-08-22T07:15:45.000Z",
-        "edit_history_tweet_ids": [
-          "2091061749084745979"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 34,
-              "id": "1330170106501079041",
-              "start": 25,
-              "username": "Starlink"
-            }
-          ],
-          "urls": [
-            {
-              "description": "Starlink Mission",
-              "display_url": "x.com/i/broadcasts/1…",
-              "end": 94,
-              "expanded_url": "https://x.com/i/broadcasts/1PKqrNNknkZGb",
-              "images": [
-                {
-                  "height": 675,
-                  "url": "https://pbs.twimg.com/news_img/2107801943011991552/VX26xlCG?format=jpg&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2107801943011991552/VX26xlCG?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 71,
-              "status": 200,
-              "title": "SpaceX",
-              "unwound_url": "https://x.com/i/broadcasts/1PKqrNNknkZGb",
-              "url": "https://t.co/blE7PCyjBE"
-            }
-          ]
-        },
-        "id": "2091061749084745979",
-        "public_metrics": {
-          "bookmark_count": 81,
-          "impression_count": 879297,
-          "like_count": 3331,
-          "quote_count": 47,
-          "reply_count": 183,
-          "retweet_count": 503
-        },
-        "text": "Watch Falcon 9 launch 27 @Starlink satellites to orbit from California https://t.co/blE7PCyjBE"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2090735483911303168"
-          ]
-        },
-        "created_at": "2026-08-22T03:39:00.000Z",
-        "edit_history_tweet_ids": [
-          "2091007200181559733"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/AZmwH3oJka",
-              "end": 138,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091007200181559733/photo/1",
-              "media_key": "3_2090735483911303168",
-              "start": 115,
-              "url": "https://t.co/AZmwH3oJka"
-            }
-          ]
-        },
-        "id": "2091007200181559733",
-        "public_metrics": {
-          "bookmark_count": 54,
-          "impression_count": 204321,
-          "like_count": 1102,
-          "quote_count": 7,
-          "reply_count": 21,
-          "retweet_count": 69
-        },
-        "text": "The fact that this heart formed naturally inside solid volcanic rock somehow makes the discovery even more special https://t.co/AZmwH3oJka"
-      },
-      {
-        "created_at": "2026-08-21T21:40:16.000Z",
-        "edit_history_tweet_ids": [
-          "2090916924238815710"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/SpaceX/status/…",
-              "end": 68,
-              "expanded_url": "https://twitter.com/SpaceX/status/2090876778646491549",
-              "start": 45,
-              "url": "https://t.co/tHXndThklG"
-            }
-          ]
-        },
-        "id": "2090916924238815710",
-        "public_metrics": {
-          "bookmark_count": 29,
-          "impression_count": 39265,
-          "like_count": 1276,
-          "quote_count": 2,
-          "reply_count": 12,
-          "retweet_count": 56
-        },
-        "referenced_tweets": [
-          {
-            "id": "2090876778646491549",
-            "type": "quoted"
-          }
-        ],
-        "text": "Wow... Those drone shots are amazing!\n🔥🔥🔥🔥🔥🔥 https://t.co/tHXndThklG"
-      }
-    ],
-    "media": [
-      {
-        "media_key": "7_1482051389064826880",
-        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1482051389064826880/pu/img/G3LwosEfxszGbOdb.jpg",
-        "type": "video"
       }
     ]
+  },
+  "meta": {
+    "newest_id": "2110264671274197118",
+    "oldest_id": "2091097866664357998",
+    "result_count": 50
   }
 }
