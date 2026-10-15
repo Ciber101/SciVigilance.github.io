@@ -292,7 +292,7 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
 .ticker .track .ticker-item b,
 .ticker .track span b { color: var(--cyan); font-weight: 600; }
 .ticker .track .ticker-item::before,
-.ticker .track span::before { content: "◆ "; color: var(--cyan); margin-right: 6px; }
+.ticker .track span::before { content: "◆"; color: var(--cyan); margin-right: 8px; display: inline-block; text-decoration: none; }
 @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
 /* ============================================================
