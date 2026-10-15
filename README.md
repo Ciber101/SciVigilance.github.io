@@ -5,27 +5,41 @@
 A multi-page static site for daily space and science news, built for GitHub Pages. Vanilla HTML/CSS/JS — no build step.
 
 ## Pages
-- `index.html` — hero, Daily Digest, Daily X / mission social, mission telemetry (live orbital diagram), newsletter signup
-- `archive.html` — past digests, grouped by date
-- `articles/*.html` — 5 demo article pages (JWST, Artemis, CERN, Perseverance, space weather)
+- `index.html` — hero, Daily Digest, Daily X / mission social, Shorts, newsletter signup
+- `news.html`, `ai.html`, `posts.html`, `voices.html`, `shorts.html`, `archive.html`
 - `about.html`, `newsletter.html`, `404.html`
 
 ## Data
-- `data/latest.json` — digest feed (date, tagline, articles[]). Swap this to go live.
-- `data/social.json` — Daily X / mission social highlights.
+- `data/latest.json` — digest feed (date, tagline, articles[], ai[])
+- `data/xposts.json` / `data/xfeatured.json` — Latest from X / Frontier Voices
+- `data/shorts.json` — latest YouTube Shorts
+- `data/backgrounds.json` — hourly background pool manifest (local files under `img/backgrounds/`)
 
 ## Notes
-- All demo articles are clearly labeled **Sample / Demo** and use real, credited imagery (NASA, ESA, CERN, NOAA, Wikimedia Commons).
-- The digest, archive, and social sections are driven by the JSON files; an empty `articles: []` shows a "No digest yet" state.
-- Deploy: push to `main` on a `*.github.io` repo (this one is configured as `Ciber101/SciVigilance.github.io`).
+- All stories keep their original source links and images.
+- Deploy: push to `main` on `Ciber101/SciVigilance.github.io`.
 
 ## Local preview
 Serve the folder with any static server, e.g. `python -m http.server` or `npx serve`, then open `index.html`.
 
-## Daily data (automated)
-- `scripts/update_news.py` pulls real frontier-science stories from public RSS feeds (NASA, ESA, Phys.org, ScienceDaily, Quanta, Science News, New Scientist) plus AI model news (Hugging Face, Google DeepMind, OpenAI, Simon Willison, Ars Technica, The Verge, MIT News, MarkTechPost; filtered for releases/benchmarks) into `data/latest.json` — every item keeps its original link and image — and picks the day's public-domain NASA background images into `data/backgrounds.json`.
-- `scripts/update_x.py` rebuilds `data/xposts.json` (Latest from X) from the committed `data/x_raw.json` (X reads need auth, so that file is refreshed outside Actions).
-- `data/shorts.json` lists the latest YouTube Shorts.
-- `.github/workflows/daily-update.yml` runs both scripts daily and commits the data. No secrets needed.
-- `scripts/update_x_featured.py` builds `data/xfeatured.json` (front-page "Frontier Voices": @elonmusk tech/AI/science posts only, plus original posts from SpaceX, NASA, ESA, ISRO, CNES, JAXA, Blue Origin, Rocket Lab, ULA, Arianespace, Relativity, Firefly, ispace, LandSpace, CAS Space) from the committed `data/x_raw_featured.json`.
-- `scripts/update_shorts.py` refreshes `data/shorts.json` from the channel RSS (with retries), uploads-playlist RSS, or YouTube Data API fallback (Shorts only).
+## Daily SciVigilance site refresh (every 6 hours PT)
+Scheduled at **4:07, 10:07, 16:07, and 22:07 America/Los_Angeles**. The hero line shows a live countdown to the next run.
+
+Run these from the repo root (same order the automation uses):
+
+```bash
+python3 scripts/update_news.py          # news + AI feed; also calls update_background
+python3 scripts/update_background.py    # rebuild/refresh hourly NASA/ESA/Webb/Hubble/Rubin pool
+python3 scripts/update_x.py             # Latest from X (from data/x_raw.json)
+python3 scripts/update_x_featured.py    # Frontier Voices (from data/x_raw_featured.json)
+python3 scripts/update_shorts.py        # YouTube Shorts list
+```
+
+### Backgrounds (`scripts/update_background.py`)
+- Builds a pool of **~150+** real space photos stored as compressed ~1920px JPGs in `img/backgrounds/`.
+- Sources (reuse-with-credit only): **NASA public domain**, **ESA/Webb & ESA/Hubble CC BY 4.0**, **NOIRLab / Vera C. Rubin CC BY 4.0**.
+- Optionally folds in today's **NASA APOD** (image + public domain only) as `apod-today`.
+- The browser rotates **hourly** (UTC hour since epoch modulo pool size), with crossfade, preload of the next image, dark overlay, and subtle credit. No extra refresh needed for the hourly change.
+
+### Ticker
+The top ticker lists news, X posts, and Shorts. Each item links to a stable `#anchor` on the matching page (`news.html`, `posts.html`, `shorts.html`) with smooth scroll + brief highlight.

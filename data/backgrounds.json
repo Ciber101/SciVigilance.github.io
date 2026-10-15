@@ -1,22 +1,1645 @@
-[
- {
-  "image": "https://images-assets.nasa.gov/image/PIA23122/PIA23122~medium.jpg",
-  "credit": "Spitzer Captures Messier 87 — NASA (public domain)",
-  "credit_url": "https://images.nasa.gov/details/PIA23122"
- },
- {
-  "image": "https://images-assets.nasa.gov/image/PIA03606/PIA03606~large.jpg",
-  "credit": "Most Detailed Image of the Crab Nebula — NASA (public domain)",
-  "credit_url": "https://images.nasa.gov/details/PIA03606"
- },
- {
-  "image": "https://images-assets.nasa.gov/image/PIA12348/PIA12348~large.jpg",
-  "credit": "Great Observatories Unique Views of the Milky Way — NASA (public domain)",
-  "credit_url": "https://images.nasa.gov/details/PIA12348"
- },
- {
-  "image": "https://images-assets.nasa.gov/image/PIA22568/PIA22568~medium.jpg",
-  "credit": "Cat's Paw Image 1 — NASA (public domain)",
-  "credit_url": "https://images.nasa.gov/details/PIA22568"
- }
-]
+{
+ "rotation": "hourly_utc",
+ "updated": "2026-10-15T01:59+00:00",
+ "count": 182,
+ "images": [
+  {
+   "id": "esahubble_heic0701a",
+   "file": "img/backgrounds/esahubble_heic0701a.jpg",
+   "title": "Hubble Ultra Deep Field",
+   "credit": "Hubble Ultra Deep Field — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic0701a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic1007a",
+   "file": "img/backgrounds/esahubble_heic1007a.jpg",
+   "title": "Whirlpool Galaxy",
+   "credit": "Whirlpool Galaxy — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic1007a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic1301a",
+   "file": "img/backgrounds/esahubble_heic1301a.jpg",
+   "title": "Horsehead Nebula infrared",
+   "credit": "Horsehead Nebula — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic1301a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic1405a",
+   "file": "img/backgrounds/esahubble_heic1405a.jpg",
+   "title": "Monkey Head Nebula",
+   "credit": "Monkey Head Nebula — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic1405a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic1501a",
+   "file": "img/backgrounds/esahubble_heic1501a.jpg",
+   "title": "Westerlund 2",
+   "credit": "Westerlund 2 — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic1501a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic1502a",
+   "file": "img/backgrounds/esahubble_heic1502a.jpg",
+   "title": "Hubble Ultra Deep Field 2014",
+   "credit": "Hubble Ultra Deep Field — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic1502a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2608a",
+   "file": "img/backgrounds/esahubble_heic2608a.jpg",
+   "title": "Trifid Nebula (Wide Field Camera 3 Image)",
+   "credit": "Trifid Nebula (Wide Field Camera 3 Image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2608a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2608b",
+   "file": "img/backgrounds/esahubble_heic2608b.jpg",
+   "title": "Full Trifid Nebula (Rubin Image with Hubble Close-up)",
+   "credit": "Full Trifid Nebula (Rubin Image with Hubble Close-up) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2608b/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2608c",
+   "file": "img/backgrounds/esahubble_heic2608c.jpg",
+   "title": "Trifid Nebula (annotated)",
+   "credit": "Trifid Nebula (annotated) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2608c/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2609a",
+   "file": "img/backgrounds/esahubble_heic2609a.jpg",
+   "title": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image)",
+   "credit": "Galactic pioneer MXDFz4.4 (annotated Hubble and Webb image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2609a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2609b",
+   "file": "img/backgrounds/esahubble_heic2609b.jpg",
+   "title": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image)",
+   "credit": "Galaxy field of MXDFz4.4 (Hubble and Webb clean image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2609b/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2609c",
+   "file": "img/backgrounds/esahubble_heic2609c.jpg",
+   "title": "Galaxy MXDFz4.4 (Hubble and Webb compass image)",
+   "credit": "Galaxy MXDFz4.4 (Hubble and Webb compass image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2609c/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2610a",
+   "file": "img/backgrounds/esahubble_heic2610a.jpg",
+   "title": "esahubble_heic2610a",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2612a",
+   "file": "img/backgrounds/esahubble_heic2612a.jpg",
+   "title": "Decagon on Saturn’s south pole (colour image)",
+   "credit": "Decagon on Saturn’s south pole (colour image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2612a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2612b",
+   "file": "img/backgrounds/esahubble_heic2612b.jpg",
+   "title": "Decagon on Saturn’s south pole (single filter image)",
+   "credit": "Decagon on Saturn’s south pole (single filter image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2612b/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_heic2613b",
+   "file": "img/backgrounds/esahubble_heic2613b.jpg",
+   "title": "Hubble Spectrum of White Dwarf HS 0209+0832",
+   "credit": "Hubble Spectrum of White Dwarf HS 0209+0832 — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/heic2613b/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_opo2623",
+   "file": "img/backgrounds/esahubble_opo2623.jpg",
+   "title": "Hubble seeks lensed supernova, marks 200,000 orbits",
+   "credit": "Hubble seeks lensed supernova, marks 200,000 orbits — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/opo2623/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2604a",
+   "file": "img/backgrounds/esahubble_potm2604a.jpg",
+   "title": "Starry spiral in a familiar neighbourhood",
+   "credit": "Starry spiral in a familiar neighbourhood — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2604a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2605a",
+   "file": "img/backgrounds/esahubble_potm2605a.jpg",
+   "title": "Journey to the centre of a galaxy cluster",
+   "credit": "Journey to the centre of a galaxy cluster — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2605a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2606a",
+   "file": "img/backgrounds/esahubble_potm2606a.jpg",
+   "title": "Starry chandelier",
+   "credit": "Starry chandelier — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2606a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2607a",
+   "file": "img/backgrounds/esahubble_potm2607a.jpg",
+   "title": "One-sided spiral",
+   "credit": "One-sided spiral — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2607a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2608a",
+   "file": "img/backgrounds/esahubble_potm2608a.jpg",
+   "title": "A superbubble scene",
+   "credit": "A superbubble scene — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2608a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potm2609a",
+   "file": "img/backgrounds/esahubble_potm2609a.jpg",
+   "title": "A galaxy spinning out of sync",
+   "credit": "A galaxy spinning out of sync — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potm2609a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_potw1345a",
+   "file": "img/backgrounds/esahubble_potw1345a.jpg",
+   "title": "Butterfly Nebula",
+   "credit": "Butterfly Nebula — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/potw1345a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_sci26004b",
+   "file": "img/backgrounds/esahubble_sci26004b.jpg",
+   "title": "A beacon of light in swirls of dust",
+   "credit": "A beacon of light in swirls of dust — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/sci26004b/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_sci26005",
+   "file": "img/backgrounds/esahubble_sci26005.jpg",
+   "title": "Rocky Worlds DDT Workshop",
+   "credit": "Rocky Worlds DDT Workshop — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/sci26005/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esahubble_sci26006a",
+   "file": "img/backgrounds/esahubble_sci26006a.jpg",
+   "title": "IRS 3 Field (NIRCam and MIRI image)",
+   "credit": "IRS 3 Field (NIRCam and MIRI image) — ESA/Hubble (CC BY 4.0)",
+   "credit_url": "https://esahubble.org/images/sci26006a/",
+   "license": "ESA/Hubble CC BY 4.0",
+   "source": "esahubble"
+  },
+  {
+   "id": "esawebb_potm2608a",
+   "file": "img/backgrounds/esawebb_potm2608a.jpg",
+   "title": "Striking star clusters and irregular clumps",
+   "credit": "Striking star clusters and irregular clumps — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/potm2608a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_potm2608b",
+   "file": "img/backgrounds/esawebb_potm2608b.jpg",
+   "title": "Starstruck image of Arp 263",
+   "credit": "Starstruck image of Arp 263 — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/potm2608b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_potm2608c",
+   "file": "img/backgrounds/esawebb_potm2608c.jpg",
+   "title": "Arp 263 (crop)",
+   "credit": "Arp 263 (crop) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/potm2608c/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_potm2609a",
+   "file": "img/backgrounds/esawebb_potm2609a.jpg",
+   "title": "Galaxies in a cosmic house of mirrors",
+   "credit": "Galaxies in a cosmic house of mirrors — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/potm2609a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2205a",
+   "file": "img/backgrounds/esawebb_weic2205a.jpg",
+   "title": "Southern Ring Nebula (NIRCam)",
+   "credit": "Southern Ring Nebula — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2205a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2205b",
+   "file": "img/backgrounds/esawebb_weic2205b.jpg",
+   "title": "Southern Ring Nebula (MIRI)",
+   "credit": "Southern Ring Nebula MIRI — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2205b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2206a",
+   "file": "img/backgrounds/esawebb_weic2206a.jpg",
+   "title": "Stephan's Quintet",
+   "credit": "Stephan's Quintet — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2206a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2207a",
+   "file": "img/backgrounds/esawebb_weic2207a.jpg",
+   "title": "Carina Nebula (NIRCam)",
+   "credit": "Carina Nebula — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2207a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2216a",
+   "file": "img/backgrounds/esawebb_weic2216a.jpg",
+   "title": "Webb's First Deep Field (SMACS 0723)",
+   "credit": "Webb's First Deep Field — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2216a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2311a",
+   "file": "img/backgrounds/esawebb_weic2311a.jpg",
+   "title": "Rho Ophiuchi cloud complex",
+   "credit": "Rho Ophiuchi — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2311a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2404a",
+   "file": "img/backgrounds/esawebb_weic2404a.jpg",
+   "title": "Crab Nebula (NIRCam)",
+   "credit": "Crab Nebula — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2404a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2423a",
+   "file": "img/backgrounds/esawebb_weic2423a.jpg",
+   "title": "Cassiopeia A (NIRCam)",
+   "credit": "Cassiopeia A — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2423a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617a",
+   "file": "img/backgrounds/esawebb_weic2617a.jpg",
+   "title": "IRS 3 Field (NIRCam and MIRI image)",
+   "credit": "IRS 3 Field (NIRCam and MIRI image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617b",
+   "file": "img/backgrounds/esawebb_weic2617b.jpg",
+   "title": "Location of star IRS 3",
+   "credit": "Location of star IRS 3 — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617c",
+   "file": "img/backgrounds/esawebb_weic2617c.jpg",
+   "title": "IRS 3 Field (NIRCam image)",
+   "credit": "IRS 3 Field (NIRCam image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617c/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617d",
+   "file": "img/backgrounds/esawebb_weic2617d.jpg",
+   "title": "IRS 3 Field (MIRI image)",
+   "credit": "IRS 3 Field (MIRI image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617d/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617e",
+   "file": "img/backgrounds/esawebb_weic2617e.jpg",
+   "title": "Location of star IRS 3",
+   "credit": "Location of star IRS 3 — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617e/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2617f",
+   "file": "img/backgrounds/esawebb_weic2617f.jpg",
+   "title": "Star IRS 3 (close-up NIRCam image)",
+   "credit": "Star IRS 3 (close-up NIRCam image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2617f/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2618b",
+   "file": "img/backgrounds/esawebb_weic2618b.jpg",
+   "title": "Composition of extreme debris discs across time",
+   "credit": "Composition of extreme debris discs across time — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2618b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619b",
+   "file": "img/backgrounds/esawebb_weic2619b.jpg",
+   "title": "Collage of cutouts of star-forming region IC 348 (Webb NIRCam image)",
+   "credit": "Collage of cutouts of star-forming region IC 348 (Webb NIRCam image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619c",
+   "file": "img/backgrounds/esawebb_weic2619c.jpg",
+   "title": "IC 348 Crop: Star embedded in a nebula",
+   "credit": "IC 348 Crop: Star embedded in a nebula — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619c/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619d",
+   "file": "img/backgrounds/esawebb_weic2619d.jpg",
+   "title": "IC 348 Crop: Central star cluster",
+   "credit": "IC 348 Crop: Central star cluster — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619d/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619e",
+   "file": "img/backgrounds/esawebb_weic2619e.jpg",
+   "title": "IC 348 Crop: Stars and faint outflows",
+   "credit": "IC 348 Crop: Stars and faint outflows — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619e/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619f",
+   "file": "img/backgrounds/esawebb_weic2619f.jpg",
+   "title": "IC 348 Crop: Herbig-Haro objects",
+   "credit": "IC 348 Crop: Herbig-Haro objects — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619f/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619g",
+   "file": "img/backgrounds/esawebb_weic2619g.jpg",
+   "title": "IC 348 Crop: Gravitational lensing",
+   "credit": "IC 348 Crop: Gravitational lensing — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619g/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2619h",
+   "file": "img/backgrounds/esawebb_weic2619h.jpg",
+   "title": "IC 348 Crop: Spiral galaxies",
+   "credit": "IC 348 Crop: Spiral galaxies — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2619h/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2620a",
+   "file": "img/backgrounds/esawebb_weic2620a.jpg",
+   "title": "NGC 7129 (NIRCam image)",
+   "credit": "NGC 7129 (NIRCam image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2620a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2621a",
+   "file": "img/backgrounds/esawebb_weic2621a.jpg",
+   "title": "FRB 20240304B (NIRCam image)",
+   "credit": "FRB 20240304B (NIRCam image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2621a/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2621b",
+   "file": "img/backgrounds/esawebb_weic2621b.jpg",
+   "title": "Farthest Fast Radio Burst host galaxy spectrum",
+   "credit": "Farthest Fast Radio Burst host galaxy spectrum — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2621b/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2621c",
+   "file": "img/backgrounds/esawebb_weic2621c.jpg",
+   "title": "FRB 20240304B (NIRCam annotated image)",
+   "credit": "FRB 20240304B (NIRCam annotated image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2621c/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "esawebb_weic2621d",
+   "file": "img/backgrounds/esawebb_weic2621d.jpg",
+   "title": "FRB 20240304B (NIRCam clean image)",
+   "credit": "FRB 20240304B (NIRCam clean image) — ESA/Webb (CC BY 4.0)",
+   "credit_url": "https://esawebb.org/images/weic2621d/",
+   "license": "ESA/Webb CC BY 4.0",
+   "source": "esawebb"
+  },
+  {
+   "id": "nasa_0002272",
+   "file": "img/backgrounds/nasa_0002272.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0002272",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_01pp0941",
+   "file": "img/backgrounds/nasa_01pp0941.jpg",
+   "title": "KSC-01PP-0941",
+   "credit": "KSC-01PP-0941 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/01pp0941",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_01pp0945",
+   "file": "img/backgrounds/nasa_01pp0945.jpg",
+   "title": "KSC-01PP-0945",
+   "credit": "KSC-01PP-0945 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/01pp0945",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0200205",
+   "file": "img/backgrounds/nasa_0200205.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0200205",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0200207",
+   "file": "img/backgrounds/nasa_0200207.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0200207",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0300724",
+   "file": "img/backgrounds/nasa_0300724.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0300724",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0301102",
+   "file": "img/backgrounds/nasa_0301102.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0301102",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0301103",
+   "file": "img/backgrounds/nasa_0301103.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0301103",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0302062",
+   "file": "img/backgrounds/nasa_0302062.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0302062",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0302063",
+   "file": "img/backgrounds/nasa_0302063.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0302063",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0401555",
+   "file": "img/backgrounds/nasa_0401555.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0401555",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0700064",
+   "file": "img/backgrounds/nasa_0700064.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0700064",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_0700065",
+   "file": "img/backgrounds/nasa_0700065.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/0700065",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_1301187",
+   "file": "img/backgrounds/nasa_1301187.jpg",
+   "title": "1301187",
+   "credit": "1301187 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/1301187",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_1301188",
+   "file": "img/backgrounds/nasa_1301188.jpg",
+   "title": "1301188",
+   "credit": "1301188 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/1301188",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_1301189",
+   "file": "img/backgrounds/nasa_1301189.jpg",
+   "title": "1301189",
+   "credit": "1301189 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/1301189",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_1301190",
+   "file": "img/backgrounds/nasa_1301190.jpg",
+   "title": "1301190",
+   "credit": "1301190 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/1301190",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_1301191",
+   "file": "img/backgrounds/nasa_1301191.jpg",
+   "title": "1301191",
+   "credit": "1301191 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/1301191",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_201001210001HQ",
+   "file": "img/backgrounds/nasa_201001210001HQ.jpg",
+   "title": "Solar Dynamics Observatory Briefing",
+   "credit": "Solar Dynamics Observatory Briefing — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/201001210001HQ",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_201001210002HQ",
+   "file": "img/backgrounds/nasa_201001210002HQ.jpg",
+   "title": "Solar Dynamics Observatory Briefing",
+   "credit": "Solar Dynamics Observatory Briefing — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/201001210002HQ",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_201001210004HQ",
+   "file": "img/backgrounds/nasa_201001210004HQ.jpg",
+   "title": "Solar Dynamics Observatory Briefing",
+   "credit": "Solar Dynamics Observatory Briefing — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/201001210004HQ",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_201004210003HQ",
+   "file": "img/backgrounds/nasa_201004210003HQ.jpg",
+   "title": "NASA's Solar Dynamics Observatory Unveils New Images",
+   "credit": "NASA's Solar Dynamics Observatory Unveils New Images — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/201004210003HQ",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_201004210008HQ",
+   "file": "img/backgrounds/nasa_201004210008HQ.jpg",
+   "title": "NASA's Solar Dynamics Observatory Unveils New Images",
+   "credit": "NASA's Solar Dynamics Observatory Unveils New Images — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/201004210008HQ",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_7890338",
+   "file": "img/backgrounds/nasa_7890338.jpg",
+   "title": "High Energy Astronomy Observatory (HEAO)",
+   "credit": "High Energy Astronomy Observatory (HEAO) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/7890338",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_7993119",
+   "file": "img/backgrounds/nasa_7993119.jpg",
+   "title": "Space Science",
+   "credit": "Space Science — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/7993119",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_7995526",
+   "file": "img/backgrounds/nasa_7995526.jpg",
+   "title": "High Energy Astronomy Observatory (HEAO)",
+   "credit": "High Energy Astronomy Observatory (HEAO) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/7995526",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_7995528",
+   "file": "img/backgrounds/nasa_7995528.jpg",
+   "title": "High Energy Astronomy Observatory (HEAO)",
+   "credit": "High Energy Astronomy Observatory (HEAO) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/7995528",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_8000103",
+   "file": "img/backgrounds/nasa_8000103.jpg",
+   "title": "High Energy Astronomy Observatory (HEAO)",
+   "credit": "High Energy Astronomy Observatory (HEAO) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/8000103",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_9514774",
+   "file": "img/backgrounds/nasa_9514774.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/9514774",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_9605592",
+   "file": "img/backgrounds/nasa_9605592.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/9605592",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_9700401",
+   "file": "img/backgrounds/nasa_9700401.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/9700401",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_9700431",
+   "file": "img/backgrounds/nasa_9700431.jpg",
+   "title": "History of Hubble Space Telescope (HST)",
+   "credit": "History of Hubble Space Telescope (HST) — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/9700431",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_9905980",
+   "file": "img/backgrounds/nasa_9905980.jpg",
+   "title": "History of Chandra X-Ray Observatory",
+   "credit": "History of Chandra X-Ray Observatory — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/9905980",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_ARC-1963-A-30834",
+   "file": "img/backgrounds/nasa_ARC-1963-A-30834.jpg",
+   "title": "ARC-1963-A-30834",
+   "credit": "ARC-1963-A-30834 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/ARC-1963-A-30834",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_ARC-1983-AC83-0565-1",
+   "file": "img/backgrounds/nasa_ARC-1983-AC83-0565-1.jpg",
+   "title": "ARC-1983-AC83-0565-1",
+   "credit": "ARC-1983-AC83-0565-1 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/ARC-1983-AC83-0565-1",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_ARC-1983-AC83-0565-2",
+   "file": "img/backgrounds/nasa_ARC-1983-AC83-0565-2.jpg",
+   "title": "ARC-1983-AC83-0565-2",
+   "credit": "ARC-1983-AC83-0565-2 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/ARC-1983-AC83-0565-2",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_ARC-1983-AC83-0565-3",
+   "file": "img/backgrounds/nasa_ARC-1983-AC83-0565-3.jpg",
+   "title": "ARC-1983-AC83-0565-3",
+   "credit": "ARC-1983-AC83-0565-3 — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/ARC-1983-AC83-0565-3",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000001",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000001.jpg",
+   "title": "Hubble's Megamaser Galaxy",
+   "credit": "Hubble's Megamaser Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000001",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000012",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000012.jpg",
+   "title": "Hubble's Hockey Stick Galaxy",
+   "credit": "Hubble's Hockey Stick Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000012",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000017",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000017.jpg",
+   "title": "Hubble’s Hunting Dog Galaxy",
+   "credit": "Hubble’s Hunting Dog Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000017",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000022",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000022.jpg",
+   "title": "Hubble’s Hidden Galaxy",
+   "credit": "Hubble’s Hidden Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000022",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000025",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000025.jpg",
+   "title": "Hubble Eyes a Powerful Galaxy",
+   "credit": "Hubble Eyes a Powerful Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000025",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000052",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000052.jpg",
+   "title": "Hubble Catches a Galaxy Duo by the \"Hare\"",
+   "credit": "Hubble Catches a Galaxy Duo by the \"Hare\" — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000052",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000053",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000053.jpg",
+   "title": "Observatories Combine to Crack Open the Crab Nebula",
+   "credit": "Observatories Combine to Crack Open the Crab Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000053",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000054",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000054.jpg",
+   "title": "Observatories Combine to Crack Open the Crab Nebula",
+   "credit": "Observatories Combine to Crack Open the Crab Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000054",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000078",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000078.jpg",
+   "title": "Gigantic Wave Discovered in Perseus Galaxy Cluster",
+   "credit": "Gigantic Wave Discovered in Perseus Galaxy Cluster — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000078",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000106",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000106.jpg",
+   "title": "Hubble's makes a double galaxy gaze",
+   "credit": "Hubble's makes a double galaxy gaze — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000106",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000117",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000117.jpg",
+   "title": "Hubble's Glittering Frisbee Galaxy",
+   "credit": "Hubble's Glittering Frisbee Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000117",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000118",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000118.jpg",
+   "title": "Hubble Discovery of Runaway Star Yields Clues to Breakup of Multiple-Star System",
+   "credit": "Hubble Discovery of Runaway Star Yields Clues to Breakup of Multiple-Star System — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000118",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000134",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000134.jpg",
+   "title": "Hubble sniffs out a brilliant star death in a “rotten egg” nebula",
+   "credit": "Hubble sniffs out a brilliant star death in a “rotten egg” nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000134",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000143",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000143.jpg",
+   "title": "GSFC_20171208_Archive_e000143",
+   "credit": "NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000143",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000154",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000154.jpg",
+   "title": "Hubble Spotlight on Irregular Galaxy",
+   "credit": "Hubble Spotlight on Irregular Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000154",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000158",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000158.jpg",
+   "title": "Hubble Spies Spiral Galaxy",
+   "credit": "Hubble Spies Spiral Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000158",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000193",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000193.jpg",
+   "title": "A Dead Star's Ghostly Glow",
+   "credit": "A Dead Star's Ghostly Glow — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000193",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000195",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000195.jpg",
+   "title": "Hubble Spins a Web Into a Giant Red Spider Nebula",
+   "credit": "Hubble Spins a Web Into a Giant Red Spider Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000195",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000208",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000208.jpg",
+   "title": "GSFC_20171208_Archive_e000208",
+   "credit": "NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000208",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000226",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000226.jpg",
+   "title": "Hubble Peers into the Storm",
+   "credit": "Hubble Peers into the Storm — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000226",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000262",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000262.jpg",
+   "title": "Hubble Views a Galaxy Fit to Burst",
+   "credit": "Hubble Views a Galaxy Fit to Burst — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000262",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000268",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000268.jpg",
+   "title": "Hubble Spots a Secluded Starburst Galaxy",
+   "credit": "Hubble Spots a Secluded Starburst Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000268",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000273",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000273.jpg",
+   "title": "NASA's Hubble Captures the Beating Heart of the Crab Nebula",
+   "credit": "NASA's Hubble Captures the Beating Heart of the Crab Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000273",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000278",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000278.jpg",
+   "title": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy",
+   "credit": "Hubble Reveals Stellar Fireworks in ‘Skyrocket’ Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000278",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000382",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000382.jpg",
+   "title": "Hubble Sees a Star ‘Inflating’ a Giant Bubble",
+   "credit": "Hubble Sees a Star ‘Inflating’ a Giant Bubble — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000382",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000383",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000383.jpg",
+   "title": "Hubble Sees a Star ‘Inflating’ a Giant Bubble",
+   "credit": "Hubble Sees a Star ‘Inflating’ a Giant Bubble — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000383",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000394",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000394.jpg",
+   "title": "Hubble Sees a Legion of Galaxies",
+   "credit": "Hubble Sees a Legion of Galaxies — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000394",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000409",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000409.jpg",
+   "title": "Hubble's Blue Bubble",
+   "credit": "Hubble's Blue Bubble — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000409",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000436",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000436.jpg",
+   "title": "Hubble Unveils a Tapestry of Dazzling Diamond-like Stars",
+   "credit": "Hubble Unveils a Tapestry of Dazzling Diamond-like Stars — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000436",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000492",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000492.jpg",
+   "title": "Hubble Views Two Galaxies Merging",
+   "credit": "Hubble Views Two Galaxies Merging — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000492",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000504",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000504.jpg",
+   "title": "Hubble Views a Young Elliptical Galaxy",
+   "credit": "Hubble Views a Young Elliptical Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000504",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000506",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000506.jpg",
+   "title": "A Galaxy at the Center of the Hubble Tuning Fork",
+   "credit": "A Galaxy at the Center of the Hubble Tuning Fork — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000506",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000607",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000607.jpg",
+   "title": "Hubble Zooms in on Shrapnel from an Exploded Star",
+   "credit": "Hubble Zooms in on Shrapnel from an Exploded Star — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000607",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000615",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000615.jpg",
+   "title": "Hubble Sees a Galactic Sunflower",
+   "credit": "Hubble Sees a Galactic Sunflower — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000615",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000637",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000637.jpg",
+   "title": "Hubble Sees the Wings of a Butterfly: The Twin Jet Nebula",
+   "credit": "Hubble Sees the Wings of a Butterfly: The Twin Jet Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000637",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000671",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000671.jpg",
+   "title": "Stormy seas in Sagittarius",
+   "credit": "Stormy seas in Sagittarius — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000671",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000675",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000675.jpg",
+   "title": "Hubble Sees a Dying Star's Final Moments",
+   "credit": "Hubble Sees a Dying Star's Final Moments — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000675",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000687",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000687.jpg",
+   "title": "Hubble peeks at a spiral galaxy",
+   "credit": "Hubble peeks at a spiral galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000687",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000699",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000699.jpg",
+   "title": "Hubble View of a Nitrogen-Rich Nebula",
+   "credit": "Hubble View of a Nitrogen-Rich Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000699",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000752",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000752.jpg",
+   "title": "NASA Find Clues that May Help Identify Dark Matter",
+   "credit": "NASA Find Clues that May Help Identify Dark Matter — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000752",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000794",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000794.jpg",
+   "title": "Hubble's Little Sombrero",
+   "credit": "Hubble's Little Sombrero — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000794",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000798",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000798.jpg",
+   "title": "Hubble Spies a Loopy Galaxy",
+   "credit": "Hubble Spies a Loopy Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000798",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000825",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000825.jpg",
+   "title": "Hubble Views 'Third Kind' of Galaxy",
+   "credit": "Hubble Views 'Third Kind' of Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000825",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000833",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000833.jpg",
+   "title": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy",
+   "credit": "Hubble's High-Definition Panoramic View of the Andromeda Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000833",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000839",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000839.jpg",
+   "title": "Hubble’s High-Definition Panoramic View of the Andromeda Galaxy",
+   "credit": "Hubble’s High-Definition Panoramic View of the Andromeda Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000839",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000842",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000842.jpg",
+   "title": "Hubble Goes High Def to Revisit the Iconic 'Pillars of Creation'",
+   "credit": "Hubble Goes High Def to Revisit the Iconic 'Pillars of Creation' — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000842",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e000933",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e000933.jpg",
+   "title": "Hubble Sees Turquoise-Tinted Plumes in Large Magellanic Cloud",
+   "credit": "Hubble Sees Turquoise-Tinted Plumes in Large Magellanic Cloud — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e000933",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001014",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001014.jpg",
+   "title": "Hubble Sees a Silver Needle in the Sky",
+   "credit": "Hubble Sees a Silver Needle in the Sky — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001014",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001151",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001151.jpg",
+   "title": "Hubble Sees Galaxies Spiraling around Leo",
+   "credit": "Hubble Sees Galaxies Spiraling around Leo — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001151",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001178",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001178.jpg",
+   "title": "NASA's Hubble Finds Life is Too Fast, Too Furious for This Runaway Galaxy",
+   "credit": "NASA's Hubble Finds Life is Too Fast, Too Furious for This Runaway Galaxy — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001178",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001216",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001216.jpg",
+   "title": "GSFC_20171208_Archive_e001216",
+   "credit": "NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001216",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001327",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001327.jpg",
+   "title": "NASA Hubble Sees Sparring Antennae Galaxies",
+   "credit": "NASA Hubble Sees Sparring Antennae Galaxies — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001327",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001464",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001464.jpg",
+   "title": "Hubble reveals the Ring Nebula’s true shape",
+   "credit": "Hubble reveals the Ring Nebula’s true shape — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001464",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001465",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001465.jpg",
+   "title": "Planetary Nebula",
+   "credit": "Planetary Nebula — NASA (public domain)",
+   "credit_url": "https://images.nasa.gov/details/GSFC_20171208_Archive_e001465",
+   "license": "NASA public domain",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001518",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001518.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001518",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001531",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001531.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001531",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001540",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001540.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001540",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001569",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001569.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001569",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001647",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001647.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001647",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001743",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001743.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001743",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "nasa_GSFC_20171208_Archive_e001774",
+   "file": "img/backgrounds/nasa_GSFC_20171208_Archive_e001774.jpg",
+   "title": "nasa_GSFC_20171208_Archive_e001774",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "nasa"
+  },
+  {
+   "id": "noirlab_DSC09522-CC",
+   "file": "img/backgrounds/noirlab_DSC09522-CC.jpg",
+   "title": "Sunset from Gemini South",
+   "credit": "Sunset from Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09522-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09524-CC",
+   "file": "img/backgrounds/noirlab_DSC09524-CC.jpg",
+   "title": "Snowy Mountains from Gemini South",
+   "credit": "Snowy Mountains from Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09524-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09528-3-CC",
+   "file": "img/backgrounds/noirlab_DSC09528-3-CC.jpg",
+   "title": "Sunset at Gemini South",
+   "credit": "Sunset at Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09528-3-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09544-CC",
+   "file": "img/backgrounds/noirlab_DSC09544-CC.jpg",
+   "title": "Snow-capped Foothills at Gemini South",
+   "credit": "Snow-capped Foothills at Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09544-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09550-CC",
+   "file": "img/backgrounds/noirlab_DSC09550-CC.jpg",
+   "title": "Snowy Mountain Beneath Gemini South",
+   "credit": "Snowy Mountain Beneath Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09550-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09562-CC",
+   "file": "img/backgrounds/noirlab_DSC09562-CC.jpg",
+   "title": "Snowy Mountains around SOAR Telescope",
+   "credit": "Snowy Mountains around SOAR Telescope — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09562-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09567-CC",
+   "file": "img/backgrounds/noirlab_DSC09567-CC.jpg",
+   "title": "Snowy Mountains around SOAR Telescope",
+   "credit": "Snowy Mountains around SOAR Telescope — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09567-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09579-CC",
+   "file": "img/backgrounds/noirlab_DSC09579-CC.jpg",
+   "title": "Snowy Mountain Beneath Gemini South",
+   "credit": "Snowy Mountain Beneath Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09579-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_DSC09597-CC",
+   "file": "img/backgrounds/noirlab_DSC09597-CC.jpg",
+   "title": "Snow-capped Foothills at Gemini South",
+   "credit": "Snow-capped Foothills at Gemini South — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/DSC09597-CC/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_iotw2641e",
+   "file": "img/backgrounds/noirlab_iotw2641e.jpg",
+   "title": "noirlab_iotw2641e",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2419a",
+   "file": "img/backgrounds/noirlab_noirlab2419a.jpg",
+   "title": "Rubin Observatory under the Milky Way",
+   "credit": "Rubin Observatory — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "https://noirlab.edu/public/images/noirlab2419a/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2519a",
+   "file": "img/backgrounds/noirlab_noirlab2519a.jpg",
+   "title": "noirlab_noirlab2519a",
+   "credit": "Space observatory image",
+   "credit_url": "",
+   "license": "",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2520a",
+   "file": "img/backgrounds/noirlab_noirlab2520a.jpg",
+   "title": "Rubin Observatory First Look collage",
+   "credit": "Rubin First Look — NSF–DOE Vera C. Rubin Observatory / NOIRLab (CC BY 4.0)",
+   "credit_url": "https://noirlab.edu/public/images/noirlab2520a/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2521a",
+   "file": "img/backgrounds/noirlab_noirlab2521a.jpg",
+   "title": "Vera C. Rubin Observatory First Look — Virgo Cluster",
+   "credit": "Rubin First Look Virgo Cluster — NSF–DOE Vera C. Rubin Observatory / NOIRLab (CC BY 4.0)",
+   "credit_url": "https://noirlab.edu/public/images/noirlab2521a/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623a",
+   "file": "img/backgrounds/noirlab_noirlab2623a.jpg",
+   "title": "Elders dancing with staff during the 2026 Tohono O’odham Nation Open Night",
+   "credit": "Elders dancing with staff during the 2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623a/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623b",
+   "file": "img/backgrounds/noirlab_noirlab2623b.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623b/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623c",
+   "file": "img/backgrounds/noirlab_noirlab2623c.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623c/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623d",
+   "file": "img/backgrounds/noirlab_noirlab2623d.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623d/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623e",
+   "file": "img/backgrounds/noirlab_noirlab2623e.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623e/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623f",
+   "file": "img/backgrounds/noirlab_noirlab2623f.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623f/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623g",
+   "file": "img/backgrounds/noirlab_noirlab2623g.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623g/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623h",
+   "file": "img/backgrounds/noirlab_noirlab2623h.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623h/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623i",
+   "file": "img/backgrounds/noirlab_noirlab2623i.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623i/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623j",
+   "file": "img/backgrounds/noirlab_noirlab2623j.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623j/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623k",
+   "file": "img/backgrounds/noirlab_noirlab2623k.jpg",
+   "title": "2026 Tohono O’odham Nation Open Night",
+   "credit": "2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623k/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  },
+  {
+   "id": "noirlab_noirlab2623l",
+   "file": "img/backgrounds/noirlab_noirlab2623l.jpg",
+   "title": "Short intense squall during the 2026 Tohono O’odham Nation Open Night",
+   "credit": "Short intense squall during the 2026 Tohono O’odham Nation Open Night — NOIRLab / NSF / AURA (CC BY 4.0)",
+   "credit_url": "http://noirlab.edu/public/images/noirlab2623l/",
+   "license": "NOIRLab/NSF/AURA CC BY 4.0",
+   "source": "noirlab"
+  }
+ ]
+}

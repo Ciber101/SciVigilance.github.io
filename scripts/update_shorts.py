@@ -116,14 +116,15 @@ def api_get(tok, path_qs):
 
 
 def is_youtube_short(video_id):
-    """True if youtube.com/shorts/<id> stays on /shorts/ (non-Shorts redirect to /watch)."""
+    """True if youtube.com/shorts/<id> stays on /shorts/ (non-Shorts redirect to /watch).
+    Returns None when the check itself fails (rate limit / network) so callers can fall back."""
     url = f'https://www.youtube.com/shorts/{video_id}'
     try:
         with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=20) as r:
             return '/shorts/' in (r.geturl() or '')
     except Exception as ex:
         print(f'api: shorts-check fail {video_id}: {ex}')
-        return False
+        return None
 
 
 def fetch_via_api():
@@ -180,8 +181,12 @@ def fetch_via_api():
         if '#shorts' in title_l or '#short' in title_l:
             shorts.append(c)
             continue
-        if is_youtube_short(c['id']):
+        check = is_youtube_short(c['id'])
+        if check is True:
             shorts.append(c)
+        elif check is None:
+            # Rate limit / network: do not guess — title #shorts already kept above
+            print(f'api: shorts-check inconclusive, skip {c["id"]} {c["title"][:50]}')
         else:
             print(f'api: skip non-Short {c["id"]} {c["title"][:50]}')
     print(f'api: {len(shorts)} public Shorts from {len(video_ids)} uploads ({len(candidates)} short-duration candidates)')

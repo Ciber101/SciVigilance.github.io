@@ -278,7 +278,20 @@ a:focus-visible, button:focus-visible, input:focus-visible, [tabindex]:focus-vis
   color: var(--text-dim);
 }
 .ticker:hover .track, .ticker .track:hover { animation-play-state: paused; }
-.ticker .track span b { color: var(--amber); font-weight: 600; }
+.ticker .track .ticker-item,
+.ticker .track span {
+  color: inherit;
+  text-decoration: none;
+  cursor: pointer;
+}
+.ticker .track .ticker-item:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: var(--text);
+}
+.ticker .track .ticker-item b,
+.ticker .track span b { color: var(--cyan); font-weight: 600; }
+.ticker .track .ticker-item::before,
 .ticker .track span::before { content: "◆ "; color: var(--cyan); margin-right: 6px; }
 @keyframes ticker { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 
@@ -859,9 +872,23 @@ section.tight { padding: 52px 0; }
 html { background: var(--bg-void); }
 body { background: transparent; }
 .bg-slides { position: fixed; inset: 0; z-index: -1; overflow: hidden; }
-.bg-slides div { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: 0; transition: opacity 2s ease; }
+.bg-slides .bg-layer,
+.bg-slides div { position: absolute; inset: 0; background-size: cover; background-position: center; opacity: 0; transition: opacity 1.4s ease; }
+.bg-slides .bg-layer.on,
 .bg-slides div.on { opacity: 1; }
-.bg-slides::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,9,15,.55) 0%, rgba(7,9,15,.82) 45%, rgba(7,9,15,.92) 100%); }
+.bg-slides::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(7,9,15,.55) 0%, rgba(7,9,15,.82) 45%, rgba(7,9,15,.92) 100%); pointer-events: none; }
+.anchor-flash {
+  outline: 2px solid var(--cyan);
+  outline-offset: 4px;
+  box-shadow: 0 0 0 6px rgba(79,209,197,0.18);
+  transition: outline-color .8s ease, box-shadow .8s ease;
+  border-radius: 8px;
+}
+@keyframes anchorFlashFade {
+  0% { outline-color: var(--cyan); box-shadow: 0 0 0 6px rgba(79,209,197,0.25); }
+  100% { outline-color: transparent; box-shadow: 0 0 0 0 transparent; }
+}
+.anchor-flash { animation: anchorFlashFade 2.2s ease forwards; }
 .hero { background: transparent !important; }
 .card, .social-card { background: rgba(17,24,39,.88); backdrop-filter: blur(4px); }
 .bg-credit { font-size: .74rem; color: var(--text-faint); margin-bottom: 18px; }

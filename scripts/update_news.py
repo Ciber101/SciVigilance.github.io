@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Daily data refresh for SciVigilance.
 Writes data/latest.json (real frontier-science news from public RSS feeds; every item keeps
-its original link + an image taken from the feed or the article's og:image) and
-data/backgrounds.json (public-domain NASA space imagery that rotates daily).
+its original link + an image taken from the feed or the article's og:image).
+Background images are handled by scripts/update_background.py (hourly pool).
 Never invents stories: items without a real link AND real image are skipped."""
 import json, os, re, sys, html, datetime, urllib.request, urllib.parse
 import feedparser
@@ -166,36 +166,6 @@ def ai_news():
     out.sort(key=lambda a: a['ts'], reverse=True)
     return dedupe(out)[:AI_TOTAL]
 
-BG_IDS = [  # hand-picked real public-domain NASA space imagery (no ground/lab photos, no artist concepts)
- 'PIA04921', 'PIA15985', 'PIA18164', 'PIA23122', 'PIA03606', 'PIA12348', 'PIA22568', 'PIA17563',
- 'PIA09579', 'PIA04230', 'PIA14417', 'PIA20061', 'PIA18906', 'PIA21923']
-
-def nasa_asset(i):
-    meta = json.loads(get('https://images-api.nasa.gov/search?nasa_id=' + urllib.parse.quote(i)))['collection']['items']
-    title = meta[0]['data'][0]['title'] if meta else i
-    hrefs = [x['href'] for x in json.loads(get('https://images-api.nasa.gov/asset/' + urllib.parse.quote(i)))['collection']['items']]
-    pick = next((h for k in ('~large.jpg', '~medium.jpg') for h in hrefs if h.endswith(k)), None)
-    return {'image': pick.replace('http://', 'https://'), 'credit': f'{title} — NASA (public domain)',
-            'credit_url': 'https://images.nasa.gov/details/' + i} if pick else None
-
-def backgrounds():
-    slides = []
-    try:
-        a = json.loads(get('https://api.nasa.gov/planetary/apod?api_key=' + os.environ.get('NASA_API_KEY', 'DEMO_KEY')))
-        img = a.get('hdurl') or a.get('url') or ''
-        if a.get('media_type') == 'image' and not a.get('copyright') and 'apod.nasa.gov' in img and img.lower().endswith(('.jpg', '.jpeg', '.png')):
-            slides.append({'image': (a.get('hdurl') or a['url']).replace('http://', 'https://'),
-                           'credit': f"APOD {a['date']}: {a['title']} — NASA (public domain)",
-                           'credit_url': 'https://apod.nasa.gov/apod/astropix.html'})
-    except Exception as ex: print('APOD skip', ex, file=sys.stderr)
-    day = datetime.date.today().toordinal()
-    for k in range(len(BG_IDS)):
-        if len(slides) >= 4: break
-        try:
-            s = nasa_asset(BG_IDS[(day + k) % len(BG_IDS)])
-            if s: slides.append(s)
-        except Exception as ex: print('bg fail', ex, file=sys.stderr)
-    return slides
 
 if __name__ == '__main__':
     arts = news()
@@ -207,6 +177,24 @@ if __name__ == '__main__':
                    'tagline': f'{len(arts)} real stories from the frontier of science, each linked to its source.', 'articles': arts, 'ai': ai},
                   open(os.path.join(DATA, 'latest.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     else: print('too few articles; keeping previous latest.json', file=sys.stderr)
-    bg = backgrounds()
-    if bg: json.dump(bg, open(os.path.join(DATA, 'backgrounds.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    print('articles', len(arts), 'backgrounds', len(bg))
+    print('articles', len(arts), 'ai', len(ai))
+    # Hourly background pool (NASA / ESA / Webb / Hubble / Rubin) — same refresh routine
+    try:
+        import update_background
+        # On routine refreshes, keep the local pool and only refresh APOD + manifest.
+        # Full collect runs when the pool is still thin (first setup / recovery).
+        man = os.path.join(DATA, 'backgrounds.json')
+        n = 0
+        if os.path.isfile(man):
+            try:
+                payload = json.load(open(man, encoding='utf-8'))
+                n = payload.get('count') if isinstance(payload, dict) else len(payload or [])
+            except Exception:
+                n = 0
+        if n >= 120:
+            rc = update_background.run(skip_collect=True)
+        else:
+            rc = update_background.run()
+        print('update_background exit', rc, 'prior_count', n)
+    except Exception as ex:
+        print('update_background failed', ex, file=sys.stderr)
