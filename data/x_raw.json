@@ -1,10 +1,91 @@
 {
   "data": [
     {
+      "created_at": "2026-10-15T20:10:37.000Z",
+      "edit_history_tweet_ids": [
+        "2110825695438131561"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "14710129",
+            "start": 0,
+            "username": "PeterDiamandis"
+          }
+        ]
+      },
+      "id": "2110825695438131561",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@PeterDiamandis It's done the opposite for me. Because of AI, I'm much more active daily. I actively feel like I'm getting more intelligent and it feels good.",
+      "url": "https://x.com/i/status/2110825695438131561"
+    },
+    {
+      "created_at": "2026-10-15T20:03:33.000Z",
+      "edit_history_tweet_ids": [
+        "2110823916675670243"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "14710129",
+            "start": 0,
+            "username": "PeterDiamandis"
+          }
+        ]
+      },
+      "id": "2110823916675670243",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "@PeterDiamandis Suffering is the most disgusting thing to exist in the universe. It must be stopped one day.",
+      "url": "https://x.com/i/status/2110823916675670243"
+    },
+    {
       "created_at": "2026-10-15T19:01:14.000Z",
       "edit_history_tweet_ids": [
         "2110808233057361976"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 193,
+            "start": 180,
+            "tag": "SpaceStation"
+          },
+          {
+            "end": 205,
+            "start": 194,
+            "tag": "SolarPower"
+          }
+        ],
+        "urls": [
+          {
+            "description": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life",
+            "display_url": "nasa.gov/missions/stati…",
+            "end": 178,
+            "expanded_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+            "start": 155,
+            "status": 200,
+            "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply - NASA",
+            "unwound_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+            "url": "https://t.co/LN9cbzQZqN"
+          }
+        ]
+      },
       "id": "2110808233057361976",
       "public_metrics": {
         "bookmark_count": 0,
@@ -15,30 +96,108 @@
         "retweet_count": 0
       },
       "text": "NASA upgrades ISS solar arrays, boosting power for research and deep space exploration. Solar energy fuels life support and Earth innovations from orbit.\n\nhttps://t.co/LN9cbzQZqN\n\n#SpaceStation #SolarPower",
-      "url": "https://x.com/SciVigil/status/2110808233057361976"
+      "url": "https://x.com/i/status/2110808233057361976"
     },
     {
       "created_at": "2026-10-15T16:01:13.000Z",
       "edit_history_tweet_ids": [
         "2110762929239023640"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 138,
+            "start": 124,
+            "tag": "ClimateChange"
+          },
+          {
+            "end": 152,
+            "start": 139,
+            "tag": "Conservation"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Seabirds, native plants and healthy reefs can help atolls build as seas rise.",
+            "display_url": "arstechnica.com/science/2026/1…",
+            "end": 122,
+            "expanded_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=orig",
+                "width": 1152
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 99,
+            "status": 200,
+            "title": "Seabirds, forests and coral could help save sinking islands",
+            "unwound_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+            "url": "https://t.co/QbdamjalKO"
+          }
+        ]
+      },
       "id": "2110762929239023640",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
       },
       "text": "Rewilding boosts island resilience against rising seas: seabirds, plants, reefs help atolls rise.\n\nhttps://t.co/QbdamjalKO\n\n#ClimateChange #Conservation",
-      "url": "https://x.com/SciVigil/status/2110762929239023640"
+      "url": "https://x.com/i/status/2110762929239023640"
     },
     {
       "created_at": "2026-10-15T13:00:58.000Z",
       "edit_history_tweet_ids": [
         "2110717570458521800"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 134,
+            "start": 120,
+            "tag": "VenusMissions"
+          },
+          {
+            "end": 145,
+            "start": 135,
+            "tag": "NASASpace"
+          }
+        ],
+        "urls": [
+          {
+            "description": "This is great news for us. We're staffing up. We're accelerating.\"",
+            "display_url": "arstechnica.com/space/2026/10/…",
+            "end": 118,
+            "expanded_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=orig",
+                "width": 1152
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 95,
+            "status": 200,
+            "title": "NASA's embattled Venus missions are back on track after cancellation threat",
+            "unwound_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+            "url": "https://t.co/w7gkA4gVeI"
+          }
+        ]
+      },
       "id": "2110717570458521800",
       "public_metrics": {
         "bookmark_count": 0,
@@ -49,13 +208,52 @@
         "retweet_count": 0
       },
       "text": "NASA's Venus missions are back on track! Staffing up, accelerating after cancellation threat.\n\nhttps://t.co/w7gkA4gVeI\n\n#VenusMissions #NASASpace",
-      "url": "https://x.com/SciVigil/status/2110717570458521800"
+      "url": "https://x.com/i/status/2110717570458521800"
     },
     {
       "created_at": "2026-10-15T10:00:59.000Z",
       "edit_history_tweet_ids": [
         "2110672276928766361"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 168,
+            "start": 154,
+            "tag": "GyroscopeTech"
+          },
+          {
+            "end": 190,
+            "start": 169,
+            "tag": "NavigationInnovation"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. This record sensitivity, approaching Earth's rotation rate of 15 degrees ...",
+            "display_url": "phys.org/news/2026-10-c…",
+            "end": 152,
+            "expanded_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+            "images": [
+              {
+                "height": 525,
+                "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 129,
+            "status": 200,
+            "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
+            "unwound_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+            "url": "https://t.co/IT70aPI4U9"
+          }
+        ]
+      },
       "id": "2110672276928766361",
       "public_metrics": {
         "bookmark_count": 0,
@@ -66,30 +264,95 @@
         "retweet_count": 0
       },
       "text": "Breakthrough chip-scale gyroscope detects rotations as slow as 37°/hr—near Earth's spin—boosting GPS-free navigation precision!\n\nhttps://t.co/IT70aPI4U9\n\n#GyroscopeTech #NavigationInnovation",
-      "url": "https://x.com/SciVigil/status/2110672276928766361"
+      "url": "https://x.com/i/status/2110672276928766361"
     },
     {
       "created_at": "2026-10-15T07:00:53.000Z",
       "edit_history_tweet_ids": [
         "2110626951316861377"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 139,
+            "start": 130,
+            "tag": "MilkyWay"
+          },
+          {
+            "end": 145,
+            "start": 140,
+            "tag": "APOD"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "science.nasa.gov/image-article/…",
+            "end": 128,
+            "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+            "images": [
+              {
+                "height": 1280,
+                "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=orig",
+                "width": 720
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 105,
+            "status": 200,
+            "title": "APOD: 2026 October 15 - The Milky Way over Manhattan - NASA Science",
+            "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+            "url": "https://t.co/q8MyTiCmdw"
+          }
+        ]
+      },
       "id": "2110626951316861377",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 25,
+        "impression_count": 26,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
       },
       "text": "Stunning view! The Milky Way's cosmic beauty meets Manhattan's urban skyline in this breathtaking APOD.\n\nhttps://t.co/q8MyTiCmdw\n\n#MilkyWay #APOD",
-      "url": "https://x.com/SciVigil/status/2110626951316861377"
+      "url": "https://x.com/i/status/2110626951316861377"
     },
     {
       "created_at": "2026-10-15T04:00:55.000Z",
       "edit_history_tweet_ids": [
         "2110581662937702705"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 128,
+            "start": 115,
+            "tag": "SpaceBiology"
+          },
+          {
+            "end": 143,
+            "start": 129,
+            "tag": "PlantGenetics"
+          }
+        ],
+        "urls": [
+          {
+            "description": "npj Microgravity - Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
+            "display_url": "nature.com/articles/s4152…",
+            "end": 113,
+            "expanded_url": "https://www.nature.com/articles/s41526-026-00663-4",
+            "start": 90,
+            "status": 200,
+            "title": "Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
+            "unwound_url": "https://www.nature.com/articles/s41526-026-00663-4?error=cookies_not_supported&code=500bda5d-2ac5-4ae7-bdae-2793e15f3103",
+            "url": "https://t.co/ZvoiTrxBZO"
+          }
+        ]
+      },
       "id": "2110581662937702705",
       "public_metrics": {
         "bookmark_count": 0,
@@ -100,13 +363,52 @@
         "retweet_count": 0
       },
       "text": "Genetic tweaks to plant's putrescine pathway boost resilience in spaceflight conditions.\n\nhttps://t.co/ZvoiTrxBZO\n\n#SpaceBiology #PlantGenetics",
-      "url": "https://x.com/SciVigil/status/2110581662937702705"
+      "url": "https://x.com/i/status/2110581662937702705"
     },
     {
       "created_at": "2026-10-15T01:00:58.000Z",
       "edit_history_tweet_ids": [
         "2110536374155989079"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 152,
+            "start": 142,
+            "tag": "BlackHole"
+          },
+          {
+            "end": 169,
+            "start": 153,
+            "tag": "GalaxyCollision"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef”",
+            "display_url": "science.nasa.gov/missions/chand…",
+            "end": 140,
+            "expanded_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+            "images": [
+              {
+                "height": 953,
+                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 117,
+            "status": 200,
+            "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision - NASA Science",
+            "unwound_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+            "url": "https://t.co/MIRKKpajlx"
+          }
+        ]
+      },
       "id": "2110536374155989079",
       "public_metrics": {
         "bookmark_count": 0,
@@ -117,13 +419,40 @@
         "retweet_count": 0
       },
       "text": "NASA's Chandra reveals 'Treble Clef' galaxy cluster collision, likely caused by a supermassive black hole outburst!\n\nhttps://t.co/MIRKKpajlx\n\n#BlackHole #GalaxyCollision",
-      "url": "https://x.com/SciVigil/status/2110536374155989079"
+      "url": "https://x.com/i/status/2110536374155989079"
     },
     {
       "created_at": "2026-10-15T00:01:20.000Z",
       "edit_history_tweet_ids": [
         "2110521370069365027"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 83,
+            "start": 75,
+            "tag": "Science"
+          },
+          {
+            "end": 87,
+            "start": 84,
+            "tag": "AI"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Space and science, distilled into a daily signal.",
+            "display_url": "ciber101.github.io/SciVigilance.g…",
+            "end": 74,
+            "expanded_url": "https://ciber101.github.io/SciVigilance.github.io/",
+            "start": 51,
+            "status": 200,
+            "title": "SciVigilance — The Daily Signal",
+            "unwound_url": "https://ciber101.github.io/SciVigilance.github.io/",
+            "url": "https://t.co/h6417C2e7q"
+          }
+        ]
+      },
       "id": "2110521370069365027",
       "public_metrics": {
         "bookmark_count": 0,
@@ -134,13 +463,52 @@
         "retweet_count": 0
       },
       "text": "🌐 Today's science &amp; AI news, all in one place: https://t.co/h6417C2e7q #Science #AI",
-      "url": "https://x.com/SciVigil/status/2110521370069365027"
+      "url": "https://x.com/i/status/2110521370069365027"
     },
     {
       "created_at": "2026-10-14T22:06:06.000Z",
       "edit_history_tweet_ids": [
         "2110492368227151926"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 147,
+            "start": 128,
+            "tag": "WeatherForecasting"
+          },
+          {
+            "end": 164,
+            "start": 148,
+            "tag": "MachineLearning"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A new technique significantly improves weather forecasting beyond two weeks. Researchers developed a machine-learning model that learns to correct errors in existing forecasting models to make their output more accurate over the two-to-six-week time frame, a key window for emergency planning.",
+            "display_url": "news.mit.edu/2026/researche…",
+            "end": 126,
+            "expanded_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+            "images": [
+              {
+                "height": 540,
+                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=orig",
+                "width": 810
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 103,
+            "status": 200,
+            "title": "Researchers improve weather forecasts looking two to six weeks out",
+            "unwound_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+            "url": "https://t.co/EnyFwEflRj"
+          }
+        ]
+      },
       "id": "2110492368227151926",
       "public_metrics": {
         "bookmark_count": 0,
@@ -151,15 +519,24 @@
         "retweet_count": 0
       },
       "text": "Breakthrough! Machine learning boosts 2-6 week weather forecasts, revolutionizing emergency planning.\n\nhttps://t.co/EnyFwEflRj\n\n#WeatherForecasting #MachineLearning",
-      "url": "https://x.com/SciVigil/status/2110492368227151926"
+      "url": "https://x.com/i/status/2110492368227151926"
     },
     {
       "created_at": "2026-10-14T17:44:37.000Z",
       "edit_history_tweet_ids": [
         "2110426564647367041"
       ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 13,
+            "id": "2054998853900775424",
+            "start": 0,
+            "username": "NASADepAdmin"
+          }
+        ]
+      },
       "id": "2110426564647367041",
-      "in_reply_to_user_id": "2054998853900775424",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 65,
@@ -168,20 +545,53 @@
         "reply_count": 0,
         "retweet_count": 0
       },
-      "referenced_tweets": [
-        {
-          "id": "2110345153202327718",
-          "type": "replied_to"
-        }
-      ],
       "text": "@NASADepAdmin Put them all over the country. It's very important.",
-      "url": "https://x.com/SciVigil/status/2110426564647367041"
+      "url": "https://x.com/i/status/2110426564647367041"
     },
     {
       "created_at": "2026-10-14T10:01:32.000Z",
       "edit_history_tweet_ids": [
         "2110310023993946569"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 202,
+            "start": 187,
+            "tag": "QuantumPhysics"
+          },
+          {
+            "end": 213,
+            "start": 203,
+            "tag": "Photonics"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult ...",
+            "display_url": "phys.org/news/2026-10-u…",
+            "end": 185,
+            "expanded_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+            "images": [
+              {
+                "height": 853,
+                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 162,
+            "status": 200,
+            "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
+            "unwound_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
+            "url": "https://t.co/HmyBUe2bcr"
+          }
+        ]
+      },
       "id": "2110310023993946569",
       "public_metrics": {
         "bookmark_count": 0,
@@ -192,13 +602,52 @@
         "retweet_count": 0
       },
       "text": "Ultrashort laser pulses reveal electrons' quantum geometry in 2D semiconductors, measuring Berry curvature in tungsten diselenide—published in Nature Photonics.\n\nhttps://t.co/HmyBUe2bcr\n\n#QuantumPhysics #Photonics",
-      "url": "https://x.com/SciVigil/status/2110310023993946569"
+      "url": "https://x.com/i/status/2110310023993946569"
     },
     {
       "created_at": "2026-10-14T07:01:19.000Z",
       "edit_history_tweet_ids": [
         "2110264671274197118"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 137,
+            "start": 125,
+            "tag": "JunoMission"
+          },
+          {
+            "end": 159,
+            "start": 138,
+            "tag": "JupiterMagnetosphere"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Using observations from NASA's Juno spacecraft, an international team led by Shandong University shows that Jupiter's magnetodisk is a rippling structure that rotates with the planet, contrary to what scientists previously thought.",
+            "display_url": "universetoday.com/articles/new-d…",
+            "end": 123,
+            "expanded_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
+            "images": [
+              {
+                "height": 960,
+                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 100,
+            "status": 200,
+            "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
+            "unwound_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
+            "url": "https://t.co/0zgB8xdrwc"
+          }
+        ]
+      },
       "id": "2110264671274197118",
       "public_metrics": {
         "bookmark_count": 0,
@@ -209,13 +658,40 @@
         "retweet_count": 0
       },
       "text": "Jupiter's magnetodisk is wavy, per Juno data—ripples rotate with the planet, defying old theories!\n\nhttps://t.co/0zgB8xdrwc\n\n#JunoMission #JupiterMagnetosphere",
-      "url": "https://x.com/SciVigil/status/2110264671274197118"
+      "url": "https://x.com/i/status/2110264671274197118"
     },
     {
       "created_at": "2026-10-14T04:01:19.000Z",
       "edit_history_tweet_ids": [
         "2110219375051747788"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 195,
+            "start": 175,
+            "tag": "CancerImmunotherapy"
+          },
+          {
+            "end": 218,
+            "start": 196,
+            "tag": "CardiovascularDisease"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Nature Communications - Immune checkpoint inhibitor (ICI)-induced myocarditis is a rare side effect of ICI therapy. Here the authors use multi-omics approaches to characterize the immune cells and...",
+            "display_url": "nature.com/articles/s4146…",
+            "end": 173,
+            "expanded_url": "https://www.nature.com/articles/s41467-026-77262-0",
+            "start": 150,
+            "status": 200,
+            "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
+            "unwound_url": "https://www.nature.com/articles/s41467-026-77262-0?error=cookies_not_supported&code=67cef1fc-5bdc-421a-8748-05c45e4f0c2b",
+            "url": "https://t.co/Tmx6eh36Wi"
+          }
+        ]
+      },
       "id": "2110219375051747788",
       "public_metrics": {
         "bookmark_count": 0,
@@ -226,13 +702,52 @@
         "retweet_count": 0
       },
       "text": "Breakthrough study identifies unique immune signatures in checkpoint inhibitor-induced myocarditis, offering new diagnostic and therapeutic avenues.\n\nhttps://t.co/Tmx6eh36Wi\n\n#CancerImmunotherapy #CardiovascularDisease",
-      "url": "https://x.com/SciVigil/status/2110219375051747788"
+      "url": "https://x.com/i/status/2110219375051747788"
     },
     {
       "created_at": "2026-10-14T01:01:41.000Z",
       "edit_history_tweet_ids": [
         "2110174167723393117"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 162,
+            "start": 157,
+            "tag": "NASA"
+          },
+          {
+            "end": 175,
+            "start": 163,
+            "tag": "WomenInSTEM"
+          }
+        ],
+        "urls": [
+          {
+            "description": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of",
+            "display_url": "nasa.gov/news-release/n…",
+            "end": 155,
+            "expanded_url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+            "images": [
+              {
+                "height": 1280,
+                "url": "https://pbs.twimg.com/news_img/2110109192027529216/UPE-dOCh?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110109192027529216/UPE-dOCh?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 132,
+            "status": 200,
+            "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer - NASA",
+            "unwound_url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
+            "url": "https://t.co/IoFi0ZZuRN"
+          }
+        ]
+      },
       "id": "2110174167723393117",
       "public_metrics": {
         "bookmark_count": 0,
@@ -243,13 +758,80 @@
         "retweet_count": 0
       },
       "text": "NASA appoints astronaut Christina Koch as acting deputy chief engineer, succeeding Katherine Van Hooser after 35 years of service.\n\nhttps://t.co/IoFi0ZZuRN\n\n#NASA #WomenInSTEM",
-      "url": "https://x.com/SciVigil/status/2110174167723393117"
+      "url": "https://x.com/i/status/2110174167723393117"
     },
     {
       "created_at": "2026-10-14T00:01:13.000Z",
       "edit_history_tweet_ids": [
         "2110158950540964263"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 76,
+            "start": 69,
+            "tag": "shorts"
+          },
+          {
+            "end": 159,
+            "start": 151,
+            "tag": "Science"
+          },
+          {
+            "end": 166,
+            "start": 160,
+            "tag": "Space"
+          }
+        ],
+        "urls": [
+          {
+            "description": "From my X feed: a red dwarf is slowly eating a brown dwarf, about 3...",
+            "display_url": "youtube.com/shorts/2iQgYJN…",
+            "end": 100,
+            "expanded_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=orig",
+                "width": 405
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 77,
+            "status": 200,
+            "title": "This star is eating its neighbor… for billions of years #shorts",
+            "unwound_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
+            "url": "https://t.co/Jf5fR6bxN8"
+          },
+          {
+            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
+            "display_url": "youtube.com/@ciberaifacts/…",
+            "end": 150,
+            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
+            "images": [
+              {
+                "height": 900,
+                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
+                "width": 900
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 127,
+            "status": 200,
+            "title": "CAI (AI Science Facts)",
+            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
+            "url": "https://t.co/Ixim7fNj7d"
+          }
+        ]
+      },
       "id": "2110158950540964263",
       "public_metrics": {
         "bookmark_count": 0,
@@ -260,13 +842,52 @@
         "retweet_count": 0
       },
       "text": "🎬 New Short: This star is eating its neighbor… for billions of years #shorts\nhttps://t.co/Jf5fR6bxN8\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
-      "url": "https://x.com/SciVigil/status/2110158950540964263"
+      "url": "https://x.com/i/status/2110158950540964263"
     },
     {
       "created_at": "2026-10-13T22:01:44.000Z",
       "edit_history_tweet_ids": [
         "2110128881181298986"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 114,
+            "start": 99,
+            "tag": "QuantumPhysics"
+          },
+          {
+            "end": 136,
+            "start": 115,
+            "tag": "ConsciousnessScience"
+          }
+        ],
+        "urls": [
+          {
+            "description": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness ...",
+            "display_url": "phys.org/news/2026-10-m…",
+            "end": 97,
+            "expanded_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
+            "images": [
+              {
+                "height": 767,
+                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 74,
+            "status": 200,
+            "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
+            "unwound_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
+            "url": "https://t.co/ZEkR5mo9oN"
+          }
+        ]
+      },
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
@@ -277,13 +898,52 @@
         "retweet_count": 0
       },
       "text": "Could meditation unveil a hidden SU(3) symmetry linking mind and cosmos?\n\nhttps://t.co/ZEkR5mo9oN\n\n#QuantumPhysics #ConsciousnessScience",
-      "url": "https://x.com/SciVigil/status/2110128881181298986"
+      "url": "https://x.com/i/status/2110128881181298986"
     },
     {
       "created_at": "2026-10-13T19:01:45.000Z",
       "edit_history_tweet_ids": [
         "2110083588423291184"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 148,
+            "start": 141,
+            "tag": "Rovers"
+          },
+          {
+            "end": 166,
+            "start": 149,
+            "tag": "SpaceExploration"
+          }
+        ],
+        "urls": [
+          {
+            "description": "This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers",
+            "display_url": "science.nasa.gov/photojournal/c…",
+            "end": 139,
+            "expanded_url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
+            "images": [
+              {
+                "height": 1280,
+                "url": "https://pbs.twimg.com/news_img/2110070972787134465/Lw2Qx_v5?format=jpg&name=orig",
+                "width": 720
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110070972787134465/Lw2Qx_v5?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 116,
+            "status": 200,
+            "title": "Comparing Off-World Rover Driving Distances - NASA Science",
+            "unwound_url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
+            "url": "https://t.co/MjfMTqGzJB"
+          }
+        ]
+      },
       "id": "2110083588423291184",
       "public_metrics": {
         "bookmark_count": 0,
@@ -294,13 +954,52 @@
         "retweet_count": 0
       },
       "text": "NASA rovers on Moon and Mars: Curiosity and Perseverance lead in distance, as of Oct. 2026. Explore their journey!\n\nhttps://t.co/MjfMTqGzJB\n\n#Rovers #SpaceExploration",
-      "url": "https://x.com/SciVigil/status/2110083588423291184"
+      "url": "https://x.com/i/status/2110083588423291184"
     },
     {
       "created_at": "2026-10-13T17:30:37.000Z",
       "edit_history_tweet_ids": [
         "2110060654145179816"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 139,
+            "start": 130,
+            "tag": "NASAJobs"
+          },
+          {
+            "end": 153,
+            "start": 140,
+            "tag": "LegalCareers"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Vacancy Announcement for Chief Counsel at NASA Glenn Research Center",
+            "display_url": "nasa.gov/organizations/…",
+            "end": 128,
+            "expanded_url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
+            "images": [
+              {
+                "height": 4358,
+                "url": "https://pbs.twimg.com/news_img/2110057698460872705/mD1HVQ3z?format=jpg&name=orig",
+                "width": 5835
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110057698460872705/mD1HVQ3z?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 105,
+            "status": 200,
+            "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL - NASA",
+            "unwound_url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
+            "url": "https://t.co/55OHvWEZmp"
+          }
+        ]
+      },
       "id": "2110060654145179816",
       "public_metrics": {
         "bookmark_count": 0,
@@ -311,13 +1010,80 @@
         "retweet_count": 0
       },
       "text": "NASA seeks legal professionals for the Office of the General Counsel—join our mission in space and law!\n\nhttps://t.co/55OHvWEZmp\n\n#NASAJobs #LegalCareers",
-      "url": "https://x.com/SciVigil/status/2110060654145179816"
+      "url": "https://x.com/i/status/2110060654145179816"
     },
     {
       "created_at": "2026-10-13T17:27:38.000Z",
       "edit_history_tweet_ids": [
         "2110059902769205263"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 61,
+            "start": 54,
+            "tag": "shorts"
+          },
+          {
+            "end": 144,
+            "start": 136,
+            "tag": "Science"
+          },
+          {
+            "end": 151,
+            "start": 145,
+            "tag": "Space"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A teaspoon of neutron star would weigh about a billion tons on Eart...",
+            "display_url": "youtube.com/shorts/aN9uXdo…",
+            "end": 85,
+            "expanded_url": "https://www.youtube.com/shorts/aN9uXdopN5g",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2110059903029276673/k5yvSork?format=jpg&name=orig",
+                "width": 405
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110059903029276673/k5yvSork?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 62,
+            "status": 200,
+            "title": "A teaspoon of this weighs a billion tons #shorts",
+            "unwound_url": "https://www.youtube.com/shorts/aN9uXdopN5g",
+            "url": "https://t.co/GxWrleAW0f"
+          },
+          {
+            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
+            "display_url": "youtube.com/@ciberaifacts/…",
+            "end": 135,
+            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
+            "images": [
+              {
+                "height": 900,
+                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
+                "width": 900
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 112,
+            "status": 200,
+            "title": "CAI (AI Science Facts)",
+            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
+            "url": "https://t.co/Ixim7fNj7d"
+          }
+        ]
+      },
       "id": "2110059902769205263",
       "public_metrics": {
         "bookmark_count": 0,
@@ -328,13 +1094,52 @@
         "retweet_count": 0
       },
       "text": "🎬 New Short: A teaspoon of this weighs a billion tons #shorts\nhttps://t.co/GxWrleAW0f\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
-      "url": "https://x.com/SciVigil/status/2110059902769205263"
+      "url": "https://x.com/i/status/2110059902769205263"
     },
     {
       "created_at": "2026-10-13T17:21:33.000Z",
       "edit_history_tweet_ids": [
         "2110058371021988014"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 150,
+            "start": 141,
+            "tag": "MoonBase"
+          },
+          {
+            "end": 161,
+            "start": 151,
+            "tag": "SpaceTech"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical",
+            "display_url": "nasa.gov/missions/moon-…",
+            "end": 139,
+            "expanded_url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+            "images": [
+              {
+                "height": 788,
+                "url": "https://pbs.twimg.com/news_img/2109994789101826048/HFPCA9Lx?format=jpg&name=orig",
+                "width": 1402
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2109994789101826048/HFPCA9Lx?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 116,
+            "status": 200,
+            "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission - NASA",
+            "unwound_url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
+            "url": "https://t.co/t7iPYMMUQm"
+          }
+        ]
+      },
       "id": "2110058371021988014",
       "public_metrics": {
         "bookmark_count": 0,
@@ -345,13 +1150,52 @@
         "retweet_count": 0
       },
       "text": "NASA's Voyager lander passes tests, paving way for Moon Base's first lunar outpost with extreme space simulations.\n\nhttps://t.co/t7iPYMMUQm\n\n#MoonBase #SpaceTech",
-      "url": "https://x.com/SciVigil/status/2110058371021988014"
+      "url": "https://x.com/i/status/2110058371021988014"
     },
     {
       "created_at": "2026-10-13T17:19:51.000Z",
       "edit_history_tweet_ids": [
         "2110057944054395392"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 138,
+            "start": 123,
+            "tag": "QuantumPhysics"
+          },
+          {
+            "end": 157,
+            "start": 139,
+            "tag": "EinsteinEquations"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
+            "display_url": "phys.org/news/2026-10-g…",
+            "end": 121,
+            "expanded_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
+            "images": [
+              {
+                "height": 1051,
+                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 98,
+            "status": 200,
+            "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
+            "unwound_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
+            "url": "https://t.co/Qmc5TNK5Ve"
+          }
+        ]
+      },
       "id": "2110057944054395392",
       "public_metrics": {
         "bookmark_count": 0,
@@ -362,30 +1206,106 @@
         "retweet_count": 0
       },
       "text": "Gravity and quantum info linked through Einstein's equations—spacetime shaped by quantum fields!\n\nhttps://t.co/Qmc5TNK5Ve\n\n#QuantumPhysics #EinsteinEquations",
-      "url": "https://x.com/SciVigil/status/2110057944054395392"
+      "url": "https://x.com/i/status/2110057944054395392"
     },
     {
       "created_at": "2026-10-13T17:18:58.000Z",
       "edit_history_tweet_ids": [
         "2110057720145650031"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 112,
+            "start": 101,
+            "tag": "Immunology"
+          },
+          {
+            "end": 120,
+            "start": 113,
+            "tag": "TCells"
+          },
+          {
+            "end": 160,
+            "start": 147,
+            "tag": "ImmuneMemory"
+          },
+          {
+            "end": 173,
+            "start": 161,
+            "tag": "CellBiology"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Nature Immunology - Author Correction: Monocyte-derived galectin-1hi cells provide innate immune help in the generation of functional memory CD8+ T cells",
+            "display_url": "nature.com/articles/s4159…",
+            "end": 145,
+            "expanded_url": "https://www.nature.com/articles/s41590-026-02704-2",
+            "start": 122,
+            "status": 200,
+            "title": "Author Correction: Monocyte-derived galectin-1hi cells provide innate immune help in the generation of functional memory CD8+ T cells",
+            "unwound_url": "https://www.nature.com/articles/s41590-026-02704-2?error=cookies_not_supported&code=06c03348-10c7-434f-8a20-45648f12456a",
+            "url": "https://t.co/qaD24yPzza"
+          }
+        ]
+      },
       "id": "2110057720145650031",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
       },
       "text": "Monocyte-derived galectin-1hi cells enhance memory CD8+ T cell function, boosting immune resilience. #Immunology #TCells\n\nhttps://t.co/qaD24yPzza\n\n#ImmuneMemory #CellBiology",
-      "url": "https://x.com/SciVigil/status/2110057720145650031"
+      "url": "https://x.com/i/status/2110057720145650031"
     },
     {
       "created_at": "2026-10-13T17:18:00.000Z",
       "edit_history_tweet_ids": [
         "2110057477454934399"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 182,
+            "start": 160,
+            "tag": "StructuralEngineering"
+          },
+          {
+            "end": 201,
+            "start": 183,
+            "tag": "VibrationAnalysis"
+          }
+        ],
+        "urls": [
+          {
+            "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov",
+            "display_url": "nasa.gov/centers-and-fa…",
+            "end": 158,
+            "expanded_url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+            "images": [
+              {
+                "height": 518,
+                "url": "https://pbs.twimg.com/news_img/2110023686413570048/odifou5R?format=jpg&name=orig",
+                "width": 989
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2110023686413570048/odifou5R?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 135,
+            "status": 200,
+            "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective - NASA",
+            "unwound_url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
+            "url": "https://t.co/OCEinxVyiC"
+          }
+        ]
+      },
       "id": "2110057477454934399",
       "public_metrics": {
         "bookmark_count": 0,
@@ -396,7 +1316,7 @@
         "retweet_count": 0
       },
       "text": "Did you know? Complex modes can form in lightly damped structures when two closely spaced modes interact via nonproportional damping.\n\nhttps://t.co/OCEinxVyiC\n\n#StructuralEngineering #VibrationAnalysis",
-      "url": "https://x.com/SciVigil/status/2110057477454934399"
+      "url": "https://x.com/i/status/2110057477454934399"
     },
     {
       "created_at": "2026-10-13T17:16:10.000Z",
@@ -1260,97 +2180,6 @@
       ],
       "text": "@SciGuySpace Can't wait to see who plants the next flag at the lunar south pole.",
       "url": "https://x.com/i/status/2091550475950924180"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "created_at": "2026-08-23T10:04:08.000Z",
-      "edit_history_tweet_ids": [
-        "2091466512972579055"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 263,
-            "start": 248,
-            "tag": "CuriosityRover"
-          },
-          {
-            "end": 275,
-            "start": 264,
-            "tag": "MountSharp"
-          }
-        ],
-        "urls": [
-          {
-            "description": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems",
-            "display_url": "science.nasa.gov/blog/curiosity…",
-            "end": 246,
-            "expanded_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-            "images": [
-              {
-                "height": 1141,
-                "url": "https://pbs.twimg.com/news_img/2091431147431460864/9DUPCNgq?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2091431147431460864/9DUPCNgq?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 223,
-            "status": 200,
-            "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming - NASA Science",
-            "unwound_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-            "url": "https://t.co/Zy24N4UJJt"
-          }
-        ]
-      },
-      "id": "2091466512972579055",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 26,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "This week Curiosity rover returns to its regular schedule after a brief detour to study an erosional surface. The team is now back on track climbing Mount Sharp, gathering data to unravel Gale Crater’s geological history.\n\nhttps://t.co/Zy24N4UJJt\n\n#CuriosityRover #MountSharp",
-      "url": "https://x.com/i/status/2091466512972579055"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "created_at": "2026-08-23T07:37:23.000Z",
-      "edit_history_tweet_ids": [
-        "2091429579420569808"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "2828212668",
-            "start": 0,
-            "username": "AMAZlNGNATURE"
-          }
-        ]
-      },
-      "id": "2091429579420569808",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 219,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091426820352803046",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@AMAZlNGNATURE Their eyes evolving separately is mindblowing for convergent evolution.",
-      "url": "https://x.com/i/status/2091429579420569808"
     }
   ],
   "includes": {
@@ -1365,8 +2194,9 @@
     ]
   },
   "meta": {
-    "newest_id": "2110808233057361976",
-    "oldest_id": "2091429579420569808",
-    "result_count": 50
+    "newest_id": "2110825695438131561",
+    "next_token": "7140dibdnow9c7btwp0g6xff5mfp92qkbaj94q8rdrqrd",
+    "oldest_id": "2110057477454934399",
+    "result_count": 25
   }
 }
