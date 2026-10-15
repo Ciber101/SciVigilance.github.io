@@ -1,3657 +1,1645 @@
 {
-  "data": [
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110536374155989079",
-      "created_at": "2026-10-15T01:00:58.000Z",
-      "edit_history_tweet_ids": [
-        "2110536374155989079"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 152,
-            "start": 142,
-            "tag": "BlackHole"
-          },
-          {
-            "end": 169,
-            "start": 153,
-            "tag": "GalaxyCollision"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef”",
-            "display_url": "science.nasa.gov/missions/chand…",
-            "end": 140,
-            "expanded_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-            "images": [
-              {
-                "height": 953,
-                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 117,
-            "status": 200,
-            "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision - NASA Science",
-            "unwound_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-            "url": "https://t.co/MIRKKpajlx"
-          }
-        ]
-      },
-      "id": "2110536374155989079",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA's Chandra reveals 'Treble Clef' galaxy cluster collision, likely caused by a supermassive black hole outburst!\n\nhttps://t.co/MIRKKpajlx\n\n#BlackHole #GalaxyCollision",
-      "url": "https://x.com/i/status/2110536374155989079"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110521370069365027",
-      "created_at": "2026-10-15T00:01:20.000Z",
-      "edit_history_tweet_ids": [
-        "2110521370069365027"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 83,
-            "start": 75,
-            "tag": "Science"
-          },
-          {
-            "end": 87,
-            "start": 84,
-            "tag": "AI"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Space and science, distilled into a daily signal.",
-            "display_url": "ciber101.github.io/SciVigilance.g…",
-            "end": 74,
-            "expanded_url": "https://ciber101.github.io/SciVigilance.github.io/",
-            "start": 51,
-            "status": 200,
-            "title": "SciVigilance — The Daily Signal",
-            "unwound_url": "https://ciber101.github.io/SciVigilance.github.io/",
-            "url": "https://t.co/h6417C2e7q"
-          }
-        ]
-      },
-      "id": "2110521370069365027",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 10,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🌐 Today's science &amp; AI news, all in one place: https://t.co/h6417C2e7q #Science #AI",
-      "url": "https://x.com/i/status/2110521370069365027"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110492368227151926",
-      "created_at": "2026-10-14T22:06:06.000Z",
-      "edit_history_tweet_ids": [
-        "2110492368227151926"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 147,
-            "start": 128,
-            "tag": "WeatherForecasting"
-          },
-          {
-            "end": 164,
-            "start": 148,
-            "tag": "MachineLearning"
-          }
-        ],
-        "urls": [
-          {
-            "description": "A new technique significantly improves weather forecasting beyond two weeks. Researchers developed a machine-learning model that learns to correct errors in existing forecasting models to make their output more accurate over the two-to-six-week time frame, a key window for emergency planning.",
-            "display_url": "news.mit.edu/2026/researche…",
-            "end": 126,
-            "expanded_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-            "images": [
-              {
-                "height": 540,
-                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=orig",
-                "width": 810
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 103,
-            "status": 200,
-            "title": "Researchers improve weather forecasts looking two to six weeks out",
-            "unwound_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-            "url": "https://t.co/EnyFwEflRj"
-          }
-        ]
-      },
-      "id": "2110492368227151926",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 7,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "text": "Breakthrough! Machine learning boosts 2-6 week weather forecasts, revolutionizing emergency planning.\n\nhttps://t.co/EnyFwEflRj\n\n#WeatherForecasting #MachineLearning",
-      "url": "https://x.com/i/status/2110492368227151926"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110345153202327718",
-      "created_at": "2026-10-14T17:44:37.000Z",
-      "edit_history_tweet_ids": [
-        "2110426564647367041"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 13,
-            "id": "2054998853900775424",
-            "start": 0,
-            "username": "NASADepAdmin"
-          }
-        ]
-      },
-      "id": "2110426564647367041",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 36,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2110345153202327718",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@NASADepAdmin Put them all over the country. It's very important.",
-      "url": "https://x.com/i/status/2110426564647367041"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110310023993946569",
-      "created_at": "2026-10-14T10:01:32.000Z",
-      "edit_history_tweet_ids": [
-        "2110310023993946569"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 202,
-            "start": 187,
-            "tag": "QuantumPhysics"
-          },
-          {
-            "end": 213,
-            "start": 203,
-            "tag": "Photonics"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Researchers at Friedrich Schiller University Jena and the University of Regensburg have developed a method for determining, using light, a quantum property of electrons that has hitherto been difficult ...",
-            "display_url": "phys.org/news/2026-10-u…",
-            "end": 185,
-            "expanded_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
-            "images": [
-              {
-                "height": 853,
-                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110310024555941888/rzIqtzwZ?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 162,
-            "status": 200,
-            "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry",
-            "unwound_url": "https://phys.org/news/2026-10-ultrashort-laser-pulses-probe-electrons.html",
-            "url": "https://t.co/HmyBUe2bcr"
-          }
-        ]
-      },
-      "id": "2110310023993946569",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Ultrashort laser pulses reveal electrons' quantum geometry in 2D semiconductors, measuring Berry curvature in tungsten diselenide—published in Nature Photonics.\n\nhttps://t.co/HmyBUe2bcr\n\n#QuantumPhysics #Photonics",
-      "url": "https://x.com/i/status/2110310023993946569"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110264671274197118",
-      "created_at": "2026-10-14T07:01:19.000Z",
-      "edit_history_tweet_ids": [
-        "2110264671274197118"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 137,
-            "start": 125,
-            "tag": "JunoMission"
-          },
-          {
-            "end": 159,
-            "start": 138,
-            "tag": "JupiterMagnetosphere"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Using observations from NASA's Juno spacecraft, an international team led by Shandong University shows that Jupiter's magnetodisk is a rippling structure that rotates with the planet, contrary to what scientists previously thought.",
-            "display_url": "universetoday.com/articles/new-d…",
-            "end": 123,
-            "expanded_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
-            "images": [
-              {
-                "height": 960,
-                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110148942579023872/j10dAhjL?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 100,
-            "status": 200,
-            "title": "New Data from the Juno Spacecraft Reveals that Jupiter's Has a Rippling, Wavy Magnetodisk",
-            "unwound_url": "https://www.universetoday.com/articles/new-data-from-the-juno-spacecraft-reveals-that-jupiters-has-a-rippling-wavy-magnetodisk",
-            "url": "https://t.co/0zgB8xdrwc"
-          }
-        ]
-      },
-      "id": "2110264671274197118",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Jupiter's magnetodisk is wavy, per Juno data—ripples rotate with the planet, defying old theories!\n\nhttps://t.co/0zgB8xdrwc\n\n#JunoMission #JupiterMagnetosphere",
-      "url": "https://x.com/i/status/2110264671274197118"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110219375051747788",
-      "created_at": "2026-10-14T04:01:19.000Z",
-      "edit_history_tweet_ids": [
-        "2110219375051747788"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 195,
-            "start": 175,
-            "tag": "CancerImmunotherapy"
-          },
-          {
-            "end": 218,
-            "start": 196,
-            "tag": "CardiovascularDisease"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Nature Communications - Immune checkpoint inhibitor (ICI)-induced myocarditis is a rare side effect of ICI therapy. Here the authors use multi-omics approaches to characterize the immune cells and...",
-            "display_url": "nature.com/articles/s4146…",
-            "end": 173,
-            "expanded_url": "https://www.nature.com/articles/s41467-026-77262-0",
-            "start": 150,
-            "status": 200,
-            "title": "Integrated multi-omics identifies distinct immune signatures with diagnostic and therapeutic implications in immune checkpoint inhibitor-induced myocarditis",
-            "unwound_url": "https://www.nature.com/articles/s41467-026-77262-0?error=cookies_not_supported&code=67cef1fc-5bdc-421a-8748-05c45e4f0c2b",
-            "url": "https://t.co/Tmx6eh36Wi"
-          }
-        ]
-      },
-      "id": "2110219375051747788",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Breakthrough study identifies unique immune signatures in checkpoint inhibitor-induced myocarditis, offering new diagnostic and therapeutic avenues.\n\nhttps://t.co/Tmx6eh36Wi\n\n#CancerImmunotherapy #CardiovascularDisease",
-      "url": "https://x.com/i/status/2110219375051747788"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110174167723393117",
-      "created_at": "2026-10-14T01:01:41.000Z",
-      "edit_history_tweet_ids": [
-        "2110174167723393117"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 162,
-            "start": 157,
-            "tag": "NASA"
-          },
-          {
-            "end": 175,
-            "start": 163,
-            "tag": "WomenInSTEM"
-          }
-        ],
-        "urls": [
-          {
-            "description": "NASA engineer and astronaut Christina Koch will serve as the agency’s acting deputy chief engineer beginning on Sunday, Nov. 1, following the retirement of",
-            "display_url": "nasa.gov/news-release/n…",
-            "end": 155,
-            "expanded_url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-            "images": [
-              {
-                "height": 1280,
-                "url": "https://pbs.twimg.com/news_img/2110109192027529216/UPE-dOCh?format=jpg&name=orig",
-                "width": 1920
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110109192027529216/UPE-dOCh?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 132,
-            "status": 200,
-            "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer - NASA",
-            "unwound_url": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/",
-            "url": "https://t.co/IoFi0ZZuRN"
-          }
-        ]
-      },
-      "id": "2110174167723393117",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 53,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA appoints astronaut Christina Koch as acting deputy chief engineer, succeeding Katherine Van Hooser after 35 years of service.\n\nhttps://t.co/IoFi0ZZuRN\n\n#NASA #WomenInSTEM",
-      "url": "https://x.com/i/status/2110174167723393117"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110158950540964263",
-      "created_at": "2026-10-14T00:01:13.000Z",
-      "edit_history_tweet_ids": [
-        "2110158950540964263"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 76,
-            "start": 69,
-            "tag": "shorts"
-          },
-          {
-            "end": 159,
-            "start": 151,
-            "tag": "Science"
-          },
-          {
-            "end": 166,
-            "start": 160,
-            "tag": "Space"
-          }
-        ],
-        "urls": [
-          {
-            "description": "From my X feed: a red dwarf is slowly eating a brown dwarf, about 3...",
-            "display_url": "youtube.com/shorts/2iQgYJN…",
-            "end": 100,
-            "expanded_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
-            "images": [
-              {
-                "height": 720,
-                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=orig",
-                "width": 405
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 77,
-            "status": 200,
-            "title": "This star is eating its neighbor… for billions of years #shorts",
-            "unwound_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
-            "url": "https://t.co/Jf5fR6bxN8"
-          },
-          {
-            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
-            "display_url": "youtube.com/@ciberaifacts/…",
-            "end": 150,
-            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "images": [
-              {
-                "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
-                "width": 900
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 127,
-            "status": 200,
-            "title": "CAI (AI Science Facts)",
-            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "url": "https://t.co/Ixim7fNj7d"
-          }
-        ]
-      },
-      "id": "2110158950540964263",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🎬 New Short: This star is eating its neighbor… for billions of years #shorts\nhttps://t.co/Jf5fR6bxN8\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
-      "url": "https://x.com/i/status/2110158950540964263"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110128881181298986",
-      "created_at": "2026-10-13T22:01:44.000Z",
-      "edit_history_tweet_ids": [
-        "2110128881181298986"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 114,
-            "start": 99,
-            "tag": "QuantumPhysics"
-          },
-          {
-            "end": 136,
-            "start": 115,
-            "tag": "ConsciousnessScience"
-          }
-        ],
-        "urls": [
-          {
-            "description": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness ...",
-            "display_url": "phys.org/news/2026-10-m…",
-            "end": 97,
-            "expanded_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-            "images": [
-              {
-                "height": 767,
-                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 74,
-            "status": 200,
-            "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
-            "unwound_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-            "url": "https://t.co/ZEkR5mo9oN"
-          }
-        ]
-      },
-      "id": "2110128881181298986",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 15,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Could meditation unveil a hidden SU(3) symmetry linking mind and cosmos?\n\nhttps://t.co/ZEkR5mo9oN\n\n#QuantumPhysics #ConsciousnessScience",
-      "url": "https://x.com/i/status/2110128881181298986"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110083588423291184",
-      "created_at": "2026-10-13T19:01:45.000Z",
-      "edit_history_tweet_ids": [
-        "2110083588423291184"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 148,
-            "start": 141,
-            "tag": "Rovers"
-          },
-          {
-            "end": 166,
-            "start": 149,
-            "tag": "SpaceExploration"
-          }
-        ],
-        "urls": [
-          {
-            "description": "This infographic illustrates the distances driven by various rovers on the surface of Earth’s Moon and Mars. Of the vehicles shown, the NASA Mars rovers",
-            "display_url": "science.nasa.gov/photojournal/c…",
-            "end": 139,
-            "expanded_url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
-            "images": [
-              {
-                "height": 1280,
-                "url": "https://pbs.twimg.com/news_img/2110070972787134465/Lw2Qx_v5?format=jpg&name=orig",
-                "width": 720
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110070972787134465/Lw2Qx_v5?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 116,
-            "status": 200,
-            "title": "Comparing Off-World Rover Driving Distances - NASA Science",
-            "unwound_url": "https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/",
-            "url": "https://t.co/MjfMTqGzJB"
-          }
-        ]
-      },
-      "id": "2110083588423291184",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 67,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA rovers on Moon and Mars: Curiosity and Perseverance lead in distance, as of Oct. 2026. Explore their journey!\n\nhttps://t.co/MjfMTqGzJB\n\n#Rovers #SpaceExploration",
-      "url": "https://x.com/i/status/2110083588423291184"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110060654145179816",
-      "created_at": "2026-10-13T17:30:37.000Z",
-      "edit_history_tweet_ids": [
-        "2110060654145179816"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 139,
-            "start": 130,
-            "tag": "NASAJobs"
-          },
-          {
-            "end": 153,
-            "start": 140,
-            "tag": "LegalCareers"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Vacancy Announcement for Chief Counsel at NASA Glenn Research Center",
-            "display_url": "nasa.gov/organizations/…",
-            "end": 128,
-            "expanded_url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
-            "images": [
-              {
-                "height": 4358,
-                "url": "https://pbs.twimg.com/news_img/2110057698460872705/mD1HVQ3z?format=jpg&name=orig",
-                "width": 5835
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110057698460872705/mD1HVQ3z?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 105,
-            "status": 200,
-            "title": "JOB OPPORTUNITIES: NASA OFFICE OF THE GENERAL COUNSEL - NASA",
-            "unwound_url": "https://www.nasa.gov/organizations/ogc/job-opportunities-nasa-office-of-the-general-counsel/",
-            "url": "https://t.co/55OHvWEZmp"
-          }
-        ]
-      },
-      "id": "2110060654145179816",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA seeks legal professionals for the Office of the General Counsel—join our mission in space and law!\n\nhttps://t.co/55OHvWEZmp\n\n#NASAJobs #LegalCareers",
-      "url": "https://x.com/i/status/2110060654145179816"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110059902769205263",
-      "created_at": "2026-10-13T17:27:38.000Z",
-      "edit_history_tweet_ids": [
-        "2110059902769205263"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 61,
-            "start": 54,
-            "tag": "shorts"
-          },
-          {
-            "end": 144,
-            "start": 136,
-            "tag": "Science"
-          },
-          {
-            "end": 151,
-            "start": 145,
-            "tag": "Space"
-          }
-        ],
-        "urls": [
-          {
-            "description": "A teaspoon of neutron star would weigh about a billion tons on Eart...",
-            "display_url": "youtube.com/shorts/aN9uXdo…",
-            "end": 85,
-            "expanded_url": "https://www.youtube.com/shorts/aN9uXdopN5g",
-            "images": [
-              {
-                "height": 720,
-                "url": "https://pbs.twimg.com/news_img/2110059903029276673/k5yvSork?format=jpg&name=orig",
-                "width": 405
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110059903029276673/k5yvSork?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 62,
-            "status": 200,
-            "title": "A teaspoon of this weighs a billion tons #shorts",
-            "unwound_url": "https://www.youtube.com/shorts/aN9uXdopN5g",
-            "url": "https://t.co/GxWrleAW0f"
-          },
-          {
-            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
-            "display_url": "youtube.com/@ciberaifacts/…",
-            "end": 135,
-            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "images": [
-              {
-                "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
-                "width": 900
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 112,
-            "status": 200,
-            "title": "CAI (AI Science Facts)",
-            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "url": "https://t.co/Ixim7fNj7d"
-          }
-        ]
-      },
-      "id": "2110059902769205263",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🎬 New Short: A teaspoon of this weighs a billion tons #shorts\nhttps://t.co/GxWrleAW0f\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
-      "url": "https://x.com/i/status/2110059902769205263"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110058371021988014",
-      "created_at": "2026-10-13T17:21:33.000Z",
-      "edit_history_tweet_ids": [
-        "2110058371021988014"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 150,
-            "start": 141,
-            "tag": "MoonBase"
-          },
-          {
-            "end": 161,
-            "start": 151,
-            "tag": "SpaceTech"
-          }
-        ],
-        "urls": [
-          {
-            "description": "A commercial lander that will be at the forefront of NASA’s efforts to establish a Moon Base, humanity’s first lunar outpost, has passed a series of critical",
-            "display_url": "nasa.gov/missions/moon-…",
-            "end": 139,
-            "expanded_url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-            "images": [
-              {
-                "height": 788,
-                "url": "https://pbs.twimg.com/news_img/2109994789101826048/HFPCA9Lx?format=jpg&name=orig",
-                "width": 1402
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2109994789101826048/HFPCA9Lx?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 116,
-            "status": 200,
-            "title": "NASA JPL Testing Readies Voyager Technologies Lander for Moon Mission - NASA",
-            "unwound_url": "https://www.nasa.gov/missions/moon-base/nasa-jpl-testing-readies-voyager-technologies-lander-for-moon-mission/",
-            "url": "https://t.co/t7iPYMMUQm"
-          }
-        ]
-      },
-      "id": "2110058371021988014",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 10,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA's Voyager lander passes tests, paving way for Moon Base's first lunar outpost with extreme space simulations.\n\nhttps://t.co/t7iPYMMUQm\n\n#MoonBase #SpaceTech",
-      "url": "https://x.com/i/status/2110058371021988014"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110057944054395392",
-      "created_at": "2026-10-13T17:19:51.000Z",
-      "edit_history_tweet_ids": [
-        "2110057944054395392"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 138,
-            "start": 123,
-            "tag": "QuantumPhysics"
-          },
-          {
-            "end": 157,
-            "start": 139,
-            "tag": "EinsteinEquations"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
-            "display_url": "phys.org/news/2026-10-g…",
-            "end": 121,
-            "expanded_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-            "images": [
-              {
-                "height": 1051,
-                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 98,
-            "status": 200,
-            "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
-            "unwound_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-            "url": "https://t.co/Qmc5TNK5Ve"
-          }
-        ]
-      },
-      "id": "2110057944054395392",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Gravity and quantum info linked through Einstein's equations—spacetime shaped by quantum fields!\n\nhttps://t.co/Qmc5TNK5Ve\n\n#QuantumPhysics #EinsteinEquations",
-      "url": "https://x.com/i/status/2110057944054395392"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110057720145650031",
-      "created_at": "2026-10-13T17:18:58.000Z",
-      "edit_history_tweet_ids": [
-        "2110057720145650031"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 112,
-            "start": 101,
-            "tag": "Immunology"
-          },
-          {
-            "end": 120,
-            "start": 113,
-            "tag": "TCells"
-          },
-          {
-            "end": 160,
-            "start": 147,
-            "tag": "ImmuneMemory"
-          },
-          {
-            "end": 173,
-            "start": 161,
-            "tag": "CellBiology"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Nature Immunology - Author Correction: Monocyte-derived galectin-1hi cells provide innate immune help in the generation of functional memory CD8+ T cells",
-            "display_url": "nature.com/articles/s4159…",
-            "end": 145,
-            "expanded_url": "https://www.nature.com/articles/s41590-026-02704-2",
-            "start": 122,
-            "status": 200,
-            "title": "Author Correction: Monocyte-derived galectin-1hi cells provide innate immune help in the generation of functional memory CD8+ T cells",
-            "unwound_url": "https://www.nature.com/articles/s41590-026-02704-2?error=cookies_not_supported&code=06c03348-10c7-434f-8a20-45648f12456a",
-            "url": "https://t.co/qaD24yPzza"
-          }
-        ]
-      },
-      "id": "2110057720145650031",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 4,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Monocyte-derived galectin-1hi cells enhance memory CD8+ T cell function, boosting immune resilience. #Immunology #TCells\n\nhttps://t.co/qaD24yPzza\n\n#ImmuneMemory #CellBiology",
-      "url": "https://x.com/i/status/2110057720145650031"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110057477454934399",
-      "created_at": "2026-10-13T17:18:00.000Z",
-      "edit_history_tweet_ids": [
-        "2110057477454934399"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 182,
-            "start": 160,
-            "tag": "StructuralEngineering"
-          },
-          {
-            "end": 201,
-            "start": 183,
-            "tag": "VibrationAnalysis"
-          }
-        ],
-        "urls": [
-          {
-            "description": "For more information, contact Joel W. Sills, Langley Research Center, joel.w.sills@nasa.gov",
-            "display_url": "nasa.gov/centers-and-fa…",
-            "end": 158,
-            "expanded_url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-            "images": [
-              {
-                "height": 518,
-                "url": "https://pbs.twimg.com/news_img/2110023686413570048/odifou5R?format=jpg&name=orig",
-                "width": 989
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110023686413570048/odifou5R?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 135,
-            "status": 200,
-            "title": "TB 26-08 Complex Modes in Lightly Damped Structural Systems:A Two-Mode Interaction Perspective - NASA",
-            "unwound_url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-08-complex-modes-in-lightly-damped-structural-systemsa-two-mode-interaction-perspective/",
-            "url": "https://t.co/OCEinxVyiC"
-          }
-        ]
-      },
-      "id": "2110057477454934399",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Did you know? Complex modes can form in lightly damped structures when two closely spaced modes interact via nonproportional damping.\n\nhttps://t.co/OCEinxVyiC\n\n#StructuralEngineering #VibrationAnalysis",
-      "url": "https://x.com/i/status/2110057477454934399"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110057018358935879",
-      "created_at": "2026-10-13T17:16:10.000Z",
-      "edit_history_tweet_ids": [
-        "2110057018358935879"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 169,
-            "start": 147,
-            "tag": "ClimateGeoengineering"
-          },
-          {
-            "end": 185,
-            "start": 170,
-            "tag": "GlobalPolitics"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-            "display_url": "arstechnica.com/science/2026/1…",
-            "end": 145,
-            "expanded_url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-            "images": [
-              {
-                "height": 648,
-                "url": "https://pbs.twimg.com/news_img/2110028062977114112/H_W_BBjQ?format=jpg&name=orig",
-                "width": 1024
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110028062977114112/H_W_BBjQ?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 122,
-            "status": 200,
-            "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-            "unwound_url": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-            "url": "https://t.co/0uRiFOhUhX"
-          }
-        ]
-      },
-      "id": "2110057018358935879",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "What if dimming the Sun backfires? A solar geoengineering simulation reveals geopolitics could make climate chaos worse.\n\nhttps://t.co/0uRiFOhUhX\n\n#ClimateGeoengineering #GlobalPolitics",
-      "url": "https://x.com/i/status/2110057018358935879"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110056684295242230",
-      "created_at": "2026-10-13T17:14:51.000Z",
-      "edit_history_tweet_ids": [
-        "2110056684295242230"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 138,
-            "start": 128,
-            "tag": "Astronomy"
-          },
-          {
-            "end": 156,
-            "start": 139,
-            "tag": "StellarEvolution"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Astronomers detected an unusual triangular light curve about 300 light years away. They were searching for Black Widow Binaries, where a dense neutron star eats its companion. But they found something different: an M dwarf slowly eating its binary companion brown dwarf.",
-            "display_url": "universetoday.com/articles/a-red…",
-            "end": 126,
-            "expanded_url": "https://www.universetoday.com/articles/a-red-dwarf-is-taking-its-time-eating-a-brown-dwarf",
-            "images": [
-              {
-                "height": 667,
-                "url": "https://pbs.twimg.com/news_img/2110056684601384960/rocxipZX?format=jpg&name=orig",
-                "width": 1000
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110056684601384960/rocxipZX?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 103,
-            "status": 200,
-            "title": "A Red Dwarf is Taking its Time Eating a Brown Dwarf",
-            "unwound_url": "https://www.universetoday.com/articles/a-red-dwarf-is-taking-its-time-eating-a-brown-dwarf",
-            "url": "https://t.co/V8hgU8BpxT"
-          }
-        ]
-      },
-      "id": "2110056684295242230",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 4,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "A red dwarf is slowly devouring a brown dwarf, defying expectations in a 300-light-year cosmic feast.\n\nhttps://t.co/V8hgU8BpxT\n\n#Astronomy #StellarEvolution",
-      "url": "https://x.com/i/status/2110056684295242230"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110055353014776209",
-      "created_at": "2026-10-13T17:09:33.000Z",
-      "edit_history_tweet_ids": [
-        "2110055353014776209"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 170,
-            "start": 161,
-            "tag": "AIethics"
-          },
-          {
-            "end": 192,
-            "start": 171,
-            "tag": "PublicAccountability"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Deb Roy, director of the MIT Center for Constructive Communication, calls for a renewed emphasis on responsibility in civic communication, asserting that even when AI is used to craft text, there needs to be accountability and “answerability.”",
-            "display_url": "news.mit.edu/2026/qa-buildi…",
-            "end": 159,
-            "expanded_url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-            "images": [
-              {
-                "height": 2000,
-                "url": "https://pbs.twimg.com/news_img/2109858094171684864/dSu_Kdlr?format=jpg&name=orig",
-                "width": 3000
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2109858094171684864/dSu_Kdlr?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 136,
-            "status": 200,
-            "title": "Q&A: Building accountability behind our words — and AI’s — in civic conversations",
-            "unwound_url": "https://news.mit.edu/2026/qa-building-accountability-behind-our-words-and-ai-civic-conversations-1013",
-            "url": "https://t.co/YeNWe8hKdf"
-          }
-        ]
-      },
-      "id": "2110055353014776209",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Who's responsible for AI-generated text in public debates? MIT researcher Deb Roy advocates for accountability in civic conversations.\n\nhttps://t.co/YeNWe8hKdf\n\n#AIethics #PublicAccountability",
-      "url": "https://x.com/i/status/2110055353014776209"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2110045728659878393",
-      "created_at": "2026-10-13T16:31:19.000Z",
-      "edit_history_tweet_ids": [
-        "2110045728659878393"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 135,
-            "start": 130,
-            "tag": "APOD"
-          },
-          {
-            "end": 147,
-            "start": 136,
-            "tag": "Stargazing"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "science.nasa.gov/image-article/…",
-            "end": 128,
-            "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
-            "images": [
-              {
-                "height": 1280,
-                "url": "https://pbs.twimg.com/news_img/2109867351940165632/1J3FC2fH?format=jpg&name=orig",
-                "width": 960
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2109867351940165632/1J3FC2fH?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 105,
-            "status": 200,
-            "title": "APOD: 2026 October 13 - Desert Stairway to Heaven - NASA Science",
-            "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/",
-            "url": "https://t.co/1G0NBXEuzi"
-          }
-        ]
-      },
-      "id": "2110045728659878393",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Chile's \"Desert Stairway to Heaven\" offers a surreal blend of Earth and cosmos, perfect for stargazers.\n\nhttps://t.co/1G0NBXEuzi\n\n#APOD #Stargazing",
-      "url": "https://x.com/i/status/2110045728659878393"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2108266616228364635",
-      "created_at": "2026-10-08T18:41:45.000Z",
-      "edit_history_tweet_ids": [
-        "2108266616228364635"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "1879644163769335808",
-            "start": 3,
-            "username": "WhiteHouse"
-          }
-        ]
-      },
-      "id": "2108266616228364635",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 3602
-      },
-      "referenced_tweets": [
-        {
-          "id": "2108255757615738934",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @WhiteHouse: Welcome to a NEW GOLDEN AGE OF SCIENCE. \n\nThe Trump Admin just launched the biggest set of science initiatives in decades:…",
-      "url": "https://x.com/i/status/2108266616228364635"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2108259629109289119",
-      "created_at": "2026-10-08T18:13:59.000Z",
-      "edit_history_tweet_ids": [
-        "2108259629109289119"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "1879644163769335808",
-            "start": 3,
-            "username": "WhiteHouse"
-          }
-        ]
-      },
-      "id": "2108259629109289119",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 5047
-      },
-      "referenced_tweets": [
-        {
-          "id": "2108254023443009943",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @WhiteHouse: America will establish a permanent presence on the moon. 🚀🌕",
-      "url": "https://x.com/i/status/2108259629109289119"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2107136323890921533",
-      "created_at": "2026-10-05T20:18:05.000Z",
-      "edit_history_tweet_ids": [
-        "2107203693389238723"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 16,
-            "id": "511402689",
-            "start": 0,
-            "username": "WorldAndScience"
-          }
-        ]
-      },
-      "id": "2107203693389238723",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 29,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2107136323890921533",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@WorldAndScience standard please!",
-      "url": "https://x.com/i/status/2107203693389238723"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2106983467141509385",
-      "created_at": "2026-10-05T15:34:47.000Z",
-      "edit_history_tweet_ids": [
-        "2107132401692577990"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 9,
-            "id": "147346374",
-            "start": 0,
-            "username": "esrtweet"
-          }
-        ]
-      },
-      "id": "2107132401692577990",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 29,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2106983467141509385",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@esrtweet I just fully implemented wow classic into the internet cafe computer inside of GTA 4. its incredible.",
-      "url": "https://x.com/i/status/2107132401692577990"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2106547918098288708",
-      "created_at": "2026-10-04T17:33:43.000Z",
-      "edit_history_tweet_ids": [
-        "2106799944992780566"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 16,
-            "id": "1881451105454002176",
-            "start": 0,
-            "username": "RapidResponse47"
-          },
-          {
-            "end": 23,
-            "id": "1879650942410481666",
-            "start": 17,
-            "username": "POTUS"
-          }
-        ]
-      },
-      "id": "2106799944992780566",
-      "in_reply_to_user_id": "1881451105454002176",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2106547918098288708",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@RapidResponse47 @POTUS Why not 50 space academy's?",
-      "url": "https://x.com/i/status/2106799944992780566"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2105338836293234963",
-      "created_at": "2026-09-30T19:01:27.000Z",
-      "edit_history_tweet_ids": [
-        "2105372468286476403"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 9,
-            "id": "194694215",
-            "start": 0,
-            "username": "zebulgar"
-          }
-        ]
-      },
-      "id": "2105372468286476403",
-      "in_reply_to_user_id": "194694215",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 960,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2105338836293234963",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@zebulgar feeling satisfaction from others suffering. dangerous.",
-      "url": "https://x.com/i/status/2105372468286476403"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2104958643225665971",
-      "created_at": "2026-09-29T17:10:54.000Z",
-      "edit_history_tweet_ids": [
-        "2104982260131012768"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 10,
-            "id": "9624742",
-            "start": 0,
-            "username": "StateDept"
-          }
-        ]
-      },
-      "id": "2104982260131012768",
-      "in_reply_to_user_id": "9624742",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 32,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104958643225665971",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@StateDept DMV NEXT PLEASE!!",
-      "url": "https://x.com/i/status/2104982260131012768"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2104617327526343099",
-      "created_at": "2026-09-28T22:51:07.000Z",
-      "edit_history_tweet_ids": [
-        "2104705491171729481"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "4112496291",
-            "start": 0,
-            "username": "ArianeGroup"
-          }
-        ]
-      },
-      "id": "2104705491171729481",
-      "in_reply_to_user_id": "4112496291",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 26,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104617327526343099",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@ArianeGroup said as their entire bodies arent covered. its impossible to prevent microbes",
-      "url": "https://x.com/i/status/2104705491171729481"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2104667981783670890",
-      "created_at": "2026-09-28T22:49:22.000Z",
-      "edit_history_tweet_ids": [
-        "2104705050660720672"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 13,
-            "id": "3222018178",
-            "start": 0,
-            "username": "adcock_brett"
-          }
-        ]
-      },
-      "id": "2104705050660720672",
-      "in_reply_to_user_id": "3222018178",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 101,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104667981783670890",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@adcock_brett and goodbye F.03",
-      "url": "https://x.com/i/status/2104705050660720672"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2104356688006365669",
-      "created_at": "2026-09-28T16:31:57.000Z",
-      "edit_history_tweet_ids": [
-        "2104610072471208349"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 11,
-            "id": "1100064156504543233",
-            "start": 0,
-            "username": "GovNuclear"
-          }
-        ]
-      },
-      "id": "2104610072471208349",
-      "in_reply_to_user_id": "1100064156504543233",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 10,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104356688006365669",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@GovNuclear imagine people could power their homes on this stuff.",
-      "url": "https://x.com/i/status/2104610072471208349"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2103282510029296055",
-      "created_at": "2026-09-26T02:28:10.000Z",
-      "edit_history_tweet_ids": [
-        "2103672948846666184"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 11,
-            "id": "2162812627",
-            "start": 0,
-            "username": "nicksortor"
-          }
-        ]
-      },
-      "id": "2103672948846666184",
-      "in_reply_to_user_id": "2162812627",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2103282510029296055",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@nicksortor we need to work together in all of science and space. its essential for quick progression",
-      "url": "https://x.com/i/status/2103672948846666184"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2103552702303367371",
-      "created_at": "2026-09-25T18:30:21.000Z",
-      "edit_history_tweet_ids": [
-        "2103552702303367371"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 18,
-            "id": "1960303594047209472",
-            "start": 3,
-            "username": "Ahwoo_Official"
-          }
-        ]
-      },
-      "id": "2103552702303367371",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 91
-      },
-      "referenced_tweets": [
-        {
-          "id": "2103341662822871398",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @Ahwoo_Official: Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes inte…",
-      "url": "https://x.com/i/status/2103552702303367371"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2096452184829505801",
-      "created_at": "2026-09-06T15:26:45.000Z",
-      "edit_history_tweet_ids": [
-        "2096621129830224143"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "1954023090830135296",
-            "start": 0,
-            "username": "XueJia24682"
-          }
-        ]
-      },
-      "id": "2096621129830224143",
-      "in_reply_to_user_id": "1954023090830135296",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 61,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2096452184829505801",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@XueJia24682 I'm pretty sure that's related to dna. Don't think rubbing eyes will help vision.",
-      "url": "https://x.com/i/status/2096621129830224143"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2093768810993942566",
-      "created_at": "2026-08-30T19:35:48.000Z",
-      "edit_history_tweet_ids": [
-        "2094147090192720380"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "3167257102",
-            "start": 0,
-            "username": "Erdayastronaut"
-          },
-          {
-            "end": 24,
-            "id": "2173177140",
-            "start": 16,
-            "username": "Onshape"
-          },
-          {
-            "end": 34,
-            "id": "31957731",
-            "start": 25,
-            "username": "autodesk"
-          }
-        ]
-      },
-      "id": "2094147090192720380",
-      "in_reply_to_user_id": "3167257102",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 115,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2093768810993942566",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@Erdayastronaut @Onshape @autodesk I've been using Fusion for over a decade and I'm pretty sure onshape would be better. Fusion can get very annoying.",
-      "url": "https://x.com/i/status/2094147090192720380"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2094146826329113038",
-      "created_at": "2026-08-30T19:34:45.000Z",
-      "edit_history_tweet_ids": [
-        "2094146826329113038"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "1636724100587454464",
-            "start": 3,
-            "username": "s2a_systems"
-          }
-        ]
-      },
-      "id": "2094146826329113038",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 143
-      },
-      "referenced_tweets": [
-        {
-          "id": "2094098569607123293",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @s2a_systems: And a short time-lapse of today’s recordings of the Nancy Grace Roman Space Telescope and the Falcon upper stage (leading)…",
-      "url": "https://x.com/i/status/2094146826329113038"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2093408671221121410",
-      "created_at": "2026-08-28T18:41:35.000Z",
-      "edit_history_tweet_ids": [
-        "2093408671221121410"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "1904142400554995714",
-            "start": 3,
-            "username": "mkratsios47"
-          },
-          {
-            "end": 29,
-            "id": "1879650942410481666",
-            "start": 23,
-            "username": "POTUS"
-          }
-        ]
-      },
-      "id": "2093408671221121410",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 334
-      },
-      "referenced_tweets": [
-        {
-          "id": "2093392237170196894",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @mkratsios47: Today @POTUS signed an EO establishing the Presidential Commission on the United States Space Academy.\n\nThe Commission wil…",
-      "url": "https://x.com/i/status/2093408671221121410"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2093408547765887254",
-      "created_at": "2026-08-28T18:41:06.000Z",
-      "edit_history_tweet_ids": [
-        "2093408547765887254"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "15726728",
-            "start": 3,
-            "username": "SciGuySpace"
-          }
-        ]
-      },
-      "id": "2093408547765887254",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 1,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 59
-      },
-      "referenced_tweets": [
-        {
-          "id": "2093380033448485295",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @SciGuySpace: Trump says he will sign an executive order to create a US Space Academy.",
-      "url": "https://x.com/i/status/2093408547765887254"
-    },
-    {
-      "attachments": {
-        "media_keys": [
-          "7_1482051389064826880"
-        ],
-        "media_source_tweet_id": [
-          "1482051472426614786"
-        ]
-      },
-      "author_id": "1974272513917267972",
-      "conversation_id": "2092394326357909531",
-      "created_at": "2026-08-25T23:30:56.000Z",
-      "edit_history_tweet_ids": [
-        "2092394326357909531"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 19,
-            "id": "3101588527",
-            "start": 3,
-            "username": "wonderofscience"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "pic.x.com/NzuGQo1XRH",
-            "end": 135,
-            "expanded_url": "https://x.com/Saganism_/status/1482051472426614786/video/1",
-            "media_key": "7_1482051389064826880",
-            "start": 112,
-            "url": "https://t.co/NzuGQo1XRH"
-          }
-        ]
-      },
-      "id": "2092394326357909531",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 67
-      },
-      "referenced_tweets": [
-        {
-          "id": "2092297852823216150",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @wonderofscience: 4 billion years of evolution in 60 seconds, from Carl Sagan's \"Cosmos: A Personal Voyage\".\nhttps://t.co/NzuGQo1XRH",
-      "url": "https://x.com/i/status/2092394326357909531"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2092313088687329773",
-      "created_at": "2026-08-25T18:08:08.000Z",
-      "edit_history_tweet_ids": [
-        "2092313088687329773"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "44196397",
-            "start": 3,
-            "username": "elonmusk"
-          }
-        ]
-      },
-      "id": "2092313088687329773",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 10348
-      },
-      "referenced_tweets": [
-        {
-          "id": "2092292773915537580",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @elonmusk: Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making…",
-      "url": "https://x.com/i/status/2092313088687329773"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2092310709250265373",
-      "created_at": "2026-08-25T17:58:40.000Z",
-      "edit_history_tweet_ids": [
-        "2092310709250265373"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 10,
-            "id": "34743251",
-            "start": 3,
-            "username": "SpaceX"
-          }
-        ]
-      },
-      "id": "2092310709250265373",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 5925
-      },
-      "referenced_tweets": [
-        {
-          "id": "2092284173730144732",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @SpaceX: Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for human…",
-      "url": "https://x.com/i/status/2092310709250265373"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091536201060692327",
-      "created_at": "2026-08-23T15:37:47.000Z",
-      "edit_history_tweet_ids": [
-        "2091550475950924180"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "15726728",
-            "start": 0,
-            "username": "SciGuySpace"
-          }
-        ]
-      },
-      "id": "2091550475950924180",
-      "in_reply_to_user_id": "15726728",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 435,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091536201060692327",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@SciGuySpace Can't wait to see who plants the next flag at the lunar south pole.",
-      "url": "https://x.com/i/status/2091550475950924180"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091466512972579055",
-      "created_at": "2026-08-23T10:04:08.000Z",
-      "edit_history_tweet_ids": [
-        "2091466512972579055"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 263,
-            "start": 248,
-            "tag": "CuriosityRover"
-          },
-          {
-            "end": 275,
-            "start": 264,
-            "tag": "MountSharp"
-          }
-        ],
-        "urls": [
-          {
-            "description": "By Allison Dries-Padilla, Missions Operations Specialist at Malin Space Science Systems",
-            "display_url": "science.nasa.gov/blog/curiosity…",
-            "end": 246,
-            "expanded_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-            "images": [
-              {
-                "height": 1141,
-                "url": "https://pbs.twimg.com/news_img/2091431147431460864/9DUPCNgq?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2091431147431460864/9DUPCNgq?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 223,
-            "status": 200,
-            "title": "Curiosity Blog, Sols 4982–4987: Back to Our Regularly Scheduled Programming - NASA Science",
-            "unwound_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
-            "url": "https://t.co/Zy24N4UJJt"
-          }
-        ]
-      },
-      "id": "2091466512972579055",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 26,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "This week Curiosity rover returns to its regular schedule after a brief detour to study an erosional surface. The team is now back on track climbing Mount Sharp, gathering data to unravel Gale Crater’s geological history.\n\nhttps://t.co/Zy24N4UJJt\n\n#CuriosityRover #MountSharp",
-      "url": "https://x.com/i/status/2091466512972579055"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091426820352803046",
-      "created_at": "2026-08-23T07:37:23.000Z",
-      "edit_history_tweet_ids": [
-        "2091429579420569808"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "2828212668",
-            "start": 0,
-            "username": "AMAZlNGNATURE"
-          }
-        ]
-      },
-      "id": "2091429579420569808",
-      "in_reply_to_user_id": "2828212668",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 219,
-        "like_count": 2,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091426820352803046",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@AMAZlNGNATURE Their eyes evolving separately is mindblowing for convergent evolution.",
-      "url": "https://x.com/i/status/2091429579420569808"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091354745848119530",
-      "created_at": "2026-08-23T03:41:39.000Z",
-      "edit_history_tweet_ids": [
-        "2091370256199713271"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "718325771392172033",
-            "start": 0,
-            "username": "MarcusHouse"
-          }
-        ]
-      },
-      "id": "2091370256199713271",
-      "in_reply_to_user_id": "718325771392172033",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 696,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091354745848119530",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@MarcusHouse Hope the timing works out, safe sailing!",
-      "url": "https://x.com/i/status/2091370256199713271"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091352065956266240",
-      "created_at": "2026-08-23T02:39:31.000Z",
-      "edit_history_tweet_ids": [
-        "2091354620924969386"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "718325771392172033",
-            "start": 0,
-            "username": "MarcusHouse"
-          },
-          {
-            "end": 29,
-            "id": "1791789000518242304",
-            "start": 13,
-            "username": "lifeatstagezero"
-          }
-        ]
-      },
-      "id": "2091354620924969386",
-      "in_reply_to_user_id": "718325771392172033",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 413,
-        "like_count": 4,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091352065956266240",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@MarcusHouse @lifeatstagezero Excited to see Flight 14 launch after the prep!",
-      "url": "https://x.com/i/status/2091354620924969386"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091310951727304876",
-      "created_at": "2026-08-23T00:42:54.000Z",
-      "edit_history_tweet_ids": [
-        "2091325271471436007"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "2828212668",
-            "start": 0,
-            "username": "AMAZlNGNATURE"
-          }
-        ]
-      },
-      "id": "2091325271471436007",
-      "in_reply_to_user_id": "2828212668",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 137,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091310951727304876",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@AMAZlNGNATURE Their tool use is insane, nature never stops surprising.",
-      "url": "https://x.com/i/status/2091325271471436007"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091305695689998629",
-      "created_at": "2026-08-22T23:25:07.000Z",
-      "edit_history_tweet_ids": [
-        "2091305695689998629"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "235348644",
-            "start": 3,
-            "username": "blueorigin"
-          }
-        ]
-      },
-      "id": "2091305695689998629",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 242
-      },
-      "referenced_tweets": [
-        {
-          "id": "2090520176655487339",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @blueorigin: Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links —…",
-      "url": "https://x.com/i/status/2091305695689998629"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091288553938669605",
-      "created_at": "2026-08-22T22:41:59.000Z",
-      "edit_history_tweet_ids": [
-        "2091294841166787038"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "2828212668",
-            "start": 0,
-            "username": "AMAZlNGNATURE"
-          }
-        ]
-      },
-      "id": "2091294841166787038",
-      "in_reply_to_user_id": "2828212668",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 199,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091288553938669605",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@AMAZlNGNATURE A cat proof design, just what we need for space hardware.",
-      "url": "https://x.com/i/status/2091294841166787038"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "conversation_id": "2091271330372944326",
-      "created_at": "2026-08-22T21:41:05.000Z",
-      "edit_history_tweet_ids": [
-        "2091279514760577200"
-      ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 12,
-            "id": "15726728",
-            "start": 0,
-            "username": "SciGuySpace"
-          }
-        ]
-      },
-      "id": "2091279514760577200",
-      "in_reply_to_user_id": "15726728",
-      "lang": "en",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 665,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 1,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2091271330372944326",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@SciGuySpace Fingers crossed they find a new window but still excited for the South Pole.",
-      "url": "https://x.com/i/status/2091279514760577200"
-    }
-  ],
-  "includes": {
-    "tweets": [
-      {
-        "author_id": "2054998853900775424",
-        "conversation_id": "2110345153202327718",
-        "created_at": "2026-10-14T12:21:07.000Z",
-        "edit_history_tweet_ids": [
-          "2110345153202327718"
-        ],
-        "id": "2110345153202327718",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 20,
-          "impression_count": 19164,
-          "like_count": 228,
-          "quote_count": 7,
-          "reply_count": 24,
-          "retweet_count": 32
-        },
-        "text": "The enthusiasm for the U.S. Space Academy has been overwhelming, and we want every state ready to compete. \n\nWe’re extending the RFI deadline to Nov. 16, giving states more time to put forward their strongest vision for building America’s future in space 🇺🇸🚀"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2108254712596148224"
-          ]
-        },
-        "author_id": "1879644163769335808",
-        "conversation_id": "2108255757615738934",
-        "created_at": "2026-10-08T17:58:36.000Z",
-        "edit_history_tweet_ids": [
-          "2108255757615738934"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/Pyvx6ixe2k",
-              "end": 212,
-              "expanded_url": "https://x.com/WhiteHouse/status/2108255757615738934/photo/1",
-              "media_key": "3_2108254712596148224",
-              "start": 189,
-              "url": "https://t.co/Pyvx6ixe2k"
-            }
-          ]
-        },
-        "id": "2108255757615738934",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 911,
-          "impression_count": 407212,
-          "like_count": 13128,
-          "quote_count": 399,
-          "reply_count": 894,
-          "retweet_count": 3602
-        },
-        "text": "Welcome to a NEW GOLDEN AGE OF SCIENCE. \n\nThe Trump Admin just launched the biggest set of science initiatives in decades: $6B+ across government, industry, academia, &amp; philanthropy. 🚀 https://t.co/Pyvx6ixe2k"
-      },
-      {
-        "author_id": "1879644163769335808",
-        "conversation_id": "2108254023443009943",
-        "created_at": "2026-10-08T17:51:43.000Z",
-        "edit_history_tweet_ids": [
-          "2108254023443009943"
-        ],
-        "id": "2108254023443009943",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 1727,
-          "impression_count": 5241901,
-          "like_count": 50807,
-          "quote_count": 2285,
-          "reply_count": 7158,
-          "retweet_count": 5047
-        },
-        "text": "America will establish a permanent presence on the moon. 🚀🌕"
-      },
-      {
-        "article": {
-          "title": "If we stop changing the clocks, which time should we keep?"
-        },
-        "author_id": "511402689",
-        "conversation_id": "2107136323890921533",
-        "created_at": "2026-10-05T15:50:22.000Z",
-        "edit_history_tweet_ids": [
-          "2107136323890921533"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/i/article/2107…",
-              "end": 83,
-              "expanded_url": "https://x.com/i/article/2107135884482998272",
-              "start": 60,
-              "status": 404,
-              "unwound_url": "https://x.com/i/article/2107135884482998272",
-              "url": "https://t.co/H16wiDmZx3"
-            }
-          ]
-        },
-        "id": "2107136323890921533",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 6,
-          "impression_count": 32139,
-          "like_count": 10,
-          "quote_count": 0,
-          "reply_count": 3,
-          "retweet_count": 1
-        },
-        "text": "Which do you prefer: daylight saving time or standard time? https://t.co/H16wiDmZx3"
-      },
-      {
-        "author_id": "147346374",
-        "conversation_id": "2106983467141509385",
-        "created_at": "2026-10-05T05:42:59.000Z",
-        "edit_history_tweet_ids": [
-          "2106983467141509385"
-        ],
-        "id": "2106983467141509385",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 2499,
-          "impression_count": 355857,
-          "like_count": 7838,
-          "quote_count": 178,
-          "reply_count": 246,
-          "retweet_count": 899
-        },
-        "text": "The end of software secrecy is almost upon us. The death of closed source, and the final triumph of open source.\n\nI should have realized this a few months ago when I successfully decompiled the game of Firefighter from an ancient DOS shareware binary. My robot friend was able to"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2106547651156090880"
-          ]
-        },
-        "author_id": "1881451105454002176",
-        "conversation_id": "2106547918098288708",
-        "created_at": "2026-10-04T00:52:16.000Z",
-        "edit_history_tweet_ids": [
-          "2106547918098288708"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 7,
-              "id": "1879650942410481666",
-              "start": 1,
-              "username": "POTUS"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "pic.x.com/VpeRJ7ZUUM",
-              "end": 290,
-              "expanded_url": "https://x.com/RapidResponse47/status/2106547918098288708/video/1",
-              "media_key": "13_2106547651156090880",
-              "start": 267,
-              "url": "https://t.co/VpeRJ7ZUUM"
-            }
-          ]
-        },
-        "id": "2106547918098288708",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 124,
-          "impression_count": 168202,
-          "like_count": 4332,
-          "quote_count": 26,
-          "reply_count": 115,
-          "retweet_count": 715
-        },
-        "text": ".@POTUS: I recently announced we will be establishing a brand new U.S. National SPACE ACADEMY.\n\nEvery other state wants it, but I have no doubt that — as the birthplace of aviation and home of the Wright Brothers — if we win, Ohio will be under STRONG consideration. https://t.co/VpeRJ7ZUUM"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2105338818702237696"
-          ]
-        },
-        "author_id": "194694215",
-        "conversation_id": "2105338836293234963",
-        "created_at": "2026-09-30T16:47:48.000Z",
-        "edit_history_tweet_ids": [
-          "2105338836293234963"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/NL0b50xP94",
-              "end": 79,
-              "expanded_url": "https://x.com/zebulgar/status/2105338836293234963/photo/1",
-              "media_key": "3_2105338818702237696",
-              "start": 56,
-              "url": "https://t.co/NL0b50xP94"
-            }
-          ]
-        },
-        "id": "2105338836293234963",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 109,
-          "impression_count": 179665,
-          "like_count": 1081,
-          "quote_count": 12,
-          "reply_count": 78,
-          "retweet_count": 19
-        },
-        "text": "To everyone that passed on Varda\n\nHave fun staying poor https://t.co/NL0b50xP94"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2104957994114932736"
-          ]
-        },
-        "author_id": "9624742",
-        "conversation_id": "2104958643225665971",
-        "created_at": "2026-09-29T15:37:03.000Z",
-        "edit_history_tweet_ids": [
-          "2104958643225665971"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "description": "Find answers from official government sources and clear next steps for the services you need with America.gov.",
-              "display_url": "AMERICA.GOV",
-              "end": 42,
-              "expanded_url": "https://AMERICA.GOV",
-              "images": [
-                {
-                  "height": 675,
-                  "url": "https://pbs.twimg.com/news_img/2110466433725673472/lnkh8pFm?format=png&name=orig",
-                  "width": 1200
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2110466433725673472/lnkh8pFm?format=png&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 19,
-              "status": 200,
-              "title": "America.gov",
-              "unwound_url": "https://AMERICA.GOV",
-              "url": "https://t.co/pt9rQXC44r"
-            },
-            {
-              "display_url": "pic.x.com/8BKyPZJPrM",
-              "end": 206,
-              "expanded_url": "https://x.com/StateDept/status/2104958643225665971/video/1",
-              "media_key": "13_2104957994114932736",
-              "start": 183,
-              "url": "https://t.co/8BKyPZJPrM"
-            }
-          ]
-        },
-        "id": "2104958643225665971",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 380,
-          "impression_count": 361045,
-          "like_count": 4346,
-          "quote_count": 87,
-          "reply_count": 151,
-          "retweet_count": 711
-        },
-        "text": "SECRETARY RUBIO on https://t.co/pt9rQXC44r: The point of all of this that we're doing here today, and this is simple, is to make the process more accessible and easier for Americans. https://t.co/8BKyPZJPrM"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "7_2104617126803718145"
-          ]
-        },
-        "author_id": "4112496291",
-        "conversation_id": "2104617327526343099",
-        "created_at": "2026-09-28T17:00:47.000Z",
-        "edit_history_tweet_ids": [
-          "2104617327526343099"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/u1OedKUBUI",
-              "end": 304,
-              "expanded_url": "https://x.com/ArianeGroup/status/2104617327526343099/video/1",
-              "media_key": "7_2104617126803718145",
-              "start": 281,
-              "url": "https://t.co/u1OedKUBUI"
-            }
-          ]
-        },
-        "id": "2104617327526343099",
-        "lang": "en",
-        "note_tweet": {
-          "entities": {
-            "hashtags": [
-              {
-                "end": 400,
-                "start": 387,
-                "tag": "RocketMakers"
-              },
-              {
-                "end": 407,
-                "start": 401,
-                "tag": "Civil"
-              },
-              {
-                "end": 416,
-                "start": 408,
-                "tag": "ExoMars"
-              }
-            ]
-          },
-          "text": "Don't bring Earth to Mars.\n\nRosalind Franklin searches for signs of life on Mars, so it must not carry any of its own from Earth. In ArianeGroup's clean room, both visible particles and invisible micro-organisms are tracked and eliminated before the thermal shield ever leaves for space. 🦠\n\n💬 Which do you think is harder to control: a visible particle, or an invisible micro-organism?\n\n#RocketMakers #Civil #ExoMars"
-        },
-        "public_metrics": {
-          "bookmark_count": 4,
-          "impression_count": 5645,
-          "like_count": 63,
-          "quote_count": 0,
-          "reply_count": 2,
-          "retweet_count": 5
-        },
-        "text": "Don't bring Earth to Mars.\n\nRosalind Franklin searches for signs of life on Mars, so it must not carry any of its own from Earth. In ArianeGroup's clean room, both visible particles and invisible micro-organisms are tracked and eliminated before the thermal shield ever leaves for https://t.co/u1OedKUBUI"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2104667130813878272"
-          ]
-        },
-        "author_id": "3222018178",
-        "conversation_id": "2104667981783670890",
-        "created_at": "2026-09-28T20:22:04.000Z",
-        "edit_history_tweet_ids": [
-          "2104667981783670890"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/JoonZikW8I",
-              "end": 36,
-              "expanded_url": "https://x.com/adcock_brett/status/2104667981783670890/video/1",
-              "media_key": "13_2104667130813878272",
-              "start": 13,
-              "url": "https://t.co/JoonZikW8I"
-            }
-          ]
-        },
-        "id": "2104667981783670890",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 107,
-          "impression_count": 233936,
-          "like_count": 1246,
-          "quote_count": 13,
-          "reply_count": 62,
-          "retweet_count": 57
-        },
-        "text": "Goodbye F.02 https://t.co/JoonZikW8I"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2104356667538231296"
-          ]
-        },
-        "author_id": "1100064156504543233",
-        "conversation_id": "2104356688006365669",
-        "created_at": "2026-09-27T23:45:06.000Z",
-        "edit_history_tweet_ids": [
-          "2104356688006365669"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/yI8noY68yo",
-              "end": 116,
-              "expanded_url": "https://x.com/GovNuclear/status/2104356688006365669/photo/1",
-              "media_key": "3_2104356667538231296",
-              "start": 93,
-              "url": "https://t.co/yI8noY68yo"
-            }
-          ]
-        },
-        "id": "2104356688006365669",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 32,
-          "impression_count": 12879,
-          "like_count": 406,
-          "quote_count": 5,
-          "reply_count": 21,
-          "retweet_count": 82
-        },
-        "text": "Small pellet. Huge energy. 🤯\n\nOne uranium fuel pellet packs more power than you might guess. https://t.co/yI8noY68yo"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2103282021250236417"
-          ]
-        },
-        "author_id": "2162812627",
-        "conversation_id": "2103282510029296055",
-        "created_at": "2026-09-25T00:36:42.000Z",
-        "edit_history_tweet_ids": [
-          "2103282510029296055"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/jW6KZAFAnL",
-              "end": 300,
-              "expanded_url": "https://x.com/nicksortor/status/2103282510029296055/video/1",
-              "media_key": "13_2103282021250236417",
-              "start": 277,
-              "url": "https://t.co/jW6KZAFAnL"
-            }
-          ]
-        },
-        "id": "2103282510029296055",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 20893,
-          "impression_count": 9765292,
-          "like_count": 119440,
-          "quote_count": 1124,
-          "reply_count": 2850,
-          "retweet_count": 35053
-        },
-        "text": "Legacy media REFUSED to show you a SINGLE SECOND of President Trump's speech and historic state dinner with Xi Jinping tonight at the White House\n\nSo here's the ENTIRE thing, from start to finish, with translations for Xi's speech\n\nDO NOT LET LEGACY MEDIA KEEP YOU IN THE DARK https://t.co/jW6KZAFAnL"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2103341660469878784"
-          ]
-        },
-        "author_id": "1960303594047209472",
-        "conversation_id": "2103341662822871398",
-        "created_at": "2026-09-25T04:31:45.000Z",
-        "edit_history_tweet_ids": [
-          "2103341662822871398"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/u5YvXziG9v",
-              "end": 274,
-              "expanded_url": "https://x.com/Ahwoo_Official/status/2103341662822871398/photo/1",
-              "media_key": "3_2103341660469878784",
-              "start": 251,
-              "url": "https://t.co/u5YvXziG9v"
-            }
-          ]
-        },
-        "id": "2103341662822871398",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 149,
-          "impression_count": 33968,
-          "like_count": 1288,
-          "quote_count": 24,
-          "reply_count": 29,
-          "retweet_count": 91
-        },
-        "text": "Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes interstellar travel beyond the Solar System, adding Alpha Centauri, Barnard’s Star and Tau Ceti at their real distances and directions. https://t.co/u5YvXziG9v"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2096452145356939264"
-          ]
-        },
-        "author_id": "1954023090830135296",
-        "conversation_id": "2096452184829505801",
-        "created_at": "2026-09-06T04:15:25.000Z",
-        "edit_history_tweet_ids": [
-          "2096452184829505801"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/ek9kSr2Zm5",
-              "end": 154,
-              "expanded_url": "https://x.com/XueJia24682/status/2096452184829505801/video/1",
-              "media_key": "13_2096452145356939264",
-              "start": 131,
-              "url": "https://t.co/ek9kSr2Zm5"
-            }
-          ]
-        },
-        "id": "2096452184829505801",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 160,
-          "impression_count": 32836,
-          "like_count": 836,
-          "quote_count": 14,
-          "reply_count": 28,
-          "retweet_count": 213
-        },
-        "text": "✨🇨🇳Every primary school in China runs a 5‑minute eye exercise routine each day to relieve eye fatigue and combat childhood myopia. https://t.co/ek9kSr2Zm5"
-      },
-      {
-        "author_id": "3167257102",
-        "conversation_id": "2093768810993942566",
-        "created_at": "2026-08-29T18:32:39.000Z",
-        "edit_history_tweet_ids": [
-          "2093768810993942566"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 88,
-              "id": "2173177140",
-              "start": 80,
-              "username": "Onshape"
-            },
-            {
-              "end": 101,
-              "id": "31957731",
-              "start": 92,
-              "username": "autodesk"
-            }
-          ]
-        },
-        "id": "2093768810993942566",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 123,
-          "impression_count": 106685,
-          "like_count": 736,
-          "quote_count": 3,
-          "reply_count": 340,
-          "retweet_count": 10
-        },
-        "text": "Hey CAD users. Starting from scratch, what would you learn? I'm leaning towards @Onshape or @autodesk Fusion 360. Any thoughts out there with people who have run both? What about learning curve, is one much easier? IP matters a little, so I don't know about the free OnShape..."
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2094097914888847360"
-          ]
-        },
-        "author_id": "1636724100587454464",
-        "conversation_id": "2094098569607123293",
-        "created_at": "2026-08-30T16:23:00.000Z",
-        "edit_history_tweet_ids": [
-          "2094098569607123293"
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "end": 192,
-              "start": 182,
-              "tag": "NASARoman"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "pic.x.com/taK0jNGAqZ",
-              "end": 216,
-              "expanded_url": "https://x.com/s2a_systems/status/2094098569607123293/video/1",
-              "media_key": "13_2094097914888847360",
-              "start": 193,
-              "url": "https://t.co/taK0jNGAqZ"
-            }
-          ]
-        },
-        "id": "2094098569607123293",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 140,
-          "impression_count": 81925,
-          "like_count": 1055,
-          "quote_count": 18,
-          "reply_count": 13,
-          "retweet_count": 143
-        },
-        "text": "And a short time-lapse of today’s recordings of the Nancy Grace Roman Space Telescope and the Falcon upper stage (leading). Recorded on 2026-08-30 between 12:38:18 and 13:21:23 UTC. #NASARoman https://t.co/taK0jNGAqZ"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2093392077849600000"
-          ]
-        },
-        "author_id": "1904142400554995714",
-        "conversation_id": "2093392237170196894",
-        "created_at": "2026-08-28T17:36:17.000Z",
-        "edit_history_tweet_ids": [
-          "2093392085596389427",
-          "2093392237170196894"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 12,
-              "id": "1879650942410481666",
-              "start": 6,
-              "username": "POTUS"
-            },
-            {
-              "end": 155,
-              "id": "2000593641480605696",
-              "start": 145,
-              "username": "NASAAdmin"
-            },
-            {
-              "end": 179,
-              "id": "11348282",
-              "start": 174,
-              "username": "NASA"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "pic.x.com/Y6ZMK7PJns",
-              "end": 301,
-              "expanded_url": "https://x.com/mkratsios47/status/2093392237170196894/photo/1",
-              "media_key": "3_2093392077849600000",
-              "start": 278,
-              "url": "https://t.co/Y6ZMK7PJns"
-            }
-          ]
-        },
-        "id": "2093392237170196894",
-        "lang": "en",
-        "note_tweet": {
-          "entities": {
-            "mentions": [
-              {
-                "end": 12,
-                "id": "1879650942410481666",
-                "start": 6,
-                "username": "POTUS"
-              },
-              {
-                "end": 155,
-                "id": "2000593641480605696",
-                "start": 145,
-                "username": "NASAAdmin"
-              },
-              {
-                "end": 179,
-                "id": "11348282",
-                "start": 174,
-                "username": "NASA"
-              }
-            ],
-            "urls": [
-              {
-                "display_url": "whitehouse.gov/presidential-a…",
-                "end": 603,
-                "expanded_url": "https://www.whitehouse.gov/presidential-actions/2026/08/establishing-the-united-states-space-academy/",
-                "start": 580,
-                "url": "https://t.co/cyzIpXyLT5"
-              }
-            ]
-          },
-          "text": "Today @POTUS signed an EO establishing the Presidential Commission on the United States Space Academy.\n\nThe Commission will be led by our  great @NASAAdmin and will design a @NASA-led federal academy that combines rigorous technical education with leadership, discipline, and a durable commitment to public service.\n\nThe mission is to prepare the next generation of astronauts, scientists, engineers, operators, entrepreneurs, civil servants, and warfighters.\n\nAmerican space superiority will be won by the people we train to explore, secure, and build there. \n\nThe Proclamation: https://t.co/cyzIpXyLT5"
-        },
-        "public_metrics": {
-          "bookmark_count": 209,
-          "impression_count": 218157,
-          "like_count": 1868,
-          "quote_count": 76,
-          "reply_count": 119,
-          "retweet_count": 334
-        },
-        "text": "Today @POTUS signed an EO establishing the Presidential Commission on the United States Space Academy.\n\nThe Commission will be led by our  great @NASAAdmin and will design a @NASA-led federal academy that combines rigorous technical education with leadership, discipline, and a https://t.co/Y6ZMK7PJns"
-      },
-      {
-        "author_id": "15726728",
-        "conversation_id": "2093380033448485295",
-        "created_at": "2026-08-28T16:47:47.000Z",
-        "edit_history_tweet_ids": [
-          "2093380033448485295"
-        ],
-        "id": "2093380033448485295",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 45,
-          "impression_count": 82574,
-          "like_count": 1581,
-          "quote_count": 26,
-          "reply_count": 62,
-          "retweet_count": 59
-        },
-        "text": "Trump says he will sign an executive order to create a US Space Academy."
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "7_1482051389064826880"
-          ],
-          "media_source_tweet_id": [
-            "1482051472426614786"
-          ]
-        },
-        "author_id": "3101588527",
-        "conversation_id": "2092297852823216150",
-        "created_at": "2026-08-25T17:07:35.000Z",
-        "edit_history_tweet_ids": [
-          "2092297852823216150"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/NzuGQo1XRH",
-              "end": 114,
-              "expanded_url": "https://x.com/Saganism_/status/1482051472426614786/video/1",
-              "media_key": "7_1482051389064826880",
-              "start": 91,
-              "url": "https://t.co/NzuGQo1XRH"
-            }
-          ]
-        },
-        "id": "2092297852823216150",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 158,
-          "impression_count": 81222,
-          "like_count": 407,
-          "quote_count": 6,
-          "reply_count": 23,
-          "retweet_count": 67
-        },
-        "text": "4 billion years of evolution in 60 seconds, from Carl Sagan's \"Cosmos: A Personal Voyage\".\nhttps://t.co/NzuGQo1XRH"
-      },
-      {
-        "author_id": "44196397",
-        "conversation_id": "2092292773915537580",
-        "created_at": "2026-08-25T16:47:24.000Z",
-        "edit_history_tweet_ids": [
-          "2092292773915537580"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/SpaceX/status/…",
-              "end": 214,
-              "expanded_url": "https://twitter.com/SpaceX/status/2092284173730144732",
-              "start": 191,
-              "url": "https://t.co/C7Ht0U12ba"
-            }
-          ]
-        },
-        "id": "2092292773915537580",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 3873,
-          "impression_count": 31249849,
-          "like_count": 82135,
-          "quote_count": 1145,
-          "reply_count": 7389,
-          "retweet_count": 10348
-        },
-        "referenced_tweets": [
-          {
-            "id": "2092284173730144732",
-            "type": "quoted"
-          }
-        ],
-        "text": "Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth! \n\nSpaceX makes sci-fi real. https://t.co/C7Ht0U12ba"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2092279198882914304"
-          ]
-        },
-        "author_id": "34743251",
-        "conversation_id": "2092284173730144732",
-        "created_at": "2026-08-25T16:13:14.000Z",
-        "edit_history_tweet_ids": [
-          "2092284173730144732"
-        ],
-        "entities": {
-          "mentions": [
-            {
-              "end": 163,
-              "id": "1742962403887788032",
-              "start": 147,
-              "username": "LAGovJeffLandry"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "pic.x.com/hq308hvg2g",
-              "end": 294,
-              "expanded_url": "https://x.com/SpaceX/status/2092284173730144732/video/1",
-              "media_key": "13_2092279198882914304",
-              "start": 271,
-              "url": "https://t.co/hq308hvg2g"
-            }
-          ]
-        },
-        "id": "2092284173730144732",
-        "lang": "en",
-        "note_tweet": {
-          "entities": {
-            "mentions": [
-              {
-                "end": 163,
-                "id": "1742962403887788032",
-                "start": 147,
-                "username": "LAGovJeffLandry"
-              }
-            ],
-            "urls": [
-              {
-                "display_url": "spacex.com/sites/starbase…",
-                "end": 294,
-                "expanded_url": "http://spacex.com/sites/starbase-la",
-                "start": 271,
-                "url": "https://t.co/zGKVOGSxfW"
-              }
-            ]
-          },
-          "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity.\n \nThank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/zGKVOGSxfW"
-        },
-        "public_metrics": {
-          "bookmark_count": 4829,
-          "impression_count": 44795518,
-          "like_count": 36608,
-          "quote_count": 1672,
-          "reply_count": 2106,
-          "retweet_count": 5925
-        },
-        "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity.\n \nThank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/hq308hvg2g"
-      },
-      {
-        "author_id": "15726728",
-        "conversation_id": "2091536201060692327",
-        "created_at": "2026-08-23T14:41:03.000Z",
-        "edit_history_tweet_ids": [
-          "2091536201060692327"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "description": "The Chang’e 7 mission does not meet the conditions for launch.\"",
-              "display_url": "arstechnica.com/space/2026/08/…",
-              "end": 124,
-              "expanded_url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-              "images": [
-                {
-                  "height": 648,
-                  "url": "https://pbs.twimg.com/news_img/2097007468115021825/5WihGQNb?format=jpg&name=orig",
-                  "width": 1152
-                },
-                {
-                  "height": 150,
-                  "url": "https://pbs.twimg.com/news_img/2097007468115021825/5WihGQNb?format=jpg&name=150x150",
-                  "width": 150
-                }
-              ],
-              "start": 101,
-              "status": 200,
-              "title": "Due to need for \"absolute success,\" China delays critical Moon launch to 2027",
-              "unwound_url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-              "url": "https://t.co/xlEbJpdb9f"
-            }
-          ]
-        },
-        "id": "2091536201060692327",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 66,
-          "impression_count": 51578,
-          "like_count": 770,
-          "quote_count": 15,
-          "reply_count": 29,
-          "retweet_count": 85
-        },
-        "text": "After China formally delays Chang'e 7 into 2027, the race to the South Pole of the Moon is back on.\n\nhttps://t.co/xlEbJpdb9f"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2091426440063725568",
-            "3_2091426459089084416"
-          ]
-        },
-        "author_id": "2828212668",
-        "conversation_id": "2091426820352803046",
-        "created_at": "2026-08-23T07:26:25.000Z",
-        "edit_history_tweet_ids": [
-          "2091426820352803046"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/YQxMiFnpYe",
-              "end": 299,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091426820352803046/photo/1",
-              "media_key": "3_2091426440063725568",
-              "start": 276,
-              "url": "https://t.co/YQxMiFnpYe"
-            },
-            {
-              "display_url": "pic.x.com/YQxMiFnpYe",
-              "end": 299,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091426820352803046/photo/1",
-              "media_key": "3_2091426459089084416",
-              "start": 276,
-              "url": "https://t.co/YQxMiFnpYe"
-            }
-          ]
-        },
-        "id": "2091426820352803046",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 149,
-          "impression_count": 209166,
-          "like_count": 3606,
-          "quote_count": 17,
-          "reply_count": 55,
-          "retweet_count": 342
-        },
-        "text": "Octopuses are among the most intelligent and unusual animals on Earth\n\nThey have three hearts, blue blood, nine interconnected brains and much of their nervous system is spread through their arms. Their camera like eyes also evolved separately from ours millions of years ago https://t.co/YQxMiFnpYe"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2091353880533819392",
-            "3_2091354093973655552"
-          ]
-        },
-        "author_id": "718325771392172033",
-        "conversation_id": "2091354745848119530",
-        "created_at": "2026-08-23T02:40:01.000Z",
-        "edit_history_tweet_ids": [
-          "2091354745848119530"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/tv6Zw2qsk0",
-              "end": 179,
-              "expanded_url": "https://x.com/MarcusHouse/status/2091354745848119530/photo/1",
-              "media_key": "3_2091353880533819392",
-              "start": 156,
-              "url": "https://t.co/tv6Zw2qsk0"
-            },
-            {
-              "display_url": "pic.x.com/tv6Zw2qsk0",
-              "end": 179,
-              "expanded_url": "https://x.com/MarcusHouse/status/2091354745848119530/photo/1",
-              "media_key": "3_2091354093973655552",
-              "start": 156,
-              "url": "https://t.co/tv6Zw2qsk0"
-            }
-          ]
-        },
-        "id": "2091354745848119530",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 41,
-          "impression_count": 57967,
-          "like_count": 1648,
-          "quote_count": 3,
-          "reply_count": 25,
-          "retweet_count": 67
-        },
-        "text": "The vessel FORTE moving at around 10 knots should get in to meet Ship 40 in just a little over 12 hours. I hope they wait till morning to do any fun stuff. https://t.co/tv6Zw2qsk0"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2091351042428682240"
-          ]
-        },
-        "author_id": "718325771392172033",
-        "conversation_id": "2091352065956266240",
-        "created_at": "2026-08-23T02:29:22.000Z",
-        "edit_history_tweet_ids": [
-          "2091351295114555878",
-          "2091352065956266240"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/Blg3sMoh7F",
-              "end": 78,
-              "expanded_url": "https://x.com/MarcusHouse/status/2091352065956266240/video/1",
-              "media_key": "13_2091351042428682240",
-              "start": 55,
-              "url": "https://t.co/Blg3sMoh7F"
-            }
-          ]
-        },
-        "id": "2091352065956266240",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 121,
-          "impression_count": 134523,
-          "like_count": 5245,
-          "quote_count": 23,
-          "reply_count": 72,
-          "retweet_count": 349
-        },
-        "text": "Ship 41 heading back today to prepare for Flight 14! 💪 https://t.co/Blg3sMoh7F"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2091265751202025472"
-          ]
-        },
-        "author_id": "2828212668",
-        "conversation_id": "2091310951727304876",
-        "created_at": "2026-08-22T23:46:00.000Z",
-        "edit_history_tweet_ids": [
-          "2091310951727304876"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/mAmYH4bzoC",
-              "end": 135,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091310951727304876/photo/1",
-              "media_key": "3_2091265751202025472",
-              "start": 112,
-              "url": "https://t.co/mAmYH4bzoC"
-            }
-          ]
-        },
-        "id": "2091310951727304876",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 111,
-          "impression_count": 208236,
-          "like_count": 2252,
-          "quote_count": 11,
-          "reply_count": 41,
-          "retweet_count": 186
-        },
-        "text": "I already thought otters were adorable, but learning what they’re actually capable of makes them so much cooler https://t.co/mAmYH4bzoC"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2090520155725914112"
-          ]
-        },
-        "author_id": "235348644",
-        "conversation_id": "2090520176655487339",
-        "created_at": "2026-08-20T19:23:44.000Z",
-        "edit_history_tweet_ids": [
-          "2090520176655487339"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/j7g8uOpDz9",
-              "end": 303,
-              "expanded_url": "https://x.com/blueorigin/status/2090520176655487339/photo/1",
-              "media_key": "3_2090520155725914112",
-              "start": 280,
-              "url": "https://t.co/j7g8uOpDz9"
-            }
-          ]
-        },
-        "id": "2090520176655487339",
-        "lang": "en",
-        "note_tweet": {
-          "entities": {
-            "urls": [
-              {
-                "display_url": "blueorigin.com/blue-ring",
-                "end": 403,
-                "expanded_url": "https://www.blueorigin.com/blue-ring",
-                "start": 380,
-                "url": "https://t.co/66EDdlPvz7"
-              }
-            ]
-          },
-          "text": "Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links — from the lunar surface and orbit all the way to Earth — with the capacity to scale further. For the first time ever, humanity will witness a Moon Base being built live, brick by Moon-brick, in 4K high-definition.\n\nLearn more about the Blue Ring spacecraft: https://t.co/66EDdlPvz7"
-        },
-        "public_metrics": {
-          "bookmark_count": 148,
-          "impression_count": 89800,
-          "like_count": 1636,
-          "quote_count": 27,
-          "reply_count": 46,
-          "retweet_count": 242
-        },
-        "text": "Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links — from the lunar surface and orbit all the way to Earth — with the capacity to scale further. For the first time ever, humanity will witness a Moon Base being https://t.co/j7g8uOpDz9"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2091077084399407104"
-          ]
-        },
-        "author_id": "2828212668",
-        "conversation_id": "2091288553938669605",
-        "created_at": "2026-08-22T22:17:00.000Z",
-        "edit_history_tweet_ids": [
-          "2091288553938669605"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/OmbmiTBdNr",
-              "end": 197,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091288553938669605/photo/1",
-              "media_key": "3_2091077084399407104",
-              "start": 174,
-              "url": "https://t.co/OmbmiTBdNr"
-            }
-          ]
-        },
-        "id": "2091288553938669605",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 36,
-          "impression_count": 204674,
-          "like_count": 1269,
-          "quote_count": 0,
-          "reply_count": 19,
-          "retweet_count": 90
-        },
-        "text": "THIS CAT FOUND A BALL IT CAN NEVER STEAL\n\nChinese guardian lion statues traditionally have a stone ball carved inside their mouth that can roll around but can never come out https://t.co/OmbmiTBdNr"
-      },
-      {
-        "author_id": "15726728",
-        "conversation_id": "2091271330372944326",
-        "created_at": "2026-08-22T21:08:33.000Z",
-        "edit_history_tweet_ids": [
-          "2091271330372944326"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "x.com/Rational314159…",
-              "end": 147,
-              "expanded_url": "https://twitter.com/Rational314159/status/2091168892140028005",
-              "start": 124,
-              "url": "https://t.co/A8ZUGDkLir"
-            }
-          ]
-        },
-        "id": "2091271330372944326",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 11,
-          "impression_count": 35759,
-          "like_count": 220,
-          "quote_count": 7,
-          "reply_count": 13,
-          "retweet_count": 19
-        },
-        "referenced_tweets": [
-          {
-            "id": "2091168892140028005",
-            "type": "quoted"
-          }
-        ],
-        "text": "Due to Typhoon Narra it is possible that the Chang’e 7 mission misses the current window to launch to the lunar South Pole. https://t.co/A8ZUGDkLir"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "3_2091074296445546496",
-            "3_2091074454835134464"
-          ]
-        },
-        "author_id": "2828212668",
-        "conversation_id": "2091255587040313660",
-        "created_at": "2026-08-22T20:06:00.000Z",
-        "edit_history_tweet_ids": [
-          "2091255587040313660"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/SagLFWwypE",
-              "end": 198,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091255587040313660/photo/1",
-              "media_key": "3_2091074296445546496",
-              "start": 175,
-              "url": "https://t.co/SagLFWwypE"
-            },
-            {
-              "display_url": "pic.x.com/SagLFWwypE",
-              "end": 198,
-              "expanded_url": "https://x.com/AMAZlNGNATURE/status/2091255587040313660/photo/1",
-              "media_key": "3_2091074454835134464",
-              "start": 175,
-              "url": "https://t.co/SagLFWwypE"
-            }
-          ]
-        },
-        "id": "2091255587040313660",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 199,
-          "impression_count": 220260,
-          "like_count": 3881,
-          "quote_count": 11,
-          "reply_count": 25,
-          "retweet_count": 298
-        },
-        "text": "Flying fox babies spend their first weeks clinging to their mother’s body\n\nAt first she may even carry them while flying, before leaving them safely at the roost as they grow https://t.co/SagLFWwypE"
-      },
-      {
-        "attachments": {
-          "media_keys": [
-            "13_2091225734492655616"
-          ]
-        },
-        "author_id": "21292523",
-        "conversation_id": "2091226111493460172",
-        "created_at": "2026-08-22T18:08:52.000Z",
-        "edit_history_tweet_ids": [
-          "2091226111493460172"
-        ],
-        "entities": {
-          "urls": [
-            {
-              "display_url": "pic.x.com/YyL34pQGFd",
-              "end": 149,
-              "expanded_url": "https://x.com/NASASpaceflight/status/2091226111493460172/video/1",
-              "media_key": "13_2091225734492655616",
-              "start": 126,
-              "url": "https://t.co/YyL34pQGFd"
-            },
-            {
-              "display_url": "x.com/NASASpacefligh…",
-              "end": 173,
-              "expanded_url": "https://twitter.com/NASASpaceflight/status/2091224749292576768",
-              "start": 150,
-              "url": "https://t.co/yBxMnmDaQ4"
-            }
-          ]
-        },
-        "id": "2091226111493460172",
-        "lang": "en",
-        "public_metrics": {
-          "bookmark_count": 19,
-          "impression_count": 38668,
-          "like_count": 592,
-          "quote_count": 3,
-          "reply_count": 7,
-          "retweet_count": 34
-        },
-        "referenced_tweets": [
-          {
-            "id": "2091224749292576768",
-            "type": "quoted"
-          }
-        ],
-        "text": "I do like how Ships get a pep talk from the City on Mars mural.\n\n\"This is what you're working toward for your future prodigy\" https://t.co/YyL34pQGFd https://t.co/yBxMnmDaQ4"
-      }
-    ],
-    "media": [
-      {
-        "height": 720,
-        "media_key": "7_1482051389064826880",
-        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1482051389064826880/pu/img/G3LwosEfxszGbOdb.jpg",
-        "type": "video",
-        "width": 960
-      }
-    ]
+ "data": [
+  {
+   "created_at": "2026-10-15T04:00:55.000Z",
+   "edit_history_tweet_ids": [
+    "2110581662937702705"
+   ],
+   "id": "2110581662937702705",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 15,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Genetic tweaks to plant's putrescine pathway boost resilience in spaceflight conditions.\n\nhttps://t.co/ZvoiTrxBZO\n\n#SpaceBiology #PlantGenetics",
+   "url": "https://x.com/i/status/2110581662937702705"
   },
-  "meta": {
-    "newest_id": "2110536374155989079",
-    "oldest_id": "2091279514760577200",
-    "result_count": 50
+  {
+   "created_at": "2026-10-15T01:00:58.000Z",
+   "edit_history_tweet_ids": [
+    "2110536374155989079"
+   ],
+   "id": "2110536374155989079",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NASA's Chandra reveals 'Treble Clef' galaxy cluster collision, likely caused by a supermassive black hole outburst!\n\nhttps://t.co/MIRKKpajlx\n\n#BlackHole #GalaxyCollision",
+   "url": "https://x.com/i/status/2110536374155989079"
+  },
+  {
+   "created_at": "2026-10-15T00:01:20.000Z",
+   "edit_history_tweet_ids": [
+    "2110521370069365027"
+   ],
+   "id": "2110521370069365027",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🌐 Today's science &amp; AI news, all in one place: https://t.co/h6417C2e7q #Science #AI",
+   "url": "https://x.com/i/status/2110521370069365027"
+  },
+  {
+   "created_at": "2026-10-14T22:06:06.000Z",
+   "edit_history_tweet_ids": [
+    "2110492368227151926"
+   ],
+   "id": "2110492368227151926",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "text": "Breakthrough! Machine learning boosts 2-6 week weather forecasts, revolutionizing emergency planning.\n\nhttps://t.co/EnyFwEflRj\n\n#WeatherForecasting #MachineLearning",
+   "url": "https://x.com/i/status/2110492368227151926"
+  },
+  {
+   "created_at": "2026-10-14T17:44:37.000Z",
+   "edit_history_tweet_ids": [
+    "2110426564647367041"
+   ],
+   "id": "2110426564647367041",
+   "in_reply_to_user_id": "2054998853900775424",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 51,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2110345153202327718",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@NASADepAdmin Put them all over the country. It's very important.",
+   "url": "https://x.com/i/status/2110426564647367041"
+  },
+  {
+   "created_at": "2026-10-14T10:01:32.000Z",
+   "edit_history_tweet_ids": [
+    "2110310023993946569"
+   ],
+   "id": "2110310023993946569",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Ultrashort laser pulses reveal electrons' quantum geometry in 2D semiconductors, measuring Berry curvature in tungsten diselenide—published in Nature Photonics.\n\nhttps://t.co/HmyBUe2bcr\n\n#QuantumPhysics #Photonics",
+   "url": "https://x.com/i/status/2110310023993946569"
+  },
+  {
+   "created_at": "2026-10-14T07:01:19.000Z",
+   "edit_history_tweet_ids": [
+    "2110264671274197118"
+   ],
+   "id": "2110264671274197118",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Jupiter's magnetodisk is wavy, per Juno data—ripples rotate with the planet, defying old theories!\n\nhttps://t.co/0zgB8xdrwc\n\n#JunoMission #JupiterMagnetosphere",
+   "url": "https://x.com/i/status/2110264671274197118"
+  },
+  {
+   "created_at": "2026-10-14T04:01:19.000Z",
+   "edit_history_tweet_ids": [
+    "2110219375051747788"
+   ],
+   "id": "2110219375051747788",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Breakthrough study identifies unique immune signatures in checkpoint inhibitor-induced myocarditis, offering new diagnostic and therapeutic avenues.\n\nhttps://t.co/Tmx6eh36Wi\n\n#CancerImmunotherapy #CardiovascularDisease",
+   "url": "https://x.com/i/status/2110219375051747788"
+  },
+  {
+   "created_at": "2026-10-14T01:01:41.000Z",
+   "edit_history_tweet_ids": [
+    "2110174167723393117"
+   ],
+   "id": "2110174167723393117",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 53,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NASA appoints astronaut Christina Koch as acting deputy chief engineer, succeeding Katherine Van Hooser after 35 years of service.\n\nhttps://t.co/IoFi0ZZuRN\n\n#NASA #WomenInSTEM",
+   "url": "https://x.com/i/status/2110174167723393117"
+  },
+  {
+   "created_at": "2026-10-14T00:01:13.000Z",
+   "edit_history_tweet_ids": [
+    "2110158950540964263"
+   ],
+   "id": "2110158950540964263",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🎬 New Short: This star is eating its neighbor… for billions of years #shorts\nhttps://t.co/Jf5fR6bxN8\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
+   "url": "https://x.com/i/status/2110158950540964263"
+  },
+  {
+   "created_at": "2026-10-13T22:01:44.000Z",
+   "edit_history_tweet_ids": [
+    "2110128881181298986"
+   ],
+   "id": "2110128881181298986",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 15,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Could meditation unveil a hidden SU(3) symmetry linking mind and cosmos?\n\nhttps://t.co/ZEkR5mo9oN\n\n#QuantumPhysics #ConsciousnessScience",
+   "url": "https://x.com/i/status/2110128881181298986"
+  },
+  {
+   "created_at": "2026-10-13T19:01:45.000Z",
+   "edit_history_tweet_ids": [
+    "2110083588423291184"
+   ],
+   "id": "2110083588423291184",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 67,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NASA rovers on Moon and Mars: Curiosity and Perseverance lead in distance, as of Oct. 2026. Explore their journey!\n\nhttps://t.co/MjfMTqGzJB\n\n#Rovers #SpaceExploration",
+   "url": "https://x.com/i/status/2110083588423291184"
+  },
+  {
+   "created_at": "2026-10-13T17:30:37.000Z",
+   "edit_history_tweet_ids": [
+    "2110060654145179816"
+   ],
+   "id": "2110060654145179816",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NASA seeks legal professionals for the Office of the General Counsel—join our mission in space and law!\n\nhttps://t.co/55OHvWEZmp\n\n#NASAJobs #LegalCareers",
+   "url": "https://x.com/i/status/2110060654145179816"
+  },
+  {
+   "created_at": "2026-10-13T17:27:38.000Z",
+   "edit_history_tweet_ids": [
+    "2110059902769205263"
+   ],
+   "id": "2110059902769205263",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🎬 New Short: A teaspoon of this weighs a billion tons #shorts\nhttps://t.co/GxWrleAW0f\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
+   "url": "https://x.com/i/status/2110059902769205263"
+  },
+  {
+   "created_at": "2026-10-13T17:21:33.000Z",
+   "edit_history_tweet_ids": [
+    "2110058371021988014"
+   ],
+   "id": "2110058371021988014",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "NASA's Voyager lander passes tests, paving way for Moon Base's first lunar outpost with extreme space simulations.\n\nhttps://t.co/t7iPYMMUQm\n\n#MoonBase #SpaceTech",
+   "url": "https://x.com/i/status/2110058371021988014"
+  },
+  {
+   "created_at": "2026-10-13T17:19:51.000Z",
+   "edit_history_tweet_ids": [
+    "2110057944054395392"
+   ],
+   "id": "2110057944054395392",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Gravity and quantum info linked through Einstein's equations—spacetime shaped by quantum fields!\n\nhttps://t.co/Qmc5TNK5Ve\n\n#QuantumPhysics #EinsteinEquations",
+   "url": "https://x.com/i/status/2110057944054395392"
+  },
+  {
+   "created_at": "2026-10-13T17:18:58.000Z",
+   "edit_history_tweet_ids": [
+    "2110057720145650031"
+   ],
+   "id": "2110057720145650031",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Monocyte-derived galectin-1hi cells enhance memory CD8+ T cell function, boosting immune resilience. #Immunology #TCells\n\nhttps://t.co/qaD24yPzza\n\n#ImmuneMemory #CellBiology",
+   "url": "https://x.com/i/status/2110057720145650031"
+  },
+  {
+   "created_at": "2026-10-13T17:18:00.000Z",
+   "edit_history_tweet_ids": [
+    "2110057477454934399"
+   ],
+   "id": "2110057477454934399",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Did you know? Complex modes can form in lightly damped structures when two closely spaced modes interact via nonproportional damping.\n\nhttps://t.co/OCEinxVyiC\n\n#StructuralEngineering #VibrationAnalysis",
+   "url": "https://x.com/i/status/2110057477454934399"
+  },
+  {
+   "created_at": "2026-10-13T17:16:10.000Z",
+   "edit_history_tweet_ids": [
+    "2110057018358935879"
+   ],
+   "id": "2110057018358935879",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "What if dimming the Sun backfires? A solar geoengineering simulation reveals geopolitics could make climate chaos worse.\n\nhttps://t.co/0uRiFOhUhX\n\n#ClimateGeoengineering #GlobalPolitics",
+   "url": "https://x.com/i/status/2110057018358935879"
+  },
+  {
+   "created_at": "2026-10-13T17:14:51.000Z",
+   "edit_history_tweet_ids": [
+    "2110056684295242230"
+   ],
+   "id": "2110056684295242230",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "A red dwarf is slowly devouring a brown dwarf, defying expectations in a 300-light-year cosmic feast.\n\nhttps://t.co/V8hgU8BpxT\n\n#Astronomy #StellarEvolution",
+   "url": "https://x.com/i/status/2110056684295242230"
+  },
+  {
+   "created_at": "2026-10-13T17:09:33.000Z",
+   "edit_history_tweet_ids": [
+    "2110055353014776209"
+   ],
+   "id": "2110055353014776209",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Who's responsible for AI-generated text in public debates? MIT researcher Deb Roy advocates for accountability in civic conversations.\n\nhttps://t.co/YeNWe8hKdf\n\n#AIethics #PublicAccountability",
+   "url": "https://x.com/i/status/2110055353014776209"
+  },
+  {
+   "created_at": "2026-10-13T16:31:19.000Z",
+   "edit_history_tweet_ids": [
+    "2110045728659878393"
+   ],
+   "id": "2110045728659878393",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Chile's \"Desert Stairway to Heaven\" offers a surreal blend of Earth and cosmos, perfect for stargazers.\n\nhttps://t.co/1G0NBXEuzi\n\n#APOD #Stargazing",
+   "url": "https://x.com/i/status/2110045728659878393"
+  },
+  {
+   "created_at": "2026-10-08T18:41:45.000Z",
+   "edit_history_tweet_ids": [
+    "2108266616228364635"
+   ],
+   "id": "2108266616228364635",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3603
+   },
+   "referenced_tweets": [
+    {
+     "id": "2108255757615738934",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @WhiteHouse: Welcome to a NEW GOLDEN AGE OF SCIENCE. \n\nThe Trump Admin just launched the biggest set of science initiatives in decades:…",
+   "url": "https://x.com/i/status/2108266616228364635"
+  },
+  {
+   "created_at": "2026-10-08T18:13:59.000Z",
+   "edit_history_tweet_ids": [
+    "2108259629109289119"
+   ],
+   "id": "2108259629109289119",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5047
+   },
+   "referenced_tweets": [
+    {
+     "id": "2108254023443009943",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @WhiteHouse: America will establish a permanent presence on the moon. 🚀🌕",
+   "url": "https://x.com/i/status/2108259629109289119"
+  },
+  {
+   "created_at": "2026-10-05T20:18:05.000Z",
+   "edit_history_tweet_ids": [
+    "2107203693389238723"
+   ],
+   "id": "2107203693389238723",
+   "in_reply_to_user_id": "511402689",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 29,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2107136323890921533",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@WorldAndScience standard please!",
+   "url": "https://x.com/i/status/2107203693389238723"
+  },
+  {
+   "created_at": "2026-10-05T15:34:47.000Z",
+   "edit_history_tweet_ids": [
+    "2107132401692577990"
+   ],
+   "id": "2107132401692577990",
+   "in_reply_to_user_id": "147346374",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 29,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2106983467141509385",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@esrtweet I just fully implemented wow classic into the internet cafe computer inside of GTA 4. its incredible.",
+   "url": "https://x.com/i/status/2107132401692577990"
+  },
+  {
+   "created_at": "2026-10-04T17:33:43.000Z",
+   "edit_history_tweet_ids": [
+    "2106799944992780566"
+   ],
+   "id": "2106799944992780566",
+   "in_reply_to_user_id": "1881451105454002176",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2106547918098288708",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@RapidResponse47 @POTUS Why not 50 space academy's?",
+   "url": "https://x.com/i/status/2106799944992780566"
+  },
+  {
+   "created_at": "2026-09-30T19:01:27.000Z",
+   "edit_history_tweet_ids": [
+    "2105372468286476403"
+   ],
+   "id": "2105372468286476403",
+   "in_reply_to_user_id": "194694215",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 962,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2105338836293234963",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@zebulgar feeling satisfaction from others suffering. dangerous.",
+   "url": "https://x.com/i/status/2105372468286476403"
+  },
+  {
+   "created_at": "2026-09-29T17:10:54.000Z",
+   "edit_history_tweet_ids": [
+    "2104982260131012768"
+   ],
+   "id": "2104982260131012768",
+   "in_reply_to_user_id": "9624742",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 32,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2104958643225665971",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@StateDept DMV NEXT PLEASE!!",
+   "url": "https://x.com/i/status/2104982260131012768"
+  },
+  {
+   "created_at": "2026-09-28T22:51:07.000Z",
+   "edit_history_tweet_ids": [
+    "2104705491171729481"
+   ],
+   "id": "2104705491171729481",
+   "in_reply_to_user_id": "4112496291",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 26,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 1,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2104617327526343099",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@ArianeGroup said as their entire bodies arent covered. its impossible to prevent microbes",
+   "url": "https://x.com/i/status/2104705491171729481"
+  },
+  {
+   "created_at": "2026-09-28T22:49:22.000Z",
+   "edit_history_tweet_ids": [
+    "2104705050660720672"
+   ],
+   "id": "2104705050660720672",
+   "in_reply_to_user_id": "3222018178",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 101,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2104667981783670890",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@adcock_brett and goodbye F.03",
+   "url": "https://x.com/i/status/2104705050660720672"
+  },
+  {
+   "created_at": "2026-09-28T16:31:57.000Z",
+   "edit_history_tweet_ids": [
+    "2104610072471208349"
+   ],
+   "id": "2104610072471208349",
+   "in_reply_to_user_id": "1100064156504543233",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2104356688006365669",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@GovNuclear imagine people could power their homes on this stuff.",
+   "url": "https://x.com/i/status/2104610072471208349"
+  },
+  {
+   "created_at": "2026-09-26T02:28:10.000Z",
+   "edit_history_tweet_ids": [
+    "2103672948846666184"
+   ],
+   "id": "2103672948846666184",
+   "in_reply_to_user_id": "2162812627",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2103282510029296055",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@nicksortor we need to work together in all of science and space. its essential for quick progression",
+   "url": "https://x.com/i/status/2103672948846666184"
+  },
+  {
+   "created_at": "2026-09-25T18:30:21.000Z",
+   "edit_history_tweet_ids": [
+    "2103552702303367371"
+   ],
+   "id": "2103552702303367371",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 91
+   },
+   "referenced_tweets": [
+    {
+     "id": "2103341662822871398",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @Ahwoo_Official: Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes inte…",
+   "url": "https://x.com/i/status/2103552702303367371"
+  },
+  {
+   "created_at": "2026-09-06T15:26:45.000Z",
+   "edit_history_tweet_ids": [
+    "2096621129830224143"
+   ],
+   "id": "2096621129830224143",
+   "in_reply_to_user_id": "1954023090830135296",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 61,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2096452184829505801",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@XueJia24682 I'm pretty sure that's related to dna. Don't think rubbing eyes will help vision.",
+   "url": "https://x.com/i/status/2096621129830224143"
+  },
+  {
+   "created_at": "2026-08-30T19:35:48.000Z",
+   "edit_history_tweet_ids": [
+    "2094147090192720380"
+   ],
+   "id": "2094147090192720380",
+   "in_reply_to_user_id": "3167257102",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 115,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2093768810993942566",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@Erdayastronaut @Onshape @autodesk I've been using Fusion for over a decade and I'm pretty sure onshape would be better. Fusion can get very annoying.",
+   "url": "https://x.com/i/status/2094147090192720380"
+  },
+  {
+   "created_at": "2026-08-30T19:34:45.000Z",
+   "edit_history_tweet_ids": [
+    "2094146826329113038"
+   ],
+   "id": "2094146826329113038",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 143
+   },
+   "referenced_tweets": [
+    {
+     "id": "2094098569607123293",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @s2a_systems: And a short time-lapse of today’s recordings of the Nancy Grace Roman Space Telescope and the Falcon upper stage (leading)…",
+   "url": "https://x.com/i/status/2094146826329113038"
+  },
+  {
+   "created_at": "2026-08-28T18:41:35.000Z",
+   "edit_history_tweet_ids": [
+    "2093408671221121410"
+   ],
+   "id": "2093408671221121410",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 334
+   },
+   "referenced_tweets": [
+    {
+     "id": "2093392237170196894",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @mkratsios47: Today @POTUS signed an EO establishing the Presidential Commission on the United States Space Academy.\n\nThe Commission wil…",
+   "url": "https://x.com/i/status/2093408671221121410"
+  },
+  {
+   "created_at": "2026-08-28T18:41:06.000Z",
+   "edit_history_tweet_ids": [
+    "2093408547765887254"
+   ],
+   "id": "2093408547765887254",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 59
+   },
+   "referenced_tweets": [
+    {
+     "id": "2093380033448485295",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @SciGuySpace: Trump says he will sign an executive order to create a US Space Academy.",
+   "url": "https://x.com/i/status/2093408547765887254"
+  },
+  {
+   "attachments": {
+    "media_keys": [
+     "7_1482051389064826880"
+    ]
+   },
+   "created_at": "2026-08-25T23:30:56.000Z",
+   "edit_history_tweet_ids": [
+    "2092394326357909531"
+   ],
+   "id": "2092394326357909531",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 67
+   },
+   "referenced_tweets": [
+    {
+     "id": "2092297852823216150",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @wonderofscience: 4 billion years of evolution in 60 seconds, from Carl Sagan's \"Cosmos: A Personal Voyage\".\nhttps://t.co/NzuGQo1XRH",
+   "url": "https://x.com/i/status/2092394326357909531"
+  },
+  {
+   "created_at": "2026-08-25T18:08:08.000Z",
+   "edit_history_tweet_ids": [
+    "2092313088687329773"
+   ],
+   "id": "2092313088687329773",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 10348
+   },
+   "referenced_tweets": [
+    {
+     "id": "2092292773915537580",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @elonmusk: Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making…",
+   "url": "https://x.com/i/status/2092313088687329773"
+  },
+  {
+   "created_at": "2026-08-25T17:58:40.000Z",
+   "edit_history_tweet_ids": [
+    "2092310709250265373"
+   ],
+   "id": "2092310709250265373",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 5923
+   },
+   "referenced_tweets": [
+    {
+     "id": "2092284173730144732",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @SpaceX: Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for human…",
+   "url": "https://x.com/i/status/2092310709250265373"
+  },
+  {
+   "created_at": "2026-08-23T15:37:47.000Z",
+   "edit_history_tweet_ids": [
+    "2091550475950924180"
+   ],
+   "id": "2091550475950924180",
+   "in_reply_to_user_id": "15726728",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 435,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091536201060692327",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@SciGuySpace Can't wait to see who plants the next flag at the lunar south pole.",
+   "url": "https://x.com/i/status/2091550475950924180"
+  },
+  {
+   "created_at": "2026-08-23T10:04:08.000Z",
+   "edit_history_tweet_ids": [
+    "2091466512972579055"
+   ],
+   "id": "2091466512972579055",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 26,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "This week Curiosity rover returns to its regular schedule after a brief detour to study an erosional surface. The team is now back on track climbing Mount Sharp, gathering data to unravel Gale Crater’s geological history.\n\nhttps://t.co/Zy24N4UJJt\n\n#CuriosityRover #MountSharp",
+   "url": "https://x.com/i/status/2091466512972579055"
+  },
+  {
+   "created_at": "2026-08-23T07:37:23.000Z",
+   "edit_history_tweet_ids": [
+    "2091429579420569808"
+   ],
+   "id": "2091429579420569808",
+   "in_reply_to_user_id": "2828212668",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 219,
+    "like_count": 2,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091426820352803046",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@AMAZlNGNATURE Their eyes evolving separately is mindblowing for convergent evolution.",
+   "url": "https://x.com/i/status/2091429579420569808"
+  },
+  {
+   "created_at": "2026-08-23T03:41:39.000Z",
+   "edit_history_tweet_ids": [
+    "2091370256199713271"
+   ],
+   "id": "2091370256199713271",
+   "in_reply_to_user_id": "718325771392172033",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 696,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091354745848119530",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@MarcusHouse Hope the timing works out, safe sailing!",
+   "url": "https://x.com/i/status/2091370256199713271"
+  },
+  {
+   "created_at": "2026-08-23T02:39:31.000Z",
+   "edit_history_tweet_ids": [
+    "2091354620924969386"
+   ],
+   "id": "2091354620924969386",
+   "in_reply_to_user_id": "718325771392172033",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 413,
+    "like_count": 4,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091352065956266240",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@MarcusHouse @lifeatstagezero Excited to see Flight 14 launch after the prep!",
+   "url": "https://x.com/i/status/2091354620924969386"
+  },
+  {
+   "created_at": "2026-08-23T00:42:54.000Z",
+   "edit_history_tweet_ids": [
+    "2091325271471436007"
+   ],
+   "id": "2091325271471436007",
+   "in_reply_to_user_id": "2828212668",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 137,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091310951727304876",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@AMAZlNGNATURE Their tool use is insane, nature never stops surprising.",
+   "url": "https://x.com/i/status/2091325271471436007"
+  },
+  {
+   "created_at": "2026-08-22T23:25:07.000Z",
+   "edit_history_tweet_ids": [
+    "2091305695689998629"
+   ],
+   "id": "2091305695689998629",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 0,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 240
+   },
+   "referenced_tweets": [
+    {
+     "id": "2090520176655487339",
+     "type": "retweeted"
+    }
+   ],
+   "text": "RT @blueorigin: Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links —…",
+   "url": "https://x.com/i/status/2091305695689998629"
+  },
+  {
+   "created_at": "2026-08-22T22:41:59.000Z",
+   "edit_history_tweet_ids": [
+    "2091294841166787038"
+   ],
+   "id": "2091294841166787038",
+   "in_reply_to_user_id": "2828212668",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 199,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "referenced_tweets": [
+    {
+     "id": "2091288553938669605",
+     "type": "replied_to"
+    }
+   ],
+   "text": "@AMAZlNGNATURE A cat proof design, just what we need for space hardware.",
+   "url": "https://x.com/i/status/2091294841166787038"
   }
+ ],
+ "includes": {
+  "tweets": [
+   {
+    "created_at": "2026-10-14T12:21:07.000Z",
+    "edit_history_tweet_ids": [
+     "2110345153202327718"
+    ],
+    "id": "2110345153202327718",
+    "public_metrics": {
+     "bookmark_count": 25,
+     "impression_count": 23888,
+     "like_count": 307,
+     "quote_count": 7,
+     "reply_count": 24,
+     "retweet_count": 41
+    },
+    "text": "The enthusiasm for the U.S. Space Academy has been overwhelming, and we want every state ready to compete. \n\nWe’re extending the RFI deadline to Nov. 16, giving states more time to put forward their strongest vision for building America’s future in space 🇺🇸🚀"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2108254712596148224"
+     ]
+    },
+    "created_at": "2026-10-08T17:58:36.000Z",
+    "edit_history_tweet_ids": [
+     "2108255757615738934"
+    ],
+    "id": "2108255757615738934",
+    "public_metrics": {
+     "bookmark_count": 911,
+     "impression_count": 407473,
+     "like_count": 13129,
+     "quote_count": 399,
+     "reply_count": 894,
+     "retweet_count": 3603
+    },
+    "text": "Welcome to a NEW GOLDEN AGE OF SCIENCE. \n\nThe Trump Admin just launched the biggest set of science initiatives in decades: $6B+ across government, industry, academia, &amp; philanthropy. 🚀 https://t.co/Pyvx6ixe2k"
+   },
+   {
+    "created_at": "2026-10-08T17:51:43.000Z",
+    "edit_history_tweet_ids": [
+     "2108254023443009943"
+    ],
+    "id": "2108254023443009943",
+    "public_metrics": {
+     "bookmark_count": 1728,
+     "impression_count": 5242910,
+     "like_count": 50809,
+     "quote_count": 2285,
+     "reply_count": 7157,
+     "retweet_count": 5047
+    },
+    "text": "America will establish a permanent presence on the moon. 🚀🌕"
+   },
+   {
+    "article": {
+     "title": "If we stop changing the clocks, which time should we keep?"
+    },
+    "created_at": "2026-10-05T15:50:22.000Z",
+    "edit_history_tweet_ids": [
+     "2107136323890921533"
+    ],
+    "id": "2107136323890921533",
+    "public_metrics": {
+     "bookmark_count": 6,
+     "impression_count": 32139,
+     "like_count": 10,
+     "quote_count": 0,
+     "reply_count": 3,
+     "retweet_count": 1
+    },
+    "text": "Which do you prefer: daylight saving time or standard time? https://t.co/H16wiDmZx3"
+   },
+   {
+    "created_at": "2026-10-05T05:42:59.000Z",
+    "edit_history_tweet_ids": [
+     "2106983467141509385"
+    ],
+    "id": "2106983467141509385",
+    "public_metrics": {
+     "bookmark_count": 2498,
+     "impression_count": 355899,
+     "like_count": 7838,
+     "quote_count": 178,
+     "reply_count": 246,
+     "retweet_count": 900
+    },
+    "text": "The end of software secrecy is almost upon us. The death of closed source, and the final triumph of open source.\n\nI should have realized this a few months ago when I successfully decompiled the game of Firefighter from an ancient DOS shareware binary. My robot friend was able to"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2106547651156090880"
+     ]
+    },
+    "created_at": "2026-10-04T00:52:16.000Z",
+    "edit_history_tweet_ids": [
+     "2106547918098288708"
+    ],
+    "id": "2106547918098288708",
+    "public_metrics": {
+     "bookmark_count": 124,
+     "impression_count": 168212,
+     "like_count": 4332,
+     "quote_count": 26,
+     "reply_count": 115,
+     "retweet_count": 715
+    },
+    "text": ".@POTUS: I recently announced we will be establishing a brand new U.S. National SPACE ACADEMY.\n\nEvery other state wants it, but I have no doubt that — as the birthplace of aviation and home of the Wright Brothers — if we win, Ohio will be under STRONG consideration. https://t.co/VpeRJ7ZUUM"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2105338818702237696"
+     ]
+    },
+    "created_at": "2026-09-30T16:47:48.000Z",
+    "edit_history_tweet_ids": [
+     "2105338836293234963"
+    ],
+    "id": "2105338836293234963",
+    "public_metrics": {
+     "bookmark_count": 109,
+     "impression_count": 179694,
+     "like_count": 1080,
+     "quote_count": 12,
+     "reply_count": 78,
+     "retweet_count": 19
+    },
+    "text": "To everyone that passed on Varda\n\nHave fun staying poor https://t.co/NL0b50xP94"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2104957994114932736"
+     ]
+    },
+    "created_at": "2026-09-29T15:37:03.000Z",
+    "edit_history_tweet_ids": [
+     "2104958643225665971"
+    ],
+    "id": "2104958643225665971",
+    "public_metrics": {
+     "bookmark_count": 380,
+     "impression_count": 361057,
+     "like_count": 4346,
+     "quote_count": 87,
+     "reply_count": 151,
+     "retweet_count": 711
+    },
+    "text": "SECRETARY RUBIO on https://t.co/pt9rQXC44r: The point of all of this that we're doing here today, and this is simple, is to make the process more accessible and easier for Americans. https://t.co/8BKyPZJPrM"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "7_2104617126803718145"
+     ]
+    },
+    "created_at": "2026-09-28T17:00:47.000Z",
+    "edit_history_tweet_ids": [
+     "2104617327526343099"
+    ],
+    "id": "2104617327526343099",
+    "public_metrics": {
+     "bookmark_count": 4,
+     "impression_count": 5645,
+     "like_count": 63,
+     "quote_count": 0,
+     "reply_count": 2,
+     "retweet_count": 5
+    },
+    "text": "Don't bring Earth to Mars.\n\nRosalind Franklin searches for signs of life on Mars, so it must not carry any of its own from Earth. In ArianeGroup's clean room, both visible particles and invisible micro-organisms are tracked and eliminated before the thermal shield ever leaves for https://t.co/u1OedKUBUI"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2104667130813878272"
+     ]
+    },
+    "created_at": "2026-09-28T20:22:04.000Z",
+    "edit_history_tweet_ids": [
+     "2104667981783670890"
+    ],
+    "id": "2104667981783670890",
+    "public_metrics": {
+     "bookmark_count": 107,
+     "impression_count": 233946,
+     "like_count": 1246,
+     "quote_count": 13,
+     "reply_count": 62,
+     "retweet_count": 57
+    },
+    "text": "Goodbye F.02 https://t.co/JoonZikW8I"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2104356667538231296"
+     ]
+    },
+    "created_at": "2026-09-27T23:45:06.000Z",
+    "edit_history_tweet_ids": [
+     "2104356688006365669"
+    ],
+    "id": "2104356688006365669",
+    "public_metrics": {
+     "bookmark_count": 32,
+     "impression_count": 12879,
+     "like_count": 405,
+     "quote_count": 5,
+     "reply_count": 21,
+     "retweet_count": 82
+    },
+    "text": "Small pellet. Huge energy. 🤯\n\nOne uranium fuel pellet packs more power than you might guess. https://t.co/yI8noY68yo"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2103282021250236417"
+     ]
+    },
+    "created_at": "2026-09-25T00:36:42.000Z",
+    "edit_history_tweet_ids": [
+     "2103282510029296055"
+    ],
+    "id": "2103282510029296055",
+    "public_metrics": {
+     "bookmark_count": 20890,
+     "impression_count": 9765676,
+     "like_count": 119435,
+     "quote_count": 1124,
+     "reply_count": 2850,
+     "retweet_count": 35053
+    },
+    "text": "Legacy media REFUSED to show you a SINGLE SECOND of President Trump's speech and historic state dinner with Xi Jinping tonight at the White House\n\nSo here's the ENTIRE thing, from start to finish, with translations for Xi's speech\n\nDO NOT LET LEGACY MEDIA KEEP YOU IN THE DARK https://t.co/jW6KZAFAnL"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2103341660469878784"
+     ]
+    },
+    "created_at": "2026-09-25T04:31:45.000Z",
+    "edit_history_tweet_ids": [
+     "2103341662822871398"
+    ],
+    "id": "2103341662822871398",
+    "public_metrics": {
+     "bookmark_count": 149,
+     "impression_count": 33979,
+     "like_count": 1288,
+     "quote_count": 24,
+     "reply_count": 29,
+     "retweet_count": 91
+    },
+    "text": "Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes interstellar travel beyond the Solar System, adding Alpha Centauri, Barnard’s Star and Tau Ceti at their real distances and directions. https://t.co/u5YvXziG9v"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2096452145356939264"
+     ]
+    },
+    "created_at": "2026-09-06T04:15:25.000Z",
+    "edit_history_tweet_ids": [
+     "2096452184829505801"
+    ],
+    "id": "2096452184829505801",
+    "public_metrics": {
+     "bookmark_count": 160,
+     "impression_count": 32836,
+     "like_count": 836,
+     "quote_count": 14,
+     "reply_count": 28,
+     "retweet_count": 213
+    },
+    "text": "✨🇨🇳Every primary school in China runs a 5‑minute eye exercise routine each day to relieve eye fatigue and combat childhood myopia. https://t.co/ek9kSr2Zm5"
+   },
+   {
+    "created_at": "2026-08-29T18:32:39.000Z",
+    "edit_history_tweet_ids": [
+     "2093768810993942566"
+    ],
+    "id": "2093768810993942566",
+    "public_metrics": {
+     "bookmark_count": 123,
+     "impression_count": 106685,
+     "like_count": 736,
+     "quote_count": 3,
+     "reply_count": 340,
+     "retweet_count": 10
+    },
+    "text": "Hey CAD users. Starting from scratch, what would you learn? I'm leaning towards @Onshape or @autodesk Fusion 360. Any thoughts out there with people who have run both? What about learning curve, is one much easier? IP matters a little, so I don't know about the free OnShape..."
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2094097914888847360"
+     ]
+    },
+    "created_at": "2026-08-30T16:23:00.000Z",
+    "edit_history_tweet_ids": [
+     "2094098569607123293"
+    ],
+    "id": "2094098569607123293",
+    "public_metrics": {
+     "bookmark_count": 140,
+     "impression_count": 81926,
+     "like_count": 1055,
+     "quote_count": 18,
+     "reply_count": 13,
+     "retweet_count": 143
+    },
+    "text": "And a short time-lapse of today’s recordings of the Nancy Grace Roman Space Telescope and the Falcon upper stage (leading). Recorded on 2026-08-30 between 12:38:18 and 13:21:23 UTC. #NASARoman https://t.co/taK0jNGAqZ"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2093392077849600000"
+     ]
+    },
+    "created_at": "2026-08-28T17:36:17.000Z",
+    "edit_history_tweet_ids": [
+     "2093392085596389427",
+     "2093392237170196894"
+    ],
+    "id": "2093392237170196894",
+    "public_metrics": {
+     "bookmark_count": 209,
+     "impression_count": 218159,
+     "like_count": 1869,
+     "quote_count": 76,
+     "reply_count": 119,
+     "retweet_count": 334
+    },
+    "text": "Today @POTUS signed an EO establishing the Presidential Commission on the United States Space Academy.\n\nThe Commission will be led by our  great @NASAAdmin and will design a @NASA-led federal academy that combines rigorous technical education with leadership, discipline, and a https://t.co/Y6ZMK7PJns"
+   },
+   {
+    "created_at": "2026-08-28T16:47:47.000Z",
+    "edit_history_tweet_ids": [
+     "2093380033448485295"
+    ],
+    "id": "2093380033448485295",
+    "public_metrics": {
+     "bookmark_count": 45,
+     "impression_count": 82576,
+     "like_count": 1581,
+     "quote_count": 26,
+     "reply_count": 62,
+     "retweet_count": 59
+    },
+    "text": "Trump says he will sign an executive order to create a US Space Academy."
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "7_1482051389064826880"
+     ]
+    },
+    "created_at": "2026-08-25T17:07:35.000Z",
+    "edit_history_tweet_ids": [
+     "2092297852823216150"
+    ],
+    "id": "2092297852823216150",
+    "public_metrics": {
+     "bookmark_count": 158,
+     "impression_count": 81222,
+     "like_count": 407,
+     "quote_count": 6,
+     "reply_count": 23,
+     "retweet_count": 67
+    },
+    "text": "4 billion years of evolution in 60 seconds, from Carl Sagan's \"Cosmos: A Personal Voyage\".\nhttps://t.co/NzuGQo1XRH"
+   },
+   {
+    "created_at": "2026-08-25T16:47:24.000Z",
+    "edit_history_tweet_ids": [
+     "2092292773915537580"
+    ],
+    "id": "2092292773915537580",
+    "public_metrics": {
+     "bookmark_count": 3876,
+     "impression_count": 31250139,
+     "like_count": 82132,
+     "quote_count": 1145,
+     "reply_count": 7389,
+     "retweet_count": 10348
+    },
+    "referenced_tweets": [
+     {
+      "id": "2092284173730144732",
+      "type": "quoted"
+     }
+    ],
+    "text": "Starbase Louisiana will ultimately have over a dozen launch towers, enabling more than 30 Starship flights per day and making it the biggest launch site on Earth! \n\nSpaceX makes sci-fi real. https://t.co/C7Ht0U12ba"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2092279198882914304"
+     ]
+    },
+    "created_at": "2026-08-25T16:13:14.000Z",
+    "edit_history_tweet_ids": [
+     "2092284173730144732"
+    ],
+    "id": "2092284173730144732",
+    "public_metrics": {
+     "bookmark_count": 4830,
+     "impression_count": 44796057,
+     "like_count": 36610,
+     "quote_count": 1672,
+     "reply_count": 2106,
+     "retweet_count": 5923
+    },
+    "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity.\n \nThank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/hq308hvg2g"
+   },
+   {
+    "created_at": "2026-08-23T14:41:03.000Z",
+    "edit_history_tweet_ids": [
+     "2091536201060692327"
+    ],
+    "id": "2091536201060692327",
+    "public_metrics": {
+     "bookmark_count": 66,
+     "impression_count": 51581,
+     "like_count": 770,
+     "quote_count": 15,
+     "reply_count": 29,
+     "retweet_count": 85
+    },
+    "text": "After China formally delays Chang'e 7 into 2027, the race to the South Pole of the Moon is back on.\n\nhttps://t.co/xlEbJpdb9f"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2091426440063725568",
+      "3_2091426459089084416"
+     ]
+    },
+    "created_at": "2026-08-23T07:26:25.000Z",
+    "edit_history_tweet_ids": [
+     "2091426820352803046"
+    ],
+    "id": "2091426820352803046",
+    "public_metrics": {
+     "bookmark_count": 149,
+     "impression_count": 209168,
+     "like_count": 3606,
+     "quote_count": 17,
+     "reply_count": 55,
+     "retweet_count": 342
+    },
+    "text": "Octopuses are among the most intelligent and unusual animals on Earth\n\nThey have three hearts, blue blood, nine interconnected brains and much of their nervous system is spread through their arms. Their camera like eyes also evolved separately from ours millions of years ago https://t.co/YQxMiFnpYe"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2091353880533819392",
+      "3_2091354093973655552"
+     ]
+    },
+    "created_at": "2026-08-23T02:40:01.000Z",
+    "edit_history_tweet_ids": [
+     "2091354745848119530"
+    ],
+    "id": "2091354745848119530",
+    "public_metrics": {
+     "bookmark_count": 41,
+     "impression_count": 57967,
+     "like_count": 1648,
+     "quote_count": 3,
+     "reply_count": 25,
+     "retweet_count": 67
+    },
+    "text": "The vessel FORTE moving at around 10 knots should get in to meet Ship 40 in just a little over 12 hours. I hope they wait till morning to do any fun stuff. https://t.co/tv6Zw2qsk0"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "13_2091351042428682240"
+     ]
+    },
+    "created_at": "2026-08-23T02:29:22.000Z",
+    "edit_history_tweet_ids": [
+     "2091351295114555878",
+     "2091352065956266240"
+    ],
+    "id": "2091352065956266240",
+    "public_metrics": {
+     "bookmark_count": 121,
+     "impression_count": 134524,
+     "like_count": 5244,
+     "quote_count": 23,
+     "reply_count": 72,
+     "retweet_count": 349
+    },
+    "text": "Ship 41 heading back today to prepare for Flight 14! 💪 https://t.co/Blg3sMoh7F"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2091265751202025472"
+     ]
+    },
+    "created_at": "2026-08-22T23:46:00.000Z",
+    "edit_history_tweet_ids": [
+     "2091310951727304876"
+    ],
+    "id": "2091310951727304876",
+    "public_metrics": {
+     "bookmark_count": 111,
+     "impression_count": 208237,
+     "like_count": 2252,
+     "quote_count": 11,
+     "reply_count": 41,
+     "retweet_count": 186
+    },
+    "text": "I already thought otters were adorable, but learning what they’re actually capable of makes them so much cooler https://t.co/mAmYH4bzoC"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2090520155725914112"
+     ]
+    },
+    "created_at": "2026-08-20T19:23:44.000Z",
+    "edit_history_tweet_ids": [
+     "2090520176655487339"
+    ],
+    "id": "2090520176655487339",
+    "public_metrics": {
+     "bookmark_count": 148,
+     "impression_count": 89811,
+     "like_count": 1637,
+     "quote_count": 27,
+     "reply_count": 46,
+     "retweet_count": 240
+    },
+    "text": "Your live view from the Moon: coming up!\n\nLunar Express's architecture will deliver multiple simultaneous 4K video links — from the lunar surface and orbit all the way to Earth — with the capacity to scale further. For the first time ever, humanity will witness a Moon Base being https://t.co/j7g8uOpDz9"
+   },
+   {
+    "attachments": {
+     "media_keys": [
+      "3_2091077084399407104"
+     ]
+    },
+    "created_at": "2026-08-22T22:17:00.000Z",
+    "edit_history_tweet_ids": [
+     "2091288553938669605"
+    ],
+    "id": "2091288553938669605",
+    "public_metrics": {
+     "bookmark_count": 36,
+     "impression_count": 204676,
+     "like_count": 1269,
+     "quote_count": 0,
+     "reply_count": 19,
+     "retweet_count": 90
+    },
+    "text": "THIS CAT FOUND A BALL IT CAN NEVER STEAL\n\nChinese guardian lion statues traditionally have a stone ball carved inside their mouth that can roll around but can never come out https://t.co/OmbmiTBdNr"
+   }
+  ],
+  "media": [
+   {
+    "height": 720,
+    "media_key": "7_1482051389064826880",
+    "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1482051389064826880/pu/img/G3LwosEfxszGbOdb.jpg",
+    "type": "video",
+    "variants": [
+     {
+      "bit_rate": 256000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1482051389064826880/pu/vid/360x270/eQEPCdbTZhrAIcYD.mp4?tag=12"
+     },
+     {
+      "bit_rate": 832000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1482051389064826880/pu/vid/480x360/BbQYMUkuoYTlu4NH.mp4?tag=12"
+     },
+     {
+      "bit_rate": 2176000,
+      "content_type": "video/mp4",
+      "url": "https://video.twimg.com/ext_tw_video/1482051389064826880/pu/vid/960x720/JI65zB9i7ZLxE1a7.mp4?tag=12"
+     },
+     {
+      "content_type": "application/x-mpegURL",
+      "url": "https://video.twimg.com/ext_tw_video/1482051389064826880/pu/pl/ck2WoOhjEVqfEhi2.m3u8?tag=12&v=e19"
+     }
+    ],
+    "width": 960
+   }
+  ]
+ },
+ "meta": {
+  "newest_id": "2110581662937702705",
+  "oldest_id": "2091294841166787038",
+  "result_count": 50
+ }
 }
