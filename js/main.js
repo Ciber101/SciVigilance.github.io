@@ -662,6 +662,11 @@ async function setupTopStoriesAudio(d) {
   scrub.addEventListener('input', () => { dragging = true; scrubWrap.classList.add('drag'); showTip(); paint(); });
   const commit = () => { audio.currentTime = +scrub.value; dragging = false; scrubWrap.classList.remove('drag'); paint(); };
   scrub.addEventListener('change', commit);
+  scrub.addEventListener('keydown', e => {
+    const step = {ArrowRight: 5, ArrowUp: 5, ArrowLeft: -5, ArrowDown: -5, PageUp: 30, PageDown: -30}[e.key];
+    if (step === undefined) return;
+    e.preventDefault(); audio.currentTime = Math.min(total(), Math.max(0, audio.currentTime + step)); paint();
+  });
   ['pointerup', 'pointercancel', 'blur'].forEach(e => scrub.addEventListener(e, () => { if (dragging) commit(); }));
   audio.addEventListener('error', () => { audio.pause(); wrap.hidden = true; scrubWrap.hidden = true; });
   scrubWrap.hidden = false;
