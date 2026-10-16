@@ -513,11 +513,32 @@ function clampRows() {
     if (!g) return;
     const cols = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
     const items = [...g.children].filter(c => !c.classList.contains('empty-state'));
-    items.forEach((c, i) => { c.hidden = i >= cols * 2; });
+    const rows = (id === 'xGrid' || id === 'featuredGrid') ? 3 : 2; // masonry X grids: extra row fills columns evenly
+    items.forEach((c, i) => { c.hidden = i >= cols * rows; });
     const more = document.querySelector(`.see-all[data-for="${id}"]`);
-    if (more) more.hidden = items.length <= cols * 2;
+    if (more) more.hidden = items.length <= cols * rows;
+  });
+  layoutMasonry();
+}
+
+/* ---------- Masonry: each card spans rows equal to its own height ---------- */
+function layoutMasonry() {
+  document.querySelectorAll('.social-grid, .digest-grid').forEach(g => {
+    const gap = parseFloat(getComputedStyle(g).columnGap) || 20;
+    [...g.children].forEach(c => {
+      if (c.hidden || c.classList.contains('empty-state')) return;
+      c.style.gridRowEnd = 'auto';
+      c.style.marginBottom = gap + 'px';
+      c.style.gridRowEnd = 'span ' + Math.ceil(c.getBoundingClientRect().height + gap);
+    });
   });
 }
+let _mq;
+const _schedMasonry = () => { cancelAnimationFrame(_mq); _mq = requestAnimationFrame(layoutMasonry); };
+window.addEventListener('resize', _schedMasonry);
+window.addEventListener('load', _schedMasonry);
+document.addEventListener('load', e => { if (e.target.tagName === 'IMG') _schedMasonry(); }, true);
+new MutationObserver(_schedMasonry).observe(document.documentElement, {childList: true, subtree: true, attributes: true, attributeFilter: ['hidden']});
 
 /* ---------- Full news / AI pages ---------- */
 async function loadFullList() {

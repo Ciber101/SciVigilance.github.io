@@ -926,3 +926,12 @@ body { background: transparent; }
 .x-card > img:not(.x-av) { width: 100%; aspect-ratio: 16 / 10; object-fit: cover; }
 
 .social-grid > [hidden], .shorts-grid > [hidden], .see-all[hidden] { display: none !important; }
+
+/* ============================================================
+   MASONRY post grids: cards keep their own height; JS (layoutMasonry)
+   sets grid-row-end spans so short cards pack beside long ones.
+   ============================================================ */
+.social-grid, .digest-grid { grid-auto-rows: 1px; row-gap: 0; align-items: start; }
+.social-grid > *, .digest-grid > * { align-self: start; height: auto; }
+.social-grid > .empty-state, .digest-grid > .empty-state { grid-row-end: span 200; }
+.social-card .text, .card .summary { flex: 0 0 auto; }
