@@ -625,5 +625,32 @@ async function loadTopStories() {
       <p class="ts-sources">Sources: ${(st.sources || []).map(x => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>${x.date ? ` (${escapeHtml(x.date)})` : ''}`).join(', ')}</p>
     </section>`).join('');
   document.getElementById('top-stories').hidden = false;
+  setupTopStoriesAudio(d);
+}
+
+/* Read-aloud: same spoken text + hash as scripts/top_stories_audio.py; hidden if missing or stale */
+async function setupTopStoriesAudio(d) {
+  const wrap = document.getElementById('tsListen');
+  if (!wrap || !d.audio || !d.audio.src || !d.audio.hash || !(window.crypto && crypto.subtle)) return;
+  const lines = ['Top stories, explained.'];
+  d.stories.forEach(st => { lines.push(st.title.replace(/\.$/, '') + '.'); (st.paragraphs || []).forEach(p => lines.push(p)); });
+  const buf = await crypto.subtle.digest('SHA-1', new TextEncoder().encode(lines.join('\n')));
+  const hex = [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, '0')).join('');
+  if (hex !== d.audio.hash) return;
+  const btn = document.getElementById('tsPlay'), time = document.getElementById('tsTime'), fill = document.getElementById('tsBarFill');
+  const audio = new Audio(); audio.preload = 'none'; audio.src = d.audio.src;
+  const fmt = t => { t = Math.max(0, Math.floor(t || 0)); return Math.floor(t / 60) + ':' + String(t % 60).padStart(2, '0'); };
+  const total = () => (isFinite(audio.duration) && audio.duration) || d.audio.duration || 0;
+  const paint = () => {
+    const playing = !audio.paused && !audio.ended;
+    btn.classList.toggle('on', playing); btn.setAttribute('aria-pressed', String(playing));
+    btn.setAttribute('aria-label', playing ? 'Pause article audio' : 'Listen to this article');
+    time.textContent = (audio.currentTime || playing) ? `${fmt(audio.currentTime)} / ${fmt(total())}` : `Listen · ${fmt(total())}`;
+    fill.style.width = total() ? (100 * audio.currentTime / total()) + '%' : '0';
+  };
+  btn.addEventListener('click', () => { if (audio.paused || audio.ended) audio.play().catch(() => {}); else audio.pause(); });
+  ['play', 'pause', 'ended', 'timeupdate', 'loadedmetadata'].forEach(e => audio.addEventListener(e, paint));
+  audio.addEventListener('error', () => { audio.pause(); wrap.hidden = true; });
+  paint(); wrap.hidden = false;
 }
 loadTopStories();

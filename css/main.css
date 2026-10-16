@@ -924,3 +924,14 @@ body { background: transparent; }
 .ts-story:first-child { border-top: 0; margin-top: 10px; }
 .ts-sources { font-size: 0.9rem !important; }
 .ts-note { font-size: 0.88rem !important; color: var(--text-faint) !important; margin-top: 28px; }
+.ts-head { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+.ts-listen { display: inline-flex; align-items: center; gap: 10px; }
+.ts-listen[hidden] { display: none; }
+.ts-play { width: 40px; height: 40px; border-radius: 50%; border: 1px solid var(--line); background: rgba(17,24,39,.85); color: var(--amber); display: inline-flex; align-items: center; justify-content: center; cursor: pointer; transition: border-color .2s, background .2s; }
+.ts-play:hover, .ts-play:focus-visible { border-color: var(--amber); background: var(--bg-panel-2); outline: none; }
+.ts-play .i-pause, .ts-play.on .i-play { display: none; }
+.ts-play.on .i-pause { display: block; }
+.ts-time { font-family: var(--font-mono); font-size: 0.78rem; color: var(--text-dim); min-width: 92px; }
+.ts-bar { width: 90px; height: 4px; border-radius: 4px; background: var(--line-soft); overflow: hidden; }
+.ts-bar span { display: block; height: 100%; width: 0; background: var(--amber); }
+@media (max-width: 560px) { .ts-bar { width: 60px; } }
