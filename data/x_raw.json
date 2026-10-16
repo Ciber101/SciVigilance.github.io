@@ -2,6 +2,98 @@
   "data": [
     {
       "author_id": "1974272513917267972",
+      "created_at": "2026-10-16T19:07:15.000Z",
+      "edit_history_tweet_ids": [
+        "2111172135934910964"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "3167257102",
+            "start": 0,
+            "username": "Erdayastronaut"
+          }
+        ]
+      },
+      "id": "2111172135934910964",
+      "in_reply_to_user_id": "3167257102",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 12,
+        "like_count": 1,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111167221523534069",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@Erdayastronaut I was there!",
+      "url": "https://x.com/SciVigil/status/2111172135934910964"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "created_at": "2026-10-16T19:00:53.000Z",
+      "edit_history_tweet_ids": [
+        "2111170534184755328"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 128,
+            "start": 121,
+            "tag": "Hubble"
+          },
+          {
+            "end": 136,
+            "start": 129,
+            "tag": "Galaxy"
+          }
+        ],
+        "urls": [
+          {
+            "description": "This Hubble image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away.",
+            "display_url": "science.nasa.gov/missions/hubbl…",
+            "end": 119,
+            "expanded_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+            "images": [
+              {
+                "height": 1241,
+                "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 96,
+            "status": 200,
+            "title": "NASA's Hubble Spies Spiral’s Edge - NASA Science",
+            "unwound_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+            "url": "https://t.co/AyOcu9B56K"
+          }
+        ]
+      },
+      "id": "2111170534184755328",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "NASA's Hubble captures edge-on spiral galaxy NGC 1827, 37 million light-years away in Columba.\n\nhttps://t.co/AyOcu9B56K\n\n#Hubble #Galaxy",
+      "url": "https://x.com/SciVigil/status/2111170534184755328"
+    },
+    {
+      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T16:01:05.000Z",
       "edit_history_tweet_ids": [
         "2111125287455096999"
@@ -1767,58 +1859,11 @@
       ],
       "text": "@GovNuclear imagine people could power their homes on this stuff.",
       "url": "https://x.com/i/status/2104610072471208349"
-    },
-    {
-      "created_at": "2026-09-26T02:28:10.000Z",
-      "edit_history_tweet_ids": [
-        "2103672948846666184"
-      ],
-      "id": "2103672948846666184",
-      "in_reply_to_user_id": "2162812627",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2103282510029296055",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@nicksortor we need to work together in all of science and space. its essential for quick progression",
-      "url": "https://x.com/i/status/2103672948846666184"
-    },
-    {
-      "created_at": "2026-09-25T18:30:21.000Z",
-      "edit_history_tweet_ids": [
-        "2103552702303367371"
-      ],
-      "id": "2103552702303367371",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 0,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 91
-      },
-      "referenced_tweets": [
-        {
-          "id": "2103341662822871398",
-          "type": "retweeted"
-        }
-      ],
-      "text": "RT @Ahwoo_Official: Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes inte…",
-      "url": "https://x.com/i/status/2103552702303367371"
     }
   ],
   "meta": {
-    "newest_id": "2111125287455096999",
-    "oldest_id": "2103552702303367371",
+    "newest_id": "2111172135934910964",
+    "oldest_id": "2104610072471208349",
     "result_count": 50
   },
   "includes": {}
