@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the SciVigilance Weekly email digest from the site's data files.
 
-Usage: python3 scripts/build_digest.py [--out digest.html] [--json meta.json]
+Usage: python3 scripts/build_digest.py [--out /tmp/newsletter.html]  (never write it into the repo root) [--json meta.json]
 Only real data from data/*.json is used. Kit's "Text only" template adds the
 mailing address + unsubscribe footer automatically.
 """

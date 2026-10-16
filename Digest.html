@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SciVigilance — The Daily Signal</title>
+  <meta name="description" content="Space and science, distilled into a daily signal. Mission-control coverage of the universe, the Moon, and the particles beneath.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" type="image/jpeg" href="img/scivigil-avatar.jpg">
+  <link rel="apple-touch-icon" href="img/scivigil-avatar.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="SciVigilance">
+  <meta property="og:title" content="SciVigilance — The Daily Signal">
+  <meta property="og:description" content="Space and science, distilled into a daily signal.">
+  <link rel="canonical" href="https://ciber101.github.io/SciVigilance.github.io/Digest.html">
+  <meta property="og:url" content="https://ciber101.github.io/SciVigilance.github.io/Digest.html">
+  <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c2/NASA-JWST-FirstDeepField-20220712.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@SciVigil">
+  <meta name="twitter:creator" content="@SciVigil">
+  <meta name="theme-color" content="#07090f">
+
+</head>
+<body>
+  <div class="bg-slides" id="bgSlides" aria-hidden="true"></div>
+
+  <!-- NAV -->
+  <header class="site-header">
+    <div class="container nav-wrap">
+      <a href="Digest.html" class="brand" aria-label="SciVigilance home">
+        <img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34">
+        <span class="name">Sci<b>Vigilance</b></span>
+      </a>
+      <nav aria-label="Primary">
+        <ul class="nav-links" id="navLinks">
+          <li><a href="Digest.html" class="active" aria-current="page">Digest</a></li>
+          <li><a href="news.html">News</a></li>
+          <li><a href="ai.html">AI</a></li>
+          <li><a href="posts.html">Posts</a></li>
+          <li><a href="voices.html">Voices</a></li>
+          <li><a href="shorts.html">Shorts</a></li>
+          <li><a href="archive.html">Archive</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="newsletter.html">Newsletter</a></li>
+        </ul>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navLinks">☰</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- HERO -->
+    <section class="hero" aria-label="Hero">
+      <canvas id="starfield" aria-hidden="true"></canvas>
+      <div class="container">
+        <span class="eyebrow" id="refreshStatus"><span class="dot" aria-hidden="true"></span> <span id="refreshCountdown">Updated every 6 hours — next update in --:--:--</span></span>
+        <h1>The daily signal from the <span class="accent">edge of everything</span> we know.</h1>
+        <p class="lede">SciVigilance cuts through the noise. A daily feed of real frontier-science news — space, physics, biology, Earth and tech — each shown with a short excerpt from its source and linked to the original story.</p>
+        <div class="hero-actions">
+          <a href="#digest" class="btn btn-primary">Read Today's News ↓</a>
+          <a href="newsletter.html" class="btn btn-ghost">Get the Signal</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- TELEMETRY TICKER -->
+    <div class="ticker" aria-label="Latest headlines ticker">
+      <div class="track" id="tickerTrack">
+        <!-- Filled by JS from latest.json -->
+      </div>
+    </div>
+
+    <!-- DAILY DIGEST -->
+    <section id="digest" aria-label="Daily Digest">
+      <div class="container">
+        <div class="section-head row">
+          <div>
+            <span class="kicker">Frontier Science News</span>
+            <h2>The Daily Signal</h2>
+            <p id="digestTagline">Loading today's stories…</p>
+          </div>
+          <a href="news.html" class="link-more">All science news →</a>
+        </div>
+        <div class="digest-grid" id="digestGrid">
+
+          <div class="empty-state" id="digestEmpty" hidden>
+            <div class="icon" aria-hidden="true">📡</div>
+            <h3>No digest yet.</h3>
+            <p>The news feed could not be loaded right now. Please check back shortly.</p>
+          </div>
+        </div>
+        <a href="news.html" class="see-all" id="seeAllNews" data-for="digestGrid">See all science news <span class="arr" aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <!-- AI FRONTIER -->
+    <section id="ai" aria-label="AI frontier news">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">AI Frontier</span>
+          <h2>Models, releases &amp; benchmarks</h2>
+          <p>New frontier and open-weight models — from the big labs to the ones you can run locally — each linked to its source.</p>
+        </div>
+        <div class="digest-grid" id="aiGrid"></div>
+        <a href="ai.html" class="see-all" data-for="aiGrid">See all AI news <span class="arr" aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <!-- LATEST FROM X -->
+    <section id="latest-x" aria-label="Latest posts from @SciVigil on X">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Latest from X</span>
+          <h2>Science in 280</h2>
+          <p>Recent posts from @SciVigil.</p>
+        </div>
+        <div class="social-grid" id="xGrid">
+          <div class="empty-state" id="xEmpty" hidden>
+            <div class="icon" aria-hidden="true">📡</div>
+            <h3>No recent posts.</h3>
+            <p>New posts will show up here.</p>
+          </div>
+        </div>
+        <a href="posts.html" class="see-all" data-for="xGrid">See all posts <span class="arr" aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <!-- FEATURED: ELON (TECH/AI/SCIENCE ONLY) + SPACEX -->
+    <section id="featured-x" aria-label="Featured tech and space posts on X" hidden>
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Frontier Voices on X</span>
+          <h2>Rockets, agencies &amp; frontier tech</h2>
+          <p>Original posts from space agencies and launch companies worldwide, plus Elon Musk's tech, AI and science posts.</p>
+        </div>
+        <div class="social-grid" id="featuredGrid"></div>
+        <a href="voices.html" class="see-all" data-for="featuredGrid">See all voices <span class="arr" aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <!-- LATEST SHORTS -->
+    <section id="shorts" aria-label="Latest YouTube Shorts">
+      <div class="container">
+        <div class="section-head">
+          <span class="kicker">Latest Shorts</span>
+          <h2>Science in 60 seconds</h2>
+          <p>Our newest space and science Shorts.</p>
+        </div>
+        <div class="shorts-grid" id="shortsGrid"></div>
+        <a href="shorts.html" class="see-all" data-for="shortsGrid">See all Shorts <span class="arr" aria-hidden="true">↓</span></a>
+      </div>
+    </section>
+
+    <!-- NEWSLETTER CTA -->
+    <section class="tight" aria-label="Newsletter signup">
+      <div class="container">
+        <div class="newsletter-band">
+          <h2>Get the Signal</h2>
+          <p>One email a week. The most important space, science and AI stories, each linked to its source.</p>
+          <form class="newsletter-form" action="https://app.kit.com/forms/10041324/subscriptions" method="post" data-sv-form="10041324" data-uid="a86266255b" aria-describedby="nl-note">
+            <label for="nl-email" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);">Email address</label>
+            <input type="email" id="nl-email" name="email_address" placeholder="you@example.com" required autocomplete="email">
+            <button type="submit">Subscribe</button>
+          </form>
+          <p class="newsletter-note" id="nl-note">Free weekly digest. Confirm via the email we send you. Unsubscribe anytime.</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="top-stories" class="site-explainer" aria-label="Top stories, explained" hidden>
+      <div class="container">
+        <article class="prose explainer">
+          <div class="ts-head">
+            <span class="kicker">Top stories, explained</span>
+            <span class="ts-listen" id="tsListen" hidden>
+              <button type="button" class="ts-play" id="tsPlay" aria-label="Listen to this article" aria-pressed="false" title="Listen to this article">
+                <svg class="i-play" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>
+                <svg class="i-pause" viewBox="0 0 24 24" width="18" height="18" fill="currentColor" aria-hidden="true"><path d="M6 5h4v14H6zM14 5h4v14h-4z"/></svg>
+              </button>
+              <span class="ts-time" id="tsTime" aria-live="off">Listen</span>
+              <span class="ts-bar" aria-hidden="true"><span id="tsBarFill"></span></span>
+            </span>
+          </div>
+          <h2>The biggest stories right now</h2>
+          <p class="ts-updated" id="tsUpdated"></p>
+          <div id="topStories"></div>
+          <p class="ts-note">This article is written by AI from the linked sources only. Every claim is attributed to its source; read the originals for full details.</p>
+        </article>
+      </div>
+    </section>
+
+    <section id="ai-transparency" class="site-explainer tight" aria-label="AI transparency">
+      <div class="container">
+        <div class="prose explainer">
+          <h3>AI transparency</h3>
+          <p>SciVigilance is run with heavy use of AI, and we want to be clear about where. The news and AI cards are collected by scripts and show the publishers' own words. The "Top stories, explained" article is written by AI from the sources it links to, stating only what those sources report. Our X posts and Shorts are written and produced by AI automatically. The narration in our videos is a synthetic AI voice, and each video says at the start that it was made by AI. Newsletter issues and long-form videos are reviewed and approved by a person before they are published. The standard for everything we make is the same: state facts from published sources, link or credit them, and never speculate. <a href="about.html">More about how the site works</a>.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <p class="bg-credit" id="bgCredit"></p>
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="Digest.html" class="brand" aria-label="SciVigilance home">
+            <img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34">
+            <span class="name">Sci<b>Vigilance</b></span>
+          </a>
+          <p>The daily signal from the edge of everything we know. Space, science, and the missions pushing the frontier.</p>
+        </div>
+        <div class="footer-col">
+          <h5>Navigate</h5>
+          <ul>
+            <li><a href="Digest.html">Today's Digest</a></li>
+            <li><a href="archive.html">Archive</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="newsletter.html">Newsletter</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Follow</h5>
+          <ul>
+            <li><a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil on X</a></li>
+            <li><a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener">YouTube Shorts</a></li>
+            <li><a href="https://www.tiktok.com/@ciber362" target="_blank" rel="noopener">TikTok</a></li>
+            <li><a href="newsletter.html">Email newsletter</a></li>
+            <li><a href="data/latest.json">RSS / JSON feed</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h5>Data Sources</h5>
+          <ul>
+            <li><a href="https://nssdc.gsfc.nasa.gov" target="_blank" rel="noopener">NASA NSSDC</a></li>
+            <li><a href="https://www.esa.int" target="_blank" rel="noopener">ESA</a></li>
+            <li><a href="https://www.cern.ch" target="_blank" rel="noopener">CERN</a></li>
+            <li><a href="https://www.swpc.noaa.gov" target="_blank" rel="noopener">NOAA SWPC</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 SciVigilance. News summaries link to their original sources. Images: credited publishers &amp; NASA (public domain).</span>
+        <a href="https://x.com/SciVigil" target="_blank" rel="noopener" class="x-follow" aria-label="Follow on X">
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          @SciVigil
+        </a>
+        <a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener" class="x-follow" aria-label="SciVigil Shorts on YouTube"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.6 12 3.6 12 3.6s-7.5 0-9.4.5A3 3 0 0 0 .5 6.2 31 31 0 0 0 0 12a31 31 0 0 0 .5 5.8 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 12a31 31 0 0 0-.5-5.8zM9.6 15.6V8.4l6.3 3.6z"/></svg> YouTube Shorts</a>
+        <a href="https://www.tiktok.com/@ciber362" target="_blank" rel="noopener" class="x-follow" aria-label="SciVigilance on TikTok"><svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M19.6 6.7a4.8 4.8 0 0 1-3.8-4.2V2h-3.4v13.4a2.9 2.9 0 1 1-2-2.7V9.2a6.3 6.3 0 1 0 5.4 6.2V8.6a8.2 8.2 0 0 0 4.8 1.5V6.8z"/></svg> TikTok</a>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+<script data-goatcounter="https://scivigilance.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+</html>

@@ -5,7 +5,7 @@
 A multi-page static site for daily space and science news, built for GitHub Pages. Vanilla HTML/CSS/JS — no build step.
 
 ## Pages
-- `index.html` — hero, Daily Digest, Daily X / mission social, Shorts, newsletter signup
+- `Digest.html` — homepage: hero, Daily Digest, Daily X / mission social, Shorts, newsletter signup
 - `news.html`, `ai.html`, `posts.html`, `voices.html`, `shorts.html`, `archive.html`
 - `about.html`, `newsletter.html`, `404.html`
 
@@ -20,7 +20,7 @@ A multi-page static site for daily space and science news, built for GitHub Page
 - Deploy: push to `main` on `Ciber101/SciVigilance.github.io`.
 
 ## Local preview
-Serve the folder with any static server, e.g. `python -m http.server` or `npx serve`, then open `index.html`.
+Serve the folder with any static server, e.g. `python -m http.server` or `npx serve`, then open `Digest.html` (`index.html` only redirects there).
 
 ## Daily SciVigilance site refresh (every 6 hours PT)
 Scheduled at **4:07, 10:07, 16:07, and 22:07 America/Los_Angeles**. The hero line shows a live countdown to the next run.

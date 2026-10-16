@@ -190,13 +190,13 @@ function itemAnchorId(kind, key) {
 function tickerHref(kind, key, page) {
   const id = itemAnchorId(kind, key);
   // On the page that owns the full list, use a hash; elsewhere link to that page.
-  const here = (location.pathname.split('/').pop() || 'index.html').toLowerCase();
+  const here = (location.pathname.split('/').pop() || 'digest.html').toLowerCase();
   const target = (page || '').toLowerCase();
-  if (here === target || (here === 'index.html' && false)) return `#${id}`;
+  if (here === target || (here === 'digest.html' && false)) return `#${id}`;
   // Index also renders cards — prefer in-page jump when the element exists after load.
   // buildTicker runs before all grids finish, so use the dedicated list page for reliability
   // except when we are already on that page.
-  if (here === 'index.html') return `${page}#${id}`;
+  if (here === 'digest.html' || here === 'index.html') return `${page}#${id}`;
   return here === target ? `#${id}` : `${page}#${id}`;
 }
 
