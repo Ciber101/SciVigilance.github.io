@@ -911,3 +911,11 @@ body { background: transparent; }
 .social-grid > .empty-state, .digest-grid > .empty-state { grid-row-end: span 200; }
 .social-card .text, .card .summary { flex: 0 0 auto; }
 .card .thumb .img-credit { position: absolute; right: 8px; bottom: 8px; z-index: 2; font-size: 0.64rem; color: rgba(255,255,255,.85); background: rgba(7,9,15,.7); padding: 2px 7px; border-radius: 6px; }
+.site-explainer { border-top: 1px solid var(--line-soft); }
+.explainer { margin: 0 auto; }
+.explainer h2 { margin-top: 10px; }
+.explainer h3 { font-family: var(--font-display); font-size: 1.3rem; margin: 34px 0 12px; color: var(--text); }
+.explainer p { line-height: 1.75; }
+.explainer a { color: var(--amber); }
+.explainer a:hover { color: var(--amber-hi); }
+@media (max-width: 560px) { .explainer h2 { font-size: 1.5rem; } .explainer p { font-size: 1rem; } }
