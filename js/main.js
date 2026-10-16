@@ -145,7 +145,7 @@ function makeCard(a) {
   card.innerHTML = `
     <a href="${url}" class="thumb" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
       <img src="${safeUrl(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-      ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : ''}">${escapeHtml(tag)}</span>` : ''}
+      ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : ''}">${escapeHtml(tag)}</span>` : ''      <span class="img-credit">Image via ${escapeHtml(a.source || 'source')}</span>
     </a>
     <div class="body">
       <div class="meta"><span class="time">${escapeHtml(a.date || '')}</span><span>·</span><span>${escapeHtml(a.source || '')}</span></div>

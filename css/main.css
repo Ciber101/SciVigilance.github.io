@@ -910,3 +910,4 @@ body { background: transparent; }
 .social-grid > *, .digest-grid > * { align-self: start; height: auto; }
 .social-grid > .empty-state, .digest-grid > .empty-state { grid-row-end: span 200; }
 .social-card .text, .card .summary { flex: 0 0 auto; }
+.card .thumb .img-credit { position: absolute; right: 8px; bottom: 8px; z-index: 2; font-size: 0.64rem; color: rgba(255,255,255,.85); background: rgba(7,9,15,.7); padding: 2px 7px; border-radius: 6px; }
