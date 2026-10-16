@@ -2,6 +2,63 @@
   "data": [
     {
       "author_id": "1974272513917267972",
+      "created_at": "2026-10-16T16:01:05.000Z",
+      "edit_history_tweet_ids": [
+        "2111125287455096999"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 109,
+            "start": 106,
+            "tag": "AI"
+          },
+          {
+            "end": 120,
+            "start": 110,
+            "tag": "Magnetism"
+          }
+        ],
+        "urls": [
+          {
+            "description": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only ...",
+            "display_url": "phys.org/news/2026-10-p…",
+            "end": 104,
+            "expanded_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+            "images": [
+              {
+                "height": 1219,
+                "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 81,
+            "status": 200,
+            "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+            "unwound_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+            "url": "https://t.co/FghqdxxR7v"
+          }
+        ]
+      },
+      "id": "2111125287455096999",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 6,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "AI unlocks hidden magnet patterns, boosting faster, energy-efficient computers.\n\nhttps://t.co/FghqdxxR7v\n\n#AI #Magnetism",
+      "url": "https://x.com/i/status/2111125287455096999"
+    },
+    {
+      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T13:01:10.000Z",
       "edit_history_tweet_ids": [
         "2111080006403424463"
@@ -58,7 +115,7 @@
       "id": "2111080006403424463",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -216,7 +273,7 @@
       "id": "2110944130453098747",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 29,
+        "impression_count": 32,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -248,7 +305,7 @@
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 29
+        "retweet_count": 31
       },
       "referenced_tweets": [
         {
@@ -307,7 +364,7 @@
       "id": "2110898837569307013",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 7,
+        "impression_count": 8,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -511,7 +568,7 @@
       "id": "2110823916675670243",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 12,
+        "impression_count": 15,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -562,7 +619,7 @@
       "id": "2110808233057361976",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 4,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -789,7 +846,7 @@
       "id": "2110626951316861377",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 26,
+        "impression_count": 28,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -891,7 +948,7 @@
       "id": "2110536374155989079",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 9,
+        "impression_count": 12,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -1021,7 +1078,7 @@
       "id": "2110426564647367041",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 65,
+        "impression_count": 66,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1253,78 +1310,10 @@
       "url": "https://x.com/i/status/2110174167723393117"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-14T00:01:13.000Z",
       "edit_history_tweet_ids": [
         "2110158950540964263"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 76,
-            "start": 69,
-            "tag": "shorts"
-          },
-          {
-            "end": 159,
-            "start": 151,
-            "tag": "Science"
-          },
-          {
-            "end": 166,
-            "start": 160,
-            "tag": "Space"
-          }
-        ],
-        "urls": [
-          {
-            "description": "From my X feed: a red dwarf is slowly eating a brown dwarf, about 3...",
-            "display_url": "youtube.com/shorts/2iQgYJN…",
-            "end": 100,
-            "expanded_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
-            "images": [
-              {
-                "height": 720,
-                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=orig",
-                "width": 405
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110158950792560640/QpN7ktQu?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 77,
-            "status": 200,
-            "title": "This star is eating its neighbor… for billions of years #shorts",
-            "unwound_url": "https://www.youtube.com/shorts/2iQgYJNzcfs",
-            "url": "https://t.co/Jf5fR6bxN8"
-          },
-          {
-            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
-            "display_url": "youtube.com/@ciberaifacts/…",
-            "end": 150,
-            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "images": [
-              {
-                "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
-                "width": 900
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 127,
-            "status": 200,
-            "title": "CAI (AI Science Facts)",
-            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "url": "https://t.co/Ixim7fNj7d"
-          }
-        ]
-      },
       "id": "2110158950540964263",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1338,54 +1327,14 @@
       "url": "https://x.com/i/status/2110158950540964263"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-13T22:01:44.000Z",
       "edit_history_tweet_ids": [
         "2110128881181298986"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 114,
-            "start": 99,
-            "tag": "QuantumPhysics"
-          },
-          {
-            "end": 136,
-            "start": 115,
-            "tag": "ConsciousnessScience"
-          }
-        ],
-        "urls": [
-          {
-            "description": "You sit down to meditate. A conversation returns, then thoughts. You bring your attention back to the breath. Sometimes, after many such returns, the effort eases. Thoughts lose their urgency, while awareness ...",
-            "display_url": "phys.org/news/2026-10-m…",
-            "end": 97,
-            "expanded_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-            "images": [
-              {
-                "height": 767,
-                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110128881642754048/hmMwoJHI?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 74,
-            "status": 200,
-            "title": "Could meditation reveal an SU(3) symmetry shared by the observer and the universe?",
-            "unwound_url": "https://phys.org/news/2026-10-meditation-reveal-su3-symmetry-universe.html",
-            "url": "https://t.co/ZEkR5mo9oN"
-          }
-        ]
-      },
       "id": "2110128881181298986",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 19,
+        "impression_count": 20,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1593,7 +1542,7 @@
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 3599
+        "retweet_count": 3600
       },
       "referenced_tweets": [
         {
@@ -1865,36 +1814,12 @@
       ],
       "text": "RT @Ahwoo_Official: Sol is no longer the only star in the sky you can reach in Kitten Space Agency.\n\nKSA’s latest pre-alpha work takes inte…",
       "url": "https://x.com/i/status/2103552702303367371"
-    },
-    {
-      "created_at": "2026-09-06T15:26:45.000Z",
-      "edit_history_tweet_ids": [
-        "2096621129830224143"
-      ],
-      "id": "2096621129830224143",
-      "in_reply_to_user_id": "1954023090830135296",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 61,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2096452184829505801",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@XueJia24682 I'm pretty sure that's related to dna. Don't think rubbing eyes will help vision.",
-      "url": "https://x.com/i/status/2096621129830224143"
     }
   ],
-  "includes": {},
   "meta": {
-    "newest_id": "2111080006403424463",
-    "oldest_id": "2096621129830224143",
+    "newest_id": "2111125287455096999",
+    "oldest_id": "2103552702303367371",
     "result_count": 50
-  }
+  },
+  "includes": {}
 }
