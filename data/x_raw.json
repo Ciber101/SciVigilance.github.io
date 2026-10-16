@@ -1,26 +1,61 @@
 {
   "data": [
     {
-      "author_id": "1974272513917267972",
+      "created_at": "2026-10-16T20:24:58.000Z",
+      "edit_history_tweet_ids": [
+        "2111191694523912529"
+      ],
+      "id": "2111191694523912529",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 43
+      },
+      "referenced_tweets": [
+        {
+          "id": "2110977211855704508",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @Ahwoo_Official: We've made BRUTAL, our free C# game framework, open source.\n\nAlready helping RimWorld move beyond Unity and powering Ki…",
+      "url": "https://x.com/i/status/2111191694523912529"
+    },
+    {
+      "created_at": "2026-10-16T19:55:25.000Z",
+      "edit_history_tweet_ids": [
+        "2111184255753834703"
+      ],
+      "id": "2111184255753834703",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2111179569038544924",
+          "type": "quoted"
+        }
+      ],
+      "text": "Very good news! More science please! https://t.co/KkjCdnI7MQ",
+      "url": "https://x.com/i/status/2111184255753834703"
+    },
+    {
       "created_at": "2026-10-16T19:07:15.000Z",
       "edit_history_tweet_ids": [
         "2111172135934910964"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "3167257102",
-            "start": 0,
-            "username": "Erdayastronaut"
-          }
-        ]
-      },
       "id": "2111172135934910964",
       "in_reply_to_user_id": "3167257102",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 12,
+        "impression_count": 33,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 0,
@@ -33,114 +68,34 @@
         }
       ],
       "text": "@Erdayastronaut I was there!",
-      "url": "https://x.com/SciVigil/status/2111172135934910964"
+      "url": "https://x.com/i/status/2111172135934910964"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T19:00:53.000Z",
       "edit_history_tweet_ids": [
         "2111170534184755328"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 128,
-            "start": 121,
-            "tag": "Hubble"
-          },
-          {
-            "end": 136,
-            "start": 129,
-            "tag": "Galaxy"
-          }
-        ],
-        "urls": [
-          {
-            "description": "This Hubble image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away.",
-            "display_url": "science.nasa.gov/missions/hubbl…",
-            "end": 119,
-            "expanded_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-            "images": [
-              {
-                "height": 1241,
-                "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 96,
-            "status": 200,
-            "title": "NASA's Hubble Spies Spiral’s Edge - NASA Science",
-            "unwound_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
-            "url": "https://t.co/AyOcu9B56K"
-          }
-        ]
-      },
       "id": "2111170534184755328",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 3,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
       },
       "text": "NASA's Hubble captures edge-on spiral galaxy NGC 1827, 37 million light-years away in Columba.\n\nhttps://t.co/AyOcu9B56K\n\n#Hubble #Galaxy",
-      "url": "https://x.com/SciVigil/status/2111170534184755328"
+      "url": "https://x.com/i/status/2111170534184755328"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T16:01:05.000Z",
       "edit_history_tweet_ids": [
         "2111125287455096999"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 109,
-            "start": 106,
-            "tag": "AI"
-          },
-          {
-            "end": 120,
-            "start": 110,
-            "tag": "Magnetism"
-          }
-        ],
-        "urls": [
-          {
-            "description": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only ...",
-            "display_url": "phys.org/news/2026-10-p…",
-            "end": 104,
-            "expanded_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
-            "images": [
-              {
-                "height": 1219,
-                "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 81,
-            "status": 200,
-            "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
-            "unwound_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
-            "url": "https://t.co/FghqdxxR7v"
-          }
-        ]
-      },
       "id": "2111125287455096999",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 6,
+        "impression_count": 8,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -150,64 +105,14 @@
       "url": "https://x.com/i/status/2111125287455096999"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T13:01:10.000Z",
       "edit_history_tweet_ids": [
         "2111080006403424463"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 123,
-            "start": 115,
-            "tag": "Physics"
-          },
-          {
-            "end": 134,
-            "start": 124,
-            "tag": "Neutrinos"
-          },
-          {
-            "end": 177,
-            "start": 161,
-            "tag": "ParticlePhysics"
-          },
-          {
-            "end": 191,
-            "start": 178,
-            "tag": "Astrophysics"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but ...",
-            "display_url": "phys.org/news/2026-10-g…",
-            "end": 159,
-            "expanded_url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
-            "images": [
-              {
-                "height": 637,
-                "url": "https://pbs.twimg.com/news_img/2111080006797733888/VVfZqBXW?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2111080006797733888/VVfZqBXW?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 136,
-            "status": 200,
-            "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
-            "unwound_url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
-            "url": "https://t.co/Qk4gIQ7tsJ"
-          }
-        ]
-      },
       "id": "2111080006403424463",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 10,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -217,38 +122,10 @@
       "url": "https://x.com/i/status/2111080006403424463"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T10:00:58.000Z",
       "edit_history_tweet_ids": [
         "2111034660138692777"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 131,
-            "start": 119,
-            "tag": "Aquaculture"
-          },
-          {
-            "end": 143,
-            "start": 132,
-            "tag": "FishHealth"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Scientific Reports - Dietary nanoencapsulated A-Ghrelin improves growth performance and health status in juvenile Siberian sturgeon",
-            "display_url": "nature.com/articles/s4159…",
-            "end": 117,
-            "expanded_url": "https://www.nature.com/articles/s41598-026-76201-9",
-            "start": 94,
-            "status": 200,
-            "title": "Dietary nanoencapsulated A-Ghrelin improves growth performance and health status in juvenile Siberian sturgeon",
-            "unwound_url": "https://www.nature.com/articles/s41598-026-76201-9?error=cookies_not_supported&code=a584aafc-11f0-4221-b19d-a89d9bf51ebc",
-            "url": "https://t.co/qsqlk0fjEH"
-          }
-        ]
-      },
       "id": "2111034660138692777",
       "public_metrics": {
         "bookmark_count": 0,
@@ -262,53 +139,14 @@
       "url": "https://x.com/i/status/2111034660138692777"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T07:01:00.000Z",
       "edit_history_tweet_ids": [
         "2110989368982958281"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 129,
-            "start": 116,
-            "tag": "SpaceStation"
-          },
-          {
-            "end": 135,
-            "start": 130,
-            "tag": "APOD"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "science.nasa.gov/image-article/…",
-            "end": 114,
-            "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-            "images": [
-              {
-                "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2110946952447758336/1bszCOwS?format=png&name=orig",
-                "width": 900
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110946952447758336/1bszCOwS?format=png&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 91,
-            "status": 200,
-            "title": "APOD: 2026 October 16 – Chasing the International Space Station - NASA Science",
-            "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
-            "url": "https://t.co/9PlALWoXJj"
-          }
-        ]
-      },
       "id": "2110989368982958281",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 5,
+        "impression_count": 6,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -318,50 +156,10 @@
       "url": "https://x.com/i/status/2110989368982958281"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T04:01:14.000Z",
       "edit_history_tweet_ids": [
         "2110944130453098747"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 147,
-            "start": 142,
-            "tag": "KRAS"
-          },
-          {
-            "end": 162,
-            "start": 148,
-            "tag": "CancerTherapy"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Oncogene - Dynamic remodeling of the KRAS interactome by direct RAS inhibitors with distinct mechanism of action reveals convergent responses",
-            "display_url": "nature.com/articles/s4138…",
-            "end": 140,
-            "expanded_url": "https://www.nature.com/articles/s41388-026-04017-y",
-            "images": [
-              {
-                "height": 1773,
-                "url": "https://pbs.twimg.com/news_img/2110944148266397696/gCr5x4LC?format=jpg&name=orig",
-                "width": 2000
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110944148266397696/gCr5x4LC?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 117,
-            "status": 200,
-            "title": "Dynamic remodeling of the KRAS interactome by direct RAS inhibitors with distinct mechanism of action reveals convergent responses",
-            "unwound_url": "https://www.nature.com/articles/s41388-026-04017-y?error=cookies_not_supported&code=0958d244-99fc-4cde-9da7-211b92cff7b6",
-            "url": "https://t.co/8SmiVBziXH"
-          }
-        ]
-      },
       "id": "2110944130453098747",
       "public_metrics": {
         "bookmark_count": 0,
@@ -375,21 +173,10 @@
       "url": "https://x.com/i/status/2110944130453098747"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T02:12:35.000Z",
       "edit_history_tweet_ids": [
         "2110916785256136726"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 14,
-            "id": "15527242",
-            "start": 3,
-            "username": "herbertong"
-          }
-        ]
-      },
       "id": "2110916785256136726",
       "public_metrics": {
         "bookmark_count": 0,
@@ -409,50 +196,10 @@
       "url": "https://x.com/i/status/2110916785256136726"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T01:01:16.000Z",
       "edit_history_tweet_ids": [
         "2110898837569307013"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 176,
-            "start": 161,
-            "tag": "ScienceHistory"
-          },
-          {
-            "end": 194,
-            "start": 177,
-            "tag": "AcousticResearch"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
-            "display_url": "arstechnica.com/science/2026/1…",
-            "end": 159,
-            "expanded_url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
-            "images": [
-              {
-                "height": 648,
-                "url": "https://pbs.twimg.com/news_img/2110811673770827776/Z_K3bAOE?format=jpg&name=orig",
-                "width": 1152
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110811673770827776/Z_K3bAOE?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 136,
-            "status": 200,
-            "title": "What did the Liberty Bell sound like? Science is on the case.",
-            "unwound_url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
-            "url": "https://t.co/Q7la4fK3Zl"
-          }
-        ]
-      },
       "id": "2110898837569307013",
       "public_metrics": {
         "bookmark_count": 0,
@@ -466,78 +213,10 @@
       "url": "https://x.com/i/status/2110898837569307013"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-16T00:01:35.000Z",
       "edit_history_tweet_ids": [
         "2110883818039353507"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 72,
-            "start": 65,
-            "tag": "shorts"
-          },
-          {
-            "end": 155,
-            "start": 147,
-            "tag": "Science"
-          },
-          {
-            "end": 162,
-            "start": 156,
-            "tag": "Space"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Next month, Voyager 1 becomes the first human-made object to reach ...",
-            "display_url": "youtube.com/shorts/PQjRLIz…",
-            "end": 96,
-            "expanded_url": "https://www.youtube.com/shorts/PQjRLIzdKz0",
-            "images": [
-              {
-                "height": 720,
-                "url": "https://pbs.twimg.com/news_img/2110883818303586306/Y8DyGw8n?format=jpg&name=orig",
-                "width": 405
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110883818303586306/Y8DyGw8n?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 73,
-            "status": 200,
-            "title": "Voyager 1 Is About to Be One Light-Day From Earth 🤯 #shorts",
-            "unwound_url": "https://www.youtube.com/shorts/PQjRLIzdKz0",
-            "url": "https://t.co/j0zBPw0BPt"
-          },
-          {
-            "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
-            "display_url": "youtube.com/@ciberaifacts/…",
-            "end": 146,
-            "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "images": [
-              {
-                "height": 900,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
-                "width": 900
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 123,
-            "status": 200,
-            "title": "CAI (AI Science Facts)",
-            "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
-            "url": "https://t.co/Ixim7fNj7d"
-          }
-        ]
-      },
       "id": "2110883818039353507",
       "public_metrics": {
         "bookmark_count": 0,
@@ -551,50 +230,10 @@
       "url": "https://x.com/i/status/2110883818039353507"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T22:01:00.000Z",
       "edit_history_tweet_ids": [
         "2110853474573549728"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 126,
-            "start": 115,
-            "tag": "Exoplanets"
-          },
-          {
-            "end": 139,
-            "start": 127,
-            "tag": "StellarMass"
-          }
-        ],
-        "urls": [
-          {
-            "description": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more detailed template for understanding exoplanet systems.",
-            "display_url": "universetoday.com/articles/host-…",
-            "end": 113,
-            "expanded_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
-            "images": [
-              {
-                "height": 558,
-                "url": "https://pbs.twimg.com/news_img/2110781963355254784/lznxYve4?format=jpg&name=orig",
-                "width": 1000
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110781963355254784/lznxYve4?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 90,
-            "status": 200,
-            "title": "Host Stars Shape Their Planetary Systems Into Two Families",
-            "unwound_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
-            "url": "https://t.co/OXdIgXSimF"
-          }
-        ]
-      },
       "id": "2110853474573549728",
       "public_metrics": {
         "bookmark_count": 0,
@@ -608,22 +247,12 @@
       "url": "https://x.com/i/status/2110853474573549728"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T20:10:37.000Z",
       "edit_history_tweet_ids": [
         "2110825695438131561"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "14710129",
-            "start": 0,
-            "username": "PeterDiamandis"
-          }
-        ]
-      },
       "id": "2110825695438131561",
+      "in_reply_to_user_id": "14710129",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
@@ -642,25 +271,15 @@
       "url": "https://x.com/i/status/2110825695438131561"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T20:03:33.000Z",
       "edit_history_tweet_ids": [
         "2110823916675670243"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 15,
-            "id": "14710129",
-            "start": 0,
-            "username": "PeterDiamandis"
-          }
-        ]
-      },
       "id": "2110823916675670243",
+      "in_reply_to_user_id": "14710129",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 15,
+        "impression_count": 16,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -676,38 +295,10 @@
       "url": "https://x.com/i/status/2110823916675670243"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T19:01:14.000Z",
       "edit_history_tweet_ids": [
         "2110808233057361976"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 193,
-            "start": 180,
-            "tag": "SpaceStation"
-          },
-          {
-            "end": 205,
-            "start": 194,
-            "tag": "SolarPower"
-          }
-        ],
-        "urls": [
-          {
-            "description": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life",
-            "display_url": "nasa.gov/missions/stati…",
-            "end": 178,
-            "expanded_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
-            "start": 155,
-            "status": 200,
-            "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply - NASA",
-            "unwound_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
-            "url": "https://t.co/LN9cbzQZqN"
-          }
-        ]
-      },
       "id": "2110808233057361976",
       "public_metrics": {
         "bookmark_count": 0,
@@ -721,50 +312,10 @@
       "url": "https://x.com/i/status/2110808233057361976"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T16:01:13.000Z",
       "edit_history_tweet_ids": [
         "2110762929239023640"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 138,
-            "start": 124,
-            "tag": "ClimateChange"
-          },
-          {
-            "end": 152,
-            "start": 139,
-            "tag": "Conservation"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Seabirds, native plants and healthy reefs can help atolls build as seas rise.",
-            "display_url": "arstechnica.com/science/2026/1…",
-            "end": 122,
-            "expanded_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
-            "images": [
-              {
-                "height": 648,
-                "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=orig",
-                "width": 1152
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 99,
-            "status": 200,
-            "title": "Seabirds, forests and coral could help save sinking islands",
-            "unwound_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
-            "url": "https://t.co/QbdamjalKO"
-          }
-        ]
-      },
       "id": "2110762929239023640",
       "public_metrics": {
         "bookmark_count": 0,
@@ -778,50 +329,10 @@
       "url": "https://x.com/i/status/2110762929239023640"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T13:00:58.000Z",
       "edit_history_tweet_ids": [
         "2110717570458521800"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 134,
-            "start": 120,
-            "tag": "VenusMissions"
-          },
-          {
-            "end": 145,
-            "start": 135,
-            "tag": "NASASpace"
-          }
-        ],
-        "urls": [
-          {
-            "description": "This is great news for us. We're staffing up. We're accelerating.\"",
-            "display_url": "arstechnica.com/space/2026/10/…",
-            "end": 118,
-            "expanded_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-            "images": [
-              {
-                "height": 648,
-                "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=orig",
-                "width": 1152
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 95,
-            "status": 200,
-            "title": "NASA's embattled Venus missions are back on track after cancellation threat",
-            "unwound_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
-            "url": "https://t.co/w7gkA4gVeI"
-          }
-        ]
-      },
       "id": "2110717570458521800",
       "public_metrics": {
         "bookmark_count": 0,
@@ -835,50 +346,10 @@
       "url": "https://x.com/i/status/2110717570458521800"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T10:00:59.000Z",
       "edit_history_tweet_ids": [
         "2110672276928766361"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 168,
-            "start": 154,
-            "tag": "GyroscopeTech"
-          },
-          {
-            "end": 190,
-            "start": 169,
-            "tag": "NavigationInnovation"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. This record sensitivity, approaching Earth's rotation rate of 15 degrees ...",
-            "display_url": "phys.org/news/2026-10-c…",
-            "end": 152,
-            "expanded_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
-            "images": [
-              {
-                "height": 525,
-                "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 129,
-            "status": 200,
-            "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
-            "unwound_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
-            "url": "https://t.co/IT70aPI4U9"
-          }
-        ]
-      },
       "id": "2110672276928766361",
       "public_metrics": {
         "bookmark_count": 0,
@@ -892,53 +363,14 @@
       "url": "https://x.com/i/status/2110672276928766361"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T07:00:53.000Z",
       "edit_history_tweet_ids": [
         "2110626951316861377"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 139,
-            "start": 130,
-            "tag": "MilkyWay"
-          },
-          {
-            "end": 145,
-            "start": 140,
-            "tag": "APOD"
-          }
-        ],
-        "urls": [
-          {
-            "display_url": "science.nasa.gov/image-article/…",
-            "end": 128,
-            "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
-            "images": [
-              {
-                "height": 1280,
-                "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=orig",
-                "width": 720
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 105,
-            "status": 200,
-            "title": "APOD: 2026 October 15 - The Milky Way over Manhattan - NASA Science",
-            "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
-            "url": "https://t.co/q8MyTiCmdw"
-          }
-        ]
-      },
       "id": "2110626951316861377",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 28,
+        "impression_count": 29,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -948,38 +380,10 @@
       "url": "https://x.com/i/status/2110626951316861377"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T04:00:55.000Z",
       "edit_history_tweet_ids": [
         "2110581662937702705"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 128,
-            "start": 115,
-            "tag": "SpaceBiology"
-          },
-          {
-            "end": 143,
-            "start": 129,
-            "tag": "PlantGenetics"
-          }
-        ],
-        "urls": [
-          {
-            "description": "npj Microgravity - Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
-            "display_url": "nature.com/articles/s4152…",
-            "end": 113,
-            "expanded_url": "https://www.nature.com/articles/s41526-026-00663-4",
-            "start": 90,
-            "status": 200,
-            "title": "Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
-            "unwound_url": "https://www.nature.com/articles/s41526-026-00663-4?error=cookies_not_supported&code=500bda5d-2ac5-4ae7-bdae-2793e15f3103",
-            "url": "https://t.co/ZvoiTrxBZO"
-          }
-        ]
-      },
       "id": "2110581662937702705",
       "public_metrics": {
         "bookmark_count": 0,
@@ -993,50 +397,10 @@
       "url": "https://x.com/i/status/2110581662937702705"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T01:00:58.000Z",
       "edit_history_tweet_ids": [
         "2110536374155989079"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 152,
-            "start": 142,
-            "tag": "BlackHole"
-          },
-          {
-            "end": 169,
-            "start": 153,
-            "tag": "GalaxyCollision"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef”",
-            "display_url": "science.nasa.gov/missions/chand…",
-            "end": 140,
-            "expanded_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-            "images": [
-              {
-                "height": 953,
-                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 117,
-            "status": 200,
-            "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision - NASA Science",
-            "unwound_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
-            "url": "https://t.co/MIRKKpajlx"
-          }
-        ]
-      },
       "id": "2110536374155989079",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1050,38 +414,10 @@
       "url": "https://x.com/i/status/2110536374155989079"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-15T00:01:20.000Z",
       "edit_history_tweet_ids": [
         "2110521370069365027"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 83,
-            "start": 75,
-            "tag": "Science"
-          },
-          {
-            "end": 87,
-            "start": 84,
-            "tag": "AI"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Space and science, distilled into a daily signal.",
-            "display_url": "ciber101.github.io/SciVigilance.g…",
-            "end": 74,
-            "expanded_url": "https://ciber101.github.io/SciVigilance.github.io/",
-            "start": 51,
-            "status": 200,
-            "title": "SciVigilance — The Daily Signal",
-            "unwound_url": "https://ciber101.github.io/SciVigilance.github.io/",
-            "url": "https://t.co/h6417C2e7q"
-          }
-        ]
-      },
       "id": "2110521370069365027",
       "public_metrics": {
         "bookmark_count": 0,
@@ -1095,54 +431,14 @@
       "url": "https://x.com/i/status/2110521370069365027"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-14T22:06:06.000Z",
       "edit_history_tweet_ids": [
         "2110492368227151926"
       ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 147,
-            "start": 128,
-            "tag": "WeatherForecasting"
-          },
-          {
-            "end": 164,
-            "start": 148,
-            "tag": "MachineLearning"
-          }
-        ],
-        "urls": [
-          {
-            "description": "A new technique significantly improves weather forecasting beyond two weeks. Researchers developed a machine-learning model that learns to correct errors in existing forecasting models to make their output more accurate over the two-to-six-week time frame, a key window for emergency planning.",
-            "display_url": "news.mit.edu/2026/researche…",
-            "end": 126,
-            "expanded_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-            "images": [
-              {
-                "height": 540,
-                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=orig",
-                "width": 810
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 103,
-            "status": 200,
-            "title": "Researchers improve weather forecasts looking two to six weeks out",
-            "unwound_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-            "url": "https://t.co/EnyFwEflRj"
-          }
-        ]
-      },
       "id": "2110492368227151926",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 14,
+        "impression_count": 15,
         "like_count": 1,
         "quote_count": 0,
         "reply_count": 1,
@@ -1152,22 +448,12 @@
       "url": "https://x.com/i/status/2110492368227151926"
     },
     {
-      "author_id": "1974272513917267972",
       "created_at": "2026-10-14T17:44:37.000Z",
       "edit_history_tweet_ids": [
         "2110426564647367041"
       ],
-      "entities": {
-        "mentions": [
-          {
-            "end": 13,
-            "id": "2054998853900775424",
-            "start": 0,
-            "username": "NASADepAdmin"
-          }
-        ]
-      },
       "id": "2110426564647367041",
+      "in_reply_to_user_id": "2054998853900775424",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 66,
@@ -1811,60 +1097,13 @@
       ],
       "text": "@ArianeGroup said as their entire bodies arent covered. its impossible to prevent microbes",
       "url": "https://x.com/i/status/2104705491171729481"
-    },
-    {
-      "created_at": "2026-09-28T22:49:22.000Z",
-      "edit_history_tweet_ids": [
-        "2104705050660720672"
-      ],
-      "id": "2104705050660720672",
-      "in_reply_to_user_id": "3222018178",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 101,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104667981783670890",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@adcock_brett and goodbye F.03",
-      "url": "https://x.com/i/status/2104705050660720672"
-    },
-    {
-      "created_at": "2026-09-28T16:31:57.000Z",
-      "edit_history_tweet_ids": [
-        "2104610072471208349"
-      ],
-      "id": "2104610072471208349",
-      "in_reply_to_user_id": "1100064156504543233",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 10,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "referenced_tweets": [
-        {
-          "id": "2104356688006365669",
-          "type": "replied_to"
-        }
-      ],
-      "text": "@GovNuclear imagine people could power their homes on this stuff.",
-      "url": "https://x.com/i/status/2104610072471208349"
     }
   ],
   "meta": {
-    "newest_id": "2111172135934910964",
-    "oldest_id": "2104610072471208349",
-    "result_count": 50
+    "newest_id": "2111191694523912529",
+    "next_token": "7140dibdnow9c7btwp0g6xgm6rusi66agfl12a9p9rcc1",
+    "oldest_id": "2110426564647367041",
+    "result_count": 25
   },
   "includes": {}
 }
