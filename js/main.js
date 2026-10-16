@@ -608,3 +608,22 @@ function escapeHtml(str) {
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
   }[c]));
 }
+
+/* ---------- Top stories, explained (data/top_stories.json) ---------- */
+async function loadTopStories() {
+  const box = document.getElementById('topStories');
+  if (!box) return;
+  let d;
+  try { d = await (await fetch('data/top_stories.json', {cache: 'no-cache'})).json(); } catch (e) { return; }
+  if (!d || !(d.stories || []).length) return;
+  document.getElementById('tsUpdated').textContent = 'Updated ' + (d.updated_pt || d.updated || '');
+  box.innerHTML = d.stories.map(st => `
+    <section class="ts-story">
+      <h3>${escapeHtml(st.title)}</h3>
+      <p class="ts-meta">${escapeHtml(st.tag || '')}${st.tag ? ' · ' : ''}${escapeHtml(st.date || '')}</p>
+      ${(st.paragraphs || []).map(p => `<p>${escapeHtml(p)}</p>`).join('')}
+      <p class="ts-sources">Sources: ${(st.sources || []).map(x => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>${x.date ? ` (${escapeHtml(x.date)})` : ''}`).join(', ')}</p>
+    </section>`).join('');
+  document.getElementById('top-stories').hidden = false;
+}
+loadTopStories();

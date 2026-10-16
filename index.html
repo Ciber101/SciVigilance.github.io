@@ -169,41 +169,24 @@
       </div>
     </section>
 
-    <section id="how-it-works" class="site-explainer" aria-label="How SciVigilance works">
+    <section id="top-stories" class="site-explainer" aria-label="Top stories, explained" hidden>
       <div class="container">
         <article class="prose explainer">
-          <span class="kicker">How it works</span>
-          <h2>What SciVigilance is, and how this page is made</h2>
-          <p>SciVigilance is one science brand across five channels: this website, a free weekly <a href="newsletter.html">newsletter</a>, the YouTube channel <a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener">@ciberaifacts</a>, TikTok <a href="https://www.tiktok.com/@ciber362" target="_blank" rel="noopener">@ciber362</a>, and X, where we post as Science in 280 (<a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil</a>). They cover the same ground (space, science and AI) and link to each other. This section explains what each part of the page above is, where it comes from and how often it changes.</p>
-
-          <h3>The Daily Signal (science news)</h3>
-          <p>The main news grid is built automatically from the public RSS feeds of twelve science publishers and agencies: NASA, ESA, Space.com, Phys.org, ScienceDaily, Quanta Magazine, Science News, New Scientist, Live Science, ScienceAlert, Universe Today and MIT News. A script keeps stories published in the last 7 days, takes at most 8 per source and 60 in total, removes duplicates (the same story covered by two outlets) and mixes sources so no single outlet fills the top of the page. A few of the newest AI stories are mixed in too.</p>
-          <p>Stories are not rewritten. Each card shows the source's own headline, a short excerpt of the source's own summary (trimmed to about 220 characters), the publication date and the outlet's name. A story is only shown if it has a real link and a real image from its source. Click any card to read the full story on the original site.</p>
-
-          <h3>AI Frontier</h3>
-          <p>The AI section works the same way, using the feeds of Hugging Face, OpenAI, Google DeepMind, Google AI, Simon Willison, Ars Technica, The Verge, MIT News, MIT Technology Review, MarkTechPost and The Decoder. A keyword filter keeps posts about models, releases, benchmarks and tools, and drops funding, lawsuit, earnings and other business news. Up to 30 stories from the last 14 days are kept.</p>
-
-          <h3>Science in 280 (our posts on X)</h3>
-          <p>These are our own recent posts from <a href="https://x.com/SciVigil" target="_blank" rel="noopener">@SciVigil</a>. They are written automatically: a local AI model summarizes articles from science RSS feeds (such as NASA, ESA and Nature) or writes a short science fact, and the post goes out on a schedule. Each post fits in 280 characters.</p>
-
-          <h3>Frontier Voices on X</h3>
-          <p>This section collects recent original posts from space agencies and launch companies around the world (such as NASA, ESA, JAXA, ISRO, CNES, SpaceX, Rocket Lab and Blue Origin), plus Elon Musk's posts about tech, AI and science. Replies, reposts, promotions, event fluff and political posts are filtered out, and only posts from the last 30 days are shown. Every card links to the original post.</p>
-
-          <h3>How often it updates</h3>
-          <p>The news, AI stories, featured X posts and Shorts list refresh four times a day, at about 4 and 10 AM and 4 and 10 PM Pacific time. Our own @SciVigil posts sync about every two hours. The background image changes every hour.</p>
-
-          <h3>Images and credits</h3>
-          <p>Each story image is the preview image published by that story's source, labeled "Image via" the outlet and linked to the original article. The page background rotates through public-domain and Creative Commons space images from NASA, ESA and similar collections, and the current one is credited at the bottom of the page. Images in X posts come from the linked posts.</p>
-
-          <h3>Shorts</h3>
-          <p>"Science in 60 seconds" shows our newest YouTube Shorts, embedded from <a href="https://www.youtube.com/@ciberaifacts" target="_blank" rel="noopener">@ciberaifacts</a>; the same videos are posted on <a href="https://www.tiktok.com/@ciber362" target="_blank" rel="noopener">TikTok</a>. They are built from real footage and images from space agencies and other sources whose licenses allow reuse, and the sources are credited with each video.</p>
-
-          <h3>The newsletter</h3>
-          <p>The free weekly <a href="newsletter.html">newsletter</a> collects the week's top space, science and AI stories, each linked to its source. Each issue is reviewed and approved before it goes out, and it lands on Sunday morning. You confirm your signup by email and can unsubscribe at any time.</p>
-
-          <h3>AI transparency</h3>
-          <p>SciVigilance is run with heavy use of AI, and we want to be clear about where. The news and AI cards are collected by scripts and show the publishers' own words. Our X posts and Shorts are written and produced by AI automatically. The narration in our videos is a synthetic AI voice, and each video says at the start that it was made by AI. Newsletter issues and long-form videos are reviewed and approved by a person before they are published. The standard for everything we make is the same: state facts from published sources, link or credit them, and never speculate.</p>
+          <span class="kicker">Top stories, explained</span>
+          <h2>The biggest stories right now</h2>
+          <p class="ts-updated" id="tsUpdated"></p>
+          <div id="topStories"></div>
+          <p class="ts-note">This article is written by AI from the linked sources only. Every claim is attributed to its source; read the originals for full details.</p>
         </article>
+      </div>
+    </section>
+
+    <section id="ai-transparency" class="site-explainer tight" aria-label="AI transparency">
+      <div class="container">
+        <div class="prose explainer">
+          <h3>AI transparency</h3>
+          <p>SciVigilance is run with heavy use of AI, and we want to be clear about where. The news and AI cards are collected by scripts and show the publishers' own words. The "Top stories, explained" article is written by AI from the sources it links to, stating only what those sources report. Our X posts and Shorts are written and produced by AI automatically. The narration in our videos is a synthetic AI voice, and each video says at the start that it was made by AI. Newsletter issues and long-form videos are reviewed and approved by a person before they are published. The standard for everything we make is the same: state facts from published sources, link or credit them, and never speculate. <a href="about.html">More about how the site works</a>.</p>
+        </div>
       </div>
     </section>
   </main>

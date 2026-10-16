@@ -919,3 +919,8 @@ body { background: transparent; }
 .explainer a { color: var(--amber); }
 .explainer a:hover { color: var(--amber-hi); }
 @media (max-width: 560px) { .explainer h2 { font-size: 1.5rem; } .explainer p { font-size: 1rem; } }
+.ts-updated, .ts-meta { font-family: var(--font-mono); font-size: 0.78rem; color: var(--cyan); margin-bottom: 8px !important; }
+.ts-story { padding-top: 6px; border-top: 1px solid var(--line-soft); margin-top: 26px; }
+.ts-story:first-child { border-top: 0; margin-top: 10px; }
+.ts-sources { font-size: 0.9rem !important; }
+.ts-note { font-size: 0.88rem !important; color: var(--text-faint) !important; margin-top: 28px; }
