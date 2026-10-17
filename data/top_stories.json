@@ -1,75 +1,38 @@
 {
- "updated": "2026-10-16T12:10:00-07:00",
- "updated_pt": "Oct 16, 2026, 12:10 PM PT",
+ "updated": "2026-10-16T16:48:54-07:00",
+ "updated_pt": "Oct 16, 2026, 4:48 PM PT",
  "stories": [
   {
-   "title": "Japan's MMX mission is about to launch to bring back a piece of Phobos",
+   "title": "Japan's MMX mission is days from launch to bring back a piece of Phobos",
    "tag": "Space",
-   "date": "2026-10-16",
+   "date": "2026-10-15",
    "paragraphs": [
-    "The Japan Aerospace Exploration Agency (JAXA) is targeting launch of its Martian Moons eXploration (MMX) spacecraft from Tanegashima Space Center at 3:41 p.m. EDT on Monday, Oct. 19 (4:41 a.m. JST on Tuesday, Oct. 20; that's 12:41 p.m. PT on Oct. 19), according to NASA. The mission aims to work out the origin of Mars's moons Phobos and Deimos and bring a sample of Phobos back to Earth.",
-    "MMX is scheduled to reach Mars in August 2027, NASA says. New Scientist reports that it will enter an orbit that keeps it alongside Phobos to map the surface, observing Deimos along the way, and use the map to pick a landing site. During one or two brief landings, it is to drop off a small rover called IDEFIX, the first rover placed on such a small body, and collect samples. NASA says sampling will happen no earlier than December 2028, with delivery to Earth in 2031.",
-    "NASA is contributing the MEGANE spectrograph, which measures gamma rays and neutrons to determine what Phobos is made of, and the Pneumatic Sampler (P-Sampler), which collects surface material with bursts of high-pressure nitrogen. JAXA's C-Sampler will take cores from a few inches deeper. Honeybee Robotics, a Blue Origin company, developed the pneumatic sampler mechanism. NASA's Deep Space Network will provide communications and navigation support, and ESA says it is contributing deep-space communication technology and ground station support. NASA will receive and curate about 15% of the returned sample at Johnson Space Center.",
-    "The samples are meant to settle a long debate over where the two moons came from. \"Phobos and Deimos may be the remains of a massive impact on Mars that sent material into orbit around the planet, or they could be ancient asteroids that were captured by Mars' gravity billions of years ago,\" said Tom Statler, MMX program executive and program scientist at NASA. \"Having the answer will help illuminate that early era when Earth and the other inner planets may have been acquiring much of their water and organic compounds.\" New Scientist notes that the moons' shapes resemble asteroids, while their circular orbits over Mars's equator fit the impact idea better."
+    "Japan's space agency JAXA is preparing to launch its Martian Moons eXploration (MMX) mission, which aims to work out where Mars' two moons, Phobos and Deimos, came from and to deliver a sample of Phobos to Earth. According to a NASA release dated Oct. 15, the spacecraft is targeting launch from JAXA's Tanegashima Space Center at 12:41 p.m. PT on Monday, Oct. 19 (4:41 a.m. Japan time on Tuesday, Oct. 20).",
+    "NASA says the moons' origin has long been debated. \"Phobos and Deimos may be the remains of a massive impact on Mars that sent material into orbit around the planet, or they could be ancient asteroids that were captured by Mars' gravity billions of years ago,\" said Tom Statler, MMX program executive and program scientist at NASA Headquarters.",
+    "NASA's contributions include the MEGANE spectrograph, built by the Johns Hopkins Applied Physics Laboratory, which measures neutrons and gamma rays from the surface of Phobos to determine its chemical makeup. NASA is also supplying a pneumatic sampler mounted on one of the landing legs, developed by Honeybee Robotics, a Blue Origin company, which gathers surface material with bursts of high-pressure nitrogen gas. JAXA's own C-Sampler will take cores from a few inches deeper.",
+    "According to NASA, the spacecraft will arrive at Mars in August 2027, collect its Phobos sample no earlier than December 2028, and deliver it to Earth in 2031. NASA will receive and curate about 15% of the returned sample at Johnson Space Center in Houston."
    ],
    "sources": [
     {
      "name": "NASA",
      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/",
      "date": "2026-10-15"
-    },
-    {
-     "name": "New Scientist",
-     "url": "https://www.newscientist.com/article/2594332-japan-is-launching-a-mission-to-marss-largest-moon-phobos/",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "ESA on X",
-     "url": "https://x.com/esa/status/2109989150237606400"
-    },
-    {
-     "name": "Blue Origin on X",
-     "url": "https://x.com/blueorigin/status/2110115705894904067"
     }
    ]
   },
   {
-   "title": "Artemis II's first science results: tiny meteorite impacts and the moon's hidden colors",
-   "tag": "Space",
+   "title": "China drafts export controls on frontier AI models, with a fast track for open weights",
+   "tag": "AI",
    "date": "2026-10-16",
    "paragraphs": [
-    "Six months after NASA's Artemis II crew flew around the moon in April, the mission's science team released its first results on October 7: three reports and a large data archive, three days ahead of the team's six-month deadline after the April 10 splashdown. Science News reported on the findings, which were presented at a virtual Lunar Surface Science Workshop meeting.",
-    "During a 54-minute stretch when the moon eclipsed the sun, the crew spotted five impact flashes, which Jennifer Heldmann of NASA Ames described as \"pinpricks of light lasting less than a second.\" By comparing the flash rate with impact models, the team estimated the rocks weighed about 8.5 grams and were just over 4.5 centimeters across, roughly golf-ball size. Heldmann said the crew likely set a record for the smallest meteorites ever optically observed hitting the moon. She put the chance of a dangerous impact during a two-week surface mission like the planned Artemis IV at less than 1 in 10 million.",
-    "The crew's spoken and written descriptions turned out to be among the most valuable data, according to the science team. Combined with data going back to the 1970s, their color observations were linked to composition: blues with titanium-rich volcanic rock, browns with differing iron levels and greens with glass from eruptions or impacts.",
-    "The team also listed lessons for future missions. The astronauts' cameras weren't calibrated before flight because of time constraints, and the pairing of two crew members at the windows with two talking to the ground led to better science, the team concluded. NASA separately published underwater imagery of the Orion heat shield taken by U.S. Navy divers shortly after splashdown."
+    "China's commerce and science ministries have released a draft update to the country's catalog of banned and restricted export technologies that targets 23 key AI technologies across large models, agents, compute clusters and data processing, The Decoder reported on Oct. 16. According to the report, AI tools that can write or alter malware on their own to attack critical infrastructure, the military or government agencies would face a total export ban, while certain AI tools for finding software vulnerabilities would face new export limits.",
+    "The Decoder reports that the core technologies behind large models, including weights, checkpoints, source code, architecture and training methods, would be controlled once a model reaches 10^26 FLOPs of training compute, has at least 2 trillion parameters, or ranks in the global top 10 on public rankings. Models trained on China's legally defined \"important data\" would also be covered, with lawfully public data exempt.",
+    "At the same time, the draft creates a fast track: according to The Decoder, publishing restricted AI technology and weights as open source qualifies for \"automatic licensing,\" cleared as soon as a company files the paperwork. AI technology that is already public is exempt, and using restricted models through APIs, apps or websites stays outside the controls, while installing them on local servers abroad would need a standard export license. Until the final rules take effect, companies must register affected exports through the commerce ministry's portal."
    ],
    "sources": [
     {
-     "name": "Science News",
-     "url": "https://www.sciencenews.org/article/artemis-ii-human-moon-science",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/",
-     "date": "2026-10-16"
-    }
-   ]
-  },
-  {
-   "title": "Leap seconds will be abolished in favor of a 'leap hour'",
-   "tag": "Physics",
-   "date": "2026-10-16",
-   "paragraphs": [
-    "Representatives from 69 countries voted on 15 October, at a meeting of the International Bureau of Weights and Measures (BIPM) in Versailles, France, to stop adding leap seconds to coordinated universal time (UTC), New Scientist reports. Instead, UTC will be allowed to drift up to an hour from astronomical time before being corrected. The change takes effect from 20 May 2027.",
-    "Leap seconds have kept atomic-clock time in step with Earth's slightly irregular rotation since 1972, and 27 have been added. New Scientist reports that modern systems from stock markets to telecoms and GPS depend on precise time, making leap seconds risky. Setnam Shemar of the UK's National Physical Laboratory said past leap seconds have crashed websites and disrupted airline booking systems.",
-    "Earth's rotation has recently begun to speed up slightly, raising the possibility of \"a first-ever negative leap second\", said Noël Dimarcq, head of the BIPM's committee on time and frequency. He said the leap hour should give an uninterrupted flow of time for \"several centuries\". Shemar said it will be \"many hundreds or even thousands of years before a leap hour is needed.\"",
-    "The meeting also asked for proposals for a new definition of the second, because optical clocks are now more accurate than the caesium clocks it is based on, and called on international agencies to start work on a universal time standard for the moon."
-   ],
-   "sources": [
-    {
-     "name": "New Scientist",
-     "url": "https://www.newscientist.com/article/2594285-scientists-have-just-voted-to-abolish-leap-seconds/",
+     "name": "The Decoder",
+     "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
      "date": "2026-10-16"
     }
    ]
@@ -79,46 +42,67 @@
    "tag": "AI",
    "date": "2026-10-15",
    "paragraphs": [
-    "Meta announced Muse Spark Open on October 15 and calls it the \"most capable US open-weight model to date,\" The Verge reports. According to The Decoder, it has 816 billion total parameters (42 billion active), up to one million tokens of context, and handles text, image, video and audio. Meta says it is built for coding and agentic tasks.",
-    "On Meta's own benchmark results, reported by The Decoder, the model leads open models such as Qwen 3.8, GLM 5.3 and Kimi K3 in several agentic, knowledge and multimodal categories but trails some competitors on coding benchmarks and falls well short of Meta's paid Muse Wonder Full models.",
-    "Meta and Apple worked together on the launch. Meta says the model can run locally on two Apple M5 Ultra Mac Studios using Apple's MLX framework, and The Decoder reports that each Mac Studio has 512 GB of unified memory. Mark Zuckerberg and Apple CEO John Ternus both praised the collaboration on X, according to The Verge.",
-    "The weights are on Hugging Face. The Decoder reports the license is free to use but requires a \"Built with Muse Spark Open\" label, and providers with more than $20 million in annual revenue who want to offer it as an API service need a separate agreement with Meta."
+    "Meta released Muse Spark Open on Oct. 15, the open-weight version of its Muse Spark model, and calls it the \"most capable US open-weight model to date,\" The Verge and The Decoder reported. According to MarkTechPost, it is a mixture-of-experts model with 816 billion total parameters, of which 42 billion are active per token, a context window of 1 million tokens, and support for text, image, video and audio input with text output.",
+    "Meta says the model can run on a desktop using two Apple M5 Ultra Mac Studios with Apple's MLX framework, and The Verge reports the two companies worked together on the launch. On Meta's own comparison, MarkTechPost notes the model leads on the MCP-Atlas tool-use benchmark with 89.2, but trails Kimi K3, GLM 5.3 and Qwen3.8 on the Terminal-Bench 2.1 coding test, scoring 76.4. The Decoder reports it still falls well short of Meta's paid Muse Wonder Full models.",
+    "The weights are on Hugging Face. According to The Decoder and MarkTechPost, the Muse Model License permits use, fine-tuning and redistribution, requires the label \"Built with Muse Spark Open,\" and requires a separate agreement with Meta for providers earning more than $20 million a year who offer the model as an API service."
    ],
    "sources": [
+    {
+     "name": "The Verge",
+     "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+     "date": "2026-10-15"
+    },
     {
      "name": "The Decoder",
      "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
      "date": "2026-10-15"
     },
     {
-     "name": "The Verge",
-     "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/10/15/meta-muse-spark-open-816b-open-weight-model/",
      "date": "2026-10-15"
     }
    ]
   },
   {
-   "title": "Google's Gemini 4 Argon passes 95% on ARC-AGI-3, with caveats",
-   "tag": "AI",
+   "title": "USC scientists grow a renewable supply of engineered cancer-fighting immune cells",
+   "tag": "Health",
    "date": "2026-10-16",
    "paragraphs": [
-    "Google DeepMind's new frontier model, Gemini 4 Argon, scored 97.5 percent on the ARC-AGI-3 benchmark at a cost of $4,800, The Decoder reports, citing ARC Prize. That makes Google the second lab after OpenAI to pass 95 percent on the test. Only OpenAI's GPT-6 Astra scores higher, at 99.9 percent.",
-    "The result depends heavily on the test setup. The 97.5 percent score used the \"Provider Adapter Harness,\" which allows vendor-specific features such as retained reasoning and context compaction. In the \"Standard Harness,\" Argon scored 49.8 percent at low reasoning. The testers said API problems kept it from finishing all 55 games, and no score was published for its highest reasoning setting.",
-    "Epoch AI rated Argon 165 on its Epoch Capabilities Index, which combines more than 50 benchmarks. That ties it with Fable 5.1, just behind Opus 5.5 (167) and GPT-6 Astra (166), and puts Google closer to the top than at any point since Gemini 3.1 Pro in February. Early Epoch estimates place it eighth in math and sixth in software engineering."
+    "Researchers led by the University of Southern California report a way to produce a potentially renewable supply of genetically engineered immune cells for cancer treatment, in a study published in the journal Cell, according to a USC release carried by ScienceDaily on Oct. 16. The team worked with granulocyte-monocyte progenitors (GMPs), immature cells that normally develop into macrophages and other immune cells.",
+    "The researchers developed a defined chemical mixture that let GMPs survive and multiply for long periods in the lab without maturing, while keeping their ability to become functional macrophages. \"We found that, under the right conditions, GMPs can also self-renew,\" said corresponding author Qi-Long Ying of the Keck School of Medicine of USC. A lab at Stanford led by Ravi Majeti independently showed the cells could be maintained and genetically engineered.",
+    "The team engineered GMPs to carry a chimeric antigen receptor (CAR) that targets a cancer marker. In mice, the cells settled in the bone marrow, produced new immune cells, and slowed the progression of both blood cancers and solid tumors, with stronger effects when an added immune-activating signal was included. The release notes the cancer results are preclinical and that more research is needed to show whether the approach is safe and effective in people."
    ],
    "sources": [
     {
-     "name": "The Decoder",
-     "url": "https://the-decoder.com/googles-gemini-4-argon-is-closer-to-the-ai-frontier-than-any-google-model-in-months/",
+     "name": "ScienceDaily (Keck School of Medicine of USC)",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261015003803.htm",
+     "date": "2026-10-16"
+    }
+   ]
+  },
+  {
+   "title": "A 'golden tree' coral off Costa Rica gets a new family on the tree of life",
+   "tag": "Biology",
+   "date": "2026-10-16",
+   "paragraphs": [
+    "Researchers led by Odalisca Breedy of the University of Costa Rica have described a deep-sea octocoral so unusual that it needed a new family, ScienceAlert reported on Oct. 16. They named it Laurinque elenya, from Tolkien's Elvish language Quenya, meaning \"golden tree of the stars.\" It was found on a seamount off Costa Rica at depths of 360 to 529 meters (about 1,181 to 1,735 feet) during dives with the underwater vehicle SuBastian in 2019 and 2023.",
+    "According to ScienceAlert, the colonies can grow more than a meter tall and 1.2 meters wide, with dense branches covered in unusually long polyps. Two genetic markers pointed to two different octocoral families, so the team collected new specimens and analyzed hundreds of genetic regions. That showed the coral is closely related to the family Eunicellidae but distinct from it, making it the first known member of a new family, Laurinqueidae.",
+    "The coral gardens grow in water with extremely low oxygen at 8 to 11 degrees Celsius (46 to 52 degrees Fahrenheit), above a seafloor almost covered by pink brittle stars, ScienceAlert reports. The researchers report possible sightings off Panama and the Galápagos Islands, which have not yet been confirmed."
+   ],
+   "sources": [
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/mysterious-golden-tree-coral-is-so-weird-scientists-had-to-create-a-new-family-on-the-tree-of-life",
      "date": "2026-10-16"
     }
    ]
   }
  ],
  "audio": {
-  "src": "audio/top_stories-164f794052.mp3",
-  "hash": "164f7940527a6e4938253246bc5017bd29e316a4",
-  "duration": 456.5,
+  "src": "audio/top_stories-bde0a6f531.mp3",
+  "hash": "bde0a6f531daf0f194cafd74bb31d037ce2bf126",
+  "duration": 410.5,
   "voice": "Chatterbox (sample 4)"
  }
 }
