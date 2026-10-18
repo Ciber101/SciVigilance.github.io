@@ -8,7 +8,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/main.css?v=202610180847">
   <link rel="icon" type="image/jpeg" href="img/scivigil-avatar.jpg">
   <link rel="apple-touch-icon" href="img/scivigil-avatar.jpg">
   <meta property="og:type" content="website">
@@ -182,7 +182,10 @@
               </button>
               <span class="ts-time" id="tsTime" aria-live="off">Listen</span>
               <span class="ts-vol" id="tsVolWrap">
-                <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4z"/></svg>
+                <button type="button" class="ts-mute" id="tsMute" aria-label="Mute article audio" aria-pressed="false" title="Mute">
+                  <svg class="i-vol" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.5 3a4.5 4.5 0 0 0-2.5-4v8a4.5 4.5 0 0 0 2.5-4z"/></svg>
+                  <svg class="i-muted" viewBox="0 0 24 24" width="16" height="16" fill="currentColor" aria-hidden="true"><path d="M3 9v6h4l5 4V5L7 9H3zm13.6 3 2.7-2.7-1.4-1.4-2.7 2.7-2.7-2.7-1.4 1.4 2.7 2.7-2.7 2.7 1.4 1.4 2.7-2.7 2.7 2.7 1.4-1.4z"/></svg>
+                </button>
                 <input type="range" id="tsVol" class="ts-range ts-vol-range" min="0" max="100" step="1" value="100" aria-label="Article audio volume" aria-valuetext="100%" title="Volume">
               </span>
             </span>
@@ -262,7 +265,7 @@
     </div>
   </footer>
 
-  <script src="js/main.js"></script>
+  <script src="js/main.js?v=202610180847"></script>
 <script data-goatcounter="https://scivigilance.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>

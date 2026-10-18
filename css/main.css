@@ -951,3 +951,9 @@ body { background: transparent; }
 .ts-vol[hidden] { display: none; }
 .ts-vol-range { --pct: 100%; width: 90px; height: 28px; touch-action: manipulation; }
 @media (max-width: 480px) { .ts-vol-range { width: 70px; } }
+.ts-mute { width: 30px; height: 30px; border-radius: 50%; border: 1px solid transparent; background: transparent; color: var(--text-dim); display: inline-flex; align-items: center; justify-content: center; cursor: pointer; padding: 0; }
+.ts-mute:hover, .ts-mute:focus-visible { color: var(--amber); border-color: var(--line); outline: none; }
+.ts-mute .i-muted, .ts-mute.muted .i-vol { display: none; }
+.ts-mute.muted .i-muted { display: block; }
+.ts-mute.muted { color: var(--amber); }
+.ts-vol-range[hidden] { display: none; }

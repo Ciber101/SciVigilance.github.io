@@ -669,22 +669,30 @@ async function setupTopStoriesAudio(d) {
   });
   ['pointerup', 'pointercancel', 'blur'].forEach(e => scrub.addEventListener(e, () => { if (dragging) commit(); }));
   audio.addEventListener('error', () => { audio.pause(); wrap.hidden = true; scrubWrap.hidden = true; });
-  const vol = document.getElementById('tsVol');
+  const vol = document.getElementById('tsVol'), muteBtn = document.getElementById('tsMute');
+  window.__tsAudio = audio; /* debugging hook */
   if (vol) {
-    let saved = 100;
-    try { const v = parseInt(localStorage.getItem('svTsVolume'), 10); if (v >= 0 && v <= 100) saved = v; } catch (e) {}
-    const applyVol = v => {
-      v = Math.min(100, Math.max(0, Math.round(+v || 0)));
-      vol.value = String(v); vol.style.setProperty('--pct', v + '%');
-      vol.setAttribute('aria-valuetext', v + '%'); vol.title = 'Volume ' + v + '%';
-      try { audio.volume = v / 100; } catch (e) {}
-      return v;
+    let level = 100, muted = false;
+    try { const v = parseInt(localStorage.getItem('svTsVolume'), 10); if (v >= 0 && v <= 100) level = v; muted = localStorage.getItem('svTsMuted') === '1'; } catch (e) {}
+    const apply = () => {
+      const shown = muted ? 0 : level;
+      vol.value = String(shown); vol.style.setProperty('--pct', shown + '%');
+      vol.setAttribute('aria-valuetext', muted ? 'Muted' : shown + '%'); vol.title = muted ? 'Muted' : 'Volume ' + shown + '%';
+      audio.volume = level / 100; audio.muted = muted || level === 0;
+      if (muteBtn) {
+        const m = audio.muted; muteBtn.classList.toggle('muted', m); muteBtn.setAttribute('aria-pressed', String(m));
+        muteBtn.setAttribute('aria-label', m ? 'Unmute article audio' : 'Mute article audio'); muteBtn.title = m ? 'Unmute' : 'Mute';
+      }
+      try { localStorage.setItem('svTsVolume', String(level)); localStorage.setItem('svTsMuted', muted ? '1' : '0'); } catch (e) {}
     };
-    applyVol(saved);
-    vol.addEventListener('input', () => { const v = applyVol(vol.value); try { localStorage.setItem('svTsVolume', String(v)); } catch (e) {} });
-    /* iOS Safari ignores audio.volume (hardware buttons only): hide the slider there */
+    vol.addEventListener('input', () => { level = Math.min(100, Math.max(0, Math.round(+vol.value || 0))); muted = false; apply(); });
+    vol.addEventListener('change', () => { level = Math.round(+vol.value || 0); muted = false; apply(); });
+    if (muteBtn) muteBtn.addEventListener('click', () => { if (level === 0) { level = 100; muted = false; } else muted = !muted; apply(); });
+    audio.addEventListener('play', apply);
+    apply();
+    /* iOS Safari ignores audio.volume (hardware buttons only): keep only the mute button there */
     const probe = new Audio(); try { probe.volume = 0.5; } catch (e) {}
-    if (probe.volume === 1) document.getElementById('tsVolWrap').hidden = true;
+    if (probe.volume === 1) vol.hidden = true;
   }
   scrubWrap.hidden = false;
   paint(); wrap.hidden = false;
