@@ -2,6 +2,51 @@
   "data": [
     {
       "author_id": "1974272513917267972",
+      "created_at": "2026-10-18T07:01:35.000Z",
+      "edit_history_tweet_ids": [
+        "2111714293456744887"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 164,
+            "start": 154,
+            "tag": "ZikaVirus"
+          },
+          {
+            "end": 174,
+            "start": 165,
+            "tag": "Virology"
+          }
+        ],
+        "urls": [
+          {
+            "description": "npj Viruses - Prolyl hydroxylation is required for maturation and secretion of Zika virus non-structural protein 1",
+            "display_url": "nature.com/articles/s4429…",
+            "end": 152,
+            "expanded_url": "https://www.nature.com/articles/s44298-026-00248-8",
+            "start": 129,
+            "status": 200,
+            "title": "Prolyl hydroxylation is required for maturation and secretion of Zika virus non-structural protein 1",
+            "unwound_url": "https://www.nature.com/articles/s44298-026-00248-8?error=cookies_not_supported&code=0a0e3ef9-1245-48fd-8615-15a3775a93e0",
+            "url": "https://t.co/dPyfD3Z8zb"
+          }
+        ]
+      },
+      "id": "2111714293456744887",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Breakthrough! Prolyl hydroxylation is crucial for Zika virus NS1 protein maturation and secretion, revealing a new drug target.\n\nhttps://t.co/dPyfD3Z8zb\n\n#ZikaVirus #Virology",
+      "url": "https://x.com/SciVigil/status/2111714293456744887"
+    },
+    {
+      "author_id": "1974272513917267972",
       "created_at": "2026-10-18T04:01:26.000Z",
       "edit_history_tweet_ids": [
         "2111668953483452541"
@@ -406,7 +451,7 @@
       "id": "2111442380822118899",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 2,
+        "impression_count": 3,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -1076,7 +1121,7 @@
       "id": "2111034660138692777",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 1,
+        "impression_count": 2,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -2625,69 +2670,12 @@
       },
       "text": "NASA's Voyager lander passes tests, paving way for Moon Base's first lunar outpost with extreme space simulations.\n\nhttps://t.co/t7iPYMMUQm\n\n#MoonBase #SpaceTech",
       "url": "https://x.com/SciVigil/status/2110058371021988014"
-    },
-    {
-      "author_id": "1974272513917267972",
-      "created_at": "2026-10-13T17:19:51.000Z",
-      "edit_history_tweet_ids": [
-        "2110057944054395392"
-      ],
-      "entities": {
-        "hashtags": [
-          {
-            "end": 138,
-            "start": 123,
-            "tag": "QuantumPhysics"
-          },
-          {
-            "end": 157,
-            "start": 139,
-            "tag": "EinsteinEquations"
-          }
-        ],
-        "urls": [
-          {
-            "description": "Recent research shows that gravity and quantum information are deeply connected and that the shape of spacetime can be traced back to the way information is stored in quantum fields.",
-            "display_url": "phys.org/news/2026-10-g…",
-            "end": 121,
-            "expanded_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-            "images": [
-              {
-                "height": 1051,
-                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=orig",
-                "width": 1280
-              },
-              {
-                "height": 150,
-                "url": "https://pbs.twimg.com/news_img/2109803556135919616/BAFSvInB?format=jpg&name=150x150",
-                "width": 150
-              }
-            ],
-            "start": 98,
-            "status": 200,
-            "title": "Gravity and quantum information linked through a derivation of Einstein's equations",
-            "unwound_url": "https://phys.org/news/2026-10-gravity-quantum-linked-derivation-einstein.html",
-            "url": "https://t.co/Qmc5TNK5Ve"
-          }
-        ]
-      },
-      "id": "2110057944054395392",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 5,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Gravity and quantum info linked through Einstein's equations—spacetime shaped by quantum fields!\n\nhttps://t.co/Qmc5TNK5Ve\n\n#QuantumPhysics #EinsteinEquations",
-      "url": "https://x.com/SciVigil/status/2110057944054395392"
     }
   ],
   "includes": {},
   "meta": {
     "result_count": 50,
-    "newest_id": "2111668953483452541",
-    "oldest_id": "2110057944054395392"
+    "newest_id": "2111714293456744887",
+    "oldest_id": "2110058371021988014"
   }
 }
