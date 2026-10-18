@@ -22,7 +22,7 @@ A multi-page static site for daily space and science news, built for GitHub Page
 ## Local preview
 Serve the folder with any static server, e.g. `python -m http.server` or `npx serve`, then open `Digest.html` (`index.html` only redirects there).
 
-## Daily SciVigilance site refresh (every 6 hours PT)
+## Daily SciVigilance site refresh (every 3 hours PT)
 Scheduled at **4:07, 10:07, 16:07, and 22:07 America/Los_Angeles**. The hero line shows a live countdown to the next run.
 
 Run these from the repo root (same order the automation uses):

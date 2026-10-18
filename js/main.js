@@ -361,7 +361,7 @@ async function loadShorts() {
 
 /* ---------- Live "next site refresh" countdown (America/Los_Angeles) ---------- */
 const REFRESH_TZ = 'America/Los_Angeles';
-const REFRESH_SLOTS = [[4, 7], [10, 7], [16, 7], [22, 7]]; // 4:07, 10:07, 16:07, 22:07 PT
+const REFRESH_SLOTS = [[1, 7], [4, 7], [7, 7], [10, 7], [13, 7], [16, 7], [19, 7], [22, 7]]; // every 3 hours at :07 PT
 
 function tzParts(date, timeZone) {
   const fmt = new Intl.DateTimeFormat('en-US', {
@@ -401,7 +401,7 @@ function nextRefreshUtc(nowMs = Date.now()) {
   // First slot tomorrow (handles wrap past 22:07)
   const dayEnd = zonedLocalToUtc(y, mon, d, 23, 59, 59, REFRESH_TZ);
   const tmr = tzParts(new Date(dayEnd + 2000), REFRESH_TZ);
-  candidates.push(zonedLocalToUtc(+tmr.year, +tmr.month, +tmr.day, 4, 7, 0, REFRESH_TZ));
+  candidates.push(zonedLocalToUtc(+tmr.year, +tmr.month, +tmr.day, REFRESH_SLOTS[0][0], REFRESH_SLOTS[0][1], 0, REFRESH_TZ));
   const upcoming = candidates.filter(t => t > nowMs).sort((a, b) => a - b);
   return upcoming[0] || (candidates[0] + 86400000);
 }
@@ -419,7 +419,7 @@ function initRefreshCountdown() {
   if (!el) return;
   const tick = () => {
     const left = nextRefreshUtc() - Date.now();
-    el.textContent = `Updated every 6 hours — next update in ${formatHMS(left)}`;
+    el.textContent = `Updated every 3 hours — next update in ${formatHMS(left)}`;
   };
   tick();
   setInterval(tick, 1000);
