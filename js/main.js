@@ -669,6 +669,23 @@ async function setupTopStoriesAudio(d) {
   });
   ['pointerup', 'pointercancel', 'blur'].forEach(e => scrub.addEventListener(e, () => { if (dragging) commit(); }));
   audio.addEventListener('error', () => { audio.pause(); wrap.hidden = true; scrubWrap.hidden = true; });
+  const vol = document.getElementById('tsVol');
+  if (vol) {
+    let saved = 100;
+    try { const v = parseInt(localStorage.getItem('svTsVolume'), 10); if (v >= 0 && v <= 100) saved = v; } catch (e) {}
+    const applyVol = v => {
+      v = Math.min(100, Math.max(0, Math.round(+v || 0)));
+      vol.value = String(v); vol.style.setProperty('--pct', v + '%');
+      vol.setAttribute('aria-valuetext', v + '%'); vol.title = 'Volume ' + v + '%';
+      try { audio.volume = v / 100; } catch (e) {}
+      return v;
+    };
+    applyVol(saved);
+    vol.addEventListener('input', () => { const v = applyVol(vol.value); try { localStorage.setItem('svTsVolume', String(v)); } catch (e) {} });
+    /* iOS Safari ignores audio.volume (hardware buttons only): hide the slider there */
+    const probe = new Audio(); try { probe.volume = 0.5; } catch (e) {}
+    if (probe.volume === 1) document.getElementById('tsVolWrap').hidden = true;
+  }
   scrubWrap.hidden = false;
   paint(); wrap.hidden = false;
 }

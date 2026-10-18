@@ -945,3 +945,9 @@ body { background: transparent; }
 .ts-range:focus-visible::-moz-range-thumb { box-shadow: 0 0 0 4px rgba(245,166,35,.45); }
 .ts-tip { position: absolute; top: -14px; transform: translateX(-50%); font-family: var(--font-mono); font-size: 0.72rem; color: #07090f; background: var(--amber-hi); padding: 2px 6px; border-radius: 4px; opacity: 0; pointer-events: none; transition: opacity .15s; }
 .ts-scrub.drag .ts-tip { opacity: 1; }
+
+/* Read-aloud volume */
+.ts-vol { display: inline-flex; align-items: center; gap: 6px; color: var(--text-dim); }
+.ts-vol[hidden] { display: none; }
+.ts-vol-range { --pct: 100%; width: 90px; height: 28px; touch-action: manipulation; }
+@media (max-width: 480px) { .ts-vol-range { width: 70px; } }
