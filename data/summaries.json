@@ -2,9 +2,6 @@
  "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/": {
   "s": "TinyFish found that some providers return more characters than others for the same webpage. This affects how many tokens are used, impacting the model's processing costs. Because tokens are charged per input, more tokens mean higher costs, even if the same information is retrieved."
  },
- "https://www.space.com/space-exploration/missions/returning-samples-from-a-mars-moon-inside-the-science-of-japans-bold-mmx-mission": {
-  "s": "Japan's mission to Mars' moons aims to solve a decades-old debate about the moon's origins. By returning samples, it could be the first to do so from orbit around Earth."
- },
  "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/": {
   "s": "Harness2 framework from Google Research refines an agent's harness at test time, improving performance by 11.5 points on WorkBuddy-Bench without changing model weights. This innovation is significant as it optimizes the system without relying on labels or test cases, making it adaptable to unseen tasks."
  },
@@ -29,9 +26,6 @@
  "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander": {
   "s": "Despite missions like BepiColombo, Mercury remains a mystery. Ground-based observation is hard due to sunlight glare, making it hard to study without risking damage. A lander mission is needed to fully understand Mercury's composition and interior."
  },
- "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/": {
-  "s": "Stephen Cash, a veteran NASA engineer and aerospace executive, becomes director of the Marshall Space Flight Center. His return to lead the center marks a return to his roots, where he began his career decades ago."
- },
  "https://www.sciencenews.org/article/artemis-ii-human-moon-science": {
   "s": "Astronauts on Artemis II mission took detailed observations of the moon, revealing its colors and textures. These results highlight what trained human observers can contribute to lunar research, informing future missions."
  },
@@ -43,9 +37,6 @@
  },
  "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success": {
   "s": "Astronomers searched for exoplanets around a nearby binary star system using old and new data. They didn't find any planets, which initially seemed like a failure. But this study is important because it shows how the radial velocity method can be more effective in binary star systems. Future powerful telescopes will be able to observe these planets more closely, potentially finding signs of life."
- },
- "https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/": {
-  "s": "After splashdown, Navy divers took pictures of Orion's heat shield. Analysis confirmed the shield protected the crew and spacecraft."
  },
  "https://www.sciencenews.org/article/crossword-puzzle-november-2026": {
   "s": "",
@@ -61,9 +52,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies": {
-  "s": "A new study suggests that the flavor of neutrinos could determine whether a dying star explodes or collapses directly into a black hole. Neutrinos come in three flavors, and their behavior during a star's core collapse could influence the star's fate."
- },
  "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015": {
   "s": "Ice cliffs in Antarctica don’t always collapse as scientists had predicted. This discovery challenges the assumption that taller cliffs are more likely to collapse."
  },
@@ -73,14 +61,8 @@
  "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/": {
   "s": "A young intern developed a mechanism enabling AI to process language at scale. This mechanism, called attention, is key because it allows AI to focus on parts of sentences relevant to translation, improving performance on longer sentences."
  },
- "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015": {
-  "s": "Governments and companies team up to offer online services. A study finds these partnerships can influence how much people trust their government. Lack of trust can lead to non-compliance with rules and harder problem-solving for governments."
- },
  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
   "s": "DeepSeek released a new version of its model, DeepSeek-V4.1-Flash-1017, accessible on Hugging Face. This update enhances the model's performance in various tasks, improving reasoning, coding, and visual tasks. It also speeds up task execution and reduces costs."
- },
- "https://huggingface.co/blog/reflection-beam": {
-  "s": "Beam is a new open-source AI model that can be customized and scaled by teams. It matters because it offers a frontier-scale model that can be used on personal hardware, and it supports long context reasoning, useful for complex tasks."
  },
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "s": "Anthropic has begun to allow a team from METR access to its models and internal data. This is important because as AI models grow more powerful, so do the risks, requiring stronger safeguards and assessments. Third-party evaluators are essential for understanding these risks, as companies know more than external parties about their systems. This step helps ensure AI development is safe and transparent, similar to how bank regulators monitor large banks."
@@ -158,37 +140,17 @@
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
- "https://www.livescience.com/health/a-uniquely-direct-route-that-might-cause-damage-scientists-uncover-link-between-air-pollution-and-eye-diseases-like-glaucoma": {
-  "s": "Scientists reviewed 41 studies linking higher air pollution exposure to a higher risk of eye diseases like glaucoma and cataracts. PM2.5 pollution showed the strongest connection."
- },
- "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed": {
-  "s": "Computer scientist Margaret Hamilton solved problems that others deemed unsolvable, guiding NASA's Apollo missions to the moon. Her legacy inspires future generations to tackle complex challenges."
- },
  "https://simonwillison.net/2026/Oct/12/web-edit/": {
   "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
- },
- "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/": {
-  "s": "This unusual radio structure, named Treble Clef, spans 2 million light-years and resembles a musical symbol. Recent observations have suggested it was originally expelled by a supermassive black hole, then reinvigorated by a shock wave from galaxy cluster collisions. Such objects offer clues about the interaction of galaxy clusters and the evolution of the universe."
  },
  "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/": {
   "s": "Mistral AI released Timestral, a family of time series forecasting models ranging from 5M to 209M parameters. This new model family surpasses Google's TimesFM-3 in performance, particularly in zero-shot forecasting tasks. Its unique approach of transferring patterns across different domains makes it more versatile than traditional methods."
  },
- "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/": {
-  "s": "As autumn approaches, the Bieszczady National Park in Poland transforms, with deciduous trees turning vibrant reds and golds. Meanwhile, patches of polonina, a high-mountain meadow, turn tan as they lose their summer green."
- },
  "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/": {
   "s": "NVIDIA has made its AI workload and GPU orchestration platform Run:ai available as open source. This matters because it offers developers a flexible tool to manage GPU resources in Kubernetes environments, enhancing the capabilities of AI workloads without replacing Kubernetes."
  },
- "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head": {
   "s": "The \"Birdman\" copper plate, found in an Indigenous grave, may be a woman dressed as a warrior rather than a man. This reinterpretation matters as it challenges traditional interpretations of ancient artifacts, potentially offering new insights into gender roles and cultural practices of the time."
- },
- "https://www.livescience.com/health/reproductive-health/rising-temperatures-could-boost-pregnancy-risks-worldwide-heres-how": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
   "s": "Apertus 1.5 release adds multimodal understanding to the model, processing images and audio alongside text. This update also introduces a thinking mode for reasoning and improves tool use and instruction-following."
@@ -199,9 +161,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261018205047.htm": {
   "s": "A landslide in Alaska triggered a tsunami that reached heights of 1,580 feet, higher than the Taipei 101 skyscraper. This event matters because it highlights the potential for extreme tsunamis in coastal areas with unstable slopes, particularly where glaciers are retreating. The landslide and tsunami occurred shortly after tourists visited a glacier, demonstrating the sudden and unpredictable nature of such events."
- },
- "https://www.sciencenews.org/article/japan-mission-mars-moon": {
-  "s": "Japan’s MMX mission will be the first to reach Phobos, Mars’ larger moon. This mission aims to collect rocks from Phobos, even if they are not directly from Mars, offering a unique opportunity for scientists to study Martian materials indirectly."
  },
  "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839": {
   "s": "Farmers have selectively bred animals for traits they find useful, such as tameness or increased egg production. This process, called domestication, has shaped farm animals over generations. As a result, farm animals have evolved to benefit humans rather than protect themselves against them."
@@ -215,10 +174,6 @@
  },
  "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555": {
   "s": "NASA’s Mars orbiter Maven, the youngest of its fleet, lost contact in December 2025, leaving two active orbiters. This situation matters because it highlights the aging of the Mars orbiter fleet, which could affect future exploration efforts. As Mars has a limited number of satellites compared to Earth, the loss of Maven reduces the number of operational satellites and orbiters, impacting communication and data collection crucial for planetary science."
- },
- "https://www.space.com/astronomy/moon/did-a-giant-object-collide-with-earth-to-form-the-moon": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261018205039.htm": {
   "s": "Scientists have found two hidden magma sources beneath Nicaragua's Masaya volcano, leading to new insights about how magma moves underground. This discovery matters because it could help predict future eruptions and protect nearby communities, as Masaya is near 2 million people."
@@ -239,9 +194,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html": {
-  "s": "Researchers at the University of Southampton have created an interactive map using AI to transform centuries-old port records into a database. This project reveals Britain's growth into a global trading nation, showing Europe as the primary trading partner, with coal and ale as the top commodities. The AI helped process over 100,000 pages of handwritten records, significantly speeding up the analysis of 200 years of shipping data."
- },
  "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/": {
   "s": "MiniMax has launched M3.1 Flash, a 428B-parameter model with 23B active parameters and a 1M-token context. Pricing is $0.15 per 1M tokens, with weights due October 23. The model supports text, image, and video input and returns text. Reasoning is always on and cannot be disabled."
  },
@@ -254,25 +206,11 @@
  "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video": {
   "s": "These tiny snakes cartwheel to escape danger, using their tails to flip in the air and roll forward. This behavior is remarkable because it requires no limbs, just the body and tail. Researchers observed this unusual movement in lab settings, finding it impressive and surprising."
  },
- "https://www.sciencealert.com/adhd-drugs-may-reduce-the-risk-of-early-death-major-study-finds": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html": {
-  "s": "The researchers created an AI model that can understand 3D crystal structures and their properties. This model helps AI learn more about materials by combining atomic structures with text descriptions from scientific papers. It can identify better material designs than models trained on text alone, as it can visualize the atomic arrangements and bonding patterns."
- },
  "https://www.nasa.gov/image-article/martian-dawn/": {
   "s": "NASA’s Curiosity rover on Mars took a close-up image showing the dawn and elongated ridges, or yardangs, formed by wind erosion. This image provides the most detailed view yet of Martian cliffs, revealing features scientists have been eager to study up close."
  },
  "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world": {
   "s": "The organization unveiled a vehicle that can briefly take to the air, using technology from SpaceX. Experts are skeptical that this qualifies as a practical flying car for everyday use."
- },
- "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html": {
-  "s": "Scientists at PSI used X-rays to examine copper oxide, revealing rapid spin flips within it. This discovery could lead to more efficient computer chips by manipulating electron spins instead of moving electrons, potentially reducing power consumption and waste heat."
  },
  "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/": {
   "s": "The rise of humanoid robots with AI is underway, as engineers and companies develop robots that look and act like humans. These robots are being used in factories to perform human work, alongside or even replacing human workers. This shift matters as it highlights the rapid progress in AI, which is making machines more capable of complex tasks previously thought impossible for robots."
@@ -295,9 +233,6 @@
  "https://newatlas.com/robotics/albatross-robot-sail-seed-boat/": {
   "s": "The bioinspired robot ALBATROSS, developed by researchers at SUTD, can be deployed from an aircraft over remote waters. It can sail autonomously using wind energy after landing, offering a solution for long-term monitoring of environmental conditions. This platform combines the speed of aerial deployment with the endurance of sailing, addressing the limitations of both surface systems and aircraft."
  },
- "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/": {
-  "s": "Opportunity charging is becoming essential for robot fleets as they scale, enabling autonomous systems to move more freely and efficiently, thereby increasing uptime, return on investment, and safety. WiBotic's technology, which provides wireless charging and fleet energy management, supports this by allowing robots to charge during their normal workflow, making charging simpler and more scalable."
- },
  "https://newatlas.com/robotics/tiny-snapping-robot/": {
   "s": "The researchers created a robot that moves using flexible rods that snap between shapes, powered by small motors. This design allows the robot to jump over obstacles, but the motors can't produce the quick bursts needed for a jump. The team solved this by mapping how elastic rods respond to different shapes and loading, and then designed limbs that snap sharply."
  },
@@ -318,9 +253,6 @@
  },
  "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/": {
   "s": "Doug Field, formerly of Ford and Tesla, has joined Rivian's startup Mind Robotics as president. This move matters as Field's extensive experience in EVs and robotics will help Mind Robotics scale its operations, aiming to automate industrial and manufacturing tasks at scale."
- },
- "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
-  "s": "Laplace Intelligence uses AI to test robots and self-driving cars in simulations before they go to the real world, to prevent failures. This matters because AI can behave unpredictably, and making physical AI safe requires thorough testing."
  },
  "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/": {
   "s": "PhoneBot, developed by UCLA researchers, uses a smartphone as its brain, torso, and eyes. This innovative design skips costly extras, making it cheaper and more accessible. The phone's IMU and touchscreen serve as the robot's inner ear and control interface, while its camera handles vision."
@@ -352,18 +284,6 @@
  "https://robohub.org/what-three-days-building-a-robot-taught-me/": {
   "s": "Three days of building a robot taught Emily, Joolz, and Michael to form friendships. The technical challenge of building and debugging a robot was overshadowed by the camaraderie and bonding that occurred among the participants."
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Boston Dynamics' Spot robot to keep people safe, from searching disaster sites to resolving hostage situations. Spot's agility and advanced capabilities make it a valuable tool, reducing the need for human risk."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, enabling high fidelity simulation and dexterous physical work. This matters because designing hands that are both dexterous and strong is a complex challenge, and the new hand is a solution to this tradeoff."
- },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch, a robotic arm designed to move boxes in warehouses. She simulates years of wear and tear on robot parts in just weeks by running testers at higher speeds and with greater force than a robot would experience in real-world use. This accelerates the discovery of potential issues, helping to ensure the robot works reliably in warehouse environments."
- },
- "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html": {
-  "s": "The Euclid space telescope, designed to observe distant galaxies, unexpectedly discovered its first comet 810 million miles from Earth. This discovery highlights Euclid's capability to detect new comets at great distances, potentially aiding future missions to study these solar system objects."
- },
  "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy": {
   "s": "New observations show how black holes can stir up material at the outer edge of a galaxy, warming it and reducing star production. This matters because it explains how supermassive black holes, despite being small, can have a large impact on galactic evolution by heating the circumgalactic medium, a region previously thought to be unaffected."
  },
@@ -374,14 +294,85 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-oldest-animals-earth-common-wormlike.html": {
+ "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/": {
+  "s": "Daimon Robotics is building an infrastructure to help robots understand physical interactions better, connecting tactile sensing, data collection, simulation, and AI models. This matters because robots need more than just vision to handle objects, and current systems often miss critical information about forces and contact. By providing this infrastructure, Daimon aims to make robots more reliable in tasks like manipulating delicate items."
+ },
+ "https://phys.org/news/2026-10-cosmic-hamburger-rare-edge-view.html": {
+  "s": "Astronomers using ALMA were surprised to observe the earliest stages of giant planet formation in the \"Gomez's Hamburger\" system, which is a nearly edge-on disk of gas and dust. This unique view allows scientists to map the vertical structure of the disk, providing insights into how giant planets form far from their star."
+ },
+ "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/the-universe-seems-to-be-stuck-in-place-by-a-strange-quantum-phenomenon": {
+  "s": "The universe seems to be in a state of cosmic lockdown, where certain quantum fields may be stuck in a lower energy state, potentially preventing drastic changes in the structure of matter and forces. This research suggests that quantum fields could become effectively locked in place, addressing fears of sudden shifts in the universe's state via quantum tunneling."
+ },
+ "https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet": {
+  "s": "The ESA's Euclid space telescope, launched in 2023, has discovered a new comet, not part of its primary mission to observe galaxies. This discovery is surprising for a telescope designed to study distant galaxies, as comets are typically found by ground-based telescopes. The comet was found by new software designed by Mikko Pöntinen, revealing the telescope's versatility in unexpected areas."
+ },
+ "https://www.livescience.com/archaeology/11th-century-pizza-peel-discovered-in-russia-doubled-as-a-medieval-game-board": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/": {
+  "s": "Rockets and spacecraft experience intense vibrations and shocks during launch, posing risks to delicate instruments. NASA improved analysis tools to predict and mitigate these forces, ensuring mission safety. Engineers developed a standardized workflow using commercial software to simulate and identify potential weak spots, enhancing spacecraft readiness for launch."
+ },
+ "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019": {
+  "s": "A model created by MIT and Boston Children's Hospital adjusts fetal MRI scans as the baby moves, allowing for more accurate and earlier diagnoses of brain abnormalities. This could reduce the need for repeat hospital visits for families."
+ },
+ "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet": {
+  "s": "Euclid, a space telescope, has found its first comet, a rare discovery for a mission focused on distant galaxies. The swift identification and confirmation of the comet highlight Euclid's potential to discover new Solar System objects, aiding future missions."
+ },
+ "https://phys.org/news/2026-10-webb-reveals-metal-rich-gas.html": {
+  "s": "The James Webb Space Telescope detected gas orbiting the Milky Way's central black hole, revealing it to be rich in metals. This discovery could help understand how metals are distributed around supermassive black holes in other galaxies and shed light on Earth's metal composition."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos": {
+  "s": "Japan launched a mission to Phobos, Mars' moon, aiming to be the first to return samples to Earth. This mission could rewrite history if successful."
+ },
+ "https://www.livescience.com/health/alzheimers-dementia/a-gene-variant-triples-the-risk-of-getting-alzheimers-disease-fat-buildup-in-brain-cells-may-be-to-blame-study-finds": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/": {
+  "s": "Software developed by NASA researchers predicts jet noise from aircraft engines. This software aids in designing quieter aircraft, reducing noise pollution. Accurate predictions depend on precise aerodynamic and turbulence modeling, areas of ongoing research."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-19-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-molecular-pendulum-shuttles-protons-enable.html": {
+  "s": "Researchers from Ruhr University Bochum discovered how enzymes called hydrogenases capture and shuttle protons to produce hydrogen. Zinc ions, crucial for the enzyme's function, can also block specific amino acids, including histidines, which are known for binding protons. This blocking effect inhibits the enzyme's proton transport pathway."
+ },
+ "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/": {
+  "s": "The 9- by 15-Foot Low-Speed Wind Tunnel helps researchers study aircraft engine aerodynamics and acoustics, aiming to reduce noise near airports. The tunnel underwent modifications in 2019 to improve flow and lower background noise, enabling more precise measurements of sound produced by engines. The Aero-Acoustic Propulsion Laboratory uses a geodesic dome to reduce community noise and test engines and components, with sound-absorbing materials inside to prevent reflections."
+ },
+ "https://phys.org/news/2026-10-hunter-killer-chemistry-captures-destroys.html": {
+  "s": "They can turn up in everyday items like nonstick pans, waterproof jackets, and fire-fighting foam. Known as \"forever chemicals,\" these substances are everywhere, prized for their durability but causing health and environmental risks. Now, researchers have developed a technique to destroy these harmful PFAS chemicals, rather than just filtering them out, addressing their persistent nature."
+ },
+ "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015": {
-  "s": "As artificial intelligence becomes more integrated into daily life, researchers like Professor Eric So are examining how it impacts thinking skills. So's book suggests that heavy reliance on AI can lead to a decline in essential thinking abilities, as people rely less on their own cognitive processes."
+ "https://phys.org/news/2026-10-smart-farming-profitable-regions-global.html": {
+  "s": "The use of smart farming technologies like robots, drones, and AI is already yielding profits on 42% of global cropland, according to a study. This could grow to 50% within two decades, and up to 75% if regulations are tightened. Smart farming often benefits areas dealing with environmental issues, but costs of implementation remain a concern."
  },
- "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/": {
-  "s": "Daimon Robotics is building an infrastructure to help robots understand physical interactions better, connecting tactile sensing, data collection, simulation, and AI models. This matters because robots need more than just vision to handle objects, and current systems often miss critical information about forces and contact. By providing this infrastructure, Daimon aims to make robots more reliable in tasks like manipulating delicate items."
+ "https://phys.org/news/2026-10-auroral-electrons.html": {
+  "s": "The aurora's structure, which is already visually striking, could be explained by electrons bouncing off plasma waves. This research provides a new way to understand small-scale features of the aurora, offering insights into plasma behavior and electromagnetic fields."
+ },
+ "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear": {
+  "s": "An excavation at a Neandertal burial site in Iraq reveals a shoulder bone with a circular puncture wound, suggesting a wooden spear caused the injury. This finding indicates Neandertals may have suffered violent attacks, possibly from other hominids, despite often sustaining injuries from hunting."
+ },
+ "https://huggingface.co/blog/hf-torchneuron": {
+  "s": "TorchNeuron introduced a new backend for AWS Trainium, making it simpler to run models on the AI chip. This innovation allows researchers and developers to use the Hugging Face libraries directly on Trainium, without needing to think like a compiler."
+ },
+ "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/": {
+  "s": "As AI-driven technologies advance, they demand more powerful computing resources. NVIDIA RTX PRO 6000 Blackwell Workstation Edition, supplied by PNY, offers these resources, enabling AI training, inference, and data science. Its high compute power and large memory support real-time decision-making in robotics and autonomous systems."
+ },
+ "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
+  "s": "Laplace Intelligence uses AI agents and interactive simulation to test robots and self-driving cars before deployment. This matters because AI can be unpredictable, and ensuring physical AI is safe requires rigorous testing before it enters the real world."
  }
 }

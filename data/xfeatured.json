@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2111192259073094035",
-     "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to",
+     "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
      "date": "2026-10-16T20:27:13.000Z",
      "quoted": false,
      "image": null,
@@ -26,7 +26,7 @@
     },
     {
      "id": "2110741355739963884",
-     "text": "We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results",
+     "text": "We want to support the mathematics community in turning progress in AI into deeper human understanding and new discoveries. To support that goal, we are contributing $5 million to a new Simons Foundation initiative to help mathematicians examine, understand, and build on results produced by AI, including the results we recently published.\n\nThe funding, managed and awarded by the @SimonsFdn will support workshops, conferences, and special programs. We will also provide access to our models and computing resources to Simons Foundation-supported researchers.",
      "date": "2026-10-15T14:35:29.000Z",
      "quoted": true,
      "image": null,
@@ -35,7 +35,7 @@
     },
     {
      "id": "2110442001749659890",
-     "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report",
+     "text": "European businesses are rapidly expanding their use of AI agents. More than half of the AI use among our EU enterprise and business customers now involves these tools, and the number of small business users has grown 8x across the region.\n\nOur latest Economic Research report explores Europe’s shift toward agentic AI—and the opportunity to turn broader adoption into deeper use.",
      "date": "2026-10-14T18:45:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUnIm51bgAA9cT4.jpg",
@@ -158,7 +158,7 @@
     },
     {
      "id": "2110190101707858039",
-     "text": "Over half of reported crimes in Singapore use sophisticated social engineering.\n\nWith @GovTechSG, we’re building on-device fraud detection using our open model Gemma.\n\nBy fine-tuning it on local scam tactics, it identifies threats in real time without compromising personal privacy →",
+     "text": "Over half of reported crimes in Singapore use sophisticated social engineering.\n\nWith @GovTechSG, we’re building on-device fraud detection using our open model Gemma.\n\nBy fine-tuning it on local scam tactics, it identifies threats in real time without compromising personal",
      "date": "2026-10-14T02:05:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUhw8WhWMAArsET.jpg",
@@ -234,23 +234,15 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
      "video": "https://video.twimg.com/amplify_video/2110040604264820737/vid/avc1/1920x1080/MGQrVzLSYG_aq8xd.mp4",
      "url": "https://x.com/demishassabis/status/2110041008100843835"
-    }
-   ]
-  },
-  {
-   "handle": "DarioAmodei",
-   "name": "Dario Amodei",
-   "group": "ai",
-   "avatar": "img/x-darioamodei.jpg",
-   "posts": [
+    },
     {
-     "id": "2102831170299834652",
-     "text": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud",
-     "date": "2026-09-23T18:43:14.000Z",
+     "id": "2106850913474482566",
+     "text": "Very proud of the impact of all our work using AI to accelerate science and medicine for the benefit of society.",
+     "date": "2026-10-04T20:56:15.000Z",
      "quoted": true,
      "image": null,
      "video": null,
-     "url": "https://x.com/DarioAmodei/status/2102831170299834652"
+     "url": "https://x.com/demishassabis/status/2106850913474482566"
     }
    ]
   },
@@ -262,7 +254,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -280,7 +272,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -410,8 +402,26 @@
    "avatar": "img/x-aiatmeta.png",
    "posts": [
     {
+     "id": "2112265822274302066",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
+     "date": "2026-10-19T19:33:10.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
+     "video": null,
+     "url": "https://x.com/AIatMeta/status/2112265822274302066"
+    },
+    {
+     "id": "2112245968750145561",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
+     "date": "2026-10-19T18:14:17.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112245058472906752/vid/avc1/1920x1080/A15F6uYoUrUyPB9v.mp4",
+     "url": "https://x.com/AIatMeta/status/2112245968750145561"
+    },
+    {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -420,30 +430,12 @@
     },
     {
      "id": "2110779754274292212",
-     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio",
+     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token",
      "date": "2026-10-15T17:08:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUr8TsmbIAAT-m3.jpg",
      "video": null,
      "url": "https://x.com/AIatMeta/status/2110779754274292212"
-    },
-    {
-     "id": "2110517571149807685",
-     "text": "Muse Wonder and Muse Wonder Full deliver SOTA performance on personal and professional agentic tasks. \n\nLearn more about the models on our researcher blog:",
-     "date": "2026-10-14T23:46:15.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110517413968330752/img/y1OiWcckThZozKzp.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110517413968330752/vid/avc1/1920x1080/DqyHqhz_vPd2DFMp.mp4",
-     "url": "https://x.com/AIatMeta/status/2110517571149807685"
-    },
-    {
-     "id": "2110441716507693450",
-     "text": "We’re exploring how AI can accelerate health science research.\n\nWhile AI has made significant breakthroughs in formal sciences like mathematics, health data science depends on imperfect real-world data and consequential choices about cohorts, variables, and causal assumptions.\n\nTo explore how AI can assist health researchers, we built a human-led research scaffold powered by Muse Spark 1.3 and Muse Wonder with access to 5M retrospective de-identified electronic health records and publicly available data. A cohort of medical experts used the system to conduct original research, accelerate hypothesis generation, code execution, and manuscript drafting while maintaining full authority over scientific decisions.\n\nToday, we’re sharing 10 research manuscripts produced through this exploration, spanning cardiology, oncology, infectious disease, emergency medicine, and more.\n\nRead more in our research blog:",
-     "date": "2026-10-14T18:44:49.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110440851360878593/img/ryDI-P4tAI1ymBD_.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110440851360878593/vid/avc1/3840x2160/Dyk6w7KEfvxGj3bn.mp4",
-     "url": "https://x.com/AIatMeta/status/2110441716507693450"
     }
    ]
   },
@@ -453,6 +445,15 @@
    "group": "ai",
    "avatar": "img/x-nvidia.jpg",
    "posts": [
+    {
+     "id": "2112269224949485860",
+     "text": "Germany knows how to build, and now it’s bringing that expertise to industrial AI. 🇩🇪\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe’re also backing Germany’s",
+     "date": "2026-10-19T19:46:41.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVBJqDmXoAA_GCO.jpg",
+     "video": null,
+     "url": "https://x.com/nvidia/status/2112269224949485860"
+    },
     {
      "id": "2112224045802414256",
      "text": "AI factories need to respond when the power grid needs relief.\n\nAt #OCPSummit26, NVIDIA’s Ian Buck explains how adjusting power use and shifting computing workloads can help, and why collaboration across the industry matters.",
@@ -479,15 +480,6 @@
      "image": "https://pbs.twimg.com/media/HUss5QVWYAAsmEE.jpg",
      "video": null,
      "url": "https://x.com/nvidia/status/2110830216515919974"
-    },
-    {
-     "id": "2110750157272719562",
-     "text": "Today, we’re expanding our Nemotron family of open models with Nemotron 3.5 Super VL. \n\nBringing visual understanding, reasoning, and tool use together to help AI agents complete more work in less time. \n\nOpen models ➡️ more control to customize, deploy, and build on your own terms.\n\nDive into what’s new:",
-     "date": "2026-10-15T15:10:27.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/nvidia/status/2110750157272719562"
     }
    ]
   },
@@ -505,6 +497,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/huggingface/status/2112214753980612886"
+    },
+    {
+     "id": "2108252563015422389",
+     "text": "Help keep science open, try this out on Paper Pages:",
+     "date": "2026-10-08T17:45:55.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/huggingface/status/2108252563015422389"
     }
    ]
   },
@@ -625,7 +626,7 @@
      "date": "2026-09-30T15:19:46.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105310982994382848/img/qENCF-Ie4xhbp5iR.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2105310982994382848/vid/avc1/3840x2160/kb0RuVDHLGIdFKxz.mp4",
      "url": "https://x.com/Figure_robot/status/2105316680251650555"
     }
    ]
@@ -642,7 +643,7 @@
      "date": "2026-10-15T15:31:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110755331244544000/vid/avc1/1920x1080/sO9X5hOWssL1mJbA.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2110755540401827986"
     },
     {
@@ -669,7 +670,7 @@
      "date": "2026-10-01T14:01:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2105659085467082752/vid/avc1/1920x1080/geC_FF6dPt4ZHPNP.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2105659276425298012"
     }
    ]
@@ -704,16 +705,16 @@
      "date": "2026-10-14T17:45:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110049274398642176/img/uS__EOVUV8CytMjx.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110049274398642176/vid/avc1/3840x2160/iRxtpJ707DHu84B6.mp4",
      "url": "https://x.com/agilityrobotics/status/2110426659883270568"
     },
     {
      "id": "2109703804321243604",
-     "text": "A highlight reel proves a robot can do something once, for the camera. A deployment proves it can work safely on a real floor, shift after shift. Only one of those scales a business. Agility CBO Daniel Diez on what actually separates this market:\n\n#Agility",
+     "text": "A highlight reel proves a robot can do something once, for the camera. A deployment proves it can work safely on a real floor, shift after shift. Only one of those scales a business. Agility CBO Daniel Diez on what actually separates this market:\n\n#Agility #MadeForWork #Digit5",
      "date": "2026-10-12T17:52:38.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUcsT1NaoAALPkK.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/tweet_video/HUcsT1NaoAALPkK.mp4",
      "url": "https://x.com/agilityrobotics/status/2109703804321243604"
     }
    ]
@@ -730,7 +731,7 @@
      "date": "2026-10-12T12:00:38.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2109614461111734272/img/QPKxNg9p2ePxTNCO.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2109614461111734272/vid/avc1/2160x3840/N1O7q4omKZRjkGzN.mp4",
      "url": "https://x.com/UBTECHRobotics/status/2109615224097501600"
     },
     {
@@ -739,7 +740,7 @@
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2107452189866405888/vid/avc1/3840x2160/ajVjksnU62yOlrZt.mp4",
      "url": "https://x.com/UBTECHRobotics/status/2107452595883446304"
     },
     {
@@ -748,7 +749,7 @@
      "date": "2026-10-05T10:41:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107057352054861824/img/mZN7MBm3CyH0bPhZ.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2107057352054861824/vid/avc1/3840x2160/7cMa2D-Gx8BF_8io.mp4",
      "url": "https://x.com/UBTECHRobotics/status/2107058503642980359"
     },
     {
@@ -757,7 +758,7 @@
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2106349982387490816/vid/avc1/3840x2160/aAGqJRGL9lvJ6N4l.mp4",
      "url": "https://x.com/UBTECHRobotics/status/2106350586232991745"
     }
    ]
@@ -783,7 +784,7 @@
      "date": "2026-10-03T02:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105956269433696256/img/pSWXecnO7_qR1ubL.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2105956269433696256/vid/avc1/1920x1080/boR8KdvIbME2m2i9.mp4",
      "url": "https://x.com/AGIBOTofficial/status/2106202828444143907"
     },
     {
@@ -792,7 +793,7 @@
      "date": "2026-10-02T13:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105954491216678912/img/uFZDgqhjSfhO6jZx.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2105954491216678912/vid/avc1/1920x1080/Ij3Exws65Mo_Qq51.mp4",
      "url": "https://x.com/AGIBOTofficial/status/2106006535302476037"
     },
     {
@@ -801,7 +802,7 @@
      "date": "2026-10-01T11:09:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105613682894143488/img/hMt88ZroUSbVLHBK.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2105613682894143488/vid/avc1/1920x1080/pLXh_i4eCZPGVAie.mp4",
      "url": "https://x.com/AGIBOTofficial/status/2105615993376559226"
     }
    ]
@@ -818,7 +819,7 @@
      "date": "2026-10-13T19:33:21.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110090791603376128/img/6iEQpqxo4vwvjGET.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110090791603376128/vid/avc1/1920x1080/9S-6FQ64av8e4DLI.mp4",
      "url": "https://x.com/XPENG_Global/status/2110091538604978573"
     }
    ]
@@ -835,7 +836,7 @@
      "date": "2026-10-16T18:43:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUxeVNDWIAAShZx.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/tweet_video/HUxeVNDWIAAShZx.mp4",
      "url": "https://x.com/NVIDIARobotics/status/2111166068949479480"
     },
     {
@@ -849,11 +850,11 @@
     },
     {
      "id": "2108664665941131707",
-     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train perception models with 99% synthetic data\n✅ Reduce data collection and labelling to turn out effective models in hours instead of seasons\n\nRead the story:",
+     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train",
      "date": "2026-10-09T21:03:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108664641610022913/img/zc9nxjRU9wPtVi74.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2108664641610022913/vid/avc1/1280x720/o6-S04JAcNwgtK3M.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2108664665941131707"
     },
     {
@@ -862,7 +863,7 @@
      "date": "2026-10-08T18:59:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108271149922594816/img/tveiWUUp3-zyv46e.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2108271149922594816/vid/avc1/1280x720/btwQgSxHOPx85R0E.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2108271171275809191"
     }
    ]
@@ -879,7 +880,7 @@
      "date": "2026-10-18T21:21:41.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111930714560049153/img/Pfzj023BGOGSvjeB.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2111930714560049153/vid/avc1/1280x720/BzjRBgybOiO7FqGd.mp4",
      "url": "https://x.com/elonmusk/status/2111930742615802163"
     },
     {
@@ -958,7 +959,7 @@
      "date": "2026-10-16T19:42:20.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111180787802370048/img/0nbyTdS0MRg5JqXk.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2111180787802370048/vid/avc1/1080x1920/xLb-yr9GVdddx5sY.mp4",
      "url": "https://x.com/NASA/status/2111180963661435219"
     },
     {
@@ -1058,6 +1059,15 @@
    "avatar": "img/x-cnes.jpg",
    "posts": [
     {
+     "id": "2112247349540278650",
+     "text": "🚀🔴 Dans les coulisses du lancement de #MMX à la @CiteEspace \n\n#Cnes #MMX @DLR_SpaceAgency @DLR_en @DLR_de @mmx_jaxa_jp @JAXA_en @JAXA_jp @jaxa @LiraAstro",
+     "date": "2026-10-19T18:19:46.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112246682243026944/img/wlHMPKdwEIPVPT6c.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112246682243026944/vid/avc1/1080x1920/SRmXbYNdwHKOKcFk.mp4?tag=16",
+     "url": "https://x.com/CNES/status/2112247349540278650"
+    },
+    {
      "id": "2112162487063794009",
      "text": "Une vue impressionnante du pas de tir ! 🤩\n\n#MMX @DLR_SpaceAgency @DLR_en @DLR_de @mmx_jaxa_jp @JAXA_en @JAXA_jp @LiraAstro #cnes",
      "date": "2026-10-19T12:42:33.000Z",
@@ -1083,15 +1093,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/CNES/status/2112097661235138726"
-    },
-    {
-     "id": "2112063855140782113",
-     "text": "🚀🔴 Ce soir, cap sur les lunes de Mars avec #MMX et le rover IDEFIX® !\n\nLancement prévu à 21h41, heure de Paris.\nDès 20h45, retrouvez les experts en direct de la @citeespace sur notre chaîne YouTube. @DLR_SpaceAgency @JAXA_en @LiraAstro",
-     "date": "2026-10-19T06:10:37.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HU-O3DqWMAE9h39.jpg",
-     "video": null,
-     "url": "https://x.com/CNES/status/2112063855140782113"
     }
    ]
   },
@@ -1107,7 +1108,7 @@
      "date": "2026-10-18T08:03:41.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111729608513171457/img/T4d3wLPOoUOuurEt.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2111729608513171457/vid/avc1/720x1280/hkcP7eolyd7hn6Ef.mp4?tag=14",
      "url": "https://x.com/JAXA_en/status/2111729920909234314"
     },
     {
@@ -1160,7 +1161,7 @@
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110115567394791424/vid/avc1/1920x1080/EdwbgQUrnUrrqLtG.mp4?tag=16",
      "url": "https://x.com/blueorigin/status/2110115705894904067"
     },
     {
@@ -1169,7 +1170,7 @@
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2108614967859548160/vid/avc1/1920x1080/nWi6zsCnjhOnWydf.mp4?tag=16",
      "url": "https://x.com/blueorigin/status/2108615012730167401"
     },
     {
@@ -1235,7 +1236,7 @@
    "posts": [
     {
      "id": "2108573330659803566",
-     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and scientific discovery to global communications. As we celebrate #WSW2026, our goal is to inspire the next generation to dream bigger and explore farther. \n\n#WorldSpaceWeek // @WorldSpaceWeek",
      "date": "2026-10-09T15:00:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
@@ -1257,12 +1258,12 @@
      "date": "2026-10-02T15:01:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTolShwWEAAniEn.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2106036713520787456/vid/avc1/1080x1920/5mT9xONS1v3a0bzZ.mp4?tag=16",
      "url": "https://x.com/ulalaunch/status/2106036797805310329"
     },
     {
      "id": "2104676285280604205",
-     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low",
+     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low Earth orbit.",
      "date": "2026-09-28T20:55:04.000Z",
      "quoted": true,
      "image": null,
@@ -1301,7 +1302,7 @@
      "date": "2026-10-12T17:00:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/ext_tw_video_thumb/2109690509803282432/pu/img/WRJ4m3_Rq27rLm1_.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/ext_tw_video/2109690509803282432/pu/vid/avc1/720x960/OzJlJrtXqfxgY-Zb.mp4?tag=12",
      "url": "https://x.com/Arianespace/status/2109690566262825300"
     },
     {
@@ -1327,7 +1328,7 @@
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2111220819838029824/vid/avc1/3840x2160/lFYb9b-jlOUbC1Yo.mp4",
      "url": "https://x.com/relativityspace/status/2111221655469252860"
     },
     {
@@ -1336,7 +1337,7 @@
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110787251542310913/vid/avc1/1280x720/_ktoOciSlA8r-AlL.mp4",
      "url": "https://x.com/relativityspace/status/2110788104860966917"
     },
     {
@@ -1345,7 +1346,7 @@
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110412433051242496/vid/avc1/1280x720/4wPAsYiRLK7mQ7Oh.mp4",
      "url": "https://x.com/relativityspace/status/2110413443144556617"
     },
     {
@@ -1354,7 +1355,7 @@
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110071229617262593/vid/avc1/1280x720/oK638hSDPFAdOFuq.mp4",
      "url": "https://x.com/relativityspace/status/2110071949921759657"
     }
    ]
@@ -1411,7 +1412,7 @@
    "posts": [
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1420,7 +1421,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
@@ -1438,11 +1439,11 @@
     },
     {
      "id": "2108289174977585579",
-     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
      "date": "2026-10-08T20:11:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2108286605316276225/vid/avc1/3840x2160/U3C8UcEV-oFetWO5.mp4",
      "url": "https://x.com/ispace_inc/status/2108289174977585579"
     }
    ]
@@ -1459,17 +1460,8 @@
      "date": "2026-10-15T17:06:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
-     "video": null,
+     "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
-    },
-    {
-     "id": "2110344436643230019",
-     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
-     "date": "2026-10-14T12:18:16.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
-     "video": null,
-     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   },
