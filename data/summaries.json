@@ -1,7 +1,4 @@
 {
- "https://www.sciencealert.com/a-saline-injection-could-offer-longer-relief-from-carpal-tunnel-pain": {
-  "s": "Injection of saline around the nerve helps hands feel better longer than a steroid injection. This technique separates tissues, allowing the nerve to move freely, easing pressure and symptoms."
- },
  "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html": {
   "s": "Archaeologists found a place where ancient Nubians made a special type of glassy material called faience. This discovery helps explain how Kushite rulers in Nubia, like Taharqo, used crafts to show their power. It shows these rulers, similar to those in Egypt, used craft production to maintain control and prestige."
  },
@@ -115,9 +112,6 @@
  "https://www.livescience.com/animals/mollusks/can-cuttlefish-hypnotize-their-prey": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.sciencealert.com/earths-core-is-leaking-all-sorts-of-materials-that-have-been-trapped-since-our-planets-birth": {
-  "s": "Earth's core is leaking hydrogen and other materials that have been trapped since the planet's birth. This study investigates whether the core and mantle have exchanged chemicals over billions of years, or if the differences in the deep mantle are remnants of the planet's crystallization."
  },
  "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies": {
   "s": "A new study suggests that the flavor of neutrinos could determine whether a dying star explodes or collapses directly into a black hole. Neutrinos come in three flavors, and their behavior during a star's core collapse could influence the star's fate."
@@ -286,5 +280,11 @@
  },
  "https://simonwillison.net/2026/Oct/12/web-edit/": {
   "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
+ },
+ "https://www.sciencealert.com/new-form-of-superconductor-behavior-discovered-that-weve-never-seen-before": {
+  "s": "Scientists discovered a new form of superconductivity called pair density waves in uranium ditelluride. This is significant because it shows Cooper pairs forming before the full superconducting state, a phenomenon never observed before."
+ },
+ "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries": {
+  "s": "Harrell, who has ALS, regained his voice through a brain implant that translates his thoughts into speech. This technology could help others with similar conditions regain their ability to communicate."
  }
 }
