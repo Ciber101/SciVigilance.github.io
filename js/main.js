@@ -254,6 +254,12 @@ function rebuildTickerIfReady() {
   if (currentArticles && currentArticles.length) buildTicker(currentArticles);
 }
 
+/* ---------- X post media: playable video (no-referrer; video.twimg.com 403s with a Referer) ---------- */
+function xMedia(p) {
+  if (p.video) return `<video class="x-video" controls playsinline preload="none"${p.image ? ` poster="${safeUrl(p.image)}"` : ''} src="${safeUrl(p.video)}"></video>`;
+  return p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : '';
+}
+
 /* ---------- Latest from X (@SciVigil) ---------- */
 async function loadX() {
   const grid = document.getElementById('xGrid') || document.getElementById('allPostsGrid');
@@ -276,7 +282,7 @@ async function loadX() {
     el.innerHTML = `
       <div class="x-head"><img class="x-av" src="img/scivigil-avatar.jpg" alt="@SciVigil profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(data.name || 'SciVigil')}</b><span>@${escapeHtml(data.handle || 'SciVigil')}</span></span></div>
       <p class="text">${text}${p.truncated ? '…' : ''}</p>
-      ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
+      ${xMedia(p)}
       ${p.link ? `<a class="x-link" href="${safeUrl(p.link)}" target="_blank" rel="noopener">🔗 Source link</a>` : ''}
       <div class="foot">
         <span class="label">${escapeHtml(when)}</span>
@@ -297,7 +303,7 @@ function featuredCard({ acc, p }) {
   return `<article class="social-card x-card" id="${fid}" data-anchor="${fid}" data-acc="${escapeHtml(acc.handle)}">
     <div class="x-head"><img class="x-av" src="${safeUrl(acc.avatar)}" alt="@${escapeHtml(acc.handle)} profile picture" width="36" height="36"><span class="x-name"><b>${escapeHtml(acc.name)}</b><span>@${escapeHtml(acc.handle)}</span></span></div>
     <p class="text">${text}</p>
-    ${p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : ''}
+    ${xMedia(p)}
     ${p.quoted ? '<span class="x-link">Quoted a post · see it on X</span>' : ''}
     <div class="foot"><span class="label">${escapeHtml(when)}</span><a class="ext" href="${safeUrl(p.url)}" target="_blank" rel="noopener">View on X ↗</a></div>
   </article>`;

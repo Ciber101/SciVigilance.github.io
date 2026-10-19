@@ -14,6 +14,9 @@ FLUFF = r'(happy|birthday|festival|solar term|thank you|thanks to|congrat\w*|agr
 def clean(t):
     t = re.sub(r'\s*https://t\.co/\w+', '', t)
     return re.sub(r'\n{3,}', '\n\n', t).strip()
+def best_video(m):
+    v = [x for x in (m or {}).get('variants', []) if x.get('content_type') == 'video/mp4' and x.get('url')]
+    return max(v, key=lambda x: x.get('bit_rate') or 0)['url'] if v and m.get('type') in ('video', 'animated_gif') else None
 out = []
 for acc in raw['accounts']:
     r = acc['posts']; media = {m['media_key']: m for m in r.get('includes', {}).get('media', [])}
@@ -29,8 +32,9 @@ for acc in raw['accounts']:
         elif len(words) < 3 or re.search(PROMO, text.lower()) or re.search(FLUFF, text.lower()): continue
         if p['created_at'] < CUTOFF[:19]: continue
         imgs = [media[k].get('url') or media[k].get('preview_image_url') for k in p.get('attachments', {}).get('media_keys', []) if k in media]
+        vids = [best_video(media[k]) for k in p.get('attachments', {}).get('media_keys', []) if k in media]
         posts.append({'id': p['id'], 'text': text, 'date': p['created_at'], 'quoted': 'quoted' in refs,
-                      'image': next((i for i in imgs if i), None), 'url': f"https://x.com/{acc['username']}/status/{p['id']}"})
+                      'image': next((i for i in imgs if i), None), 'video': next((v for v in vids if v), None), 'url': f"https://x.com/{acc['username']}/status/{p['id']}"})
         if len(posts) >= 4: break
     if posts: out.append({'handle': acc['username'], 'name': acc['name'], 'avatar': acc['avatar'], 'posts': posts})
 json.dump({'accounts': out}, open(os.path.join(ROOT, 'data', 'xfeatured.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

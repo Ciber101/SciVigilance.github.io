@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-19T16:43:17Z",
+ "updated": "2026-10-19T17:27:12Z",
  "accounts": [
+  {
+   "handle": "adcock_brett",
+   "name": "Brett Adcock",
+   "avatar": "img/x-robots-adcock_brett.jpg",
+   "posts": [
+    {
+     "id": "2112227583643509174",
+     "text": "F.03 just crossed 9 straight days walking on this treadmill: 348 miles and 1.2 million steps\n\nStarted as a side project to stress the robot for any failures. Let's see how long it can go",
+     "date": "2026-10-19T17:01:13.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112227376558120960/img/uW8PI1t5J9sQ42dO.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112227376558120960/vid/avc1/1920x1080/a3w2jn5RS97XgAO8.mp4?tag=16",
+     "url": "https://x.com/adcock_brett/status/2112227583643509174"
+    }
+   ]
+  },
   {
    "handle": "Figure_robot",
    "name": "Figure",
@@ -12,6 +28,7 @@
      "date": "2026-09-30T15:19:46.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105310982994382848/img/qENCF-Ie4xhbp5iR.jpg",
+     "video": null,
      "url": "https://x.com/Figure_robot/status/2105316680251650555"
     },
     {
@@ -20,6 +37,7 @@
      "date": "2026-09-18T16:36:40.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2100984362192019456/img/dCYg6X_TltNigXEK.jpg",
+     "video": null,
      "url": "https://x.com/Figure_robot/status/2100987381373681785"
     },
     {
@@ -28,6 +46,7 @@
      "date": "2026-09-17T18:45:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2100653191511891968/img/6uzlRqKg6QU2AD3y.jpg",
+     "video": null,
      "url": "https://x.com/Figure_robot/status/2100657350952779925"
     }
    ]
@@ -43,6 +62,7 @@
      "date": "2026-10-15T15:31:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
+     "video": null,
      "url": "https://x.com/BostonDynamics/status/2110755540401827986"
     },
     {
@@ -51,6 +71,7 @@
      "date": "2026-10-08T16:26:01.000Z",
      "quoted": false,
      "image": null,
+     "video": null,
      "url": "https://x.com/BostonDynamics/status/2108232456784498990"
     },
     {
@@ -59,6 +80,7 @@
      "date": "2026-10-06T19:01:28.000Z",
      "quoted": false,
      "image": null,
+     "video": null,
      "url": "https://x.com/BostonDynamics/status/2107546800043258261"
     }
    ]
@@ -74,6 +96,7 @@
      "date": "2026-10-19T11:15:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU8RLlNboAAuych.jpg",
+     "video": null,
      "url": "https://x.com/agilityrobotics/status/2112140452531220643"
     },
     {
@@ -82,6 +105,7 @@
      "date": "2026-10-16T17:30:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUi3V7QboAElS17.jpg",
+     "video": null,
      "url": "https://x.com/agilityrobotics/status/2111147663034892737"
     },
     {
@@ -90,6 +114,7 @@
      "date": "2026-10-15T18:30:00.000Z",
      "quoted": false,
      "image": null,
+     "video": null,
      "url": "https://x.com/agilityrobotics/status/2110800374793699601"
     }
    ]
@@ -105,6 +130,7 @@
      "date": "2026-09-23T00:21:10.000Z",
      "quoted": false,
      "image": null,
+     "video": null,
      "url": "https://x.com/Apptronik/status/2102553825995633068"
     }
    ]
@@ -120,22 +146,25 @@
      "date": "2026-10-16T08:45:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111004199224049665/img/fUzxedBhxNnTCy_s.jpg",
+     "video": null,
      "url": "https://x.com/UnitreeRobotics/status/2111015545869107471"
     },
     {
      "id": "2101996861259395234",
-     "text": "Unitree Introducing: Unitree Dex5-S Dexterous Hand 22 Degrees of Freedom 1:1 Real-Hand Size👋\nPrecision biomimetic dexterous hand, price from $6.5K (Tax and Shipping cost excluded), with all 22 joints supporting smooth backdrivability, and each joint equipped with limit impact torque protection.",
+     "text": "Unitree Introducing: Unitree Dex5-S Dexterous Hand 22 Degrees of Freedom 1:1 Real-Hand Size👋\nPrecision biomimetic dexterous hand, price from $6.5K (Tax and Shipping cost excluded), with all 22 joints supporting smooth backdrivability, and each joint equipped with limit impact",
      "date": "2026-09-21T11:27:59.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2101992226356391936/img/XQqrWm-bot5IJmcw.jpg",
+     "video": null,
      "url": "https://x.com/UnitreeRobotics/status/2101996861259395234"
     },
     {
      "id": "2097973681620459887",
-     "text": "Unitree General-Purpose Humanoid Foundation Model Fully Upgrade Major Open Source🥳\nUnitree majorly fully open-sources the UnifoLM-WLA-1.0 embodied foundation model, achieving new SOTA results across multiple benchmarks among open-source models worldwide. A single model coordinates desktop and whole-body mobile manipulation, supporting cross-task and cross-end-effector generalization, driven by one model, whole-body coordination.",
+     "text": "Unitree General-Purpose Humanoid Foundation Model Fully Upgrade Major Open Source🥳\nUnitree majorly fully open-sources the UnifoLM-WLA-1.0 embodied foundation model, achieving new SOTA results across multiple benchmarks among open-source models worldwide. A single model",
      "date": "2026-09-10T09:01:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2097973502473322496/img/Dnsbj_j-ucxcSUBn.jpg",
+     "video": null,
      "url": "https://x.com/UnitreeRobotics/status/2097973681620459887"
     }
    ]
@@ -147,10 +176,11 @@
    "posts": [
     {
      "id": "2109977466236453342",
-     "text": "Proud to rank No. 11 globally and No. 1 among Chinese companies on the #FortuneFuture120 2026 list, which highlights 120 companies worldwide with strong future growth potential! 🏆 @FortuneMagazine  \n\nUBTECH is accelerating the commercialization of humanoid robots across industrial, commercial, and consumer applications this year.\n\nThe future of embodied AI is taking shape. 🤖\n\n#UBTECH #HumanoidRobots #EmbodiedAI",
+     "text": "Proud to rank No. 11 globally and No. 1 among Chinese companies on the #FortuneFuture120 2026 list, which highlights 120 companies worldwide with strong future growth potential! 🏆 @FortuneMagazine  \n\nUBTECH is accelerating the commercialization of humanoid robots across",
      "date": "2026-10-13T12:00:04.000Z",
      "quoted": true,
      "image": null,
+     "video": null,
      "url": "https://x.com/UBTECHRobotics/status/2109977466236453342"
     },
     {
@@ -159,14 +189,16 @@
      "date": "2026-10-12T12:00:38.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2109614461111734272/img/QPKxNg9p2ePxTNCO.jpg",
+     "video": null,
      "url": "https://x.com/UBTECHRobotics/status/2109615224097501600"
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
+     "video": null,
      "url": "https://x.com/UBTECHRobotics/status/2107452595883446304"
     }
    ]
@@ -182,6 +214,7 @@
      "date": "2026-10-16T09:46:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvHtgoaEAAkS8d.jpg",
+     "video": null,
      "url": "https://x.com/AGIBOTofficial/status/2111030893058076711"
     },
     {
@@ -190,6 +223,7 @@
      "date": "2026-10-16T07:27:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvDKYzaIAAQ8Z6.jpg",
+     "video": null,
      "url": "https://x.com/AGIBOTofficial/status/2110995951439769843"
     },
     {
@@ -198,6 +232,7 @@
      "date": "2026-10-08T02:43:38.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUE1hHobkAA9YoI.jpg",
+     "video": null,
      "url": "https://x.com/AGIBOTofficial/status/2108025499650031791"
     }
    ]
@@ -209,10 +244,11 @@
    "posts": [
     {
      "id": "2110091538604978573",
-     "text": "XPENG Friends from around the world gathered for XPENG Paris Night! ✨\nAgainst the dazzling backdrop of Place Vendôme, the XPENG G9L, IRON humanoid robot and flying car took center stage.\nWith the G9L making its Paris debut and NGP now open for public experience, we invite the world to discover the possibilities of Physical AI.\nThe future of mobility starts here.\n$XPEV",
+     "text": "XPENG Friends from around the world gathered for XPENG Paris Night! ✨\nAgainst the dazzling backdrop of Place Vendôme, the XPENG G9L, IRON humanoid robot and flying car took center stage.\nWith the G9L making its Paris debut and NGP now open for public experience, we invite the",
      "date": "2026-10-13T19:33:21.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110090791603376128/img/6iEQpqxo4vwvjGET.jpg",
+     "video": null,
      "url": "https://x.com/XPENG_Global/status/2110091538604978573"
     }
    ]
@@ -228,6 +264,7 @@
      "date": "2026-10-16T18:43:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUxeVNDWIAAShZx.jpg",
+     "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2111166068949479480"
     },
     {
@@ -236,6 +273,7 @@
      "date": "2026-10-14T18:00:20.000Z",
      "quoted": false,
      "image": null,
+     "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2110430520861684022"
     },
     {
@@ -244,6 +282,7 @@
      "date": "2026-10-14T17:59:44.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUnBPA5W4AA4d6l.jpg",
+     "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2110430369740632103"
     }
    ]

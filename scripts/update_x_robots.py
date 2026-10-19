@@ -14,6 +14,9 @@ CUTOFF = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days
 def clean(t):
     t = re.sub(r'\s*https://t\.co/\w+', '', t)
     return re.sub(r'\n{3,}', '\n\n', t).strip()
+def best_video(m):
+    v = [x for x in (m or {}).get('variants', []) if x.get('content_type') == 'video/mp4' and x.get('url')]
+    return max(v, key=lambda x: x.get('bit_rate') or 0)['url'] if v and m.get('type') in ('video', 'animated_gif') else None
 out = []
 for acc in raw['accounts']:
     r = acc['posts']; media = {m['media_key']: m for m in r.get('includes', {}).get('media', [])}
@@ -23,11 +26,12 @@ for acc in raw['accounts']:
         if p['text'].startswith('@') or refs & {'replied_to', 'retweeted'} or p['created_at'] < CUTOFF: continue
         text = clean((p.get('note_tweet') or {}).get('text') or p['text']); low = text.lower()
         if len(re.findall(r"[A-Za-z0-9'’]+", text)) < 3 or re.search(BLOCK, low) or re.search(PROMO, low) or re.search(FLUFF, low): continue
-        if acc['username'].lower() in STRICT and not re.search(r'\b(robot\w*|humanoid\w*|optimus|iron|figure ?0?\d|helix|embodied)\b', low): continue
+        if acc['username'].lower() in STRICT and not re.search(r'\b(robot\w*|humanoid\w*|optimus|iron|figure ?0?\d|f\.0\d|helix|embodied)\b', low): continue
         if acc['username'].lower() == 'elonmusk' and not re.search(r'\b(optimus|robot\w*|humanoid\w*)\b', low): continue
         imgs = [media[k].get('url') or media[k].get('preview_image_url') for k in p.get('attachments', {}).get('media_keys', []) if k in media]
+        vids = [best_video(media[k]) for k in p.get('attachments', {}).get('media_keys', []) if k in media]
         posts.append({'id': p['id'], 'text': text, 'date': p['created_at'], 'quoted': 'quoted' in refs,
-                      'image': next((i for i in imgs if i), None), 'url': f"https://x.com/{acc['username']}/status/{p['id']}"})
+                      'image': next((i for i in imgs if i), None), 'video': next((v for v in vids if v), None), 'url': f"https://x.com/{acc['username']}/status/{p['id']}"})
         if len(posts) >= 3: break
     if posts: out.append({'handle': acc['username'], 'name': acc['name'], 'avatar': acc['avatar'], 'posts': posts})
 json.dump({'updated': raw.get('fetched'), 'accounts': out}, open(os.path.join(ROOT, 'data', 'xposts_robots.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)

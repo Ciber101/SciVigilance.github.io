@@ -7,6 +7,9 @@ import json, os, re
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 raw = json.load(open(os.path.join(ROOT, 'data', 'x_raw.json'), encoding='utf-8'))
 media = {m['media_key']: m for m in raw.get('includes', {}).get('media', [])}
+def best_video(m):
+    v = [x for x in (m or {}).get('variants', []) if x.get('content_type') == 'video/mp4' and x.get('url')]
+    return max(v, key=lambda x: x.get('bit_rate') or 0)['url'] if v and m.get('type') in ('video', 'animated_gif') else None
 out = []
 for p in raw.get('data', []):
     refs = {r['type'] for r in p.get('referenced_tweets', [])}
@@ -17,9 +20,10 @@ for p in raw.get('data', []):
     text = re.sub(r'\s*https://t\.co/\w+', '', text)
     text = re.sub(r'[ \t]+\n', '\n', re.sub(r'\n{3,}', '\n\n', text)).strip()
     imgs = [media[k].get('url') or media[k].get('preview_image_url') for k in p.get('attachments', {}).get('media_keys', []) if k in media]
+    vids = [best_video(media[k]) for k in p.get('attachments', {}).get('media_keys', []) if k in media]
     out.append({'id': p['id'], 'text': text, 'date': p['created_at'], 'quoted': 'quoted' in refs,
                 'link': next((urls.get(l) or l for l in links if 'x.com' not in (urls.get(l) or '')), None),
-                'image': next((i for i in imgs if i), None),
+                'image': next((i for i in imgs if i), None), 'video': next((v for v in vids if v), None),
                 'truncated': not re.search(r'[.!?)"\u2019\u201d]$|#\w+$', text),
                 'url': 'https://x.com/SciVigil/status/' + p['id']})
 json.dump({'handle': 'SciVigil', 'name': 'Science in 280', 'posts': out[:50]},
