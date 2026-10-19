@@ -15,6 +15,20 @@
    "rank": 0
   },
   {
+   "id": "rb-daimon-robotics-building-the-infrastructure-layer-for-ta",
+   "title": "Daimon Robotics building the infrastructure layer for tactile intelligence",
+   "summary": "The company is connecting tactile sensing, real-world data collection, simulation, and AI models to help robots perform physical tasks more reliably.",
+   "url": "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/daimon-robotics-1.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T17:07:52+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-kodama-raises-7m-to-bring-robotics-to-forestry",
    "title": "Kodama raises $7M to bring robotics to forestry",
    "summary": "Kodama is working on automating forestry and logging equipment, starting with teleoperation and collecting valuable data on the way.",
@@ -124,20 +138,6 @@
    ],
    "date": "2026-10-16",
    "ts": "2026-10-16T23:03:00+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-massrobotics-opens-applications-for-healthcare-robotics",
-   "title": "MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program",
-   "summary": "The cohort will run February through June 2027, concluding with company showcases at the Robotics Summit and Expo in Boston.",
-   "url": "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/",
-   "source": "The Robot Report",
-   "image": "https://www.therobotreport.com/wp-content/uploads/2025/09/massroboticshealthcarecatalyst-featured.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T17:57:12+00:00",
    "rank": 1
   },
   {
@@ -422,34 +422,34 @@
   }
  ],
  "date": "2026-10-19",
- "updated": "2026-10-19T16:48+00:00",
+ "updated": "2026-10-19T17:28+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
-   "id": "the-world-s-fastest-ai-powered-racing-drone-outflies-the-bes",
-   "title": "The world's fastest AI-powered racing drone outflies the best human drone pilots",
-   "summary": "An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.",
-   "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-1920-80.jpg",
+   "id": "euclid-discovers-its-first-new-comet-810-million-miles-from",
+   "title": "Euclid discovers its first new comet 810 million miles from Earth",
+   "summary": "The European Space Agency's Euclid space telescope has discovered its first previously unknown comet in images taken between Sept. 16 and 24, 2026.",
+   "url": "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/euclid-discovers-new-c.jpg",
    "tags": [
-    "Tech"
+    "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T16:40:15+00:00"
+   "ts": "2026-10-19T17:20:01+00:00"
   },
   {
-   "id": "ai-reads-centuries-old-handwriting-to-reveal-britain-s-vast",
-   "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
-   "summary": "Historians have created a first-of-its-kind online interactive map, using data from hundreds of thousands of pages of centuries-old port records to chart Britain's growth into a dominant global trading nation.",
-   "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+   "id": "new-observations-show-how-black-holes-stir-up-material-surro",
+   "title": "New Observations Show How Black Holes Stir Up Material Surrounding A Galaxy",
+   "summary": "Supermassive black holes power tremendous jets that extend far beyond their galaxy. A new study finds how they can also warm material at the outer edge of a galaxy and reduce the rate of star production over time.",
+   "url": "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/radiojets_20261019_170846.jpg",
    "tags": [
-    "Tech"
+    "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T16:40:08+00:00"
+   "ts": "2026-10-19T17:10:49+00:00"
   },
   {
    "id": "ai-minimax-just-launched-m3-1-flash-428b-moe-agentic-model",
@@ -466,10 +466,23 @@
    "rank": 0
   },
   {
+   "id": "world-s-fastest-ai-powered-racing-drone-outflies-the-best-hu",
+   "title": "World's fastest AI-powered racing drone outflies the best human pilots",
+   "summary": "An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.",
+   "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-1920-80.jpg",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T16:40:15+00:00"
+  },
+  {
    "id": "instrumentation",
    "title": "Instrumentation",
    "summary": "To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or…",
-   "url": "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/",
+   "url": "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/",
    "source": "NASA",
    "image": "https://www.nasa.gov/wp-content/uploads/2026/10/rotatingmicrophonerake.jpg?w=330",
    "tags": [
@@ -505,19 +518,6 @@
    "ts": "2026-10-19T15:06:38+00:00"
   },
   {
-   "id": "these-tiny-snakes-cartwheel-to-escape-danger",
-   "title": "These tiny snakes cartwheel to escape danger",
-   "summary": "New videos offer a closer look at a rare and bizarre escape behavior in some Southeast Asian snakes.",
-   "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101526_MT_cartwheelingsnake_main.jpg?w=800",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:00:00+00:00"
-  },
-  {
    "id": "ai-mistral-ai-releases-timestral-a-209m-forecasting-model-f",
    "title": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s TimesFM-3",
    "summary": "Mistral released Timestral, a time series foundation model family from 5M to 209M parameters. The 209M model leads GIFT-Eval, TIME and fev-bench among zero-shot models and runs on CPU.",
@@ -530,6 +530,19 @@
    "date": "2026-10-19",
    "ts": "2026-10-19T01:18:17+00:00",
    "rank": 0
+  },
+  {
+   "id": "these-tiny-snakes-cartwheel-to-escape-danger",
+   "title": "These tiny snakes cartwheel to escape danger",
+   "summary": "New videos offer a closer look at a rare and bizarre escape behavior in some Southeast Asian snakes.",
+   "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101526_MT_cartwheelingsnake_main.jpg?w=800",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T15:00:00+00:00"
   },
   {
    "id": "adhd-drugs-may-reduce-the-risk-of-early-death-major-study-fi",
@@ -571,19 +584,6 @@
    "ts": "2026-10-19T12:35:17+00:00"
   },
   {
-   "id": "euclid-discovers-new-comet",
-   "title": "Euclid discovers new comet",
-   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:00:00+00:00"
-  },
-  {
    "id": "ai-investing-in-the-public-benefit",
    "title": "Investing in the public benefit",
    "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
@@ -611,30 +611,43 @@
    "ts": "2026-10-18T04:00:00+00:00"
   },
   {
-   "id": "new-research-reveals-how-long-stays-in-space-affects-the-hum",
-   "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
-   "summary": "A new study in Science Advances addresses the pressing questions about how long-duration exposure to microgravity affects the human genome.",
-   "url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Low-Res_CellsMicrogravity_20261017_225916.jpg",
+   "id": "mars-moon-lander-set-to-launch-on-19-october",
+   "title": "Mars moon lander set to launch on 19 October",
+   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026).",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-17",
-   "ts": "2026-10-17T23:11:28+00:00"
+   "date": "2026-10-13",
+   "ts": "2026-10-13T12:00:00+00:00"
   },
   {
-   "id": "giving-ai-a-crystal-clear-view-of-the-materials-world-by-map",
-   "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
-   "summary": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the…",
-   "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/giving-ai-a-crystal-cl.jpg",
+   "id": "achievement-unlocked-microblazar-confirmed",
+   "title": "Achievement Unlocked: Microblazar Confirmed",
+   "summary": "Researchers have confirmed the existence of the first microblazar. Unlike blazars, which are extragalctic and powered by supermassive black holes, microblazars are inside the Milky Way, and are powered by stellar mass…",
+   "url": "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/sn-blackholeh_0_20261016_204653.jpg",
    "tags": [
-    "Tech"
+    "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T16:20:01+00:00"
+   "ts": "2026-10-19T17:09:50+00:00"
+  },
+  {
+   "id": "oldest-animals-on-earth-found-to-share-a-common-wormlike-anc",
+   "title": "Oldest animals on Earth found to share a common wormlike ancestor",
+   "summary": "New research from the University of St Andrews has shed light on the evolution of an important yet thus far poorly understood group of marine invertebrate animals—brachiopods.",
+   "url": "https://phys.org/news/2026-10-oldest-animals-earth-common-wormlike.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/oldest-animals-on-eart.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T17:00:07+00:00"
   },
   {
    "id": "martian-dawn",
@@ -651,7 +664,7 @@
   },
   {
    "id": "cute-demo-but-totally-impractical-experts-are-skeptical-tha",
-   "title": "'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'rocket' Roadster could actually work in the real world",
+   "title": "'Cute demo, but totally impractical': Experts are skeptical that Tesla's 'Rocket' Roadster could actually work in the real world",
    "summary": "Tesla has unveiled a new version of its Roadster EV that can briefly take to the air using SpaceX tech. Whether it actually qualifies as a flying car is another matter.",
    "url": "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world",
    "source": "Live Science",
@@ -715,19 +728,6 @@
    "ts": "2026-10-19T12:35:06+00:00"
   },
   {
-   "id": "enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a",
-   "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
-   "summary": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
-   "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Mercury_Mariner_20250624_121012.jpeg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-17",
-   "ts": "2026-10-17T07:47:00+00:00"
-  },
-  {
    "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
    "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
    "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
@@ -754,30 +754,17 @@
    "ts": "2026-10-15T21:00:00+00:00"
   },
   {
-   "id": "mars-moon-lander-set-to-launch-on-19-october",
-   "title": "Mars moon lander set to launch on 19 October",
-   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026).",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-13",
-   "ts": "2026-10-13T12:00:00+00:00"
-  },
-  {
-   "id": "24-7-unmanned-synthesis-platform-uses-robots-and-light-to-p",
-   "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
-   "summary": "Even when AI designs molecules with potential as medicines, drug development can be delayed if the process of producing them is slow.",
-   "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+   "id": "ai-reads-centuries-old-handwriting-to-reveal-britain-s-vast",
+   "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
+   "summary": "Historians have created a first-of-its-kind online interactive map, using data from hundreds of thousands of pages of centuries-old port records to chart Britain's growth into a dominant global trading nation.",
+   "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
    "tags": [
-    "Health"
+    "Tech"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T16:00:12+00:00"
+   "ts": "2026-10-19T16:40:08+00:00"
   },
   {
    "id": "something-strange-is-happening-beneath-a-volcano-near-2-mill",
@@ -808,7 +795,7 @@
   {
    "id": "romans-may-have-set-fire-to-celtic-town-during-conquest-to-h",
    "title": "Romans may have set fire to Celtic town during conquest to 'humiliate' the enemy, archaeologists find",
-   "summary": "Archaeologists discovered a first century B.C. military camp that was erected during Emperor Augustus's Cantabrian Wars.",
+   "summary": "Archaeologists discovered a first-century-B.C. military camp that was erected during Emperor Augustus' Cantabrian Wars.",
    "url": "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find",
    "source": "Live Science",
    "image": "https://cdn.mos.cms.futurecdn.net/2yqAo8qqQ6c4YGYAW98zsg-1920-80.png",
@@ -845,17 +832,17 @@
    "ts": "2026-10-19T04:05:00+00:00"
   },
   {
-   "id": "in-the-search-for-exoplanets-some-failures-are-a-success",
-   "title": "In the Search for Exoplanets, Some Failures Are A Success",
-   "summary": "Astronomers used decades of archival data and new radial velocity measurements to search for exoplanets around a neaby binary star, 70 Oph AB. They didn't find any, which can seem like a failure.",
-   "url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+   "id": "new-research-reveals-how-long-stays-in-space-affects-the-hum",
+   "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
+   "summary": "A new study in Science Advances addresses the pressing questions about how long-duration exposure to microgravity affects the human genome.",
+   "url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/suns-set-on-hunt-for-giant-planets-in-nearby-binary-system-70_oph_ab_painted_stars_20261016_161708.jpg",
+   "image": "https://www.universetoday.com/article_images/Low-Res_CellsMicrogravity_20261017_225916.jpg",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T19:30:07+00:00"
+   "date": "2026-10-17",
+   "ts": "2026-10-17T23:11:28+00:00"
   },
   {
    "id": "horned-dinosaurs-weapons-evolved-to-handle-the-forces-of-com",
@@ -897,17 +884,17 @@
    "ts": "2026-10-15T13:40:13+00:00"
   },
   {
-   "id": "x-rays-reveal-surprisingly-long-lived-spin-waves-in-copper-o",
-   "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
-   "summary": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely.",
-   "url": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
+   "id": "giving-ai-a-crystal-clear-view-of-the-materials-world-by-map",
+   "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
+   "summary": "In principle, artificial intelligence could make finding the right material for an application as simple as ordering dinner: Scientists would tell a large language model what they want, and it would serve them the…",
+   "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/x-rays-show-how-quasip.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/giving-ai-a-crystal-cl.jpg",
    "tags": [
-    "Physics"
+    "Tech"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T15:40:06+00:00"
+   "ts": "2026-10-19T16:20:01+00:00"
   },
   {
    "id": "just-3-000-steps-a-day-may-help-slow-alzheimer-s-scientists",
@@ -962,17 +949,17 @@
    "ts": "2026-10-19T04:01:00+00:00"
   },
   {
-   "id": "the-flavor-of-neutrinos-could-determine-how-a-large-star-die",
-   "title": "The Flavor of Neutrinos Could Determine How a Large Star Dies",
-   "summary": "Neutrinos come in three different flavors. A new study finds that neutrino flavor could play a significant role in whether a dying star becomes a supernova or collapses directly into a black hole.",
-   "url": "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies",
+   "id": "enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a",
+   "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+   "summary": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
+   "url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/collapse_20261016_155900.jpg",
+   "image": "https://www.universetoday.com/article_images/Mercury_Mariner_20250624_121012.jpeg",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T16:00:15+00:00"
+   "date": "2026-10-17",
+   "ts": "2026-10-17T07:47:00+00:00"
   },
   {
    "id": "artemis-ii-results-show-how-much-science-people-can-do-at-th",
@@ -1027,17 +1014,17 @@
    "ts": "2026-10-14T14:04:05+00:00"
   },
   {
-   "id": "how-plants-unwittingly-help-fungal-pathogens",
-   "title": "How plants unwittingly help fungal pathogens",
-   "summary": "Infecting a maize plant is no simple task for a fungal pathogen such as Ustilago maydis. A group of researchers led by Heinrich Heine University Düsseldorf (HHU) has now uncovered how the fungus detects that it has…",
-   "url": "https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html",
+   "id": "24-7-unmanned-synthesis-platform-uses-robots-and-light-to-p",
+   "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
+   "summary": "Even when AI designs molecules with potential as medicines, drug development can be delayed if the process of producing them is slow.",
+   "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-plants-unwittingly.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
    "tags": [
-    "Biology"
+    "Health"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T15:20:10+00:00"
+   "ts": "2026-10-19T16:00:12+00:00"
   },
   {
    "id": "scientists-win-2026-nobel-prize-for-controlling-brain-cells",
@@ -1092,17 +1079,17 @@
    "ts": "2026-10-16T20:14:39+00:00"
   },
   {
-   "id": "a-radio-phoenix-beyond-the-zone-of-avoidance",
-   "title": "A Radio Phoenix Beyond the Zone of Avoidance",
-   "summary": "Years ago, astronomers spotted a strange radio formation beyond the Zone of Avoidance. The formation resembles a treble clef, a symbol in musical notation, and the nickname has stuck.",
-   "url": "https://www.universetoday.com/articles/a-radio-phoenix-beyond-the-zone-of-avoidance",
+   "id": "in-the-search-for-exoplanets-some-failures-are-a-success",
+   "title": "In the Search for Exoplanets, Some Failures Are A Success",
+   "summary": "Astronomers used decades of archival data and new radial velocity measurements to search for exoplanets around a neaby binary star, 70 Oph AB. They didn't find any, which can seem like a failure.",
+   "url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/trebleclef_20261015_202730.jpg",
+   "image": "https://www.universetoday.com/article_images/suns-set-on-hunt-for-giant-planets-in-nearby-binary-system-70_oph_ab_painted_stars_20261016_161708.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-16",
-   "ts": "2026-10-16T15:14:53+00:00"
+   "ts": "2026-10-16T19:30:07+00:00"
   },
   {
    "id": "crossword-time-lines",
@@ -1157,17 +1144,17 @@
    "ts": "2026-10-12T14:20:30+00:00"
   },
   {
-   "id": "frozen-in-action-visualizing-how-a-cancer-drug-scaffold-is-b",
-   "title": "Frozen in action: Visualizing how a cancer drug scaffold is built",
-   "summary": "A joint research group led by Ryo Tanifuji and Hiroki Oguri from the University of Tokyo and Yoshikazu Tanaka from Tohoku University has visualized SacC, an enzyme that plays a key role in building the complex five-ring…",
-   "url": "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html",
+   "id": "x-rays-reveal-surprisingly-long-lived-spin-waves-in-copper-o",
+   "title": "X-rays reveal surprisingly long-lived spin waves in copper oxide",
+   "summary": "Today's computer technology, based on silicon chips, is slowly reaching its physical limits. Components cannot be miniaturized indefinitely, and clock speeds cannot be increased indefinitely.",
+   "url": "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/frozen-in-action-visua.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/x-rays-show-how-quasip.jpg",
    "tags": [
-    "Health"
+    "Physics"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T15:00:12+00:00"
+   "ts": "2026-10-19T15:40:06+00:00"
   },
   {
    "id": "mind-blowing-alzheimer-s-breakthrough-two-hours-of-sleep-re",
@@ -1222,17 +1209,17 @@
    "ts": "2026-10-16T16:28:01+00:00"
   },
   {
-   "id": "a-distant-supercluster-of-galaxies-points-to-self-interactin",
-   "title": "A Distant Supercluster of Galaxies Points To Self-Interacting Dark Matter",
-   "summary": "The El Gordo supercluster is unusually large given its distance. How could such a large galaxy cluster form so quickly? The answer could be that dark matter is self-interacting in an interesting two-state way.",
-   "url": "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter",
+   "id": "the-flavor-of-neutrinos-could-determine-how-a-large-star-die",
+   "title": "The Flavor of Neutrinos Could Determine How a Large Star Dies",
+   "summary": "Neutrinos come in three different flavors. A new study finds that neutrino flavor could play a significant role in whether a dying star becomes a supernova or collapses directly into a black hole.",
+   "url": "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/elgordo_20261016_142059.jpg",
+   "image": "https://www.universetoday.com/article_images/collapse_20261016_155900.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-16",
-   "ts": "2026-10-16T14:21:42+00:00"
+   "ts": "2026-10-16T16:00:15+00:00"
   },
   {
    "id": "many-american-diets-may-not-include-enough-of-this-essential",
@@ -1246,6 +1233,19 @@
    ],
    "date": "2026-10-15",
    "ts": "2026-10-15T17:00:00+00:00"
+  },
+  {
+   "id": "q-a-the-collision-between-ai-your-brain-and-society",
+   "title": "Q&A: The “collision” between AI, your brain, and society",
+   "summary": "In a new book, Professor Eric So explores how the technology affects our thinking skills.",
+   "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-3Q-Collision-01-press_1.jpg?itok=BLOydoCM",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-15",
+   "ts": "2026-10-15T04:00:00+00:00"
   }
  ],
  "ai": [

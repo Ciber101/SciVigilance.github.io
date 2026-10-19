@@ -73,17 +73,11 @@
  "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/": {
   "s": "A young intern developed a mechanism enabling AI to process language at scale. This mechanism, called attention, is key because it allows AI to focus on parts of sentences relevant to translation, improving performance on longer sentences."
  },
- "https://www.universetoday.com/articles/a-radio-phoenix-beyond-the-zone-of-avoidance": {
-  "s": "Astronomers found a strange radio formation beyond the Zone of Avoidance, resembling a musical symbol. This discovery helps understand what's behind the Milky Way, where optical light is blocked. Research using X-ray and radio telescopes reveals the formation is a super-heated gas cluster, shedding light on its history and properties."
- },
  "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015": {
   "s": "Governments and companies team up to offer online services. A study finds these partnerships can influence how much people trust their government. Lack of trust can lead to non-compliance with rules and harder problem-solving for governments."
  },
  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
   "s": "DeepSeek released a new version of its model, DeepSeek-V4.1-Flash-1017, accessible on Hugging Face. This update enhances the model's performance in various tasks, improving reasoning, coding, and visual tasks. It also speeds up task execution and reduces costs."
- },
- "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter": {
-  "s": "A distant supercluster of galaxies, nicknamed El Gordo, is unusually large for its distance. This poses a puzzle since dark matter is the main component of the universe but doesn't interact strongly with light or regular matter. A new study suggests dark matter might interact with itself in a specific way, explaining how this supercluster formed early in the universe's history."
  },
  "https://huggingface.co/blog/reflection-beam": {
   "s": "Beam is a new open-source AI model that can be customized and scaled by teams. It matters because it offers a frontier-scale model that can be used on personal hardware, and it supports long context reasoning, useful for complex tasks."
@@ -212,9 +206,6 @@
  "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839": {
   "s": "Farmers have selectively bred animals for traits they find useful, such as tameness or increased egg production. This process, called domestication, has shaped farm animals over generations. As a result, farm animals have evolved to benefit humans rather than protect themselves against them."
  },
- "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet": {
-  "s": "Euclid, a space telescope, has found its first comet, a rare discovery for a mission focused on distant galaxies. The swift identification and confirmation of the comet highlight Euclid's potential to discover new Solar System objects, aiding future missions."
- },
  "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find": {
   "s": "",
   "why": "too little source text"
@@ -254,9 +245,6 @@
  "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/": {
   "s": "MiniMax has launched M3.1 Flash, a 428B-parameter model with 23B active parameters and a 1M-token context. Pricing is $0.15 per 1M tokens, with weights due October 23. The model supports text, image, and video input and returns text. Reasoning is always on and cannot be disabled."
  },
- "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/": {
-  "s": "To measure airflow and sound, NASA Glenn Research Center uses specialized instruments such as microphones in phased arrays and rotating microphones. This data helps validate noise prediction software and develop quieter engines."
- },
  "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
   "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
  },
@@ -286,13 +274,6 @@
  "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html": {
   "s": "Scientists at PSI used X-rays to examine copper oxide, revealing rapid spin flips within it. This discovery could lead to more efficient computer chips by manipulating electron spins instead of moving electrons, potentially reducing power consumption and waste heat."
  },
- "https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html": {
-  "s": "A joint research group visualized SacC, an enzyme crucial for building the five-ring core of safracin B and trabectedin, a drug for treating soft tissue sarcoma. This achievement, along with the method used, could lead to new approaches in optimizing and creating new compounds."
- },
  "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/": {
   "s": "The rise of humanoid robots with AI is underway, as engineers and companies develop robots that look and act like humans. These robots are being used in factories to perform human work, alongside or even replacing human workers. This shift matters as it highlights the rapid progress in AI, which is making machines more capable of complex tasks previously thought impossible for robots."
  },
@@ -319,10 +300,6 @@
  },
  "https://newatlas.com/robotics/tiny-snapping-robot/": {
   "s": "The researchers created a robot that moves using flexible rods that snap between shapes, powered by small motors. This design allows the robot to jump over obstacles, but the motors can't produce the quick bursts needed for a jump. The team solved this by mapping how elastic rods respond to different shapes and loading, and then designed limbs that snap sharply."
- },
- "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://spectrum.ieee.org/video-friday-reconfigurable-robots": {
   "s": "When two robots fall in love and are connected by a wire, they can merge into a new, more capable robot. This concept is intriguing as it explores the potential for robotics to combine strengths, but it also raises questions about the value and novelty of such creations."
@@ -383,5 +360,28 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch, a robotic arm designed to move boxes in warehouses. She simulates years of wear and tear on robot parts in just weeks by running testers at higher speeds and with greater force than a robot would experience in real-world use. This accelerates the discovery of potential issues, helping to ensure the robot works reliably in warehouse environments."
+ },
+ "https://phys.org/news/2026-10-euclid-comet-million-miles-earth.html": {
+  "s": "The Euclid space telescope, designed to observe distant galaxies, unexpectedly discovered its first comet 810 million miles from Earth. This discovery highlights Euclid's capability to detect new comets at great distances, potentially aiding future missions to study these solar system objects."
+ },
+ "https://www.universetoday.com/articles/new-observations-show-how-black-holes-stir-up-material-surrounding-a-galaxy": {
+  "s": "New observations show how black holes can stir up material at the outer edge of a galaxy, warming it and reducing star production. This matters because it explains how supermassive black holes, despite being small, can have a large impact on galactic evolution by heating the circumgalactic medium, a region previously thought to be unaffected."
+ },
+ "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/": {
+  "s": "To measure airflow and sound, NASA Glenn Research Center uses specialized instruments such as microphones in phased arrays and rotating microphones. This data helps validate noise prediction software and develop quieter engines."
+ },
+ "https://www.universetoday.com/articles/achievement-unlocked-microblazar-confirmed": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-oldest-animals-earth-common-wormlike.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015": {
+  "s": "As artificial intelligence becomes more integrated into daily life, researchers like Professor Eric So are examining how it impacts thinking skills. So's book suggests that heavy reliance on AI can lead to a decline in essential thinking abilities, as people rely less on their own cognitive processes."
+ },
+ "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/": {
+  "s": "Daimon Robotics is building an infrastructure to help robots understand physical interactions better, connecting tactile sensing, data collection, simulation, and AI models. This matters because robots need more than just vision to handle objects, and current systems often miss critical information about forces and contact. By providing this infrastructure, Daimon aims to make robots more reliable in tasks like manipulating delicate items."
  }
 }
