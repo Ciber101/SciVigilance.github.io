@@ -1,6 +1,23 @@
 {
  "data": [
   {
+   "created_at": "2026-10-19T10:00:57.000Z",
+   "edit_history_tweet_ids": [
+    "2112121820505850041"
+   ],
+   "id": "2112121820505850041",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Drosophila macrophages adapt nuclear mechanics to intracellular forces, enhancing phagocytic capacity in vivo.\n\nhttps://t.co/oZL0sj6WPM\n\n#CellMechanics #Phagocytosis",
+   "url": "https://x.com/i/status/2112121820505850041"
+  },
+  {
    "created_at": "2026-10-19T07:01:12.000Z",
    "edit_history_tweet_ids": [
     "2112076583112749304"
@@ -8,7 +25,7 @@
    "id": "2112076583112749304",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 6,
+    "impression_count": 9,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -80,7 +97,7 @@
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1408
+    "retweet_count": 1498
    },
    "referenced_tweets": [
     {
@@ -133,7 +150,7 @@
    "id": "2111804774530310584",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 23,
+    "impression_count": 24,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -896,23 +913,6 @@
    ],
    "text": "@NASADepAdmin Put them all over the country. It's very important.",
    "url": "https://x.com/i/status/2110426564647367041"
-  },
-  {
-   "created_at": "2026-10-14T10:01:32.000Z",
-   "edit_history_tweet_ids": [
-    "2110310023993946569"
-   ],
-   "id": "2110310023993946569",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 15,
-    "like_count": 1,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "Ultrashort laser pulses reveal electrons' quantum geometry in 2D semiconductors, measuring Berry curvature in tungsten diselenide—published in Nature Photonics.\n\nhttps://t.co/HmyBUe2bcr\n\n#QuantumPhysics #Photonics",
-   "url": "https://x.com/i/status/2110310023993946569"
   }
  ],
  "includes": {
@@ -925,12 +925,12 @@
     "id": "2111914396490604547",
     "in_reply_to_user_id": "1353836358901501952",
     "public_metrics": {
-     "bookmark_count": 998,
-     "impression_count": 1608763,
-     "like_count": 32060,
-     "quote_count": 253,
-     "reply_count": 1211,
-     "retweet_count": 1408
+     "bookmark_count": 1073,
+     "impression_count": 1718914,
+     "like_count": 34142,
+     "quote_count": 271,
+     "reply_count": 1241,
+     "retweet_count": 1498
     },
     "referenced_tweets": [
      {
@@ -948,8 +948,8 @@
     "id": "2110920095707123737",
     "public_metrics": {
      "bookmark_count": 63,
-     "impression_count": 15127,
-     "like_count": 706,
+     "impression_count": 15131,
+     "like_count": 705,
      "quote_count": 2,
      "reply_count": 27,
      "retweet_count": 85
@@ -963,19 +963,14 @@
     "text": "We're building a legit engineering team in the government. 🇺🇸💪\n\nDM me if want to take on some of the biggest problems in the world. \n\nHuge thanks to @USTechForce for making it happen. https://t.co/lpdkqMUtNX"
    },
    {
-    "attachments": {
-     "media_keys": [
-      "13_2111220246426312704"
-     ]
-    },
     "created_at": "2026-10-16T22:32:36.000Z",
     "edit_history_tweet_ids": [
      "2111223813447020815"
     ],
     "id": "2111223813447020815",
     "public_metrics": {
-     "bookmark_count": 423,
-     "impression_count": 1037987,
+     "bookmark_count": 422,
+     "impression_count": 1038421,
      "like_count": 857,
      "quote_count": 207,
      "reply_count": 400,
@@ -1120,8 +1115,8 @@
   ]
  },
  "meta": {
-  "newest_id": "2112076583112749304",
-  "oldest_id": "2110310023993946569",
+  "newest_id": "2112121820505850041",
+  "oldest_id": "2110426564647367041",
   "result_count": 50
  }
 }
