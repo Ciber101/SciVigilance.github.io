@@ -331,11 +331,20 @@ async function loadFeatured() {
   const chips = document.getElementById('chips');
   if (chips) {
     chips.hidden = false;
-    chips.innerHTML = '<button type="button" class="chip on" data-acc="">All</button>' + (d.accounts || []).map(a => `<button type="button" class="chip" data-acc="${escapeHtml(a.handle)}">${escapeHtml(a.name)}</button>`).join('');
+    const GROUPS = [['ai', 'AI'], ['robots', 'Robots'], ['space', 'Space']];
+    const accs = d.accounts || [];
+    const grpOf = {}; accs.forEach(a => { grpOf[a.handle] = a.group || 'space'; });
+    const chip = a => `<button type="button" class="chip" data-acc="${escapeHtml(a.handle)}">${escapeHtml(a.name)}</button>`;
+    chips.innerHTML = '<div class="chip-group"><button type="button" class="chip on" data-acc="">All</button></div>' + GROUPS.map(([g, label]) => {
+      const list = accs.filter(a => (a.group || 'space') === g);
+      return list.length ? `<div class="chip-group"><button type="button" class="chip chip-head" data-grp="${g}">${label}</button>${list.map(chip).join('')}</div>` : '';
+    }).join('');
     chips.addEventListener('click', e => {
       const b = e.target.closest('.chip'); if (!b) return;
       chips.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
-      grid.querySelectorAll('.x-card').forEach(c => { c.hidden = !!b.dataset.acc && c.dataset.acc !== b.dataset.acc; });
+      grid.querySelectorAll('.x-card').forEach(c => {
+        c.hidden = b.dataset.grp ? grpOf[c.dataset.acc] !== b.dataset.grp : (!!b.dataset.acc && c.dataset.acc !== b.dataset.acc);
+      });
     });
   }
 }
