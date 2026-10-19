@@ -256,7 +256,7 @@ function rebuildTickerIfReady() {
 
 /* ---------- X post media: playable video (no-referrer; video.twimg.com 403s with a Referer) ---------- */
 function xMedia(p) {
-  if (p.video) return `<video class="x-video" controls playsinline preload="none"${p.image ? ` poster="${safeUrl(p.image)}"` : ''} src="${safeUrl(p.video)}"></video>`;
+  if (p.video) return `<video class="x-video" referrerpolicy="no-referrer" controls playsinline preload="none"${p.image ? ` poster="${safeUrl(p.image)}"` : ''} src="${safeUrl(p.video)}"></video>`;
   return p.image ? `<img src="${safeUrl(p.image)}" alt="" loading="lazy">` : '';
 }
 
@@ -362,7 +362,7 @@ async function loadShorts() {
     grid.innerHTML = list.map(v => {
       const sid = itemAnchorId('short', v.id);
       return `
-      <div class="short-card" id="${sid}" data-anchor="${sid}"><div class="frame"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}" title="${escapeHtml(v.title)}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      <div class="short-card" id="${sid}" data-anchor="${sid}"><div class="frame"><iframe loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(v.id)}" title="${escapeHtml(v.title)}" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
       <p><a href="https://www.youtube.com/shorts/${encodeURIComponent(v.id)}" target="_blank" rel="noopener">${escapeHtml(v.title)}</a></p></div>`;
     }).join('');
     const count = document.getElementById('pageCount');
