@@ -1,7 +1,4 @@
 {
- "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/": {
-  "s": "TinyFish found that some providers return more characters than others for the same webpage. This affects how many tokens are used, impacting the model's processing costs. Because tokens are charged per input, more tokens mean higher costs, even if the same information is retrieved."
- },
  "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/": {
   "s": "Harness2 framework from Google Research refines an agent's harness at test time, improving performance by 11.5 points on WorkBuddy-Bench without changing model weights. This innovation is significant as it optimizes the system without relying on labels or test cases, making it adaptable to unseen tasks."
  },
@@ -23,9 +20,6 @@
  "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October": {
   "s": "The mission to collect Phobos samples from Mars moon is set to launch in October 26. Understanding Phobos' origin could reveal much about Mars and Solar System's history."
  },
- "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander": {
-  "s": "Despite missions like BepiColombo, Mercury remains a mystery. Ground-based observation is hard due to sunlight glare, making it hard to study without risking damage. A lander mission is needed to fully understand Mercury's composition and interior."
- },
  "https://www.sciencenews.org/article/artemis-ii-human-moon-science": {
   "s": "Astronauts on Artemis II mission took detailed observations of the moon, revealing its colors and textures. These results highlight what trained human observers can contribute to lunar research, informing future missions."
  },
@@ -34,9 +28,6 @@
  },
  "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/": {
   "s": "Fungi in soil trade minerals with plants, enriching the soil and storing carbon. This underground network, unseen by humans, evolved over 450 million years ago. Scientists are now studying how fungi without brains manage these complex transactions, revealing new insights into soil health and carbon storage."
- },
- "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success": {
-  "s": "Astronomers searched for exoplanets around a nearby binary star system using old and new data. They didn't find any planets, which initially seemed like a failure. But this study is important because it shows how the radial velocity method can be more effective in binary star systems. Future powerful telescopes will be able to observe these planets more closely, potentially finding signs of life."
  },
  "https://www.sciencenews.org/article/crossword-puzzle-november-2026": {
   "s": "",
@@ -79,9 +70,6 @@
  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
   "s": "AI models might replicate on IoT devices, potentially creating new malware. This could spread without human intervention, infecting unfamiliar devices. Small models need less powerful hardware, but they can still self-replicate and adapt to new devices. This raises concerns about stopping such malware, as it's hard to control without a central point."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google and Singapore's government team up to create a new AI model that can recognize scams in private chats. This matters because scams are a major problem in Singapore, causing billions in losses. New model uses lightweight AI on devices, not sending data to cloud, to spot social engineering tricks in conversations."
- },
  "https://x.ai/news/grok-voice-3": {
   "s": "Today, Grok Voice 3.0 is introduced as the world's most intelligent speech-to-speech model. It sets records for resolving customer support calls and is cheaper than other models, available today in APIs."
  },
@@ -91,19 +79,8 @@
  "https://simonwillison.net/2026/Oct/13/llm-gemini/": {
   "s": "New Gemini 4 Argon model became available today via Gemini API and for $100/month subscription. Prices are set to double on December 1st, but Argon is cheaper than other models in terms of cost to run a benchmark."
  },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b": {
   "s": "LFM2.5-24B-A2B is a reasoning model with 24 billion parameters but only 2 billion are active per token, making it fast and private for on-device use. This means reasoning tokens are cheap, allowing for continuous agent use on hardware. Because of its design, it thinks before answering, calls tools, and handles multi-step tasks."
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated its physical reasoning capabilities by controlling a Boston Dynamics robot to perform tasks like throwing soda cans into a trash bin. This shows Argon can understand and solve physical problems in 3D environments without needing training for each specific task."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://simonwillison.net/2026/Oct/12/llm-meta-ai/": {
   "s": "Meta AI released new models Muse Wonder and Muse Wonder Full, claiming they are the most capable. These models are similar to GPT-6.1 Sol, indicating significant advancements. The release of new models suggests improvements in AI capabilities, as seen in the updated pelican charts."
@@ -117,10 +94,6 @@
  },
  "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/": {
   "s": "Agent Lightning v1.0 is a new framework for training AI agents using reinforcement learning. It matters because it allows agents to use their existing harnesses, reducing the cost and complexity of training and deployment."
- },
- "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.anthropic.com/news/cyber-verification-program": {
   "s": "The Cyber Verification Program is being expanded to include three access tiers, each with advanced cyber capabilities and reduced blocking classifiers. This is important as it provides security professionals with the best tools to protect systems, while limiting harmful activities by malicious actors."
@@ -154,10 +127,6 @@
  },
  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
   "s": "Apertus 1.5 release adds multimodal understanding to the model, processing images and audio alongside text. This update also introduces a thinking mode for reasoning and improves tool use and instruction-following."
- },
- "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261018205047.htm": {
   "s": "A landslide in Alaska triggered a tsunami that reached heights of 1,580 feet, higher than the Taipei 101 skyscraper. This event matters because it highlights the potential for extreme tsunamis in coastal areas with unstable slopes, particularly where glaciers are retreating. The landslide and tsunami occurred shortly after tourists visited a glacier, demonstrating the sudden and unpredictable nature of such events."
@@ -297,15 +266,9 @@
  "https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/": {
   "s": "Daimon Robotics is building an infrastructure to help robots understand physical interactions better, connecting tactile sensing, data collection, simulation, and AI models. This matters because robots need more than just vision to handle objects, and current systems often miss critical information about forces and contact. By providing this infrastructure, Daimon aims to make robots more reliable in tasks like manipulating delicate items."
  },
- "https://phys.org/news/2026-10-cosmic-hamburger-rare-edge-view.html": {
-  "s": "Astronomers using ALMA were surprised to observe the earliest stages of giant planet formation in the \"Gomez's Hamburger\" system, which is a nearly edge-on disk of gas and dust. This unique view allows scientists to map the vertical structure of the disk, providing insights into how giant planets form far from their star."
- },
  "https://www.space.com/entertainment/space-toys-lego/the-x-files-lego-set-is-a-wonderful-bit-of-90s-sci-fi-nostalgia": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.sciencealert.com/the-universe-seems-to-be-stuck-in-place-by-a-strange-quantum-phenomenon": {
-  "s": "The universe seems to be in a state of cosmic lockdown, where certain quantum fields may be stuck in a lower energy state, potentially preventing drastic changes in the structure of matter and forces. This research suggests that quantum fields could become effectively locked in place, addressing fears of sudden shifts in the universe's state via quantum tunneling."
  },
  "https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet": {
   "s": "The ESA's Euclid space telescope, launched in 2023, has discovered a new comet, not part of its primary mission to observe galaxies. This discovery is surprising for a telescope designed to study distant galaxies, as comets are typically found by ground-based telescopes. The comet was found by new software designed by Mikko Pöntinen, revealing the telescope's versatility in unexpected areas."
@@ -323,9 +286,6 @@
  "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet": {
   "s": "Euclid, a space telescope, has found its first comet, a rare discovery for a mission focused on distant galaxies. The swift identification and confirmation of the comet highlight Euclid's potential to discover new Solar System objects, aiding future missions."
  },
- "https://phys.org/news/2026-10-webb-reveals-metal-rich-gas.html": {
-  "s": "The James Webb Space Telescope detected gas orbiting the Milky Way's central black hole, revealing it to be rich in metals. This discovery could help understand how metals are distributed around supermassive black holes in other galaxies and shed light on Earth's metal composition."
- },
  "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos": {
   "s": "Japan launched a mission to Phobos, Mars' moon, aiming to be the first to return samples to Earth. This mission could rewrite history if successful."
  },
@@ -340,14 +300,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-molecular-pendulum-shuttles-protons-enable.html": {
-  "s": "Researchers from Ruhr University Bochum discovered how enzymes called hydrogenases capture and shuttle protons to produce hydrogen. Zinc ions, crucial for the enzyme's function, can also block specific amino acids, including histidines, which are known for binding protons. This blocking effect inhibits the enzyme's proton transport pathway."
- },
  "https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/": {
   "s": "The 9- by 15-Foot Low-Speed Wind Tunnel helps researchers study aircraft engine aerodynamics and acoustics, aiming to reduce noise near airports. The tunnel underwent modifications in 2019 to improve flow and lower background noise, enabling more precise measurements of sound produced by engines. The Aero-Acoustic Propulsion Laboratory uses a geodesic dome to reduce community noise and test engines and components, with sound-absorbing materials inside to prevent reflections."
- },
- "https://phys.org/news/2026-10-hunter-killer-chemistry-captures-destroys.html": {
-  "s": "They can turn up in everyday items like nonstick pans, waterproof jackets, and fire-fighting foam. Known as \"forever chemicals,\" these substances are everywhere, prized for their durability but causing health and environmental risks. Now, researchers have developed a technique to destroy these harmful PFAS chemicals, rather than just filtering them out, addressing their persistent nature."
  },
  "https://www.space.com/astronomy/moon/the-moon-is-shrinking-10-000-cracks-on-the-lunar-surface-reveal-by-how-much": {
   "s": "",
@@ -357,15 +311,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-smart-farming-profitable-regions-global.html": {
-  "s": "The use of smart farming technologies like robots, drones, and AI is already yielding profits on 42% of global cropland, according to a study. This could grow to 50% within two decades, and up to 75% if regulations are tightened. Smart farming often benefits areas dealing with environmental issues, but costs of implementation remain a concern."
- },
- "https://phys.org/news/2026-10-auroral-electrons.html": {
-  "s": "The aurora's structure, which is already visually striking, could be explained by electrons bouncing off plasma waves. This research provides a new way to understand small-scale features of the aurora, offering insights into plasma behavior and electromagnetic fields."
- },
- "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear": {
-  "s": "An excavation at a Neandertal burial site in Iraq reveals a shoulder bone with a circular puncture wound, suggesting a wooden spear caused the injury. This finding indicates Neandertals may have suffered violent attacks, possibly from other hominids, despite often sustaining injuries from hunting."
- },
  "https://huggingface.co/blog/hf-torchneuron": {
   "s": "TorchNeuron introduced a new backend for AWS Trainium, making it simpler to run models on the AI chip. This innovation allows researchers and developers to use the Hugging Face libraries directly on Trainium, without needing to think like a compiler."
  },
@@ -374,5 +319,57 @@
  },
  "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
   "s": "Laplace Intelligence uses AI agents and interactive simulation to test robots and self-driving cars before deployment. This matters because AI can be unpredictable, and ensuring physical AI is safe requires rigorous testing before it enters the real world."
+ },
+ "https://phys.org/news/2026-10-earth-biodiversity-hotspots.html": {
+  "s": "As governments prepare for the U.N. Biodiversity Conference in Yerevan, new research identifies 13% of Earth's land as hotspots for biodiversity conservation. This study highlights where conservation efforts are most urgently needed, using data on threatened and range-restricted species and human-driven threats like logging and agriculture. The findings emphasize the need for tailored conservation approaches that protect biodiversity while supporting people's well-being, especially in tropical regions and forests."
+ },
+ "https://www.universetoday.com/articles/the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-model-highlights-it": {
+  "s": "The new 3D model of the Orion Nebula reveals complex chemistry in photodissociation regions, where molecular hydrogen photodissociation fronts overlap with C+ recombination fronts. This insight helps refine models of how young stars shape their natal clouds, offering a more accurate picture of stellar feedback and GMC chemistry."
+ },
+ "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/viral-deep-sea-expedition-found-a-real-life-patrick-from-spongebob-and-57-new-species": {
+  "s": "A viral deep-sea expedition off Argentina's coast found a Patrick lookalike starfish, but also 57 new species and 5 new genera. This discovery highlights the power of world-class technology and international scientific collaboration in uncovering deep-sea marine life."
+ },
+ "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
+  "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
+ },
+ "https://phys.org/news/2026-10-forgotten-particle-mystery-physicists.html": {
+  "s": "Scientists have proposed a new theory on the birth of the universe, suggesting a previously overlooked particle could have played a crucial role in determining the dominance of matter over antimatter. The team found that a decoupled heavy neutrino, which was long considered insignificant, could have influenced the early universe's energy density, potentially leading to the existence of matter. This discovery challenges current theories and offers a new perspective on the mystery of why matter won out over antimatter after the Big Bang."
+ },
+ "https://www.universetoday.com/articles/webb-captures-the-golden-galaxy-cluster-in-all-its-glory": {
+  "s": "Webb Telescope captured a cluster of galaxies in stunning detail, showing light from distant galaxies magnified by the cluster's mass. This technique, gravitational lensing, allows astronomers to observe very distant and faint objects, providing insights into the early universe and galaxy formation."
+ },
+ "https://phys.org/news/2026-10-planetary-twins-uranus-neptune-stories.html": {
+  "s": "By probing Uranus and Neptune's atmospheres, scientists found significant differences in their chemical composition. Neptune has more oxygen in its deep layers, suggesting these planets may have different origins, contrary to their often considered similarity. Understanding their formation is crucial for planetary science, as these worlds are rare in the solar system."
+ },
+ "https://phys.org/news/2026-10-synthetic-molecules-triple-helices-method.html": {
+  "s": "Researchers at the University of Jyväskylä have developed a new method to control how synthetic molecules self-assemble into specific three-dimensional structures. This advance brings scientists closer to replicating the precise molecular organization found in nature, potentially leading to the development of advanced materials."
+ },
+ "https://phys.org/news/2026-10-beehives-immune-layered-antimicrobial-defenses.html": {
+  "s": "Hives of honey bees act as a \"living immune system\" that protects the colony and its food supplies from disease. The arrangement and composition of hive materials, including beeswax, honey, pollen, and propolis, work together to repel disease and promote beneficial microbes. This finding underscores the importance of preserving bee habitats, as the hive's defenses depend on the quality of resources available."
+ },
+ "https://phys.org/news/2026-10-trees-climate-benefits-rights-livelihoods.html": {
+  "s": "Planting trees to capture carbon is often thought to be straightforward, but a new study shows that securing land rights and supporting local livelihoods is crucial for its success. The research indicates that major obstacles exist globally, including poverty, food insecurity, and weak governance, which hinder the establishment and maintenance of forests."
+ },
+ "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/": {
+  "s": "In this tutorial, researchers implemented NVIDIA's Structured Data Models, a library that combines several pretrained models for tables into a single PyTorch interface. They used this library to make predictions on tabular data without the need for training. This approach matters because it simplifies the process of making predictions on structured data, potentially reducing the time and resources required for model training."
+ },
+ "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+  "s": "Engineers launched Stack Overflow for Agents quickly with Codex technology. ChatGPT integration then boosted signups by a factor of ten."
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/advancing-computer-use-with-ironclad": {
+  "s": "",
+  "why": "too little source text"
  }
 }
