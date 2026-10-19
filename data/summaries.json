@@ -41,9 +41,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261018084644.htm": {
   "s": "Physicists have created a new quantum state where atoms arrange themselves in an unexpected way, defying typical organization rules. This discovery reveals particles maintain hidden order even in a highly energetic state, challenging existing theories."
  },
- "https://www.sciencealert.com/brown-fat-can-be-beneficial-for-the-body-and-a-blood-pressure-drug-could-turn-it-on": {
-  "s": "Brown fat cells are distinct from white fat cells and can be beneficial for health, especially in burning excess sugar and fat. A study suggests a blood pressure drug could activate brown fat in humans, potentially offering a new treatment option."
- },
  "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander": {
   "s": "Despite missions like BepiColombo, Mercury remains a mystery. Ground-based observation is hard due to sunlight glare, making it hard to study without risking damage. A lander mission is needed to fully understand Mercury's composition and interior."
  },
@@ -71,9 +68,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261017230028.htm": {
   "s": "Eating blueberries daily helped older adults feel less depressed, according to a small study. This suggests blueberries might influence gut bacteria, potentially affecting mood. However, the study's findings are preliminary and not statistically significant compared to a placebo group."
- },
- "https://www.sciencealert.com/new-genus-of-nightmare-spaghetti-worms-found-deep-under-the-indian-ocean": {
-  "s": "Scientists found new nightmare spaghetti worms in the Indian Ocean. Their squishy bodies have unique sucker-like structures, unlike any other known spaghetti worm. Understanding these creatures could help scientists learn more about life in deep ocean waters."
  },
  "https://www.livescience.com/space/astronomy/famous-supernova-that-lit-up-skies-in-1181-is-now-full-of-mysterious-knots-space-photo-of-the-week": {
   "s": "",
@@ -175,15 +169,6 @@
  "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter": {
   "s": "A distant supercluster of galaxies, nicknamed El Gordo, is unusually large for its distance. This poses a puzzle since dark matter is the main component of the universe but doesn't interact strongly with light or regular matter. A new study suggests dark matter might interact with itself in a specific way, explaining how this supercluster formed early in the universe's history."
  },
- "https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/": {
-  "s": "Hurricane Isaias knocked out power along the Florida Panhandle, as nighttime lights showed. Lights came back quickly after the storm, indicating widespread power outages."
- },
- "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/": {
-  "s": "Voxel51 3.0 integrates various data types for AI projects, from images to audio and more. This platform is useful for teams needing to manage and analyze diverse sensor data efficiently. It reduces the time spent on data preparation by automating indexing and embedding processes."
- },
- "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/": {
-  "s": "Kyutai created REKI, a model that combines vision, language, and actions for robot manipulation. This model is unique because it stores memory inside the action expert, reducing the need for past frame data. This innovation helps robots avoid oscillating between poses, improving their stability."
- },
  "https://huggingface.co/blog/reflection-beam": {
   "s": "Beam is a new open-source AI model that can be customized and scaled by teams. It matters because it offers a frontier-scale model that can be used on personal hardware, and it supports long context reasoning, useful for complex tasks."
  },
@@ -266,9 +251,6 @@
  "https://www.livescience.com/health/a-uniquely-direct-route-that-might-cause-damage-scientists-uncover-link-between-air-pollution-and-eye-diseases-like-glaucoma": {
   "s": "Scientists reviewed 41 studies linking higher air pollution exposure to a higher risk of eye diseases like glaucoma and cataracts. PM2.5 pollution showed the strongest connection."
  },
- "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/": {
-  "s": "Today, the APOD featured the Eagle Nebula, known for its bright structures visible through telescopes. Scientists have sonified the nebula, transforming its features into sounds to explore its structure and formation process, offering a new way to understand the universe."
- },
  "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed": {
   "s": "Computer scientist Margaret Hamilton solved problems that others deemed unsolvable, guiding NASA's Apollo missions to the moon. Her legacy inspires future generations to tackle complex challenges."
  },
@@ -286,5 +268,23 @@
  },
  "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries": {
   "s": "Harrell, who has ALS, regained his voice through a brain implant that translates his thoughts into speech. This technology could help others with similar conditions regain their ability to communicate."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/": {
+  "s": "This unusual radio structure, named Treble Clef, spans 2 million light-years and resembles a musical symbol. Recent observations have suggested it was originally expelled by a supermassive black hole, then reinvigorated by a shock wave from galaxy cluster collisions. Such objects offer clues about the interaction of galaxy clusters and the evolution of the universe."
+ },
+ "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/": {
+  "s": "Mistral AI released Timestral, a family of time series forecasting models ranging from 5M to 209M parameters. This new model family surpasses Google's TimesFM-3 in performance, particularly in zero-shot forecasting tasks. Its unique approach of transferring patterns across different domains makes it more versatile than traditional methods."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/": {
+  "s": "As autumn approaches, the Bieszczady National Park in Poland transforms, with deciduous trees turning vibrant reds and golds. Meanwhile, patches of polonina, a high-mountain meadow, turn tan as they lose their summer green."
+ },
+ "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015": {
+  "s": "As artificial intelligence becomes more prevalent, researchers are examining its impact on human thinking. MIT Professor Eric So argues that heavy reliance on AI can lead to a decline in essential thinking skills, as people fail to develop and retain these abilities."
+ },
+ "https://theconversation.com/physics-nobel-highlights-antarcticas-role-in-exploring-the-cosmos-293906": {
+  "s": "Scientists have long used Antarctica's harsh environments as analogs to study and explore beyond Earth. The IceCube Neutrino Observatory, awarded to Francis Halzen, highlights Antarctica's role in discovering cosmic phenomena. Antarctic research mirrors conditions found elsewhere in space, aiding in the preparation and testing of technologies for space missions."
+ },
+ "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/": {
+  "s": "NVIDIA has made its AI workload and GPU orchestration platform Run:ai available as open source. This matters because it offers developers a flexible tool to manage GPU resources in Kubernetes environments, enhancing the capabilities of AI workloads without replacing Kubernetes."
  }
 }
