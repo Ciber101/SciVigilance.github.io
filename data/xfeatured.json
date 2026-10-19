@@ -115,6 +115,14 @@
    "avatar": "img/x-esa.jpg",
    "posts": [
     {
+     "id": "2112154024158101780",
+     "text": "We're developing a service station for the Moon. 🌕\n\nOASIS will provide power, communications and data services to scientific experiments, helping them survive the two-week lunar night and operate for years on the surface.\n\nRead more:",
+     "date": "2026-10-19T12:08:55.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HU_g1exW0AAC0-z.jpg",
+     "url": "https://x.com/esa/status/2112154024158101780"
+    },
+    {
      "id": "2109989150237606400",
      "text": "Launching on 19 October, @JAXA_en's Martian Moons eXploration (MMX) mission will attempt a world-first sample return from Mars’s moon Phobos. We're contributing deep-space communication technology and ground station support to help make the mission possible.\n\nRead more:",
      "date": "2026-10-13T12:46:29.000Z",
@@ -137,14 +145,6 @@
      "quoted": false,
      "image": null,
      "url": "https://x.com/esa/status/2109630595353493557"
-    },
-    {
-     "id": "2108871915771134359",
-     "text": "Welcome home, Sophie! After nearly eight months on the International Space Station, our astronaut @Soph_astro has returned to Europe. She will now begin post-flight recovery and research activities at our European Astronaut Centre in Cologne.",
-     "date": "2026-10-10T10:47:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUQ3xinXMAAd821.jpg",
-     "url": "https://x.com/esa/status/2108871915771134359"
     }
    ]
   },
@@ -169,6 +169,22 @@
    "avatar": "img/x-cnes.jpg",
    "posts": [
     {
+     "id": "2112162487063794009",
+     "text": "Une vue impressionnante du pas de tir ! 🤩\n\n#MMX @DLR_SpaceAgency @DLR_en @DLR_de @mmx_jaxa_jp @JAXA_en @JAXA_jp @LiraAstro #cnes",
+     "date": "2026-10-19T12:42:33.000Z",
+     "quoted": true,
+     "image": null,
+     "url": "https://x.com/CNES/status/2112162487063794009"
+    },
+    {
+     "id": "2112162096603636165",
+     "text": "🚀 La fusée H3 est en place sur son pas de tir au Japon !\n\nTout est bientôt prêt pour le lancement de la mission japonaise #MMX. 🇫🇷🇩🇪🇯🇵\n\n⏰ Décollage prévu ce soir à 21h41 (heure de Paris).\n\n@DLR_SpaceAgency @DLR_en @DLR_de @JAXA_en @JAXA_jp @LiraAstro",
+     "date": "2026-10-19T12:41:00.000Z",
+     "quoted": true,
+     "image": null,
+     "url": "https://x.com/CNES/status/2112162096603636165"
+    },
+    {
      "id": "2112097661235138726",
      "text": "La coiffe de la fusée H3 avec #MMX et #Idefix® ! Plus que quelques heures avant le lancement !\n\n@JAXA_en @JAXA_jp  @DLR_SpaceAgency @DLR_en @DLR_de @LiraAstro #cnes",
      "date": "2026-10-19T08:24:57.000Z",
@@ -183,22 +199,6 @@
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU-O3DqWMAE9h39.jpg",
      "url": "https://x.com/CNES/status/2112063855140782113"
-    },
-    {
-     "id": "2111910259229155762",
-     "text": "Un petit IDEFIX® chez vous ? À l’occasion du lancement de #MMX, imprimez en 3D le rover qui explorera Phobos, une lune de Mars !\n\nDeux modèles conçus par les ingénieurs du CNES sont disponibles gratuitement. Montrez-nous vos réalisations ! @DLR_SpaceAgency",
-     "date": "2026-10-18T20:00:17.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HU8DHhkWIAA7Ldy.jpg",
-     "url": "https://x.com/CNES/status/2111910259229155762"
-    },
-    {
-     "id": "2111096639062438287",
-     "text": "🛰️ Mercure en approche ! Après 8 ans et près de 10 milliards de kilomètres, #BepiColombo doit entrer en orbite le 21 novembre pour explorer la planète la plus proche du Soleil. ☀️ Une mission @esa /@JAXA_en à laquelle contribue le #CNES.\n\n👉 @JAXA_jp",
-     "date": "2026-10-16T14:07:15.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUwfIiRXsAA3kFH.jpg",
-     "url": "https://x.com/CNES/status/2111096639062438287"
     }
    ]
   },
@@ -248,7 +248,7 @@
    "posts": [
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -256,7 +256,7 @@
     },
     {
      "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support the study of Mars’ moons and their origins.\n\nLearn more about P-Sampler:",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
@@ -264,7 +264,7 @@
     },
     {
      "id": "2108615012730167401",
-     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations with our flight-like offloader: the complete offload sequence, nominal and off-nominal, ran end-to-end across the full range of lander tilt angles, with joint mission operations and NASA commanding the rover remotely. Stay tuned for images of our flight offloader, which is being fabricated now!",
+     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations",
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
@@ -272,7 +272,7 @@
     },
     {
      "id": "2105031277321826515",
-     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload capacity and flexibility as we expand the New Glenn fleet 🚀\n\nTwo paths to orbit. More flexibility for NASA.",
+     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload",
      "date": "2026-09-29T20:25:40.000Z",
      "quoted": true,
      "image": null,
@@ -404,7 +404,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -412,7 +412,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -420,7 +420,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -428,7 +428,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -451,7 +451,7 @@
     },
     {
      "id": "2110110342042796119",
-     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay. That's where our Elytra orbiter comes in 🛰️. Elytra will serve as a transfer vehicle and communications bridge between Blue Ghost and Earth, enabling critical science operations on the lunar surface and setting the stage for future missions.",
+     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay.",
      "date": "2026-10-13T20:48:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUieKtlWkAEX_b9.jpg",
@@ -459,7 +459,7 @@
     },
     {
      "id": "2108173401235816859",
-     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization of unmanned aerial threats.\n \nRead more here:",
+     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization",
      "date": "2026-10-08T12:31:21.000Z",
      "quoted": false,
      "image": null,
@@ -467,7 +467,7 @@
     },
     {
      "id": "2105266742691774491",
-     "text": "New customer alert 🚨\n\nStarcloud's AI-computing payload will fly onboard our Elytra spacecraft as part of our third mission to the Moon. The payload will process data from our Solux vision system and validate capabilities for a future data center in lunar orbit.\n\nThis collaboration will lay the groundwork for the computing infrastructure required for a permanent presence on the Moon.",
+     "text": "New customer alert 🚨\n\nStarcloud's AI-computing payload will fly onboard our Elytra spacecraft as part of our third mission to the Moon. The payload will process data from our Solux vision system and validate capabilities for a future data center in lunar orbit.\n\nThis",
      "date": "2026-09-30T12:01:20.000Z",
      "quoted": false,
      "image": null,
@@ -482,7 +482,7 @@
    "posts": [
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -490,7 +490,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
@@ -506,7 +506,7 @@
     },
     {
      "id": "2108289174977585579",
-     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
      "date": "2026-10-08T20:11:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",

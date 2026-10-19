@@ -1,10 +1,93 @@
 {
  "data": [
   {
+   "created_at": "2026-10-19T13:01:06.000Z",
+   "edit_history_tweet_ids": [
+    "2112167152610668932"
+   ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 130,
+      "start": 123,
+      "tag": "Euclid"
+     },
+     {
+      "end": 146,
+      "start": 131,
+      "tag": "CometDiscovery"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+      "display_url": "esa.int/Science_Explor…",
+      "end": 121,
+      "expanded_url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2112151824652550145/20kea60P?format=jpg&name=orig",
+        "width": 1080
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2112151824652550145/20kea60P?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "Euclid discovers new comet",
+      "unwound_url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "url": "https://t.co/WZL6Gbn7iH"
+     }
+    ]
+   },
+   "id": "2112167152610668932",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Euclid spots first unknown comet! ESA's telescope discovers new object in September 2026 images.\n\nhttps://t.co/WZL6Gbn7iH\n\n#Euclid #CometDiscovery",
+   "url": "https://x.com/i/status/2112167152610668932"
+  },
+  {
    "created_at": "2026-10-19T10:00:57.000Z",
    "edit_history_tweet_ids": [
     "2112121820505850041"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 151,
+      "start": 137,
+      "tag": "CellMechanics"
+     },
+     {
+      "end": 165,
+      "start": 152,
+      "tag": "Phagocytosis"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Nature Communications - Macrophages tightly control their phagocytic capacity, limiting intracellular overcrowding. However, the molecular details of this adaptive response remain undefined. Here,...",
+      "display_url": "nature.com/articles/s4146…",
+      "end": 135,
+      "expanded_url": "https://www.nature.com/articles/s41467-026-78772-7",
+      "start": 112,
+      "status": 200,
+      "title": "Nuclear adaptation to intracellular mechanical forces regulates the phagocytic capacity of Drosophila macrophages in vivo",
+      "unwound_url": "https://www.nature.com/articles/s41467-026-78772-7?error=cookies_not_supported&code=e69aacbd-607e-4382-b76c-455733c05c12",
+      "url": "https://t.co/oZL0sj6WPM"
+     }
+    ]
+   },
    "id": "2112121820505850041",
    "public_metrics": {
     "bookmark_count": 0,
@@ -22,6 +105,44 @@
    "edit_history_tweet_ids": [
     "2112076583112749304"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 142,
+      "start": 128,
+      "tag": "XRayAstronomy"
+     },
+     {
+      "end": 148,
+      "start": 143,
+      "tag": "APOD"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "science.nasa.gov/image-article/…",
+      "end": 126,
+      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+      "images": [
+       {
+        "height": 953,
+        "url": "https://pbs.twimg.com/news_img/2112039218163671040/wyHiT1TR?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2112039218163671040/wyHiT1TR?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 103,
+      "status": 200,
+      "title": "APOD: 2026 October 19 - Treble Clef: Unusual X-ray Hot Radio Source - NASA Science",
+      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/",
+      "url": "https://t.co/wUkG040w80"
+     }
+    ]
+   },
    "id": "2112076583112749304",
    "public_metrics": {
     "bookmark_count": 0,
@@ -39,6 +160,45 @@
    "edit_history_tweet_ids": [
     "2112031264903680365"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 124,
+      "start": 107,
+      "tag": "CancerMetastasis"
+     },
+     {
+      "end": 146,
+      "start": 125,
+      "tag": "ExosomeCommunication"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Signal Transduction and Targeted Therapy - Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization",
+      "display_url": "nature.com/articles/s4139…",
+      "end": 105,
+      "expanded_url": "https://www.nature.com/articles/s41392-026-02876-1",
+      "images": [
+       {
+        "height": 2500,
+        "url": "https://pbs.twimg.com/news_img/2112031280468729856/BWveRFhk?format=jpg&name=orig",
+        "width": 1718
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2112031280468729856/BWveRFhk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 82,
+      "status": 200,
+      "title": "Endothelial exosomes remodel chromatin accessibility and superenhancer in cancer cells to promote liver metastatic colonization",
+      "unwound_url": "https://www.nature.com/articles/s41392-026-02876-1?error=cookies_not_supported&code=55f92ffc-5984-44f5-beec-d0ab575f52c3",
+      "url": "https://t.co/f3CebTF3pb"
+     }
+    ]
+   },
    "id": "2112031264903680365",
    "public_metrics": {
     "bookmark_count": 0,
@@ -56,6 +216,45 @@
    "edit_history_tweet_ids": [
     "2111986104509616469"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 162,
+      "start": 149,
+      "tag": "SolarOrbiter"
+     },
+     {
+      "end": 178,
+      "start": 163,
+      "tag": "SolarMagnetism"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The European Space Agency-led Solar Orbiter spacecraft has flown through an S-shaped kink known as a ‘switchback’ in the solar wind’s magnetic field. By fingerprinting the elusive particles within the switchback, Solar Orbiter has traced its origin back to the Sun’s surface and revealed more about solar magnetism – the unruly instigator of dangerous solar storms.",
+      "display_url": "esa.int/Science_Explor…",
+      "end": 147,
+      "expanded_url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+      "images": [
+       {
+        "height": 1080,
+        "url": "https://pbs.twimg.com/news_img/2111986126693212160/wOrYxeI7?format=jpg&name=orig",
+        "width": 1920
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111986126693212160/wOrYxeI7?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 124,
+      "status": 200,
+      "title": "Solar Orbiter tracks origin of mysterious magnetic switchbacks",
+      "unwound_url": "https://www.esa.int/Science_Exploration/Space_Science/Solar_Orbiter/Solar_Orbiter_tracks_origin_of_mysterious_magnetic_switchbacks",
+      "url": "https://t.co/X86AuyV4xC"
+     }
+    ]
+   },
    "id": "2111986104509616469",
    "public_metrics": {
     "bookmark_count": 0,
@@ -73,10 +272,37 @@
    "edit_history_tweet_ids": [
     "2111941528470081706"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 152,
+      "start": 142,
+      "tag": "Chemistry"
+     },
+     {
+      "end": 167,
+      "start": 153,
+      "tag": "DrugDiscovery"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Scientific Reports - Facile one-pot multicomponent synthesis of polyhydroquinolines: a new class of α-glucosidase inhibitors",
+      "display_url": "nature.com/articles/s4159…",
+      "end": 140,
+      "expanded_url": "https://www.nature.com/articles/s41598-026-76539-0",
+      "start": 117,
+      "status": 200,
+      "title": "Facile one-pot multicomponent synthesis of polyhydroquinolines: a new class of α-glucosidase inhibitors",
+      "unwound_url": "https://www.nature.com/articles/s41598-026-76539-0?error=cookies_not_supported&code=612eabd8-703c-4678-b605-fb2c46f7fbfc",
+      "url": "https://t.co/nJuWgPNfZG"
+     }
+    ]
+   },
    "id": "2111941528470081706",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 3,
+    "impression_count": 4,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -90,6 +316,22 @@
    "edit_history_tweet_ids": [
     "2111936135417245712"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 12,
+      "id": "44196397",
+      "start": 3,
+      "username": "elonmusk"
+     },
+     {
+      "end": 26,
+      "id": "1353836358901501952",
+      "start": 14,
+      "username": "AnthropicAI"
+     }
+    ]
+   },
    "id": "2111936135417245712",
    "public_metrics": {
     "bookmark_count": 0,
@@ -97,7 +339,7 @@
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1514
+    "retweet_count": 1614
    },
    "referenced_tweets": [
     {
@@ -113,6 +355,45 @@
    "edit_history_tweet_ids": [
     "2111895494566007030"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 155,
+      "start": 137,
+      "tag": "QuantumSimulation"
+     },
+     {
+      "end": 164,
+      "start": 156,
+      "tag": "IonTrap"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Some quantum systems are so complex that even the most powerful supercomputers struggle to simulate their behavior. One solution is quantum simulation: building a controllable quantum system in the lab ...",
+      "display_url": "phys.org/news/2026-10-m…",
+      "end": 135,
+      "expanded_url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+      "images": [
+       {
+        "height": 830,
+        "url": "https://pbs.twimg.com/news_img/2111895494876418049/xXc8iTCT?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111895494876418049/xXc8iTCT?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 112,
+      "status": 200,
+      "title": "New monolithic ion trap opens quantum simulations to more researchers",
+      "unwound_url": "https://phys.org/news/2026-10-monolithic-ion-quantum-simulations.html",
+      "url": "https://t.co/i5m5xU3eIC"
+     }
+    ]
+   },
    "id": "2111895494566007030",
    "public_metrics": {
     "bookmark_count": 0,
@@ -130,6 +411,33 @@
    "edit_history_tweet_ids": [
     "2111850111328555290"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 160,
+      "start": 143,
+      "tag": "ColorectalCancer"
+     },
+     {
+      "end": 174,
+      "start": 161,
+      "tag": "NanoMedicine"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Scientific Reports - Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study",
+      "display_url": "nature.com/articles/s4159…",
+      "end": 141,
+      "expanded_url": "https://www.nature.com/articles/s41598-026-75014-0",
+      "start": 118,
+      "status": 200,
+      "title": "Modulation of EMT-related gene expression in colorectal cancer by carvacrol-conjugated ZnO nanoparticles: an integrated in silico and in vitro study",
+      "unwound_url": "https://www.nature.com/articles/s41598-026-75014-0?error=cookies_not_supported&code=226d436e-01f2-4611-a3b3-a2170f9537d8",
+      "url": "https://t.co/ZSm5gBVlG8"
+     }
+    ]
+   },
    "id": "2111850111328555290",
    "public_metrics": {
     "bookmark_count": 0,
@@ -147,10 +455,49 @@
    "edit_history_tweet_ids": [
     "2111804774530310584"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 208,
+      "start": 198,
+      "tag": "Astronomy"
+     },
+     {
+      "end": 222,
+      "start": 209,
+      "tag": "Sonification"
+     }
+    ],
+    "urls": [
+     {
+      "description": "https://www.youtube.com/watch?v=DzrCEm1ZBRY",
+      "display_url": "science.nasa.gov/image-article/…",
+      "end": 196,
+      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "images": [
+       {
+        "height": 576,
+        "url": "https://pbs.twimg.com/news_img/2111675461105340418/SjgxN29r?format=jpg&name=orig",
+        "width": 1024
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111675461105340418/SjgxN29r?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 173,
+      "status": 200,
+      "title": "APOD: 2026 October 18 - Sonified: Eagle Nebula Pillars - NASA Science",
+      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/",
+      "url": "https://t.co/MAREGnatbB"
+     }
+    ]
+   },
    "id": "2111804774530310584",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 24,
+    "impression_count": 28,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -164,10 +511,59 @@
    "edit_history_tweet_ids": [
     "2111759447928561870"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 86,
+      "start": 83,
+      "tag": "AI"
+     },
+     {
+      "end": 104,
+      "start": 87,
+      "tag": "MaterialsScience"
+     },
+     {
+      "end": 134,
+      "start": 131,
+      "tag": "AI"
+     },
+     {
+      "end": 152,
+      "start": 135,
+      "tag": "MaterialsScience"
+     }
+    ],
+    "urls": [
+     {
+      "description": "MIT researchers created an AI model that can identify optimal crystalline materials for various applications. The model combines 3D atomic structures with natural language descriptions to characterize crystal structures from research papers and computational databases.",
+      "display_url": "news.mit.edu/2026/giving-ai…",
+      "end": 129,
+      "expanded_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "images": [
+       {
+        "height": 2500,
+        "url": "https://pbs.twimg.com/news_img/2111677141725405184/OZv4qWjJ?format=jpg&name=orig",
+        "width": 3750
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111677141725405184/OZv4qWjJ?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 106,
+      "status": 200,
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "unwound_url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "url": "https://t.co/0CycJb2CL4"
+     }
+    ]
+   },
    "id": "2111759447928561870",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 5,
+    "impression_count": 6,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -181,6 +577,33 @@
    "edit_history_tweet_ids": [
     "2111714293456744887"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 164,
+      "start": 154,
+      "tag": "ZikaVirus"
+     },
+     {
+      "end": 174,
+      "start": 165,
+      "tag": "Virology"
+     }
+    ],
+    "urls": [
+     {
+      "description": "npj Viruses - Prolyl hydroxylation is required for maturation and secretion of Zika virus non-structural protein 1",
+      "display_url": "nature.com/articles/s4429…",
+      "end": 152,
+      "expanded_url": "https://www.nature.com/articles/s44298-026-00248-8",
+      "start": 129,
+      "status": 200,
+      "title": "Prolyl hydroxylation is required for maturation and secretion of Zika virus non-structural protein 1",
+      "unwound_url": "https://www.nature.com/articles/s44298-026-00248-8?error=cookies_not_supported&code=0a0e3ef9-1245-48fd-8615-15a3775a93e0",
+      "url": "https://t.co/dPyfD3Z8zb"
+     }
+    ]
+   },
    "id": "2111714293456744887",
    "public_metrics": {
     "bookmark_count": 0,
@@ -198,6 +621,45 @@
    "edit_history_tweet_ids": [
     "2111668953483452541"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 184,
+      "start": 170,
+      "tag": "SpaceGenetics"
+     },
+     {
+      "end": 205,
+      "start": 185,
+      "tag": "MicrogravityEffects"
+     }
+    ],
+    "urls": [
+     {
+      "description": "A new study in Science Advances addresses the pressing questions about how long-duration exposure to microgravity affects the human genome.",
+      "display_url": "universetoday.com/articles/new-r…",
+      "end": 168,
+      "expanded_url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
+      "images": [
+       {
+        "height": 584,
+        "url": "https://pbs.twimg.com/news_img/2111597192322424832/u1oiy2l3?format=jpg&name=orig",
+        "width": 700
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111597192322424832/u1oiy2l3?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 145,
+      "status": 200,
+      "title": "New Research Reveals How Long Stays in Space Affects the Human Genome",
+      "unwound_url": "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome",
+      "url": "https://t.co/bUCZAz6swP"
+     }
+    ]
+   },
    "id": "2111668953483452541",
    "public_metrics": {
     "bookmark_count": 0,
@@ -215,6 +677,33 @@
    "edit_history_tweet_ids": [
     "2111623611606073433"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 133,
+      "start": 119,
+      "tag": "ProteinDesign"
+     },
+     {
+      "end": 153,
+      "start": 134,
+      "tag": "SweetTasteReceptor"
+     }
+    ],
+    "urls": [
+     {
+      "description": "npj Science of Food - De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
+      "display_url": "nature.com/articles/s4153…",
+      "end": 117,
+      "expanded_url": "https://www.nature.com/articles/s41538-026-01202-x",
+      "start": 94,
+      "status": 200,
+      "title": "De novo design of protein binders targeting the human sweet taste receptor as potential sweet proteins",
+      "unwound_url": "https://www.nature.com/articles/s41538-026-01202-x?error=cookies_not_supported&code=dcf0cc0a-e8af-4b4a-a25a-70adf2e3303b",
+      "url": "https://t.co/yhmfu6bHa8"
+     }
+    ]
+   },
    "id": "2111623611606073433",
    "public_metrics": {
     "bookmark_count": 0,
@@ -232,6 +721,73 @@
    "edit_history_tweet_ids": [
     "2111608592164102168"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 70,
+      "start": 63,
+      "tag": "shorts"
+     },
+     {
+      "end": 153,
+      "start": 145,
+      "tag": "Science"
+     },
+     {
+      "end": 160,
+      "start": 154,
+      "tag": "Space"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Webb just opened a stellar nursery that's pure chaos: NGC 7129. 🌌...",
+      "display_url": "youtube.com/shorts/xGIFAPi…",
+      "end": 94,
+      "expanded_url": "https://www.youtube.com/shorts/xGIFAPiaCnU",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2111608592432500736/XVveNdPH?format=jpg&name=orig",
+        "width": 405
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111608592432500736/XVveNdPH?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 71,
+      "status": 200,
+      "title": "Webb Caught a Stellar Nursery Exploding With Jets #shorts",
+      "unwound_url": "https://www.youtube.com/shorts/xGIFAPiaCnU",
+      "url": "https://t.co/JQQpVltdHf"
+     },
+     {
+      "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
+      "display_url": "youtube.com/@ciberaifacts/…",
+      "end": 144,
+      "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
+      "images": [
+       {
+        "height": 900,
+        "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
+        "width": 900
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 121,
+      "status": 200,
+      "title": "CAI (AI Science Facts)",
+      "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
+      "url": "https://t.co/Ixim7fNj7d"
+     }
+    ]
+   },
    "id": "2111608592164102168",
    "public_metrics": {
     "bookmark_count": 0,
@@ -249,6 +805,45 @@
    "edit_history_tweet_ids": [
     "2111578258118684825"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 123,
+      "start": 106,
+      "tag": "QuantumComputing"
+     },
+     {
+      "end": 140,
+      "start": 124,
+      "tag": "ErrorCorrection"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Qubits, the quantum equivalent of digital bits, are fragile and prone to errors. That makes building reliable quantum computers extremely difficult. One fix has been to use traditional magic state distillation, ...",
+      "display_url": "phys.org/news/2026-10-q…",
+      "end": 104,
+      "expanded_url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "images": [
+       {
+        "height": 754,
+        "url": "https://pbs.twimg.com/news_img/2111578259980976128/ksc1vj8j?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111578259980976128/ksc1vj8j?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 81,
+      "status": 200,
+      "title": "Quantum magic state cleanup cuts errors 40-fold in first successful hardware test",
+      "unwound_url": "https://phys.org/news/2026-10-quantum-magic-state-cleanup-errors.html",
+      "url": "https://t.co/TJA0757uEC"
+     }
+    ]
+   },
    "id": "2111578258118684825",
    "public_metrics": {
     "bookmark_count": 0,
@@ -266,6 +861,45 @@
    "edit_history_tweet_ids": [
     "2111532941419610608"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 153,
+      "start": 141,
+      "tag": "TechForGood"
+     },
+     {
+      "end": 174,
+      "start": 154,
+      "tag": "CommunityInnovation"
+     }
+    ],
+    "urls": [
+     {
+      "description": "The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "display_url": "news.mit.edu/2026/fostering…",
+      "end": 139,
+      "expanded_url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "images": [
+       {
+        "height": 2001,
+        "url": "https://pbs.twimg.com/news_img/2111532942933835777/O3A0JVkc?format=jpg&name=orig",
+        "width": 3000
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111532942933835777/O3A0JVkc?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 116,
+      "status": 200,
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "unwound_url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "url": "https://t.co/Hu8hSe5Uri"
+     }
+    ]
+   },
    "id": "2111532941419610608",
    "public_metrics": {
     "bookmark_count": 0,
@@ -283,6 +917,45 @@
    "edit_history_tweet_ids": [
     "2111487766320320923"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 151,
+      "start": 134,
+      "tag": "QuantumComputing"
+     },
+     {
+      "end": 168,
+      "start": 152,
+      "tag": "MaterialScience"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Quantum computers represent a next step in the fast-paced evolution of technology. Using quantum bits (qubits), they have the potential to run certain calculations exponentially faster than conventional ...",
+      "display_url": "phys.org/news/2026-10-h…",
+      "end": 132,
+      "expanded_url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2111487766718775296/zbb9DuaM?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111487766718775296/zbb9DuaM?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 109,
+      "status": 200,
+      "title": "New high-frequency method boosts 2D material readout for next-gen quantum computers",
+      "unwound_url": "https://phys.org/news/2026-10-high-frequency-method-boosts-2d.html",
+      "url": "https://t.co/oIZ01PTzmN"
+     }
+    ]
+   },
    "id": "2111487766320320923",
    "public_metrics": {
     "bookmark_count": 0,
@@ -300,6 +973,45 @@
    "edit_history_tweet_ids": [
     "2111442380822118899"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 143,
+      "start": 123,
+      "tag": "WorkplaceEfficiency"
+     },
+     {
+      "end": 159,
+      "start": 144,
+      "tag": "MeetingLessons"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Research suggests listening more while talking less. Killing aimless meetings can help, too.",
+      "display_url": "arstechnica.com/science/2026/1…",
+      "end": 121,
+      "expanded_url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2111417366194323456/nx3llN9h?format=jpg&name=orig",
+        "width": 1152
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111417366194323456/nx3llN9h?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 98,
+      "status": 200,
+      "title": "Science says your boss should talk less in meetings",
+      "unwound_url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+      "url": "https://t.co/Bkb8GEyO8O"
+     }
+    ]
+   },
    "id": "2111442380822118899",
    "public_metrics": {
     "bookmark_count": 0,
@@ -317,6 +1029,45 @@
    "edit_history_tweet_ids": [
     "2111397076240396595"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 203,
+      "start": 186,
+      "tag": "MercuryMysteries"
+     },
+     {
+      "end": 221,
+      "start": 204,
+      "tag": "SpaceExploration"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Despite the upcoming Bepi Colombo visit to Mercury, we need a lander mission to fully understand our solar system’s innermost planet.",
+      "display_url": "universetoday.com/articles/enigm…",
+      "end": 184,
+      "expanded_url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+      "images": [
+       {
+        "height": 426,
+        "url": "https://pbs.twimg.com/news_img/2111372018499072001/D7uxHutj?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111372018499072001/D7uxHutj?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 161,
+      "status": 200,
+      "title": "Enigmatic Mercury Will Remain A Puzzle Until Someone Sends A Lander",
+      "unwound_url": "https://www.universetoday.com/articles/enigmatic-mercury-will-remain-a-puzzle-until-someone-sends-a-lander",
+      "url": "https://t.co/AM8ztwGGXN"
+     }
+    ]
+   },
    "id": "2111397076240396595",
    "public_metrics": {
     "bookmark_count": 0,
@@ -334,6 +1085,44 @@
    "edit_history_tweet_ids": [
     "2111351718462316608"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 119,
+      "start": 110,
+      "tag": "Comet67P"
+     },
+     {
+      "end": 125,
+      "start": 120,
+      "tag": "APOD"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "science.nasa.gov/image-article/…",
+      "end": 108,
+      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "images": [
+       {
+        "height": 1177,
+        "url": "https://pbs.twimg.com/news_img/2111309372185776129/KGY9dUAk?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111309372185776129/KGY9dUAk?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 85,
+      "status": 200,
+      "title": "APOD: 2026 October 17 - 3D 67P - NASA Science",
+      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/",
+      "url": "https://t.co/z1bWz5x1oc"
+     }
+    ]
+   },
    "id": "2111351718462316608",
    "public_metrics": {
     "bookmark_count": 0,
@@ -351,6 +1140,33 @@
    "edit_history_tweet_ids": [
     "2111306473276100716"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 163,
+      "start": 148,
+      "tag": "Phytochemistry"
+     },
+     {
+      "end": 178,
+      "start": 164,
+      "tag": "DrugDiscovery"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Scientific Reports - Chemical profiling and multitarget computational screening reveal bioactive phytochemical scaffolds from Echiochilon pauciflorum stocks ex wight",
+      "display_url": "nature.com/articles/s4159…",
+      "end": 146,
+      "expanded_url": "https://www.nature.com/articles/s41598-026-76031-9",
+      "start": 123,
+      "status": 200,
+      "title": "Chemical profiling and multitarget computational screening reveal bioactive phytochemical scaffolds from Echiochilon pauciflorum stocks ex wight",
+      "unwound_url": "https://www.nature.com/articles/s41598-026-76031-9?error=cookies_not_supported&code=fee63f31-92b8-4663-a9b8-dfe31f60fb49",
+      "url": "https://t.co/HMsj5N5RZ3"
+     }
+    ]
+   },
    "id": "2111306473276100716",
    "public_metrics": {
     "bookmark_count": 0,
@@ -368,6 +1184,45 @@
    "edit_history_tweet_ids": [
     "2111261210926809143"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 157,
+      "start": 148,
+      "tag": "NASANews"
+     },
+     {
+      "end": 174,
+      "start": 158,
+      "tag": "SpaceLeadership"
+     }
+    ],
+    "urls": [
+     {
+      "description": "NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct.",
+      "display_url": "nasa.gov/news-release/n…",
+      "end": 146,
+      "expanded_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "images": [
+       {
+        "height": 3000,
+        "url": "https://pbs.twimg.com/news_img/2111190138520821760/8eq_HaMh?format=jpg&name=orig",
+        "width": 2400
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111190138520821760/8eq_HaMh?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 123,
+      "status": 200,
+      "title": "NASA Names Stephen Cash Marshall Space Flight Center Director - NASA",
+      "unwound_url": "https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/",
+      "url": "https://t.co/0UGFdqxBan"
+     }
+    ]
+   },
    "id": "2111261210926809143",
    "public_metrics": {
     "bookmark_count": 0,
@@ -385,6 +1240,16 @@
    "edit_history_tweet_ids": [
     "2111235650611761498"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 13,
+      "id": "15043157",
+      "start": 3,
+      "username": "SamCorcos"
+     }
+    ]
+   },
    "id": "2111235650611761498",
    "public_metrics": {
     "bookmark_count": 0,
@@ -408,6 +1273,16 @@
    "edit_history_tweet_ids": [
     "2111227415284633757"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 13,
+      "id": "1980039668453515264",
+      "start": 3,
+      "username": "hark_labs"
+     }
+    ]
+   },
    "id": "2111227415284633757",
    "public_metrics": {
     "bookmark_count": 0,
@@ -431,6 +1306,45 @@
    "edit_history_tweet_ids": [
     "2111215872908153260"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 171,
+      "start": 160,
+      "tag": "Exoplanets"
+     },
+     {
+      "end": 182,
+      "start": 172,
+      "tag": "Astronomy"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Astronomers used decades of archival data and new radial velocity measurements to search for exoplanets around a neaby binary star, 70 Oph AB. They didn't find any, which can seem like a failure. But in this case, their work only ruled out large, Jupiter-mass planets at certain distances. There could still be Earth-sized planets there, and their precise findings will only fuel a deeper search with more powerful telescopes.",
+      "display_url": "universetoday.com/articles/in-th…",
+      "end": 158,
+      "expanded_url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+      "images": [
+       {
+        "height": 563,
+        "url": "https://pbs.twimg.com/news_img/2111215873239486464/K71nseU2?format=jpg&name=orig",
+        "width": 1000
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111215873239486464/K71nseU2?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 135,
+      "status": 200,
+      "title": "In the Search for Exoplanets, Some Failures Are A Success",
+      "unwound_url": "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success",
+      "url": "https://t.co/QAQyeEFdKm"
+     }
+    ]
+   },
    "id": "2111215872908153260",
    "public_metrics": {
     "bookmark_count": 0,
@@ -448,6 +1362,16 @@
    "edit_history_tweet_ids": [
     "2111191694523912529"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 18,
+      "id": "1960303594047209472",
+      "start": 3,
+      "username": "Ahwoo_Official"
+     }
+    ]
+   },
    "id": "2111191694523912529",
    "public_metrics": {
     "bookmark_count": 0,
@@ -471,6 +1395,17 @@
    "edit_history_tweet_ids": [
     "2111184255753834703"
    ],
+   "entities": {
+    "urls": [
+     {
+      "display_url": "x.com/WHOSTP47/statu…",
+      "end": 60,
+      "expanded_url": "https://twitter.com/WHOSTP47/status/2111179569038544924",
+      "start": 37,
+      "url": "https://t.co/KkjCdnI7MQ"
+     }
+    ]
+   },
    "id": "2111184255753834703",
    "public_metrics": {
     "bookmark_count": 0,
@@ -494,6 +1429,16 @@
    "edit_history_tweet_ids": [
     "2111172135934910964"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "3167257102",
+      "start": 0,
+      "username": "Erdayastronaut"
+     }
+    ]
+   },
    "id": "2111172135934910964",
    "in_reply_to_user_id": "3167257102",
    "public_metrics": {
@@ -518,6 +1463,45 @@
    "edit_history_tweet_ids": [
     "2111170534184755328"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 128,
+      "start": 121,
+      "tag": "Hubble"
+     },
+     {
+      "end": 136,
+      "start": 129,
+      "tag": "Galaxy"
+     }
+    ],
+    "urls": [
+     {
+      "description": "This Hubble image features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away.",
+      "display_url": "science.nasa.gov/missions/hubbl…",
+      "end": 119,
+      "expanded_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "images": [
+       {
+        "height": 1241,
+        "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111090711323885568/ljAdlGKT?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 96,
+      "status": 200,
+      "title": "NASA's Hubble Spies Spiral’s Edge - NASA Science",
+      "unwound_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/",
+      "url": "https://t.co/AyOcu9B56K"
+     }
+    ]
+   },
    "id": "2111170534184755328",
    "public_metrics": {
     "bookmark_count": 0,
@@ -535,6 +1519,45 @@
    "edit_history_tweet_ids": [
     "2111125287455096999"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 109,
+      "start": 106,
+      "tag": "AI"
+     },
+     {
+      "end": 120,
+      "start": 110,
+      "tag": "Magnetism"
+     }
+    ],
+    "urls": [
+     {
+      "description": "To build faster and more energy-efficient computers, researchers need to understand nanoscale magnetic materials. But looking inside these tiny magnets is surprisingly difficult: Modern microscopes only ...",
+      "display_url": "phys.org/news/2026-10-p…",
+      "end": 104,
+      "expanded_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "images": [
+       {
+        "height": 1219,
+        "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111125290030428160/NgZTR8on?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 81,
+      "status": 200,
+      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+      "unwound_url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "url": "https://t.co/FghqdxxR7v"
+     }
+    ]
+   },
    "id": "2111125287455096999",
    "public_metrics": {
     "bookmark_count": 0,
@@ -552,6 +1575,55 @@
    "edit_history_tweet_ids": [
     "2111080006403424463"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 123,
+      "start": 115,
+      "tag": "Physics"
+     },
+     {
+      "end": 134,
+      "start": 124,
+      "tag": "Neutrinos"
+     },
+     {
+      "end": 177,
+      "start": 161,
+      "tag": "ParticlePhysics"
+     },
+     {
+      "end": 191,
+      "start": 178,
+      "tag": "Astrophysics"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Glimpses of the \"gallium anomaly\" were first seen in the mid-1990s, but it was first clearly discovered and stated in 2007 by neutrino physicist Carlo Giunti of Italy. The problem is simple to state but ...",
+      "display_url": "phys.org/news/2026-10-g…",
+      "end": 159,
+      "expanded_url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
+      "images": [
+       {
+        "height": 637,
+        "url": "https://pbs.twimg.com/news_img/2111080006797733888/VVfZqBXW?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2111080006797733888/VVfZqBXW?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 136,
+      "status": 200,
+      "title": "Solving the gallium anomaly: New calculation may explain neutrino shortfall without invoking new particles",
+      "unwound_url": "https://phys.org/news/2026-10-gallium-anomaly-neutrino-shortfall-invoking.html",
+      "url": "https://t.co/Qk4gIQ7tsJ"
+     }
+    ]
+   },
    "id": "2111080006403424463",
    "public_metrics": {
     "bookmark_count": 0,
@@ -569,6 +1641,33 @@
    "edit_history_tweet_ids": [
     "2111034660138692777"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 131,
+      "start": 119,
+      "tag": "Aquaculture"
+     },
+     {
+      "end": 143,
+      "start": 132,
+      "tag": "FishHealth"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Scientific Reports - Dietary nanoencapsulated A-Ghrelin improves growth performance and health status in juvenile Siberian sturgeon",
+      "display_url": "nature.com/articles/s4159…",
+      "end": 117,
+      "expanded_url": "https://www.nature.com/articles/s41598-026-76201-9",
+      "start": 94,
+      "status": 200,
+      "title": "Dietary nanoencapsulated A-Ghrelin improves growth performance and health status in juvenile Siberian sturgeon",
+      "unwound_url": "https://www.nature.com/articles/s41598-026-76201-9?error=cookies_not_supported&code=a584aafc-11f0-4221-b19d-a89d9bf51ebc",
+      "url": "https://t.co/qsqlk0fjEH"
+     }
+    ]
+   },
    "id": "2111034660138692777",
    "public_metrics": {
     "bookmark_count": 0,
@@ -586,6 +1685,44 @@
    "edit_history_tweet_ids": [
     "2110989368982958281"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 129,
+      "start": 116,
+      "tag": "SpaceStation"
+     },
+     {
+      "end": 135,
+      "start": 130,
+      "tag": "APOD"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "science.nasa.gov/image-article/…",
+      "end": 114,
+      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+      "images": [
+       {
+        "height": 900,
+        "url": "https://pbs.twimg.com/news_img/2110946952447758336/1bszCOwS?format=png&name=orig",
+        "width": 900
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110946952447758336/1bszCOwS?format=png&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 91,
+      "status": 200,
+      "title": "APOD: 2026 October 16 – Chasing the International Space Station - NASA Science",
+      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/",
+      "url": "https://t.co/9PlALWoXJj"
+     }
+    ]
+   },
    "id": "2110989368982958281",
    "public_metrics": {
     "bookmark_count": 0,
@@ -603,6 +1740,45 @@
    "edit_history_tweet_ids": [
     "2110944130453098747"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 147,
+      "start": 142,
+      "tag": "KRAS"
+     },
+     {
+      "end": 162,
+      "start": 148,
+      "tag": "CancerTherapy"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Oncogene - Dynamic remodeling of the KRAS interactome by direct RAS inhibitors with distinct mechanism of action reveals convergent responses",
+      "display_url": "nature.com/articles/s4138…",
+      "end": 140,
+      "expanded_url": "https://www.nature.com/articles/s41388-026-04017-y",
+      "images": [
+       {
+        "height": 1773,
+        "url": "https://pbs.twimg.com/news_img/2110944148266397696/gCr5x4LC?format=jpg&name=orig",
+        "width": 2000
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110944148266397696/gCr5x4LC?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "Dynamic remodeling of the KRAS interactome by direct RAS inhibitors with distinct mechanism of action reveals convergent responses",
+      "unwound_url": "https://www.nature.com/articles/s41388-026-04017-y?error=cookies_not_supported&code=0958d244-99fc-4cde-9da7-211b92cff7b6",
+      "url": "https://t.co/8SmiVBziXH"
+     }
+    ]
+   },
    "id": "2110944130453098747",
    "public_metrics": {
     "bookmark_count": 0,
@@ -620,6 +1796,16 @@
    "edit_history_tweet_ids": [
     "2110916785256136726"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 14,
+      "id": "15527242",
+      "start": 3,
+      "username": "herbertong"
+     }
+    ]
+   },
    "id": "2110916785256136726",
    "public_metrics": {
     "bookmark_count": 0,
@@ -643,6 +1829,45 @@
    "edit_history_tweet_ids": [
     "2110898837569307013"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 176,
+      "start": 161,
+      "tag": "ScienceHistory"
+     },
+     {
+      "end": 194,
+      "start": 177,
+      "tag": "AcousticResearch"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Researchers hunted for clues in modal analysis of 20th-century replica bell at Penn State Behrend.",
+      "display_url": "arstechnica.com/science/2026/1…",
+      "end": 159,
+      "expanded_url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2110811673770827776/Z_K3bAOE?format=jpg&name=orig",
+        "width": 1152
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110811673770827776/Z_K3bAOE?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 136,
+      "status": 200,
+      "title": "What did the Liberty Bell sound like? Science is on the case.",
+      "unwound_url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+      "url": "https://t.co/Q7la4fK3Zl"
+     }
+    ]
+   },
    "id": "2110898837569307013",
    "public_metrics": {
     "bookmark_count": 0,
@@ -660,6 +1885,73 @@
    "edit_history_tweet_ids": [
     "2110883818039353507"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 72,
+      "start": 65,
+      "tag": "shorts"
+     },
+     {
+      "end": 155,
+      "start": 147,
+      "tag": "Science"
+     },
+     {
+      "end": 162,
+      "start": 156,
+      "tag": "Space"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Next month, Voyager 1 becomes the first human-made object to reach ...",
+      "display_url": "youtube.com/shorts/PQjRLIz…",
+      "end": 96,
+      "expanded_url": "https://www.youtube.com/shorts/PQjRLIzdKz0",
+      "images": [
+       {
+        "height": 720,
+        "url": "https://pbs.twimg.com/news_img/2110883818303586306/Y8DyGw8n?format=jpg&name=orig",
+        "width": 405
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110883818303586306/Y8DyGw8n?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 73,
+      "status": 200,
+      "title": "Voyager 1 Is About to Be One Light-Day From Earth 🤯 #shorts",
+      "unwound_url": "https://www.youtube.com/shorts/PQjRLIzdKz0",
+      "url": "https://t.co/j0zBPw0BPt"
+     },
+     {
+      "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
+      "display_url": "youtube.com/@ciberaifacts/…",
+      "end": 146,
+      "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
+      "images": [
+       {
+        "height": 900,
+        "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=orig",
+        "width": 900
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110059904132415488/T-1m6KLo?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 123,
+      "status": 200,
+      "title": "CAI (AI Science Facts)",
+      "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
+      "url": "https://t.co/Ixim7fNj7d"
+     }
+    ]
+   },
    "id": "2110883818039353507",
    "public_metrics": {
     "bookmark_count": 0,
@@ -677,6 +1969,45 @@
    "edit_history_tweet_ids": [
     "2110853474573549728"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 126,
+      "start": 115,
+      "tag": "Exoplanets"
+     },
+     {
+      "end": 139,
+      "start": 127,
+      "tag": "StellarMass"
+     }
+    ],
+    "urls": [
+     {
+      "description": "New research draws a link between a host star and the characteristics of its planetary system. Higher mass stars create one family of systems, while lower mass stars create another. These results provide a new, more detailed template for understanding exoplanet systems.",
+      "display_url": "universetoday.com/articles/host-…",
+      "end": 113,
+      "expanded_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
+      "images": [
+       {
+        "height": 558,
+        "url": "https://pbs.twimg.com/news_img/2110781963355254784/lznxYve4?format=jpg&name=orig",
+        "width": 1000
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110781963355254784/lznxYve4?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 90,
+      "status": 200,
+      "title": "Host Stars Shape Their Planetary Systems Into Two Families",
+      "unwound_url": "https://www.universetoday.com/articles/host-stars-shape-their-planetary-systems-into-two-families",
+      "url": "https://t.co/OXdIgXSimF"
+     }
+    ]
+   },
    "id": "2110853474573549728",
    "public_metrics": {
     "bookmark_count": 0,
@@ -694,6 +2025,16 @@
    "edit_history_tweet_ids": [
     "2110825695438131561"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "14710129",
+      "start": 0,
+      "username": "PeterDiamandis"
+     }
+    ]
+   },
    "id": "2110825695438131561",
    "in_reply_to_user_id": "14710129",
    "public_metrics": {
@@ -718,6 +2059,16 @@
    "edit_history_tweet_ids": [
     "2110823916675670243"
    ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 15,
+      "id": "14710129",
+      "start": 0,
+      "username": "PeterDiamandis"
+     }
+    ]
+   },
    "id": "2110823916675670243",
    "in_reply_to_user_id": "14710129",
    "public_metrics": {
@@ -742,6 +2093,33 @@
    "edit_history_tweet_ids": [
     "2110808233057361976"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 193,
+      "start": 180,
+      "tag": "SpaceStation"
+     },
+     {
+      "end": 205,
+      "start": 194,
+      "tag": "SolarPower"
+     }
+    ],
+    "urls": [
+     {
+      "description": "From the International Space Station’s unique position 250 miles above Earth, the Sun is a vital source of energy. Solar power supports the station’s life",
+      "display_url": "nasa.gov/missions/stati…",
+      "end": 178,
+      "expanded_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+      "start": 155,
+      "status": 200,
+      "title": "Power Up: Roll Out Solar Arrays Boost Space Station Power Supply - NASA",
+      "unwound_url": "https://www.nasa.gov/missions/station/iss-research/power-up-roll-out-solar-arrays-boost-space-station-power-supply/",
+      "url": "https://t.co/LN9cbzQZqN"
+     }
+    ]
+   },
    "id": "2110808233057361976",
    "public_metrics": {
     "bookmark_count": 0,
@@ -759,6 +2137,45 @@
    "edit_history_tweet_ids": [
     "2110762929239023640"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 138,
+      "start": 124,
+      "tag": "ClimateChange"
+     },
+     {
+      "end": 152,
+      "start": 139,
+      "tag": "Conservation"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Seabirds, native plants and healthy reefs can help atolls build as seas rise.",
+      "display_url": "arstechnica.com/science/2026/1…",
+      "end": 122,
+      "expanded_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=orig",
+        "width": 1152
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110750302421008384/iULZ6y1w?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 99,
+      "status": 200,
+      "title": "Seabirds, forests and coral could help save sinking islands",
+      "unwound_url": "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+      "url": "https://t.co/QbdamjalKO"
+     }
+    ]
+   },
    "id": "2110762929239023640",
    "public_metrics": {
     "bookmark_count": 0,
@@ -776,6 +2193,45 @@
    "edit_history_tweet_ids": [
     "2110717570458521800"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 134,
+      "start": 120,
+      "tag": "VenusMissions"
+     },
+     {
+      "end": 145,
+      "start": 135,
+      "tag": "NASASpace"
+     }
+    ],
+    "urls": [
+     {
+      "description": "This is great news for us. We're staffing up. We're accelerating.\"",
+      "display_url": "arstechnica.com/space/2026/10/…",
+      "end": 118,
+      "expanded_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=orig",
+        "width": 1152
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110473279534485504/1iIlspor?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 95,
+      "status": 200,
+      "title": "NASA's embattled Venus missions are back on track after cancellation threat",
+      "unwound_url": "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+      "url": "https://t.co/w7gkA4gVeI"
+     }
+    ]
+   },
    "id": "2110717570458521800",
    "public_metrics": {
     "bookmark_count": 0,
@@ -793,6 +2249,45 @@
    "edit_history_tweet_ids": [
     "2110672276928766361"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 168,
+      "start": 154,
+      "tag": "GyroscopeTech"
+     },
+     {
+      "end": 190,
+      "start": 169,
+      "tag": "NavigationInnovation"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Researchers have developed a chip-scale optical ring-laser gyroscope that can measure rotation as slow as 37 degrees per hour. This record sensitivity, approaching Earth's rotation rate of 15 degrees ...",
+      "display_url": "phys.org/news/2026-10-c…",
+      "end": 152,
+      "expanded_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+      "images": [
+       {
+        "height": 525,
+        "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110569331176452096/MWnut4GG?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 129,
+      "status": 200,
+      "title": "New chip-scale gyroscope measures rotation with unprecedented sensitivity",
+      "unwound_url": "https://phys.org/news/2026-10-chip-scale-gyroscope-rotation-unprecedented.html",
+      "url": "https://t.co/IT70aPI4U9"
+     }
+    ]
+   },
    "id": "2110672276928766361",
    "public_metrics": {
     "bookmark_count": 0,
@@ -810,6 +2305,44 @@
    "edit_history_tweet_ids": [
     "2110626951316861377"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 139,
+      "start": 130,
+      "tag": "MilkyWay"
+     },
+     {
+      "end": 145,
+      "start": 140,
+      "tag": "APOD"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "science.nasa.gov/image-article/…",
+      "end": 128,
+      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+      "images": [
+       {
+        "height": 1280,
+        "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=orig",
+        "width": 720
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110584587009052672/rP7UwuHn?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 105,
+      "status": 200,
+      "title": "APOD: 2026 October 15 - The Milky Way over Manhattan - NASA Science",
+      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+      "url": "https://t.co/q8MyTiCmdw"
+     }
+    ]
+   },
    "id": "2110626951316861377",
    "public_metrics": {
     "bookmark_count": 0,
@@ -827,6 +2360,33 @@
    "edit_history_tweet_ids": [
     "2110581662937702705"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 128,
+      "start": 115,
+      "tag": "SpaceBiology"
+     },
+     {
+      "end": 143,
+      "start": 129,
+      "tag": "PlantGenetics"
+     }
+    ],
+    "urls": [
+     {
+      "description": "npj Microgravity - Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
+      "display_url": "nature.com/articles/s4152…",
+      "end": 113,
+      "expanded_url": "https://www.nature.com/articles/s41526-026-00663-4",
+      "start": 90,
+      "status": 200,
+      "title": "Genetic alterations of the putrescine metabolic pathway attenuate plant responses to spaceflight",
+      "unwound_url": "https://www.nature.com/articles/s41526-026-00663-4?error=cookies_not_supported&code=500bda5d-2ac5-4ae7-bdae-2793e15f3103",
+      "url": "https://t.co/ZvoiTrxBZO"
+     }
+    ]
+   },
    "id": "2110581662937702705",
    "public_metrics": {
     "bookmark_count": 0,
@@ -844,6 +2404,45 @@
    "edit_history_tweet_ids": [
     "2110536374155989079"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 152,
+      "start": 142,
+      "tag": "BlackHole"
+     },
+     {
+      "end": 169,
+      "start": 153,
+      "tag": "GalaxyCollision"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Astronomers have used NASA’s Chandra X-ray Observatory to break down the cause of a remarkable formation of radio waves they have nicknamed the “Treble Clef”",
+      "display_url": "science.nasa.gov/missions/chand…",
+      "end": 140,
+      "expanded_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "images": [
+       {
+        "height": 953,
+        "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=orig",
+        "width": 1280
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110426272589328385/rzMQmcGi?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 117,
+      "status": 200,
+      "title": "NASA’s Chandra Breaks Down ‘Treble Clef’s’ Galaxy Cluster Collision - NASA Science",
+      "unwound_url": "https://science.nasa.gov/missions/chandra/nasas-chandra-breaks-down-treble-clefs-galaxy-cluster-collision/",
+      "url": "https://t.co/MIRKKpajlx"
+     }
+    ]
+   },
    "id": "2110536374155989079",
    "public_metrics": {
     "bookmark_count": 0,
@@ -861,6 +2460,33 @@
    "edit_history_tweet_ids": [
     "2110521370069365027"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 83,
+      "start": 75,
+      "tag": "Science"
+     },
+     {
+      "end": 87,
+      "start": 84,
+      "tag": "AI"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Space and science, distilled into a daily signal.",
+      "display_url": "ciber101.github.io/SciVigilance.g…",
+      "end": 74,
+      "expanded_url": "https://ciber101.github.io/SciVigilance.github.io/",
+      "start": 51,
+      "status": 200,
+      "title": "SciVigilance — The Daily Signal",
+      "unwound_url": "https://ciber101.github.io/SciVigilance.github.io/",
+      "url": "https://t.co/h6417C2e7q"
+     }
+    ]
+   },
    "id": "2110521370069365027",
    "public_metrics": {
     "bookmark_count": 0,
@@ -878,6 +2504,45 @@
    "edit_history_tweet_ids": [
     "2110492368227151926"
    ],
+   "entities": {
+    "hashtags": [
+     {
+      "end": 147,
+      "start": 128,
+      "tag": "WeatherForecasting"
+     },
+     {
+      "end": 164,
+      "start": 148,
+      "tag": "MachineLearning"
+     }
+    ],
+    "urls": [
+     {
+      "description": "A new technique significantly improves weather forecasting beyond two weeks. Researchers developed a machine-learning model that learns to correct errors in existing forecasting models to make their output more accurate over the two-to-six-week time frame, a key window for emergency planning.",
+      "display_url": "news.mit.edu/2026/researche…",
+      "end": 126,
+      "expanded_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "images": [
+       {
+        "height": 540,
+        "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=orig",
+        "width": 810
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2110396649096761344/Ib4peKQr?format=jpg&name=150x150",
+        "width": 150
+       }
+      ],
+      "start": 103,
+      "status": 200,
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "unwound_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "url": "https://t.co/EnyFwEflRj"
+     }
+    ]
+   },
    "id": "2110492368227151926",
    "public_metrics": {
     "bookmark_count": 0,
@@ -889,36 +2554,12 @@
    },
    "text": "Breakthrough! Machine learning boosts 2-6 week weather forecasts, revolutionizing emergency planning.\n\nhttps://t.co/EnyFwEflRj\n\n#WeatherForecasting #MachineLearning",
    "url": "https://x.com/i/status/2110492368227151926"
-  },
-  {
-   "created_at": "2026-10-14T17:44:37.000Z",
-   "edit_history_tweet_ids": [
-    "2110426564647367041"
-   ],
-   "id": "2110426564647367041",
-   "in_reply_to_user_id": "2054998853900775424",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 66,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "referenced_tweets": [
-    {
-     "id": "2110345153202327718",
-     "type": "replied_to"
-    }
-   ],
-   "text": "@NASADepAdmin Put them all over the country. It's very important.",
-   "url": "https://x.com/i/status/2110426564647367041"
   }
  ],
  "includes": {},
  "meta": {
   "result_count": 50,
-  "newest_id": "2112121820505850041",
-  "oldest_id": "2110426564647367041"
+  "newest_id": "2112167152610668932",
+  "oldest_id": "2110492368227151926"
  }
 }
