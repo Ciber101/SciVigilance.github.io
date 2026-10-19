@@ -134,9 +134,6 @@
  "https://www.space.com/stargazing/solar-eclipses/10-best-places-to-see-the-2027-total-solar-eclipse-in-spain": {
   "s": "In 2027, in southern Spain, people can see a total solar eclipse. Places like the Costa del Sol and whitewashed mountain villages are ideal for this."
  },
- "https://www.livescience.com/planet-earth/plants/california-redwoods-are-struggling-in-the-heat-and-its-not-clear-how-much-damage-is-being-done": {
-  "s": "Redwoods slow down their ability to use sunlight and water when it's hot. This might affect their survival if heat continues to rise."
- },
  "https://www.universetoday.com/articles/a-radio-phoenix-beyond-the-zone-of-avoidance": {
   "s": "Astronomers found a strange radio formation beyond the Zone of Avoidance, resembling a musical symbol. This discovery helps understand what's behind the Milky Way, where optical light is blocked. Research using X-ray and radio telescopes reveals the formation is a super-heated gas cluster, shedding light on its history and properties."
  },
@@ -149,22 +146,11 @@
  "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015": {
   "s": "Governments and companies team up to offer online services. A study finds these partnerships can influence how much people trust their government. Lack of trust can lead to non-compliance with rules and harder problem-solving for governments."
  },
- "https://phys.org/news/2026-10-physicists-quantum-limit-thermalization.html": {
-  "s": "How an object reaches a stable temperature depends on many factors. But at the quantum level, a new study shows there's a universal speed limit to how quickly different quantum systems can reach thermal equilibrium. This finding is significant because it proves quantum mechanics imposes a fundamental speed limit, regardless of how much energy is used or how much manipulation is applied."
- },
  "https://www.sciencedaily.com/releases/2026/10/261017230021.htm": {
   "s": "Scientists found three brain pathways that help people recover from severe depression after getting a special brain stimulation treatment. This discovery could help doctors better target the brain to improve treatment, making it more precise and effective."
  },
- "https://www.space.com/space-exploration/artemis/artemis-ii-astronauts-honored-with-stephen-hawking-medal-at-starmus": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
   "s": "DeepSeek released a new version of its model, DeepSeek-V4.1-Flash-1017, accessible on Hugging Face. This update enhances the model's performance in various tasks, improving reasoning, coding, and visual tasks. It also speeds up task execution and reduces costs."
- },
- "https://www.livescience.com/health/neuroscience/is-the-brain-actually-2-nervous-systems-smooshed-together-a-new-study-claims-it-is": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/a-distant-supercluster-of-galaxies-points-to-self-interacting-dark-matter": {
   "s": "A distant supercluster of galaxies, nicknamed El Gordo, is unusually large for its distance. This poses a puzzle since dark matter is the main component of the universe but doesn't interact strongly with light or regular matter. A new study suggests dark matter might interact with itself in a specific way, explaining how this supercluster formed early in the universe's history."
@@ -263,9 +249,6 @@
  "https://simonwillison.net/2026/Oct/12/web-edit/": {
   "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
  },
- "https://www.sciencealert.com/new-form-of-superconductor-behavior-discovered-that-weve-never-seen-before": {
-  "s": "Scientists discovered a new form of superconductivity called pair density waves in uranium ditelluride. This is significant because it shows Cooper pairs forming before the full superconducting state, a phenomenon never observed before."
- },
  "https://www.sciencenews.org/article/brain-implants-restore-voices-injuries": {
   "s": "Harrell, who has ALS, regained his voice through a brain implant that translates his thoughts into speech. This technology could help others with similar conditions regain their ability to communicate."
  },
@@ -286,5 +269,26 @@
  },
  "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/": {
   "s": "NVIDIA has made its AI workload and GPU orchestration platform Run:ai available as open source. This matters because it offers developers a flexible tool to manage GPU resources in Kubernetes environments, enhancing the capabilities of AI workloads without replacing Kubernetes."
+ },
+ "https://www.sciencealert.com/how-many-steps-a-day-does-it-take-to-sharpen-your-attention-a-14-year-study-hints-at-the-range": {
+  "s": "Researchers found that participants averaging 8,875 steps per day or more performed better on cognitive tests compared to those averaging 5,108 steps. This suggests that even modest increases in daily movement can have benefits for mental sharpness."
+ },
+ "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head": {
+  "s": "The \"Birdman\" copper plate, found in an Indigenous grave, may be a woman dressed as a warrior rather than a man. This reinterpretation matters as it challenges traditional interpretations of ancient artifacts, potentially offering new insights into gender roles and cultural practices of the time."
+ },
+ "https://phys.org/news/2026-10-factoring-daily-weather-extremes-glacier.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/health/reproductive-health/rising-temperatures-could-boost-pregnancy-risks-worldwide-heres-how": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
+  "s": "Apertus 1.5 release adds multimodal understanding to the model, processing images and audio alongside text. This update also introduces a thinking mode for reasoning and improves tool use and instruction-following."
  }
 }

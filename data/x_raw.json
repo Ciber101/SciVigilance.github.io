@@ -97,7 +97,7 @@
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
-    "retweet_count": 1498
+    "retweet_count": 1514
    },
    "referenced_tweets": [
     {
@@ -555,7 +555,7 @@
    "id": "2111080006403424463",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 17,
+    "impression_count": 18,
     "like_count": 1,
     "quote_count": 0,
     "reply_count": 0,
@@ -915,208 +915,10 @@
    "url": "https://x.com/i/status/2110426564647367041"
   }
  ],
- "includes": {
-  "tweets": [
-   {
-    "created_at": "2026-10-18T20:16:44.000Z",
-    "edit_history_tweet_ids": [
-     "2111914396490604547"
-    ],
-    "id": "2111914396490604547",
-    "in_reply_to_user_id": "1353836358901501952",
-    "public_metrics": {
-     "bookmark_count": 1073,
-     "impression_count": 1718914,
-     "like_count": 34142,
-     "quote_count": 271,
-     "reply_count": 1241,
-     "retweet_count": 1498
-    },
-    "referenced_tweets": [
-     {
-      "id": "2111881963657412903",
-      "type": "replied_to"
-     }
-    ],
-    "text": "@AnthropicAI I recommend giving the shares directly to the public"
-   },
-   {
-    "created_at": "2026-10-16T02:25:44.000Z",
-    "edit_history_tweet_ids": [
-     "2110920095707123737"
-    ],
-    "id": "2110920095707123737",
-    "public_metrics": {
-     "bookmark_count": 63,
-     "impression_count": 15131,
-     "like_count": 705,
-     "quote_count": 2,
-     "reply_count": 27,
-     "retweet_count": 85
-    },
-    "referenced_tweets": [
-     {
-      "id": "2110906232735191340",
-      "type": "quoted"
-     }
-    ],
-    "text": "We're building a legit engineering team in the government. 🇺🇸💪\n\nDM me if want to take on some of the biggest problems in the world. \n\nHuge thanks to @USTechForce for making it happen. https://t.co/lpdkqMUtNX"
-   },
-   {
-    "created_at": "2026-10-16T22:32:36.000Z",
-    "edit_history_tweet_ids": [
-     "2111223813447020815"
-    ],
-    "id": "2111223813447020815",
-    "public_metrics": {
-     "bookmark_count": 422,
-     "impression_count": 1038421,
-     "like_count": 857,
-     "quote_count": 207,
-     "reply_count": 400,
-     "retweet_count": 36
-    },
-    "text": "We're giving away $1,000,000 of pizza right now all across the U.S. \n\nIt's pizza night, on us. To celebrate the launch of Hark Pro. Download the app and tell Hark to order a free pizza. https://t.co/YRHAFYfxKd\n\nInstructions in thread to order yours now. https://t.co/eO1IJXLNRv"
-   },
-   {
-    "attachments": {
-     "media_keys": [
-      "3_2110976695637585920"
-     ]
-    },
-    "created_at": "2026-10-16T06:12:42.000Z",
-    "edit_history_tweet_ids": [
-     "2110977211855704508"
-    ],
-    "id": "2110977211855704508",
-    "public_metrics": {
-     "bookmark_count": 203,
-     "impression_count": 16384,
-     "like_count": 727,
-     "quote_count": 4,
-     "reply_count": 17,
-     "retweet_count": 67
-    },
-    "text": "We've made BRUTAL, our free C# game framework, open source.\n\nAlready helping RimWorld move beyond Unity and powering Kitten Space Agency.\n\n@rocket2guns  shares why developer independence matters and what comes next.\n\nhttps://t.co/4GfIBHMSty https://t.co/KVp44Gmru3"
-   },
-   {
-    "attachments": {
-     "media_keys": [
-      "13_2111178402950504451"
-     ]
-    },
-    "created_at": "2026-10-16T19:36:47.000Z",
-    "edit_history_tweet_ids": [
-     "2111179463899979959",
-     "2111179569038544924"
-    ],
-    "id": "2111179569038544924",
-    "public_metrics": {
-     "bookmark_count": 19,
-     "impression_count": 3348,
-     "like_count": 74,
-     "quote_count": 3,
-     "reply_count": 5,
-     "retweet_count": 14
-    },
-    "text": "Dr. Willy Chertman of @HHSgov joins the Science: A New Golden Age Summit to discuss metascience and the process of improving scientific policy in the federal government.\n\nFull remarks: https://t.co/fv8CFq3t1C"
-   },
-   {
-    "attachments": {
-     "media_keys": [
-      "13_2111166828638822401"
-     ]
-    },
-    "created_at": "2026-10-16T18:47:43.000Z",
-    "edit_history_tweet_ids": [
-     "2111167221523534069"
-    ],
-    "id": "2111167221523534069",
-    "public_metrics": {
-     "bookmark_count": 189,
-     "impression_count": 82767,
-     "like_count": 2491,
-     "quote_count": 6,
-     "reply_count": 98,
-     "retweet_count": 75
-    },
-    "text": "It's really funny looking back at this video from 2018 where I broke down a little bit of the physics of what it would take to make a Roadster fly. 🚨 A bit of cringe warning... old spacesuit Tim alert 🚨😂 https://t.co/hQsrFmTtum"
-   },
-   {
-    "created_at": "2026-10-16T02:03:45.000Z",
-    "edit_history_tweet_ids": [
-     "2110914565341139447"
-    ],
-    "id": "2110914565341139447",
-    "public_metrics": {
-     "bookmark_count": 16,
-     "impression_count": 24034,
-     "like_count": 611,
-     "quote_count": 0,
-     "reply_count": 13,
-     "retweet_count": 34
-    },
-    "referenced_tweets": [
-     {
-      "id": "2110913107094606330",
-      "type": "quoted"
-     }
-    ],
-    "text": "The Semi, the Cybertruck and the Roadster were lined up, and only one of them went over the top of the others!\n\nUnreal 🔥\n\n$TSLA $SPCX https://t.co/ylF7lU4E6r"
-   },
-   {
-    "created_at": "2026-10-14T20:30:45.000Z",
-    "edit_history_tweet_ids": [
-     "2110468374320787840"
-    ],
-    "id": "2110468374320787840",
-    "public_metrics": {
-     "bookmark_count": 23,
-     "impression_count": 15780,
-     "like_count": 334,
-     "quote_count": 2,
-     "reply_count": 44,
-     "retweet_count": 27
-    },
-    "text": "I get asked whether AI will make people lazy... I'm concerned it will make them timid... waiting to see how it all shakes out before they take action. The winners of this decade won’t necessarily be the most talented, but those who started building today."
-   },
-   {
-    "created_at": "2026-10-15T17:22:58.000Z",
-    "edit_history_tweet_ids": [
-     "2110783506074730793"
-    ],
-    "id": "2110783506074730793",
-    "public_metrics": {
-     "bookmark_count": 13,
-     "impression_count": 15482,
-     "like_count": 283,
-     "quote_count": 3,
-     "reply_count": 22,
-     "retweet_count": 24
-    },
-    "text": "I do not want a positive story that asks people to look away from suffering, but one that points to a place where suffering declined, names what worked, and invites more people to finish the job."
-   },
-   {
-    "created_at": "2026-10-14T12:21:07.000Z",
-    "edit_history_tweet_ids": [
-     "2110345153202327718"
-    ],
-    "id": "2110345153202327718",
-    "public_metrics": {
-     "bookmark_count": 28,
-     "impression_count": 29990,
-     "like_count": 366,
-     "quote_count": 7,
-     "reply_count": 26,
-     "retweet_count": 47
-    },
-    "text": "The enthusiasm for the U.S. Space Academy has been overwhelming, and we want every state ready to compete. \n\nWe’re extending the RFI deadline to Nov. 16, giving states more time to put forward their strongest vision for building America’s future in space 🇺🇸🚀"
-   }
-  ]
- },
+ "includes": {},
  "meta": {
+  "result_count": 50,
   "newest_id": "2112121820505850041",
-  "oldest_id": "2110426564647367041",
-  "result_count": 50
+  "oldest_id": "2110426564647367041"
  }
 }
