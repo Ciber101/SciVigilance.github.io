@@ -25,7 +25,7 @@ for acc in raw['accounts']:
         words = re.findall(r"[A-Za-z0-9'’]+", text)
         if acc['username'].lower() == 'elonmusk':
             low = text.lower()
-            if len(words) < 2 or not re.search(TECH, low) or re.search(BLOCK, low): continue
+            if len(words) < 2 or not re.search(TECH, low) or re.search(BLOCK, low) or re.search('[\U0001F602\U0001F923\U0001F606\U0001F480]', text): continue
         elif len(words) < 3 or re.search(PROMO, text.lower()) or re.search(FLUFF, text.lower()): continue
         if p['created_at'] < CUTOFF[:19]: continue
         imgs = [media[k].get('url') or media[k].get('preview_image_url') for k in p.get('attachments', {}).get('media_keys', []) if k in media]
