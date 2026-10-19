@@ -143,14 +143,14 @@ function makeCard(a) {
   const tag = (a.tags && a.tags[0]) || '';
   const url = safeUrl(a.url);
   card.innerHTML = `
-    <a href="${url}" class="thumb" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
+    <a href="${url}" class="thumb open-explainer" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
       <img src="${safeUrl(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
       ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : ''}">${escapeHtml(tag)}</span>` : ''}
       <span class="img-credit">Image via ${escapeHtml(a.source || 'source')}</span>
     </a>
     <div class="body">
       <div class="meta"><span class="time">${escapeHtml(a.date || '')}</span><span>·</span><span>${escapeHtml(a.source || '')}</span></div>
-      <h3><a href="${url}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
+      <h3><a href="${url}" class="open-explainer" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></h3>
       <p class="summary">${escapeHtml(a.summary || '')}</p>
       <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;margin-top:4px;">
         <a href="${url}" class="read" target="_blank" rel="noopener">Read at ${escapeHtml(a.source || 'source')} <span aria-hidden="true">↗</span></a>
@@ -698,3 +698,65 @@ async function setupTopStoriesAudio(d) {
   paint(); wrap.hidden = false;
 }
 loadTopStories();
+
+/* ---------- On-site explainers (data/summaries.json, keyed by article URL) ---------- */
+let SV_SUMS = null;
+fetch('data/summaries.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : {}).then(d => { SV_SUMS = d || {}; }).catch(() => { SV_SUMS = {}; });
+let svLastFocus = null;
+function svModal() {
+  let m = document.getElementById('svExplainer');
+  if (m) return m;
+  m = document.createElement('div');
+  m.id = 'svExplainer'; m.className = 'sv-modal'; m.hidden = true;
+  m.innerHTML = `<div class="sv-modal-backdrop" data-close></div>
+    <div class="sv-modal-box" role="dialog" aria-modal="true" aria-labelledby="svExTitle" tabindex="-1">
+      <button type="button" class="sv-modal-x" data-close aria-label="Close">✕</button>
+      <img class="sv-modal-img" alt="" referrerpolicy="no-referrer">
+      <div class="sv-modal-body">
+        <div class="meta sv-modal-meta"></div>
+        <h2 id="svExTitle"></h2>
+        <p class="sv-modal-text"></p>
+        <p class="sv-modal-note">Quick explainer written by SciVigilance from the original report.</p>
+        <a class="btn btn-primary sv-modal-src" target="_blank" rel="noopener"></a>
+      </div>
+    </div>`;
+  document.body.appendChild(m);
+  m.addEventListener('click', e => { if (e.target.closest('[data-close]')) svClose(); });
+  m.addEventListener('keydown', e => {
+    if (e.key === 'Escape') svClose();
+    if (e.key === 'Tab') {
+      const f = [...m.querySelectorAll('button, a[href]')]; const first = f[0], last = f[f.length - 1];
+      if (e.shiftKey && document.activeElement === first) { e.preventDefault(); last.focus(); }
+      else if (!e.shiftKey && document.activeElement === last) { e.preventDefault(); first.focus(); }
+    }
+  });
+  return m;
+}
+function svClose() {
+  const m = document.getElementById('svExplainer'); if (!m || m.hidden) return;
+  m.hidden = true; document.body.classList.remove('sv-modal-open');
+  if (svLastFocus) svLastFocus.focus();
+}
+function svOpen(a, text) {
+  const m = svModal();
+  svLastFocus = document.activeElement;
+  const img = m.querySelector('.sv-modal-img');
+  if (a.image) { img.src = a.image; img.hidden = false; } else img.hidden = true;
+  m.querySelector('.sv-modal-meta').textContent = [a.date, a.source, (a.tags || [])[0]].filter(Boolean).join(' · ');
+  m.querySelector('#svExTitle').textContent = a.title || '';
+  m.querySelector('.sv-modal-text').textContent = text;
+  const src = m.querySelector('.sv-modal-src');
+  src.href = a.url; src.textContent = `Read the original at ${a.source || 'the source'} ↗`;
+  m.hidden = false; document.body.classList.add('sv-modal-open');
+  m.querySelector('.sv-modal-x').focus();
+}
+document.addEventListener('click', e => {
+  const link = e.target.closest('.card .open-explainer');
+  if (!link || e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
+  const url = link.getAttribute('href');
+  const entry = SV_SUMS && SV_SUMS[url];
+  const a = (typeof currentArticles !== 'undefined' ? currentArticles : []).find(x => x.url === url);
+  if (!entry || !entry.s || !a) return; // no explainer: link opens the original in a new tab
+  e.preventDefault();
+  svOpen(a, entry.s);
+});

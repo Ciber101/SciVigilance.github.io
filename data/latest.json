@@ -1,6 +1,6 @@
 {
  "date": "2026-10-18",
- "updated": "2026-10-19T00:22+00:00",
+ "updated": "2026-10-19T00:45+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
@@ -30,17 +30,18 @@
    "ts": "2026-10-18T23:00:02+00:00"
   },
   {
-   "id": "ai-tinyfish-makes-search-free-what-it-really-costs-an-ai-ag",
-   "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-   "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request.",
-   "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-7-scaled.png",
+   "id": "ai-investing-in-the-public-benefit",
+   "title": "Investing in the public benefit",
+   "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg",
    "tags": [
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T18:20:28+00:00"
+   "ts": "2026-10-18T16:49:35.513000+00:00",
+   "rank": 0
   },
   {
    "id": "returning-the-first-samples-from-a-martian-moon-inside-the-s",
@@ -95,17 +96,19 @@
    "ts": "2026-10-18T04:05:00+00:00"
   },
   {
-   "id": "ai-google-open-sources-harness2-a-recursive-agent-harnessin",
-   "title": "Google Open-Sources Harness2, a Recursive Agent Harnessing Framework",
-   "summary": "Google Research released Harness2, an Apache-2.0 framework that rewrites an agent's harness at test time. One refinement step lifted GLM-5 by 11.5 points on WorkBuddy-Bench with no weight updates.",
-   "url": "https://www.marktechpost.com/2026/10/18/google-harness2-recursive-agent-harnessing-framework/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "id": "ai-hf-deepseek-ai-deepseek-v4-1-flash-1017",
+   "title": "DeepSeek releases DeepSeek-V4.1-Flash-1017 on Hugging Face",
+   "summary": "DeepSeek published a new image text to text model, DeepSeek-V4.1-Flash-1017, on Hugging Face under the mit license. Weights and model card are free to view.",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "source": "DeepSeek",
+   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-18",
-   "ts": "2026-10-18T08:15:04+00:00"
+   "date": "2026-10-17",
+   "ts": "2026-10-17T02:40:38+00:00",
+   "kind": "release",
+   "rank": 0
   },
   {
    "id": "giving-ai-a-crystal-clear-view-of-the-materials-world",
@@ -160,17 +163,18 @@
    "ts": "2026-10-16T13:25:08+00:00"
   },
   {
-   "id": "ai-how-to-make-zero-training-tabular-predictions-with-nvidi",
-   "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
-   "summary": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTorch interface, and use it to make predictions without training.",
-   "url": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+   "id": "ai-tinyfish-makes-search-free-what-it-really-costs-an-ai-ag",
+   "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+   "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request.",
+   "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-5-1024x768.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-7-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T05:56:05+00:00"
+   "ts": "2026-10-18T18:20:28+00:00",
+   "rank": 2
   },
   {
    "id": "for-centuries-bird-migration-was-a-mystery-a-tech-revolution",
@@ -825,17 +829,18 @@
  ],
  "ai": [
   {
-   "id": "ai-tinyfish-makes-search-free-what-it-really-costs-an-ai-ag",
-   "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
-   "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request.",
-   "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-7-scaled.png",
+   "id": "ai-investing-in-the-public-benefit",
+   "title": "Investing in the public benefit",
+   "summary": "We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/85648c93880ac27347f8e6a4008650a65c12ede8-1200x630.jpg",
    "tags": [
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T18:20:28+00:00"
+   "ts": "2026-10-18T16:49:35.513000+00:00",
+   "rank": 0
   },
   {
    "id": "ai-google-open-sources-harness2-a-recursive-agent-harnessin",
@@ -848,7 +853,37 @@
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T08:15:04+00:00"
+   "ts": "2026-10-18T08:15:04+00:00",
+   "rank": 0
+  },
+  {
+   "id": "ai-hf-deepseek-ai-deepseek-v4-1-flash-1017",
+   "title": "DeepSeek releases DeepSeek-V4.1-Flash-1017 on Hugging Face",
+   "summary": "DeepSeek published a new image text to text model, DeepSeek-V4.1-Flash-1017, on Hugging Face under the mit license. Weights and model card are free to view.",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "source": "DeepSeek",
+   "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-17",
+   "ts": "2026-10-17T02:40:38+00:00",
+   "kind": "release",
+   "rank": 0
+  },
+  {
+   "id": "ai-tinyfish-makes-search-free-what-it-really-costs-an-ai-ag",
+   "title": "TinyFish Makes Search Free: What It Really Costs an AI Agent to Read the Web",
+   "summary": "An AI agent that reads the web pays 2 kinds of cost. The first is the retrieval charge: what a search or fetch API bills per request.",
+   "url": "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-7-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-18",
+   "ts": "2026-10-18T18:20:28+00:00",
+   "rank": 2
   },
   {
    "id": "ai-how-to-make-zero-training-tabular-predictions-with-nvidi",
@@ -861,7 +896,8 @@
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T05:56:05+00:00"
+   "ts": "2026-10-18T05:56:05+00:00",
+   "rank": 2
   },
   {
    "id": "ai-meet-voxel51-3-0-a-unified-multimodal-data-platform-for",
@@ -874,7 +910,8 @@
     "AI"
    ],
    "date": "2026-10-18",
-   "ts": "2026-10-18T04:06:33+00:00"
+   "ts": "2026-10-18T04:06:33+00:00",
+   "rank": 2
   },
   {
    "id": "ai-meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-m",
@@ -887,7 +924,8 @@
     "AI"
    ],
    "date": "2026-10-17",
-   "ts": "2026-10-17T20:22:11+00:00"
+   "ts": "2026-10-17T20:22:11+00:00",
+   "rank": 2
   },
   {
    "id": "ai-welcome-beam-a-501b-open-model-you-can-own-customize-and",
@@ -900,7 +938,8 @@
     "AI"
    ],
    "date": "2026-10-16",
-   "ts": "2026-10-16T00:00:00+00:00"
+   "ts": "2026-10-16T00:00:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-ai-model-decodes-the-language-cells-use-to-communicate",
@@ -913,7 +952,22 @@
     "AI"
    ],
    "date": "2026-10-15",
-   "ts": "2026-10-15T20:50:00+00:00"
+   "ts": "2026-10-15T20:50:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-anthropic-update-on-independent-evaluators",
+   "title": "Anthropic update on independent evaluators",
+   "summary": "Anthropic announces updates to embedding independent evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d2e351e6311a0ada8ea4a0304ce6cda39243eaf4-1200x630.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-15",
+   "ts": "2026-10-15T17:20:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-be-there-for-the-beginning-celebrate-the-launch-of-nvidi",
@@ -926,7 +980,8 @@
     "AI"
    ],
    "date": "2026-10-15",
-   "ts": "2026-10-15T17:00:23+00:00"
+   "ts": "2026-10-15T17:00:23+00:00",
+   "rank": 2
   },
   {
    "id": "ai-open-from-data-center-to-desktop-nvidia-expands-nemotron",
@@ -939,7 +994,8 @@
     "AI"
    ],
    "date": "2026-10-15",
-   "ts": "2026-10-15T15:00:24+00:00"
+   "ts": "2026-10-15T15:00:24+00:00",
+   "rank": 2
   },
   {
    "id": "ai-tree-appreciator",
@@ -952,7 +1008,8 @@
     "AI"
    ],
    "date": "2026-10-14",
-   "ts": "2026-10-14T21:23:01+00:00"
+   "ts": "2026-10-14T21:23:01+00:00",
+   "rank": 2
   },
   {
    "id": "ai-anthropic-warns-small-ai-models-could-self-replicate-thr",
@@ -965,7 +1022,8 @@
     "AI"
    ],
    "date": "2026-10-14",
-   "ts": "2026-10-14T12:55:06+00:00"
+   "ts": "2026-10-14T12:55:06+00:00",
+   "rank": 2
   },
   {
    "id": "ai-google-deepmind-and-singapore-government-collaborate-to",
@@ -978,7 +1036,22 @@
     "AI"
    ],
    "date": "2026-10-14",
-   "ts": "2026-10-14T02:00:14+00:00"
+   "ts": "2026-10-14T02:00:14+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-introducing-grok-voice-3-0",
+   "title": "Introducing Grok Voice 3.0",
+   "summary": "The world’s most intelligent voice model.",
+   "url": "https://x.ai/news/grok-voice-3",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/og-grok-voice-3-0-b281361b.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-14",
+   "ts": "2026-10-14T00:00:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-redesigning-source-control-at-anthropic",
@@ -991,7 +1064,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T23:00:06+00:00"
+   "ts": "2026-10-13T23:00:06+00:00",
+   "rank": 2
   },
   {
    "id": "ai-llm-gemini-0-35",
@@ -1004,7 +1078,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T22:28:54+00:00"
+   "ts": "2026-10-13T22:28:54+00:00",
+   "rank": 2
   },
   {
    "id": "ai-developing-gemini-4-argon-responsibly-and-safely",
@@ -1017,7 +1092,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T19:43:07+00:00"
+   "ts": "2026-10-13T19:43:07+00:00",
+   "rank": 2
   },
   {
    "id": "ai-run-fast-private-agents-on-device-with-lfm2-5-24b-a2b",
@@ -1030,7 +1106,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T17:05:48+00:00"
+   "ts": "2026-10-13T17:05:48+00:00",
+   "rank": 2
   },
   {
    "id": "ai-gemini-4-argon-for-robotics",
@@ -1043,7 +1120,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T16:01:58+00:00"
+   "ts": "2026-10-13T16:01:58+00:00",
+   "rank": 2
   },
   {
    "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
@@ -1056,7 +1134,8 @@
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T16:01:52+00:00"
+   "ts": "2026-10-13T16:01:52+00:00",
+   "rank": 2
   },
   {
    "id": "ai-llm-meta-ai-0-2",
@@ -1069,7 +1148,8 @@
     "AI"
    ],
    "date": "2026-10-12",
-   "ts": "2026-10-12T23:58:46+00:00"
+   "ts": "2026-10-12T23:58:46+00:00",
+   "rank": 2
   },
   {
    "id": "ai-web-edit-0-1a0",
@@ -1082,7 +1162,22 @@
     "AI"
    ],
    "date": "2026-10-12",
-   "ts": "2026-10-12T15:54:36+00:00"
+   "ts": "2026-10-12T15:54:36+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-introducing-the-x-subscription",
+   "title": "Introducing The X Subscription",
+   "summary": "Grok, Grok Bot, Cursor, and X Premium, all on one plan.",
+   "url": "https://x.ai/news/x-subscription",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/the-x-subscription-db7a1253.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-12",
+   "ts": "2026-10-12T00:00:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-nvidia-microsoft-kick-off-a-new-beginning-for-windows-pc",
@@ -1095,7 +1190,8 @@
     "AI"
    ],
    "date": "2026-10-07",
-   "ts": "2026-10-07T18:45:28+00:00"
+   "ts": "2026-10-07T18:45:28+00:00",
+   "rank": 2
   },
   {
    "id": "ai-agent-lightning-v1-0-a-3-500-line-lightweight-agentic-rl",
@@ -1108,7 +1204,8 @@
     "AI"
    ],
    "date": "2026-10-07",
-   "ts": "2026-10-07T16:00:00+00:00"
+   "ts": "2026-10-07T16:00:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-embeddinggemma-2-an-open-lightweight-multimodal-embeddin",
@@ -1121,7 +1218,22 @@
     "AI"
    ],
    "date": "2026-10-06",
-   "ts": "2026-10-06T19:57:04+00:00"
+   "ts": "2026-10-06T19:57:04+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-expanding-the-cyber-verification-program",
+   "title": "Expanding the Cyber Verification Program",
+   "summary": "We’re launching a new, expanded version of our Cyber Verification Program (CVP), which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.",
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
+   "source": "Anthropic",
+   "image": "https://www.anthropic.com/api/opengraph-illustration?name=Hand%20Lock&backgroundColor=heather",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-06",
+   "ts": "2026-10-06T19:00:00+00:00",
+   "rank": 2
   },
   {
    "id": "ai-why-telecom-operators-are-building-their-ai-strategy-on",
@@ -1134,7 +1246,8 @@
     "AI"
    ],
    "date": "2026-10-06",
-   "ts": "2026-10-06T13:00:19+00:00"
+   "ts": "2026-10-06T13:00:19+00:00",
+   "rank": 2
   },
   {
    "id": "ai-openai-agents-tried-to-hack-wikipedia-tools-and-flooded",
@@ -1147,7 +1260,22 @@
     "AI"
    ],
    "date": "2026-10-06",
-   "ts": "2026-10-06T12:21:53+00:00"
+   "ts": "2026-10-06T12:21:53+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-introducing-mistral-large-4",
+   "title": "Introducing Mistral Large 4",
+   "summary": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "source": "Mistral AI",
+   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-06",
+   "ts": "2026-10-06T12:00:27+00:00",
+   "rank": 2
   },
   {
    "id": "ai-mcp-for-agent-to-agent-comms-may-be-the-riskiest-protoco",
@@ -1160,7 +1288,8 @@
     "AI"
    ],
    "date": "2026-10-05",
-   "ts": "2026-10-05T22:26:35+00:00"
+   "ts": "2026-10-05T22:26:35+00:00",
+   "rank": 2
   }
  ]
 }

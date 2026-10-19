@@ -36,13 +36,14 @@ AI_FEEDS = [
  ('MIT News', 'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml'),
  ('MarkTechPost', 'https://www.marktechpost.com/feed/'),
  ('Google AI', 'https://blog.google/technology/ai/rss/'),
+ ('Qwen', 'https://qwenlm.github.io/blog/index.xml'),
  ('Google Research', 'https://research.google/blog/rss/'),
  ('Microsoft Research', 'https://www.microsoft.com/en-us/research/feed/'),
  ('NVIDIA', 'https://blogs.nvidia.com/feed/'),
 ]
 AI_GOOD = r'\b(model|models|llm|open[- ]weights?|open[- ]source|benchmark|release[sd]?|launch(es|ed)?|gpt[- ]?\d|claude|gemini|gemma|grok|llama|qwen|mistral|deepseek|phi-?\d|gguf|ollama|llama\.cpp|quantiz\w*|reasoning|multimodal|agent\w*|parameters?|context window|fine-?tun\w*|inference|tokens?|transformer|diffusion|anthropic|deepmind|xai|meta ai|hugging ?face)\b'
 AI_BAD = r'\b(funding|raises?|valuation|ipo|lawsuit|sues|layoffs?|stock|shares|earnings|revenue|acquisition|acquires|deal|ceo|hiring|policy|regulat\w*|lobby\w*|super bowl|ads?)\b'
-AI_TOTAL, AI_MAX_AGE, AI_PER_SOURCE = 30, 14, 5
+AI_TOTAL, AI_MAX_AGE, AI_PER_SOURCE = 36, 14, 5
 TAGS = [('Space', r'\b(nasa|esa|mars|moon|lunar|jwst|webb|hubble|galax|star|planet|asteroid|comet|orbit|rocket|telescope|black hole|solar|sun)\w*'),
         ('Physics', r'\b(quantum|particle|physic|cern|collider|laser|photon|neutrino)\w*'),
         ('Biology', r'\b(cell|gene|dna|protein|species|brain|bacteria|virus|evolution|animal|plant)\w*'),
@@ -167,12 +168,114 @@ def ai_news():
                         'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
         print('AI', src, n)
     out.sort(key=lambda a: a['ts'], reverse=True)
-    return dedupe(out)[:AI_TOTAL]
+    return dedupe(out)
 
+
+# ---- Frontier-lab + open-weight sources without RSS (all free, official pages) ----
+PAGE_SOURCES = [  # (source, index url, link regex, base) — newest links appear first on these pages
+ ('Anthropic', 'https://www.anthropic.com/news', r'href="(/news/[a-z0-9-]+)"', 'https://www.anthropic.com'),
+ ('xAI', 'https://x.ai/news', r'href="(/news/[a-z0-9-]+)"', 'https://x.ai'),
+ ('DeepSeek', 'https://api-docs.deepseek.com/news/news', r'href="(/news/news\d{6})"', 'https://api-docs.deepseek.com'),
+ ('Mistral AI', 'https://mistral.ai/news/', r'href="((?:https://mistral\.ai)?/news/[a-z0-9-]+/?)"', 'https://mistral.ai'),
+ ('Meta AI', 'https://ai.meta.com/blog/', r'href="(https://ai\.meta\.com/blog/[a-z0-9-]+/)"', ''),
+ ('Ollama', 'https://ollama.com/blog', r'href="(/blog/[a-z0-9-]+)"', 'https://ollama.com'),
+]
+HF_ORGS = [  # (source label, HF org) — new model repos = release signal
+ ('DeepSeek', 'deepseek-ai'), ('Qwen', 'Qwen'), ('Moonshot AI (Kimi)', 'moonshotai'), ('Zhipu AI (GLM)', 'zai-org'),
+ ('MiniMax', 'MiniMaxAI'), ('ByteDance Seed', 'ByteDance-Seed'), ('Mistral AI', 'mistralai'), ('Meta Llama', 'meta-llama'),
+ ('OpenAI', 'openai'), ('Google (Gemma)', 'google'), ('xAI', 'xai-org'),
+]
+FRONTIER_SRC = {'Anthropic', 'OpenAI', 'xAI', 'Google DeepMind', 'Google AI', 'Google Research', 'DeepSeek', 'Qwen',
+                'Moonshot AI (Kimi)', 'Zhipu AI (GLM)', 'MiniMax', 'ByteDance Seed', 'Google (Gemma)'}
+FRONTIER_KW = r'\b(google|anthropic|claude|openai|chatgpt|gpt-?\d|codex|sora|xai|grok|deepmind|gemini|deepseek|qwen|alibaba|moonshot|kimi|zhipu|glm-?\d|z\.ai|minimax|bytedance|doubao|seed-?\d)\b'
+LOCAL_SRC = {'Hugging Face', 'Ollama', 'Mistral AI', 'Meta Llama', 'Meta AI', 'Simon Willison'}
+LOCAL_KW = r'\b(open (model|models)|open[- ]weights?|open[- ]source|gguf|ollama|llama\.cpp|quantiz\w*|run(s|ning)? locally|local (llm|model)s?|on[- ]device|hugging ?face|mistral|llama|gemma|phi-?\d)\b'
+
+def meta(page, *names):
+    for n in names:
+        m = re.search(r'<meta[^>]+(?:property|name|itemprop)=["\']%s["\'][^>]+content=["\']([^"\']+)' % n, page) or \
+            re.search(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name|itemprop)=["\']%s["\']' % n, page)
+        if m: return html.unescape(m.group(1))
+    return ''
+
+def page_news():
+    now = datetime.datetime.now(datetime.timezone.utc); out = []
+    for src, idx, rx, base in PAGE_SOURCES:
+        try: links = list(dict.fromkeys(re.findall(rx, get(idx).decode('utf-8', 'ignore'))))[:6]
+        except Exception as ex: print('page fail', src, ex, file=sys.stderr); continue
+        n = 0
+        for l in links:
+            url = l if l.startswith('http') else base + l
+            if url.rstrip('/') == idx.rstrip('/'): continue
+            try: page = get(url, 600000).decode('utf-8', 'ignore')
+            except Exception: continue
+            title = clean(meta(page, 'og:title') or (re.search(r'<title>(.*?)</title>', page, re.S) or [None, ''])[1])
+            title = re.sub(r'\s*[|\-–]\s*(Anthropic|xAI|Mistral AI|Mistral|Meta AI|Ollama.*|DeepSeek.*)$', '', title)
+            summ = short(clean(meta(page, 'og:description', 'description')))
+            img = meta(page, 'og:image', 'twitter:image')
+            ds = meta(page, 'article:published_time', 'datePublished') or \
+                 (re.search(r'"datePublished"\s*:\s*"([^"]+)"', page) or [None, ''])[1]
+            d = None
+            try: d = datetime.datetime.fromisoformat(ds.replace('Z', '+00:00')) if ds else None
+            except Exception: d = None
+            m = re.search(r'news(\d{2})(\d{2})(\d{2})$', url)
+            if not d and m: d = datetime.datetime(2000 + int(m[1]), int(m[2]), int(m[3]), tzinfo=datetime.timezone.utc)
+            if d and d.tzinfo is None: d = d.replace(tzinfo=datetime.timezone.utc)
+            if not d or (now - d).days > AI_MAX_AGE or not title or len(summ) < 40: continue
+            if not img or not img.startswith('http'): continue
+            out.append({'id': 'ai-' + re.sub(r'[^a-z0-9]+', '-', title.lower())[:56].strip('-'), 'title': title, 'summary': summ,
+                        'url': url, 'source': src, 'image': img, 'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
+            n += 1
+            if n >= 3: break
+        print('AI page', src, n)
+    return out
+
+def hf_releases():
+    now = datetime.datetime.now(datetime.timezone.utc); out = []
+    for src, org in HF_ORGS:
+        try: ms = json.loads(get(f'https://huggingface.co/api/models?author={org}&sort=createdAt&direction=-1&limit=8'))
+        except Exception as ex: print('hf fail', org, ex, file=sys.stderr); continue
+        n = 0
+        for m in ms:
+            d = datetime.datetime.fromisoformat(m['createdAt'].replace('Z', '+00:00'))
+            if (now - d).days > 7 or n >= 2: continue
+            name = m['id'].split('/', 1)[1]
+            if re.search(r'(-GGUF|-AWQ|-GPTQ|-FP8|-Int[48]|-MLX|-bnb|-4bit|-8bit)$', name, re.I): continue  # skip quantized duplicates
+            url = 'https://huggingface.co/' + m['id']
+            task = (m.get('pipeline_tag') or 'model').replace('-', ' ')
+            lic = next((t.split(':', 1)[1] for t in m.get('tags', []) if t.startswith('license:')), '')
+            summ = f"{src} published a new {task} model, {name}, on Hugging Face" + (f" under the {lic} license" if lic else '') + '. Weights and model card are free to view.'
+            out.append({'id': 'ai-hf-' + re.sub(r'[^a-z0-9]+', '-', m['id'].lower())[:52], 'title': f'{src} releases {name} on Hugging Face',
+                        'summary': summ, 'url': url, 'source': src, 'image': f'https://cdn-thumbnails.huggingface.co/social-thumbnails/models/{m["id"]}.png',
+                        'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat(), 'kind': 'release'})
+            n += 1
+        print('AI hf', src, n)
+    return out
+
+def ai_tier(a, now):
+    age_h = (now - datetime.datetime.fromisoformat(a['ts'])).total_seconds() / 3600
+    t = a['title'].lower()
+    frontier = a['source'] in FRONTIER_SRC or re.search(FRONTIER_KW, t)
+    local = a['source'] in LOCAL_SRC or re.search(LOCAL_KW, t)
+    if frontier and age_h <= 48: return 0
+    if local and age_h <= 72: return 1
+    return 2
+
+def rank_ai(items):
+    """Frontier-lab items from the last 48h first (newest first), then open-weight/local items from the last 72h,
+    then everything else newest first."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    for a in items: a['rank'] = ai_tier(a, now)
+    items.sort(key=lambda a: a['ts'], reverse=True)
+    items.sort(key=lambda a: a['rank'])
+    return items
 
 if __name__ == '__main__':
     arts = news()
     ai = ai_news()
+    extra = page_news() + hf_releases()
+    have = {a['url'] for a in ai}
+    ai = rank_ai(dedupe(ai + [a for a in extra if a['url'] not in have]))[:AI_TOTAL]
     if ai:  # mix the 3 newest AI stories into the main feed
         arts = arts[:2] + ai[:1] + arts[2:6] + ai[1:2] + arts[6:10] + ai[2:3] + arts[10:]
     if len(arts) >= 5:
