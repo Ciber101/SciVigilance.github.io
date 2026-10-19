@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadX(),
     loadFeatured(),
     loadShorts(),
+    loadRobots(),
   ]).then(() => {
     // Cards exist — honor deep links from the ticker / shared URLs.
     jumpToHash();
@@ -145,7 +146,7 @@ function makeCard(a) {
   card.innerHTML = `
     <a href="${url}" class="thumb open-explainer" tabindex="-1" aria-hidden="true" target="_blank" rel="noopener">
       <img src="${safeUrl(a.image)}" alt="" loading="lazy" referrerpolicy="no-referrer">
-      ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : ''}">${escapeHtml(tag)}</span>` : ''}
+      ${tag ? `<span class="badge-tag${tag === 'AI' ? ' ai' : tag === 'Robots' ? ' robots' : ''}">${escapeHtml(tag)}</span>` : ''}
       <span class="img-credit">Image via ${escapeHtml(a.source || 'source')}</span>
     </a>
     <div class="body">
@@ -509,7 +510,7 @@ async function loadBackground() {
 
 /* ---------- Front page: show 2 rows per grid ---------- */
 function clampRows() {
-  ['digestGrid', 'aiGrid', 'xGrid', 'featuredGrid', 'shortsGrid'].forEach(id => {
+  ['digestGrid', 'aiGrid', 'robotsGrid', 'xGrid', 'featuredGrid', 'shortsGrid'].forEach(id => {
     const g = document.getElementById(id);
     if (!g) return;
     const cols = getComputedStyle(g).gridTemplateColumns.split(' ').filter(Boolean).length || 1;
@@ -755,8 +756,63 @@ document.addEventListener('click', e => {
   if (!link || e.ctrlKey || e.metaKey || e.shiftKey || e.button) return;
   const url = link.getAttribute('href');
   const entry = SV_SUMS && SV_SUMS[url];
-  const a = (typeof currentArticles !== 'undefined' ? currentArticles : []).find(x => x.url === url);
+  const a = (typeof currentArticles !== 'undefined' ? currentArticles : []).concat(window.SV_ROBOTS || []).find(x => x.url === url);
   if (!entry || !entry.s || !a) return; // no explainer: link opens the original in a new tab
   e.preventDefault();
   svOpen(a, entry.s);
 });
+
+/* ---------- Robots (robots.html + Digest Robots block) ---------- */
+async function loadRobots() {
+  const home = document.getElementById('robotsGrid'), page = document.getElementById('allRobotsGrid');
+  if (!home && !page) return;
+  const get = u => fetch(u, { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null);
+  const [latest, stories, xp] = await Promise.all([get('data/latest.json'), get('data/robot_stories.json'), page ? get('data/xposts_robots.json') : null]);
+  const list = (latest && latest.robots) || [];
+  window.SV_ROBOTS = list;
+  if (home) {
+    if (!list.length) { home.closest('section').hidden = true; return; }
+    list.slice(0, 6).forEach(a => home.appendChild(makeCard(a)));
+    const t = document.getElementById('robotTeaser');
+    const st = stories && (stories.stories || [])[0];
+    if (t && st) {
+      const more = (stories.stories.length > 1) ? ` · +${stories.stories.length - 1} more` : '';
+      t.innerHTML = `<span class="kicker">Robots, explained</span><b>${escapeHtml(st.title)}</b><span class="rt-text">${escapeHtml((st.paragraphs[0] || '').slice(0, 220))}${(st.paragraphs[0] || '').length > 220 ? '…' : ''}</span><span class="rt-more">Read the full explainer${escapeHtml(more)} →</span>`;
+      t.hidden = false;
+    }
+    clampRows();
+    return;
+  }
+  const count = document.getElementById('pageCount');
+  if (count) count.textContent = `${list.length} stories`;
+  if (!list.length) page.innerHTML = '<div class="empty-state"><div class="icon">🤖</div><h3>No robot news right now.</h3><p>Check back soon.</p></div>';
+  list.forEach(a => page.appendChild(makeCard(a)));
+  if (stories && (stories.stories || []).length) {
+    document.getElementById('rsUpdated').textContent = 'Updated ' + (stories.updated_pt || stories.updated || '');
+    document.getElementById('robotStories').innerHTML = stories.stories.map(st => `
+      <section class="ts-story">
+        <h3>${escapeHtml(st.title)}</h3>
+        <p class="ts-meta">${escapeHtml(st.tag || '')}${st.tag ? ' · ' : ''}${escapeHtml(st.date || '')}</p>
+        ${(st.paragraphs || []).map(p => `<p>${escapeHtml(p)}</p>`).join('')}
+        <p class="ts-sources">Sources: ${(st.sources || []).map(x => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>${x.date ? ` (${escapeHtml(x.date)})` : ''}`).join(', ')}</p>
+      </section>`).join('');
+    document.getElementById('robot-stories').hidden = false;
+  }
+  const xg = document.getElementById('robotXGrid');
+  if (xg) {
+    const cards = [];
+    ((xp && xp.accounts) || []).forEach(acc => (acc.posts || []).forEach(p => cards.push({ acc, p })));
+    cards.sort((a, b) => (b.p.date || '').localeCompare(a.p.date || ''));
+    xg.innerHTML = cards.length ? cards.map(featuredCard).join('') : '<div class="empty-state"><div class="icon">📡</div><h3>No recent posts.</h3></div>';
+    const chips = document.getElementById('chips');
+    if (chips && cards.length) {
+      chips.hidden = false;
+      chips.innerHTML = '<button type="button" class="chip on" data-acc="">All</button>' + xp.accounts.map(a => `<button type="button" class="chip" data-acc="${escapeHtml(a.handle)}">${escapeHtml(a.name)}</button>`).join('');
+      chips.addEventListener('click', e => {
+        const b = e.target.closest('.chip'); if (!b) return;
+        chips.querySelectorAll('.chip').forEach(c => c.classList.toggle('on', c === b));
+        xg.querySelectorAll('.x-card').forEach(c => { c.hidden = !!b.dataset.acc && c.dataset.acc !== b.dataset.acc; });
+      });
+    }
+  }
+}

@@ -34,7 +34,7 @@ PROMPT = ("You write short explainers for a science news site. Using ONLY the fa
 def main():
     t0 = time.time()
     latest = json.load(open(os.path.join(DATA, 'latest.json')))
-    items = (latest.get('articles') or []) + (latest.get('ai') or [])
+    items = (latest.get('articles') or []) + (latest.get('ai') or []) + (latest.get('robots') or [])
     try: cache = json.load(open(OUT))
     except Exception: cache = {}
     live = {a['url'] for a in items if a.get('url')}

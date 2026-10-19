@@ -1,7 +1,4 @@
 {
- "https://phys.org/news/2026-10-ancient-nubian-temple-faience-workshop.html": {
-  "s": "Archaeologists found a place where ancient Nubians made a special type of glassy material called faience. This discovery helps explain how Kushite rulers in Nubia, like Taharqo, used crafts to show their power. It shows these rulers, similar to those in Egypt, used craft production to maintain control and prestige."
- },
  "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/": {
   "s": "TinyFish found that some providers return more characters than others for the same webpage. This affects how many tokens are used, impacting the model's processing costs. Because tokens are charged per input, more tokens mean higher costs, even if the same information is retrieved."
  },
@@ -23,9 +20,6 @@
  "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
   "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
  },
- "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/": {
-  "s": "In this tutorial, Structured Data Models, a new library from NVIDIA, is installed and used to make predictions on tabular data without training. This matters because it simplifies making predictions with complex data structures, reducing the need for extensive model training."
- },
  "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345": {
   "s": "Birds migrating across continents was a mystery for centuries. Early clues came from storks found with arrows in their bodies. Now, tracking devices reveal bird migration routes, helping scientists understand these journeys."
  },
@@ -46,13 +40,6 @@
  },
  "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/": {
   "s": "Fungi in soil trade minerals with plants, enriching the soil and storing carbon. This underground network, unseen by humans, evolved over 450 million years ago. Scientists are now studying how fungi without brains manage these complex transactions, revealing new insights into soil health and carbon storage."
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-18-2026": {
-  "s": "A cat named Félicette became the first to travel to space. This was significant as it was the first time a non-human animal went that far into space."
- },
- "https://www.livescience.com/space/astronomy/famous-supernova-that-lit-up-skies-in-1181-is-now-full-of-mysterious-knots-space-photo-of-the-week": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.universetoday.com/articles/in-the-search-for-exoplanets-some-failures-are-a-success": {
   "s": "Astronomers searched for exoplanets around a nearby binary star system using old and new data. They didn't find any planets, which initially seemed like a failure. But this study is important because it shows how the radial velocity method can be more effective in binary star systems. Future powerful telescopes will be able to observe these planets more closely, potentially finding signs of life."
@@ -77,9 +64,6 @@
  "https://www.universetoday.com/articles/the-flavor-of-neutrinos-could-determine-how-a-large-star-dies": {
   "s": "A new study suggests that the flavor of neutrinos could determine whether a dying star explodes or collapses directly into a black hole. Neutrinos come in three flavors, and their behavior during a star's core collapse could influence the star's fate."
  },
- "https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/": {
-  "s": "As the rocket launched, Allison Mjoen and her family watched in awe. For her, it was a moment of reflection on her career, from shuttle missions to the space station, to now supporting Artemis."
- },
  "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015": {
   "s": "Ice cliffs in Antarctica don’t always collapse as scientists had predicted. This discovery challenges the assumption that taller cliffs are more likely to collapse."
  },
@@ -91,12 +75,6 @@
  },
  "https://www.universetoday.com/articles/a-radio-phoenix-beyond-the-zone-of-avoidance": {
   "s": "Astronomers found a strange radio formation beyond the Zone of Avoidance, resembling a musical symbol. This discovery helps understand what's behind the Milky Way, where optical light is blocked. Research using X-ray and radio telescopes reveals the formation is a super-heated gas cluster, shedding light on its history and properties."
- },
- "https://science.nasa.gov/missions/hubble/nasas-hubble-spies-spirals-edge/": {
-  "s": "NASA’s Hubble telescope captured an image of the spiral galaxy NGC 1827, showing its dusty structure and distant background galaxies. This image helps scientists test cosmological models by studying low-mass galaxies like NGC 1827."
- },
- "https://www.sciencenews.org/article/hole-neandertal-bone-fatal-spear": {
-  "s": "A Neandertal bone shows a wound that suggests a violent death, but also hints at other injuries endured over time. This discovery matters as it provides insight into the varied and often painful lives of Neandertals, challenging the idea that they lived without much conflict."
  },
  "https://news.mit.edu/2026/building-trust-governments-through-digital-platforms-1015": {
   "s": "Governments and companies team up to offer online services. A study finds these partnerships can influence how much people trust their government. Lack of trust can lead to non-compliance with rules and harder problem-solving for governments."
@@ -192,9 +170,6 @@
  "https://www.space.com/space-exploration/apollo/computer-scientist-margaret-hamilton-was-a-problem-solver-for-the-ages-op-ed": {
   "s": "Computer scientist Margaret Hamilton solved problems that others deemed unsolvable, guiding NASA's Apollo missions to the moon. Her legacy inspires future generations to tackle complex challenges."
  },
- "https://www.livescience.com/planet-earth/plants/black-death-had-dramatic-effect-on-species-diversity-as-humans-abandoned-farmland-study-finds": {
-  "s": "During the Black Death, when a significant portion of Europe's population died, species diversity decreased. Understanding how people's farming practices changed during that time could help in modern agriculture to increase species diversity."
- },
  "https://simonwillison.net/2026/Oct/12/web-edit/": {
   "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
  },
@@ -207,9 +182,6 @@
  "https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/": {
   "s": "As autumn approaches, the Bieszczady National Park in Poland transforms, with deciduous trees turning vibrant reds and golds. Meanwhile, patches of polonina, a high-mountain meadow, turn tan as they lose their summer green."
  },
- "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015": {
-  "s": "As artificial intelligence becomes more prevalent, researchers are examining its impact on human thinking. MIT Professor Eric So argues that heavy reliance on AI can lead to a decline in essential thinking skills, as people fail to develop and retain these abilities."
- },
  "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/": {
   "s": "NVIDIA has made its AI workload and GPU orchestration platform Run:ai available as open source. This matters because it offers developers a flexible tool to manage GPU resources in Kubernetes environments, enhancing the capabilities of AI workloads without replacing Kubernetes."
  },
@@ -220,19 +192,12 @@
  "https://www.livescience.com/archaeology/americas/birdman-copper-plate-a-700-year-old-depiction-of-a-native-american-warrior-that-may-be-a-woman-holding-a-weapon-and-a-severed-head": {
   "s": "The \"Birdman\" copper plate, found in an Indigenous grave, may be a woman dressed as a warrior rather than a man. This reinterpretation matters as it challenges traditional interpretations of ancient artifacts, potentially offering new insights into gender roles and cultural practices of the time."
  },
- "https://phys.org/news/2026-10-factoring-daily-weather-extremes-glacier.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.livescience.com/health/reproductive-health/rising-temperatures-could-boost-pregnancy-risks-worldwide-heres-how": {
   "s": "",
   "why": "too little source text"
  },
  "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes": {
   "s": "Apertus 1.5 release adds multimodal understanding to the model, processing images and audio alongside text. This update also introduces a thinking mode for reasoning and improves tool use and instruction-following."
- },
- "https://phys.org/news/2026-10-china-terracotta-army-fingerprints-reveal.html": {
-  "s": "New research on fingerprints from the Terracotta Army suggests women and children helped build the underground army. Scientists used a statistical model to analyze 79 fingerprints from 36 figures, finding adult women and juveniles made up a larger portion of the workforce than previously thought."
  },
  "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026": {
   "s": "",
@@ -244,9 +209,6 @@
  "https://www.sciencenews.org/article/japan-mission-mars-moon": {
   "s": "Japan’s MMX mission will be the first to reach Phobos, Mars’ larger moon. This mission aims to collect rocks from Phobos, even if they are not directly from Mars, offering a unique opportunity for scientists to study Martian materials indirectly."
  },
- "https://www.sciencealert.com/probiotics-may-protect-from-signs-of-early-cognitive-decline-clinical-trial-finds": {
-  "s": "A clinical trial found that probiotic supplements may help older adults with early cognitive impairment. This is significant as it suggests the gut microbiome might be linked to brain health, potentially offering a new approach to treating Alzheimer's."
- },
  "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839": {
   "s": "Farmers have selectively bred animals for traits they find useful, such as tameness or increased egg production. This process, called domestication, has shaped farm animals over generations. As a result, farm animals have evolved to benefit humans rather than protect themselves against them."
  },
@@ -256,9 +218,6 @@
  "https://www.livescience.com/archaeology/romans/romans-may-have-set-fire-to-celtic-town-during-conquest-to-humiliate-the-enemy-archaeologists-find": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-ancient-hox-code-reveals-developmental.html": {
-  "s": "Researchers found that posterior Hox genes are crucial for the initial formation of hind appendage progenitor cells in both zebrafish and Iberian ribbed newts. This discovery supports the idea that the genetic code for developing paired appendages is deeply conserved across vertebrates."
  },
  "https://www.sciencedaily.com/releases/2026/10/261018205044.htm": {
   "s": "Some people with a high genetic risk of Alzheimer's remain mentally sharp well into their 80s. Scientists have identified a rare mutation in the fibronectin gene that protects the brain's blood vessels from harmful protein buildup, potentially preventing Alzheimer's. This discovery could lead to new treatments that recreate the brain's natural protective barrier."
@@ -270,17 +229,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-plasmonic-coating-bacterial-surfaces-paves.html": {
-  "s": "A research team at the Korea Institute of Materials Science has developed a technology that rapidly detects bacteria by growing plasmonic metal nanostructures on bacterial surfaces. This method enables the detection of bacteria at very low concentrations within one hour, without the need for traditional culture-based amplification. The technology is crucial for diagnosing severe infections like sepsis, as it allows for rapid identification of the causative pathogen and selection of effective antibiotics."
- },
  "https://www.sciencedaily.com/releases/2026/10/261018205039.htm": {
   "s": "Scientists have found two hidden magma sources beneath Nicaragua's Masaya volcano, leading to new insights about how magma moves underground. This discovery matters because it could help predict future eruptions and protect nearby communities, as Masaya is near 2 million people."
  },
  "https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329": {
   "s": "Calling for a kill switch to control AI systems is appealing but hides the complexity of how these models work and how they can go out of control. Experts note that AI involves a distributed infrastructure beyond a single kill switch's control, and the metaphor does not account for human oversight and decision-making."
- },
- "https://phys.org/news/2026-10-bacteria-survive-world-full-killer.html": {
-  "s": "Bacteria survive by forming coherent bands, akin to a peloton, when moving towards food. This research suggests bacteria can use similar strategies to evade bacteriophages in their natural environments."
  },
  "https://www.sciencedaily.com/releases/2026/10/261018205058.htm": {
   "s": "Walking just 3,000 steps a day may help reduce brain changes linked to Alzheimer’s, according to a new study. This suggests physical activity could protect the brain from dementia, though not in the way most treatments target amyloid plaques. The research found that even low levels of activity could reduce the accumulation of harmful tau proteins, which are more closely linked to cognitive decline."
@@ -290,5 +243,145 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261018084421.htm": {
   "s": "Scientists have identified overactive immune cells in the brain as the cause of sleep disruption in Alzheimer's disease. This discovery challenges the conventional view that these cells protect the brain. Researchers found that temporarily reducing these immune cells allowed mice with Alzheimer's-like brain changes to sleep longer and more deeply, suggesting a potential new treatment approach."
+ },
+ "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html": {
+  "s": "Researchers at the University of Southampton have created an interactive map using AI to transform centuries-old port records into a database. This project reveals Britain's growth into a global trading nation, showing Europe as the primary trading partner, with coal and ale as the top commodities. The AI helped process over 100,000 pages of handwritten records, significantly speeding up the analysis of 200 years of shipping data."
+ },
+ "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/": {
+  "s": "MiniMax has launched M3.1 Flash, a 428B-parameter model with 23B active parameters and a 1M-token context. Pricing is $0.15 per 1M tokens, with weights due October 23. The model supports text, image, and video input and returns text. Reasoning is always on and cannot be disabled."
+ },
+ "https://www.nasa.gov/centers-and-facilities/glenn/instrumentation-2/": {
+  "s": "To measure airflow and sound, NASA Glenn Research Center uses specialized instruments such as microphones in phased arrays and rotating microphones. This data helps validate noise prediction software and develop quieter engines."
+ },
+ "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
+  "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
+ },
+ "https://www.space.com/astronomy/stars/theyre-kind-of-goth-nasa-spacecraft-gives-mysterious-brown-dwarfs-a-close-up": {
+  "s": "NASA's SPHEREx spacecraft has observed a large number of brown dwarfs, which are sometimes described as looking like goth, solitary objects that float alone in space. This study matters as it provides new insights into these elusive celestial bodies, helping astronomers understand their nature and place in the universe."
+ },
+ "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video": {
+  "s": "These tiny snakes cartwheel to escape danger, using their tails to flip in the air and roll forward. This behavior is remarkable because it requires no limbs, just the body and tail. Researchers observed this unusual movement in lab settings, finding it impressive and surprising."
+ },
+ "https://www.sciencealert.com/adhd-drugs-may-reduce-the-risk-of-early-death-major-study-finds": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html": {
+  "s": "The researchers created an AI model that can understand 3D crystal structures and their properties. This model helps AI learn more about materials by combining atomic structures with text descriptions from scientific papers. It can identify better material designs than models trained on text alone, as it can visualize the atomic arrangements and bonding patterns."
+ },
+ "https://www.nasa.gov/image-article/martian-dawn/": {
+  "s": "NASA’s Curiosity rover on Mars took a close-up image showing the dawn and elongated ridges, or yardangs, formed by wind erosion. This image provides the most detailed view yet of Martian cliffs, revealing features scientists have been eager to study up close."
+ },
+ "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world": {
+  "s": "The organization unveiled a vehicle that can briefly take to the air, using technology from SpaceX. Experts are skeptical that this qualifies as a practical flying car for everyday use."
+ },
+ "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-rays-reveal-copper-oxide.html": {
+  "s": "Scientists at PSI used X-rays to examine copper oxide, revealing rapid spin flips within it. This discovery could lead to more efficient computer chips by manipulating electron spins instead of moving electrons, potentially reducing power consumption and waste heat."
+ },
+ "https://phys.org/news/2026-10-unwittingly-fungal-pathogens.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-frozen-action-visualizing-cancer-drug.html": {
+  "s": "A joint research group visualized SacC, an enzyme crucial for building the five-ring core of safracin B and trabectedin, a drug for treating soft tissue sarcoma. This achievement, along with the method used, could lead to new approaches in optimizing and creating new compounds."
+ },
+ "https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/": {
+  "s": "The rise of humanoid robots with AI is underway, as engineers and companies develop robots that look and act like humans. These robots are being used in factories to perform human work, alongside or even replacing human workers. This shift matters as it highlights the rapid progress in AI, which is making machines more capable of complex tasks previously thought impossible for robots."
+ },
+ "https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/": {
+  "s": "Kodama Systems raised $7 million to automate forestry and logging equipment, focusing on the southeastern U.S. Timber industry faces challenges from rising demand and remote job sites, making automation a valuable solution."
+ },
+ "https://spectrum.ieee.org/agility-robotics-digit-5-redesign": {
+  "s": "Digit 5, the humanoid robot launched by Agility Robotics, is designed to perform heavy tasks in warehouses. This robot differs from Jonathan Hurst's initial vision, which aimed for graceful motion and mastery of motion through elegant devices. The shift in focus reflects the challenges and constraints of creating a practical commercial product."
+ },
+ "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/": {
+  "s": "The MIT engineers created a paper-thin robot that can swim through water using muscle cells. This innovation shows that even a thin layer of muscle can generate enough force to propel a small robot, offering a new way to design efficient biohybrid robots."
+ },
+ "https://www.therobotreport.com/how-to-choose-bldc-motor-robotic-arms-mobile-robots/": {
+  "s": "Choosing a BLDC motor for robotic arms or mobile robots begins with understanding the mechanical system, not just the motor specifications. The motor, inverter, feedback sensors, and other components collectively determine the performance and reliability of the actuator. Different applications prioritize different motor characteristics: torque and speed for robotic joints, and efficiency and power management for mobile robots. Accurate selection requires considering the motor's ability to handle various loads, its speed regulation, and its compatibility with the overall system."
+ },
+ "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/": {
+  "s": "The organization ADI released a whitepaper examining the hurdles and prospects of bringing physical AI from labs to production machinery. This shift is significant because AI currently excels at understanding digital information but struggles with the complexities of real-world interactions, such as imperfect measurements and changing conditions."
+ },
+ "https://newatlas.com/robotics/albatross-robot-sail-seed-boat/": {
+  "s": "The bioinspired robot ALBATROSS, developed by researchers at SUTD, can be deployed from an aircraft over remote waters. It can sail autonomously using wind energy after landing, offering a solution for long-term monitoring of environmental conditions. This platform combines the speed of aerial deployment with the endurance of sailing, addressing the limitations of both surface systems and aircraft."
+ },
+ "https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/": {
+  "s": "Opportunity charging is becoming essential for robot fleets as they scale, enabling autonomous systems to move more freely and efficiently, thereby increasing uptime, return on investment, and safety. WiBotic's technology, which provides wireless charging and fleet energy management, supports this by allowing robots to charge during their normal workflow, making charging simpler and more scalable."
+ },
+ "https://newatlas.com/robotics/tiny-snapping-robot/": {
+  "s": "The researchers created a robot that moves using flexible rods that snap between shapes, powered by small motors. This design allows the robot to jump over obstacles, but the motors can't produce the quick bursts needed for a jump. The team solved this by mapping how elastic rods respond to different shapes and loading, and then designed limbs that snap sharply."
+ },
+ "https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://spectrum.ieee.org/video-friday-reconfigurable-robots": {
+  "s": "When two robots fall in love and are connected by a wire, they can merge into a new, more capable robot. This concept is intriguing as it explores the potential for robotics to combine strengths, but it also raises questions about the value and novelty of such creations."
+ },
+ "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/": {
+  "s": "Amulya Vishwanath, who previously led product marketing at NVIDIA's robotics platforms, sees robotics in an early stage, comparing it to the \"Lego era\" where basic components are still being developed. This contrasts with the expectation that robotics will soon reach a \"ChatGPT moment\" with a single general foundation model."
+ },
+ "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/": {
+  "s": "Rika Antonova from Cambridge University discussed with Claire how AI can help in designing complementary robot hardware and algorithms. This research is important as it advances the field of robotics by integrating AI to optimize both the physical structure and the software that controls robots."
+ },
+ "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/": {
+  "s": "Researchers have developed a framework called UNCAP for cooperative autonomous driving. UNCAP enables cars to communicate naturally using natural language, sharing what they see. This helps vehicles coordinate safer driving, especially in blind spots or when occlusions block the view. However, not all neighboring vehicles are trustworthy, and UNCAP teaches autonomous vehicles who to trust and how much to listen."
+ },
+ "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/": {
+  "s": "Industrial Next aims to automate factory tasks more quickly by using AI to reprogram robots in minutes rather than weeks. This innovation could speed up manufacturing by allowing for quicker line changes without extensive retooling."
+ },
+ "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/": {
+  "s": "Doug Field, formerly of Ford and Tesla, has joined Rivian's startup Mind Robotics as president. This move matters as Field's extensive experience in EVs and robotics will help Mind Robotics scale its operations, aiming to automate industrial and manufacturing tasks at scale."
+ },
+ "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
+  "s": "Laplace Intelligence uses AI to test robots and self-driving cars in simulations before they go to the real world, to prevent failures. This matters because AI can behave unpredictably, and making physical AI safe requires thorough testing."
+ },
+ "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/": {
+  "s": "PhoneBot, developed by UCLA researchers, uses a smartphone as its brain, torso, and eyes. This innovative design skips costly extras, making it cheaper and more accessible. The phone's IMU and touchscreen serve as the robot's inner ear and control interface, while its camera handles vision."
+ },
+ "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/": {
+  "s": "Robots showcased at the World Humanoid Robot Games 2026 demonstrated impressive athletic abilities, such as sprinting and boxing, but the laundry challenge reveals their limitations. Laundry tasks are complex and unpredictable, requiring robots to adapt to various shapes and materials, unlike the clear and repetitive movements in sports. This highlights the need for robots to handle everyday tasks, not just perform feats of strength."
+ },
+ "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/": {
+  "s": "The NYU Tandon researchers developed WorMa, a water-pumping robot designed to navigate complex terrains including land, water, and slopes. This innovation mimics a worm's ability to shift its weight, allowing the robot to climb inclines and swim faster. The robot's unique water-balloon mechanism, shifting its center of mass, enables versatile movement."
+ },
+ "https://newatlas.com/robotics/fibermotor-flexible-motor/": {
+  "s": "The Swiss researchers developed a tiny motor called FiberMotor, composed of concentric polymer fibers and copper wire. This innovation is significant because it integrates a functional motor into soft-bodied robots without rigid components, enhancing flexibility and performance. The team is now working on improving its durability and integrating it into various soft robotic applications."
+ },
+ "https://newatlas.com/robotics/flea-inspired-directhop-hopping-robot/": {
+  "s": "Next-generation hopping robot DirectHop mimics the flea's energy-efficient jumping method, storing and releasing energy for powerful, yet controlled jumps. This innovation is significant because it achieves precise control over jump height and distance, a challenge for existing hopping robots."
+ },
+ "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/": {
+  "s": "Danu Robotics founder Amy Ma has been working on a recycling robot for six years. The problem she identified was that despite financial resources, many buildings still improperly sort recyclable waste into the trash. Her robot, H.E.R.O., uses a pincer claw and AI to sort recyclables more efficiently, offering a solution to the inefficiencies in current recycling processes."
+ },
+ "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/": {
+  "s": "Robots built by Kushant Patel help in scientific facilities like particle accelerators. These robots use software to perceive, map, and move through the physical world, aiding in research tasks."
+ },
+ "https://spectrum.ieee.org/walking-robotic-hand": {
+  "s": "A hand attached to a robot arm is typically found in humanoid robots, but researchers from ETH Zurich have created a hand that can walk on its own and manipulate objects. This innovation could be useful in tasks where a traditional robot arm can't reach, such as industrial maintenance or search and rescue. The hand is made from off-the-shelf components, which the researchers adapted through training using reinforcement learning."
+ },
+ "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
+  "s": "This White Paper introduces HiPHI, a comprehensive motion capture dataset designed to help humanoid robots learn precise human movements and object interactions. It matters because it closes a data gap, offering a richer, more diverse training set for robotics, bridging the gap between diverse real-world scenarios and current limited datasets."
+ },
+ "https://robohub.org/what-three-days-building-a-robot-taught-me/": {
+  "s": "Three days of building a robot taught Emily, Joolz, and Michael to form friendships. The technical challenge of building and debugging a robot was overshadowed by the camaraderie and bonding that occurred among the participants."
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Boston Dynamics' Spot robot to keep people safe, from searching disaster sites to resolving hostage situations. Spot's agility and advanced capabilities make it a valuable tool, reducing the need for human risk."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, enabling high fidelity simulation and dexterous physical work. This matters because designing hands that are both dexterous and strong is a complex challenge, and the new hand is a solution to this tradeoff."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch, a robotic arm designed to move boxes in warehouses. She simulates years of wear and tear on robot parts in just weeks by running testers at higher speeds and with greater force than a robot would experience in real-world use. This accelerates the discovery of potential issues, helping to ensure the robot works reliably in warehouse environments."
  }
 }

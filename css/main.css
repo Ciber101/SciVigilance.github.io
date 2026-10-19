@@ -974,3 +974,12 @@ body { background: transparent; }
 .sv-modal-src{display:inline-block}
 body.sv-modal-open{overflow:hidden}
 @media (max-width:560px){.sv-modal{padding:0;align-items:flex-end}.sv-modal-box{max-height:92vh;border-radius:16px 16px 0 0}.sv-modal-body h2{font-size:1.12rem}}
+
+/* Robots */
+.badge-tag.robots{background:rgba(255,181,71,.18);color:#ffb547;border-color:rgba(255,181,71,.4)}
+.robot-teaser{display:flex;flex-direction:column;gap:6px;margin:0 0 22px;padding:18px 20px;border-radius:14px;border:1px solid rgba(255,255,255,.12);background:rgba(17,24,39,.72);color:var(--text);text-decoration:none;transition:border-color .2s}
+.robot-teaser[hidden]{display:none}
+.robot-teaser:hover,.robot-teaser:focus-visible{border-color:#ffb547}
+.robot-teaser b{font-size:1.1rem;line-height:1.35}
+.robot-teaser .rt-text{color:var(--text-dim);font-size:.95rem;line-height:1.55}
+.robot-teaser .rt-more{color:#ffb547;font-size:.88rem;font-weight:600}

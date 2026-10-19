@@ -198,9 +198,10 @@ def meta(page, *names):
         if m: return html.unescape(m.group(1))
     return ''
 
-def page_news():
+def page_news(sources=None, tag='AI', max_age=None):
     now = datetime.datetime.now(datetime.timezone.utc); out = []
-    for src, idx, rx, base in PAGE_SOURCES:
+    max_age = max_age or AI_MAX_AGE
+    for src, idx, rx, base in (sources or PAGE_SOURCES):
         try: links = list(dict.fromkeys(re.findall(rx, get(idx).decode('utf-8', 'ignore'))))[:6]
         except Exception as ex: print('page fail', src, ex, file=sys.stderr); continue
         n = 0
@@ -210,7 +211,7 @@ def page_news():
             try: page = get(url, 600000).decode('utf-8', 'ignore')
             except Exception: continue
             title = clean(meta(page, 'og:title') or (re.search(r'<title>(.*?)</title>', page, re.S) or [None, ''])[1])
-            title = re.sub(r'\s*[|\-–]\s*(Anthropic|xAI|Mistral AI|Mistral|Meta AI|Ollama.*|DeepSeek.*)$', '', title)
+            title = re.sub(r'\s*[|\-–]\s*(Anthropic|xAI|Boston Dynamics|Mistral AI|Mistral|Meta AI|Ollama.*|DeepSeek.*)$', '', title)
             summ = short(clean(meta(page, 'og:description', 'description')))
             img = meta(page, 'og:image', 'twitter:image')
             ds = meta(page, 'article:published_time', 'datePublished') or \
@@ -221,10 +222,10 @@ def page_news():
             m = re.search(r'news(\d{2})(\d{2})(\d{2})$', url)
             if not d and m: d = datetime.datetime(2000 + int(m[1]), int(m[2]), int(m[3]), tzinfo=datetime.timezone.utc)
             if d and d.tzinfo is None: d = d.replace(tzinfo=datetime.timezone.utc)
-            if not d or (now - d).days > AI_MAX_AGE or not title or len(summ) < 40: continue
+            if not d or (now - d).days > max_age or not title or len(summ) < 40: continue
             if not img or not img.startswith('http'): continue
             out.append({'id': 'ai-' + re.sub(r'[^a-z0-9]+', '-', title.lower())[:56].strip('-'), 'title': title, 'summary': summ,
-                        'url': url, 'source': src, 'image': img, 'tags': ['AI'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
+                        'url': url, 'source': src, 'image': img, 'tags': [tag], 'date': d.date().isoformat(), 'ts': d.isoformat()})
             n += 1
             if n >= 3: break
         print('AI page', src, n)
@@ -270,6 +271,65 @@ def rank_ai(items):
     items.sort(key=lambda a: a['rank'])
     return items
 
+# ---- Robots (free sources only; verified no paywall Oct 19 2026) ----
+ROBOT_FEEDS = [
+ ('IEEE Spectrum', 'https://spectrum.ieee.org/feeds/topic/robotics.rss'),
+ ('The Robot Report', 'https://www.therobotreport.com/feed/'),
+ ('Robohub', 'https://robohub.org/feed/'),
+ ('TechCrunch', 'https://techcrunch.com/category/robotics/feed/'),
+ ('New Atlas', 'https://newatlas.com/robotics/index.rss'),
+ ('NVIDIA', 'https://blogs.nvidia.com/blog/category/robotics/feed/'),
+]
+ROBOT_PAGES = [
+ ('Figure', 'https://www.figure.ai/news', r'href="(/news/[a-z0-9-]+)"', 'https://www.figure.ai'),
+ ('Boston Dynamics', 'https://bostondynamics.com/blog/', r'href="(https://bostondynamics\.com/blog/[a-z0-9-]+/)"', ''),
+ ('1X', 'https://www.1x.tech/discover', r'href="(/discover/[a-z0-9-]+)"', 'https://www.1x.tech'),
+ ('Agility Robotics', 'https://www.agilityrobotics.com/content', r'href="(/content/[a-z0-9-]+)"', 'https://www.agilityrobotics.com'),
+]
+ROBOT_TOTAL, ROBOT_MAX_AGE, ROBOT_PER_SOURCE = 30, 21, 6
+HUMANOID_SRC = {'Figure', 'Boston Dynamics', '1X', 'Agility Robotics'}
+HUMANOID_KW = r'\b(humanoid\w*|figure ?0?\d|figure ai|optimus|tesla bot|1x|neo|boston dynamics|atlas|agility|digit|apptronik|apollo|unitree|ubtech|walker s?\d*|agibot|fourier|xpeng|iron robot|sanctuary|phoenix|galbot|leju|engine ?ai|kepler|booster robotics|gr00t)\b'
+ROBOT_OK = r'\b(robot\w*|humanoid\w*|automat\w*|drone\w*|autonomous|exoskeleton\w*|gripper\w*|actuator\w*|manipulat\w*|embodied|physical ai|cobot\w*|amr\w*|isaac|gr00t)\b'
+
+def robot_news():
+    now = datetime.datetime.now(datetime.timezone.utc); out = []; seen = set()
+    for src, url in ROBOT_FEEDS:
+        try: f = feedparser.parse(get(url))
+        except Exception as ex: print('robot feed fail', src, ex, file=sys.stderr); continue
+        n = 0
+        for e in f.entries[:40]:
+            if n >= ROBOT_PER_SOURCE: break
+            link, title = e.get('link'), clean(e.get('title'))
+            if not link or not title or title.lower() in seen: continue
+            summ = short(clean(e.get('summary') or ''.join(c.get('value', '') for c in e.get('content', []))))
+            if len(summ) < 40: summ = short(og_desc(link))
+            if not re.search(ROBOT_OK, (title + ' ' + summ).lower()) or re.search(r'\b(podcast|webinar|sponsored|register now)\b', title.lower()): continue
+            t = e.get('published_parsed') or e.get('updated_parsed')
+            d = datetime.datetime(*t[:6], tzinfo=datetime.timezone.utc) if t else now
+            if (now - d).days > ROBOT_MAX_AGE or len(summ) < 40: continue
+            img = feed_image(e) or og_image(link)
+            if not img or not img.startswith('http'): continue
+            seen.add(title.lower()); n += 1
+            out.append({'id': 'rb-' + re.sub(r'[^a-z0-9]+', '-', title.lower())[:56].strip('-'), 'title': title, 'summary': summ,
+                        'url': link, 'source': src, 'image': img.replace('http://', 'https://'),
+                        'tags': ['Robots'], 'date': d.date().isoformat(), 'ts': d.isoformat()})
+        print('Robots', src, n)
+    have = {a['url'] for a in out}
+    out += [a for a in page_news(ROBOT_PAGES, 'Robots', 60) if a['url'] not in have]
+    for a in out: a['id'] = a['id'].replace('ai-', 'rb-', 1)
+    return rank_robots(dedupe(sorted(out, key=lambda a: a['ts'], reverse=True)))[:ROBOT_TOTAL]
+
+def rank_robots(items):
+    """Humanoid/frontier-robot company news from the last 4 days first (newest first), then everything else newest first."""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    for a in items:
+        age_h = (now - datetime.datetime.fromisoformat(a['ts'])).total_seconds() / 3600
+        hum = a['source'] in HUMANOID_SRC or re.search(HUMANOID_KW, a['title'].lower())
+        a['rank'] = 0 if hum and age_h <= 96 else 1
+    items.sort(key=lambda a: a['ts'], reverse=True)
+    items.sort(key=lambda a: a['rank'])
+    return items
+
 if __name__ == '__main__':
     arts = news()
     ai = ai_news()
@@ -278,8 +338,14 @@ if __name__ == '__main__':
     ai = rank_ai(dedupe(ai + [a for a in extra if a['url'] not in have]))[:AI_TOTAL]
     if ai:  # mix the 3 newest AI stories into the main feed
         arts = arts[:2] + ai[:1] + arts[2:6] + ai[1:2] + arts[6:10] + ai[2:3] + arts[10:]
+    try: robots = robot_news()
+    except Exception as ex:
+        print('robots fail', ex, file=sys.stderr); robots = []
+    if not robots:
+        try: robots = json.load(open(os.path.join(DATA, 'latest.json'))).get('robots', [])
+        except Exception: robots = []
     if len(arts) >= 5:
-        json.dump({'date': datetime.date.today().isoformat(), 'updated': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='minutes'),
+        json.dump({'robots': robots, 'date': datetime.date.today().isoformat(), 'updated': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='minutes'),
                    'tagline': f'{len(arts)} real stories from the frontier of science, each linked to its source.', 'articles': arts, 'ai': ai},
                   open(os.path.join(DATA, 'latest.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     else: print('too few articles; keeping previous latest.json', file=sys.stderr)
