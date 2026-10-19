@@ -9,19 +9,22 @@ import feedparser
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, 'data')
 UA = {'User-Agent': 'Mozilla/5.0 (SciVigilance news updater; +https://ciber101.github.io/SciVigilance.github.io/)'}
+# RULE: no paywalled/metered sources (marc, Oct 18 2026). Removed: New Scientist, The Verge, MIT Tech Review, The Decoder.
 FEEDS = [  # (source name, feed url, field tag)
  ('NASA', 'https://www.nasa.gov/news-release/feed/', 'Space'),
  ('ESA', 'https://www.esa.int/rssfeed/Our_Activities/Space_Science', 'Space'),
- ('Space.com', 'https://www.space.com/feeds/all', 'Space'),
+ ('Space.com', 'https://www.space.com/feeds.xml', 'Space'),
  ('Phys.org', 'https://phys.org/rss-feed/breaking/', 'Physics'),
  ('ScienceDaily', 'https://www.sciencedaily.com/rss/top/science.xml', 'Science'),
  ('Quanta Magazine', 'https://www.quantamagazine.org/feed/', 'Frontier'),
  ('Science News', 'https://www.sciencenews.org/feed', 'Science'),
- ('New Scientist', 'https://www.newscientist.com/feed/home/', 'Science'),
- ('Live Science', 'https://www.livescience.com/feeds/all', 'Science'),
+ ('Live Science', 'https://www.livescience.com/feeds.xml', 'Science'),
  ('ScienceAlert', 'https://www.sciencealert.com/feed', 'Science'),
  ('Universe Today', 'https://www.universetoday.com/feed/', 'Space'),
  ('MIT News', 'https://news.mit.edu/rss/research', 'Science'),
+ ('NASA JPL', 'https://www.jpl.nasa.gov/feeds/news/', 'Space'),
+ ('The Conversation', 'https://theconversation.com/us/technology/articles.atom', 'Science'),
+ ('Nature Communications', 'https://www.nature.com/ncomms.rss', 'Science'),
 ]
 PER_SOURCE, TOTAL, MAX_AGE_DAYS = 8, 60, 7
 AI_FEEDS = [
@@ -30,12 +33,12 @@ AI_FEEDS = [
  ('Google DeepMind', 'https://deepmind.google/blog/rss.xml'),
  ('Simon Willison', 'https://simonwillison.net/atom/everything/'),
  ('Ars Technica', 'https://feeds.arstechnica.com/arstechnica/technology-lab'),
- ('The Verge', 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml'),
  ('MIT News', 'https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml'),
  ('MarkTechPost', 'https://www.marktechpost.com/feed/'),
- ('MIT Technology Review', 'https://www.technologyreview.com/topic/artificial-intelligence/feed'),
- ('The Decoder', 'https://the-decoder.com/feed/'),
  ('Google AI', 'https://blog.google/technology/ai/rss/'),
+ ('Google Research', 'https://research.google/blog/rss/'),
+ ('Microsoft Research', 'https://www.microsoft.com/en-us/research/feed/'),
+ ('NVIDIA', 'https://blogs.nvidia.com/feed/'),
 ]
 AI_GOOD = r'\b(model|models|llm|open[- ]weights?|open[- ]source|benchmark|release[sd]?|launch(es|ed)?|gpt[- ]?\d|claude|gemini|gemma|grok|llama|qwen|mistral|deepseek|phi-?\d|gguf|ollama|llama\.cpp|quantiz\w*|reasoning|multimodal|agent\w*|parameters?|context window|fine-?tun\w*|inference|tokens?|transformer|diffusion|anthropic|deepmind|xai|meta ai|hugging ?face)\b'
 AI_BAD = r'\b(funding|raises?|valuation|ipo|lawsuit|sues|layoffs?|stock|shares|earnings|revenue|acquisition|acquires|deal|ceo|hiring|policy|regulat\w*|lobby\w*|super bowl|ads?)\b'

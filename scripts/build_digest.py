@@ -14,10 +14,10 @@ XURL = "https://x.com/SciVigil"
 ACC, TXT, DIM, BG, CARD, LINE = "#f5a623", "#e8ecf4", "#a7b0c2", "#0b0e17", "#141927", "#262d40"
 NOW = datetime.now(timezone.utc)
 
-AUTH = {"NASA": 6, "ESA": 6, "Quanta Magazine": 5, "Science News": 5, "New Scientist": 5,
+AUTH = {"NASA": 6, "ESA": 6, "Quanta Magazine": 5, "Science News": 5, 
         "MIT News": 5, "Nature": 6, "Science": 6, "Universe Today": 4, "Phys.org": 4,
-        "ScienceDaily": 4, "Google DeepMind": 5, "Ars Technica": 4, "MIT Technology Review": 4,
-        "The Verge": 3, "ScienceAlert": 3, "The Decoder": 3, "MarkTechPost": 2, "Hugging Face": 3,
+        "ScienceDaily": 4, "Google DeepMind": 5, "Ars Technica": 4, "NASA JPL": 6, "Nature Communications": 5,
+        "The Conversation": 3, "ScienceAlert": 3, "Google Research": 5, "Microsoft Research": 4, "NVIDIA": 3, "Google AI": 4, "MarkTechPost": 2, "Hugging Face": 3,
         "Simon Willison": 3}
 TAGW = {"Space": 3, "Physics": 2, "AI": 1, "Tech": 1, "Earth": 1, "Biology": 1, "Health": 0}
 BREAK = re.compile(r"\b(first|discover|breakthrough|record|launch|new|reveals?|finally|mission)\b", re.I)
