@@ -1,7 +1,35 @@
 {
- "updated": "2026-10-20T04:37:10-07:00",
- "updated_pt": "Oct 20, 2026, 4:37 AM PT",
+ "updated": "2026-10-20T10:37:00-07:00",
+ "updated_pt": "Oct 20, 2026, 10:37 AM PT",
  "stories": [
+  {
+   "title": "Anthropic says Claude designed 17 lab-confirmed protein binders against dangerous scorpion toxins",
+   "tag": "AI",
+   "date": "2026-10-20",
+   "paragraphs": [
+    "Anthropic said on Oct. 20 that it asked an internal research model, working inside Claude Science, to design minibinders, small proteins that attach tightly to a target, against scorpion neurotoxins, with the hope that such binders could one day be used to develop a scorpion antivenom. The company says the project grew out of a question from the investment research firm Citrini Research about whether AI could let motivated nonexperts tackle a real health problem. Anthropic notes that scorpions sting 1.2 million people or more each year, causing more than 3,250 deaths, mostly among children in places with limited medical care.",
+    "According to Anthropic, the model worked mainly autonomously for 64 hours from an initial prompt plus four follow-ups. It used 12 design tools to generate 318,484 protein designs, screened 553,052 design-toxin pairs and picked 180 designs for testing, and the team added 31 more with Claude's help. The targets were five neurotoxins from scorpions in Mexico (Cn2), Brazil (Ts1), North Africa (AaH I and AaH II) and the Middle East (LqhIII). Anthropic says the campaign used on the order of 10,000 GPU hours.",
+    "The contract labs Adaptyv Bio and Twist Bioscience tested all 211 designs, and 17 met Anthropic's strict criteria for a binder, each against a single toxin: seven against Cn2, four against AaH II, four against AaH I and two against LqhIII. None of the designs aimed at several toxins at once worked against more than one, and Anthropic's X thread says none bound the Brazilian species' toxin. The two strongest, Cn2-B1 and Cn2-B2, bound Cn2 with affinities in the single-digit nanomolar range, and competition tests suggest they attach at or near the same site as an antibody reported to neutralize Cn2 in mice.",
+    "Anthropic stresses that this is exploratory work and that it is not claiming to have produced an antivenom: the binders were tested only against lab-made toxins, not for neutralization in cells or protection in animals. Two outside experts it consulted, Susana Vázquez Torres of Spain's National Cancer Research Centre (CNIO) and Timothy P. Jenkins of the Technical University of Denmark, called it a promising first step. Anthropic is releasing all 211 designs and their lab data on Hugging Face."
+   ],
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+     "date": "2026-10-20"
+    },
+    {
+     "name": "Anthropic on X",
+     "url": "https://x.com/AnthropicAI/status/2112579251555721573",
+     "date": "2026-10-20"
+    },
+    {
+     "name": "Anthropic on X (thread, 3/5)",
+     "url": "https://x.com/AnthropicAI/status/2112579257704882246",
+     "date": "2026-10-20"
+    }
+   ]
+  },
   {
    "title": "Japan launches its MMX mission to bring back the first sample from Mars' moon Phobos",
    "tag": "Space",
@@ -36,25 +64,25 @@
    ]
   },
   {
-   "title": "OpenAI says its newest models are far better at COBOL, Fortran and other low-resource programming languages",
+   "title": "Mistral releases Voxtral 3 speech models and a voice agent SDK covering 50+ languages",
    "tag": "AI",
-   "date": "2026-10-19",
+   "date": "2026-10-20",
    "paragraphs": [
-    "OpenAI said on Oct. 19 that its latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran and Visual Basic. In its announcement, the company explains that these languages have less code and documentation for models to learn from than languages like Python and JavaScript, yet support critical infrastructure. OpenAI cites figures that COBOL supports more than 40% of online banking systems, 80% of in-person credit card transactions and 95% of ATM transactions, and that Fortran is used in weather forecasting and nuclear reactor safety analysis. The company says the work is guided by feedback from developers and enterprise customers who told it that coding models often struggle with these languages.",
-    "To measure progress, OpenAI says it built two evaluations. MultiLangBench asks a model to build a SQLite-compatible database engine from scratch in each of 20 programming languages, checking the results against the reference SQLite implementation with tests adapted from SQLite's own test suite. According to OpenAI, GPT-6 Astra reached an average test pass rate of 87.4% across the 20 languages at maximum reasoning effort, up from 26.8% for GPT-5.6 Sol, with gains in every language tested. OpenAI reports COBOL rising from 10.9% to 72.1%, Fortran from 21.4% to 83.5% and Visual Basic from 27.5% to 89.4%, with COBOL remaining the hardest. It says the lower-cost GPT-6 Luna reached 40.3% at an estimated average API cost of $0.77 per sample, compared with $3.48 for GPT-5.6 Sol, about 78% lower.",
-    "The second evaluation asks models to migrate COBOL programs to C++, Java, Kotlin, Python or Rust, and counts a migration as successful only if hidden tests requiring byte-for-byte matching outputs all pass. OpenAI gives the example that COBOL's fixed-point arithmetic discards extra decimal digits unless rounding is requested, so a rewrite that rounds instead can run without errors while producing different financial results. On this test, OpenAI says GPT-6.1 Sol scored 86.6% at low reasoning effort, compared with 5.4% for GPT-5.6 Sol at the same setting, and reached 97.9% at higher reasoning effort, which the company says brings the evaluation close to saturation.",
-    "OpenAI says it is releasing the MultiLangBench setup and test suite on GitHub, along with results for each language. The company adds that applying these capabilities to production software still requires expert review and testing against a system's business rules and dependencies. These benchmark results are OpenAI's own reported figures."
+    "Mistral AI announced Voxtral 3 on Oct. 20, a new family of speech-to-text and text-to-speech models together with a voice agent SDK that, according to the company, brings listening, reasoning, tool calling and speaking into a single real-time streaming pipeline. Mistral says it is aimed at uses such as contact-center agents, service desks, virtual assistants and hands-free copilots, and is available through its API and for self-deployment on a customer's own infrastructure.",
+    "On the listening side, Mistral says Voxtral Small Transcribe 3 is state of the art in multilingual transcription, diarization (identifying who spoke when) and context biasing, where key terms are supplied to improve accuracy, and that it outperforms Whisper, Scribe v2 and Gemini 3.5 Transcribe. Supported languages expand to 50, including the 24 official EU languages. The company says the smaller Mini model has 4 billion parameters and costs $0.0035 per minute, and a separate realtime model transcribes at under 500 milliseconds of latency. The models also detect when a speaker has finished talking.",
+    "For speech output, Mistral says Voxtral Mini TTS 3 reaches state-of-the-art expressiveness in 35+ languages and 50+ dialects, adjusting emotion, pace and emphasis from the conversation or from tags such as emotion and pacing. A Pro Voice feature can adapt a speaker's voice using up to 30 minutes of recorded audio. Mistral lists the speech model at $13 per million characters and says it costs less to run than comparable models: OpenAI TTS-1, Deepgram, ElevenLabs Flash and Gemini Flash.",
+    "The voice agent SDK is built on LiveKit, according to Mistral: a realtime transcription model listens, a general model such as Mistral Small reasons and calls tools, and the speech model replies, with each turn completing in under one second and the agent stopping when the caller interrupts. Mistral says agents can answer and place phone calls over SIP and run in browsers and apps over WebRTC, and that Voxtral 3 is available today through its European, US and global API endpoints."
    ],
    "sources": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/low-resource-programming-languages/",
-     "date": "2026-10-19"
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/voxtral-3",
+     "date": "2026-10-20"
     },
     {
-     "name": "OpenAI on X",
-     "url": "https://x.com/OpenAI/status/2112310345863930168",
-     "date": "2026-10-19"
+     "name": "Mistral AI on X",
+     "url": "https://x.com/MistralAI/status/2112574615318876178",
+     "date": "2026-10-20"
     }
    ]
   },
@@ -78,6 +106,24 @@
      "name": "ScienceAlert",
      "url": "https://www.sciencealert.com/microplastics-are-chemically-active-and-could-cause-biological-harm",
      "date": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "title": "Mathematicians say an OpenAI proof of the 'quasi-Riemann hypothesis' looks correct, calling its implications 'staggering'",
+   "tag": "Math",
+   "date": "2026-10-19",
+   "paragraphs": [
+    "Number theorists who have spent the past two weeks studying an AI-generated proof released by OpenAI on Oct. 6 largely agree that it is correct, Quanta Magazine reported on Oct. 19. The proof claims to settle the quasi-Riemann hypothesis, a weaker version of the Riemann hypothesis, which has been open for more than 160 years and concerns how prime numbers are distributed. Jared Duker Lichtman of Stanford University called it \"the most significant AI-for-math achievement so far, by quite a margin,\" and Maksym Radziwiłł of New York University told Quanta the implications are \"staggering,\" adding that \"the vast majority of consequences of RH already follow from quasi-RH.\"",
+    "Quanta explains that the Riemann hypothesis says all nontrivial zeros of the Riemann zeta function have a real part of 1/2, while the quasi version only asks for proof that they lie in a vertical strip narrower than the known one between 0 and 1. According to Quanta, OpenAI announced two versions: one dated Sept. 30, 199 pages long and formally verified in the Lean programming language, placing the zeros between 1/8 and 7/8, and a 49-page version completed almost a week later, not yet formally verified, placing them between 1/12 and 11/12. Mathematicians have focused on the shorter paper, which Quanta says is the only one of OpenAI's Oct. 6 papers to have been edited by a person; OpenAI told the magazine, \"The paper is the result of work from everyone at OpenAI.\"",
+    "Radziwiłł told Quanta that both papers are \"horribly written,\" falling well short of the field's standards of clarity, but that he can now sketch the argument in half a page. Experts quoted by the magazine say the proof introduces no new concepts and instead combines long-known ideas, including obscure objects called metaplectic forms and a formula that Radziwiłł and Alexander Dunn of the Georgia Institute of Technology proved in 2021. Quanta reports that Princeton's Peter Sarnak has repurposed a course he is teaching this semester to study the proof, and that he said he won't be satisfied it is \"a Theorem\" until humans check and understand all the details.",
+    "According to Quanta, mathematicians expect the result to establish many other results in number theory, geometry and theoretical computer science, but they are skeptical that the same techniques can reach the full Riemann hypothesis. \"It seems most likely to me that once mathematicians have fully internalized the new methods and worked through their implications, we will still feel as far off from the full Riemann hypothesis as we were before,\" Will Sawin of Princeton told the magazine, adding, \"But I am not certain of this.\""
+   ],
+   "sources": [
+    {
+     "name": "Quanta Magazine",
+     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+     "date": "2026-10-19"
     }
    ]
   },
@@ -106,42 +152,6 @@
      "name": "DeepInfer on GitHub (DeepSeek)",
      "url": "https://github.com/deepseek-ai/DeepInfer",
      "date": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "title": "Mathematicians say an OpenAI proof of the 'quasi-Riemann hypothesis' looks correct, calling its implications 'staggering'",
-   "tag": "Math",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Number theorists who have spent the past two weeks studying an AI-generated proof released by OpenAI on Oct. 6 largely agree that it is correct, Quanta Magazine reported on Oct. 19. The proof claims to settle the quasi-Riemann hypothesis, a weaker version of the Riemann hypothesis, which has been open for more than 160 years and concerns how prime numbers are distributed. Jared Duker Lichtman of Stanford University called it \"the most significant AI-for-math achievement so far, by quite a margin,\" and Maksym Radziwiłł of New York University told Quanta the implications are \"staggering,\" adding that \"the vast majority of consequences of RH already follow from quasi-RH.\"",
-    "Quanta explains that the Riemann hypothesis says all nontrivial zeros of the Riemann zeta function have a real part of 1/2, while the quasi version only asks for proof that they lie in a vertical strip narrower than the known one between 0 and 1. According to Quanta, OpenAI announced two versions: one dated Sept. 30, 199 pages long and formally verified in the Lean programming language, placing the zeros between 1/8 and 7/8, and a 49-page version completed almost a week later, not yet formally verified, placing them between 1/12 and 11/12. Mathematicians have focused on the shorter paper, which Quanta says is the only one of OpenAI's Oct. 6 papers to have been edited by a person; OpenAI told the magazine, \"The paper is the result of work from everyone at OpenAI.\"",
-    "Radziwiłł told Quanta that both papers are \"horribly written,\" falling well short of the field's standards of clarity, but that he can now sketch the argument in half a page. Experts quoted by the magazine say the proof introduces no new concepts and instead combines long-known ideas, including obscure objects called metaplectic forms and a formula that Radziwiłł and Alexander Dunn of the Georgia Institute of Technology proved in 2021. Quanta reports that Princeton's Peter Sarnak has repurposed a course he is teaching this semester to study the proof, and that he said he won't be satisfied it is \"a Theorem\" until humans check and understand all the details.",
-    "According to Quanta, mathematicians expect the result to establish many other results in number theory, geometry and theoretical computer science, but they are skeptical that the same techniques can reach the full Riemann hypothesis. \"It seems most likely to me that once mathematicians have fully internalized the new methods and worked through their implications, we will still feel as far off from the full Riemann hypothesis as we were before,\" Will Sawin of Princeton told the magazine, adding, \"But I am not certain of this.\""
-   ],
-   "sources": [
-    {
-     "name": "Quanta Magazine",
-     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-     "date": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "title": "Anthropic commits 5% of its shares to a new Public Benefit Fund that can grow as the company's value rises",
-   "tag": "AI",
-   "date": "2026-10-18",
-   "paragraphs": [
-    "Anthropic, the company behind the Claude AI models, announced on Oct. 18 that it is committing a portion of its shares to a new entity called the Anthropic Public Benefit Fund. According to the company, 5% of Anthropic's shares will be committed now, subject to stockholder approval, and the board may add another 2% for every 50% increase in the company's value above a set baseline.",
-    "Anthropic says that as a public benefit corporation, most of its mission work happens inside the company, including AI safety and interpretability research, applied biomedical research, and discounts on Claude for nonprofits and scientific institutions. The company says the new fund will have more flexibility and scale, and gives examples such as large donations to traditional nonprofits or direct distributions to specific populations. It names the labor-market impact of AI as one area, noting it has already committed $200 million to studying and addressing that issue.",
-    "The fund is being set up as a wholly owned LLC rather than a 501(c)(3), which Anthropic says allows it to adjust between different forms of giving. The company states that none of the Anthropic equity held by the LLC will be used for lobbying or political giving, in the US or abroad. Anthropic contrasts the structure with the common tech-industry practice of escalating executive compensation awards, saying it is directing that equity to the public benefit instead.",
-    "Anthropic says the move builds on earlier pledges: its co-founders pledged at founding to donate 80% of their equity, and about half of its employees take part in an equity donation match program. Combined with the new fund, the company says roughly 20% of its shares will be dedicated to the public good, and it plans to share more about the fund's structure, governance and valuation milestones in the coming months."
-   ],
-   "sources": [
-    {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/news/public-benefit-fund",
-     "date": "2026-10-18"
     }
    ]
   }
