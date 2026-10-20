@@ -43,9 +43,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://news.mit.edu/2026/satellite-data-reveal-how-antarcticas-ice-cliffs-behave-over-time-1015": {
-  "s": "Ice cliffs in Antarctica don’t always collapse as scientists had predicted. This discovery challenges the assumption that taller cliffs are more likely to collapse."
- },
  "https://www.sciencenews.org/article/iodine-salt-brain-development-diets": {
   "s": "Many diets may lack iodine, a crucial mineral for brain development. Recent studies show about half of pregnant women and a quarter of adults aren't getting enough, which could lead to lower IQs in children."
  },
@@ -116,9 +113,6 @@
  "https://simonwillison.net/2026/Oct/12/web-edit/": {
   "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
  },
- "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/": {
-  "s": "Mistral AI released Timestral, a family of time series forecasting models ranging from 5M to 209M parameters. This new model family surpasses Google's TimesFM-3 in performance, particularly in zero-shot forecasting tasks. Its unique approach of transferring patterns across different domains makes it more versatile than traditional methods."
- },
  "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/": {
   "s": "NVIDIA has made its AI workload and GPU orchestration platform Run:ai available as open source. This matters because it offers developers a flexible tool to manage GPU resources in Kubernetes environments, enhancing the capabilities of AI workloads without replacing Kubernetes."
  },
@@ -174,9 +168,6 @@
  },
  "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video": {
   "s": "These tiny snakes cartwheel to escape danger, using their tails to flip in the air and roll forward. This behavior is remarkable because it requires no limbs, just the body and tail. Researchers observed this unusual movement in lab settings, finding it impressive and surprising."
- },
- "https://www.nasa.gov/image-article/martian-dawn/": {
-  "s": "NASA’s Curiosity rover on Mars took a close-up image showing the dawn and elongated ridges, or yardangs, formed by wind erosion. This image provides the most detailed view yet of Martian cliffs, revealing features scientists have been eager to study up close."
  },
  "https://www.livescience.com/technology/electric-vehicles/cute-demo-but-totally-impractical-experts-are-skeptical-that-teslas-rocket-roadster-could-actually-work-in-the-real-world": {
   "s": "The organization unveiled a vehicle that can briefly take to the air, using technology from SpaceX. Experts are skeptical that this qualifies as a practical flying car for everyday use."
@@ -330,9 +321,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/viral-deep-sea-expedition-found-a-real-life-patrick-from-spongebob-and-57-new-species": {
-  "s": "A viral deep-sea expedition off Argentina's coast found a Patrick lookalike starfish, but also 57 new species and 5 new genera. This discovery highlights the power of world-class technology and international scientific collaboration in uncovering deep-sea marine life."
- },
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
  },
@@ -348,27 +336,50 @@
  "https://phys.org/news/2026-10-synthetic-molecules-triple-helices-method.html": {
   "s": "Researchers at the University of Jyväskylä have developed a new method to control how synthetic molecules self-assemble into specific three-dimensional structures. This advance brings scientists closer to replicating the precise molecular organization found in nature, potentially leading to the development of advanced materials."
  },
- "https://phys.org/news/2026-10-beehives-immune-layered-antimicrobial-defenses.html": {
-  "s": "Hives of honey bees act as a \"living immune system\" that protects the colony and its food supplies from disease. The arrangement and composition of hive materials, including beeswax, honey, pollen, and propolis, work together to repel disease and promote beneficial microbes. This finding underscores the importance of preserving bee habitats, as the hive's defenses depend on the quality of resources available."
+ "https://www.sciencealert.com/in-2025-trawlers-suddenly-started-pulling-up-rare-hybrid-crabs-in-record-numbers-in-the-bering-sea-now-we-know-why": {
+  "s": "This was unexpected because marine scientists had not anticipated such an increase, and the heat wave of 2018-2019 likely caused the dramatic rise."
  },
- "https://phys.org/news/2026-10-trees-climate-benefits-rights-livelihoods.html": {
-  "s": "Planting trees to capture carbon is often thought to be straightforward, but a new study shows that securing land rights and supporting local livelihoods is crucial for its success. The research indicates that major obstacles exist globally, including poverty, food insecurity, and weak governance, which hinder the establishment and maintenance of forests."
+ "https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/": {
+  "s": "Curiosity captured images of clouds above Gale Crater shortly before sunset. These clouds are characteristic of the Martian spring season, appearing high in the sky."
  },
- "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/": {
-  "s": "In this tutorial, researchers implemented NVIDIA's Structured Data Models, a library that combines several pretrained models for tables into a single PyTorch interface. They used this library to make predictions on tabular data without the need for training. This approach matters because it simplifies the process of making predictions on structured data, potentially reducing the time and resources required for model training."
+ "https://phys.org/news/2026-10-nanoscale-tech-tracks-proteins-neurons.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/stack-overflow-chatgpt-plugin": {
-  "s": "Engineers launched Stack Overflow for Agents quickly with Codex technology. ChatGPT integration then boosted signups by a factor of ten."
+ "https://www.nature.com/articles/s41467-026-78716-1": {
+  "s": "The study combined spectroscopy and quantum calculations to explain how electrons in solids lose coherence when driven by intense laser fields. This loss, previously unexplained, is due to rapid movement of electrons into regions of the crystal with higher electron-phonon interactions, causing dephasing. Understanding this dephasing is crucial for improving the efficiency and coherence of ultrafast sources of light in solids, which could lead to better quantum photonic devices."
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+ "https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html": {
+  "s": "Researchers at the University of Illinois Chicago have used kirigami techniques to fabricate complex shapes that mimic tissue forms in the human body. This innovation holds promise for tissue engineering and wound healing, as it allows for the development of tissue-like structures with precise geometries without requiring additional manipulation by the researchers."
+ },
+ "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/": {
+  "s": "Drex Max, an AI model from Nace AI, processes text and screenshots to provide probabilities for answers. Its high score of 67.59 indicates accuracy, making it the most precise in its family. This matters as it can handle images and provide calibrated answers to typed questions, useful for decision-making processes."
+ },
+ "https://www.marktechpost.com/2026/10/18/tinyfish-free-search-ai-agent-token-cost/": {
+  "s": "TinyFish, an AI agent, incurs two types of cost: the retrieval charge for web searches and the input tokens for processing the retrieved data. The token math and context-window impact are crucial, as the size of the retrieved page affects how many tokens are consumed. Reasoning and output tokens come on top. Enterprises route tasks to the cheapest capable model, reducing the price per token but not the number of tokens per page."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/sharing-ai-progress-in-mathematics": {
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/advancing-computer-use-with-ironclad": {
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark, scoring 87%. This advance in capability suggests Argon can understand and solve complex physical problems without needing to be trained on specific tasks, which is crucial for robotics."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/gpt-6-for-everyone": {
+  "s": "GPT-6 will be available worldwide in ChatGPT, featuring an Intelligent UI that enhances user experience with visual elements and interactive features. This could make AI responses more engaging and easier to use."
+ },
+ "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
   "s": "",
   "why": "too little source text"
  }
