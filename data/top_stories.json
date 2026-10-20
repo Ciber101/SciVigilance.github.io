@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T19:45:36-07:00",
- "updated_pt": "Oct 19, 2026, 7:45 PM PT",
+ "updated": "2026-10-20T04:37:10-07:00",
+ "updated_pt": "Oct 20, 2026, 4:37 AM PT",
  "stories": [
   {
    "title": "Japan launches its MMX mission to bring back the first sample from Mars' moon Phobos",
@@ -59,6 +59,57 @@
    ]
   },
   {
+   "title": "Microplastics aren't chemically inert in water: they spontaneously make reactive hydroxyl radicals, a Nature study reports",
+   "tag": "Health",
+   "date": "2026-10-20",
+   "paragraphs": [
+    "Common microplastics are not chemically inert once they are in water, according to a study by researchers at Columbia University and the University of California, Berkeley, published in the journal Nature on Oct. 14. The paper reports that commodity microplastics spontaneously generate reactive oxygen species, specifically hydroxyl radicals, at the surface where the plastic meets water. ScienceAlert, which covered the study on Oct. 20, describes hydroxyl radicals as among the most reactive and toxic types of free radicals and calls them DNA-damaging.",
+    "The team tested six widely used plastics, polypropylene, polyethylene, PVC, polystyrene, PET and PMMA (acrylic), and the paper says it observed spontaneous radical generation for all six. According to the authors, the activity varied from plastic to plastic and increased with how water-repelling, or hydrophobic, the surface is, with polyolefins such as polyethylene and polypropylene showing stronger effects than PET and PMMA. The paper says ab initio calculations support the lab observations and show that oxidizing hydroxide becomes energetically easier at more hydrophobic plastic–water interfaces.",
+    "In further lab tests, the researchers report that lysozyme, a protein that ScienceAlert notes is found in tears, saliva, mucus and milk, aggregated on polystyrene microplastics, and that caffeine, used as a radical scavenger, suppressed that aggregation. They also report that some mouse red blood cells exposed to polystyrene microplastics developed fragmented, helmet-like shapes. The authors write that their findings challenge the prevailing view that plastics are inert and identify a possibly overlooked mechanism for the harmful effects of microplastics on health and the environment.",
+    "\"Our research found that when microplastics interact with water, as they do when they're in bottled water, or when they're absorbed into our bloodstream, they spontaneously generate [these] high-energy reactive radicals,\" first author Naixin Qian of Columbia University said, as quoted by ScienceAlert. Berkeley theoretical chemist Teresa Head-Gordon said the work \"could ultimately lead to new engineering solutions by redesigning the chemistry of these commodity plastics to reduce the toxic outcomes on health and the environment.\" ScienceAlert reports that co-authors are now using animal studies to look at how plastic particles migrate into fetal tissue during gestation. The Nature paper is open access."
+   ],
+   "sources": [
+    {
+     "name": "Nature (Qian et al., open access)",
+     "url": "https://www.nature.com/articles/s41586-026-11141-y",
+     "date": "2026-10-14"
+    },
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/microplastics-are-chemically-active-and-could-cause-biological-harm",
+     "date": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "title": "DeepSeek open-sources DeepInfer, the inference framework behind its DeepSeek-V4.1-Flash service",
+   "tag": "AI",
+   "date": "2026-10-20",
+   "paragraphs": [
+    "Chinese AI lab DeepSeek has released DeepInfer, which it calls its in-house inference framework, as fully open source, the company announced on X on Oct. 20. According to DeepSeek, the software powers DeepSeek-V4.1-Flash at scale with high throughput and low latency, and the company says it is sharing its production stack to help the community lower compute costs, reduce energy use and make AI more affordable.",
+    "The project's GitHub page describes DeepInfer as the high-performance inference framework that powers DeepSeek's large-scale production services and says this release provides offline inference with the core features needed for serving at scale. It lists DeepSeek-V4.1-Flash as the supported model, and NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs as the supported hardware. The code is released under the Apache License 2.0.",
+    "Listed features include optimized kernels built on DeepSeek's own open-source libraries such as FlashMLA, DeepGEMM and DeepEP, data parallelism for attention and expert parallelism for its mixture-of-experts layers, faster decoding with draft tokens and confidence-scheduled verification, asynchronous batch scheduling, batch-invariant inference, deterministic sampling, and structured outputs that constrain generation to a regex, JSON schema or grammar. DeepSeek's X thread says inference code for future DeepSeek models and ongoing optimizations will land in the same project.",
+    "The README notes that some parts of a complete inference service are not included in this release: a KV cache system, separation of the prefill and decode stages across machines, and load balancing across data-parallel replicas. It says its published performance benchmarks were measured on 4 SM100 GPUs for prefill and 64 for decode, and that DeepInfer was originally built primarily on the open-source vLLM project, with additional inspiration from SGLang and NVIDIA's TensorRT-LLM."
+   ],
+   "sources": [
+    {
+     "name": "DeepSeek on X",
+     "url": "https://x.com/deepseek_ai/status/2112476496283775135",
+     "date": "2026-10-20"
+    },
+    {
+     "name": "DeepSeek on X (thread, 2/4)",
+     "url": "https://x.com/deepseek_ai/status/2112476498598957056",
+     "date": "2026-10-20"
+    },
+    {
+     "name": "DeepInfer on GitHub (DeepSeek)",
+     "url": "https://github.com/deepseek-ai/DeepInfer",
+     "date": "2026-10-20"
+    }
+   ]
+  },
+  {
    "title": "Mathematicians say an OpenAI proof of the 'quasi-Riemann hypothesis' looks correct, calling its implications 'staggering'",
    "tag": "Math",
    "date": "2026-10-19",
@@ -91,42 +142,6 @@
      "name": "Anthropic",
      "url": "https://www.anthropic.com/news/public-benefit-fund",
      "date": "2026-10-18"
-    }
-   ]
-  },
-  {
-   "title": "Four Google DeepMind Gemini 4 Argon agents beat Minecraft on their own, defeating the Ender Dragon in about 27 hours",
-   "tag": "AI",
-   "date": "2026-10-18",
-   "paragraphs": [
-    "A team of four AI agents running on Google's Gemini 4 Argon model has beaten Minecraft without human help, according to a Google DeepMind paper posted on arXiv on Oct. 15. The paper says the agents were placed in a sandboxed survival world with a single goal, defeating the Ender Dragon, and did it in 27 hours and 14 minutes.",
-    "According to the paper, each agent controlled a player through Mineflayer, an open-source library, and coordinated with its teammates through in-game chat and a shared memory. The authors say no one assigned roles or wrote game logic: the agents planned, wrote and debugged every program themselves. The game was Minecraft Java Edition 1.20.4 in survival mode on Easy difficulty, in a randomly generated world with cheat commands disabled and no human input during the run. Researchers could watch on a live dashboard and pause or stop the run, but the paper says they had no cause to intervene.",
-    "The paper reports that the team wrote 2,783 programs, exchanged 229 messages and died 605 times along the way. According to the authors, the agents divided the work among themselves, posted coordinates and warnings to teammates in shared memory, and recovered each other's items after deaths. The paper estimates the whole session cost about $810 at Gemini 4 Argon's introductory list price, or $1,620 at the standard price.",
-    "The authors call it, to their knowledge, the first end-to-end autonomous completion of Minecraft by AI agents using only the standard Mineflayer library, without pre-scouted seeds or other game-specific tools written by humans. For comparison, the paper notes that HowLongToBeat's median for Minecraft's main story is 45 hours for human players and the random-seed speedrun record is under seven minutes, and that the agents played as a team of four on Easy difficulty, through programs rather than a screen and keyboard. The paper also includes a section on the limits of the result."
-   ],
-   "sources": [
-    {
-     "name": "Google DeepMind (arXiv paper)",
-     "url": "https://arxiv.org/abs/2610.22319v1",
-     "date": "2026-10-15"
-    }
-   ]
-  },
-  {
-   "title": "Physicists report evidence of 'pair density waves' in uranium ditelluride that persist even above its superconducting temperature",
-   "tag": "Physics",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "A team led by researchers at the University of Illinois at Urbana-Champaign reports compelling evidence of pair density waves on the surface of the metal uranium ditelluride, according to a ScienceAlert article published Oct. 18 at 7 p.m. PT (Oct. 19 UTC). The results appear in the journal PNAS. ScienceAlert explains that in a superconductor, electrons pair up into so-called Cooper pairs that move with zero resistance, and that pair density waves, predicted in 2007, are an exotic state in which those pairs form repeating patterns as they move.",
-    "ScienceAlert reports that the patterns were found to persist outside the standard superconducting state, something it says has never been seen before. Uranium ditelluride becomes a superconductor below about 2.1 kelvin and is thought to be a rare spin-triplet superconductor. \"Pair density waves are the Cheshire Cat's grin of superconductivity,\" physicist Eduardo Fradkin of the University of Illinois told the outlet. \"They are the vestige that remains once the phase itself has disappeared.\"",
-    "According to the article, the team used a custom-made, high-quality sample and a vector magnetic field scanning tunneling microscope, which can apply magnetic fields in multiple directions. Physicist Zhen Zhu said varying the field's strength and direction along with temperature let the team build confidence that the behavior was intrinsic, and physicist Vidya Madhavan said the modes persisting above the superconducting temperature is a prediction that had not been convincingly observed before.",
-    "ScienceAlert notes that the finding does not mean bulk superconductivity is happening in the material at higher temperatures, but says it helps physicists understand how Cooper pairs can exist outside the conventional superconducting state and could help research toward higher-temperature superconductors. Physicist Julian May-Mann of Stanford told the outlet that confirming a pair density wave requires both high-quality experimental data and careful theoretical analysis."
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/new-form-of-superconductor-behavior-discovered-that-weve-never-seen-before",
-     "date": "2026-10-19"
     }
    ]
   }
