@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T10:50:00-07:00",
- "updated_pt": "Oct 19, 2026, 10:50 AM PT",
+ "updated": "2026-10-20T04:40:56-07:00",
+ "updated_pt": "Oct 20, 2026, 4:40 AM PT",
  "stories": [
   {
    "title": "Figure's F.03 humanoid passes nine straight days on a treadmill: 348 miles and 1.2 million steps",
@@ -19,18 +19,30 @@
    ]
   },
   {
-   "title": "Agility's Digit 5 will recharge in 9 minutes after 90 minutes of work",
+   "title": "Agility's co-founder says Digit 5 trades running for real work: 23-kilogram lifts, a 9-minute recharge and human-style legs",
    "tag": "Humanoids",
-   "date": "2026-10-15",
+   "date": "2026-10-19",
    "paragraphs": [
-    "Agility Robotics announced on Oct. 15 that battery maker Nyobolt is supplying the fast-charging battery system for Digit 5, its newest humanoid robot. According to Agility, the new pack gives about 90 minutes of runtime and recharges in about 9 minutes, a 10-to-1 ratio of work to charging time, compared with 2-to-1 for Digit 4.",
-    "Agility says that should let one Digit 5 put in more than 20 hours of work in a 24-hour day, or more than two full shifts. Downtime for charging is one of the biggest costs of running a robot fleet, so this is aimed squarely at the business case for warehouses and factories. The company describes Digit 5 as its first humanoid designed to work safely in close proximity to people."
+    "Agility Robotics co-founder Jonathan Hurst writes in an IEEE Spectrum essay published Oct. 19 that the company has just launched Digit 5, which he says is designed to be the first humanoid robot that can safely and economically do useful work at scale. According to Hurst, Digit 5 is engineered to lift 23-kilogram bins onto high shelves and to handle heavy warehouse tasks shift after shift.",
+    "Agility announced on Oct. 15 that battery maker Nyobolt is supplying Digit 5's fast-charging battery system, which the company says gives about 90 minutes of runtime and recharges in about 9 minutes, a 10-to-1 ratio of work to charging time compared with 2-to-1 for Digit 4. Agility says that should let one robot work more than 20 hours in a 24-hour day. Hurst writes that the charging dock will deliver 240 amperes at 48 volts, and that the battery and its cooling system take up about 75 percent of the robot's torso.",
+    "Hurst writes that all the extra bulk means Digit 5 can no longer run or jump the way earlier Digits could, and that in some ways it \"feels more like a forklift than the graceful humanoid I set out to build.\" He says humanlike legs replace the ostrichlike legs of earlier versions because the backward-knee design made the ankle strike the ground when squatting to lift objects near the floor. Agility says that when Digit 5 detects an approaching person, it lowers itself to the floor and cuts power to its motors, which the company believes is the only near-term approach to verifiably reduce risk when working near people.",
+    "Hurst calls Digit 5 the largest, heaviest and most expensive robot Agility will ever build. According to the essay, Agility's RoboFab factory in Salem, Oregon, a 70,000-square-foot facility, has the capacity to produce more than 10,000 Digit 5 robots per year, and the company's road map goes beyond carrying bins to picking individual items, tending machines, preparing parts for assembly and shipping, and eventually assembly work itself."
    ],
    "sources": [
+    {
+     "name": "IEEE Spectrum (Jonathan Hurst)",
+     "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+     "date": "2026-10-19"
+    },
     {
      "name": "Agility Robotics",
      "url": "https://www.agilityrobotics.com/content/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5",
      "date": "2026-10-15"
+    },
+    {
+     "name": "Agility Robotics on X",
+     "url": "https://x.com/agilityrobotics/status/2112286284236640320",
+     "date": "2026-10-19"
     }
    ]
   },
@@ -114,6 +126,23 @@
      "name": "@UnitreeRobotics on X",
      "url": "https://x.com/UnitreeRobotics/status/2097973681620459887",
      "date": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "title": "Gecko Robotics gets an extra $300 million on its U.S. Navy contract for ship-inspection robots",
+   "tag": "Inspection robots",
+   "date": "2026-10-20",
+   "paragraphs": [
+    "Pittsburgh-based Gecko Robotics has earned an additional $300 million on its contract with the U.S. Navy and the General Services Administration, The Robot Report reported on Oct. 20. According to the report, the increase quadruples the contract's ceiling value and comes six months after an initial $71 million IDIQ (indefinite delivery, indefinite quantity) contract award. The work is aimed at cutting maintenance delays and improving fleet readiness.",
+    "Gecko says its AI and robotic technology can save the Navy up to $8 million in repair costs per ship by identifying structural issues up to 50 times faster than traditional methods, cutting inspections from months to days. Central to the expansion, according to the report, is Gecko's Komodo system, which scans through thick non-skid deck coatings without stripping or damaging them and produces a full-deck heatmap of corrosion and material thickness, so repair teams can plan work before a ship enters drydock.",
+    "The Robot Report says Gecko's wall-climbing robots, drones and fixed sensors collect data on the health of Navy ships and submarines, including hulls, decks and welds, and that AI is used to build models that identify current and future structural problems. \"The conversation around AI and robotics in defense is no longer about experimental technology. It's about delivering measurable and impactful returns,\" said Jake Loosararian, Gecko's co-founder and CEO. The report notes that the chief of naval operations has set a target of 80% fleet readiness."
+   ],
+   "sources": [
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
+     "date": "2026-10-20"
     }
    ]
   }
