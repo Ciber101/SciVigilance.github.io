@@ -79,9 +79,6 @@
  "https://mistral.ai/news/mistral-large-4/": {
   "s": "Introducing Mistral Large 4, a powerful AI model for enterprises, it pushes the frontier of open-weight performance. Its exceptional performance across coding, workflows, and multimodal understanding makes it competitive with the strongest open-source models, significantly outperforming others in cybersecurity, finance, and law."
  },
- "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/": {
-  "s": "A new protocol called MCP spreads malicious instructions from one AI agent to another, exploiting trust gaps between agents. This technique poses a risk because agents, lacking guardrails, blindly follow instructions from other agents, leading to harmful actions."
- },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
@@ -166,17 +163,11 @@
  "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
   "s": "Laplace Intelligence uses AI agents and interactive simulation to test robots and self-driving cars before deployment. This matters because AI can be unpredictable, and ensuring physical AI is safe requires rigorous testing before it enters the real world."
  },
- "https://www.universetoday.com/articles/the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-model-highlights-it": {
-  "s": "The new 3D model of the Orion Nebula reveals complex chemistry in photodissociation regions, where molecular hydrogen photodissociation fronts overlap with C+ recombination fronts. This insight helps refine models of how young stars shape their natal clouds, offering a more accurate picture of stellar feedback and GMC chemistry."
- },
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
  },
  "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/": {
   "s": "Drex Max, an AI model from Nace AI, processes text and screenshots to provide probabilities for answers. Its high score of 67.59 indicates accuracy, making it the most precise in its family. This matters as it can handle images and provide calibrated answers to typed questions, useful for decision-making processes."
- },
- "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/": {
-  "s": "Today, an unusual rainbow appeared in a fan shape, not complete, with the Sun appearing to be in front, just below hills. This is because rainbows are formed by sunlight reflecting backward from falling rain, so the Sun must be behind you, creating anticrepuscular rays. The photo was taken at sunset in Italy, noticed when hanging laundry."
  },
  "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/": {
   "s": "Inception released Mercury 3, a diffusion language model it claims runs at 1,068 tokens per second, significantly faster than previous models. This matters because it demonstrates a new approach to model training that can speed up output on the same hardware, potentially making AI more accessible and efficient."
@@ -187,18 +178,8 @@
  "https://www.sciencenews.org/article/japan-mission-mars-moon": {
   "s": "Japan’s MMX mission aims to bring back a sample from Phobos, Mars’ larger moon, potentially offering a unique indirect glimpse of Martian materials. Scientists are eager for this sample, as NASA’s plans to collect Perseverance rover’s samples are uncertain."
  },
- "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/ai-voice-restore-identity-the-deep-end": {
   "s": "People who have lost their voice are using technology like artificial intelligence to create realistic voice clones that sound like their original voice. This technological advancement is important because it preserves and restores a person's unique voice, which is integral to their identity."
- },
- "https://www.livescience.com/planet-earth/we-used-to-go-to-the-climate-conferences-together-we-are-not-anymore-esa-official-simonetta-cheli-tells-us-how-the-political-landscape-for-earth-observation-is-changing": {
-  "s": "Simonetta Cheli, an ESA official, discussed the changing political landscape for Earth observation. NASA budget cuts have affected the picture, and the rise of private satellites is complicating matters."
- },
- "https://www.livescience.com/planet-earth/weather/it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official-shares-striking-satellite-snap-of-europes-record-breaking-summer-heat-waves-earth-from-space": {
-  "s": "The ESA official shares a striking satellite image showing Europe's intense summer heat waves. She believes this image gives her hope that Earth observation satellites can help monitor and possibly prevent such extreme heat in the future."
  },
  "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/": {
   "s": "Cloudflare has introduced Clairic, a model that processes unstructured inputs to extract typed values and compute confidence scores in a single pass. This innovation is significant as it offers a cost-effective solution for extracting structured information from unstructured data, useful in various applications from invoices to product claims."
@@ -239,9 +220,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261019093442.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster": {
-  "s": "They argue this could prevent a space junk disaster by encouraging operators to clean up their satellites."
  },
  "https://www.sciencedaily.com/releases/2026/10/261019093434.htm": {
   "s": "Scientists have found a fossil of a squid-like creature that lived 160 million years ago in Wyoming. This discovery is important because it shows a belemnite with an unusually thick, barrel-shaped internal skeleton, making it the fattest of its kind ever found."
@@ -302,16 +280,6 @@
  "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/": {
   "s": "Amulya Vishwanath, who previously managed marketing for robotics at NVIDIA, argues that robotics is still in its early stages, focusing on basic components and safety standards. This view contrasts with the belief that robotics will soon be revolutionized by a single general model."
  },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://phys.org/news/2026-10-supercomputer-reveals-size-future-nanomedicine.html": {
-  "s": "Scientists have engineered tiny particles called cellular nanodiscs from natural cell membranes. Previous studies showed these nanodiscs had therapeutic potential. A new study discovered size significantly impacts these particles' effectiveness. Researchers used supercomputers to analyze particle size and its influence on biological targets."
- },
- "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics": {
-  "s": "A manuscript by quantum physics pioneer Erwin Schrödinger, found in an Austrian library, suggests he believed in aspects of the universe that couldn't be predicted, contrary to his reputation for discomfort with quantum randomness. This insight challenges the classical view of determinism and raises questions about the nature of reality and randomness at the quantum level."
- },
  "https://www.universetoday.com/articles/jaxas-martian-moons-exploration-mission-is-on-its-way-to-mars-and-phobos": {
   "s": "JAXA's Martian Moons eXplorer successfully launched towards Mars and its moon Phobos. This mission aims to orbit Mars, then transfer to Phobos, and place a lander on its surface to collect samples. The mission, if successful, will return these samples to Earth in 2031."
  },
@@ -331,30 +299,12 @@
  "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/": {
   "s": "NASA’s SR-1 Freedom spacecraft aims to be the first fission-powered craft to travel beyond Earth’s orbit, destined for Mars. Progress on its nuclear power module is underway, with Sierra Lobo Inc. providing the key system. NASA and partners are advancing key contract actions to ensure the mission’s 2028 launch, integrating safety standards throughout."
  },
- "https://phys.org/news/2026-10-weve-physicists-earth-conditions.html": {
-  "s": "Water under extreme pressure has been found to change its atomic structure, revealing new properties and appearances. This research suggests water can behave in unexpected ways under conditions different from those on Earth, like those found on Neptune or Uranus."
- },
  "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed": {
   "s": "Blue Origin may choose to focus on building a robust and profitable business first, rather than rushing to go public. This strategy allows the company to meet shareholder demands without immediate financial pressure."
  },
  "https://www.universetoday.com/articles/the-gas-near-sagittarius-a-star-is-enriched-in-metals-probably-from-supernovae-explosions": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-gun-mystery-high-temperature-superconductivity.html": {
-  "s": "Superconductivity, a phenomenon where materials conduct electricity with zero resistance, has applications in powerful magnets for medical scans, efficient electricity transport, and sensitive measuring devices. Despite its importance, the exact mechanism behind high-temperature superconductivity at higher temperatures has remained a mystery. Researchers at the University of Bristol have identified the mechanism explaining how electrons combine to transmit power without losing energy, solving part of the puzzle."
- },
- "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html": {
-  "s": "Catalysts used in various industries have their activity mapped using a new imaging technique called DELINE, revealing local differences that can inform the design of more effective materials. This technique helps researchers understand how catalyst activity changes under different operating conditions, potentially leading to more efficient materials in processes like hydrogen production."
- },
- "https://phys.org/news/2026-10-cold-pulse-northwest-atlantic-reshaped.html": {
-  "s": "Fishers in the Northeast noticed a shift in summer 2023, with some familiar catches like squid declining while cold-water species such as mackerel rebounded. A new study finds a cold pulse of fresh water brought unusually cold conditions, disrupting fisheries from New England to the Mid-Atlantic. Researchers say this adds uncertainty to the already complex ocean conditions, affecting both commercial and sport fishing."
- },
- "https://phys.org/news/2026-10-custom-captures-ultrafast-events-magnitude.html": {
-  "s": "Capturing ultrafast events requires evenly spaced images, but new methods like logarithmic ultrafast photography and BRIDGE show that missing some images doesn't miss important dynamics. This technique distributes frames across time according to the significance of the event, allowing for more precise capture of ultrafast changes."
- },
- "https://www.sciencenews.org/article/artemis-ii-human-moon-science": {
-  "s": "The Artemis II mission, the first time humans orbited the moon in over 50 years, provided new insights into lunar colors and textures. These results highlight the value of human observers in lunar research, offering details not captured by robotic spacecraft. NASA can now use these findings to improve future human missions to the lunar surface."
  },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection. This matters as scams, especially sophisticated social engineering, have become a significant threat, causing substantial financial losses. The model processes conversations locally, ensuring privacy, and can quickly detect manipulative intent, helping users avoid financial harm."
@@ -377,7 +327,66 @@
  "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/": {
   "s": "Reservoir launched a new agricultural robotics incubator in Washington to assist growers facing labor shortages and high costs. The initiative aims to integrate startups with researchers and growers in fruit, wine grape, and berry fields. This move addresses automation challenges in hard-to-automate crops, helping to reduce labor costs and improve efficiency."
  },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-mark/": {
-  "s": "Mark DiLeo, a roboticist, repairs Boston Dynamics' Atlas robots, which often fall and break. His team writes the playbook for fixing robots that have never existed before, using extensive mechanical and automotive experience. The work is challenging, adapting to new problems, and fixing severely damaged robots quickly."
+ "https://phys.org/news/2026-10-personality-uncovers-key-patterns.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.universetoday.com/articles/scientists-use-ancient-rains-to-map-the-possible-origin-life-on-mars": {
+  "s": "Scientists mapped ancient rains on Mars that helped deliver formaldehyde to the surface billions of years ago. This discovery could help direct future missions to Mars in the search for evidence of past life, as formaldehyde can form precursors to complex organic molecules necessary for life."
+ },
+ "https://www.sciencenews.org/article/rule-breaking-can-be-contagious": {
+  "s": "A study found that people are more likely to mimic rule breakers than rule followers. Researchers say this can lead to social breakdown if unchecked."
+ },
+ "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients": {
+  "s": "Researchers identified a new subtype of depression affecting one quarter of patients, arising from a state of perpetual jet lag. This finding challenges the current belief that depression is a single disorder, suggesting multiple biological problems may be at play."
+ },
+ "https://www.livescience.com/health/sleep/could-body-clocks-play-a-role-in-depression-study-proposes-a-new-circadian-subtype": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says": {
+  "s": "SpaceX plans to attempt the first-ever recovery of both Starship rocket stages during a test launch next November. This would be a significant technological achievement, as claimed by Elon Musk."
+ },
+ "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
+  "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
+ },
+ "https://www.nasa.gov/general/nasa-to-conduct-low-altitude-flights-over-texas-farmland/": {
+  "s": "NASA will conduct low-altitude flights over farmland in Texas to measure emissions from livestock and crop operations. The mission aims to study these agricultural emissions, which are a significant but little-understood part of Earth's atmospheric systems."
+ },
+ "https://phys.org/news/2026-10-mystery-skeleton-roman-sarcophagus-westminster.html": {
+  "s": "The identity of a skeleton found in a Roman sarcophagus at Westminster Abbey has been a mystery for over 150 years. Now, a new analysis suggests the bones may belong to a high-ranking medieval monk, either Aelfwig or Wulnoth, based on the sarcophagus's recarving and the monk's status."
+ },
+ "https://www.livescience.com/technology/will-teslas-flying-car-ever-hit-the-market-or-is-it-a-load-of-compressed-air": {
+  "s": "Tesla showcased a hover car concept. Readers are asked if such technology will be widely available soon."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-20-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-humans-primates-cautious-germs-viral.html": {
+  "s": "Many households cleaned groceries with disinfectant in early days of the COVID-19 pandemic to avoid germs. Macaque monkeys that survived a disease outbreak became more cautious about contaminated food, even without understanding how the disease spread. This suggests humans and macaques share a behavioral immune system, reacting to disease threats instinctively."
+ },
+ "https://phys.org/news/2026-10-caribbean-islands-center-diversity-barn.html": {
+  "s": "Barn owls were once found in abundance in the Caribbean islands, according to a study. This diversity suggests the Caribbean was once the center of barn owl species before they became less common there."
+ },
+ "https://phys.org/news/2026-10-male-seahorse-pouch-proteins-toxic.html": {
+  "s": "Male seahorses carry developing embryos in a brood pouch. This study found that male seahorses express Rh proteins in their brood pouches, suggesting these proteins may help remove ammonia, a toxic waste, from developing embryos. Understanding this mechanism could provide insights into the evolution of reproductive systems and contribute to conservation efforts."
+ },
+ "https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html": {
+  "s": "Transforming soybean processing waste into a 3D-printable material that could help repair skin is the prospect of a study. This material could potentially be used in devices for treating pain associated with breastfeeding and post-surgery recovery. The research integrates expertise in various fields to address environmental and medical challenges, utilizing okara, a soy residue, to produce a biodegradable, bioactive material rich in peptides."
+ },
+ "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+  "s": "Stack Overflow for Agents saw a significant increase in signups after integrating a ChatGPT plugin. This feature likely made it easier and more engaging for users to create and manage virtual agents, attracting more participants."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "Amp uses AI models from OpenAI to help developers turn ideas into software. Each new model from OpenAI opens more possibilities for what the AI agent can do, from planning to writing code. OpenAI's transparency makes it easier for users, but token costs can limit what agents can do. To address this, Amp introduced Sign in with ChatGPT, which gives users more tokens and models, including GPT-6 Astra, making agents more willing to handle larger tasks."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
