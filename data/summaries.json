@@ -2,9 +2,6 @@
  "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018": {
   "s": "Model can now understand 3D crystal structures, explaining their properties and potential uses. Helps AI find materials suitable for specific applications."
  },
- "https://www.universetoday.com/articles/new-research-reveals-how-long-stays-in-space-affects-the-human-genome": {
-  "s": "A new study in Science Advances investigates how long stays in space affect human genes. This research aims to understand gravity's impact on the genome, following decades of space missions showing significant physiological changes in astronauts. Understanding these changes is crucial for mitigating health risks for future space travelers."
- },
  "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat": {
   "s": "New simulations show how the skulls of horned dinosaurs could withstand combat. This insight reveals how these animals evolved their headgear for fighting, providing clues about their behavior."
  },
@@ -39,9 +36,6 @@
  "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencenews.org/article/iodine-salt-brain-development-diets": {
-  "s": "Many diets may lack iodine, a crucial mineral for brain development. Recent studies show about half of pregnant women and a quarter of adults aren't getting enough, which could lead to lower IQs in children."
  },
  "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/": {
   "s": "A young intern developed a mechanism enabling AI to process language at scale. This mechanism, called attention, is key because it allows AI to focus on parts of sentences relevant to translation, improving performance on longer sentences."
@@ -271,9 +265,6 @@
  "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet": {
   "s": "Euclid, a space telescope, has found its first comet, a rare discovery for a mission focused on distant galaxies. The swift identification and confirmation of the comet highlight Euclid's potential to discover new Solar System objects, aiding future missions."
  },
- "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos": {
-  "s": "Japan launched a mission to Phobos, Mars' moon, aiming to be the first to return samples to Earth. This mission could rewrite history if successful."
- },
  "https://www.livescience.com/health/alzheimers-dementia/a-gene-variant-triples-the-risk-of-getting-alzheimers-disease-fat-buildup-in-brain-cells-may-be-to-blame-study-finds": {
   "s": "",
   "why": "too little source text"
@@ -336,18 +327,11 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.nature.com/articles/s41467-026-78716-1": {
-  "s": "The study combined spectroscopy and quantum calculations to explain how electrons in solids lose coherence when driven by intense laser fields. This loss, previously unexplained, is due to rapid movement of electrons into regions of the crystal with higher electron-phonon interactions, causing dephasing. Understanding this dephasing is crucial for improving the efficiency and coherence of ultrafast sources of light in solids, which could lead to better quantum photonic devices."
- },
  "https://phys.org/news/2026-10-4d-biofabrication-technology-tissue-wound.html": {
   "s": "Researchers at the University of Illinois Chicago have used kirigami techniques to fabricate complex shapes that mimic tissue forms in the human body. This innovation holds promise for tissue engineering and wound healing, as it allows for the development of tissue-like structures with precise geometries without requiring additional manipulation by the researchers."
  },
  "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/": {
   "s": "Drex Max, an AI model from Nace AI, processes text and screenshots to provide probabilities for answers. Its high score of 67.59 indicates accuracy, making it the most precise in its family. This matters as it can handle images and provide calibrated answers to typed questions, useful for decision-making processes."
- },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/": {
   "s": "Today, an unusual rainbow appeared in a fan shape, not complete, with the Sun appearing to be in front, just below hills. This is because rainbows are formed by sunlight reflecting backward from falling rain, so the Sun must be behind you, creating anticrepuscular rays. The photo was taken at sunset in Italy, noticed when hanging laundry."
@@ -361,19 +345,45 @@
  "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/": {
   "s": "Inception released Mercury 3, a diffusion language model it claims runs at 1,068 tokens per second, significantly faster than previous models. This matters because it demonstrates a new approach to model training that can speed up output on the same hardware, potentially making AI more accessible and efficient."
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://bostondynamics.com/blog/spot-to-the-rescue/": {
   "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, such as climbing stairs and navigating in confined spaces, make it a valuable tool for various safety missions. Spot's public safety kit includes cameras, radios, and an arm for lifting and carrying objects, offering operators a safe and efficient way to search and rescue."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
+  "s": "The MMX mission launched successfully into space on an H3 rocket from Tanegashima Space Center. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
+ },
+ "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time": {
+  "s": "BepiColombo was launched eight years ago, on 20 October 2018. This year, as it travels through the inner Solar System, it will arrive at Mercury on 9 December 2026. The mission's team chose three words to describe BepiColombo, highlighting its complexity, collaboration, and transformative potential."
+ },
+ "https://www.sciencenews.org/article/japan-mission-mars-moon": {
+  "s": "Japan’s MMX mission aims to bring back a sample from Phobos, Mars’ larger moon, potentially offering a unique indirect glimpse of Martian materials. Scientists are eager for this sample, as NASA’s plans to collect Perseverance rover’s samples are uncertain."
+ },
+ "https://www.space.com/astronomy/earth/elephant-island-is-an-icy-sight-from-orbit-space-photo-of-the-day-for-oct-19-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection, tailored to intercept private chats without accessing cloud data. This model, using lightweight Gemma models, can distinguish between benign social chatter and manipulative conversations, helping to protect users from scams that often use complex social engineering tactics."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon showcased its prowess in robotics by outperforming other models in a benchmark test, demonstrating its ability to solve physical problems without explicit training. This advance could accelerate the development of physical artificial general intelligence, making robots more versatile and adaptable."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
+  "s": "Boston Dynamics has joined the DoW SkillBridge program, an initiative that offers service members on-the-job training, apprenticeships, or internships. This move matters as it supports military veterans in transitioning into civilian careers, helping them translate their military skills into corporate environments."
  }
 }
