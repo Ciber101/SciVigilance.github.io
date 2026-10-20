@@ -1,6 +1,20 @@
 {
  "robots": [
   {
+   "id": "rb-reservoir-launches-new-agricultural-robotics-incubator-f",
+   "title": "Reservoir launches new agricultural robotics incubator for Washington growers",
+   "summary": "Reservoir hopes to put agricultural robotics startups to work in the orchards, vineyards and berry fields alongside researchers and growers.",
+   "url": "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Reservoir-Farms-Salinas-Grand-Opening-featured.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:40:05+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-robobusiness-rebrands-as-robotics-summit-expo-west",
    "title": "RoboBusiness rebrands as Robotics Summit & Expo West",
    "summary": "Robotics Summit & Expo West sharpens focus on deploying robotics and AI in the real world, complementing the East Coast flagship event.",
@@ -96,20 +110,6 @@
    ],
    "date": "2026-10-20",
    "ts": "2026-10-20T10:25:47+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-unleash-rb-innovation-the-power-of-nvidia-rtx-pro-6000-b",
-   "title": "Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs",
-   "summary": "As robotics systems grow more capable — faster, more precise, and increasingly reliant on AI-driven vision and control — the humble interconnect is being asked to do more than ever.",
-   "url": "https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/",
-   "source": "The Robot Report",
-   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/pnytechnologies-sponsored-featured-image-october2026.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T17:38:13+00:00",
    "rank": 1
   },
   {
@@ -391,37 +391,51 @@
    "date": "2026-09-23",
    "ts": "2026-09-23T13:59:17+00:00",
    "rank": 1
+  },
+  {
+   "id": "rb-ask-a-roboticist-meet-mark",
+   "title": "Ask a Roboticist: Meet Mark",
+   "summary": "Mark DiLeo, a “robot surgeon” on the Atlas repair team, answers questions about the playbook for fixing something that didn’t exist previously, the worst robot break he’s ever seen, and how people feel when watching…",
+   "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-mark/",
+   "source": "Boston Dynamics",
+   "image": "https://bostondynamics.com/wp-content/uploads/2026/08/Mark-DiLeo-1024x576.png",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-08-27",
+   "ts": "2026-08-27T14:25:32+00:00",
+   "rank": 1
   }
  ],
  "date": "2026-10-20",
- "updated": "2026-10-20T17:30+00:00",
+ "updated": "2026-10-20T20:32+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
-   "id": "bomb-carbon-in-wood-shavings-helped-researchers-measure-the",
-   "title": "'Bomb carbon' in wood shavings helped researchers measure the stability of biochar in soil",
-   "summary": "Biochar can store carbon in the soil and reduce the amount of carbon dioxide in the atmosphere—yet we still know too little about how long the biochar will persist.",
-   "url": "https://phys.org/news/2026-10-carbon-wood-stability-biochar-soil.html",
+   "id": "supercomputer-reveals-how-size-could-shape-the-future-of-nan",
+   "title": "Supercomputer reveals how size could shape the future of nanomedicine",
+   "summary": "Scientists have long been interested in cellular nanodiscs, tiny particles made from natural cell membranes that mimic many of the functions of living cells.",
+   "url": "https://phys.org/news/2026-10-supercomputer-reveals-size-future-nanomedicine.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/photo-of-wood-turning.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hsdsc-affiliates-use-s-1.jpg",
    "tags": [
-    "Earth"
+    "Physics"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T17:20:30+00:00"
+   "ts": "2026-10-20T20:20:05+00:00"
   },
   {
-   "id": "the-james-webb-telescope-is-watching-one-of-the-earliest-sup",
-   "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
-   "summary": "Astronomers using the James Webb Space Telescope may have discovered a supernova erupting just 1.1 billion years after the Big Bang.",
-   "url": "https://www.livescience.com/space/cosmology/the-james-webb-telescope-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/jptntZxmBk3y44kq5S4vRi-1920-80.jpg",
+   "id": "a-lost-schr-dinger-manuscript-reveals-a-surprising-twist-in",
+   "title": "A Lost Schrödinger Manuscript Reveals a Surprising Twist in Quantum Physics",
+   "summary": "Is the Universe deterministic? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+   "url": "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/10/schrodinger-1200x675.png",
    "tags": [
-    "Space"
+    "Physics"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T16:45:34+00:00"
+   "ts": "2026-10-20T20:11:55+00:00"
   },
   {
    "id": "ai-deepseek-open-sources-deepinfer-the-inference-framework",
@@ -438,70 +452,83 @@
    "rank": 0
   },
   {
-   "id": "nasa-experimental-mars-helicopter-blade-designs-target-longe",
-   "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
-   "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
-   "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T16:02:35+00:00"
-  },
-  {
-   "id": "a-magnetar-can-be-born-when-two-neutron-stars-touch",
-   "title": "A Magnetar Can Be Born When Two Neutron Stars Touch",
-   "summary": "Magnetars are neutron stars with magnetic fields a thousand times stronger than normal. One way that magnetars might form is through the merger of two small neutron stars.",
-   "url": "https://www.universetoday.com/articles/a-magnetar-can-be-born-when-two-neutron-stars-touch",
+   "id": "jaxa-s-martian-moons-exploration-mission-is-on-its-way-to-ma",
+   "title": "JAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos",
+   "summary": "JAXA successfully launched its Martian Moon eXplorer on its way to Mars and Phobos. It'll reach Mars in about six months, and will orbit the planet for about a month before transferring to an orbit around Phobos.",
+   "url": "https://www.universetoday.com/articles/jaxas-martian-moons-exploration-mission-is-on-its-way-to-mars-and-phobos",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/touch_20261020_153427.jpg",
+   "image": "https://www.universetoday.com/article_images/MMX_Launch_20261020_183046.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T15:34:55+00:00"
+   "ts": "2026-10-20T20:09:31+00:00"
   },
   {
-   "id": "red-light-white-light-how-to-preserve-your-night-vision-whil",
-   "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
-   "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching.",
-   "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
+   "id": "devastating-2025-myanmar-earthquake-sheds-light-on-how-the-b",
+   "title": "Devastating 2025 Myanmar earthquake sheds light on how the 'Big One' could play out in California",
+   "summary": "The fault that triggered a massive earthquake in Myanmar last year is tilted much like California's San Andreas, which can influence how much shaking takes place and where.",
+   "url": "https://www.livescience.com/planet-earth/earthquakes/devastating-2025-myanmar-earthquake-sheds-light-on-how-the-big-one-could-play-out-in-california",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/DTtrM85ANswpYdXzTqmz5c-1920-80.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T20:04:55+00:00"
+  },
+  {
+   "id": "can-t-make-it-to-the-lucas-museum-of-narrative-art-for-the-s",
+   "title": "Can’t make it to the Lucas Museum of Narrative Art for the 'Star Wars' display? This is the companion book set you’re looking for!",
+   "summary": "Prepare for a lightspeed tour of Lucas's lifetime collection ofpaintings, posters, comics, concept art, and illustrations",
+   "url": "https://www.space.com/entertainment/space-books/cant-make-it-to-the-lucas-museum-of-narrative-art-for-the-star-wars-display-this-is-the-companion-book-set-youre-looking-for",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/kpKnt6iK8TJPyzvmtScoCC-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/KPkNFDYQLrena9wtMDRGie-1920-80.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T14:00:00+00:00"
+   "ts": "2026-10-20T20:00:00+00:00"
   },
   {
-   "id": "ultraprocessed-food-may-be-silently-damaging-your-brain-s-bl",
-   "title": "Ultraprocessed Food May Be Silently Damaging Your Brain's Blood Vessels",
-   "summary": "Diet's hidden brain connection. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-   "url": "https://www.sciencealert.com/eating-more-ultraprocessed-food-linked-to-silent-vascular-brain-injury",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/10/UltraProcessedFeast-1200x675.png",
+   "id": "horror-films-exploit-how-human-vision-works-to-deliver-movie",
+   "title": "Horror films exploit how human vision works to deliver movies’ best scares",
+   "summary": "Scary movies create tension in that space between perception and recognition, as your brain tries to determine what, exactly, you’re seeing.",
+   "url": "https://theconversation.com/horror-films-exploit-how-human-vision-works-to-deliver-movies-best-scares-291955",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/767087/original/file-20261019-60-j6s7pm.jpg?ixlib=rb-4.1.1&amp;rect=310%2C280%2C7444%2C4963&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T14:00:00+00:00"
+   "ts": "2026-10-20T19:42:48+00:00"
   },
   {
-   "id": "ai-minimax-just-launched-m3-1-flash-428b-moe-agentic-model",
-   "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
-   "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched…",
-   "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-10-scaled.png",
+   "id": "ai-using-grok-bot-to-detect-and-respond-to-incidents",
+   "title": "Using Grok Bot to detect and respond to incidents",
+   "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
+   "url": "https://x.ai/news/incident-sweep",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:37:58+00:00",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
    "rank": 0
+  },
+  {
+   "id": "nasa-s-sr-1-freedom-advances-with-progress-on-nuclear-power",
+   "title": "NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module",
+   "summary": "Destined for Mars and beyond, NASA’s Space Reactor-1 (SR-1) Freedom will be humanity’s first fission-powered spacecraft to travel outside Earth’s orbit.",
+   "url": "https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/sr-1-freedom-lmo-2.jpg?w=1920",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T18:11:33+00:00"
   },
   {
    "id": "scientists-finally-uncover-why-statins-can-cause-muscle-pain",
@@ -530,19 +557,6 @@
    "ts": "2026-10-20T13:00:00+00:00"
   },
   {
-   "id": "mmx-lifts-off-to-mars-s-moon-phobos",
-   "title": "MMX lifts off to Mars’s moon Phobos",
-   "summary": "Image: MMX lifts off to Mars’s moon Phobos",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T07:00:00+00:00"
-  },
-  {
    "id": "symposium-highlights-mit-s-wide-range-of-innovations-for-agi",
    "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
    "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
@@ -556,18 +570,18 @@
    "ts": "2026-10-19T21:15:00+00:00"
   },
   {
-   "id": "ai-altk-evolve-how-learned-memory-tops-the-bench-leaderboar",
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "summary": "A Blog post by IBM Research on Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
+   "id": "ai-minimax-just-launched-m3-1-flash-428b-moe-agentic-model",
+   "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
+   "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched…",
+   "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-10-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T15:19:48+00:00",
-   "rank": 1
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:37:58+00:00",
+   "rank": 0
   },
   {
    "id": "ai-proved-the-quasi-riemann-hypothesis-what-happens-now",
@@ -583,82 +597,82 @@
    "ts": "2026-10-19T15:40:26+00:00"
   },
   {
-   "id": "why-haven-t-farm-animals-evolved-against-humans-a-biologist",
-   "title": "Why haven’t farm animals evolved against humans? A biologist explains why there won’t be a chicken uprising anytime soon",
-   "summary": "From domesticated foxes to tuskless elephants, humans have directly and indirectly influenced the evolution of a wide range of animals.",
-   "url": "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/764352/original/file-20261006-50-e8ny2a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5637%2C3758&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "id": "celebrating-bepicolombo-three-words-at-a-time",
+   "title": "Celebrating BepiColombo, three words at a time",
+   "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
+   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T12:35:17+00:00"
+   "ts": "2026-10-19T15:00:00+00:00"
   },
   {
-   "id": "individual-atomic-collisions-can-now-be-detected-in-the-lab",
-   "title": "Individual atomic collisions can now be detected in the lab, potentially opening up pathways to new physics",
-   "summary": "Tiny atoms and molecules are constantly bombarding each other all around us. While we regularly measure the large-scale effects of these interactions, measuring the effect of each individual collision is far more…",
-   "url": "https://phys.org/news/2026-10-individual-atomic-collisions-lab-potentially.html",
+   "id": "water-as-we-ve-never-known-it-physicists-test-water-beyond-e",
+   "title": "Water as we've never known it: Physicists test water beyond Earth-like conditions",
+   "summary": "Water isn't always as it seems. Under extreme conditions, such as those found on other planets, it has been discovered to change its atomic structure, giving it the means to alter its appearance and other properties.",
+   "url": "https://phys.org/news/2026-10-weve-physicists-earth-conditions.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/individual-atomic-coll.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T17:10:01+00:00"
-  },
-  {
-   "id": "undeciphered-voynich-manuscript-may-have-been-bound-out-of-o",
-   "title": "Undeciphered Voynich manuscript may have been bound out of order, study finds",
-   "summary": "Experts argue that the mysterious Voynich manuscript was incorrectly bound — a discovery that \"moves the ball\" in finally deciphering the 15th-century document.",
-   "url": "https://www.livescience.com/archaeology/undeciphered-voynich-manuscript-may-have-been-bound-out-of-order-study-finds",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/3oCZBiUEq89j92PmhWBTmN-1920-80.png",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T15:34:47+00:00"
-  },
-  {
-   "id": "nasa-provides-progress-update-on-moon-base-rovers",
-   "title": "NASA Provides Progress Update on Moon Base Rovers",
-   "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations…",
-   "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
-   "source": "NASA",
-   "image": "https://www.youtube.com/embed/Zezt6EsG9WE",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/water-as-weve-never-kn.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T15:00:10+00:00"
+   "ts": "2026-10-20T20:10:02+00:00"
   },
   {
-   "id": "the-view-from-the-edge-of-a-sparkling-spiral-galaxy-space-ph",
-   "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
-   "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
-   "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+   "id": "jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
+   "title": "Jeff Bezos is playing the long game with Blue Origin (op-ed)",
+   "summary": "If Blue Origin goes public, it will have to meet the expectations of shareholders. Jeff Bezos may therefore want to establish a stronger business before committing to a listing.",
+   "url": "https://www.space.com/space-exploration/private-spaceflight/jeff-bezos-is-playing-the-long-game-with-blue-origin-op-ed",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/SYz8yGvWhQXAWk9JrqK369-1920-80.png",
+   "image": "https://cdn.mos.cms.futurecdn.net/qQuDb494HLSgU6vqBdfRKQ-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T14:00:00+00:00"
+   "ts": "2026-10-20T18:00:00+00:00"
   },
   {
-   "id": "the-moon-is-still-shrinking-as-it-cools-that-could-create-a",
-   "title": "The Moon is Still Shrinking as it Cools. That Could Create a Hazard for Lunar Mission.",
-   "summary": "The Moon is slowly cooling and slowly shrinking. A study of its scarp faults calculates the rate of shrinkage, showing that it's extremely small.",
-   "url": "https://www.universetoday.com/articles/the-moon-is-still-shrinking-as-it-cools-that-could-create-a-hazard-for-lunar-mission",
+   "id": "the-gas-near-sagittarius-a-star-is-enriched-in-metals-probab",
+   "title": "The Gas Near Sagittarius A-star is Enriched in Metals, Probably from Supernovae Explosions",
+   "summary": "The region near Sagittarius A-star, the Milky Way's supermassive black hole, is enriched in metals, although only modestly.",
+   "url": "https://www.universetoday.com/articles/the-gas-near-sagittarius-a-star-is-enriched-in-metals-probably-from-supernovae-explosions",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/FullMoon2010_20261020_131646.jpg",
+   "image": "https://www.universetoday.com/article_images/galactic_center_cropped_20261020_170023.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T13:56:57+00:00"
+   "ts": "2026-10-20T17:34:46+00:00"
+  },
+  {
+   "id": "the-james-webb-telescope-is-watching-one-of-the-earliest-sup",
+   "title": "The James Webb telescope is watching one of the earliest supernovas in the universe unfold",
+   "summary": "Astronomers using the James Webb Space Telescope may have discovered a supernova erupting just 1.1 billion years after the Big Bang.",
+   "url": "https://www.livescience.com/space/cosmology/the-james-webb-telescope-is-watching-one-of-the-earliest-supernovas-in-the-universe-unfold",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/jptntZxmBk3y44kq5S4vRi-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T16:45:34+00:00"
+  },
+  {
+   "id": "nasa-experimental-mars-helicopter-blade-designs-target-longe",
+   "title": "NASA Experimental Mars Helicopter Blade Designs Target Longer Flights",
+   "summary": "NASA researchers are developing the future of flight on Mars, laying the groundwork for helicopters with the ability to fly higher and farther while conducting science on the Red Planet.",
+   "url": "https://www.nasa.gov/science-research/aeronautics-research/nasa-experimental-mars-helicopter-blade-designs-target-longer-flights/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ingenuity-airfoil-clf5605.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T16:02:35+00:00"
   },
   {
    "id": "hurricane-warning-maps-are-improving-but-a-dangerous-problem",
@@ -700,14 +714,131 @@
    "ts": "2026-10-19T18:20:00+00:00"
   },
   {
-   "id": "celebrating-bepicolombo-three-words-at-a-time",
-   "title": "Celebrating BepiColombo, three words at a time",
-   "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
-   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
+   "id": "why-haven-t-farm-animals-evolved-against-humans-a-biologist",
+   "title": "Why haven’t farm animals evolved against humans? A biologist explains why there won’t be a chicken uprising anytime soon",
+   "summary": "From domesticated foxes to tuskless elephants, humans have directly and indirectly influenced the evolution of a wide range of animals.",
+   "url": "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/764352/original/file-20261006-50-e8ny2a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5637%2C3758&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:35:17+00:00"
+  },
+  {
+   "id": "euclid-discovers-new-comet",
+   "title": "Euclid discovers new comet",
+   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
    "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
    "tags": [
     "Space"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:00:00+00:00"
+  },
+  {
+   "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
+   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
+   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:25:08+00:00"
+  },
+  {
+   "id": "smoking-gun-may-help-solve-mystery-of-high-temperature-supe",
+   "title": "'Smoking gun' may help solve mystery of high-temperature superconductivity",
+   "summary": "Superconductivity has many important practical applications, including creating powerful magnets used in high-resolution medical scans, transporting electricity efficiently and building ultrasensitive measuring devices.",
+   "url": "https://phys.org/news/2026-10-gun-mystery-high-temperature-superconductivity.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-discover-s-3.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T20:00:07+00:00"
+  },
+  {
+   "id": "a-magnetar-can-be-born-when-two-neutron-stars-touch",
+   "title": "A Magnetar Can Be Born When Two Neutron Stars Touch",
+   "summary": "Magnetars are neutron stars with magnetic fields a thousand times stronger than normal. One way that magnetars might form is through the merger of two small neutron stars.",
+   "url": "https://www.universetoday.com/articles/a-magnetar-can-be-born-when-two-neutron-stars-touch",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/touch_20261020_153427.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T15:34:55+00:00"
+  },
+  {
+   "id": "undeciphered-voynich-manuscript-may-have-been-bound-out-of-o",
+   "title": "Undeciphered Voynich manuscript may have been bound out of order, study finds",
+   "summary": "Experts argue that the mysterious Voynich manuscript was incorrectly bound — a discovery that \"moves the ball\" in finally deciphering the 15th-century document.",
+   "url": "https://www.livescience.com/archaeology/undeciphered-voynich-manuscript-may-have-been-bound-out-of-order-study-finds",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/3oCZBiUEq89j92PmhWBTmN-1920-80.png",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T15:34:47+00:00"
+  },
+  {
+   "id": "nasa-provides-progress-update-on-moon-base-rovers",
+   "title": "NASA Provides Progress Update on Moon Base Rovers",
+   "summary": "As NASA works to build the Moon Base, crewed and robotic lunar rovers will play a crucial role during early development through technology demonstrations, astronaut transport, terrain mapping, scientific investigations…",
+   "url": "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/",
+   "source": "NASA",
+   "image": "https://www.youtube.com/embed/Zezt6EsG9WE",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T15:00:10+00:00"
+  },
+  {
+   "id": "red-light-white-light-how-to-preserve-your-night-vision-whil",
+   "title": "Red light, white light: How to preserve your night vision while using stargazing apps",
+   "summary": "The right apps can take a lot of the work out of stargazing, but they can also stop your eyes from adjusting to the dark. Here's how to use them without ruining your skywatching.",
+   "url": "https://www.space.com/stargazing/skywatching-kit/red-light-white-light-how-to-preserve-your-night-vision-while-using-stargazing-apps",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/kpKnt6iK8TJPyzvmtScoCC-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:00:00+00:00"
+  },
+  {
+   "id": "astronomers-uncover-new-secrets-of-the-universe-s-first-five",
+   "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
+   "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/leo-p-dwarf-galaxy-webb.webp",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T12:34:15+00:00"
+  },
+  {
+   "id": "these-tiny-snakes-cartwheel-to-escape-danger",
+   "title": "These tiny snakes cartwheel to escape danger",
+   "summary": "New videos offer a closer look at a rare and bizarre escape behavior in some Southeast Asian snakes.",
+   "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101526_MT_cartwheelingsnake_main.jpg?w=800",
+   "tags": [
+    "Science"
    ],
    "date": "2026-10-19",
    "ts": "2026-10-19T15:00:00+00:00"
@@ -724,136 +855,6 @@
    ],
    "date": "2026-10-19",
    "ts": "2026-10-19T12:35:06+00:00"
-  },
-  {
-   "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
-   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
-   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:25:08+00:00"
-  },
-  {
-   "id": "drones-help-archaeologists-find-aboriginal-rock-art-sites-hi",
-   "title": "Drones help archaeologists find Aboriginal rock art sites hidden in Australia's rugged Blue Mountains",
-   "summary": "Drone-mounted laser technology is helping archaeologists locate Aboriginal rock art sites hidden in the rugged, densely vegetated landscapes of Australia's Blue Mountains, demonstrating a new approach to surveying…",
-   "url": "https://phys.org/news/2026-10-drones-archaeologists-aboriginal-art-sites.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/drones-help-archaeolog.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T17:00:11+00:00"
-  },
-  {
-   "id": "webb-captures-stellar-jets",
-   "title": "Webb Captures Stellar Jets",
-   "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129…",
-   "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T14:44:09+00:00"
-  },
-  {
-   "id": "ultrasound-waves-that-jiggle-deep-brain-structures-may-relie",
-   "title": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints",
-   "summary": "In a new pilot study, 10 minutes of transcranial ultrasound stimulation reduced patients' delusion severity, scientists report.",
-   "url": "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/PdKSnTq9KAnGCraXZ7kGaP-1920-80.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T14:10:00+00:00"
-  },
-  {
-   "id": "astronomers-uncover-new-secrets-of-the-universe-s-first-five",
-   "title": "Astronomers uncover new secrets of the Universe’s first five minutes",
-   "summary": "Scientists have achieved a major breakthrough in understanding the Universe’s earliest moments, measuring the amount of helium formed in the first five minutes after the Big Bang with unprecedented precision.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261019093442.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/leo-p-dwarf-galaxy-webb.webp",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T12:34:15+00:00"
-  },
-  {
-   "id": "could-a-200k-bond-for-satellites-paid-before-launch-prevent",
-   "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
-   "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is reached.",
-   "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/M3zAUn7nqXc4GWceASqYac-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T12:00:00+00:00"
-  },
-  {
-   "id": "jwst-tracks-shifting-water-clouds-and-churning-gases-on-the",
-   "title": "JWST Tracks Shifting Water Clouds and Churning Gases on the Coldest Known Brown Dwarf",
-   "summary": "When picturing a star, typically people think of giant balls of burning gas in the sky that emit enough light they are hard to miss.",
-   "url": "https://www.universetoday.com/articles/jwst-tracks-shifting-water-clouds-and-churning-gases-on-the-coldest-known-brown-dwarf",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Y-Dwarf-NASA.jpg_20261020_112052.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T11:30:05+00:00"
-  },
-  {
-   "id": "these-tiny-snakes-cartwheel-to-escape-danger",
-   "title": "These tiny snakes cartwheel to escape danger",
-   "summary": "New videos offer a closer look at a rare and bizarre escape behavior in some Southeast Asian snakes.",
-   "url": "https://www.sciencenews.org/article/tiny-snakes-cartwheel-escape-video",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101526_MT_cartwheelingsnake_main.jpg?w=800",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:00:00+00:00"
-  },
-  {
-   "id": "why-calling-for-a-kill-switch-is-the-wrong-way-to-think-abou",
-   "title": "Why calling for a ‘kill switch’ is the wrong way to think about reining in AI",
-   "summary": "A kill switch to shut down dangerous AI systems is a seductive concept, but the metaphor hides how the models work – and how they get out of control in the first place.",
-   "url": "https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/766824/original/file-20261016-50-ts0kdi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8368%2C5578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:34:56+00:00"
-  },
-  {
-   "id": "euclid-discovers-new-comet",
-   "title": "Euclid discovers new comet",
-   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:00:00+00:00"
   },
   {
    "id": "giving-ai-a-crystal-clear-view-of-the-materials-world",
@@ -882,30 +883,82 @@
    "ts": "2026-10-15T13:40:13+00:00"
   },
   {
-   "id": "hot-plasma-may-explain-how-rapidly-feeding-black-holes-launc",
-   "title": "Hot plasma may explain how rapidly feeding black holes launch powerful jets",
-   "summary": "Some supermassive black holes rapidly consume surrounding matter while simultaneously firing powerful streams of plasma into space at nearly the speed of light.",
-   "url": "https://phys.org/news/2026-10-hot-plasma-rapidly-black-holes.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/what-drives-the-jets-f.jpg",
+   "id": "mars-moon-lander-set-to-launch-on-19-october",
+   "title": "Mars moon lander set to launch on 19 October",
+   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026).",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T16:40:01+00:00"
+   "date": "2026-10-13",
+   "ts": "2026-10-13T12:00:00+00:00"
   },
   {
-   "id": "nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory",
-   "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
-   "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space…",
-   "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+   "id": "fluorescent-reaction-maps-reveal-how-catalyst-activity-chang",
+   "title": "Fluorescent reaction maps reveal how catalyst activity changes with operating conditions",
+   "summary": "Catalysts spur chemical reactions used across industries, from producing fuels and medicines to manufacturing chemicals and treating pollutants.",
+   "url": "https://phys.org/news/2026-10-fluorescent-reaction-reveal-catalyst-conditions.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/nus-cde-researchers-ma-2.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:50:06+00:00"
+  },
+  {
+   "id": "webb-captures-stellar-jets",
+   "title": "Webb Captures Stellar Jets",
+   "summary": "An image from NASA’s James Webb Space Telescope released on Oct. 6, 2026, reveals a cauldron of cosmic creation. Webb has unveiled numerous stars formerly hidden by clouds of dust in a stellar nursery known as NGC 7129…",
+   "url": "https://www.nasa.gov/image-article/webb-captures-stellar-jets/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55572978759-545472774e-o.png?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T14:21:42+00:00"
+   "ts": "2026-10-20T14:44:09+00:00"
+  },
+  {
+   "id": "ultrasound-waves-that-jiggle-deep-brain-structures-may-relie",
+   "title": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints",
+   "summary": "In a new pilot study, 10 minutes of transcranial ultrasound stimulation reduced patients' delusion severity, scientists report.",
+   "url": "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/PdKSnTq9KAnGCraXZ7kGaP-1920-80.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:10:00+00:00"
+  },
+  {
+   "id": "the-view-from-the-edge-of-a-sparkling-spiral-galaxy-space-ph",
+   "title": "The view from the edge of a sparkling spiral galaxy | Space photo of the day for Oct. 20, 2026",
+   "summary": "If you were approaching the edge of a spiral galaxy, arriving from afar through the cosmos, it might look something like this.",
+   "url": "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/SYz8yGvWhQXAWk9JrqK369-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:00:00+00:00"
+  },
+  {
+   "id": "the-moon-is-still-shrinking-as-it-cools-that-could-create-a",
+   "title": "The Moon is Still Shrinking as it Cools. That Could Create a Hazard for Lunar Mission.",
+   "summary": "The Moon is slowly cooling and slowly shrinking. A study of its scarp faults calculates the rate of shrinkage, showing that it's extremely small.",
+   "url": "https://www.universetoday.com/articles/the-moon-is-still-shrinking-as-it-cools-that-could-create-a-hazard-for-lunar-mission",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/FullMoon2010_20261020_131646.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T13:56:57+00:00"
   },
   {
    "id": "scientists-discover-a-bizarre-jurassic-squid-unlike-anything",
@@ -921,45 +974,6 @@
    "ts": "2026-10-20T12:20:44+00:00"
   },
   {
-   "id": "spacex-launches-its-starfall-return-capsule-for-2nd-time-eve",
-   "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
-   "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission.",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/357C7FjvMFXnP6krGTgWxH-1920-80.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T11:16:37+00:00"
-  },
-  {
-   "id": "it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official",
-   "title": "'It makes me feel that we can do a lot about it': ESA official shares striking satellite snap of Europe's record-breaking summer heat waves",
-   "summary": "The head of ESA's Earth observation program tells Live Science why a striking image of a recent heat wave scorching Southern Europe gives her hope that we can properly monitor ‪— and eventually prevent ‪— similar…",
-   "url": "https://www.livescience.com/planet-earth/weather/it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official-shares-striking-satellite-snap-of-europes-record-breaking-summer-heat-waves-earth-from-space",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/HUinKizHDEHDeErvdQceyW-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T11:00:00+00:00"
-  },
-  {
-   "id": "the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-m",
-   "title": "The Chemistry in Stellar Nurseries is Complex, and a New 3D Model Highlights It",
-   "summary": "Young stars form in molecular clouds, and once they're turned on, they begin to shape their natal clouds with radiation. Researchers developed a new 3D model of one feature of the Orion Nebula star-forming region called…",
-   "url": "https://www.universetoday.com/articles/the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-model-highlights-it",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/weic2315b_20261019_204851.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T22:09:34+00:00"
-  },
-  {
    "id": "japan-s-sample-return-mission-to-phobos-may-also-collect-som",
    "title": "Japan’s sample return mission to Phobos may also collect some Mars dust",
    "summary": "Japan’s MMX mission will be the first to the moons of Mars and it aims to bring back precious rock samples — perhaps even indirectly from Mars.",
@@ -973,17 +987,17 @@
    "ts": "2026-10-19T13:00:00+00:00"
   },
   {
-   "id": "for-centuries-bird-migration-was-a-mystery-a-tech-revolution",
-   "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
-   "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are both complicated and remarkable.",
-   "url": "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345",
+   "id": "why-calling-for-a-kill-switch-is-the-wrong-way-to-think-abou",
+   "title": "Why calling for a ‘kill switch’ is the wrong way to think about reining in AI",
+   "summary": "A kill switch to shut down dangerous AI systems is a seductive concept, but the metaphor hides how the models work – and how they get out of control in the first place.",
+   "url": "https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329",
    "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/766017/original/file-20261013-50-vlefqu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C42%2C808%2C538&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "image": "https://images.theconversation.com/files/766824/original/file-20261016-50-ts0kdi.jpg?ixlib=rb-4.1.1&amp;rect=0%2C1%2C8368%2C5578&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
    "tags": [
-    "Science"
+    "Tech"
    ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T12:21:52+00:00"
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:34:56+00:00"
   },
   {
    "id": "state-of-supply-chain-sustainability-report-finds-corporate",
@@ -1012,30 +1026,43 @@
    "ts": "2026-10-14T14:04:05+00:00"
   },
   {
-   "id": "mars-moon-lander-set-to-launch-on-19-october",
-   "title": "Mars moon lander set to launch on 19 October",
-   "summary": "The Martian Moons eXploration ( MMX ) mission is set to launch into space on a H3 rocket from the Tanegashima Space Center at 04:41 JST on 20 October 2026 (20:41 BST / 21:41 CEST on 19 October 2026).",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_from_launch_to_phobos/27573728-1-eng-GB/MMX_from_launch_to_Phobos_card_full.png",
+   "id": "how-a-cold-pulse-in-the-northwest-atlantic-reshaped-east-coa",
+   "title": "How a cold pulse in the Northwest Atlantic reshaped East Coast fisheries",
+   "summary": "Fishers in the Northeast began noticing an unusual shift in the summer of 2023. Some familiar catches, including shortfin and longfin squid, declined, while cold-water species such as mackerel bounced back from years of…",
+   "url": "https://phys.org/news/2026-10-cold-pulse-northwest-atlantic-reshaped.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/long-fin-squid.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T19:40:15+00:00"
+  },
+  {
+   "id": "nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory",
+   "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+   "summary": "The Republic of Uzbekistan became the 77th signatory of the Artemis Accords during a ceremony in Samarkand on Monday, committing to the practical principles that guide safe, transparent, and responsible civil space…",
+   "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/artemis-accords-uzbekistan-77-101926.jpg?w=2048",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-13",
-   "ts": "2026-10-13T12:00:00+00:00"
+   "date": "2026-10-20",
+   "ts": "2026-10-20T14:21:42+00:00"
   },
   {
-   "id": "largest-collection-of-roman-cave-inscriptions-discovered-in",
-   "title": "Largest collection of Roman cave inscriptions discovered in Spain",
-   "summary": "Archaeologists have uncovered the largest collection of Latin cave inscriptions anywhere in the Roman Empire. Early analysis of the inscriptions discovered at Cova Dones reveals that a female deity was worshipped at the…",
-   "url": "https://phys.org/news/2026-10-largest-roman-cave-inscriptions-spain.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-collection-of.jpg",
+   "id": "could-a-200k-bond-for-satellites-paid-before-launch-prevent",
+   "title": "Could a $200K bond for satellites paid before launch prevent a space junk disaster in orbit? Here's why some scientists think so",
+   "summary": "The space around Earth is turning into a junkyard. Researchers think a refundable deposit scheme could force satellite operators to clean up their act before a tipping point is reached.",
+   "url": "https://www.space.com/space-exploration/satellites/could-satellite-deorbit-deposits-prevent-a-space-debris-disaster",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/M3zAUn7nqXc4GWceASqYac-1920-80.jpg",
    "tags": [
-    "Physics"
+    "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T16:20:15+00:00"
+   "ts": "2026-10-20T12:00:00+00:00"
   },
   {
    "id": "your-aging-brain-may-be-trading-memory-for-something-more-va",
@@ -1051,56 +1078,30 @@
    "ts": "2026-10-20T11:31:22+00:00"
   },
   {
-   "id": "we-used-to-go-to-the-climate-conferences-together-we-are-no",
-   "title": "'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing",
-   "summary": "Live Science sat down with the European Space Agency's Simonetta Cheli to discuss the importance of Earth observation, how NASA budget cuts have changed the picture, and how the proliferation of private satellites could…",
-   "url": "https://www.livescience.com/planet-earth/we-used-to-go-to-the-climate-conferences-together-we-are-not-anymore-esa-official-simonetta-cheli-tells-us-how-the-political-landscape-for-earth-observation-is-changing",
+   "id": "jwst-tracks-shifting-water-clouds-and-churning-gases-on-the",
+   "title": "JWST Tracks Shifting Water Clouds and Churning Gases on the Coldest Known Brown Dwarf",
+   "summary": "When picturing a star, typically people think of giant balls of burning gas in the sky that emit enough light they are hard to miss.",
+   "url": "https://www.universetoday.com/articles/jwst-tracks-shifting-water-clouds-and-churning-gases-on-the-coldest-known-brown-dwarf",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Y-Dwarf-NASA.jpg_20261020_112052.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T11:30:05+00:00"
+  },
+  {
+   "id": "it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official",
+   "title": "'It makes me feel that we can do a lot about it': ESA official shares striking satellite snap of Europe's record-breaking summer heat waves",
+   "summary": "The head of ESA's Earth observation program tells Live Science why a striking image of a recent heat wave scorching Southern Europe gives her hope that we can properly monitor ‪— and eventually prevent ‪— similar…",
+   "url": "https://www.livescience.com/planet-earth/weather/it-makes-me-feel-that-we-can-do-a-lot-about-it-esa-official-shares-striking-satellite-snap-of-europes-record-breaking-summer-heat-waves-earth-from-space",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/WyKHAhDChwkBYp9f5ueqt6-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/HUinKizHDEHDeErvdQceyW-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
    "ts": "2026-10-20T11:00:00+00:00"
-  },
-  {
-   "id": "nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mi",
-   "title": "NASA closes the book on epic OSIRIS-REx asteroid-sampling mission: 'I am immensely proud of what we did'",
-   "summary": "NASA's OSIRIS-REx asteroid-sampling mission formally ended on Sept. 30, 2026, though scientists will continue to study the pieces of space rock it returned for decades.",
-   "url": "https://www.space.com/astronomy/asteroids/nasa-closes-the-book-on-epic-osiris-rex-asteroid-sampling-mission-i-am-immensely-proud-of-what-we-did",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/BMVq9w3fG6m5zzzFvmqm9d-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T10:00:00+00:00"
-  },
-  {
-   "id": "apod-2026-october-20-an-anticrepuscular-rainbow-fan",
-   "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
-   "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=2048&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T04:05:00+00:00"
-  },
-  {
-   "id": "webb-captures-this-golden-galaxy-cluster-in-all-it-s-glory",
-   "title": "Webb Captures This Golden Galaxy Cluster in All it's Glory",
-   "summary": "The NASA/ESA/CSA James Webb Space Telescope Picture of the Month features the brilliant golden galaxies belonging to the MACS J0454.1-0300 galaxy cluster.",
-   "url": "https://www.universetoday.com/articles/webb-captures-the-golden-galaxy-cluster-in-all-its-glory",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Galaxies_in_a_cosmic_house_of_mirrors_pillars_20261018_215301.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T22:02:00+00:00"
   },
   {
    "id": "horned-dinosaurs-weapons-evolved-to-handle-the-forces-of-com",
@@ -1116,6 +1117,19 @@
    "ts": "2026-10-16T15:00:00+00:00"
   },
   {
+   "id": "for-centuries-bird-migration-was-a-mystery-a-tech-revolution",
+   "title": "For centuries, bird migration was a mystery – a tech revolution is changing that, and could help save these amazing creatures",
+   "summary": "An early clue came from storks found in Europe with African arrows in their bodies. Today, an atlas reveals hundreds of bird migration routes that are both complicated and remarkable.",
+   "url": "https://theconversation.com/for-centuries-bird-migration-was-a-mystery-a-tech-revolution-is-changing-that-and-could-help-save-these-amazing-creatures-294345",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/766017/original/file-20261013-50-vlefqu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C42%2C808%2C538&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-16",
+   "ts": "2026-10-16T12:21:52+00:00"
+  },
+  {
    "id": "ai-model-decodes-the-language-cells-use-to-communicate",
    "title": "AI model decodes the language cells use to communicate",
    "summary": "A new computational approach reveals how cells communicate to assemble into tissues. This could accelerate stem cell engineering, improve disease models, and inform therapies.",
@@ -1129,43 +1143,43 @@
    "ts": "2026-10-15T20:50:00+00:00"
   },
   {
-   "id": "using-light-to-control-brain-cells-neuroscientist-karl-deiss",
-   "title": "Using light to control brain cells – neuroscientist Karl Deisseroth explains how he made his Nobel-winning discovery",
-   "summary": "Optogenetics, a field that started with an algae gene, is shedding light on new treatments for eye and neuropsychiatric conditions.",
-   "url": "https://theconversation.com/using-light-to-control-brain-cells-neuroscientist-karl-deisseroth-explains-how-he-made-his-nobel-winning-discovery-293926",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/765692/original/file-20261012-50-iclyvu.jpg?ixlib=rb-4.1.1&amp;rect=0%2C166%2C2000%2C1333&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-15",
-   "ts": "2026-10-15T12:16:35+00:00"
-  },
-  {
-   "id": "collecting-phones-during-college-lessons-raises-grades-large",
-   "title": "Collecting phones during college lessons raises grades, large randomized trial finds",
-   "summary": "Your phone vibrates, a notification pops up, or you just take a quick glance at the screen. Even minor interruptions can affect your concentration—not least when you're in class.",
-   "url": "https://phys.org/news/2026-10-college-lessons-grades-large-randomized.html",
+   "id": "custom-frame-timing-captures-ultrafast-events-across-five-or",
+   "title": "Custom frame timing captures ultrafast events across five orders of magnitude in time",
+   "summary": "Most conventional methods of ultrafast photography use evenly spaced intervals in which images are taken, but new developments have shown how much can be left out of the story, especially when multiple timescales are…",
+   "url": "https://phys.org/news/2026-10-custom-captures-ultrafast-events-magnitude.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/phone-free-lessons-boo.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/quality-over-quantity-3.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T16:00:01+00:00"
+   "ts": "2026-10-20T19:20:10+00:00"
   },
   {
-   "id": "see-pieces-of-halley-s-comet-fall-to-earth-this-week-as-the",
-   "title": "See pieces of Halley's Comet fall to Earth this week as the Orionid meteor shower peaks",
-   "summary": "The Orionid meteor shower peaks overnight on Oct. 21-22. Here's how to see \"shooting stars\" from Halley's Comet.",
-   "url": "https://www.livescience.com/space/meteoroids/see-pieces-of-halleys-comet-fall-to-earth-this-week-as-the-orionid-meteor-shower-peaks",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/KzA6gLsMhjAPoxH4c82EVN-1920-80.jpg",
+   "id": "spacex-launches-its-starfall-return-capsule-for-2nd-time-eve",
+   "title": "SpaceX launches its 'Starfall' return capsule for 2nd time ever (video)",
+   "summary": "SpaceX launched its Starfall return capsule for the second time ever this morning (Oct. 20), sending it up on the Bandwagon-5 rideshare mission.",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starfall-return-capsule-launch-bandwagon-5-rideshare-mission",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/357C7FjvMFXnP6krGTgWxH-1920-80.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T10:00:00+00:00"
+   "ts": "2026-10-20T11:16:37+00:00"
+  },
+  {
+   "id": "we-used-to-go-to-the-climate-conferences-together-we-are-no",
+   "title": "'We used to go to the climate conferences together. We are not anymore': ESA official Simonetta Cheli tells us how the political landscape for Earth observation is changing",
+   "summary": "Live Science sat down with the European Space Agency's Simonetta Cheli to discuss the importance of Earth observation, how NASA budget cuts have changed the picture, and how the proliferation of private satellites could…",
+   "url": "https://www.livescience.com/planet-earth/we-used-to-go-to-the-climate-conferences-together-we-are-not-anymore-esa-official-simonetta-cheli-tells-us-how-the-political-landscape-for-earth-observation-is-changing",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/WyKHAhDChwkBYp9f5ueqt6-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T11:00:00+00:00"
   },
   {
    "id": "scientists-find-a-way-to-fight-alzheimer-s-brain-damage-with",
@@ -1181,43 +1195,43 @@
    "ts": "2026-10-20T09:52:35+00:00"
   },
   {
-   "id": "the-human-fingerprint-on-earth-s-water-cycle",
-   "title": "The Human Fingerprint on Earth’s Water Cycle",
-   "summary": "Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.",
-   "url": "https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/",
+   "id": "apod-2026-october-20-an-anticrepuscular-rainbow-fan",
+   "title": "APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan",
+   "summary": "APOD Science APOD APOD: 2026 October 20 – An… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/",
    "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/the-human-fingerprint-on-earth’s-water-cycle/terrestrialwaterstorage_trends.jpg?w=2000&#038;h=1380&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/AntiRainbow_Esposti_5120.jpg?w=2048&#038;h=1536&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
    "tags": [
     "Space"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T04:01:00+00:00"
+   "ts": "2026-10-20T04:05:00+00:00"
   },
   {
-   "id": "new-blade-runner-2099-trailer-is-a-space-fan-s-dream-with-si",
-   "title": "New 'Blade Runner 2099' trailer is a space fan's dream with sinister starships and strange exoplanets (video)",
-   "summary": "'More human than human. That's not a slogan; it's a shackle'",
-   "url": "https://www.space.com/entertainment/space-movies-shows/new-blade-runner-2099-trailer-is-a-space-fans-dream-with-sinister-starships-and-strange-exoplanets-video",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/nSLAzxuy57KBrEsGG94Tgk-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T22:00:00+00:00"
-  },
-  {
-   "id": "the-esa-s-euclid-space-telescope-has-discovered-a-new-comet",
-   "title": "The ESA's Euclid Space Telescope Has Discovered A New Comet",
-   "summary": "The ESA's Euclid space telescope was launched in July, 2026, and its mission is to observe billions of galaxies. The goal is to measure their redshifts over 10 billion years of Universal expansion, to better understand…",
-   "url": "https://www.universetoday.com/articles/the-esas-euclid-space-telescope-has-discovered-a-new-comet",
+   "id": "the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-m",
+   "title": "The Chemistry in Stellar Nurseries is Complex, and a New 3D Model Highlights It",
+   "summary": "Young stars form in molecular clouds, and once they're turned on, they begin to shape their natal clouds with radiation. Researchers developed a new 3D model of one feature of the Orion Nebula star-forming region called…",
+   "url": "https://www.universetoday.com/articles/the-chemistry-in-stellar-nurseries-is-complex-and-a-new-3d-model-highlights-it",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Comet_C_2026_S1_Euclid_observations_in_context_20261019_185956.jpg",
+   "image": "https://www.universetoday.com/article_images/weic2315b_20261019_204851.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T19:56:36+00:00"
+   "ts": "2026-10-19T22:09:34+00:00"
+  },
+  {
+   "id": "artemis-ii-results-show-how-much-science-people-can-do-at-th",
+   "title": "Artemis II results show how much science people can do at the moon",
+   "summary": "We’ve studied the moon with robotic spacecraft for decades. What do human observers add? Artemis II’s first science results offer some answers.",
+   "url": "https://www.sciencenews.org/article/artemis-ii-human-moon-science",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_LG_ArtemisIIupdate_main.jpg?w=777",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:00:00+00:00"
   }
  ],
  "ai": [
@@ -1233,6 +1247,20 @@
    ],
    "date": "2026-10-20",
    "ts": "2026-10-20T14:31:59+00:00",
+   "rank": 0
+  },
+  {
+   "id": "ai-using-grok-bot-to-detect-and-respond-to-incidents",
+   "title": "Using Grok Bot to detect and respond to incidents",
+   "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
+   "url": "https://x.ai/news/incident-sweep",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
    "rank": 0
   },
   {
@@ -1433,6 +1461,20 @@
    "rank": 2
   },
   {
+   "id": "ai-google-deepmind-and-singapore-government-collaborate-to",
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-14",
+   "ts": "2026-10-14T02:00:14+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-introducing-grok-voice-3-0",
    "title": "Introducing Grok Voice 3.0",
    "summary": "The world’s most intelligent voice model.",
@@ -1475,17 +1517,45 @@
    "rank": 2
   },
   {
-   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "source": "Google AI",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+   "id": "ai-developing-gemini-4-argon-responsibly-and-safely",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T16:00:00+00:00",
+   "ts": "2026-10-13T19:43:07+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gemini-4-argon-for-robotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:58+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:52+00:00",
    "rank": 2
   },
   {
@@ -1556,6 +1626,20 @@
    ],
    "date": "2026-10-07",
    "ts": "2026-10-07T16:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-embeddinggemma-2-an-open-lightweight-multimodal-embeddin",
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "summary": "Introducing EmbeddingGemma 2, an open multimodal embedding model optimized for privacy-first use cases",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-06",
+   "ts": "2026-10-06T19:57:04+00:00",
    "rank": 2
   },
   {
