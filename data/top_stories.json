@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-19T13:38:56-07:00",
- "updated_pt": "Oct 19, 2026, 1:38 PM PT",
+ "updated": "2026-10-19T19:45:36-07:00",
+ "updated_pt": "Oct 19, 2026, 7:45 PM PT",
  "stories": [
   {
    "title": "Japan launches its MMX mission to bring back the first sample from Mars' moon Phobos",
@@ -31,6 +31,29 @@
     {
      "name": "Science News",
      "url": "https://www.sciencenews.org/article/japan-mission-mars-moon",
+     "date": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI says its newest models are far better at COBOL, Fortran and other low-resource programming languages",
+   "tag": "AI",
+   "date": "2026-10-19",
+   "paragraphs": [
+    "OpenAI said on Oct. 19 that its latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran and Visual Basic. In its announcement, the company explains that these languages have less code and documentation for models to learn from than languages like Python and JavaScript, yet support critical infrastructure. OpenAI cites figures that COBOL supports more than 40% of online banking systems, 80% of in-person credit card transactions and 95% of ATM transactions, and that Fortran is used in weather forecasting and nuclear reactor safety analysis. The company says the work is guided by feedback from developers and enterprise customers who told it that coding models often struggle with these languages.",
+    "To measure progress, OpenAI says it built two evaluations. MultiLangBench asks a model to build a SQLite-compatible database engine from scratch in each of 20 programming languages, checking the results against the reference SQLite implementation with tests adapted from SQLite's own test suite. According to OpenAI, GPT-6 Astra reached an average test pass rate of 87.4% across the 20 languages at maximum reasoning effort, up from 26.8% for GPT-5.6 Sol, with gains in every language tested. OpenAI reports COBOL rising from 10.9% to 72.1%, Fortran from 21.4% to 83.5% and Visual Basic from 27.5% to 89.4%, with COBOL remaining the hardest. It says the lower-cost GPT-6 Luna reached 40.3% at an estimated average API cost of $0.77 per sample, compared with $3.48 for GPT-5.6 Sol, about 78% lower.",
+    "The second evaluation asks models to migrate COBOL programs to C++, Java, Kotlin, Python or Rust, and counts a migration as successful only if hidden tests requiring byte-for-byte matching outputs all pass. OpenAI gives the example that COBOL's fixed-point arithmetic discards extra decimal digits unless rounding is requested, so a rewrite that rounds instead can run without errors while producing different financial results. On this test, OpenAI says GPT-6.1 Sol scored 86.6% at low reasoning effort, compared with 5.4% for GPT-5.6 Sol at the same setting, and reached 97.9% at higher reasoning effort, which the company says brings the evaluation close to saturation.",
+    "OpenAI says it is releasing the MultiLangBench setup and test suite on GitHub, along with results for each language. The company adds that applying these capabilities to production software still requires expert review and testing against a system's business rules and dependencies. These benchmark results are OpenAI's own reported figures."
+   ],
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/low-resource-programming-languages/",
+     "date": "2026-10-19"
+    },
+    {
+     "name": "OpenAI on X",
+     "url": "https://x.com/OpenAI/status/2112310345863930168",
      "date": "2026-10-19"
     }
    ]
@@ -86,23 +109,6 @@
      "name": "Google DeepMind (arXiv paper)",
      "url": "https://arxiv.org/abs/2610.22319v1",
      "date": "2026-10-15"
-    }
-   ]
-  },
-  {
-   "title": "DeepSeek releases DeepSeek-V4.1-Flash-1017, an MIT-licensed update it says improves reasoning, coding and agent tasks",
-   "tag": "AI",
-   "date": "2026-10-17",
-   "paragraphs": [
-    "DeepSeek has released DeepSeek-V4.1-Flash-1017 on Hugging Face. Its model card describes the release as a minor update to DeepSeek-V4.1-Flash that delivers \"substantial improvements across reasoning, coding, agentic tasks, and visual benchmarks.\" Hugging Face's listing shows the model repository was created on Oct. 16 at 7:40 p.m. PT. DeepSeek says the update also reduces task execution time and output length, letting users complete tasks faster and at lower cost.",
-    "In a benchmark table on the model card, DeepSeek reports the new version scoring 42.3 on Terminal-Bench 4.0, up from 31.2 for the earlier V4.1-Flash, and 77.0 on DeepSWE v1.1, up from 74.2. On the HLE benchmark without tools, DeepSeek reports 42.6, compared with 36.8 for the earlier version. The same table lists Anthropic's Opus 5 at 51.8 on Terminal-Bench 4.0 and 56.3 on HLE. These are DeepSeek's own reported figures.",
-    "The model weights are released under the MIT License, and DeepSeek recommends a context window of 1 million tokens. Hugging Face lists the model at about 763 billion parameters, stored mostly in 8-bit precision. DeepSeek says this release does not include a Jinja chat template; instead, it provides a Python reference implementation for prompt encoding, plus a set of Rust libraries with Python bindings called deepseek-recipe."
-   ],
-   "sources": [
-    {
-     "name": "DeepSeek (Hugging Face model card)",
-     "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-     "date": "2026-10-17"
     }
    ]
   },
