@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T04:40:56-07:00",
- "updated_pt": "Oct 20, 2026, 4:40 AM PT",
+ "updated": "2026-10-20T07:37:45-07:00",
+ "updated_pt": "Oct 20, 2026, 7:37 AM PT",
  "stories": [
   {
    "title": "Figure's F.03 humanoid passes nine straight days on a treadmill: 348 miles and 1.2 million steps",
@@ -68,32 +68,6 @@
    ]
   },
   {
-   "title": "Boston Dynamics hires former Alexa chief Rohit Prasad as CEO, while Spot spreads through factories",
-   "tag": "Industry",
-   "date": "2026-10-15",
-   "paragraphs": [
-    "Boston Dynamics named Rohit Prasad its chief executive, effective Oct. 7. Prasad spent 12 years at Amazon, where he helped build the Alexa voice assistant and more recently led the Amazon Nova family of AI models. The company says his job is to speed up the merging of AI with its robots and turn that into products at scale.",
-    "Meanwhile its four-legged Spot robot keeps picking up industrial work. On Oct. 15 the company said Coca-Cola Europacific Partners is expanding Spot globally after a deployment in Barcelona, with a robot already running in East Kilbride, Scotland, finding air leaks and handling routine equipment checks. A week earlier it said Spot is inspecting hundreds of assets on five routes at Kirin's Chitose brewery in Japan."
-   ],
-   "sources": [
-    {
-     "name": "Boston Dynamics",
-     "url": "https://bostondynamics.com/news/boston-dynamics-appoints-rohit-prasad-as-chief-executive-officer/",
-     "date": "2026-10-06"
-    },
-    {
-     "name": "@BostonDynamics on X",
-     "url": "https://x.com/BostonDynamics/status/2110755540401827986",
-     "date": "2026-10-15"
-    },
-    {
-     "name": "@BostonDynamics on X",
-     "url": "https://x.com/BostonDynamics/status/2108232456784498990",
-     "date": "2026-10-08"
-    }
-   ]
-  },
-  {
    "title": "China's humanoid makers: AGIBOT teases new robots for Oct. 29, Unitree adds swarm control",
    "tag": "Humanoids",
    "date": "2026-10-16",
@@ -126,6 +100,24 @@
      "name": "@UnitreeRobotics on X",
      "url": "https://x.com/UnitreeRobotics/status/2097973681620459887",
      "date": "2026-09-10"
+    }
+   ]
+  },
+  {
+   "title": "Eka Robotics raises $150 million at a $1.45 billion valuation for a robot-grasping model built on force, not just vision",
+   "tag": "Physical AI",
+   "date": "2026-10-20",
+   "paragraphs": [
+    "Eka Robotics, a startup founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, has closed a $150 million Series A round that values it at $1.45 billion post-money, TechCrunch reported on Oct. 20. According to TechCrunch, the round was led by the venture funds a16z and F-Prime. The company builds a manipulation system that combines a force-sensitive gripper with a new kind of deep-learning model.",
+    "TechCrunch reports that Eka's robot can pick up about 1,500 objects weighing up to 1 kilogram in an hour, compared with about 600 for a human, and that Eka says it reliably picks up objects more than 95% of the time. Instead of a vision-language-action model, the company describes its approach as a vision-force-action model that focuses on force inputs. \"Vision tells you roughly where the object is, what the pose is, but the actual grabbing, the actual searching is happening through forces,\" Agrawal told TechCrunch.",
+    "According to TechCrunch, Eka designed its own robotic hand with more force sensors than traditional grippers, and it trains the model with reinforcement learning in a physics simulator run at scale rather than relying on human demonstration videos; the founders say they can generate thousands of hours of robot experience in minutes. Kris Hauser, a professor at the University of Illinois Urbana-Champaign, told TechCrunch the robot \"was able to adapt to a large number of different objects without retraining.\" Raghu Raguram, the a16z general partner who co-led the round, told TechCrunch the system is already exceeding superhuman performance for certain tasks.",
+    "TechCrunch notes that Eka still has to prove itself in the field: the company is running pilots with a number of industrial customers in pick-and-place and wire handling. Agrawal told TechCrunch the gripper hardware costs less than $1,000 and is rated for 5 million duty cycles, with a goal of reaching the 20 million cycles of standard industrial arms. Hauser said a big challenge will be running on real assembly lines \"without breaking for an entire year.\""
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+     "date": "2026-10-20"
     }
    ]
   },
