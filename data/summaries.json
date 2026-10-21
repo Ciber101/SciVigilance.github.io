@@ -67,9 +67,6 @@
  "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/": {
   "s": "Agent Lightning v1.0 is a new framework for training AI agents using reinforcement learning. It matters because it allows agents to use their existing harnesses, reducing the cost and complexity of training and deployment."
  },
- "https://www.anthropic.com/news/cyber-verification-program": {
-  "s": "The Cyber Verification Program is being expanded to include three access tiers, each with advanced cyber capabilities and reduced blocking classifiers. This is important as it provides security professionals with the best tools to protect systems, while limiting harmful activities by malicious actors."
- },
  "https://blogs.nvidia.com/blog/telecom-operators-open-models/": {
   "s": "Telecom companies are now creating their AI plans using open models, not just for saving money. These models allow operators to trust, control, and adjust AI for their most important tasks, from managing networks to helping customers. Companies like SoftBank and NVIDIA are showing how this approach can improve telecom-specific AI, making it better suited for their unique needs."
  },
@@ -306,24 +303,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection. This matters as scams, especially sophisticated social engineering, have become a significant threat, causing substantial financial losses. The model processes conversations locally, ensuring privacy, and can quickly detect manipulative intent, helping users avoid financial harm."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated advanced physical reasoning and control capabilities, outperforming other models in a robotics benchmark. This leap in capability could accelerate progress towards physical AGI, enabling versatile robotic tasks without prior training."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/": {
   "s": "Reservoir launched a new agricultural robotics incubator in Washington to assist growers facing labor shortages and high costs. The initiative aims to integrate startups with researchers and growers in fruit, wine grape, and berry fields. This move addresses automation challenges in hard-to-automate crops, helping to reduce labor costs and improve efficiency."
  },
@@ -336,9 +315,6 @@
  },
  "https://www.sciencenews.org/article/rule-breaking-can-be-contagious": {
   "s": "A study found that people are more likely to mimic rule breakers than rule followers. Researchers say this can lead to social breakdown if unchecked."
- },
- "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients": {
-  "s": "Researchers identified a new subtype of depression affecting one quarter of patients, arising from a state of perpetual jet lag. This finding challenges the current belief that depression is a single disorder, suggesting multiple biological problems may be at play."
  },
  "https://www.livescience.com/health/sleep/could-body-clocks-play-a-role-in-depression-study-proposes-a-new-circadian-subtype": {
   "s": "",
@@ -372,21 +348,25 @@
  "https://phys.org/news/2026-10-male-seahorse-pouch-proteins-toxic.html": {
   "s": "Male seahorses carry developing embryos in a brood pouch. This study found that male seahorses express Rh proteins in their brood pouches, suggesting these proteins may help remove ammonia, a toxic waste, from developing embryos. Understanding this mechanism could provide insights into the evolution of reproductive systems and contribute to conservation efforts."
  },
- "https://phys.org/news/2026-10-soybean-yields-3d-printable-material.html": {
-  "s": "Transforming soybean processing waste into a 3D-printable material that could help repair skin is the prospect of a study. This material could potentially be used in devices for treating pain associated with breastfeeding and post-surgery recovery. The research integrates expertise in various fields to address environmental and medical challenges, utilizing okara, a soy residue, to produce a biodegradable, bioactive material rich in peptides."
- },
- "https://openai.com/index/stack-overflow-chatgpt-plugin": {
-  "s": "Stack Overflow for Agents saw a significant increase in signups after integrating a ChatGPT plugin. This feature likely made it easier and more engaging for users to create and manage virtual agents, attracting more participants."
- },
  "https://openai.com/index/amp-beyond-coding": {
   "s": "Amp uses AI models from OpenAI to help developers turn ideas into software. Each new model from OpenAI opens more possibilities for what the AI agent can do, from planning to writing code. OpenAI's transparency makes it easier for users, but token costs can limit what agents can do. To address this, Amp introduced Sign in with ChatGPT, which gives users more tokens and models, including GPT-6 Astra, making agents more willing to handle larger tasks."
  },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+ "https://www.sciencealert.com/a-strange-new-time-crystal-emerges-from-synchronized-vibrations": {
+  "s": "A strange new time crystal has emerged from synchronized vibrations, not through an external rhythm, but through a spontaneous process. This discovery, by physicists at the University of Amsterdam, reveals how order can form in two-dimensional materials, a process called wave coarsening. It challenges the fragility of time crystals and opens new avenues for understanding how matter can organize itself in time."
+ },
+ "https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
   "s": "",
   "why": "too little source text"
  },
- "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://openai.com/index/pollo-ai": {
+  "s": "Pollo AI utilizes advanced AI models to transform creative concepts into visual content. This technology matters as it empowers content creators to produce high-quality ads without extensive technical skills."
  }
 }
