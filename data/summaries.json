@@ -97,12 +97,6 @@
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
  },
- "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/": {
-  "s": "Inception released Mercury 3, a diffusion language model it claims runs at 1,068 tokens per second, significantly faster than previous models. This matters because it demonstrates a new approach to model training that can speed up output on the same hardware, potentially making AI more accessible and efficient."
- },
- "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/": {
-  "s": "Cloudflare has introduced Clairic, a model that processes unstructured inputs to extract typed values and compute confidence scores in a single pass. This innovation is significant as it offers a cost-effective solution for extracting structured information from unstructured data, useful in various applications from invoices to product claims."
- },
  "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/": {
   "s": "Avenda Health introduced Surgery Mode, adding advanced 3D mapping to its Unfold AI platform for intraoperative prostate cancer care. This feature enhances surgeons' view of cancer anatomy during robotic procedures, aiding in better treatment decisions. The innovation aims to improve outcomes, preserve patient quality of life, and set a new standard for prostate cancer care."
  },
@@ -133,15 +127,8 @@
  "https://www.sciencenews.org/article/rule-breaking-can-be-contagious": {
   "s": "A study found that people are more likely to mimic rule breakers than rule followers. Researchers say this can lead to social breakdown if unchecked."
  },
- "https://www.livescience.com/health/sleep/could-body-clocks-play-a-role-in-depression-study-proposes-a-new-circadian-subtype": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
   "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
- },
- "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/": {
-  "s": "Headline: APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia Explanation: Astronomers captured three faint nebulas in the Cassiopeia constellation using 100 hours of observation and a special filter. These nebulas glow red due to the energetic light from a multi-star system γ Cassiopeia, and appear as blue phantoms, revealing ionized oxygen. The mystery of their origin remains to be solved."
  },
  "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/": {
   "s": "Google Cloud released llm-d 1.0, an open-source stack for distributed large language model inference. This matters as it offers multi-tenant flow control and zero-downtime upgrades, making it easier to run LLMs reliably in production. It also uses cache-aware routing to efficiently manage memory and improve performance."
@@ -214,10 +201,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.livescience.com/archaeology/case-of-mysterious-medieval-skeleton-buried-in-roman-era-sarcophagus-at-westminster-abbey-finally-solved": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencedaily.com/releases/2026/10/261020085013.htm": {
   "s": "Scientists have rejuvenated blood cells from an 80-year-old person, transforming them into neural stem cells with a youthful molecular age. This breakthrough allows researchers to reverse more than 60 years of cellular aging, potentially offering insights into reversing aging and treating age-related diseases."
  },
@@ -248,9 +231,6 @@
  "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/": {
   "s": "NASA will conduct a flyover at a football game in Alabama, featuring Administrator Isaacman in a fighter jet. The event aims to engage fans and highlight NASA's contributions to aviation and space exploration."
  },
- "https://www.sciencealert.com/scientists-transplanted-306-square-meters-of-wild-salt-marsh-into-the-worlds-largest-wave-machine-and-let-a-simulated-extreme-storm-rip": {
-  "s": "Scientists transplanted a 306 square meter wild salt marsh into the world's largest wave machine to simulate a massive storm. This experiment matters because it helps test how salt marshes can protect coastlines from extreme conditions, conditions that are not often seen in nature."
- },
  "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust": {
   "s": "Christopher Stubbs, a physicist with experience in cosmology and national security, has joined Anthropic’s trust. His expertise, particularly in observational cosmology and reproducible AI research, matters because he brings scientific rigor and commitment to truth to AI development, aligning with Anthropic’s mission to use AI for long-term human benefit."
  },
@@ -272,14 +252,8 @@
  "https://www.sciencenews.org/article/opioid-overdose-deaths-naloxone": {
   "s": "A drop in U.S. drug overdose deaths was observed but not explained by more naloxone use, a medication that reverses opioid overdoses. Researchers found that while naloxone use declined, nonfatal overdose responses by emergency services also decreased, suggesting fewer overall overdoses rather than more revivals."
  },
- "https://www.universetoday.com/articles/solar-orbiter-traces-giant-magnetic-switchbacks-directly-back-to-the-sun": {
-  "s": "Solar Orbiter encountered a giant magnetic switchback in the Sun's corona, allowing researchers to trace it back to its origin for the first time. This breakthrough helps clarify how switchbacks, which affect the solar wind, are formed and how they impact the wider solar system."
- },
  "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/": {
   "s": "NASA astronaut Jessica Watkins conducted a 3D bioprinting experiment in space on Earth's orbit. The experiment aimed to produce cartilage tissue of higher quality in microgravity, which could benefit both Earth patients and astronauts."
- },
- "https://www.universetoday.com/articles/under-extreme-pressure-on-ice-giants-water-ice-gets-weird": {
-  "s": "Under extreme pressure, water ice takes on a unique shape that is not molecular. This research, published in Communications Chemistry, shows water ice can be asymmetric, changing its atomic arrangement, revealing its strange nature under such conditions."
  },
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
@@ -315,24 +289,11 @@
  "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/": {
   "s": "Kushant Patel from Brookhaven National Laboratory works on software that enables robots to navigate and interact with their environment, particularly in scientific facilities like particle accelerators. His research includes teaching robots to map and inspect nuclear material, and developing control systems for advanced synchrotron beamlines."
  },
- "https://phys.org/news/2026-10-reconstructing-years-summer-temperature-western.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencealert.com/obesity-linked-to-twice-the-volume-of-brain-abnormalities-study-finds": {
-  "s": "People exposed to obesity over many years showed more brain abnormalities, according to a study. This matters because it clarifies previous conflicting research on obesity's effects on the brain, helping to better understand health risks."
- },
- "https://www.universetoday.com/articles/there-must-be-stellar-mass-black-holes-in-our-stellar-neighbourhood-can-we-find-them": {
-  "s": "Finding stellar-mass black holes is challenging because they are isolated and not actively accreting material, unlike supermassive black holes. Theoretical models suggest their presence, but they are difficult to locate due to their subdued nature and lack of detectable radiation."
- },
  "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/": {
   "s": "NASA JPL, founded in Pasadena in 1936, pioneered rocket propulsion tests that led to the first U.S. satellite Explorer 1, discovering Earth's protective radiation belts. Over 90 years, JPL has achieved numerous firsts, from lunar missions to Mars rovers, setting the stage for future exploration."
  },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
   "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
- },
- "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html": {
-  "s": "Researchers at the Helmholtz Institute for Pharmaceutical Research Saarland have used artificial intelligence to design novel protein building blocks for biological production systems. This approach could help produce new active ingredients for drugs, as current methods of modifying natural compounds are challenging due to their complex protein structures."
  },
  "https://www.universetoday.com/articles/a-stubborn-question-answered-new-research-reveals-how-the-milky-ways-disk-formed": {
   "s": "New research using Gaia data has revealed how the Milky Way's thin and thick disks formed. It suggests stars in the inner disk form and settle into an even thinner disk, each generation forming in progressively thinner disks. This helps explain the disk's structure and age differences."
@@ -340,20 +301,8 @@
  "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time": {
   "s": "BepiColombo launched eight years ago. Why it matters: The mission, involving international collaboration, is nearing its destination after a challenging journey."
  },
- "https://phys.org/news/2026-10-fog-war-game-based-boundaries.html": {
-  "s": "What happened: Researchers used a game to study how adversaries escalate conflicts. They found players often misinterpreted defensive actions as threats, leading to cycles of escalating hostilities. What matters: A shared visual boundary helped players better understand each other's intentions, leading to peaceful settlements."
- },
  "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet": {
   "s": "Euclid, a space telescope designed to observe distant galaxies, unexpectedly discovered a comet in images taken between September 16 and 24, 2026. This discovery highlights Euclid's capability to detect new comets at great distances, potentially aiding future missions."
- },
- "https://phys.org/news/2026-10-humans-domesticated-bacterium-botox-treatments.html": {
-  "s": "Humans have managed to domesticate the bacterium Clostridium botulinum, which produces the deadly toxin botulinum toxin. This domestication has allowed the bacterium to be transformed into a productive source for medical, military, and cosmetic products like Botox."
- },
- "https://phys.org/news/2026-10-serengeti-hyenas-clans-stable-climate.html": {
-  "s": "Although prey animals like blue wildebeest now spend less time in hyena territories, hyena clans in the Serengeti have remained stable. This is because hyenas continue to feed mainly on migratory prey, which are more abundant and sufficient for their clans."
- },
- "https://phys.org/news/2026-10-ancient-fish-bones-reveal-arctic.html": {
-  "s": "Ancient fish bones, specifically otoliths, were discovered in deep-sea sediments during Arctic Ocean exploration. These bones reveal the presence of fish in the Arctic during the last ice age, indicating a thriving marine ecosystem."
  },
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
@@ -364,5 +313,67 @@
  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html": {
+  "s": "The researchers developed new optogenetic tools that selectively inhibit cellular activity using light. These tools could aid in studying diseases where balance between excitation and inhibition is disturbed, such as cardiac arrhythmias. In experiments, these tools were introduced into neurons and heart muscle cells, showing they could inhibit their activity when exposed to blue light."
+ },
+ "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun": {
+  "s": "Solar flares are powerful explosions triggered by magnetic field reconnection, where fields snap and release a huge amount of energy. These events, though complex, have significant impacts on Earth, affecting communications and navigation systems."
+ },
+ "https://www.sciencealert.com/one-quarter-of-data-centers-are-located-in-water-stressed-areas-study-shows": {
+  "s": "Data centers consume vast amounts of water, particularly in areas with limited water resources. This raises environmental concerns as water scarcity can lead to conflicts between data centers and local water users."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/space/astronomy/james-webb-telescope-discovers-surprising-trove-of-metals-around-the-milky-ways-supermassive-black-hole": {
+  "s": "Observations from James Webb reveal metals near the Milky Way's central black hole, surprising scientists. This discovery adds to the puzzle of why the black hole operates differently from others."
+ },
+ "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/": {
+  "s": "NASA conducted a hot fire test of RS-25 engine No. 10001 on October 21 at NASA's Stennis Space Center. This test is important because it validates the new thermal protection system and provides data to improve engine performance and reliability for future Artemis missions."
+ },
+ "https://phys.org/news/2026-10-candida-auris-harbinger-dangerous-fungal.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand": {
+  "s": "The discovery of a rare Viking Age coin bearing the likeness of Olaf the Holy, a Christian king of Norway, suggests this coin was part of a hoard that may have been kept by the king himself. This rarity matters as it provides insight into the currency and religious practices of Viking society during the early Christian period."
+ },
+ "https://www.universetoday.com/articles/webb-captures-stars-in-the-early-stages-of-life-in-a-nearby-stellar-nursery": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-vital-militaries-accountable-environmental-toll.html": {
+  "s": "Ahead of a major climate conference, an expert argues that reliable data on greenhouse gas emissions during wars is crucial to hold military forces, governments and individuals accountable. Understanding the scale of conflict emissions is essential to addressing the military's significant contribution to the climate crisis."
+ },
+ "https://www.universetoday.com/articles/there-should-be-black-holes-in-our-neighbourhood-can-we-find-them": {
+  "s": "Finding stellar-mass black holes is challenging because they are isolated and don't emit much radiation. Models predict their presence, but they are hard to locate due to their subdued nature and lack of accretion. Research efforts, like those by Abdurakhmon Nosirov, aim to detect them in Gaia data, but they remain elusive."
+ },
+ "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html": {
+  "s": "Scientists demonstrated for the first time discrete one-dimensional solitons in an optically induced photonic lattice made of warm rubidium vapor. This work opens new research avenues in nonlinear optics and complex quantum systems."
+ },
+ "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html": {
+  "s": "Researchers at Vilnius University demonstrated perovskite-based lasers that lasted over 400 million pulses, solving a long-standing issue with their instability. Perovskites, like graphene, have high potential but degrade quickly, making this study a significant step towards practical applications."
+ },
+ "https://phys.org/news/2026-10-rattlesnakes-alike-personality-venom.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/": {
+  "s": "Fluent released Flint, a local coding model with 40B total parameters and 2.5B active ones. Flint is designed to analyze codebases, fix bugs, implement features, and write tests. Its high performance on benchmarks and speed make it useful for coding tasks. Asif Razzaq, CEO of Marktechpost, supports Flint's potential for aiding developers with coding tasks."
+ },
+ "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/": {
+  "s": "Vercel released durable-harness, an open-source tool that logs every model and tool call, enabling coding sessions to resume after crashes. This matters because it prevents lost work by recording each step, allowing sessions to continue seamlessly even when functions fail or are redeployed."
+ },
+ "https://openai.com/index/stack-overflow-chatgpt-plugin": {
+  "s": "Stack Overflow for Agents, a product that integrates AI with people and AI agents, saw a significant increase in signups thanks to a ChatGPT plugin. This plugin made the product easier to discover and use, driving up to ten times more agent creation. The growth highlights the importance of context in work, which is often scattered across different systems. Codex, a tool used by the engineers, helped speed up the development process, enabling the team to create the product in just a few weeks."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/pollo-ai": {
+  "s": "Pollo AI utilizes advanced AI models to transform imaginative concepts into visual content. This technology matters as it empowers creatives to produce high-quality ads without extensive technical skills."
  }
 }
