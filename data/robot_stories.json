@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20T10:41:00-07:00",
- "updated_pt": "Oct 20, 2026, 10:41 AM PT",
+ "updated": "2026-10-21T04:48:00-07:00",
+ "updated_pt": "Oct 21, 2026, 4:48 AM PT",
  "stories": [
   {
    "title": "Figure's F.03 humanoid passes nine straight days on a treadmill: 348 miles and 1.2 million steps",
@@ -25,7 +25,8 @@
    "paragraphs": [
     "Agility Robotics and AGCO, the agricultural machinery maker behind brands such as Fendt, Massey Ferguson and Valtra, have signed a commercial agreement for a U.S. pilot of Agility's Digit humanoid robot, the two companies announced on Oct. 20. According to the release, the pilot is expected to begin in 2027 at AGCO's production facility in Hesston, Kansas.",
     "The companies say Digit will initially support assembly and production work there, including sorting and stacking parts and placing totes for storage, taking on repetitive and physically demanding tasks. AGCO's director of manufacturing technology, Thomas Enghof, said in the release that the company views humanoid robots and AI as 'teammates' that can absorb repetitive, strenuous or hazardous tasks. Agility said on X that the deal extends its customers from automotive and logistics into agricultural machinery.",
-    "Agility says AGCO joins other companies deploying its humanoids, including Toyota, GXO and Schaeffler, and that Digit has logged more than 65,000 hours of real-world operation. The release adds that Agility is preparing to go public through its merger with Churchill Capital Corp XI, whose registration statement the SEC declared effective on Oct. 13. The deal is expected to close in the fourth quarter of 2026, after which the company is expected to trade on Nasdaq under the ticker AGLT."
+    "Agility says AGCO joins other companies deploying its humanoids, including Toyota, GXO and Schaeffler, and that Digit has logged more than 65,000 hours of real-world operation. The release adds that Agility is preparing to go public through its merger with Churchill Capital Corp XI, whose registration statement the SEC declared effective on Oct. 13. The deal is expected to close in the fourth quarter of 2026, after which the company is expected to trade on Nasdaq under the ticker AGLT.",
+    "On Oct. 21, Agility also said on X that it is expanding in Pittsburgh, where a new 50,000-square-foot facility will serve as its center of excellence for software and AI and as the home of its East Coast service center for Digit."
    ],
    "sources": [
     {
@@ -37,6 +38,11 @@
      "name": "Agility Robotics on X",
      "url": "https://x.com/agilityrobotics/status/2112518192245481689",
      "date": "2026-10-20"
+    },
+    {
+     "name": "Agility Robotics on X",
+     "url": "https://x.com/agilityrobotics/status/2112861957438992771",
+     "date": "2026-10-21"
     }
    ]
   },
@@ -69,14 +75,20 @@
    ]
   },
   {
-   "title": "China's humanoid makers: AGIBOT teases new robots for Oct. 29, Unitree adds swarm control",
+   "title": "China's humanoid makers: Unitree shows its H2-X 'Guardian', AGIBOT teases new robots for Oct. 29",
    "tag": "Humanoids",
-   "date": "2026-10-16",
+   "date": "2026-10-21",
    "paragraphs": [
+    "On Oct. 21, Unitree introduced a version of its H2 humanoid it calls the H2-X 'Kung Fu Legend Guardian'. In its announcement on X, the company says the robot is built to 'serve and guard' and has a maximum endurance of about 8 hours, and it asks owners to use the robot safely and in a friendly manner. Unitree did not list a price or other specifications in the post.",
     "Shanghai-based AGIBOT says it will unveil new robots and new AI models at its Innovation Day on Oct. 29 at the Shanghai World Expo Center. The company has not shared details yet; earlier this month it showed its A3 Ultra, X2, OmniHand and D1 EDU platforms to researchers at the IROS 2026 conference.",
     "Unitree, meanwhile, introduced UniUni, a system for controlling groups of its robots at once. Unitree says it can quickly choreograph swarm movements and formations, monitor each machine's status in real time and apply safety braking. In September the company also released a 22-joint robotic hand, the Dex5-S, starting at $6,500, and open-sourced its UnifoLM-WLA-1.0 robot foundation model."
    ],
    "sources": [
+    {
+     "name": "@UnitreeRobotics on X",
+     "url": "https://x.com/UnitreeRobotics/status/2112819774573179175",
+     "date": "2026-10-21"
+    },
     {
      "name": "@AGIBOTofficial on X",
      "url": "https://x.com/AGIBOTofficial/status/2110995951439769843",
