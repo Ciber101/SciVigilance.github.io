@@ -60,8 +60,17 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
+     "id": "2111152183240511640",
+     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
+     "date": "2026-10-16T17:47:58.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
+    },
+    {
      "id": "2110846112152105136",
-     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
+     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding,",
      "date": "2026-10-15T21:31:45.000Z",
      "quoted": true,
      "image": null,
@@ -70,21 +79,12 @@
     },
     {
      "id": "2110047081414987957",
-     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months:",
+     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.",
      "date": "2026-10-13T16:36:41.000Z",
      "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/AnthropicAI/status/2110047081414987957"
-    },
-    {
-     "id": "2109795898909950247",
-     "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how:",
-     "date": "2026-10-12T23:58:35.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/AnthropicAI/status/2109795898909950247"
     }
    ]
   },
@@ -228,7 +228,7 @@
    "posts": [
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -243,15 +243,23 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
-    },
+    }
+   ]
+  },
+  {
+   "handle": "DarioAmodei",
+   "name": "Dario Amodei",
+   "group": "ai",
+   "avatar": "img/x-darioamodei.jpg",
+   "posts": [
     {
-     "id": "2105348732464070823",
-     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
-     "date": "2026-09-30T17:27:07.000Z",
+     "id": "2102831170299834652",
+     "text": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud",
+     "date": "2026-09-23T18:43:14.000Z",
      "quoted": true,
      "image": null,
      "video": null,
-     "url": "https://x.com/demishassabis/status/2105348732464070823"
+     "url": "https://x.com/DarioAmodei/status/2102831170299834652"
     }
    ]
   },
@@ -298,7 +306,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +315,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -333,12 +341,21 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
+    },
+    {
+     "id": "2108549075218120949",
+     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
+     "date": "2026-10-09T13:24:09.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -357,15 +374,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2105256053403508849"
-    },
-    {
-     "id": "2102569821997346912",
-     "text": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Image Edit and Text-to-Image Arenas. Try it now and show us what you create! 🎨",
-     "date": "2026-09-23T01:24:44.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912"
     }
    ]
   },
@@ -421,7 +429,7 @@
    "posts": [
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -430,7 +438,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -439,7 +447,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -448,7 +456,7 @@
     },
     {
      "id": "2110779754274292212",
-     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio",
+     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token",
      "date": "2026-10-15T17:08:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUr8TsmbIAAT-m3.jpg",
@@ -464,40 +472,40 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
-     "id": "2112570851597943267",
-     "text": "Four cities. One clear message: Europe is building what’s next in AI.\n\nTomorrow, Jensen takes the stage at #NVIDIAGTC Berlin to continue the conversation. \n\nSee you there.",
-     "date": "2026-10-20T15:45:15.000Z",
+     "id": "2112850890642383262",
+     "text": "This is the magic behind the agents.",
+     "date": "2026-10-21T10:18:01.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112570798493872128/img/Ybfq4cSerGeojHVy.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112570798493872128/vid/avc1/576x1024/zn3Kmw_PT8HBboha.mp4?tag=16",
-     "url": "https://x.com/nvidia/status/2112570851597943267"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112850745636663297/img/47v3ljPksG-IZfaI.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112850745636663297/vid/avc1/3840x2160/90YEyT7mIstxt1XK.mp4",
+     "url": "https://x.com/nvidia/status/2112850890642383262"
     },
     {
-     "id": "2112269224949485860",
-     "text": "Germany knows how to build, and now it’s bringing that expertise to industrial AI. 🇩🇪\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe’re also backing Germany’s",
-     "date": "2026-10-19T19:46:41.000Z",
+     "id": "2112847277282721888",
+     "text": "Jensen introduces the OpenShell Reference Architecture to help businesses set boundaries for AI agents and stop them when they step outside those boundaries.\n\nSecuring agents around the world. 🔒",
+     "date": "2026-10-21T10:03:40.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVBJqDmXoAA_GCO.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112269224949485860"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112847115508412416/img/FarKxRi0vL150Mo-.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112847115508412416/vid/avc1/3840x2160/zl7kZz9UCY7e8-9-.mp4",
+     "url": "https://x.com/nvidia/status/2112847277282721888"
     },
     {
-     "id": "2112224045802414256",
-     "text": "AI factories need to respond when the power grid needs relief.\n\nAt #OCPSummit26, NVIDIA’s Ian Buck explains how adjusting power use and shifting computing workloads can help, and why collaboration across the industry matters.",
-     "date": "2026-10-19T16:47:10.000Z",
+     "id": "2112841174213902450",
+     "text": "With NVIDIA extreme co-design, we’ve accelerated AI performance a millionfold over 10 years, and we’re not stopping there.",
+     "date": "2026-10-21T09:39:25.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112224026076553216/img/YiA2FDOAkwJ6C62Z.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112224026076553216/vid/avc1/576x1024/iOcMd1C5DxShfw1R.mp4?tag=16",
-     "url": "https://x.com/nvidia/status/2112224045802414256"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112839964161413120/img/LGWHKzcBARRzY1AR.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112839964161413120/vid/avc1/3840x2160/IxNhHat0aBKglEVp.mp4",
+     "url": "https://x.com/nvidia/status/2112841174213902450"
     },
     {
-     "id": "2112154040524026151",
-     "text": "Entire industries will be built on open models.\nDevelopers need the freedom to build them.\n\n@JensenHuang on why keeping these models open and accessible matters.",
-     "date": "2026-10-19T12:08:59.000Z",
+     "id": "2112837840791035958",
+     "text": "What do L’Oréal, Revolut, Spotify, Merck, Vodafone, Zara, Porsche, Nestlé and HSBC have in common?\n\nThey’re all European companies working with NVIDIA on AI.",
+     "date": "2026-10-21T09:26:10.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112154019825131520/img/ZGGc-UDZreCckT9S.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112154019825131520/vid/avc1/576x1024/sPIAiGql4DXLpzSN.mp4?tag=16",
-     "url": "https://x.com/nvidia/status/2112154040524026151"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112837362765934592/img/EB5Il158pL2hlJqg.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112837362765934592/vid/avc1/3840x2160/HrYI_r028Mp7CdGD.mp4",
+     "url": "https://x.com/nvidia/status/2112837840791035958"
     }
    ]
   },
@@ -700,6 +708,15 @@
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
     {
+     "id": "2112861957438992771",
+     "text": "We're expanding in Pittsburgh. Our new 50,000-square-foot facility will be Agility's center of excellence for software and AI, and home to our East Coast service center for Digit.",
+     "date": "2026-10-21T11:02:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVG99RubMAATAC1.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2112861957438992771"
+    },
+    {
      "id": "2112286284236640320",
      "text": "Our co-founder's earlier robots could run. Digit 5 can't. Jonathan Hurst on why, in @IEEESpectrum:\n\n#Agility #MadeForWork #Digit5",
      "date": "2026-10-19T20:54:29.000Z",
@@ -725,15 +742,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2110800374793699601"
-    },
-    {
-     "id": "2110426659883270568",
-     "text": "Artificial intelligence brought into the physical world. This is what building the future looks like.\n\nExplore Digit:\n\n#Agility #MadeForWork #Digit",
-     "date": "2026-10-14T17:45:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110049274398642176/img/uS__EOVUV8CytMjx.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110049274398642176/vid/avc1/3840x2160/iRxtpJ707DHu84B6.mp4",
-     "url": "https://x.com/agilityrobotics/status/2110426659883270568"
     }
    ]
   },
@@ -843,28 +851,20 @@
    ]
   },
   {
-   "handle": "XPENG_Global",
-   "name": "XPENG",
-   "group": "robots",
-   "avatar": "img/x-robots-xpeng_global.jpg",
-   "posts": [
-    {
-     "id": "2110091538604978573",
-     "text": "XPENG Friends from around the world gathered for XPENG Paris Night! ✨\nAgainst the dazzling backdrop of Place Vendôme, the XPENG G9L, IRON humanoid robot and flying car took center stage.\nWith the G9L making its Paris debut and NGP now open for public experience, we invite the world to discover the possibilities of Physical AI.\nThe future of mobility starts here.\n$XPEV",
-     "date": "2026-10-13T19:33:21.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110090791603376128/img/6iEQpqxo4vwvjGET.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110090791603376128/vid/avc1/1920x1080/9S-6FQ64av8e4DLI.mp4",
-     "url": "https://x.com/XPENG_Global/status/2110091538604978573"
-    }
-   ]
-  },
-  {
    "handle": "NVIDIARobotics",
    "name": "NVIDIA Robotics",
    "group": "robots",
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
+    {
+     "id": "2112854462708519013",
+     "text": "NVIDIA announces new Isaac tools for agents as Agile Robots unveils Agile ONE SN, a reference humanoid for robotics research. 🦾\n\nBuilt on NVIDIA Isaac GR00T and powered by Jetson Thor, Agile ONE SN gives researchers and developers an integrated platform to develop, train and validate humanoid skills.\n\nThe Isaac expansion also introduces new datasets, a runtime, and robot learning framework updates to accelerate development from data to deployment.\n\nRead the #NVIDIAGTC announcement:",
+     "date": "2026-10-21T10:32:13.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112854439610499072/img/2xyMnvYK-EwIfP9r.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112854439610499072/vid/avc1/1280x720/S7fXaAcIzmuujwfQ.mp4?tag=16",
+     "url": "https://x.com/NVIDIARobotics/status/2112854462708519013"
+    },
     {
      "id": "2111166068949479480",
      "text": "Physical AI has moves. 🏀\n\nNVIDIA Cosmos climbs the Physics-IQ leaderboards:\n🥇 Image-to-video: #19 → #1\n🥈 Video-to-video: #14 → #2\n\nFor robotics, understanding how the world moves matters. Cue the shimmy.",
@@ -885,21 +885,12 @@
     },
     {
      "id": "2108664665941131707",
-     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train",
+     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train perception models with 99% synthetic data\n✅ Reduce data collection and labelling to turn out effective models in hours instead of seasons\n\nRead the story:",
      "date": "2026-10-09T21:03:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108664641610022913/img/zc9nxjRU9wPtVi74.jpg",
      "video": "https://video.twimg.com/amplify_video/2108664641610022913/vid/avc1/1280x720/o6-S04JAcNwgtK3M.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2108664665941131707"
-    },
-    {
-     "id": "2108271171275809191",
-     "text": "Use Codex to deploy a Gemma4-powered vision demo as a standalone kiosk on NVIDIA Jetson. \n\nAutomatic startup, live webcam descriptions, and local inference. No Mac required.\n\nWatch the tutorial 👉",
-     "date": "2026-10-08T18:59:51.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2108271149922594816/img/tveiWUUp3-zyv46e.jpg",
-     "video": "https://video.twimg.com/amplify_video/2108271149922594816/vid/avc1/1280x720/btwQgSxHOPx85R0E.mp4?tag=16",
-     "url": "https://x.com/NVIDIARobotics/status/2108271171275809191"
     }
    ]
   },
@@ -1254,7 +1245,7 @@
     },
     {
      "id": "2112642987394224408",
-     "text": "The first multi-spacecraft science mission to Mars is about to make its big move.\n\nNext month, Blue and Gold – the twin spacecraft we built for @NASA and @ucbssl – will swing close past Earth and each fire their main engine in a single, continuous burn, using Earth's gravity to",
+     "text": "The first multi-spacecraft science mission to Mars is about to make its big move.\n\nNext month, Blue and Gold – the twin spacecraft we built for @NASA and @ucbssl – will swing close past Earth and each fire their main engine in a single, continuous burn, using Earth's gravity to amplify the burn as they set course for Mars. It's a maneuver that's never been successfully done before.\n\nOur mission ops team is in full rehearsal mode for @escapade_mars' trans-Mars injection.\n\nLearn more about ESCAPADE:",
      "date": "2026-10-20T20:31:53.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVGdf1dacAAMapq.jpg",
@@ -1263,7 +1254,7 @@
     },
     {
      "id": "2112345583319208037",
-     "text": "Production of the new carbon composite forward dome for Neutron’s Stage 1 propellant tank is underway.\n\nOur automated fiber placement (AFP) machine follows a computer-controlled course to lay down thousands of strands of carbon fiber - each thinner than a human hair - at speeds",
+     "text": "Production of the new carbon composite forward dome for Neutron’s Stage 1 propellant tank is underway.\n\nOur automated fiber placement (AFP) machine follows a computer-controlled course to lay down thousands of strands of carbon fiber - each thinner than a human hair - at speeds of up to 100 meters per minute to create Stage 1’s structures on custom molds.\n\nOnce the AFP machine is finished with the new forward dome it will be rolled out, inspected, then prepared for the curing process to harden the carbon composite.",
      "date": "2026-10-20T00:50:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112345432504598528/img/jEIwygNx7J_iPXew.jpg",
@@ -1368,7 +1359,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1377,7 +1368,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1386,7 +1377,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1395,7 +1386,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1456,7 +1447,7 @@
    "posts": [
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1465,7 +1456,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
@@ -1483,7 +1474,7 @@
     },
     {
      "id": "2108289174977585579",
-     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we",
      "date": "2026-10-08T20:11:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",

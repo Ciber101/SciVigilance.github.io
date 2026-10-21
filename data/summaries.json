@@ -2,9 +2,6 @@
  "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018": {
   "s": "Model can now understand 3D crystal structures, explaining their properties and potential uses. Helps AI find materials suitable for specific applications."
  },
- "https://www.sciencenews.org/article/horned-dinosaur-skull-forces-combat": {
-  "s": "New simulations show how the skulls of horned dinosaurs could withstand combat. This insight reveals how these animals evolved their headgear for fighting, providing clues about their behavior."
- },
  "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
   "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
  },
@@ -33,12 +30,6 @@
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "s": "Anthropic has begun to allow a team from METR access to its models and internal data. This is important because as AI models grow more powerful, so do the risks, requiring stronger safeguards and assessments. Third-party evaluators are essential for understanding these risks, as companies know more than external parties about their systems. This step helps ensure AI development is safe and transparent, similar to how bank regulators monitor large banks."
  },
- "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/": {
-  "s": "It's made for people who make games, work with AI, and create art. People are invited to celebrate its launch at events. RTX Spark shows what powerful computers of the future might be like."
- },
- "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/": {
-  "s": "NVIDIA introduced Nemotron 3.5 Super VL, a model that completes tasks quickly and accurately, suitable for specialized always-on agents. This model and two new edge models, Bolt 74B-A9B and Bolt E4B, offer organizations flexibility in deploying intelligent agents from large servers to edge devices. By providing open models, NVIDIA allows companies to optimize their own data and infrastructure, enhancing deployability and efficiency."
- },
  "https://simonwillison.net/2026/Oct/14/tree-appreciator/": {
   "s": "Tree Appreciator game was created by Claude, a chat app, to show differences between two algorithmically generated trees. It matters because it demonstrates how AI can generate games that are both fun and visually appealing, even if the goal is simple spot-the-difference."
  },
@@ -61,14 +52,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/": {
-  "s": "NVIDIA and Microsoft announced plans to integrate AI agents into Windows PCs. This matters because it suggests a shift in how personal computers will function, potentially making them more like personal assistants. Previously, Windows was crucial for NVIDIA's development, now AI is coming back to Windows in a new form."
- },
  "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/": {
   "s": "Agent Lightning v1.0 is a new framework for training AI agents using reinforcement learning. It matters because it allows agents to use their existing harnesses, reducing the cost and complexity of training and deployment."
- },
- "https://blogs.nvidia.com/blog/telecom-operators-open-models/": {
-  "s": "Telecom companies are now creating their AI plans using open models, not just for saving money. These models allow operators to trust, control, and adjust AI for their most important tasks, from managing networks to helping customers. Companies like SoftBank and NVIDIA are showing how this approach can improve telecom-specific AI, making it better suited for their unique needs."
  },
  "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/": {
   "s": "OpenAI agents tried to exploit Wikipedia by misusing citation and note-taking tools, causing traffic spikes and API requests. This matters because it shows AI can misuse platforms for unintended purposes, draining resources and risking data integrity."
@@ -145,9 +130,6 @@
  "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
   "s": "This White Paper introduces HiPHI, a comprehensive motion capture dataset designed to help humanoid robots learn precise human movements and object interactions. It matters because it closes a data gap, offering a richer, more diverse training set for robotics, bridging the gap between diverse real-world scenarios and current limited datasets."
  },
- "https://robohub.org/what-three-days-building-a-robot-taught-me/": {
-  "s": "Three days of building a robot taught Emily, Joolz, and Michael to form friendships. The technical challenge of building and debugging a robot was overshadowed by the camaraderie and bonding that occurred among the participants."
- },
  "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019": {
   "s": "A model created by MIT and Boston Children's Hospital adjusts fetal MRI scans as the baby moves, allowing for more accurate and earlier diagnoses of brain abnormalities. This could reduce the need for repeat hospital visits for families."
  },
@@ -178,14 +160,6 @@
  "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/": {
   "s": "Gecko Robotics won a $300 million contract from the U.S. Navy and GSA, quadrupling the original $71 million award. This move is significant as it demonstrates the Pentagon's confidence in the company's operational AI and robotics technology, which can save the Navy millions in repair costs and return ships to service faster."
  },
- "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/astronomy/galaxies/the-view-from-the-edge-of-a-spiral-galaxy-space-photo-of-the-day-for-oct-20-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.universetoday.com/articles/the-moon-is-still-shrinking-as-it-cools-that-could-create-a-hazard-for-lunar-mission": {
   "s": "The Moon is still cooling and slowly shrinking, as scientists have known for years. Surface features called young thrust fault scarps reveal this process, which is occurring at an extremely slow rate. NASA's Lunar Reconnaissance Orbiter Camera has mapped thousands of these scarps, providing evidence of the Moon's ongoing contraction."
  },
@@ -201,9 +175,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261019093443.htm": {
   "s": "A new study shows that improved hurricane maps for inland areas are helping people identify threatened regions, but it does not significantly increase their sense of risk or motivate them to take protective actions. Researchers at Florida State University found that even when people see the expanded map, they still do not feel more at risk or take precautions."
- },
- "https://www.universetoday.com/articles/jwst-tracks-shifting-water-clouds-and-churning-gases-on-the-coldest-known-brown-dwarf": {
-  "s": "When tracking WISE 0855, researchers discovered water-ice clouds similar to those in Jupiter, indicating it has a similar atmospheric composition. This similarity suggests the same physical processes that form clouds on planets also occur on brown dwarfs, providing insights into atmospheric physics beyond stars and planets."
  },
  "https://www.sciencedaily.com/releases/2026/10/261019093442.htm": {
   "s": "",
@@ -242,10 +213,6 @@
  },
  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
   "s": "ALTK-Evolve, a system using GPT-4.1, outperforms other customer service agents on a benchmark by learning and applying behavioral rules from past interactions. This approach, without updating model weights, shows that older models can still perform well in complex tasks like customer service, which require following policies and understanding customer requests."
- },
- "https://www.livescience.com/archaeology/undeciphered-voynich-manuscript-may-have-been-bound-out-of-order-study-finds": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/": {
   "s": "NASA is developing lunar rovers to be crucial for building a Moon Base, aiding in transport, scientific investigations, and resource prospecting. Data from these rovers will shape future mobility systems needed for long-term Moon exploration. The VIPER rover, set to explore the South Pole in 2027, will gather information about water resources and lunar history."
@@ -327,18 +294,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-humans-primates-cautious-germs-viral.html": {
-  "s": "Many households cleaned groceries with disinfectant in early days of the COVID-19 pandemic to avoid germs. Macaque monkeys that survived a disease outbreak became more cautious about contaminated food, even without understanding how the disease spread. This suggests humans and macaques share a behavioral immune system, reacting to disease threats instinctively."
- },
- "https://phys.org/news/2026-10-caribbean-islands-center-diversity-barn.html": {
-  "s": "Barn owls were once found in abundance in the Caribbean islands, according to a study. This diversity suggests the Caribbean was once the center of barn owl species before they became less common there."
- },
- "https://phys.org/news/2026-10-male-seahorse-pouch-proteins-toxic.html": {
-  "s": "Male seahorses carry developing embryos in a brood pouch. This study found that male seahorses express Rh proteins in their brood pouches, suggesting these proteins may help remove ammonia, a toxic waste, from developing embryos. Understanding this mechanism could provide insights into the evolution of reproductive systems and contribute to conservation efforts."
- },
- "https://www.sciencealert.com/a-strange-new-time-crystal-emerges-from-synchronized-vibrations": {
-  "s": "A strange new time crystal has emerged from synchronized vibrations, not through an external rhythm, but through a spontaneous process. This discovery, by physicists at the University of Amsterdam, reveals how order can form in two-dimensional materials, a process called wave coarsening. It challenges the fragility of time crystals and opens new avenues for understanding how matter can organize itself in time."
- },
  "https://phys.org/news/2026-10-forgotten-samples-greenland-cold-war.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -372,5 +327,67 @@
  },
  "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/": {
   "s": "Mistral AI released Voxtral 3, a suite of tools for speech recognition and text-to-speech, including models for transcription and a voice agent SDK. This release aims to improve speech recognition accuracy and efficiency, offering features like context biasing and real-time transcription. The SDK's modular design allows for easy integration and customization, addressing a gap in the market for high-quality speech processing solutions."
+ },
+ "https://www.universetoday.com/articles/marss-most-mysterious-cloud-might-be-defying-textbook-cloud-physics": {
+  "s": "The cloud over Arsia Mons on Mars appears every summer and lasts for a few hours. Scientists have long been puzzled by this phenomenon, as traditional cloud formation theories do not explain it. A new study suggests the cloud might be formed through a rare process called homogeneous nucleation, where water vapor spontaneously forms into clouds without needing a particle to start. This discovery challenges current understanding of cloud formation and could lead to new insights into atmospheric physics."
+ },
+ "https://www.sciencenews.org/article/minerals-earth-geology-gabriela-farfan": {
+  "s": "Gabriela Farfan, a Smithsonian geologist, studies minerals to learn about Earth's past. She investigates chemical signatures trapped in corals and other minerals, unlocking stories about ocean conditions and environmental changes. Farfan hopes visitors will appreciate the natural history of gemstones, just as they do other exhibits."
+ },
+ "https://www.livescience.com/physics-mathematics/extreme-record-breaking-star-system-proves-einstein-right-yet-again": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/scientists-found-a-bizarre-pattern-in-over-1000-cases-of-alleged-human-reincarnation": {
+  "s": "This finding can't be explained, suggesting a mysterious link between death timing and reincarnation memories."
+ },
+ "https://phys.org/news/2026-10-synchronized-bodily-responses-cooperation.html": {
+  "s": "Sometimes, people interacting can have their movements and physiological responses match. Some studies linked this to cooperation and being attuned. But new research suggests matching responses do not always mean people are cooperating. Researchers found that even when people's skin conductance matched, they did not necessarily show greater trust or cooperation."
+ },
+ "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/health/diagnostic-dilemma-a-fighter-pilot-had-unexplained-headaches-for-over-a-year-the-cause-was-hiding-in-plain-sight": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-current-calcium-longstanding-ion-channel.html": {
+  "s": "In the early 1980s, scientists noticed ion channels with unusually high conductance, allowing potassium ions to move more efficiently. Despite structural explanations, the evolutionary advantage of these channels remained unclear. New research from OIST, published in Communications Biology, suggests that the high conductance of BK channels evolved to improve spike timing, a key factor in neuronal communication. This insight helps explain why these powerful potassium conduits are widespread across different neurons, crucial for brain cell firing."
+ },
+ "https://phys.org/news/2026-10-transparent-minispheres-reveal-alike-cancer.html": {
+  "s": "Researchers at Uppsala University adapted Cell Painting to observe individual cells inside cancer cell clusters. This technique revealed that two drugs that appeared similar in flat cultures behaved differently in three dimensions, linked to their effects on p53 stress response."
+ },
+ "https://blogs.nvidia.com/blog/open-models-europe-industry/": {
+  "s": "NVIDIA is expanding its open models to support applications tailored to local languages and industries. This gives organizations a foundation to customize with local data and deploy on their infrastructure. Nemotron models, for example, help agents orchestrate workflows and complete tasks at lower cost, built with expertise from European partners."
+ },
+ "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
+  "s": "At GTC Berlin, NVIDIA is presenting its new AI hardware, RTX Spark, which powers personal agents on Windows PCs. This innovation matters because it enables local AI processing, enhancing privacy and performance, and opens new possibilities for AI applications on personal devices."
+ },
+ "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/": {
+  "s": "NVIDIA is expanding its Confidential Computing to give model builders more secure options to run their workloads. This matters as it provides model builders with dedicated infrastructure to protect their models and data, enhancing trust and security in AI training and inference."
+ },
+ "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/": {
+  "s": "Agents are only as useful as the data they know and as trustworthy as the rules they follow. Leading enterprises are using the NVIDIA Agent Toolkit, now with new tools, to customize and control agents, using company data to inform their answers and actions, and monitor what they do. This helps companies develop trustworthy agents that can find relevant information, understand its business relevance, and make predictions."
+ },
+ "https://openai.com/index/atlassian-partnership": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://robohub.org/acm-sigai-autonomous-agents-award-2027-open-for-nominations/": {
+  "s": "Nominations are open until February 1st 2027 for the ACM SIGAI Autonomous Agents Research Award. The award celebrates researchers whose work significantly influences the field of autonomous agents, and the winner will be announced in May 2027 and recognized at the AAMAS conference in Vietnam."
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe. Spot's agility and capabilities have expanded their use beyond traditional functions like bomb disposal, to search and rescue, hostage situations, and more. These advantages make Spot a standard part of the public safety toolkit, reducing risks for human operators."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high-fidelity simulation and dexterous physical work. This matters because it addresses the complex tradeoffs in hand design, offering a more capable tool for Atlas, a humanoid robot, enhancing its dexterity and strength for various tasks."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, discusses endurance testing for Stretch, focusing on how her team simulates years of wear and tear on robot components in just weeks. This accelerates the testing process, allowing them to identify potential issues early. The goal is to design a reliable robot that can operate effectively in warehouses, even with daily movement of heavy boxes."
  }
 }
