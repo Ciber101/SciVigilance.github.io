@@ -7,6 +7,15 @@
    "avatar": "img/x-openai.jpg",
    "posts": [
     {
+     "id": "2112988118471295323",
+     "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.",
+     "date": "2026-10-21T19:23:19.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/OpenAI/status/2112988118471295323"
+    },
+    {
      "id": "2112945805686604033",
      "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it:",
      "date": "2026-10-21T16:35:11.000Z",
@@ -17,7 +26,7 @@
     },
     {
      "id": "2112907856018309586",
-     "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.",
+     "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers,",
      "date": "2026-10-21T14:04:23.000Z",
      "quoted": false,
      "image": null,
@@ -26,21 +35,12 @@
     },
     {
      "id": "2112899854569762936",
-     "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.",
+     "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in",
      "date": "2026-10-21T13:32:35.000Z",
      "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/OpenAI/status/2112899854569762936"
-    },
-    {
-     "id": "2112607347688583586",
-     "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!",
-     "date": "2026-10-20T18:10:16.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/OpenAI/status/2112607347688583586"
     }
    ]
   },
@@ -95,6 +95,15 @@
    "avatar": "img/x-spacexsi.jpg",
    "posts": [
     {
+     "id": "2112959750786953386",
+     "text": "Use Grok 4.7 in Viktor",
+     "date": "2026-10-21T17:30:36.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/SpaceXSI/status/2112959750786953386"
+    },
+    {
      "id": "2110416580899168305",
      "text": "Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model.\n\nIt excels at resolving customer calls, responds in under a second, and costs less than other frontier models.",
      "date": "2026-10-14T17:04:57.000Z",
@@ -120,15 +129,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/SpaceXSI/status/2108259620758384812"
-    },
-    {
-     "id": "2107623124909060174",
-     "text": "Grok 4.7 is now live on Microsoft Foundry",
-     "date": "2026-10-07T00:04:45.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2107622270839717888/img/DZTpqseG5VXRPmDd.jpg",
-     "video": "https://video.twimg.com/amplify_video/2107622270839717888/vid/avc1/2400x1260/ER2kWpwUDjMbY800.mp4",
-     "url": "https://x.com/SpaceXSI/status/2107623124909060174"
     }
    ]
   },
@@ -138,6 +138,15 @@
    "group": "ai",
    "avatar": "img/x-googledeepmind.jpg",
    "posts": [
+    {
+     "id": "2112974723659247896",
+     "text": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart.",
+     "date": "2026-10-21T18:30:05.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2112974557619302400/img/C5NXfnVigLrq4siZ.jpg",
+     "video": "https://video.twimg.com/amplify_video/2112974557619302400/vid/avc1/1920x1080/drtYOJAYBY2n30ix.mp4",
+     "url": "https://x.com/GoogleDeepMind/status/2112974723659247896"
+    },
     {
      "id": "2112557925264752930",
      "text": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity, it animates orbiting electrons, atomic data, and light spectra.",
@@ -164,15 +173,6 @@
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg",
      "video": "https://video.twimg.com/tweet_video/HUm4960WkAECy-M.mp4",
      "url": "https://x.com/GoogleDeepMind/status/2110421861435879476"
-    },
-    {
-     "id": "2110190101707858039",
-     "text": "Over half of reported crimes in Singapore use sophisticated social engineering.\n\nWith @GovTechSG, we’re building on-device fraud detection using our open model Gemma.\n\nBy fine-tuning it on local scam tactics, it identifies threats in real time without compromising personal",
-     "date": "2026-10-14T02:05:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/tweet_video_thumb/HUhw8WhWMAArsET.jpg",
-     "video": "https://video.twimg.com/tweet_video/HUhw8WhWMAArsET.mp4",
-     "url": "https://x.com/GoogleDeepMind/status/2110190101707858039"
     }
    ]
   },
@@ -228,7 +228,7 @@
    "posts": [
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -243,6 +243,32 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
+    },
+    {
+     "id": "2105348732464070823",
+     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
+     "date": "2026-09-30T17:27:07.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2105348732464070823"
+    }
+   ]
+  },
+  {
+   "handle": "DarioAmodei",
+   "name": "Dario Amodei",
+   "group": "ai",
+   "avatar": "img/x-darioamodei.jpg",
+   "posts": [
+    {
+     "id": "2102831170299834652",
+     "text": "Today we announced the Claude-led discovery of a molecular machine that we suspect could represent a new gene editing mechanism. Its precise function, biotechnological utility (if any), or level of significance is not yet clear, but at minimum it is work I would have been proud",
+     "date": "2026-09-23T18:43:14.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/DarioAmodei/status/2102831170299834652"
     }
    ]
   },
@@ -254,7 +280,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -272,7 +298,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -412,7 +438,7 @@
    "posts": [
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -421,7 +447,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -430,7 +456,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -439,7 +465,7 @@
     },
     {
      "id": "2110779754274292212",
-     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token",
+     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio",
      "date": "2026-10-15T17:08:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUr8TsmbIAAT-m3.jpg",
@@ -692,7 +718,7 @@
    "posts": [
     {
      "id": "2112944333653729372",
-     "text": "In @IEEESpectrum this week, Jonathan Hurst wrote about Digit 5: the robot he didn't expect to build.\n\nTomorrow, October 22, at 4pm ET, he's answering your questions about it here in an #AskMeAnything, exclusively on X. Ask about the engineering and the tradeoffs.\n\nTune into",
+     "text": "In @IEEESpectrum this week, Jonathan Hurst wrote about Digit 5: the robot he didn't expect to build.\n\nTomorrow, October 22, at 4pm ET, he's answering your questions about it here in an #AskMeAnything, exclusively on X. Ask about the engineering and the tradeoffs.\n\nTune into @agilityrobotics for his #AMA takeover.",
      "date": "2026-10-21T16:29:20.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVKvg33a4AIyoMG.jpg",
@@ -1026,7 +1052,7 @@
     },
     {
      "id": "2112515951249768470",
-     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space |",
+     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space | @AirbusSpace",
      "date": "2026-10-20T12:07:06.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVEpX1-WEAAb4oA.jpg",
@@ -1077,6 +1103,15 @@
    "avatar": "img/x-cnes.jpg",
    "posts": [
     {
+     "id": "2112987714941308989",
+     "text": "🚀 Bonne nouvelle pour #MMX !\nLa sonde a achevé avec succès ses 1ères opérations critiques :\n☀️ Panneaux solaires déployés \n🛰️ Orientation stabilisée \n📡 Antenne libérée \n✅ Bon état général confirmé ! \n\n@JAXA_jp @JAXA_en  @DLR_SpaceAgency @mmx_jaxa_jp @LiraAstro @DLR_en @DLR_de",
+     "date": "2026-10-21T19:21:43.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVLWsSfXMAE3n8i.jpg",
+     "video": null,
+     "url": "https://x.com/CNES/status/2112987714941308989"
+    },
+    {
      "id": "2112247349540278650",
      "text": "🚀🔴 Dans les coulisses du lancement de #MMX à la @CiteEspace \n\n#Cnes #MMX @DLR_SpaceAgency @DLR_en @DLR_de @mmx_jaxa_jp @JAXA_en @JAXA_jp @jaxa @LiraAstro",
      "date": "2026-10-19T18:19:46.000Z",
@@ -1102,15 +1137,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/CNES/status/2112162096603636165"
-    },
-    {
-     "id": "2112097661235138726",
-     "text": "La coiffe de la fusée H3 avec #MMX et #Idefix® ! Plus que quelques heures avant le lancement !\n\n@JAXA_en @JAXA_jp  @DLR_SpaceAgency @DLR_en @DLR_de @LiraAstro #cnes",
-     "date": "2026-10-19T08:24:57.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/CNES/status/2112097661235138726"
     }
    ]
   },
@@ -1342,7 +1368,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1351,7 +1377,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1360,7 +1386,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1369,7 +1395,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
