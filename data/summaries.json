@@ -91,9 +91,6 @@
  "https://theconversation.com/why-calling-for-a-kill-switch-is-the-wrong-way-to-think-about-reining-in-ai-293329": {
   "s": "Calling for a kill switch to control AI systems is appealing but hides the complexity of how these models work and how they can go out of control. Experts note that AI involves a distributed infrastructure beyond a single kill switch's control, and the metaphor does not account for human oversight and decision-making."
  },
- "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/": {
-  "s": "MiniMax has launched M3.1 Flash, a 428B-parameter model with 23B active parameters and a 1M-token context. Pricing is $0.15 per 1M tokens, with weights due October 23. The model supports text, image, and video input and returns text. Reasoning is always on and cannot be disabled."
- },
  "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
   "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
  },
@@ -162,9 +159,6 @@
  },
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
- },
- "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/": {
-  "s": "Drex Max, an AI model from Nace AI, processes text and screenshots to provide probabilities for answers. Its high score of 67.59 indicates accuracy, making it the most precise in its family. This matters as it can handle images and provide calibrated answers to typed questions, useful for decision-making processes."
  },
  "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/": {
   "s": "Inception released Mercury 3, a diffusion language model it claims runs at 1,068 tokens per second, significantly faster than previous models. This matters because it demonstrates a new approach to model training that can speed up output on the same hardware, potentially making AI more accessible and efficient."
@@ -342,9 +336,6 @@
  "https://phys.org/news/2026-10-male-seahorse-pouch-proteins-toxic.html": {
   "s": "Male seahorses carry developing embryos in a brood pouch. This study found that male seahorses express Rh proteins in their brood pouches, suggesting these proteins may help remove ammonia, a toxic waste, from developing embryos. Understanding this mechanism could provide insights into the evolution of reproductive systems and contribute to conservation efforts."
  },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "Amp uses AI models from OpenAI to help developers turn ideas into software. Each new model from OpenAI opens more possibilities for what the AI agent can do, from planning to writing code. OpenAI's transparency makes it easier for users, but token costs can limit what agents can do. To address this, Amp introduced Sign in with ChatGPT, which gives users more tokens and models, including GPT-6 Astra, making agents more willing to handle larger tasks."
- },
  "https://www.sciencealert.com/a-strange-new-time-crystal-emerges-from-synchronized-vibrations": {
   "s": "A strange new time crystal has emerged from synchronized vibrations, not through an external rhythm, but through a spontaneous process. This discovery, by physicists at the University of Amsterdam, reveals how order can form in two-dimensional materials, a process called wave coarsening. It challenges the fragility of time crystals and opens new avenues for understanding how matter can organize itself in time."
  },
@@ -376,7 +367,10 @@
   "s": "",
   "why": "too little source text"
  },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high fidelity simulation and dexterous physical work. This matters as it addresses the complex tradeoffs in hand design, focusing on dexterity, strength, and ruggedness, making the hand more capable for real-world tasks."
+ "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/": {
+  "s": "Google Cloud released llm-d 1.0, an open-source stack for distributed large language model inference. This matters as it offers multi-tenant flow control and zero-downtime upgrades, making it easier to run LLMs reliably in production. It also uses cache-aware routing to efficiently manage memory and improve performance."
+ },
+ "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/": {
+  "s": "Mistral AI released Voxtral 3, a suite of tools for speech recognition and text-to-speech, including models for transcription and a voice agent SDK. This release aims to improve speech recognition accuracy and efficiency, offering features like context biasing and real-time transcription. The SDK's modular design allows for easy integration and customization, addressing a gap in the market for high-quality speech processing solutions."
  }
 }

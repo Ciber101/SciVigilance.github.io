@@ -377,24 +377,10 @@
    "date": "2026-10-07",
    "ts": "2026-10-07T07:12:39+00:00",
    "rank": 1
-  },
-  {
-   "id": "rb-robot-hands-for-modern-ai-and-real-work",
-   "title": "Robot Hands for Modern AI and Real Work",
-   "summary": "Boston Dynamics new robot hands have 13 degrees of freedom and direct actuation, built for high fidelity simulation and dexterous physical work.",
-   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
-   "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/atlas-mts-drill-1440x1016-1.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-01",
-   "ts": "2026-10-01T13:10:02+00:00",
-   "rank": 1
   }
  ],
- "date": "2026-10-20",
- "updated": "2026-10-21T05:31+00:00",
+ "date": "2026-10-21",
+ "updated": "2026-10-21T08:28+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
@@ -424,17 +410,17 @@
    "ts": "2026-10-21T02:00:00+00:00"
   },
   {
-   "id": "ai-deepseek-open-sources-deepinfer-the-inference-framework",
-   "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
-   "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.",
-   "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
+   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
+   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-15-scaled.png",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T14:31:59+00:00",
+   "date": "2026-10-21",
+   "ts": "2026-10-21T04:33:40+00:00",
    "rank": 0
   },
   {
@@ -490,17 +476,17 @@
    "ts": "2026-10-20T23:00:00+00:00"
   },
   {
-   "id": "ai-using-grok-bot-to-detect-and-respond-to-incidents",
-   "title": "Using Grok Bot to detect and respond to incidents",
-   "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
-   "url": "https://x.ai/news/incident-sweep",
-   "source": "xAI",
-   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
+   "id": "ai-deepseek-open-sources-deepinfer-the-inference-framework",
+   "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
+   "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.",
+   "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-15-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-20",
-   "ts": "2026-10-20T00:00:00+00:00",
+   "ts": "2026-10-20T14:31:59+00:00",
    "rank": 0
   },
   {
@@ -556,17 +542,17 @@
    "ts": "2026-10-20T13:00:56+00:00"
   },
   {
-   "id": "ai-minimax-just-launched-m3-1-flash-428b-moe-agentic-model",
-   "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
-   "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched…",
-   "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-10-scaled.png",
+   "id": "ai-using-grok-bot-to-detect-and-respond-to-incidents",
+   "title": "Using Grok Bot to detect and respond to incidents",
+   "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
+   "url": "https://x.ai/news/incident-sweep",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:37:58+00:00",
+   "date": "2026-10-20",
+   "ts": "2026-10-20T00:00:00+00:00",
    "rank": 0
   },
   {
@@ -1222,6 +1208,20 @@
  ],
  "ai": [
   {
+   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
+   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
+   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T04:33:40+00:00",
+   "rank": 0
+  },
+  {
    "id": "ai-deepseek-open-sources-deepinfer-the-inference-framework",
    "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
    "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.",
@@ -1250,18 +1250,18 @@
    "rank": 0
   },
   {
-   "id": "ai-minimax-just-launched-m3-1-flash-428b-moe-agentic-model",
-   "title": "MiniMax Just Launched M3.1 Flash: 428B MoE Agentic Model at $0.15/M Input",
-   "summary": "MiniMax has released M3.1 Flash, a 428B-parameter MoE model with about 23B active parameters and a 1M-token context. API pricing is $0.15/$0.60 per 1M tokens, with weights due October 23 The post MiniMax Just Launched…",
-   "url": "https://www.marktechpost.com/2026/10/19/minimax-m3-1-flash-release/",
+   "id": "ai-mistral-ai-releases-voxtral-3-speech-to-text-tts-and-a-v",
+   "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
+   "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis.",
+   "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-10-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-18-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:37:58+00:00",
-   "rank": 0
+   "date": "2026-10-21",
+   "ts": "2026-10-21T06:03:12+00:00",
+   "rank": 1
   },
   {
    "id": "ai-altk-evolve-how-learned-memory-tops-the-bench-leaderboar",
@@ -1317,20 +1317,6 @@
    ],
    "date": "2026-10-20",
    "ts": "2026-10-20T03:32:43+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-meet-drex-max-nace-ai-s-multimodal-decision-model-for-co",
-   "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
-   "summary": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Decision Index 0.3.2 at $0.06 per 1M input tokens.",
-   "url": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25c0.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T00:03:38+00:00",
    "rank": 2
   },
   {
@@ -1444,20 +1430,6 @@
    ],
    "date": "2026-10-14",
    "ts": "2026-10-14T12:55:06+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-amp-puts-ai-agents-to-work-beyond-code-with-openai-model",
-   "title": "Amp puts AI agents to work beyond code with OpenAI models",
-   "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-   "url": "https://openai.com/index/amp-beyond-coding",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4cxTIUhXa03TEYCnkIcMCu/29e6065058ed969022021186f994dad6/amp-beyond-coding-coiled-connection-seo-open-graph-1920x1080.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-14",
-   "ts": "2026-10-14T12:00:00+00:00",
    "rank": 2
   },
   {
