@@ -184,9 +184,6 @@
  "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/": {
   "s": "Gecko Robotics won a $300 million contract from the U.S. Navy and GSA, quadrupling the original $71 million award. This move is significant as it demonstrates the Pentagon's confidence in the company's operational AI and robotics technology, which can save the Navy millions in repair costs and return ships to service faster."
  },
- "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/": {
-  "s": "The Republic of Uzbekistan joined the Artemis Accords, becoming the 77th signatory. This move matters as it aligns with President Trump's directive to build a Moon Base and establish a lunar presence, expanding opportunities for international collaboration in space exploration."
- },
  "https://www.livescience.com/health/neuroscience/ultrasound-waves-that-jiggle-deep-brain-structures-may-relieve-delusions-in-schizophrenia-small-trial-hints": {
   "s": "",
   "why": "too little source text"
@@ -258,9 +255,6 @@
  },
  "https://www.nasa.gov/missions/moon-base/nasa-provides-progress-update-on-moon-base-rovers/": {
   "s": "NASA is developing lunar rovers to be crucial for building a Moon Base, aiding in transport, scientific investigations, and resource prospecting. Data from these rovers will shape future mobility systems needed for long-term Moon exploration. The VIPER rover, set to explore the South Pole in 2027, will gather information about water resources and lunar history."
- },
- "https://www.nasa.gov/image-article/webb-captures-stellar-jets/": {
-  "s": "Headlines from NASA’s James Webb Space Telescope on October 6, 2026, showed a vibrant scene of stellar creation. This image revealed many stars previously obscured by dust in a stellar nursery called NGC 7129, located about 3,300 light-years away."
  },
  "https://huggingface.co/blog/hf-torchtpu": {
   "s": "Hugging Face has introduced TorchTPU, a native PyTorch backend for TPUs, making them easier to use. This native support simplifies running Hugging Face models on TPUs, eliminating the need for torch_xla and making debugging and code execution more straightforward."
@@ -358,15 +352,31 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+ "https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/": {
+  "s": "Headline: APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia Explanation: Astronomers captured three faint nebulas in the Cassiopeia constellation using 100 hours of observation and a special filter. These nebulas glow red due to the energetic light from a multi-star system γ Cassiopeia, and appear as blue phantoms, revealing ionized oxygen. The mystery of their origin remains to be solved."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/": {
+  "s": "The powerful low-pressure system, remnants of Hurricane Isaias, transformed into an extratropical cyclone. Riding the jet stream, it whipped past Iceland with high winds and heavy rain."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create an AI model that can detect scams in private chats without sending data to the cloud. This matters because scams have evolved from simple phishing to sophisticated social engineering, making traditional methods of detection less effective."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
   "s": "",
   "why": "too little source text"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its superior physical reasoning and control capabilities in a robotics challenge, outperforming other models on a benchmark. This advance could accelerate the development of physical AI, enabling robots to learn and perform tasks without extensive training."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/pollo-ai": {
-  "s": "Pollo AI utilizes advanced AI models to transform creative concepts into visual content. This technology matters as it empowers content creators to produce high-quality ads without extensive technical skills."
+ "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high fidelity simulation and dexterous physical work. This matters as it addresses the complex tradeoffs in hand design, focusing on dexterity, strength, and ruggedness, making the hand more capable for real-world tasks."
  }
 }

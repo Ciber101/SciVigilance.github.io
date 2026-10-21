@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2112607347688583586",
-     "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients",
+     "text": "We’ve acquired Orchestra Bio, a platform that helps biopharma teams coordinate the complex process of drug development.\n\nTogether, we’ll build on Rosalind, our AI models and tools for life sciences research, to streamline those operations and help new treatments reach patients sooner.\n\nWelcome @ashokaraj_ and team!",
      "date": "2026-10-20T18:10:16.000Z",
      "quoted": false,
      "image": null,
@@ -17,7 +17,7 @@
     },
     {
      "id": "2112310345863930168",
-     "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means",
+     "text": "Our latest model advances bring stronger capabilities for building and migrating software in low-resource programming languages such as COBOL, Fortran, and Visual Basic.\n\nThese languages power software that banks, governments, and businesses depend on. Progress here means understanding decades of business logic and helping developers modernize those systems while preserving what works.\n\nWe’re building these capabilities around the challenges developers and enterprise customers bring us. If your team is working on these systems, tell us which languages and workflows we should tackle next.",
      "date": "2026-10-19T22:30:05.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112309796745682944/img/uV5UTO10mMmVfiun.jpg",
@@ -26,7 +26,7 @@
     },
     {
      "id": "2111192259073094035",
-     "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to",
+     "text": "GPT-6 Astra Pro in ChatGPT got an upgrade with faster responses and improved use of plugins and tools.\n\nAnd now, multiple agents can tackle different parts of a task in parallel. You can follow each agent’s progress and open completed tasks to review their work.\n\nNow available to Pro users in the Chat tab.",
      "date": "2026-10-16T20:27:13.000Z",
      "quoted": false,
      "image": null,
@@ -60,17 +60,8 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
-     "id": "2111152183240511640",
-     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
-     "date": "2026-10-16T17:47:58.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
-    },
-    {
      "id": "2110846112152105136",
-     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding,",
+     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
      "date": "2026-10-15T21:31:45.000Z",
      "quoted": true,
      "image": null,
@@ -79,12 +70,21 @@
     },
     {
      "id": "2110047081414987957",
-     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.",
+     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months:",
      "date": "2026-10-13T16:36:41.000Z",
      "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/AnthropicAI/status/2110047081414987957"
+    },
+    {
+     "id": "2109795898909950247",
+     "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how:",
+     "date": "2026-10-12T23:58:35.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/AnthropicAI/status/2109795898909950247"
     }
    ]
   },
@@ -228,7 +228,7 @@
    "posts": [
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -243,6 +243,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
+    },
+    {
+     "id": "2105348732464070823",
+     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
+     "date": "2026-09-30T17:27:07.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2105348732464070823"
     }
    ]
   },
@@ -254,7 +263,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -272,7 +281,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -324,21 +333,12 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
-    },
-    {
-     "id": "2108549075218120949",
-     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
-     "date": "2026-10-09T13:24:09.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -357,6 +357,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2105256053403508849"
+    },
+    {
+     "id": "2102569821997346912",
+     "text": "Thanks @arena for the recognition! 🏆 Qwen-Image-2.1 is now the #1 open-source model in both the Image Edit and Text-to-Image Arenas. Try it now and show us what you create! 🎨",
+     "date": "2026-09-23T01:24:44.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2102569821997346912"
     }
    ]
   },
@@ -465,7 +474,7 @@
     },
     {
      "id": "2112269224949485860",
-     "text": "Germany knows how to build, and now it’s bringing that expertise to industrial AI. 🇩🇪\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe’re also backing Germany’s builders, with new planned investments in Agile Robots SE, @aveliosmed, @MireloAI, and @reflexaerospace, spanning robotics, healthcare, creative tools, and space.\n\nMeet the companies and catch up on today’s news from Berlin:",
+     "text": "Germany knows how to build, and now it’s bringing that expertise to industrial AI. 🇩🇪\n\nTonight in Berlin, @JensenHuang and Chancellor @_FriedrichMerz discussed combining German engineering with NVIDIA AI to advance manufacturing and automotive.\n\nWe’re also backing Germany’s",
      "date": "2026-10-19T19:46:41.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBJqDmXoAA_GCO.jpg",
@@ -824,7 +833,7 @@
    "posts": [
     {
      "id": "2110091538604978573",
-     "text": "XPENG Friends from around the world gathered for XPENG Paris Night! ✨\nAgainst the dazzling backdrop of Place Vendôme, the XPENG G9L, IRON humanoid robot and flying car took center stage.\nWith the G9L making its Paris debut and NGP now open for public experience, we invite the world to discover the possibilities of Physical AI.\nThe future of mobility starts here.\n$XPEV",
+     "text": "XPENG Friends from around the world gathered for XPENG Paris Night! ✨\nAgainst the dazzling backdrop of Place Vendôme, the XPENG G9L, IRON humanoid robot and flying car took center stage.\nWith the G9L making its Paris debut and NGP now open for public experience, we invite the",
      "date": "2026-10-13T19:33:21.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110090791603376128/img/6iEQpqxo4vwvjGET.jpg",
@@ -859,7 +868,7 @@
     },
     {
      "id": "2108664665941131707",
-     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train perception models with 99% synthetic data\n✅ Reduce data collection and labelling to turn out effective models in hours instead of seasons\n\nRead the story:",
+     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train",
      "date": "2026-10-09T21:03:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108664641610022913/img/zc9nxjRU9wPtVi74.jpg",
@@ -912,7 +921,7 @@
     },
     {
      "id": "2112373713937084809",
-     "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost every day:",
+     "text": "Two important changes to timeline recommendations:\n\n- New AI/SI ranking model that predicts probable time spent much better\n\n- Retrieval model trained to surface posts people read all the way through\n\nUser active seconds is growing exponentially and hitting all-time highs almost",
      "date": "2026-10-20T02:41:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVCoslqWwAA_j6K.jpg",
@@ -1026,7 +1035,7 @@
     },
     {
      "id": "2112515951249768470",
-     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space |",
+     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space | @AirbusSpace",
      "date": "2026-10-20T12:07:06.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVEpX1-WEAAb4oA.jpg",
@@ -1121,6 +1130,15 @@
    "avatar": "img/x-jaxa_en.png",
    "posts": [
     {
+     "id": "2112773417472762289",
+     "text": "[Press Release]\nCompletion of the Initial Critical Operations Phase of the Martian Moons eXploration (MMX) Spacecraft\n#JAXA",
+     "date": "2026-10-21T05:10:10.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/JAXA_en/status/2112773417472762289"
+    },
+    {
      "id": "2112318389096231394",
      "text": "[Press Release]\n\nLaunch result of the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle flight No.10",
      "date": "2026-10-19T23:02:03.000Z",
@@ -1146,15 +1164,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111729608513171457/img/T4d3wLPOoUOuurEt.jpg",
      "video": "https://video.twimg.com/amplify_video/2111729608513171457/vid/avc1/720x1280/hkcP7eolyd7hn6Ef.mp4?tag=14",
      "url": "https://x.com/JAXA_en/status/2111729920909234314"
-    },
-    {
-     "id": "2111685992696750242",
-     "text": "[Press Release]\n\nLaunch time of the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle Flight No.10",
-     "date": "2026-10-18T05:09:08.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/JAXA_en/status/2111685992696750242"
     }
    ]
   },
@@ -1209,6 +1218,15 @@
    "avatar": "img/x-rocketlab.jpg",
    "posts": [
     {
+     "id": "2112769624056156507",
+     "text": "We're standing down from today's launch attempt for @hawkeye360 to review out-of-family telemetry data observed during vertical operations on the pad. Further launch opportunities are available throughout the week, standby for a new launch date soon.",
+     "date": "2026-10-21T04:55:06.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVIQvNraoAAuwLP.jpg",
+     "video": null,
+     "url": "https://x.com/RocketLab/status/2112769624056156507"
+    },
+    {
      "id": "2112700125684662751",
      "text": "Operations will begin shortly for our 98th Electron launch and next mission from LC-1 for @hawkeye360.\n\n'We're Not Hawking Around' launch window opens:\n🚀8:00pm NZDT\n🚀07:00 UTC\n🚀3:00 am EDT \n🚀00:00 am PDT",
      "date": "2026-10-21T00:18:56.000Z",
@@ -1219,7 +1237,7 @@
     },
     {
      "id": "2112642987394224408",
-     "text": "The first multi-spacecraft science mission to Mars is about to make its big move.\n\nNext month, Blue and Gold – the twin spacecraft we built for @NASA and @ucbssl – will swing close past Earth and each fire their main engine in a single, continuous burn, using Earth's gravity to",
+     "text": "The first multi-spacecraft science mission to Mars is about to make its big move.\n\nNext month, Blue and Gold – the twin spacecraft we built for @NASA and @ucbssl – will swing close past Earth and each fire their main engine in a single, continuous burn, using Earth's gravity to amplify the burn as they set course for Mars. It's a maneuver that's never been successfully done before.\n\nOur mission ops team is in full rehearsal mode for @escapade_mars' trans-Mars injection.\n\nLearn more about ESCAPADE:",
      "date": "2026-10-20T20:31:53.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVGdf1dacAAMapq.jpg",
@@ -1228,21 +1246,12 @@
     },
     {
      "id": "2112345583319208037",
-     "text": "Production of the new carbon composite forward dome for Neutron’s Stage 1 propellant tank is underway.\n\nOur automated fiber placement (AFP) machine follows a computer-controlled course to lay down thousands of strands of carbon fiber - each thinner than a human hair - at speeds",
+     "text": "Production of the new carbon composite forward dome for Neutron’s Stage 1 propellant tank is underway.\n\nOur automated fiber placement (AFP) machine follows a computer-controlled course to lay down thousands of strands of carbon fiber - each thinner than a human hair - at speeds of up to 100 meters per minute to create Stage 1’s structures on custom molds.\n\nOnce the AFP machine is finished with the new forward dome it will be rolled out, inspected, then prepared for the curing process to harden the carbon composite.",
      "date": "2026-10-20T00:50:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112345432504598528/img/jEIwygNx7J_iPXew.jpg",
      "video": "https://video.twimg.com/amplify_video/2112345432504598528/vid/avc1/3840x2160/yB2GJxWKnV_p40Oz.mp4",
      "url": "https://x.com/RocketLab/status/2112345583319208037"
-    },
-    {
-     "id": "2112308260628050062",
-     "text": "Wet Dress Rehearsal DONE ✅ Electron is ready for its 98th launch and latest mission from Launch Complex 1.\n\n'We're Not Hawking Around' will deploy 3x HAWK satellites to a 520km LEO for @hawkeye360 to expand their RF-sensing constellation that collects signal data for maritime",
-     "date": "2026-10-19T22:21:48.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVBr4UdbsAA0-7S.jpg",
-     "video": null,
-     "url": "https://x.com/RocketLab/status/2112308260628050062"
     }
    ]
   },
@@ -1395,7 +1404,7 @@
     },
     {
      "id": "2110110342042796119",
-     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay.",
+     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay. That's where our Elytra orbiter comes in 🛰️. Elytra will serve as a transfer vehicle and communications bridge between Blue Ghost and Earth, enabling critical science operations on the lunar surface and setting the stage for future missions.",
      "date": "2026-10-13T20:48:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUieKtlWkAEX_b9.jpg",
@@ -1404,7 +1413,7 @@
     },
     {
      "id": "2108173401235816859",
-     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization",
+     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization of unmanned aerial threats.\n \nRead more here:",
      "date": "2026-10-08T12:31:21.000Z",
      "quoted": false,
      "image": null,
@@ -1413,7 +1422,7 @@
     },
     {
      "id": "2105266742691774491",
-     "text": "New customer alert 🚨\n\nStarcloud's AI-computing payload will fly onboard our Elytra spacecraft as part of our third mission to the Moon. The payload will process data from our Solux vision system and validate capabilities for a future data center in lunar orbit.\n\nThis",
+     "text": "New customer alert 🚨\n\nStarcloud's AI-computing payload will fly onboard our Elytra spacecraft as part of our third mission to the Moon. The payload will process data from our Solux vision system and validate capabilities for a future data center in lunar orbit.\n\nThis collaboration will lay the groundwork for the computing infrastructure required for a permanent presence on the Moon.",
      "date": "2026-09-30T12:01:20.000Z",
      "quoted": false,
      "image": null,
@@ -1430,7 +1439,7 @@
    "posts": [
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1439,7 +1448,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
@@ -1457,7 +1466,7 @@
     },
     {
      "id": "2108289174977585579",
-     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we",
      "date": "2026-10-08T20:11:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",
