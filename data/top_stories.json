@@ -1,160 +1,150 @@
 {
- "updated": "2026-10-20T16:50:00-07:00",
- "updated_pt": "Oct 20, 2026, 4:50 PM PT",
- "stories": [
-  {
-   "title": "Anthropic says Claude designed 17 lab-confirmed protein binders against dangerous scorpion toxins",
-   "tag": "AI",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "Anthropic said on Oct. 20 that it asked an internal research model, working inside Claude Science, to design minibinders, small proteins that attach tightly to a target, against scorpion neurotoxins, with the hope that such binders could one day be used to develop a scorpion antivenom. The company says the project grew out of a question from the investment research firm Citrini Research about whether AI could let motivated nonexperts tackle a real health problem. Anthropic notes that scorpions sting 1.2 million people or more each year, causing more than 3,250 deaths, mostly among children in places with limited medical care.",
-    "According to Anthropic, the model worked mainly autonomously for 64 hours from an initial prompt plus four follow-ups. It used 12 design tools to generate 318,484 protein designs, screened 553,052 design-toxin pairs and picked 180 designs for testing, and the team added 31 more with Claude's help. The targets were five neurotoxins from scorpions in Mexico (Cn2), Brazil (Ts1), North Africa (AaH I and AaH II) and the Middle East (LqhIII). Anthropic says the campaign used on the order of 10,000 GPU hours.",
-    "The contract labs Adaptyv Bio and Twist Bioscience tested all 211 designs, and 17 met Anthropic's strict criteria for a binder, each against a single toxin: seven against Cn2, four against AaH II, four against AaH I and two against LqhIII. None of the designs aimed at several toxins at once worked against more than one, and Anthropic's X thread says none bound the Brazilian species' toxin. The two strongest, Cn2-B1 and Cn2-B2, bound Cn2 with affinities in the single-digit nanomolar range, and competition tests suggest they attach at or near the same site as an antibody reported to neutralize Cn2 in mice.",
-    "Anthropic stresses that this is exploratory work and that it is not claiming to have produced an antivenom: the binders were tested only against lab-made toxins, not for neutralization in cells or protection in animals. Two outside experts it consulted, Susana Vázquez Torres of Spain's National Cancer Research Centre (CNIO) and Timothy P. Jenkins of the Technical University of Denmark, called it a promising first step. Anthropic is releasing all 211 designs and their lab data on Hugging Face."
-   ],
-   "sources": [
+  "updated": "2026-10-21T01:37:33-07:00",
+  "updated_pt": "Oct 21, 2026, 1:37 AM PT",
+  "stories": [
     {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
-     "date": "2026-10-20"
+      "title": "Anthropic says Claude designed 17 lab-confirmed protein binders against dangerous scorpion toxins",
+      "tag": "AI",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "Anthropic said on Oct. 20 that it asked an internal research model, working inside Claude Science, to design minibinders, small proteins that attach tightly to a target, against scorpion neurotoxins, with the hope that such binders could one day be used to develop a scorpion antivenom. The company says the project grew out of a question from the investment research firm Citrini Research about whether AI could let motivated nonexperts tackle a real health problem. Anthropic notes that scorpions sting 1.2 million people or more each year, causing more than 3,250 deaths, mostly among children in places with limited medical care.",
+        "According to Anthropic, the model worked mainly autonomously for 64 hours from an initial prompt plus four follow-ups. It used 12 design tools to generate 318,484 protein designs, screened 553,052 design-toxin pairs and picked 180 designs for testing, and the team added 31 more with Claude's help. The targets were five neurotoxins from scorpions in Mexico (Cn2), Brazil (Ts1), North Africa (AaH I and AaH II) and the Middle East (LqhIII). Anthropic says the campaign used on the order of 10,000 GPU hours.",
+        "The contract labs Adaptyv Bio and Twist Bioscience tested all 211 designs, and 17 met Anthropic's strict criteria for a binder, each against a single toxin: seven against Cn2, four against AaH II, four against AaH I and two against LqhIII. None of the designs aimed at several toxins at once worked against more than one, and Anthropic's X thread says none bound the Brazilian species' toxin. The two strongest, Cn2-B1 and Cn2-B2, bound Cn2 with affinities in the single-digit nanomolar range, and competition tests suggest they attach at or near the same site as an antibody reported to neutralize Cn2 in mice.",
+        "Anthropic stresses that this is exploratory work and that it is not claiming to have produced an antivenom: the binders were tested only against lab-made toxins, not for neutralization in cells or protection in animals. Two outside experts it consulted, Susana Vázquez Torres of Spain's National Cancer Research Centre (CNIO) and Timothy P. Jenkins of the Technical University of Denmark, called it a promising first step. Anthropic is releasing all 211 designs and their lab data on Hugging Face."
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Anthropic on X",
+          "url": "https://x.com/AnthropicAI/status/2112579251555721573",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Anthropic on X (thread, 3/5)",
+          "url": "https://x.com/AnthropicAI/status/2112579257704882246",
+          "date": "2026-10-20"
+        }
+      ]
     },
     {
-     "name": "Anthropic on X",
-     "url": "https://x.com/AnthropicAI/status/2112579251555721573",
-     "date": "2026-10-20"
+      "title": "Mathematicians say an OpenAI proof of the 'quasi-Riemann hypothesis' looks correct, calling its implications 'staggering'",
+      "tag": "Math",
+      "date": "2026-10-19",
+      "paragraphs": [
+        "Number theorists who have spent the past two weeks studying an AI-generated proof released by OpenAI on Oct. 6 largely agree that it is correct, Quanta Magazine reported on Oct. 19. The proof claims to settle the quasi-Riemann hypothesis, a weaker version of the Riemann hypothesis, which has been open for more than 160 years and concerns how prime numbers are distributed. Jared Duker Lichtman of Stanford University called it \"the most significant AI-for-math achievement so far, by quite a margin,\" and Maksym Radziwiłł of New York University told Quanta the implications are \"staggering,\" adding that \"the vast majority of consequences of RH already follow from quasi-RH.\"",
+        "Quanta explains that the Riemann hypothesis says all nontrivial zeros of the Riemann zeta function have a real part of 1/2, while the quasi version only asks for proof that they lie in a vertical strip narrower than the known one between 0 and 1. According to Quanta, OpenAI announced two versions: one dated Sept. 30, 199 pages long and formally verified in the Lean programming language, placing the zeros between 1/8 and 7/8, and a 49-page version completed almost a week later, not yet formally verified, placing them between 1/12 and 11/12. Mathematicians have focused on the shorter paper, which Quanta says is the only one of OpenAI's Oct. 6 papers to have been edited by a person; OpenAI told the magazine, \"The paper is the result of work from everyone at OpenAI.\"",
+        "Radziwiłł told Quanta that both papers are \"horribly written,\" falling well short of the field's standards of clarity, but that he can now sketch the argument in half a page. Experts quoted by the magazine say the proof introduces no new concepts and instead combines long-known ideas, including obscure objects called metaplectic forms and a formula that Radziwiłł and Alexander Dunn of the Georgia Institute of Technology proved in 2021. Quanta reports that Princeton's Peter Sarnak has repurposed a course he is teaching this semester to study the proof, and that he said he won't be satisfied it is \"a Theorem\" until humans check and understand all the details.",
+        "According to Quanta, mathematicians expect the result to establish many other results in number theory, geometry and theoretical computer science, but they are skeptical that the same techniques can reach the full Riemann hypothesis. \"It seems most likely to me that once mathematicians have fully internalized the new methods and worked through their implications, we will still feel as far off from the full Riemann hypothesis as we were before,\" Will Sawin of Princeton told the magazine, adding, \"But I am not certain of this.\""
+      ],
+      "sources": [
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+          "date": "2026-10-19"
+        }
+      ]
     },
     {
-     "name": "Anthropic on X (thread, 3/5)",
-     "url": "https://x.com/AnthropicAI/status/2112579257704882246",
-     "date": "2026-10-20"
+      "title": "Mistral AI releases Voxtral 3, new speech-to-text and text-to-speech models plus a voice agent kit",
+      "tag": "AI",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "Mistral AI announced Voxtral 3 on Oct. 20, 2026, describing it as a new family of speech-to-text and text-to-speech models alongside a voice agent SDK (a software kit for developers) that brings listening, reasoning, tool calling and speaking into a single real-time streaming pipeline. Mistral says it is built for uses such as contact-center agents, service desks, virtual assistants and hands-free copilots.",
+        "According to Mistral, its transcription model, Voxtral Small Transcribe 3, can identify who said what, use supplied key phrases to improve accuracy, and detect when a speaker has finished talking. The company says transcription now covers 50 languages, including the 24 official EU languages, and that a smaller 4-billion-parameter Mini version costs $0.0035 per minute. Mistral claims the Small model outperforms Whisper, Scribe v2 and Gemini 3.5 Transcribe; MarkTechPost notes that these benchmark numbers are self-reported by Mistral.",
+        "Mistral says its text-to-speech model, Voxtral Mini TTS 3, has new voices that adjust emotion, pace and emphasis to the conversation, with support for more than 35 languages, and that a Pro Voice feature can reproduce a speaker's style using 30 minutes of audio. MarkTechPost reports that the voice agent SDK is built on LiveKit, that each conversational turn completes in under one second, and that the speech model costs $13 per million characters.",
+        "MarkTechPost reports that the models are in public preview on Mistral's API, that Mistral's real-time transcription trails Gemini 3.5 Realtime on one accuracy test, and that no open weights were announced. Mistral says the models are available through its EU-hosted API or for self-deployment on a customer's own infrastructure."
+      ],
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/voxtral-3/",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    {
+      "title": "SpaceX will try to catch both stages of Starship on its next test flight, targeted for November",
+      "tag": "Space",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "SpaceX will try to catch both stages of its Starship megarocket during the vehicle's next test flight, which is targeted for next month, founder and CEO Elon Musk announced during SpaceX's third-quarter earnings call on Oct. 20, Space.com reports. According to Space.com, Musk said that if it succeeds, this \"will be the first time that an orbital launch vehicle has been fully recovered,\" and he called it \"a profound technology milestone in the history of civilization and consciousness.\" Musk did not give a specific target date for Flight 15, saying only that it was expected next month.",
+        "Space.com describes Starship as the biggest and most powerful rocket ever built, standing more than 400 feet (122 meters) tall when fully stacked, with both stages, the Super Heavy booster and the Ship spacecraft, designed to be fully and rapidly reusable. Unlike the Falcon 9 and Falcon Heavy boosters, which land on pads or on ships at sea, Super Heavy and Ship are meant to steer themselves back to their launch tower, which captures each vehicle with its \"chopstick\" arms. Space.com notes Musk has said he envisions launching Starship more than 10,000 times per year by 2030.",
+        "Starship has flown 14 test flights so far, and SpaceX has caught Super Heavy with the chopsticks on three of them, Space.com reports, but the company has not yet tried to catch Ship, which travels higher, farther and faster than the booster. Musk said he thinks it is \"more likely than not that this succeeds next flight,\" and that if not, SpaceX has \"a steady stream of Starship flight attempts through the end of this year.\" On Flight 14, on Sept. 28, Ship reached orbit for the first time and deployed 26 of SpaceX's Starlink Version 3 satellites, according to Space.com.",
+        "The Flight 15 preview was an aside on a call mainly about SpaceX's finances, Space.com says. Company representatives reported third-quarter revenue of $14.6 billion, up 161% from $5.6 billion in the same quarter of 2025, and net income of $4.4 billion, compared with a $1.1 billion loss a year earlier. Space.com reports that only $1.8 billion of the quarter's revenue came from the launch division, with most of the rest coming from Starlink connectivity and artificial intelligence."
+      ],
+      "sources": [
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
+          "date": "2026-10-20"
+        }
+      ]
+    },
+    {
+      "title": "Japan launches its MMX mission to bring back the first sample from Mars' moon Phobos",
+      "tag": "Space",
+      "date": "2026-10-19",
+      "paragraphs": [
+        "Japan's Martian Moons eXploration (MMX) mission launched today, Oct. 19, on an H3 rocket from Pad-2 at Tanegashima Space Center's Yoshinobu Launch Complex at 3:41 p.m. EDT, which is 12:41 p.m. PT and 4:41 a.m. on Oct. 20 in Japan, Space.com reports. Space.com says it was the 10th flight of the H3, developed by JAXA and Mitsubishi Heavy Industries, and that the rocket flew a nominal trajectory over the Pacific, dropping its four solid boosters just before the two-minute mark and its payload fairing about 80 seconds later. According to Space.com, the plan called for the upper stage to fire a second time for a trans-Mars injection burn about one hour and four minutes after liftoff, with MMX released about a minute after that burn ended, roughly 368 miles (592 kilometers) above central Africa. ESA says the mission is led by the Japan Aerospace Exploration Agency (JAXA) together with NASA, the French space agency CNES, the German Aerospace Center DLR and ESA, and it will be the first mission to collect a sample from Phobos and bring it back to Earth.",
+        "ESA says MMX will take around a year to reach Mars, entering orbit around the planet in August 2027 and orbiting Phobos from September 2027. After studying Phobos and Deimos from a distance, it is to release the 25-kilogram Idefix rover in early 2029; ESA notes Phobos' gravity is so low that Idefix will weigh the equivalent of 15 grams there. ESA says the main spacecraft will land on Phobos in 2030, and a return module will deliver at least ten grams of Phobos material in a capsule that lands in Australia in 2031. The mission carries 11 science instruments, seven on the main spacecraft and four on the rover, according to ESA. Space.com adds that MMX will spend about three years in the Martian system, making two separate touchdowns on the 14-mile-wide (22 km) Phobos to collect samples and later flying past the smaller moon Deimos several times before leaving for Earth in November 2030.",
+        "ESA says the moons may be asteroids captured into Mars orbit or the remnants of debris thrown into orbit by a giant collision on Mars, and that samples are needed to find out. Space.com quotes NASA MMX program executive and program scientist Tom Statler, from an Oct. 15 statement: \"Having the answer will help illuminate that early era when Earth and the other inner planets may have been acquiring much of their water and organic compounds.\" Space.com also reports that MMX was originally supposed to launch in 2024, but problems with the H3 rocket kept it grounded until the next Earth-Mars launch window, which comes once every 26 months.",
+        "Science News reports that if MMX succeeds it will be the first mission to reach Phobos, after three earlier Russian spacecraft failed, and that the returned rocks may even contain stray grains blasted off Mars itself. The magazine notes that NASA's plan to fetch the Perseverance rover's samples is in limbo after the U.S. Congress cut funding for that follow-on mission, which has made scientists keen on even an indirect look at Martian material. NASA Johnson Space Center planetary scientist Michael Zolensky told Science News that 15 percent of the sample will eventually go to Johnson, adding, \"A few grams of sample are going to be a real bonanza for scientists.\" Space.com reports that NASA's contributions include the MEGANE gamma-ray and neutron spectrometer built by the Johns Hopkins Applied Physics Laboratory, a pneumatic sampler built by Honeybee Robotics and Deep Space Network support, about $87 million in total through the end of the mission."
+      ],
+      "sources": [
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "ESA",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
+          "date": "2026-10-13"
+        },
+        {
+          "name": "Science News",
+          "url": "https://www.sciencenews.org/article/japan-mission-mars-moon",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "title": "Quantinuum's Helios quantum computer reaches about 5 errors per million operations on one error-corrected qubit",
+      "tag": "Physics",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "A quantum computer built by the company Quantinuum has error rates so low that it could perform a million operations with only about five errors, Science News reported on Oct. 20, 2026, citing a paper the researchers posted Oct. 19 on the company's website and arXiv. Science News says this is a step toward the \"megaquop\" regime, meaning quantum computers that can do a million reliable operations, which has not been reached yet.",
+        "The computer, called Helios, uses 98 electrically charged atoms, or ions, hovering over a chip as its quantum bits, according to Science News. Because individual qubits are error-prone, a technique called quantum error correction combines several of them into a more reliable \"logical qubit.\"",
+        "Science News explains that each time a logical qubit is scaled up, its error rate drops by a factor called lambda. A 2024 Google demonstration reported in Nature had a lambda of about 2, while Quantinuum's machine has a lambda of about 10, the outlet reports. A logical qubit made of 37 physical qubits had just 5 errors in a million operations.",
+        "Science News notes that the experiment involved only a single logical qubit, and that reaching the megaquop regime could involve around 50 to 100 of them. Duke University quantum engineer Ken Brown, who was not involved in the research, told Science News that the large lambda means fewer physical qubits are needed to reach a desired error rate, calling it \"a huge savings.\""
+      ],
+      "sources": [
+        {
+          "name": "Science News",
+          "url": "https://www.sciencenews.org/article/quantum-computer-megaquops-error-correction",
+          "date": "2026-10-20"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "title": "Mathematicians say an OpenAI proof of the 'quasi-Riemann hypothesis' looks correct, calling its implications 'staggering'",
-   "tag": "Math",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Number theorists who have spent the past two weeks studying an AI-generated proof released by OpenAI on Oct. 6 largely agree that it is correct, Quanta Magazine reported on Oct. 19. The proof claims to settle the quasi-Riemann hypothesis, a weaker version of the Riemann hypothesis, which has been open for more than 160 years and concerns how prime numbers are distributed. Jared Duker Lichtman of Stanford University called it \"the most significant AI-for-math achievement so far, by quite a margin,\" and Maksym Radziwiłł of New York University told Quanta the implications are \"staggering,\" adding that \"the vast majority of consequences of RH already follow from quasi-RH.\"",
-    "Quanta explains that the Riemann hypothesis says all nontrivial zeros of the Riemann zeta function have a real part of 1/2, while the quasi version only asks for proof that they lie in a vertical strip narrower than the known one between 0 and 1. According to Quanta, OpenAI announced two versions: one dated Sept. 30, 199 pages long and formally verified in the Lean programming language, placing the zeros between 1/8 and 7/8, and a 49-page version completed almost a week later, not yet formally verified, placing them between 1/12 and 11/12. Mathematicians have focused on the shorter paper, which Quanta says is the only one of OpenAI's Oct. 6 papers to have been edited by a person; OpenAI told the magazine, \"The paper is the result of work from everyone at OpenAI.\"",
-    "Radziwiłł told Quanta that both papers are \"horribly written,\" falling well short of the field's standards of clarity, but that he can now sketch the argument in half a page. Experts quoted by the magazine say the proof introduces no new concepts and instead combines long-known ideas, including obscure objects called metaplectic forms and a formula that Radziwiłł and Alexander Dunn of the Georgia Institute of Technology proved in 2021. Quanta reports that Princeton's Peter Sarnak has repurposed a course he is teaching this semester to study the proof, and that he said he won't be satisfied it is \"a Theorem\" until humans check and understand all the details.",
-    "According to Quanta, mathematicians expect the result to establish many other results in number theory, geometry and theoretical computer science, but they are skeptical that the same techniques can reach the full Riemann hypothesis. \"It seems most likely to me that once mathematicians have fully internalized the new methods and worked through their implications, we will still feel as far off from the full Riemann hypothesis as we were before,\" Will Sawin of Princeton told the magazine, adding, \"But I am not certain of this.\""
-   ],
-   "sources": [
-    {
-     "name": "Quanta Magazine",
-     "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-     "date": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "title": "DeepSeek open-sources DeepInfer, the inference framework behind its DeepSeek-V4.1-Flash service",
-   "tag": "AI",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "Chinese AI lab DeepSeek has released DeepInfer, which it calls its in-house inference framework, as fully open source, the company announced on X on Oct. 20. According to DeepSeek, the software powers DeepSeek-V4.1-Flash at scale with high throughput and low latency, and the company says it is sharing its production stack to help the community lower compute costs, reduce energy use and make AI more affordable.",
-    "The project's GitHub page describes DeepInfer as the high-performance inference framework that powers DeepSeek's large-scale production services and says this release provides offline inference with the core features needed for serving at scale. It lists DeepSeek-V4.1-Flash as the supported model, and NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs as the supported hardware. The code is released under the Apache License 2.0.",
-    "Listed features include optimized kernels built on DeepSeek's own open-source libraries such as FlashMLA, DeepGEMM and DeepEP, data parallelism for attention and expert parallelism for its mixture-of-experts layers, faster decoding with draft tokens and confidence-scheduled verification, asynchronous batch scheduling, batch-invariant inference, deterministic sampling, and structured outputs that constrain generation to a regex, JSON schema or grammar. DeepSeek's X thread says inference code for future DeepSeek models and ongoing optimizations will land in the same project.",
-    "The README notes that some parts of a complete inference service are not included in this release: a KV cache system, separation of the prefill and decode stages across machines, and load balancing across data-parallel replicas. It says its published performance benchmarks were measured on 4 SM100 GPUs for prefill and 64 for decode, and that DeepInfer was originally built primarily on the open-source vLLM project, with additional inspiration from SGLang and NVIDIA's TensorRT-LLM."
-   ],
-   "sources": [
-    {
-     "name": "DeepSeek on X",
-     "url": "https://x.com/deepseek_ai/status/2112476496283775135",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "DeepSeek on X (thread, 2/4)",
-     "url": "https://x.com/deepseek_ai/status/2112476498598957056",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "DeepInfer on GitHub (DeepSeek)",
-     "url": "https://github.com/deepseek-ai/DeepInfer",
-     "date": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "title": "SpaceX will try to catch both stages of Starship on its next test flight, targeted for November",
-   "tag": "Space",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "SpaceX will try to catch both stages of its Starship megarocket during the vehicle's next test flight, which is targeted for next month, founder and CEO Elon Musk announced during SpaceX's third-quarter earnings call on Oct. 20, Space.com reports. According to Space.com, Musk said that if it succeeds, this \"will be the first time that an orbital launch vehicle has been fully recovered,\" and he called it \"a profound technology milestone in the history of civilization and consciousness.\" Musk did not give a specific target date for Flight 15, saying only that it was expected next month.",
-    "Space.com describes Starship as the biggest and most powerful rocket ever built, standing more than 400 feet (122 meters) tall when fully stacked, with both stages, the Super Heavy booster and the Ship spacecraft, designed to be fully and rapidly reusable. Unlike the Falcon 9 and Falcon Heavy boosters, which land on pads or on ships at sea, Super Heavy and Ship are meant to steer themselves back to their launch tower, which captures each vehicle with its \"chopstick\" arms. Space.com notes Musk has said he envisions launching Starship more than 10,000 times per year by 2030.",
-    "Starship has flown 14 test flights so far, and SpaceX has caught Super Heavy with the chopsticks on three of them, Space.com reports, but the company has not yet tried to catch Ship, which travels higher, farther and faster than the booster. Musk said he thinks it is \"more likely than not that this succeeds next flight,\" and that if not, SpaceX has \"a steady stream of Starship flight attempts through the end of this year.\" On Flight 14, on Sept. 28, Ship reached orbit for the first time and deployed 26 of SpaceX's Starlink Version 3 satellites, according to Space.com.",
-    "The Flight 15 preview was an aside on a call mainly about SpaceX's finances, Space.com says. Company representatives reported third-quarter revenue of $14.6 billion, up 161% from $5.6 billion in the same quarter of 2025, and net income of $4.4 billion, compared with a $1.1 billion loss a year earlier. Space.com reports that only $1.8 billion of the quarter's revenue came from the launch division, with most of the rest coming from Starlink connectivity and artificial intelligence."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-will-attempt-1st-ever-double-starship-rocket-catch-on-next-test-launch-a-profound-technology-milestone-elon-musk-says",
-     "date": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "title": "Japan launches its MMX mission to bring back the first sample from Mars' moon Phobos",
-   "tag": "Space",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Japan's Martian Moons eXploration (MMX) mission launched today, Oct. 19, on an H3 rocket from Pad-2 at Tanegashima Space Center's Yoshinobu Launch Complex at 3:41 p.m. EDT, which is 12:41 p.m. PT and 4:41 a.m. on Oct. 20 in Japan, Space.com reports. Space.com says it was the 10th flight of the H3, developed by JAXA and Mitsubishi Heavy Industries, and that the rocket flew a nominal trajectory over the Pacific, dropping its four solid boosters just before the two-minute mark and its payload fairing about 80 seconds later. According to Space.com, the plan called for the upper stage to fire a second time for a trans-Mars injection burn about one hour and four minutes after liftoff, with MMX released about a minute after that burn ended, roughly 368 miles (592 kilometers) above central Africa. ESA says the mission is led by the Japan Aerospace Exploration Agency (JAXA) together with NASA, the French space agency CNES, the German Aerospace Center DLR and ESA, and it will be the first mission to collect a sample from Phobos and bring it back to Earth.",
-    "ESA says MMX will take around a year to reach Mars, entering orbit around the planet in August 2027 and orbiting Phobos from September 2027. After studying Phobos and Deimos from a distance, it is to release the 25-kilogram Idefix rover in early 2029; ESA notes Phobos' gravity is so low that Idefix will weigh the equivalent of 15 grams there. ESA says the main spacecraft will land on Phobos in 2030, and a return module will deliver at least ten grams of Phobos material in a capsule that lands in Australia in 2031. The mission carries 11 science instruments, seven on the main spacecraft and four on the rover, according to ESA. Space.com adds that MMX will spend about three years in the Martian system, making two separate touchdowns on the 14-mile-wide (22 km) Phobos to collect samples and later flying past the smaller moon Deimos several times before leaving for Earth in November 2030.",
-    "ESA says the moons may be asteroids captured into Mars orbit or the remnants of debris thrown into orbit by a giant collision on Mars, and that samples are needed to find out. Space.com quotes NASA MMX program executive and program scientist Tom Statler, from an Oct. 15 statement: \"Having the answer will help illuminate that early era when Earth and the other inner planets may have been acquiring much of their water and organic compounds.\" Space.com also reports that MMX was originally supposed to launch in 2024, but problems with the H3 rocket kept it grounded until the next Earth-Mars launch window, which comes once every 26 months.",
-    "Science News reports that if MMX succeeds it will be the first mission to reach Phobos, after three earlier Russian spacecraft failed, and that the returned rocks may even contain stray grains blasted off Mars itself. The magazine notes that NASA's plan to fetch the Perseverance rover's samples is in limbo after the U.S. Congress cut funding for that follow-on mission, which has made scientists keen on even an indirect look at Martian material. NASA Johnson Space Center planetary scientist Michael Zolensky told Science News that 15 percent of the sample will eventually go to Johnson, adding, \"A few grams of sample are going to be a real bonanza for scientists.\" Space.com reports that NASA's contributions include the MEGANE gamma-ray and neutron spectrometer built by the Johns Hopkins Applied Physics Laboratory, a pneumatic sampler built by Honeybee Robotics and Deep Space Network support, about $87 million in total through the end of the mission."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-     "date": "2026-10-19"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/astronomy/mars/japan-launching-bold-sample-return-mission-to-mars-moon-phobos-today-watch-it-live",
-     "date": "2026-10-19"
-    },
-    {
-     "name": "ESA",
-     "url": "https://www.esa.int/Science_Exploration/Space_Science/Mars_moon_lander_set_to_launch_on_19_October",
-     "date": "2026-10-13"
-    },
-    {
-     "name": "Science News",
-     "url": "https://www.sciencenews.org/article/japan-mission-mars-moon",
-     "date": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "title": "About 1 in 4 people in a large depression study fit a proposed 'circadian' subtype tied to the body clock",
-   "tag": "Health",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "A team led by researchers at the University of Sydney reports that roughly a quarter of patients in a large Australian depression study fit a proposed \"circadian\" subtype of depression, ScienceAlert and Live Science report. The study, in The British Journal of Psychiatry, analyzed data from 11,380 adults aged 18 to 90 in the Australian Genetics of Depression Study, and identified the subtype in 2,604 of them, according to Live Science, which says the paper was published Wednesday, Oct. 21. ScienceAlert names psychiatry researchers Jacob Crouse and Ian Hickie as the study's leaders and Emiliana Tonini as first author.",
-    "Participants were classed as circadian if they had at least three of six features: seasonal mood swings, late sleep schedules, social jet lag (a mismatch between sleep timing on workdays and free days), night-owl habits, excessive sleep, and fatigue on waking, Live Science reports. Compared with the rest of the cohort, this group developed depression earlier, around age 19 versus about 23, and reported more distress, frequent suicidal thoughts and more physical complaints, according to Live Science. ScienceAlert reports the circadian group was also more likely to gain weight during depressive episodes, and Live Science says genetic risk scores showed higher risk for depression, anxiety, ADHD and bipolar disorder, as well as for higher body weight, insulin resistance, inflammation and late sleep habits.",
-    "Both outlets report that people in the circadian group said common antidepressants helped them less and caused more side effects; Live Science names SSRIs and SNRIs and side effects such as drowsiness, nausea, anxiety and weight gain. ScienceAlert quotes Crouse saying treatments that target the body clock, \"such as light therapy and melatonin, may be much more relevant,\" and adds his advice that people for whom antidepressants are not working should speak to their clinician.",
-    "Live Science reports that outside experts urged caution. Brant Hasler of the University of Pittsburgh, who was not involved, noted the study relied on self-reported sleep patterns, which correlate only modestly with direct measures of circadian timing such as melatonin in saliva. Live Science also says the subtype is still a proposal, that Tonini noted clinical trials are needed before firm conclusions about treatment, and that the findings must be validated more broadly because the study drew on a single Australian cohort and its genetic analysis included only people of European ancestry."
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/health/sleep/could-body-clocks-play-a-role-in-depression-study-proposes-a-new-circadian-subtype",
-     "date": "2026-10-20"
-    }
-   ]
+  ],
+  "audio": {
+    "src": "audio/top_stories-6e4853b09b.mp3",
+    "hash": "6e4853b09b812b8414ef43e5be0eeea012cf06f9",
+    "duration": 1089.5,
+    "voice": "Kokoro (af_heart)"
   }
- ],
- "audio": {
-  "src": "audio/top_stories-6e4853b09b.mp3",
-  "hash": "6e4853b09b812b8414ef43e5be0eeea012cf06f9",
-  "duration": 1089.5,
-  "voice": "Kokoro (af_heart)"
- }
 }
