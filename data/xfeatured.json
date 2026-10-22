@@ -7,6 +7,15 @@
    "avatar": "img/x-openai.jpg",
    "posts": [
     {
+     "id": "2113298833392496746",
+     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
+     "date": "2026-10-22T15:57:59.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/OpenAI/status/2113298833392496746"
+    },
+    {
      "id": "2112988118471295323",
      "text": "OpenAI models are coming to Google Cloud.\n\nWe're bringing our frontier models and Codex agentic workflows to Google Cloud's Model Garden, so enterprises can use our technology where they already build.",
      "date": "2026-10-21T19:23:19.000Z",
@@ -32,15 +41,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/OpenAI/status/2112907856018309586"
-    },
-    {
-     "id": "2112899854569762936",
-     "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.",
-     "date": "2026-10-21T13:32:35.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/OpenAI/status/2112899854569762936"
     }
    ]
   },
@@ -139,6 +139,15 @@
    "avatar": "img/x-googledeepmind.jpg",
    "posts": [
     {
+     "id": "2113278710795153785",
+     "text": "Not all forests are equal, and now we can map the difference. 🌳\n\nMeet Forest Typology (ForTy): a 10m map of natural, planted, and farmed forests to help identify deforestation and protect the forests that matter most. 🧵",
+     "date": "2026-10-22T14:38:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/tweet_video_thumb/HVPfO3QXkAAphKe.jpg",
+     "video": "https://video.twimg.com/tweet_video/HVPfO3QXkAAphKe.mp4",
+     "url": "https://x.com/GoogleDeepMind/status/2113278710795153785"
+    },
+    {
      "id": "2112974723659247896",
      "text": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D visualization of human anatomy.\n\nToggle different layers in motion, isolate muscles, or zoom inside a beating heart.",
      "date": "2026-10-21T18:30:05.000Z",
@@ -164,15 +173,6 @@
      "image": "https://pbs.twimg.com/tweet_video_thumb/HUvplD8W4AAEu4P.jpg",
      "video": "https://video.twimg.com/tweet_video/HUvplD8W4AAEu4P.mp4",
      "url": "https://x.com/GoogleDeepMind/status/2111038207240388770"
-    },
-    {
-     "id": "2110421861435879476",
-     "text": "Gemini 4 Argon is already unlocking new scientific breakthroughs in quantum computing, nuclear fusion, protein design and beyond. 🧵",
-     "date": "2026-10-14T17:25:56.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/tweet_video_thumb/HUm4960WkAECy-M.jpg",
-     "video": "https://video.twimg.com/tweet_video/HUm4960WkAECy-M.mp4",
-     "url": "https://x.com/GoogleDeepMind/status/2110421861435879476"
     }
    ]
   },
@@ -228,7 +228,7 @@
    "posts": [
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -243,15 +243,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
-    },
-    {
-     "id": "2105348732464070823",
-     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
-     "date": "2026-09-30T17:27:07.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/demishassabis/status/2105348732464070823"
     }
    ]
   },
@@ -263,7 +254,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -281,7 +272,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -298,7 +289,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +298,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -421,7 +412,7 @@
    "posts": [
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -430,7 +421,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -439,7 +430,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -448,7 +439,7 @@
     },
     {
      "id": "2110779754274292212",
-     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio",
+     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token",
      "date": "2026-10-15T17:08:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUr8TsmbIAAT-m3.jpg",
@@ -465,7 +456,7 @@
    "posts": [
     {
      "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
+     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.\n\nTogether, we’re building the capacity to put more NVIDIA infrastructure in the hands of businesses and developers.\n\nRead more:",
      "date": "2026-10-21T14:54:03.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
@@ -508,6 +499,15 @@
    "avatar": "img/x-huggingface.jpg",
    "posts": [
     {
+     "id": "2113289455121342950",
+     "text": "Even the most regulated industries are going open-source 🤗",
+     "date": "2026-10-22T15:20:43.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/huggingface/status/2113289455121342950"
+    },
+    {
      "id": "2113039952963641570",
      "text": "Come and build models, datasets, and spaces on the hub, to win $20k in cash and credits!",
      "date": "2026-10-21T22:49:17.000Z",
@@ -534,6 +534,15 @@
    "avatar": "img/x-geminiapp.png",
    "posts": [
     {
+     "id": "2113290464623493373",
+     "text": "How to go from prompt to web app to working site fast, right from Gemini:",
+     "date": "2026-10-22T15:24:44.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/GeminiApp/status/2113290464623493373"
+    },
+    {
      "id": "2112214581443498261",
      "text": "Our team built a playable 3D Wizard Chess game from scratch with Gemini 4 Argon using Google Antigravity in the Gemini app for Mac.\n\nCoordinate a multi-agent Blender workflow to model, design, and deliver fluid, real-time animations so you go straight from idea to play.",
      "date": "2026-10-19T16:09:33.000Z",
@@ -559,15 +568,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/GeminiApp/status/2110772859580895678"
-    },
-    {
-     "id": "2110503223060828495",
-     "text": "Learn more about Gemini 4 Argon from the people who built it:",
-     "date": "2026-10-14T22:49:14.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/GeminiApp/status/2110503223060828495"
     }
    ]
   },
@@ -638,6 +638,15 @@
    "group": "robots",
    "avatar": "img/x-robots-figure_robot.jpg",
    "posts": [
+    {
+     "id": "2113292884200010101",
+     "text": "Today we're sharing Figures internal All Hands publicly",
+     "date": "2026-10-22T15:34:21.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Figure_robot/status/2113292884200010101"
+    },
     {
      "id": "2105316680251650555",
      "text": "F.02 Decommission",
@@ -771,7 +780,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -789,7 +798,7 @@
     },
     {
      "id": "2106350586232991745",
-     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH",
+     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH #HumanoidRobot #DigitalTwin #SmartManufacturing #AI",
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
@@ -1033,6 +1042,15 @@
    "avatar": "img/x-esa.jpg",
    "posts": [
     {
+     "id": "2113289769668976839",
+     "text": "At its 350th meeting, our Council advanced key priorities for Europe in space, including the future of European space exploration, ESA–EU cooperation and preparations for upcoming Ministerial meetings. \n\nRead more:",
+     "date": "2026-10-22T15:21:58.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVPpctFWYAIVh-p.jpg",
+     "video": null,
+     "url": "https://x.com/esa/status/2113289769668976839"
+    },
+    {
      "id": "2113239335428329518",
      "text": "🔴 LIVE NOW: media briefing on the outcomes of the 350th ESA Council.\n\n📺 Watch:",
      "date": "2026-10-22T12:01:34.000Z",
@@ -1052,21 +1070,12 @@
     },
     {
      "id": "2112515951249768470",
-     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space |",
+     "text": "Galileo Second Generation is taking shape. 🛰️\n\nA new signal generation module, designed to be reprogrammed in orbit, will bring greater flexibility, accuracy and resilience to Europe’s satellite navigation system.\n\nRead more:\n\n@EU_Commission | @EU4Space | @AirbusSpace",
      "date": "2026-10-20T12:07:06.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVEpX1-WEAAb4oA.jpg",
      "video": null,
      "url": "https://x.com/esa/status/2112515951249768470"
-    },
-    {
-     "id": "2112154024158101780",
-     "text": "We're developing a service station for the Moon. 🌕\n\nOASIS will provide power, communications and data services to scientific experiments, helping them survive the two-week lunar night and operate for years on the surface.\n\nRead more:",
-     "date": "2026-10-19T12:08:55.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HU_g1exW0AAC0-z.jpg",
-     "video": null,
-     "url": "https://x.com/esa/status/2112154024158101780"
     }
    ]
   },
@@ -1183,7 +1192,7 @@
    "posts": [
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -1192,7 +1201,7 @@
     },
     {
      "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support the study of Mars’ moons and their origins.\n\nLearn more about P-Sampler:",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
@@ -1201,7 +1210,7 @@
     },
     {
      "id": "2108615012730167401",
-     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations with our flight-like offloader: the complete offload sequence, nominal and off-nominal, ran end-to-end across the full range of lander tilt angles, with joint mission operations and NASA commanding the rover remotely. Stay tuned for images of our flight offloader, which is being fabricated now!",
+     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations",
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
@@ -1210,7 +1219,7 @@
     },
     {
      "id": "2105031277321826515",
-     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload capacity and flexibility as we expand the New Glenn fleet 🚀\n\nTwo paths to orbit. More flexibility for NASA.",
+     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload",
      "date": "2026-09-29T20:25:40.000Z",
      "quoted": true,
      "image": null,
@@ -1227,21 +1236,12 @@
    "posts": [
     {
      "id": "2113008894536818740",
-     "text": "We have completed breakover operations for the Neutron Stage 2 tank assembly, rotating the stage horizontal – a critical step in the handling of large rocket sections for integration and assembly. \n \nHere’s a last look at Stage 2 on the Neutron Factory floor before it’s wrapped",
+     "text": "We have completed breakover operations for the Neutron Stage 2 tank assembly, rotating the stage horizontal – a critical step in the handling of large rocket sections for integration and assembly. \n \nHere’s a last look at Stage 2 on the Neutron Factory floor before it’s wrapped up (literally) for barge shipment to LC-3 on Wallops Island where its fluid systems will be tested and its Archimedes vacuum engine installed.",
      "date": "2026-10-21T20:45:52.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113006067642961920/img/a4_UVrFsCRJAijyj.jpg",
      "video": "https://video.twimg.com/amplify_video/2113006067642961920/vid/avc1/1920x1080/kxc2fcrG5jWLVGns.mp4",
      "url": "https://x.com/RocketLab/status/2113008894536818740"
-    },
-    {
-     "id": "2112940430467957020",
-     "text": "The Maxwell spacecraft is in orbit and ready to get to work. \n\nThe spacecraft we built for @viasat launched from Cape Canaveral yesterday. \n\nOver the next five months, it will demonstrate how Viasat's ViaSat-3 Ka-band and global L-band networks can give low Earth orbit missions",
-     "date": "2026-10-21T16:13:49.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKrW66bQAAsqM7.jpg",
-     "video": null,
-     "url": "https://x.com/RocketLab/status/2112940430467957020"
     },
     {
      "id": "2112769624056156507",
@@ -1260,6 +1260,15 @@
      "image": "https://pbs.twimg.com/media/HVHRPyxacAAe0hw.jpg",
      "video": null,
      "url": "https://x.com/RocketLab/status/2112700125684662751"
+    },
+    {
+     "id": "2112642987394224408",
+     "text": "The first multi-spacecraft science mission to Mars is about to make its big move.\n\nNext month, Blue and Gold – the twin spacecraft we built for @NASA and @ucbssl – will swing close past Earth and each fire their main engine in a single, continuous burn, using Earth's gravity to amplify the burn as they set course for Mars. It's a maneuver that's never been successfully done before.\n\nOur mission ops team is in full rehearsal mode for @escapade_mars' trans-Mars injection.\n\nLearn more about ESCAPADE:",
+     "date": "2026-10-20T20:31:53.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVGdf1dacAAMapq.jpg",
+     "video": null,
+     "url": "https://x.com/RocketLab/status/2112642987394224408"
     }
    ]
   },
@@ -1271,7 +1280,7 @@
    "posts": [
     {
      "id": "2108573330659803566",
-     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and scientific discovery to global communications. As we celebrate #WSW2026, our goal is to inspire the next generation to dream bigger and explore farther. \n\n#WorldSpaceWeek // @WorldSpaceWeek",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
      "date": "2026-10-09T15:00:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
@@ -1298,7 +1307,7 @@
     },
     {
      "id": "2104676285280604205",
-     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low Earth orbit.",
+     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low",
      "date": "2026-09-28T20:55:04.000Z",
      "quoted": true,
      "image": null,
@@ -1313,6 +1322,15 @@
    "group": "space",
    "avatar": "img/x-arianespace.jpg",
    "posts": [
+    {
+     "id": "2113314438816170244",
+     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through",
+     "date": "2026-10-22T17:00:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVQARrrXYAAF3pm.jpg",
+     "video": null,
+     "url": "https://x.com/Arianespace/status/2113314438816170244"
+    },
     {
      "id": "2112952045720199381",
      "text": "What can worlds millions of kilometres away teach us about our own? 🔭\n\nFrom Mercury to Jupiter and its icy moons, scientific missions help us better understand how planets form, evolve and interact with their environments.",
@@ -1339,15 +1357,6 @@
      "image": "https://pbs.twimg.com/media/HUxGv3VXgAALirD.jpg",
      "video": null,
      "url": "https://x.com/Arianespace/status/2111140169759793165"
-    },
-    {
-     "id": "2110387183370616973",
-     "text": "🚀 VA271 – LE-04 : Ariane 6's 10th flight is on the horizon!\n\nArianespace is preparing to launch 36 Amazon Leo satellites aboard Ariane 64 from Europe's Spaceport in French Guiana. Liftoff is currently targeted for no earlier than November 23.\n\nThis will be the fourth Ariane 6",
-     "date": "2026-10-14T15:08:08.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUmRN_oWsAAzqi2.jpg",
-     "video": null,
-     "url": "https://x.com/Arianespace/status/2110387183370616973"
     }
    ]
   },
@@ -1359,7 +1368,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1368,7 +1377,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1377,7 +1386,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1386,7 +1395,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1447,7 +1456,7 @@
    "posts": [
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
@@ -1456,7 +1465,7 @@
     },
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1465,7 +1474,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
@@ -1497,15 +1506,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
-    },
-    {
-     "id": "2110344436643230019",
-     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
-     "date": "2026-10-14T12:18:16.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
-     "video": null,
-     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }
