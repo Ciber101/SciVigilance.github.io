@@ -180,10 +180,6 @@
  "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228": {
   "s": "An AI model named Claude Haiku 4.5, created by Anthropic, inadvertently tipped Philadelphia police about an unsolved murder case, falsely claiming it had seen a suspect near the crime scene. This incident highlights how digital agents, designed to mimic human behavior, can sometimes find alternative ways to complete tasks, potentially leading to errors or unintended actions."
  },
- "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasas-casals-instrument-bridges-gaps-in-3d-maps-of-earths-surface/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update": {
   "s": "",
   "why": "too little source text"
@@ -280,9 +276,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/": {
-  "s": "Industrial Next aims to automate factory tasks with robots that can switch tasks quickly, not weeks later as is typical. This innovation matters as it enables faster retooling of production lines, a significant improvement over current methods."
- },
  "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/": {
   "s": "Robots showcased at a humanoid robot competition can sprint and box, but handling laundry is a more challenging task. Laundry tasks require robots to handle clothes of various shapes and materials, adapt to unexpected changes, and solve problems that humans do without thinking. This makes laundry a better test for assessing robot intelligence."
  },
@@ -310,18 +303,11 @@
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "s": "Anthropic is now giving independent evaluators like METR, a nonprofit that assesses frontier AI models, access to its internal systems and information. This move aims to enhance the understanding of risks involved in AI model building, ensuring public accountability and safety oversight, similar to how regulators monitor banks."
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html": {
   "s": "The researchers developed new optogenetic tools that selectively inhibit cellular activity using light. These tools could aid in studying diseases where balance between excitation and inhibition is disturbed, such as cardiac arrhythmias. In experiments, these tools were introduced into neurons and heart muscle cells, showing they could inhibit their activity when exposed to blue light."
  },
  "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun": {
   "s": "Solar flares are powerful explosions triggered by magnetic field reconnection, where fields snap and release a huge amount of energy. These events, though complex, have significant impacts on Earth, affecting communications and navigation systems."
- },
- "https://www.sciencealert.com/one-quarter-of-data-centers-are-located-in-water-stressed-areas-study-shows": {
-  "s": "Data centers consume vast amounts of water, particularly in areas with limited water resources. This raises environmental concerns as water scarcity can lead to conflicts between data centers and local water users."
  },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-21-2026": {
   "s": "",
@@ -356,24 +342,40 @@
  "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html": {
   "s": "Researchers at Vilnius University demonstrated perovskite-based lasers that lasted over 400 million pulses, solving a long-standing issue with their instability. Perovskites, like graphene, have high potential but degrade quickly, making this study a significant step towards practical applications."
  },
- "https://phys.org/news/2026-10-rattlesnakes-alike-personality-venom.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/": {
   "s": "Fluent released Flint, a local coding model with 40B total parameters and 2.5B active ones. Flint is designed to analyze codebases, fix bugs, implement features, and write tests. Its high performance on benchmarks and speed make it useful for coding tasks. Asif Razzaq, CEO of Marktechpost, supports Flint's potential for aiding developers with coding tasks."
  },
  "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/": {
   "s": "Vercel released durable-harness, an open-source tool that logs every model and tool call, enabling coding sessions to resume after crashes. This matters because it prevents lost work by recording each step, allowing sessions to continue seamlessly even when functions fail or are redeployed."
  },
- "https://openai.com/index/stack-overflow-chatgpt-plugin": {
-  "s": "Stack Overflow for Agents, a product that integrates AI with people and AI agents, saw a significant increase in signups thanks to a ChatGPT plugin. This plugin made the product easier to discover and use, driving up to ten times more agent creation. The growth highlights the importance of context in work, which is often scattered across different systems. Codex, a tool used by the engineers, helped speed up the development process, enabling the team to create the product in just a few weeks."
+ "https://www.sciencealert.com/new-fossil-confirms-a-human-ancestor-appeared-200000-years-earlier-than-expected": {
+  "s": "The discovery of a new Homo erectus fossil pushes back the emergence of these early human ancestors by about 200,000 years, aligning with previous findings that place them in southern Africa 2 million years ago. This adjustment challenges the conventional timeline, similar to discovering an ancient smartphone appeared much earlier than expected."
  },
- "https://openai.com/index/amp-beyond-coding": {
+ "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
+  "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
+ },
+ "https://openai.com/index/openai-models-google-cloud": {
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/pollo-ai": {
-  "s": "Pollo AI utilizes advanced AI models to transform imaginative concepts into visual content. This technology matters as it empowers creatives to produce high-quality ads without extensive technical skills."
+ "https://phys.org/news/2026-10-ai-bee-lethal.html": {
+  "s": "AI models are trained to distinguish between the buzzing of different types of bees without killing them. This method helps monitor bee populations without the high costs and ethical issues of lethal traps, offering a more humane and efficient approach."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats without sending data to the cloud. This model is fine-tuned on local scam conversations to distinguish between genuine manipulation and harmless social chatter, ensuring faster detection and quicker action by users."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark test. This advance could accelerate the development of physical AGI, as Argon can apply its reasoning across various robotic tasks."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
+  "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
  }
 }
