@@ -5,9 +5,6 @@
  "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
   "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
  },
- "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015": {
-  "s": "Corporate leaders show strong commitment to sustainability, but governance is weak. External disruptions like tariffs and policy shifts prevent companies from fully executing their sustainability plans."
- },
  "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/": {
   "s": "Fungi in soil trade minerals with plants, enriching the soil and storing carbon. This underground network, unseen by humans, evolved over 450 million years ago. Scientists are now studying how fungi without brains manage these complex transactions, revealing new insights into soil health and carbon storage."
  },
@@ -162,9 +159,6 @@
  "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/": {
   "s": "Kushant Patel from Brookhaven National Laboratory works on software that enables robots to navigate and interact with their environment, particularly in scientific facilities like particle accelerators. His research includes teaching robots to map and inspect nuclear material, and developing control systems for advanced synchrotron beamlines."
  },
- "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/": {
-  "s": "NASA JPL, founded in Pasadena in 1936, pioneered rocket propulsion tests that led to the first U.S. satellite Explorer 1, discovering Earth's protective radiation belts. Over 90 years, JPL has achieved numerous firsts, from lunar missions to Mars rovers, setting the stage for future exploration."
- },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
   "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
  },
@@ -176,9 +170,6 @@
  },
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
- },
- "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun": {
-  "s": "Solar flares are powerful explosions triggered by magnetic field reconnection, where fields snap and release a huge amount of energy. These events, though complex, have significant impacts on Earth, affecting communications and navigation systems."
  },
  "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/": {
   "s": "NASA conducted a hot fire test of RS-25 engine No. 10001 on October 21 at NASA's Stennis Space Center. This test is important because it validates the new thermal protection system and provides data to improve engine performance and reliability for future Artemis missions."
@@ -220,10 +211,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
  },
@@ -238,19 +225,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases": {
   "s": "If approved, a CAR T cell therapy would be the first treatment for stiff person syndrome. It could change Lynn Montgomery-Haga's life, giving her back mobility after years of debilitating disease."
  },
  "https://www.sciencedaily.com/releases/2026/10/261021231250.htm": {
   "s": "Birds in cities react differently to men and women, with females being approached closer before flight initiation. The study's findings raise questions about how birds perceive humans, but scientists have not yet determined the specific characteristics birds recognize or the reasons for the behavior."
- },
- "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": {
   "s": "Scientists at Oxford have observed how viruses build themselves molecule by molecule, revealing a simple process of trial and error that leads to complex structures. This discovery offers insights into how viral proteins consistently form correct structures, potentially leading to new medical treatments."
@@ -300,23 +279,11 @@
  "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
   "s": "Vincent van Gogh painted \"The Starry Night\" in 1889. Now researchers say they have identified the specific night sky the artist used. This suggests the painting was based on real observations rather than just van Gogh's imagination, challenging the conventional view that the work was purely a creative expression."
  },
- "https://www.universetoday.com/articles/supernova-explosions-first-aided-then-later-impeded-the-epoch-of-reionization": {
-  "s": "Some high-energy supernovae explosions helped end the Dark Ages by reionizing neutral hydrogen, allowing light to travel freely. However, the exact role of these supernovae in the Epoch of Reionization remains unclear."
- },
  "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/": {
   "s": "Cohere released Rerank 5, offering two tiers with a 32K context window, passage-level context extraction, and calibrated relevance scores. This matters because it improves search quality, reducing token usage and enhancing accuracy, particularly useful for reasoning-heavy queries and long documents. It also supports multiple languages and semi-structured data, and teams can adjust the model's threshold for relevance scores."
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot, a robot that excels at mobility and ease of use, to keep people safe. Spot's agility and capabilities, such as climbing stairs and navigating tight spaces, make it a valuable tool for various tasks including disaster search and rescue, hostage situations, and drug lab investigations. Its features like a manipulator arm and speaker, allow operators to communicate and search safely from a distance, reducing the risk to human personnel."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "The new robot hands for Atlas, a humanoid robot, have 13 degrees of freedom, enabling more complex movements and tasks. This matters because it addresses the trade-offs in hand design, offering dexterity, strength, and ruggedness, crucial for practical work."
- },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure reliability in warehouse environments. She simulates years of wear and tear on robot parts in weeks by running tests with more aggressive forces than the robot would experience in real use. This helps identify potential issues early, ensuring the robot can work predictably over its lifetime."
- },
- "https://phys.org/news/2026-10-microplastics-sediment-decades-human-worldwide.html": {
-  "s": "In a review article, researchers found microplastics in sediment layers, indicating decades of human activity. This matter matters because microplastics serve as markers for the Anthropocene, a proposed new epoch shaped by human influence, which is still under debate."
  },
  "https://www.space.com/stargazing/solar-eclipses/the-2027-total-solar-eclipse-will-plunge-these-10-ancient-egyptian-temples-and-monuments-into-darkness": {
   "s": "The 2027 total solar eclipse will darken some of Egypt's most impressive ancient sites, including temples and tombs. This event matters as it highlights the alignment of celestial events with historical landmarks, offering a unique opportunity to study the impact of eclipses on ancient structures."
@@ -327,14 +294,8 @@
  "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon": {
   "s": "Artemis II commander Reid Wiseman experienced fear during his mission when the spacecraft traveled farther from Earth than expected. This moment highlighted the dangers and unpredictability of space travel."
  },
- "https://www.sciencealert.com/a-strange-radio-signal-in-the-far-reaches-of-the-milky-way-is-behaving-like-nothing-else-in-the-galaxy": {
-  "s": "Astronomers have observed an object called VT J1906+0849, located far beyond the Milky Way's spiral arm, that has been continuously bright in radio waves for over two decades. This is unusual because most transient radio sources observed in the sky change on timescales of days to months, not decades."
- },
  "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets": {
   "s": "Two disks in one: Some supermassive black holes (SMBH) produce jets, despite having thin, cold accretion disks. This is puzzling because the Blandford–Znajek (BZ) mechanism, which relies on large-scale magnetic fields, typically requires thick, hot accretion disks. New research suggests that even thin disks can launch jets, challenging the current understanding of how these jets are powered."
- },
- "https://phys.org/news/2026-10-parasite-humanity-key-protein-disabled.html": {
-  "s": "The discovery of a protein named DDP in a Virginia Tech-led study shows how Toxoplasma gondii parasites, carried by one-third of humanity, reproduce. By disabling this protein, researchers found the parasites could no longer multiply. This finding offers a potential pathway for developing treatments that target the parasite without harming human cells."
  },
  "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints": {
   "s": "",
@@ -347,32 +308,80 @@
  "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes": {
   "s": "Observations show that some supermassive black holes in galactic centers move away from the center after their galaxies merge, swinging back and forth like a pendulum. This phenomenon, predicted by theory, suggests the black holes receive a powerful kick from gravitational waves during the merger. The new research provides statistical evidence for these recoiling SMBH, indicating they can remain active for millions of years, potentially observable as quasars."
  },
- "https://phys.org/news/2026-10-clustering-polymers-assumptions.html": {
-  "s": "A discovery about how charged polymers separate in water has challenged long-held assumptions in polymer science, with implications for health and disease. The research shows new factors influencing these separations, adding urgency to understanding how these processes affect biological systems."
- },
  "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values": {
   "s": "Brain scans show a common mental map for comparing values of numbers, regardless of whether they are whole or fractions. This map helps in mentally assessing the relative sizes of numbers."
- },
- "https://phys.org/news/2026-10-years-size-view-arctic-cloud.html": {
-  "s": "As the climate warms, the Arctic's cloud-forming particles may either rise or fall, depending on the region. A new study suggests dividing the Arctic into three parts, each with distinct aerosol and cloud conditions."
  },
  "https://www.livescience.com/animals/snakes/watch-bizarre-snake-cartwheel-away-from-danger-at-more-than-12-feet-per-second": {
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-nontoxic-compound-safer-3d-advanced.html": {
-  "s": "Scientists from Nanyang Technological University have created a new type of light-activated compounds that could make 3D printing safer and more versatile. These compounds are not toxic and work better than current alternatives, addressing a major industry issue."
- },
- "https://phys.org/news/2026-10-dark-side-energy-transition-renewable.html": {
-  "s": "The study reveals that large energy corporations use sustainability narratives to legitimize renewable energy projects, but in practice, these projects often exclude local communities from fair economic and financial returns. This exclusion is due to corporations defining what counts as \"value\" in the energy transition, often ignoring the fundamental values of local communities."
- },
  "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/": {
   "s": "Liquid AI developed RIPL, an engine for faster real-time inference of its large language models. This matters because current serving stacks are too slow for many tasks requiring quick answers, such as search ranking and payment authorization. RIPL aims to reduce latency to less than a second, addressing a gap in technology for faster AI processing."
  },
- "https://openai.com/index/third-moment-research": {
-  "s": "Such long-term use benefits these agents, allowing them to learn and adapt over time, potentially enhancing their effectiveness in security tasks."
- },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
+ },
+ "https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html": {
+  "s": "With rising temperatures and increasing drought, crop-growing seasons are becoming shorter in many regions. Swedish scientists have made advances in engineering more efficient photosynthesis, aiming to adapt crops for climate change. Their study focused on bacterial Rubisco, finding promising mutations that could help improve plant Rubisco, aiding in the design of better enzymes."
+ },
+ "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test": {
+  "s": "The Space Rider prototype, designed for Europe's space program, failed to deploy its parachute during a test drop, indicating a technical issue. Despite this, researchers at ESA remain optimistic it won't halt development of reusable spacecraft."
+ },
+ "https://www.sciencealert.com/scientists-just-cracked-a-quantum-mystery-thats-puzzled-physicists-for-decades": {
+  "s": "Scientists just quantified the Kondo effect in a real material through precise calculations. Previously, predicting this effect required experiments and simplified models, lacking full precision."
+ },
+ "https://www.nasa.gov/image-article/spirals-edge/": {
+  "s": "This NASA image shows NGC 1827, a spiral galaxy seen edge-on. Such galaxies are studied to test cosmological models, which often fail to match observations of small-scale structures."
+ },
+ "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
+  "s": "The design software X-Hinges reimagines everyday objects like lamps and gloves, embedding sensors that perceive and adapt to human contact. This innovation allows items to react to touch, similar to how AI agents make decisions based on instructions. However, the sensors often confused the devices, leading to errors. Researchers at MIT and Tianjin University developed a method to 3D print items with sensors and conductive traces that emit distinct signals, solving the confusion issue."
+ },
+ "https://openai.com/index/openai-models-google-cloud": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026": {
+  "s": "The ashes of Gene Roddenberry, creator of \"Star Trek,\" were launched into space aboard NASA's Columbia shuttle on October 22, 1992. This event mattered as it was a unique way to honor the legacy of a beloved science fiction author, sending his ashes into space."
+ },
+ "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images": {
+  "s": "The Vera Rubin Observatory's Commissioning Camera operated for seven weeks in late 2024, gathering about 16,000 exposures. This image shows a nebula 3,700 light years away, highlighting Sharpless 2-292. The camera, smaller than the observatory's Legacy Survey of Space and Time camera, still produces impressive images, satisfying anticipation for more from the Vera Rubin Observatory."
+ },
+ "https://phys.org/news/2026-10-iron-laser-driven-demagnetization.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia": {
+  "s": "Ukraine, after experiencing a disruption in its satellite communication network, has now agreed to collaborate with Nokia and ICEYE to create its own system. This move matters as it aims to regain control over its communication infrastructure, which has been compromised by external factors."
+ },
+ "https://phys.org/news/2026-10-global-database-fuller-picture-elements.html": {
+  "s": "Scientists have compiled a database of 5,474 plant samples from around the world, revealing the elements that make up plants. This comprehensive picture helps researchers understand what could happen to plants grown in different environments, such as on the moon or Mars, and is crucial for future space agriculture."
+ },
+ "https://phys.org/news/2026-10-supramolecular-route-quantum-materials.html": {
+  "s": "A joint research team created a two-dimensional structure that combines properties of honeycomb and Kagome lattices using organic molecules. This discovery revealed edge states characteristic of topological materials within this structure. The achievement matters because it opens a new avenue for designing quantum materials using organic molecules, which are more flexible than inorganic materials."
+ },
+ "https://phys.org/news/2026-10-microgreens-nutritional.html": {
+  "s": "First, researchers found adding iron to soilless growing systems makes microgreens richer in iron without affecting their growth or nutritional quality. This could help improve iron intake and combat iron deficiency. Second, adjusting the red-to-blue light ratio indoors improves microgreens' nutritional properties. Finally, using plasma-activated water boosts growth, yield, and nutritional quality of pea microgreens."
+ },
+ "https://huggingface.co/blog/microsoft/thinkingbox-training": {
+  "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
+  "s": "Boston Dynamics has joined the DoW SkillBridge program, which provides service members with job training before their discharge. This move matters as it supports military personnel in transitioning to civilian careers, aligning with Boston Dynamics' mission to deliver capable robots and help various industries."
+ },
+ "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  }
 }
