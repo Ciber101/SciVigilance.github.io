@@ -127,18 +127,6 @@
  "https://www.sciencenews.org/article/minerals-earth-geology-gabriela-farfan": {
   "s": "Gabriela Farfan, a Smithsonian geologist, studies minerals to learn about Earth's past. She investigates chemical signatures trapped in corals and other minerals, unlocking stories about ocean conditions and environmental changes. Farfan hopes visitors will appreciate the natural history of gemstones, just as they do other exhibits."
  },
- "https://www.livescience.com/physics-mathematics/extreme-record-breaking-star-system-proves-einstein-right-yet-again": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/space-exploration/satellites/russian-satellite-plays-cat-and-mouse-with-a-commercial-us-satellite-likely-used-by-ukraine-but-why-the-risky-close-encounter": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.livescience.com/health/diagnostic-dilemma-a-fighter-pilot-had-unexplained-headaches-for-over-a-year-the-cause-was-hiding-in-plain-sight": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
   "s": "At GTC Berlin, NVIDIA is presenting its new AI hardware, RTX Spark, which powers personal agents on Windows PCs. This innovation matters because it enables local AI processing, enhancing privacy and performance, and opens new possibilities for AI applications on personal devices."
  },
@@ -164,9 +152,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261020085021.htm": {
   "s": "A train was delayed in 1848 by a solar storm, not 1841 as previously thought. This revelation clarifies the earliest known case of space weather affecting technology, helping scientists understand historical disruptions caused by solar activity."
- },
- "https://www.space.com/stargazing/meteor-showers/orionid-meteor-shower-peaks-oct-21-22-2026-heres-the-best-time-to-spot-shooting-stars": {
-  "s": "Tonight, the Orionid meteor shower reaches its peak as the moonlight becomes brighter, making it harder to spot shooting stars."
  },
  "https://www.sciencedaily.com/releases/2026/10/261020085016.htm": {
   "s": "",
@@ -296,23 +281,14 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-vital-militaries-accountable-environmental-toll.html": {
-  "s": "Ahead of a major climate conference, an expert argues that reliable data on greenhouse gas emissions during wars is crucial to hold military forces, governments and individuals accountable. Understanding the scale of conflict emissions is essential to addressing the military's significant contribution to the climate crisis."
- },
  "https://www.universetoday.com/articles/there-should-be-black-holes-in-our-neighbourhood-can-we-find-them": {
   "s": "Finding stellar-mass black holes is challenging because they are isolated and don't emit much radiation. Models predict their presence, but they are hard to locate due to their subdued nature and lack of accretion. Research efforts, like those by Abdurakhmon Nosirov, aim to detect them in Gaia data, but they remain elusive."
- },
- "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html": {
-  "s": "Scientists demonstrated for the first time discrete one-dimensional solitons in an optically induced photonic lattice made of warm rubidium vapor. This work opens new research avenues in nonlinear optics and complex quantum systems."
  },
  "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/": {
   "s": "Fluent released Flint, a local coding model with 40B total parameters and 2.5B active ones. Flint is designed to analyze codebases, fix bugs, implement features, and write tests. Its high performance on benchmarks and speed make it useful for coding tasks. Asif Razzaq, CEO of Marktechpost, supports Flint's potential for aiding developers with coding tasks."
  },
  "https://www.marktechpost.com/2026/10/21/vercel-durable-harness-crash-proof-coding-agents/": {
   "s": "Vercel released durable-harness, an open-source tool that logs every model and tool call, enabling coding sessions to resume after crashes. This matters because it prevents lost work by recording each step, allowing sessions to continue seamlessly even when functions fail or are redeployed."
- },
- "https://www.sciencealert.com/new-fossil-confirms-a-human-ancestor-appeared-200000-years-earlier-than-expected": {
-  "s": "The discovery of a new Homo erectus fossil pushes back the emergence of these early human ancestors by about 200,000 years, aligning with previous findings that place them in southern Africa 2 million years ago. This adjustment challenges the conventional timeline, similar to discovering an ancient smartphone appeared much earlier than expected."
  },
  "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
   "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
@@ -341,10 +317,6 @@
  "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/": {
   "s": "An organization installed and configured Whisper and Cactus Compute libraries, including their respective weights and engine libraries, on a system. This setup enabled transcription of a clip, demonstrating the models' capabilities in speech processing tasks."
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron": {
   "s": "Stars are forming inside dense clumps of gas in a nebulous region called N159, located far in the Large Magellanic Cloud. This process is marked by the intense ultraviolet radiation from massive stars ionising the gas, creating bright emission nebulae."
  },
@@ -363,5 +335,45 @@
  "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-sapphire-grown-semiconductor-bandgap.html": {
+  "s": "A team led by Cornell University researchers has developed a semiconductor film that maintains control over its conductivity even at very wide bandgaps, which are crucial for handling higher voltages. This breakthrough allows for more efficient electronics, as it enables the use of materials with wider bandgaps without sacrificing the ability to control electrical flow."
+ },
+ "https://www.sciencealert.com/herpes-virus-appears-to-hijack-the-brains-immune-cells-and-it-could-have-serious-consequences": {
+  "s": "The herpes virus appears to reprogram brain immune cells called microglia, potentially leading to inflammation and cognitive decline. This research suggests the virus can hijack these cells, which normally help maintain brain health, and may contribute to diseases like Alzheimer's."
+ },
+ "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/planet-earth/climate-change-is-literally-altering-the-shape-of-our-planet": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nature.com/articles/s41467-026-78463-3": {
+  "s": "Ocean acidification caused by increased CO2 levels reduced the availability of silicon, an essential nutrient for diatoms, leading to a decline in ocean productivity. These findings suggest that long-term CO2 effects on ocean chemistry are significant and ongoing, impacting primary productivity and potentially affecting food webs and human well-being."
+ },
+ "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html": {
+  "s": "Tiny underwater algae sway gently in water. Suddenly, a light shines on them, and they form robotic arms capable of picking up small rocks and placing them in baskets. This innovative technology uses light to power a soft robot arm, demonstrating how living cells can be integrated into functional materials."
+ },
+ "https://www.livescience.com/planet-earth/rivers-oceans/surprising-new-pattern-of-groundwater-loss-may-signal-a-turning-point-for-the-colorado-river-basin": {
+  "s": "During a severe drought, the upper part of the Colorado River Basin lost more groundwater than the lower part, even though the upper area had more natural water replenishment. This surprising pattern suggests the basin may be approaching a tipping point where groundwater depletion could become more severe."
+ },
+ "https://openai.com/index/third-moment-research": {
+  "s": "Such extended use enhances the agents' performance, suggesting these systems can be effective for long-term security tasks."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark, scoring 87%. This advance in capability suggests Argon can understand and solve complex physical problems without needing to be trained on specific tasks, which is crucial for robotics."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
