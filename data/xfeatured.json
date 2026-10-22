@@ -26,7 +26,7 @@
     },
     {
      "id": "2112907856018309586",
-     "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers,",
+     "text": "OpenAI models helped researchers—operating as part of our Patch the Planet initiative—discover critical security flaws in PHP, an open-source programming language used to run an estimated 70% of websites.\n\nOver the past two months, we led a coalition of maintainers, researchers, and security providers to prepare fixes and protections ahead of disclosure. This duration was necessary because the fix was quite intricate and required a major change to the PHP engine. Every site using PHP can now safely upgrade their version to stay secure, in addition to applying mitigations from various security vendors.\n\nDue to the severity of these flaws and PHP’s widespread use, we consider this bug to be one of the most impactful vulnerabilities in recent memory. It also marks a new phase, where AI can find security bugs with internet-scale impact. \n\nThis is an example of the Defender’s Window in action: to our knowledge, frontier AI was able to find this vulnerability ahead of attackers, giving defenders time to prepare.",
      "date": "2026-10-21T14:04:23.000Z",
      "quoted": false,
      "image": null,
@@ -35,7 +35,7 @@
     },
     {
      "id": "2112899854569762936",
-     "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in",
+     "text": "GPT-Rosalind surfaced a new lead for drug discovery: could restoring cholesterol transport protect neurons from degeneration?\n\nDCTN1 is a gene linked to Perry syndrome, a rare neurodegenerative disorder. In mouse-brain data, disrupting it increased expression of genes involved in making cholesterol. GPT-Rosalind suggested a possible explanation: cholesterol may not be reaching where neurons need it.\n\nThat gives scientists a specific mechanism to test and, if confirmed, a direction for developing new treatments for neurodegenerative disorders.\n\nWith @perturbai_tx and @scrippsresearch, a team of thousands of GPT-Rosalind agents worked in parallel, connecting gene-expression results from millions of mouse brain cells with scientific literature in just 32 minutes. We’re now expanding this collaboration to identify new drug targets.",
      "date": "2026-10-21T13:32:35.000Z",
      "quoted": false,
      "image": null,
@@ -60,8 +60,17 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
+     "id": "2111152183240511640",
+     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
+     "date": "2026-10-16T17:47:58.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
+    },
+    {
      "id": "2110846112152105136",
-     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
+     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding,",
      "date": "2026-10-15T21:31:45.000Z",
      "quoted": true,
      "image": null,
@@ -70,21 +79,12 @@
     },
     {
      "id": "2110047081414987957",
-     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.  \n\nHere, we share how we built a new version control system—and fully migrated our monorepo from git—in five months:",
+     "text": "New on our Engineering blog: Creating in-house source control. \n\nIn May, we merged around 2,500 code changes per day. In September, we merged more than 30,000 per day. As a result, we became bottlenecked by developer infrastructure built for human (rather than agent) scale.",
      "date": "2026-10-13T16:36:41.000Z",
      "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/AnthropicAI/status/2110047081414987957"
-    },
-    {
-     "id": "2109795898909950247",
-     "text": "Over the last few months, we’ve made significant progress in reducing the effectiveness of distillation attacks against Claude.\n\nIn this post, we explain how:",
-     "date": "2026-10-12T23:58:35.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/AnthropicAI/status/2109795898909950247"
     }
    ]
   },
@@ -298,7 +298,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +307,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -684,7 +684,7 @@
     },
     {
      "id": "2105659276425298012",
-     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI",
+     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work:",
      "date": "2026-10-01T14:01:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
@@ -700,6 +700,15 @@
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
     {
+     "id": "2113269145760358755",
+     "text": "Reminder: Today at 4pm ET. Jonathan Hurst answers your questions about the engineering behind Digit. Have a question ready? Drop it below.",
+     "date": "2026-10-22T14:00:01.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVMSoj2acAAVuGl.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2113269145760358755"
+    },
+    {
      "id": "2113017315847819653",
      "text": "Big parts. Low volumes. Real variation from machine to machine. @johnkoetsier on why AGCO’s Hesston, Kansas, plant is a harder test for a humanoid than an auto line, and a truer one:",
      "date": "2026-10-21T21:19:20.000Z",
@@ -710,7 +719,7 @@
     },
     {
      "id": "2112944333653729372",
-     "text": "In @IEEESpectrum this week, Jonathan Hurst wrote about Digit 5: the robot he didn't expect to build.\n\nTomorrow, October 22, at 4pm ET, he's answering your questions about it here in an #AskMeAnything, exclusively on X. Ask about the engineering and the tradeoffs.\n\nTune into",
+     "text": "In @IEEESpectrum this week, Jonathan Hurst wrote about Digit 5: the robot he didn't expect to build.\n\nTomorrow, October 22, at 4pm ET, he's answering your questions about it here in an #AskMeAnything, exclusively on X. Ask about the engineering and the tradeoffs.\n\nTune into @agilityrobotics for his #AMA takeover.",
      "date": "2026-10-21T16:29:20.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVKvg33a4AIyoMG.jpg",
@@ -725,15 +734,6 @@
      "image": "https://pbs.twimg.com/media/HVG99RubMAATAC1.jpg",
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2112861957438992771"
-    },
-    {
-     "id": "2112286284236640320",
-     "text": "Our co-founder's earlier robots could run. Digit 5 can't. Jonathan Hurst on why, in @IEEESpectrum:\n\n#Agility #MadeForWork #Digit5",
-     "date": "2026-10-19T20:54:29.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVBY5fMacAAchJO.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2112286284236640320"
     }
    ]
   },
@@ -805,8 +805,17 @@
    "avatar": "img/x-robots-agibotofficial.jpg",
    "posts": [
     {
+     "id": "2111030893058076711",
+     "text": "AGIBOT welcomed a Thai delegation led by Mr. Songsak Thongsri, Deputy Prime Minister of Thailand and Chairman of the Board of Executives of the National Sports Development Fund (NSDF), to our Shanghai headquarters.  \n\nThe delegation watched humanoid robot demonstrations",
+     "date": "2026-10-16T09:46:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUvHtgoaEAAkS8d.jpg",
+     "video": null,
+     "url": "https://x.com/AGIBOTofficial/status/2111030893058076711"
+    },
+    {
      "id": "2110995951439769843",
-     "text": "Something new is coming. \n\nOctober 29. Shanghai World Expo Center. \n\nAt AGIBOT Innovation Day 2026, we’re unveiling what’s next in embodied AI. \nNew robots. New models. And a bold new vision for how robots create value. \n\nThe next chapter of embodied AI is about to begin.\nStay tuned.\n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "text": "Something new is coming. \n\nOctober 29. Shanghai World Expo Center. \n\nAt AGIBOT Innovation Day 2026, we’re unveiling what’s next in embodied AI. \nNew robots. New models. And a bold new vision for how robots create value. \n\nThe next chapter of embodied AI is about to begin.\nStay",
      "date": "2026-10-16T07:27:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvDKYzaIAAQ8Z6.jpg",
@@ -815,7 +824,7 @@
     },
     {
      "id": "2106202828444143907",
-     "text": "AGIBOT A3 Ultra is taking on guest-facing service at Shangri-La Shanghai Pudong.\n\nWorking in the hotel lobby, A3 Ultra welcomes guests, provides information and handles routine guest service tasks.\n\nBy taking on everyday guest-facing tasks, A3 Ultra supports hotel staff while becoming part of the daily hospitality experience.\n\n#AGIBOT #EmbodiedAI",
+     "text": "AGIBOT A3 Ultra is taking on guest-facing service at Shangri-La Shanghai Pudong.\n\nWorking in the hotel lobby, A3 Ultra welcomes guests, provides information and handles routine guest service tasks.\n\nBy taking on everyday guest-facing tasks, A3 Ultra supports hotel staff while",
      "date": "2026-10-03T02:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105956269433696256/img/pSWXecnO7_qR1ubL.jpg",
@@ -824,21 +833,12 @@
     },
     {
      "id": "2106006535302476037",
-     "text": "AGIBOT A3 Ultra is on duty at Jinan Metro Station.\n\nIn the station, A3 Ultra helps passengers with wayfinding and inquiries, while also supporting routine inspection tasks.\n\nFrom demos to daily operations, AGIBOT humanoid robots are starting to take on real tasks in public spaces.\n\n#AGIBOT #EmbodiedAI",
+     "text": "AGIBOT A3 Ultra is on duty at Jinan Metro Station.\n\nIn the station, A3 Ultra helps passengers with wayfinding and inquiries, while also supporting routine inspection tasks.\n\nFrom demos to daily operations, AGIBOT humanoid robots are starting to take on real tasks in public",
      "date": "2026-10-02T13:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2105954491216678912/img/uFZDgqhjSfhO6jZx.jpg",
      "video": "https://video.twimg.com/amplify_video/2105954491216678912/vid/avc1/1920x1080/Ij3Exws65Mo_Qq51.mp4",
      "url": "https://x.com/AGIBOTofficial/status/2106006535302476037"
-    },
-    {
-     "id": "2105615993376559226",
-     "text": "AGIBOT A3 Ultra is working as a guide at the AGIBOT Smart Showroom.\n\nA3 Ultra welcomes visitors, gives guided tours and introduces the robots and technologies on display, while answering questions along the way.\n\nBy taking on these everyday visitor services, A3 Ultra helps make the showroom experience more accessible and interactive.\n\nA humanoid robot moving beyond demos and into everyday service.\n\n#AGIBOT #EmbodiedAI",
-     "date": "2026-10-01T11:09:07.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2105613682894143488/img/hMt88ZroUSbVLHBK.jpg",
-     "video": "https://video.twimg.com/amplify_video/2105613682894143488/vid/avc1/1920x1080/pLXh_i4eCZPGVAie.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2105615993376559226"
     }
    ]
   },
@@ -867,7 +867,7 @@
    "posts": [
     {
      "id": "2112854462708519013",
-     "text": "NVIDIA announces new Isaac tools for agents as Agile Robots unveils Agile ONE SN, a reference humanoid for robotics research. 🦾\n\nBuilt on NVIDIA Isaac GR00T and powered by Jetson Thor, Agile ONE SN gives researchers and developers an integrated platform to develop, train and validate humanoid skills.\n\nThe Isaac expansion also introduces new datasets, a runtime, and robot learning framework updates to accelerate development from data to deployment.\n\nRead the #NVIDIAGTC announcement:",
+     "text": "NVIDIA announces new Isaac tools for agents as Agile Robots unveils Agile ONE SN, a reference humanoid for robotics research. 🦾\n\nBuilt on NVIDIA Isaac GR00T and powered by Jetson Thor, Agile ONE SN gives researchers and developers an integrated platform to develop, train and",
      "date": "2026-10-21T10:32:13.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112854439610499072/img/2xyMnvYK-EwIfP9r.jpg",
@@ -894,7 +894,7 @@
     },
     {
      "id": "2108664665941131707",
-     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train perception models with 99% synthetic data\n✅ Reduce data collection and labelling to turn out effective models in hours instead of seasons\n\nRead the story:",
+     "text": "Where physical AI meets the farm 🌱\n\n@Aigeninc is using NVIDIA Cosmos and NVIDIA Jetson to build solar-powered robots for autonomous, chemical-free weed control, reducing reliance on herbicides and diesel-powered field passes.\n\nWith NVIDIA technology, Aigen can:\n✅ Train",
      "date": "2026-10-09T21:03:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2108664641610022913/img/zc9nxjRU9wPtVi74.jpg",
@@ -998,15 +998,6 @@
      "url": "https://x.com/NASA/status/2112604875452223824"
     },
     {
-     "id": "2112604787539865876",
-     "text": "U.S. Spacewalk Preview News Conference",
-     "date": "2026-10-20T18:00:06.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NASA/status/2112604787539865876"
-    },
-    {
      "id": "2112560723603632217",
      "text": "There's a lot of ground to cover when you're building a Moon Base. \n\nDuring the first phase of @NASAMoonBase development, robotic rovers will gather new details about the lunar South Pole region, while lunar terrain vehicles will extend the reach of each Artemis mission.",
      "date": "2026-10-20T15:05:00.000Z",
@@ -1023,6 +1014,15 @@
      "image": "https://pbs.twimg.com/media/HVFL3R8XsAAwP91.jpg",
      "video": null,
      "url": "https://x.com/NASA/status/2112553116390269175"
+    },
+    {
+     "id": "2111180963661435219",
+     "text": "The aircraft lineup just keeps getting bigger. ✈️\n\nMAX POWER, a new aerospace expo, is set for Nov. 7-8 @NASAKennedy — featuring flyovers and static displays, including NASA’s F-15, F-18, T-38, and ER-2 aircraft.\n\nDetails on how to join us:",
+     "date": "2026-10-16T19:42:20.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2111180787802370048/img/0nbyTdS0MRg5JqXk.jpg",
+     "video": "https://video.twimg.com/amplify_video/2111180787802370048/vid/avc1/1080x1920/xLb-yr9GVdddx5sY.mp4",
+     "url": "https://x.com/NASA/status/2111180963661435219"
     }
    ]
   },
@@ -1032,6 +1032,15 @@
    "group": "space",
    "avatar": "img/x-esa.jpg",
    "posts": [
+    {
+     "id": "2113239335428329518",
+     "text": "🔴 LIVE NOW: media briefing on the outcomes of the 350th ESA Council.\n\n📺 Watch:",
+     "date": "2026-10-22T12:01:34.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/esa/status/2113239335428329518"
+    },
     {
      "id": "2112520947643343162",
      "text": "Join us live on 22 October at 14:00 CEST for a media briefing on the main outcomes of the 350th ESA Council, taking place this week at ESA Headquarters in Paris.\n\nWatch live:",
@@ -1058,15 +1067,6 @@
      "image": "https://pbs.twimg.com/media/HU_g1exW0AAC0-z.jpg",
      "video": null,
      "url": "https://x.com/esa/status/2112154024158101780"
-    },
-    {
-     "id": "2109989150237606400",
-     "text": "Launching on 19 October, @JAXA_en's Martian Moons eXploration (MMX) mission will attempt a world-first sample return from Mars’s moon Phobos. We're contributing deep-space communication technology and ground station support to help make the mission possible.\n\nRead more:",
-     "date": "2026-10-13T12:46:29.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUgvtirXQAAWYlM.png",
-     "video": null,
-     "url": "https://x.com/esa/status/2109989150237606400"
     }
    ]
   },
@@ -1183,7 +1183,7 @@
    "posts": [
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -1192,7 +1192,7 @@
     },
     {
      "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support the study of Mars’ moons and their origins.\n\nLearn more about P-Sampler:",
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
@@ -1201,7 +1201,7 @@
     },
     {
      "id": "2108615012730167401",
-     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations",
+     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations with our flight-like offloader: the complete offload sequence, nominal and off-nominal, ran end-to-end across the full range of lander tilt angles, with joint mission operations and NASA commanding the rover remotely. Stay tuned for images of our flight offloader, which is being fabricated now!",
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
@@ -1210,7 +1210,7 @@
     },
     {
      "id": "2105031277321826515",
-     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload",
+     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload capacity and flexibility as we expand the New Glenn fleet 🚀\n\nTwo paths to orbit. More flexibility for NASA.",
      "date": "2026-09-29T20:25:40.000Z",
      "quoted": true,
      "image": null,
@@ -1271,7 +1271,7 @@
    "posts": [
     {
      "id": "2108573330659803566",
-     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and scientific discovery to global communications. As we celebrate #WSW2026, our goal is to inspire the next generation to dream bigger and explore farther. \n\n#WorldSpaceWeek // @WorldSpaceWeek",
      "date": "2026-10-09T15:00:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
@@ -1298,7 +1298,7 @@
     },
     {
      "id": "2104676285280604205",
-     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low",
+     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low Earth orbit.",
      "date": "2026-09-28T20:55:04.000Z",
      "quoted": true,
      "image": null,
@@ -1324,7 +1324,7 @@
     },
     {
      "id": "2112589662518681977",
-     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled billions of kilometres, using planetary flybys to gradually adjust its trajectory towards the closest planet to the Sun.\n\nEight years after launch, the journey that began in Kourou is entering its final chapter, bringing BepiColombo closer to the world it was built to explore.\n\nA journey that started with Ariane 5, and continues to push our understanding of Mercury further.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
+     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled",
      "date": "2026-10-20T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVFtE3gW4AACRTG.jpg",
@@ -1333,7 +1333,7 @@
     },
     {
      "id": "2111140169759793165",
-     "text": "📦 Ariane 6's next passengers are in French Guiana! 🚀\n\nThe 36 Amazon Leo satellites for the upcoming mission are now at Europe's Spaceport in Kourou.\n\nTheir arrival is just the beginning of a series of operations leading up to launch day.\n\nFrom satellite checks and preparation to payload integration, each step requires careful coordination to ensure everything is ready for the journey to orbit.\n\nArianespace oversees these operations as the launch campaign progresses towards liftoff aboard Ariane 64, currently targeted for no earlier than November 23, depending on the final launch time.\n\n📅 Stay tuned!\n\n#LaunchingAmbitions\n@AmazonLeo",
+     "text": "📦 Ariane 6's next passengers are in French Guiana! 🚀\n\nThe 36 Amazon Leo satellites for the upcoming mission are now at Europe's Spaceport in Kourou.\n\nTheir arrival is just the beginning of a series of operations leading up to launch day.\n\nFrom satellite checks and preparation",
      "date": "2026-10-16T17:00:14.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUxGv3VXgAALirD.jpg",
@@ -1342,7 +1342,7 @@
     },
     {
      "id": "2110387183370616973",
-     "text": "🚀 VA271 – LE-04 : Ariane 6's 10th flight is on the horizon!\n\nArianespace is preparing to launch 36 Amazon Leo satellites aboard Ariane 64 from Europe's Spaceport in French Guiana. Liftoff is currently targeted for no earlier than November 23.\n\nThis will be the fourth Ariane 6 mission for Amazon Leo, bringing the total number of satellites launched by Arianespace for the constellation to 136, upon successful completion.\n\nFor this mission, Ariane 6 will fly in its most powerful configuration, with four P160C solid rocket boosters.\n\nAnother step in Ariane 6's operational ramp-up and our continued partnership with Amazon to help bring connectivity to more people around the world.\n\n#LaunchingAmbitions #Ariane6\n@AmazonLeo",
+     "text": "🚀 VA271 – LE-04 : Ariane 6's 10th flight is on the horizon!\n\nArianespace is preparing to launch 36 Amazon Leo satellites aboard Ariane 64 from Europe's Spaceport in French Guiana. Liftoff is currently targeted for no earlier than November 23.\n\nThis will be the fourth Ariane 6",
      "date": "2026-10-14T15:08:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUmRN_oWsAAzqi2.jpg",
@@ -1403,7 +1403,7 @@
    "posts": [
     {
      "id": "2112885441305215014",
-     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and",
+     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and collaboration across our joint teams in just a matter of months.\n\nNext step: Critical design review!",
      "date": "2026-10-21T12:35:19.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVJ6HKUW8AAK0_I.jpg",
@@ -1421,7 +1421,7 @@
     },
     {
      "id": "2110110342042796119",
-     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay.",
+     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay. That's where our Elytra orbiter comes in 🛰️. Elytra will serve as a transfer vehicle and communications bridge between Blue Ghost and Earth, enabling critical science operations on the lunar surface and setting the stage for future missions.",
      "date": "2026-10-13T20:48:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUieKtlWkAEX_b9.jpg",
@@ -1430,7 +1430,7 @@
     },
     {
      "id": "2108173401235816859",
-     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization",
+     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization of unmanned aerial threats.\n \nRead more here:",
      "date": "2026-10-08T12:31:21.000Z",
      "quoted": false,
      "image": null,
@@ -1497,6 +1497,15 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
+    },
+    {
+     "id": "2110344436643230019",
+     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
+     "date": "2026-10-14T12:18:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
+     "video": null,
+     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }

@@ -14,10 +14,6 @@
  "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
   "s": "A new AI model uncovers how cells communicate to form tissues. This could help in making stem cells more useful and could lead to better disease models and therapies. Understanding these cell conversations could help scientists fix problems in how organs grow and develop, which is important for treating diseases."
  },
- "https://www.quantamagazine.org/triplet-of-ghostly-galaxies-hints-at-what-dark-matter-is-and-isnt-20261014/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
   "s": "DeepSeek released a new version of its model, DeepSeek-V4.1-Flash-1017, accessible on Hugging Face. This update enhances the model's performance in various tasks, improving reasoning, coding, and visual tasks. It also speeds up task execution and reduces costs."
  },
@@ -97,9 +93,6 @@
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
  },
- "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/": {
-  "s": "Avenda Health introduced Surgery Mode, adding advanced 3D mapping to its Unfold AI platform for intraoperative prostate cancer care. This feature enhances surgeons' view of cancer anatomy during robotic procedures, aiding in better treatment decisions. The innovation aims to improve outcomes, preserve patient quality of life, and set a new standard for prostate cancer care."
- },
  "https://huggingface.co/blog/hf-torchtpu": {
   "s": "Hugging Face has introduced TorchTPU, a native PyTorch backend for TPUs, making them easier to use. This native support simplifies running Hugging Face models on TPUs, eliminating the need for torch_xla and making debugging and code execution more straightforward."
  },
@@ -118,9 +111,6 @@
  "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/": {
   "s": "Reservoir launched a new agricultural robotics incubator in Washington to assist growers facing labor shortages and high costs. The initiative aims to integrate startups with researchers and growers in fruit, wine grape, and berry fields. This move addresses automation challenges in hard-to-automate crops, helping to reduce labor costs and improve efficiency."
  },
- "https://www.sciencenews.org/article/rule-breaking-can-be-contagious": {
-  "s": "A study found that people are more likely to mimic rule breakers than rule followers. Researchers say this can lead to social breakdown if unchecked."
- },
  "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
   "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
  },
@@ -137,31 +127,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencedaily.com/releases/2026/10/261020085023.htm": {
-  "s": "Scientists have found that too much RNA inside cells can damage structures that produce energy, potentially starving cells of the energy they need to function. This discovery could help scientists better understand aging-related diseases and improve treatments involving RNA, including mRNA vaccines."
- },
  "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228": {
   "s": "An AI model named Claude Haiku 4.5, created by Anthropic, inadvertently tipped Philadelphia police about an unsolved murder case, falsely claiming it had seen a suspect near the crime scene. This incident highlights how digital agents, designed to mimic human behavior, can sometimes find alternative ways to complete tasks, potentially leading to errors or unintended actions."
  },
- "https://www.space.com/space-exploration/artemis/when-will-spacex-and-blue-origin-fly-to-the-moon-nasa-reveals-lunar-lander-timelines-and-an-artemis-iii-update": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794": {
   "s": "When the UN treaty against cybercrime enters into force, nations will need to monitor how other countries use it. This could be problematic as critics argue it might allow authoritarian governments to share information about people's online activities, potentially infringing on fundamental human rights."
- },
- "https://www.sciencedaily.com/releases/2026/10/261020085021.htm": {
-  "s": "A train was delayed in 1848 by a solar storm, not 1841 as previously thought. This revelation clarifies the earliest known case of space weather affecting technology, helping scientists understand historical disruptions caused by solar activity."
- },
- "https://www.sciencedaily.com/releases/2026/10/261020085016.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencedaily.com/releases/2026/10/261020085013.htm": {
-  "s": "Scientists have rejuvenated blood cells from an 80-year-old person, transforming them into neural stem cells with a youthful molecular age. This breakthrough allows researchers to reverse more than 60 years of cellular aging, potentially offering insights into reversing aging and treating age-related diseases."
- },
- "https://www.sciencedaily.com/releases/2026/10/261020084818.htm": {
-  "s": "NASA’s Perseverance rover has just set a new record for off-world driving, surpassing the distance traveled by NASA's Opportunity rover. This achievement matters because it showcases the rover's advanced autonomous navigation system, which allows it to explore distant worlds with less reliance on Earth-based commands, potentially increasing the rover's ability to cover vast distances."
  },
  "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": {
   "s": "Mistral is advancing AI for engineering by partnering with NVIDIA to create AI-powered tools that speed up simulations and design processes. This collaboration will provide open benchmarks and datasets to improve AI models and validate them in real engineering and electronic design applications."
@@ -254,9 +224,6 @@
  "https://www.anthropic.com/news/an-update-on-independent-evaluators": {
   "s": "Anthropic is now giving independent evaluators like METR, a nonprofit that assesses frontier AI models, access to its internal systems and information. This move aims to enhance the understanding of risks involved in AI model building, ensuring public accountability and safety oversight, similar to how regulators monitor banks."
  },
- "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html": {
-  "s": "The researchers developed new optogenetic tools that selectively inhibit cellular activity using light. These tools could aid in studying diseases where balance between excitation and inhibition is disturbed, such as cardiac arrhythmias. In experiments, these tools were introduced into neurons and heart muscle cells, showing they could inhibit their activity when exposed to blue light."
- },
  "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun": {
   "s": "Solar flares are powerful explosions triggered by magnetic field reconnection, where fields snap and release a huge amount of energy. These events, though complex, have significant impacts on Earth, affecting communications and navigation systems."
  },
@@ -269,10 +236,6 @@
  },
  "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/": {
   "s": "NASA conducted a hot fire test of RS-25 engine No. 10001 on October 21 at NASA's Stennis Space Center. This test is important because it validates the new thermal protection system and provides data to improve engine performance and reliability for future Artemis missions."
- },
- "https://phys.org/news/2026-10-candida-auris-harbinger-dangerous-fungal.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.livescience.com/archaeology/vikings/extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-holy-may-have-been-held-in-the-kings-own-hand": {
   "s": "The discovery of a rare Viking Age coin bearing the likeness of Olaf the Holy, a Christian king of Norway, suggests this coin was part of a hoard that may have been kept by the king himself. This rarity matters as it provides insight into the currency and religious practices of Viking society during the early Christian period."
@@ -293,14 +256,8 @@
  "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
   "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
  },
- "https://phys.org/news/2026-10-ai-bee-lethal.html": {
-  "s": "AI models are trained to distinguish between the buzzing of different types of bees without killing them. This method helps monitor bee populations without the high costs and ethical issues of lethal traps, offering a more humane and efficient approach."
- },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
- },
- "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html": {
-  "s": "Baby giant manta rays stay close to coastlines near food sources until they grow large, then they venture out into the open ocean. This shift in behavior matters as it helps these vulnerable young ones avoid predators in the open sea."
  },
  "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
   "s": "At GTC Berlin, financial services organizations are demonstrating how to build and scale intelligent systems using open models, powered by NVIDIA technology. This approach allows them to create proprietary intelligence using their own data, at lower costs."
@@ -336,12 +293,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-sapphire-grown-semiconductor-bandgap.html": {
-  "s": "A team led by Cornell University researchers has developed a semiconductor film that maintains control over its conductivity even at very wide bandgaps, which are crucial for handling higher voltages. This breakthrough allows for more efficient electronics, as it enables the use of materials with wider bandgaps without sacrificing the ability to control electrical flow."
- },
- "https://www.sciencealert.com/herpes-virus-appears-to-hijack-the-brains-immune-cells-and-it-could-have-serious-consequences": {
-  "s": "The herpes virus appears to reprogram brain immune cells called microglia, potentially leading to inflammation and cognitive decline. This research suggests the virus can hijack these cells, which normally help maintain brain health, and may contribute to diseases like Alzheimer's."
- },
  "https://www.space.com/space-exploration/artemis/nasa-giving-update-about-artemis-moon-plans-on-oct-23-watch-it-live": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -350,17 +301,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.nature.com/articles/s41467-026-78463-3": {
-  "s": "Ocean acidification caused by increased CO2 levels reduced the availability of silicon, an essential nutrient for diatoms, leading to a decline in ocean productivity. These findings suggest that long-term CO2 effects on ocean chemistry are significant and ongoing, impacting primary productivity and potentially affecting food webs and human well-being."
- },
- "https://phys.org/news/2026-10-algae-powered-soft-robot-arm.html": {
-  "s": "Tiny underwater algae sway gently in water. Suddenly, a light shines on them, and they form robotic arms capable of picking up small rocks and placing them in baskets. This innovative technology uses light to power a soft robot arm, demonstrating how living cells can be integrated into functional materials."
- },
  "https://www.livescience.com/planet-earth/rivers-oceans/surprising-new-pattern-of-groundwater-loss-may-signal-a-turning-point-for-the-colorado-river-basin": {
   "s": "During a severe drought, the upper part of the Colorado River Basin lost more groundwater than the lower part, even though the upper area had more natural water replenishment. This surprising pattern suggests the basin may be approaching a tipping point where groundwater depletion could become more severe."
- },
- "https://openai.com/index/third-moment-research": {
-  "s": "Such extended use enhances the agents' performance, suggesting these systems can be effective for long-term security tasks."
  },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
@@ -375,5 +317,58 @@
  "https://deepmind.google/blog/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-curtain-plasma-solar-jets-apparent.html": {
+  "s": "Scientists have discovered that solar jets called spicules, which are like long, thin columns, take the form of dense, plasma sheets that look like pleated drapery. This new understanding reveals that the apparent spinning motion seen in these jets is actually a projection of more complex dynamics in the solar atmosphere."
+ },
+ "https://www.space.com/astronomy/earth/australias-bizarre-spider-crater-seen-from-orbit-space-photo-of-the-day-for-oct-22-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/a-common-supplement-displays-a-concerning-link-to-heart-failure": {
+  "s": "A supplement commonly used as a sleep aid has been linked to a higher risk of heart failure and death. Preliminary research suggests long-term use of melatonin might cause these health issues, though more studies are needed to confirm. Saudi Arabia's drug regulator has issued a safety signal, indicating regulators are taking this possibility seriously."
+ },
+ "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases": {
+  "s": "If approved, a CAR T cell therapy would be the first treatment for stiff person syndrome. It could change Lynn Montgomery-Haga's life, giving her back mobility after years of debilitating disease."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231250.htm": {
+  "s": "Birds in cities react differently to men and women, with females being approached closer before flight initiation. The study's findings raise questions about how birds perceive humans, but scientists have not yet determined the specific characteristics birds recognize or the reasons for the behavior."
+ },
+ "https://phys.org/news/2026-10-music-flavor-food.html": {
+  "s": "The researchers found that music can enhance the perception of taste, showing that the brain processes both sound and taste together to create flavor. This study, published in Scientific Reports, is the first to use brain imaging to demonstrate how the brain combines sensory information to create flavor experiences."
+ },
+ "https://www.space.com/entertainment/space-games/next-mass-effect-game-cancelled-as-ea-shuts-down-developer-bioware": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": {
+  "s": "Scientists at Oxford have observed how viruses build themselves molecule by molecule, revealing a simple process of trial and error that leads to complex structures. This discovery offers insights into how viral proteins consistently form correct structures, potentially leading to new medical treatments."
+ },
+ "https://phys.org/news/2026-10-mega-earths-real-stellar-oversized.html": {
+  "s": "A new study suggests some of the heaviest rocky planets ever reported might not be as heavy as they appear. This is because activity on their host stars can create a misleading signal, making it hard to accurately measure the planet's mass."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": {
+  "s": "Researchers have created a revolutionary microscope using laser technology that makes cellular structures clearer, similar to a technique that allowed scientists to see inside cells nearly a century ago. This new microscope could help see very small proteins, providing clearer images of how proteins interact in their natural cellular environment."
+ },
+ "https://phys.org/news/2026-10-brows-speakers-confident.html": {
+  "s": "Raised brows and a slow blink were found to make speakers look more confident in a study. The findings suggest that facial movements, not just words, influence how confident a speaker is perceived. Understanding this can improve communication and help people feel more assured in their speaking."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231227.htm": {
+  "s": "Honey bees are aggressively chasing and displacing other pollinators from flowers, according to a study. This behavior is limiting the access of other insects to valuable food sources, the research shows."
+ },
+ "https://phys.org/news/2026-10-schrdinger-penguin-species-contrasting-outcomes.html": {
+  "s": "A new study reveals that erect-crested penguins, a rare species in New Zealand, are divided into two distinct groups with vastly different survival rates. One group has remained stable for over 25 years, while the other has lost more than 40% of its population in just 30 years. This contradicts previous assumptions about the species' stronghold on the Antipodes Islands. Factors such as predation, weather, and migration routes are contributing to the decline in the Antipodes population."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231238.htm": {
+  "s": "NASA’s Curiosity rover has captured a stunning new view of mysterious cliffs on Mars, shaped by wind. As the rover continues toward these cliffs, scientists hope to uncover clues about ancient volcanic activity and how the landscape evolved."
+ },
+ "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html": {
+  "s": "Unlike classical physics, quantum mechanics cannot predict with certainty what will happen in an individual event. This uncertainty is why quantum randomness is considered mysterious. Schrödinger's unpublished manuscript reveals his thoughts on this randomness, sparking debates about whether particles carry hidden properties."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231235.htm": {
+  "s": "Scientists found why common marmosets have a smooth brain unlike other primates. The cells in marmosets' brains develop differently, producing fewer neurons and causing less folding. This difference helps explain brain size variations among primates. The research provides insights into primate brain evolution and could benefit understanding human brain disorders."
+ },
+ "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/": {
+  "s": "Dream Labs raised $90 million and launched Dream API, an interface to control robots with simple instructions. Factories use many robots for specific tasks, but Dream Labs claims its AI model can learn from video and control any robot, even new ones, with minimal setup."
  }
 }
