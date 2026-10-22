@@ -1,155 +1,155 @@
 {
- "updated": "2026-10-21T04:48:00-07:00",
- "updated_pt": "Oct 21, 2026, 4:48 AM PT",
- "stories": [
-  {
-   "title": "Figure's F.03 humanoid passes nine straight days on a treadmill: 348 miles and 1.2 million steps",
-   "tag": "Humanoids",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Figure's Brett Adcock posted on Oct. 19 that the company's F.03 humanoid robot had just crossed nine straight days walking on a treadmill, covering 348 miles and 1.2 million steps. The post includes a video.",
-    "Adcock wrote that the run started as a side project to stress the robot and expose any failures, and that the team wants to see how long it can keep going. He did not give an end date for the test."
-   ],
-   "sources": [
+  "updated": "2026-10-21T19:45:00-07:00",
+  "updated_pt": "Oct 21, 2026, 7:45 PM PT",
+  "stories": [
     {
-     "name": "@adcock_brett on X",
-     "url": "https://x.com/adcock_brett/status/2112227583643509174",
-     "date": "2026-10-19"
+      "title": "Tesla starts Optimus humanoid production at its Fremont, California factory",
+      "tag": "Humanoids",
+      "date": "2026-10-21",
+      "paragraphs": [
+        "Tesla announced on Oct. 21 that it has started producing its Optimus humanoid robot at its factory in Fremont, California, in manufacturing space once dedicated to electric vehicles, TechCrunch reports. In its third-quarter letter to shareholders, Tesla wrote that the bots coming off the line are the first production-quality bots it has made and that it has proven the current manufacturing process is suitable for a commercial product.",
+        "On the earnings call, CEO Elon Musk called this early production and said the ramp will be slow and somewhat bumpy, while claiming Tesla will be able to make 20,000 Optimus robots per week by the end of 2027, according to TechCrunch. Musk said the design still needs tweaks so the robot is safe, reliable and long-lasting, and that there is still a lot of AI work before it is truly useful for open-ended tasks.",
+        "TechCrunch reports that Tesla's spending on Optimus, AI and autonomous driving contributed to a 43% drop in third-quarter net income, to $787 million from $1.37 billion a year earlier, on total revenue of $28.04 billion."
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "title": "Figure's F.03 humanoid passes nine straight days on a treadmill: 348 miles and 1.2 million steps",
+      "tag": "Humanoids",
+      "date": "2026-10-19",
+      "paragraphs": [
+        "Figure's Brett Adcock posted on Oct. 19 that the company's F.03 humanoid robot had just crossed nine straight days walking on a treadmill, covering 348 miles and 1.2 million steps. The post includes a video.",
+        "Adcock wrote that the run started as a side project to stress the robot and expose any failures, and that the team wants to see how long it can keep going. He did not give an end date for the test."
+      ],
+      "sources": [
+        {
+          "name": "@adcock_brett on X",
+          "url": "https://x.com/adcock_brett/status/2112227583643509174",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "title": "Agility signs a commercial deal to pilot Digit humanoids at AGCO's Kansas farm-machinery plant in 2027",
+      "tag": "Humanoids",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "Agility Robotics and AGCO, the agricultural machinery maker behind brands such as Fendt, Massey Ferguson and Valtra, have signed a commercial agreement for a U.S. pilot of Agility's Digit humanoid robot, the two companies announced on Oct. 20. According to the release, the pilot is expected to begin in 2027 at AGCO's production facility in Hesston, Kansas.",
+        "The companies say Digit will initially support assembly and production work there, including sorting and stacking parts and placing totes for storage, taking on repetitive and physically demanding tasks. AGCO's director of manufacturing technology, Thomas Enghof, said in the release that the company views humanoid robots and AI as 'teammates' that can absorb repetitive, strenuous or hazardous tasks. Agility said on X that the deal extends its customers from automotive and logistics into agricultural machinery.",
+        "Agility says AGCO joins other companies deploying its humanoids, including Toyota, GXO and Schaeffler, and that Digit has logged more than 65,000 hours of real-world operation. The release adds that Agility is preparing to go public through its merger with Churchill Capital Corp XI, whose registration statement the SEC declared effective on Oct. 13. The deal is expected to close in the fourth quarter of 2026, after which the company is expected to trade on Nasdaq under the ticker AGLT.",
+        "On Oct. 21, Agility also said on X that it is expanding in Pittsburgh, where a new 50,000-square-foot facility will serve as its center of excellence for software and AI and as the home of its East Coast service center for Digit."
+      ],
+      "sources": [
+        {
+          "name": "Agility Robotics",
+          "url": "https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Agility Robotics on X",
+          "url": "https://x.com/agilityrobotics/status/2112518192245481689",
+          "date": "2026-10-20"
+        },
+        {
+          "name": "Agility Robotics on X",
+          "url": "https://x.com/agilityrobotics/status/2112861957438992771",
+          "date": "2026-10-21"
+        }
+      ]
+    },
+    {
+      "title": "Agility's co-founder says Digit 5 trades running for real work: 23-kilogram lifts, a 9-minute recharge and human-style legs",
+      "tag": "Humanoids",
+      "date": "2026-10-19",
+      "paragraphs": [
+        "Agility Robotics co-founder Jonathan Hurst writes in an IEEE Spectrum essay published Oct. 19 that the company has just launched Digit 5, which he says is designed to be the first humanoid robot that can safely and economically do useful work at scale. According to Hurst, Digit 5 is engineered to lift 23-kilogram bins onto high shelves and to handle heavy warehouse tasks shift after shift.",
+        "Agility announced on Oct. 15 that battery maker Nyobolt is supplying Digit 5's fast-charging battery system, which the company says gives about 90 minutes of runtime and recharges in about 9 minutes, a 10-to-1 ratio of work to charging time compared with 2-to-1 for Digit 4. Agility says that should let one robot work more than 20 hours in a 24-hour day. Hurst writes that the charging dock will deliver 240 amperes at 48 volts, and that the battery and its cooling system take up about 75 percent of the robot's torso.",
+        "Hurst writes that all the extra bulk means Digit 5 can no longer run or jump the way earlier Digits could, and that in some ways it \"feels more like a forklift than the graceful humanoid I set out to build.\" He says humanlike legs replace the ostrichlike legs of earlier versions because the backward-knee design made the ankle strike the ground when squatting to lift objects near the floor. Agility says that when Digit 5 detects an approaching person, it lowers itself to the floor and cuts power to its motors, which the company believes is the only near-term approach to verifiably reduce risk when working near people.",
+        "Hurst calls Digit 5 the largest, heaviest and most expensive robot Agility will ever build. According to the essay, Agility's RoboFab factory in Salem, Oregon, a 70,000-square-foot facility, has the capacity to produce more than 10,000 Digit 5 robots per year, and the company's road map goes beyond carrying bins to picking individual items, tending machines, preparing parts for assembly and shipping, and eventually assembly work itself."
+      ],
+      "sources": [
+        {
+          "name": "IEEE Spectrum (Jonathan Hurst)",
+          "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+          "date": "2026-10-19"
+        },
+        {
+          "name": "Agility Robotics",
+          "url": "https://www.agilityrobotics.com/content/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5",
+          "date": "2026-10-15"
+        },
+        {
+          "name": "Agility Robotics on X",
+          "url": "https://x.com/agilityrobotics/status/2112286284236640320",
+          "date": "2026-10-19"
+        }
+      ]
+    },
+    {
+      "title": "China's humanoid makers: Unitree shows its H2-X 'Guardian', AGIBOT teases new robots for Oct. 29",
+      "tag": "Humanoids",
+      "date": "2026-10-21",
+      "paragraphs": [
+        "On Oct. 21, Unitree introduced a robot it calls the H2-X 'Kung Fu Legend Guardian'. In its announcement on X, the company says the robot is built to 'serve and guard' and has a maximum endurance of about 8 hours, and it asks owners to use the robot safely and in a friendly manner. Unitree did not list a price or other specifications in the post.",
+        "Shanghai-based AGIBOT says it will unveil new robots and new AI models at its Innovation Day on Oct. 29 at the Shanghai World Expo Center. The company has not shared details yet; earlier this month it showed its A3 Ultra, X2, OmniHand and D1 EDU platforms to researchers at the IROS 2026 conference.",
+        "Unitree, meanwhile, introduced UniUni, a system for controlling groups of its robots at once. Unitree says it can quickly choreograph swarm movements and formations, monitor each machine's status in real time and apply safety braking. In September the company also released a 22-joint robotic hand, the Dex5-S, starting at $6,500, and open-sourced its UnifoLM-WLA-1.0 robot foundation model."
+      ],
+      "sources": [
+        {
+          "name": "@UnitreeRobotics on X",
+          "url": "https://x.com/UnitreeRobotics/status/2112819774573179175",
+          "date": "2026-10-21"
+        },
+        {
+          "name": "@AGIBOTofficial on X",
+          "url": "https://x.com/AGIBOTofficial/status/2110995951439769843",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "@AGIBOTofficial on X",
+          "url": "https://x.com/AGIBOTofficial/status/2108025499650031791",
+          "date": "2026-10-08"
+        },
+        {
+          "name": "@UnitreeRobotics on X",
+          "url": "https://x.com/UnitreeRobotics/status/2111015545869107471",
+          "date": "2026-10-16"
+        },
+        {
+          "name": "@UnitreeRobotics on X",
+          "url": "https://x.com/UnitreeRobotics/status/2101996861259395234",
+          "date": "2026-09-21"
+        },
+        {
+          "name": "@UnitreeRobotics on X",
+          "url": "https://x.com/UnitreeRobotics/status/2097973681620459887",
+          "date": "2026-09-10"
+        }
+      ]
+    },
+    {
+      "title": "Eka Robotics raises $150 million at a $1.45 billion valuation for a robot-grasping model built on force, not just vision",
+      "tag": "Physical AI",
+      "date": "2026-10-20",
+      "paragraphs": [
+        "Eka Robotics, a startup founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, has closed a $150 million Series A round that values it at $1.45 billion post-money, TechCrunch reported on Oct. 20. According to TechCrunch, the round was led by the venture funds a16z and F-Prime. The company builds a manipulation system that combines a force-sensitive gripper with a new kind of deep-learning model.",
+        "TechCrunch reports that Eka's robot can pick up about 1,500 objects weighing up to 1 kilogram in an hour, compared with about 600 for a human, and that Eka says it reliably picks up objects more than 95% of the time. Instead of a vision-language-action model, the company describes its approach as a vision-force-action model that focuses on force inputs. \"Vision tells you roughly where the object is, what the pose is, but the actual grabbing, the actual searching is happening through forces,\" Agrawal told TechCrunch.",
+        "According to TechCrunch, Eka designed its own robotic hand with more force sensors than traditional grippers, and it trains the model with reinforcement learning in a physics simulator run at scale rather than relying on human demonstration videos; the founders say they can generate thousands of hours of robot experience in minutes. Kris Hauser, a professor at the University of Illinois Urbana-Champaign, told TechCrunch the robot \"was able to adapt to a large number of different objects without retraining.\" Raghu Raguram, the a16z general partner who co-led the round, told TechCrunch the system is already exceeding superhuman performance for certain tasks.",
+        "TechCrunch notes that Eka still has to prove itself in the field: the company is running pilots with a number of industrial customers in pick-and-place and wire handling. Agrawal told TechCrunch the gripper hardware costs less than $1,000 and is rated for 5 million duty cycles, with a goal of reaching the 20 million cycles of standard industrial arms. Hauser said a big challenge will be running on real assembly lines \"without breaking for an entire year.\""
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+          "date": "2026-10-20"
+        }
+      ]
     }
-   ]
-  },
-  {
-   "title": "Agility signs a commercial deal to pilot Digit humanoids at AGCO's Kansas farm-machinery plant in 2027",
-   "tag": "Humanoids",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "Agility Robotics and AGCO, the agricultural machinery maker behind brands such as Fendt, Massey Ferguson and Valtra, have signed a commercial agreement for a U.S. pilot of Agility's Digit humanoid robot, the two companies announced on Oct. 20. According to the release, the pilot is expected to begin in 2027 at AGCO's production facility in Hesston, Kansas.",
-    "The companies say Digit will initially support assembly and production work there, including sorting and stacking parts and placing totes for storage, taking on repetitive and physically demanding tasks. AGCO's director of manufacturing technology, Thomas Enghof, said in the release that the company views humanoid robots and AI as 'teammates' that can absorb repetitive, strenuous or hazardous tasks. Agility said on X that the deal extends its customers from automotive and logistics into agricultural machinery.",
-    "Agility says AGCO joins other companies deploying its humanoids, including Toyota, GXO and Schaeffler, and that Digit has logged more than 65,000 hours of real-world operation. The release adds that Agility is preparing to go public through its merger with Churchill Capital Corp XI, whose registration statement the SEC declared effective on Oct. 13. The deal is expected to close in the fourth quarter of 2026, after which the company is expected to trade on Nasdaq under the ticker AGLT.",
-    "On Oct. 21, Agility also said on X that it is expanding in Pittsburgh, where a new 50,000-square-foot facility will serve as its center of excellence for software and AI and as the home of its East Coast service center for Digit."
-   ],
-   "sources": [
-    {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112518192245481689",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112861957438992771",
-     "date": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "title": "Agility's co-founder says Digit 5 trades running for real work: 23-kilogram lifts, a 9-minute recharge and human-style legs",
-   "tag": "Humanoids",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Agility Robotics co-founder Jonathan Hurst writes in an IEEE Spectrum essay published Oct. 19 that the company has just launched Digit 5, which he says is designed to be the first humanoid robot that can safely and economically do useful work at scale. According to Hurst, Digit 5 is engineered to lift 23-kilogram bins onto high shelves and to handle heavy warehouse tasks shift after shift.",
-    "Agility announced on Oct. 15 that battery maker Nyobolt is supplying Digit 5's fast-charging battery system, which the company says gives about 90 minutes of runtime and recharges in about 9 minutes, a 10-to-1 ratio of work to charging time compared with 2-to-1 for Digit 4. Agility says that should let one robot work more than 20 hours in a 24-hour day. Hurst writes that the charging dock will deliver 240 amperes at 48 volts, and that the battery and its cooling system take up about 75 percent of the robot's torso.",
-    "Hurst writes that all the extra bulk means Digit 5 can no longer run or jump the way earlier Digits could, and that in some ways it \"feels more like a forklift than the graceful humanoid I set out to build.\" He says humanlike legs replace the ostrichlike legs of earlier versions because the backward-knee design made the ankle strike the ground when squatting to lift objects near the floor. Agility says that when Digit 5 detects an approaching person, it lowers itself to the floor and cuts power to its motors, which the company believes is the only near-term approach to verifiably reduce risk when working near people.",
-    "Hurst calls Digit 5 the largest, heaviest and most expensive robot Agility will ever build. According to the essay, Agility's RoboFab factory in Salem, Oregon, a 70,000-square-foot facility, has the capacity to produce more than 10,000 Digit 5 robots per year, and the company's road map goes beyond carrying bins to picking individual items, tending machines, preparing parts for assembly and shipping, and eventually assembly work itself."
-   ],
-   "sources": [
-    {
-     "name": "IEEE Spectrum (Jonathan Hurst)",
-     "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-     "date": "2026-10-19"
-    },
-    {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5",
-     "date": "2026-10-15"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112286284236640320",
-     "date": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "title": "China's humanoid makers: Unitree shows its H2-X 'Guardian', AGIBOT teases new robots for Oct. 29",
-   "tag": "Humanoids",
-   "date": "2026-10-21",
-   "paragraphs": [
-    "On Oct. 21, Unitree introduced a robot it calls the H2-X 'Kung Fu Legend Guardian'. In its announcement on X, the company says the robot is built to 'serve and guard' and has a maximum endurance of about 8 hours, and it asks owners to use the robot safely and in a friendly manner. Unitree did not list a price or other specifications in the post.",
-    "Shanghai-based AGIBOT says it will unveil new robots and new AI models at its Innovation Day on Oct. 29 at the Shanghai World Expo Center. The company has not shared details yet; earlier this month it showed its A3 Ultra, X2, OmniHand and D1 EDU platforms to researchers at the IROS 2026 conference.",
-    "Unitree, meanwhile, introduced UniUni, a system for controlling groups of its robots at once. Unitree says it can quickly choreograph swarm movements and formations, monitor each machine's status in real time and apply safety braking. In September the company also released a 22-joint robotic hand, the Dex5-S, starting at $6,500, and open-sourced its UnifoLM-WLA-1.0 robot foundation model."
-   ],
-   "sources": [
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2112819774573179175",
-     "date": "2026-10-21"
-    },
-    {
-     "name": "@AGIBOTofficial on X",
-     "url": "https://x.com/AGIBOTofficial/status/2110995951439769843",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "@AGIBOTofficial on X",
-     "url": "https://x.com/AGIBOTofficial/status/2108025499650031791",
-     "date": "2026-10-08"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2111015545869107471",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2101996861259395234",
-     "date": "2026-09-21"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2097973681620459887",
-     "date": "2026-09-10"
-    }
-   ]
-  },
-  {
-   "title": "Eka Robotics raises $150 million at a $1.45 billion valuation for a robot-grasping model built on force, not just vision",
-   "tag": "Physical AI",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "Eka Robotics, a startup founded by MIT professor Pulkit Agrawal and former Google DeepMind researcher Tuomas Haarnoja, has closed a $150 million Series A round that values it at $1.45 billion post-money, TechCrunch reported on Oct. 20. According to TechCrunch, the round was led by the venture funds a16z and F-Prime. The company builds a manipulation system that combines a force-sensitive gripper with a new kind of deep-learning model.",
-    "TechCrunch reports that Eka's robot can pick up about 1,500 objects weighing up to 1 kilogram in an hour, compared with about 600 for a human, and that Eka says it reliably picks up objects more than 95% of the time. Instead of a vision-language-action model, the company describes its approach as a vision-force-action model that focuses on force inputs. \"Vision tells you roughly where the object is, what the pose is, but the actual grabbing, the actual searching is happening through forces,\" Agrawal told TechCrunch.",
-    "According to TechCrunch, Eka designed its own robotic hand with more force sensors than traditional grippers, and it trains the model with reinforcement learning in a physics simulator run at scale rather than relying on human demonstration videos; the founders say they can generate thousands of hours of robot experience in minutes. Kris Hauser, a professor at the University of Illinois Urbana-Champaign, told TechCrunch the robot \"was able to adapt to a large number of different objects without retraining.\" Raghu Raguram, the a16z general partner who co-led the round, told TechCrunch the system is already exceeding superhuman performance for certain tasks.",
-    "TechCrunch notes that Eka still has to prove itself in the field: the company is running pilots with a number of industrial customers in pick-and-place and wire handling. Agrawal told TechCrunch the gripper hardware costs less than $1,000 and is rated for 5 million duty cycles, with a goal of reaching the 20 million cycles of standard industrial arms. Hauser said a big challenge will be running on real assembly lines \"without breaking for an entire year.\""
-   ],
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-     "date": "2026-10-20"
-    }
-   ]
-  },
-  {
-   "title": "Gecko Robotics gets an extra $300 million on its U.S. Navy contract for ship-inspection robots",
-   "tag": "Inspection robots",
-   "date": "2026-10-20",
-   "paragraphs": [
-    "Pittsburgh-based Gecko Robotics has earned an additional $300 million on its contract with the U.S. Navy and the General Services Administration, The Robot Report reported on Oct. 20. According to the report, the increase quadruples the contract's ceiling value and comes six months after an initial $71 million IDIQ (indefinite delivery, indefinite quantity) contract award. The work is aimed at cutting maintenance delays and improving fleet readiness.",
-    "Gecko says its AI and robotic technology can save the Navy up to $8 million in repair costs per ship by identifying structural issues up to 50 times faster than traditional methods, cutting inspections from months to days. Central to the expansion, according to the report, is Gecko's Komodo system, which scans through thick non-skid deck coatings without stripping or damaging them and produces a full-deck heatmap of corrosion and material thickness, so repair teams can plan work before a ship enters drydock.",
-    "The Robot Report says Gecko's wall-climbing robots, drones and fixed sensors collect data on the health of Navy ships and submarines, including hulls, decks and welds, and that AI is used to build models that identify current and future structural problems. \"The conversation around AI and robotics in defense is no longer about experimental technology. It's about delivering measurable and impactful returns,\" said Jake Loosararian, Gecko's co-founder and CEO. The report notes that the chief of naval operations has set a target of 80% fleet readiness."
-   ],
-   "sources": [
-    {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/gecko-robotics-earns-300m-contract-with-the-u-s-navy/",
-     "date": "2026-10-20"
-    }
-   ]
-  }
- ]
+  ]
 }
