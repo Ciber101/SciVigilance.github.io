@@ -100,9 +100,6 @@
  "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/": {
   "s": "Avenda Health introduced Surgery Mode, adding advanced 3D mapping to its Unfold AI platform for intraoperative prostate cancer care. This feature enhances surgeons' view of cancer anatomy during robotic procedures, aiding in better treatment decisions. The innovation aims to improve outcomes, preserve patient quality of life, and set a new standard for prostate cancer care."
  },
- "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/": {
-  "s": "DeepSeek released DeepInfer, an open-source inference framework powering its DeepSeek-V4.1-Flash service. This matters because it allows other researchers and developers to use and improve DeepSeek’s high-performance model, potentially leading to more efficient and accessible AI services."
- },
  "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
   "s": "ALTK-Evolve, a system using GPT-4.1, outperforms other customer service agents on a benchmark by learning and applying behavioral rules from past interactions. This approach, without updating model weights, shows that older models can still perform well in complex tasks like customer service, which require following policies and understanding customer requests."
  },
@@ -151,21 +148,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://blogs.nvidia.com/blog/open-models-europe-industry/": {
-  "s": "NVIDIA is expanding its open models to support applications tailored to local languages and industries. This gives organizations a foundation to customize with local data and deploy on their infrastructure. Nemotron models, for example, help agents orchestrate workflows and complete tasks at lower cost, built with expertise from European partners."
- },
  "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
   "s": "At GTC Berlin, NVIDIA is presenting its new AI hardware, RTX Spark, which powers personal agents on Windows PCs. This innovation matters because it enables local AI processing, enhancing privacy and performance, and opens new possibilities for AI applications on personal devices."
- },
- "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/": {
-  "s": "NVIDIA is expanding its Confidential Computing to give model builders more secure options to run their workloads. This matters as it provides model builders with dedicated infrastructure to protect their models and data, enhancing trust and security in AI training and inference."
- },
- "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/": {
-  "s": "Agents are only as useful as the data they know and as trustworthy as the rules they follow. Leading enterprises are using the NVIDIA Agent Toolkit, now with new tools, to customize and control agents, using company data to inform their answers and actions, and monitor what they do. This helps companies develop trustworthy agents that can find relevant information, understand its business relevance, and make predictions."
  },
  "https://www.sciencenews.org/article/nikon-small-world-contest-2026-photos": {
   "s": "Ole Bielfeldt, a design student, captured ink droplets in midflight using a custom rig attached to a printer, winning the 2026 Nikon Small World contest. His work revealed the technical precision of inkjet printers, helping Bielfeldt appreciate the complexity and commonality of everyday technology."
@@ -339,9 +323,6 @@
  "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html": {
   "s": "Scientists demonstrated for the first time discrete one-dimensional solitons in an optically induced photonic lattice made of warm rubidium vapor. This work opens new research avenues in nonlinear optics and complex quantum systems."
  },
- "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html": {
-  "s": "Researchers at Vilnius University demonstrated perovskite-based lasers that lasted over 400 million pulses, solving a long-standing issue with their instability. Perovskites, like graphene, have high potential but degrade quickly, making this study a significant step towards practical applications."
- },
  "https://www.marktechpost.com/2026/10/21/recursive-flint-local-coding-model/": {
   "s": "Fluent released Flint, a local coding model with 40B total parameters and 2.5B active ones. Flint is designed to analyze codebases, fix bugs, implement features, and write tests. Its high performance on benchmarks and speed make it useful for coding tasks. Asif Razzaq, CEO of Marktechpost, supports Flint's potential for aiding developers with coding tasks."
  },
@@ -354,28 +335,32 @@
  "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
   "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
  },
- "https://openai.com/index/openai-models-google-cloud": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://phys.org/news/2026-10-ai-bee-lethal.html": {
   "s": "AI models are trained to distinguish between the buzzing of different types of bees without killing them. This method helps monitor bee populations without the high costs and ethical issues of lethal traps, offering a more humane and efficient approach."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats without sending data to the cloud. This model is fine-tuned on local scam conversations to distinguish between genuine manipulation and harmless social chatter, ensuring faster detection and quicker action by users."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark test. This advance could accelerate the development of physical AGI, as Argon can apply its reasoning across various robotic tasks."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
+ },
+ "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html": {
+  "s": "Baby giant manta rays stay close to coastlines near food sources until they grow large, then they venture out into the open ocean. This shift in behavior matters as it helps these vulnerable young ones avoid predators in the open sea."
+ },
+ "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
+  "s": "At GTC Berlin, financial services organizations are demonstrating how to build and scale intelligent systems using open models, powered by NVIDIA technology. This approach allows them to create proprietary intelligence using their own data, at lower costs."
+ },
+ "https://blogs.nvidia.com/blog/european-public-sector-open-models/": {
+  "s": "Governments require modern solutions to serve citizens while safeguarding confidential data. Open models facilitate this by allowing governments to assess, customize, and control the infrastructure, ensuring sensitive information remains secure. Additionally, some models publish their training datasets for governments to verify data quality and compliance."
+ },
+ "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
+  "s": "NVIDIA Cosmos, a platform for developing world models that help AI systems simulate the real world, has been expanded with new tools for training, simulation checkpoints, and data factory blueprints. This expansion aims to accelerate physical AI development by providing developers with the latest open models and tools to optimize performance before deployment. Companies like Porsche and ANYbotics are already using these tools to speed up their development workflows and reduce testing time."
+ },
+ "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
+  "s": "European retailers are leveraging NVIDIA technology to enhance their digital platforms and physical operations. This includes using open models and physical intelligence for tasks like improving product discovery and optimizing fulfillment centers, leading to faster and more accurate responses. Such advancements matter as they help retailers improve customer experience and operational efficiency, potentially increasing sales and market share."
+ },
+ "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/": {
+  "s": "An organization installed and configured Whisper and Cactus Compute libraries, including their respective weights and engine libraries, on a system. This setup enabled transcription of a clip, demonstrating the models' capabilities in speech processing tasks."
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
  }
 }

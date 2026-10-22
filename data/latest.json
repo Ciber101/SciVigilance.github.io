@@ -380,9 +380,22 @@
   }
  ],
  "date": "2026-10-21",
- "updated": "2026-10-22T02:30+00:00",
+ "updated": "2026-10-22T05:29+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
+  {
+   "id": "baby-manta-rays-hunker-down-close-to-coasts-before-facing-th",
+   "title": "Baby manta rays hunker down close to coasts before facing the open ocean's dangers",
+   "summary": "Giant manta rays can grow up to nine meters (30 feet) long with a disk size of seven meters (23 feet) across and weigh up to 2,000 kg (4,400 pounds).",
+   "url": "https://phys.org/news/2026-10-baby-manta-rays-hunker-coasts.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/baby-manta-rays-hunker.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:00:01+00:00"
+  },
   {
    "id": "new-fossil-confirms-a-human-ancestor-appeared-200-000-years",
    "title": "New Fossil Confirms a Human Ancestor Appeared 200,000 Years Earlier Than Expected",
@@ -397,6 +410,20 @@
    "ts": "2026-10-22T02:00:00+00:00"
   },
   {
+   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
+   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
+   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
+   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T04:33:40+00:00",
+   "rank": 0
+  },
+  {
    "id": "faster-to-science-a-letter-to-the-science-community",
    "title": "Faster to Science: A Letter to the Science Community",
    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
@@ -408,33 +435,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:16+00:00"
-  },
-  {
-   "id": "ai-openai-models-are-coming-to-google-cloud",
-   "title": "OpenAI models are coming to Google Cloud",
-   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T12:00:00+00:00",
-   "rank": 0
-  },
-  {
-   "id": "ai-listens-to-bee-buzzes-to-monitor-activity-without-lethal",
-   "title": "AI listens to bee buzzes to monitor activity without lethal traps",
-   "summary": "Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the acceleration of climate change.",
-   "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
-   "tags": [
-    "Earth"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T23:40:05+00:00"
   },
   {
    "id": "how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun",
@@ -476,17 +476,17 @@
    "ts": "2026-10-21T21:33:50+00:00"
   },
   {
-   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
-   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
-   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
-   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
+   "id": "ai-physicist-christopher-stubbs-joins-anthropic-s-long-term",
+   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+   "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "tags": [
     "AI"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T04:33:40+00:00",
+   "ts": "2026-10-21T00:00:00+00:00",
    "rank": 0
   },
   {
@@ -542,18 +542,18 @@
    "ts": "2026-10-21T12:48:18+00:00"
   },
   {
-   "id": "ai-physicist-christopher-stubbs-joins-anthropic-s-long-term",
-   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-   "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "id": "ai-leading-european-financial-services-organizations-embrac",
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T00:00:00+00:00",
-   "rank": 0
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:56+00:00",
+   "rank": 1
   },
   {
    "id": "the-ocean-s-most-abundant-loner-microbe-has-a-sticky-second",
@@ -582,17 +582,17 @@
    "ts": "2026-10-20T07:00:00+00:00"
   },
   {
-   "id": "new-optogenetic-tool-inhibits-activity-in-neurons-and-heart",
-   "title": "New optogenetic tool inhibits activity in neurons and heart muscle cells",
-   "summary": "Researchers from Ruhr University Bochum have partnered with colleagues in Göttingen, Berlin, Paris and Essen to develop new optogenetic tools that can selectively inhibit cellular activity through light.",
-   "url": "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html",
+   "id": "ai-listens-to-bee-buzzes-to-monitor-activity-without-lethal",
+   "title": "AI listens to bee buzzes to monitor activity without lethal traps",
+   "summary": "Populations of many pollinators, including bumblebees, have been crashing over the last few decades, thanks to the widespread use of chemical pesticides, loss of habitat and the acceleration of climate change.",
+   "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-optogenetic-tool-i.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
    "tags": [
-    "Biology"
+    "Earth"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T23:20:01+00:00"
+   "ts": "2026-10-21T23:40:05+00:00"
   },
   {
    "id": "extremely-rare-viking-age-coin-from-the-reign-of-olaf-the-ho",
@@ -725,17 +725,17 @@
    "ts": "2026-10-19T15:00:00+00:00"
   },
   {
-   "id": "candida-auris-a-harbinger-of-further-dangerous-fungal-specie",
-   "title": "Candida auris: A harbinger of further dangerous fungal species?",
-   "summary": "Why has the yeast Candida auris become a dangerous pathogen worldwide in just a few years? This question is on the minds of many researchers.",
-   "url": "https://phys.org/news/2026-10-candida-auris-harbinger-dangerous-fungal.html",
+   "id": "new-optogenetic-tool-inhibits-activity-in-neurons-and-heart",
+   "title": "New optogenetic tool inhibits activity in neurons and heart muscle cells",
+   "summary": "Researchers from Ruhr University Bochum have partnered with colleagues in Göttingen, Berlin, Paris and Essen to develop new optogenetic tools that can selectively inhibit cellular activity through light.",
+   "url": "https://phys.org/news/2026-10-optogenetic-tool-inhibits-neurons-heart.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/candida-auris-a-harbin.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-optogenetic-tool-i.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T23:00:01+00:00"
+   "ts": "2026-10-21T23:20:01+00:00"
   },
   {
    "id": "nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
@@ -868,17 +868,17 @@
    "ts": "2026-10-16T13:25:08+00:00"
   },
   {
-   "id": "data-vital-in-holding-militaries-accountable-for-the-environ",
-   "title": "Data vital in holding militaries accountable for the environmental toll of war",
-   "summary": "Ahead of the U.N. Climate Change Conference (COP31) meeting in Antalya, Turkiye, held in Nov. 2026, an expert writing in The BMJ's climate issue argues that accurate data on greenhouse gas emissions during armed…",
-   "url": "https://phys.org/news/2026-10-vital-militaries-accountable-environmental-toll.html",
+   "id": "candida-auris-a-harbinger-of-further-dangerous-fungal-specie",
+   "title": "Candida auris: A harbinger of further dangerous fungal species?",
+   "summary": "Why has the yeast Candida auris become a dangerous pathogen worldwide in just a few years? This question is on the minds of many researchers.",
+   "url": "https://phys.org/news/2026-10-candida-auris-harbinger-dangerous-fungal.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2022/jet-fighter.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/candida-auris-a-harbin.jpg",
    "tags": [
-    "Earth"
+    "Biology"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T22:30:06+00:00"
+   "ts": "2026-10-21T23:00:01+00:00"
   },
   {
    "id": "a-stubborn-question-answered-new-research-reveals-how-the-mi",
@@ -998,17 +998,17 @@
    "ts": "2026-10-15T13:40:13+00:00"
   },
   {
-   "id": "laser-made-lattice-reveals-discrete-light-solitons-in-tunabl",
-   "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
-   "summary": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the…",
-   "url": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
+   "id": "data-vital-in-holding-militaries-accountable-for-the-environ",
+   "title": "Data vital in holding militaries accountable for the environmental toll of war",
+   "summary": "Ahead of the U.N. Climate Change Conference (COP31) meeting in Antalya, Turkiye, held in Nov. 2026, an expert writing in The BMJ's climate issue argues that accurate data on greenhouse gas emissions during armed…",
+   "url": "https://phys.org/news/2026-10-vital-militaries-accountable-environmental-toll.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/discrete-optical-solit.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2022/jet-fighter.jpg",
    "tags": [
-    "Physics"
+    "Earth"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T22:20:07+00:00"
+   "ts": "2026-10-21T22:30:06+00:00"
   },
   {
    "id": "neutrinos-may-be-the-key-to-why-we-are-surrounded-by-matter",
@@ -1128,17 +1128,17 @@
    "ts": "2026-10-14T14:04:05+00:00"
   },
   {
-   "id": "perovskite-laser-maintains-stable-performance-over-400-milli",
-   "title": "Perovskite laser maintains stable performance over 400 million pulses",
-   "summary": "In a study published in Advanced Optical Materials, researchers at Vilnius University (VU) demonstrated perovskite-based laser structures that maintained stable performance over more than 400 million pulses.",
-   "url": "https://phys.org/news/2026-10-perovskite-laser-stable-million-pulses.html",
+   "id": "laser-made-lattice-reveals-discrete-light-solitons-in-tunabl",
+   "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
+   "summary": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the…",
+   "url": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/semiconductor.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/discrete-optical-solit.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-21",
-   "ts": "2026-10-21T22:00:02+00:00"
+   "ts": "2026-10-21T22:20:07+00:00"
   },
   {
    "id": "how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocap",
@@ -1208,20 +1208,6 @@
  ],
  "ai": [
   {
-   "id": "ai-openai-models-are-coming-to-google-cloud",
-   "title": "OpenAI models are coming to Google Cloud",
-   "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/659u0DsrtDQd9LxI8L4J9M/0b95908d6a9ed46ffe20b23d081574b4/openai-models-coming-to-google-cloud-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T12:00:00+00:00",
-   "rank": 0
-  },
-  {
    "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
    "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
    "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
@@ -1250,18 +1236,32 @@
    "rank": 0
   },
   {
-   "id": "ai-deepseek-open-sources-deepinfer-the-inference-framework",
-   "title": "DeepSeek Open-Sources DeepInfer, the Inference Framework Behind DeepSeek-V4.1-Flash",
-   "summary": "DeepSeek has open-sourced DeepInfer, the Apache 2.0 inference framework that serves DeepSeek-V4.1-Flash in production. It targets NVIDIA SM100 GPUs and Huawei Ascend 950 NPUs, and ships offline inference only.",
-   "url": "https://www.marktechpost.com/2026/10/20/deepseek-deepinfer-open-source-inference-framework/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-15-scaled.png",
+   "id": "ai-leading-european-financial-services-organizations-embrac",
+   "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
+   "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
+   "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Financial-Services-NVIDIA-Open-Models.jpg",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T14:31:59+00:00",
-   "rank": 0
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:56+00:00",
+   "rank": 1
+  },
+  {
+   "id": "ai-nvidia-open-models-power-a-new-wave-of-european-public-s",
+   "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects",
+   "summary": "Governments need modern solutions to serve the public while keeping sensitive information under their control. Open models provide a path forward, letting governments evaluate them, adapt them to local languages and…",
+   "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/open-model-european-public-sector-scaled.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:02+00:00",
+   "rank": 1
   },
   {
    "id": "ai-recursive-releases-flint-an-open-weight-40b-moe-local-co",
@@ -1303,20 +1303,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T12:00:20+00:00",
-   "rank": 1
-  },
-  {
-   "id": "ai-nvidia-open-models-advance-europe-s-sovereign-intelligen",
-   "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries",
-   "summary": "NVIDIA is expanding its family of open models across language, robotics, biology, and quantum computing, giving developers, researchers and enterprises what they need to build applications tailored to local languages…",
-   "url": "https://blogs.nvidia.com/blog/open-models-europe-industry/",
-   "source": "NVIDIA",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:00:07+00:00",
    "rank": 1
   },
   {
@@ -1362,6 +1348,48 @@
    "rank": 1
   },
   {
+   "id": "ai-nvidia-cosmos-opens-new-tools-to-train-evaluate-and-depl",
+   "title": "NVIDIA Cosmos Opens New Tools to Train, Evaluate and Deploy World Models",
+   "summary": "To help developers rapidly build world models, which help physical AI systems understand and simulate the real world, NVIDIA has expanded the Cosmos platform with new training tools, simulation checkpoints and Cosmos…",
+   "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-Cosmos-New-Tools-2026.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:27+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-nvidia-transforms-european-retail-from-digital-discovery",
+   "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations",
+   "summary": "European retailers are using open models and physical intelligence across use cases — from a commerce platform cutting inference costs by 90% to to a fulfillment center where collaboration of different robotic fleets is…",
+   "url": "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/NVIDIA-European-Retail.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T05:00:23+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-a-coding-guide-to-cactus-whistle-does-a-16-9-mb-speech-m",
+   "title": "A Coding Guide to Cactus Whistle: Does a 16.9 MB Speech Model Hold Up Against Whisper Base? Word Error Rate, Speed, Streaming, Timestamps, Keywords, and Speech-to-Tool Calls on a CPU",
+   "summary": "Explore a comprehensive coding guide benchmarking Cactus Compute's 16.9 MB speech model against Whisper base. Learn about word error rates, CPU speed, streaming latency, and speech-to-tool integration.",
+   "url": "https://www.marktechpost.com/2026/10/21/cactus-whistle-vs-whisper-base-speech-to-text-benchmark-cpu-guide/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-22-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:17:37+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-vercel-open-sources-durable-harness-for-crash-proof-codi",
    "title": "Vercel Open-Sources durable-harness for Crash-Proof Coding Agents",
    "summary": "Vercel released durable-harness, an open-source package that logs every model and tool call so Pi, OpenCode, Claude Code and Codex sessions resume after crashes, timeouts and redeploys on Vercel, Postgres or a laptop.",
@@ -1387,48 +1415,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T10:50:37+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-nvidia-cloud-partners-scale-across-europe-sovereign-open",
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "summary": "Demand from AI-natives is pulling the European AI cloud ecosystem forward faster than ever. Developers need compute closer to their data, open models they can customize and serve at scale, and full-stack infrastructure…",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "source": "NVIDIA",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:30:41+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-nvidia-confidential-computing-expands-enabling-frontier",
-   "title": "NVIDIA Confidential Computing Expands, Enabling Frontier Model Builders to Securely Scale Across Global Infrastructure",
-   "summary": "NVIDIA builds tools to enable safe agents across the stack. The NVIDIA OpenShell Reference Architecture, announced today, is part of NVIDIA’s growing portfolio of technologies that enables organizations to safely deploy…",
-   "url": "https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/",
-   "source": "NVIDIA",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427.jpg",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:30:02+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-nvidia-agent-toolkit-expands-grounding-enterprise-agents",
-   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
-   "summary": "Agents are only as useful as what they know, and only as trustworthy as the boundaries they run within. Leading enterprises are using the open source NVIDIA Agent Toolkit — now expanded with new tools — to customize and…",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
-   "source": "NVIDIA",
-   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548.jpg",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T10:10:01+00:00",
    "rank": 2
   },
   {
@@ -1531,20 +1517,6 @@
    "rank": 2
   },
   {
-   "id": "ai-google-deepmind-and-singapore-government-collaborate-to",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "source": "Google DeepMind",
-   "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-14",
-   "ts": "2026-10-14T02:00:14+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-introducing-grok-voice-3-0",
    "title": "Introducing Grok Voice 3.0",
    "summary": "The world’s most intelligent voice model.",
@@ -1587,45 +1559,17 @@
    "rank": 2
   },
   {
-   "id": "ai-developing-gemini-4-argon-responsibly-and-safely",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-13",
-   "ts": "2026-10-13T19:43:07+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-gemini-4-argon-for-robotics",
-   "title": "Gemini 4 Argon for Robotics",
-   "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-13",
-   "ts": "2026-10-13T16:01:58+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
    "title": "Gemini 4 Argon: Built to solve your hardest problems",
    "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "source": "Google AI",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
    "tags": [
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T16:01:52+00:00",
+   "ts": "2026-10-13T16:00:00+00:00",
    "rank": 2
   },
   {
