@@ -1,138 +1,138 @@
 {
-  "updated": "2026-10-22T13:44:06-07:00",
-  "updated_pt": "Oct 22, 2026, 1:44 PM PT",
-  "stories": [
+ "updated": "2026-10-22T13:44:06-07:00",
+ "updated_pt": "Oct 22, 2026, 1:44 PM PT",
+ "stories": [
+  {
+   "title": "xAI launches the SpaceX Super Intelligence Partner Network, with more than 130 companies in early access",
+   "tag": "AI",
+   "date": "2026-10-22",
+   "paragraphs": [
+    "xAI announced the SpaceX Super Intelligence Partner Network on its x.ai news page on Oct. 22, 2026, describing it as its official program for companies building products, solutions and services with Grok for joint prospects and customers. According to the announcement on x.ai, the program gives partners access to training, tools and support for their work with those shared customers, and companies can apply at x.ai/partners.",
+    "The company says the network brings together two types of partners. Transformation Partners help customers deploy the Grok platform across the enterprise and create business value, while Marketplace Partners build the plugins and product integrations that let the Grok product suite work with the tools customers already use.",
+    "According to xAI, more than 130 companies took part in the program's early-access phase. The announcement says Transformation Partners are building capacity through a Forward Deployed Engineer accreditation program, with engineers trained at more than 30 organizations, and that Marketplace Partners are seeing growing adoption of their products alongside Grok. xAI says partners are already helping customers in every industry and around the world, from startups to Fortune 20 companies.",
+    "The announcement features launch partners including Bain, Snowflake, Booz Allen, MongoDB, Langfuse (part of ClickHouse), CodeRabbit, Endor Labs, NTT DATA, Sonar, Twilio and Zscaler, each represented by a named executive such as Snowflake's SVP of Engineering Vivek Raghunathan and MongoDB's Chief Product Officer Ben Cefalo."
+   ],
+   "sources": [
     {
-      "title": "xAI launches the SpaceX Super Intelligence Partner Network, with more than 130 companies in early access",
-      "tag": "AI",
-      "date": "2026-10-22",
-      "paragraphs": [
-        "xAI announced the SpaceX Super Intelligence Partner Network on its x.ai news page on Oct. 22, 2026, describing it as its official program for companies building products, solutions and services with Grok for joint prospects and customers. According to the announcement on x.ai, the program gives partners access to training, tools and support for their work with those shared customers, and companies can apply at x.ai/partners.",
-        "The company says the network brings together two types of partners. Transformation Partners help customers deploy the Grok platform across the enterprise and create business value, while Marketplace Partners build the plugins and product integrations that let the Grok product suite work with the tools customers already use.",
-        "According to xAI, more than 130 companies took part in the program's early-access phase. The announcement says Transformation Partners are building capacity through a Forward Deployed Engineer accreditation program, with engineers trained at more than 30 organizations, and that Marketplace Partners are seeing growing adoption of their products alongside Grok. xAI says partners are already helping customers in every industry and around the world, from startups to Fortune 20 companies.",
-        "The announcement features launch partners including Bain, Snowflake, Booz Allen, MongoDB, Langfuse (part of ClickHouse), CodeRabbit, Endor Labs, NTT DATA, Sonar, Twilio and Zscaler, each represented by a named executive such as Snowflake's SVP of Engineering Vivek Raghunathan and MongoDB's Chief Product Officer Ben Cefalo."
-      ],
-      "sources": [
-        {
-          "name": "xAI",
-          "url": "https://x.ai/news/partnernetworkannouncement",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    {
-      "title": "Anthropic hands its Agent Skills standard to the Linux Foundation's Agentic AI Foundation",
-      "tag": "AI",
-      "date": "2026-10-22",
-      "paragraphs": [
-        "Anthropic said on Oct. 22 that it is donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). The AAIF sits under the Linux Foundation, and Anthropic says it co-founded the foundation with Block and OpenAI last year and had already donated its Model Context Protocol (MCP) to it. According to Anthropic, more than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot and VS Code, have integrated Agent Skills since it published the standard in December 2025.",
-        "Anthropic describes a skill as a folder containing a SKILL.md file that teaches an agent a specific task or domain, along with any scripts or reference material it needs. The company says it developed skills while working on Claude Code, which handled general knowledge work well but often lacked the procedural knowledge that real business tasks need. It says developers published thousands of skills on GitHub within weeks of the October 2025 launch, and that so far 1 million skills have been published and nearly 280 million installed.",
-        "As part of the donation, Anthropic says it is handing over the Agent Skills name and logo, the GitHub organization and the agentskills.io domain, and that people can keep using or contributing to the standard without joining the AAIF. Engineers from Anthropic, Google, OpenAI and other companies will maintain it as individuals, with David Soria Parra and Mahesh Murag as lead maintainers. Anthropic says it has proposed a starting roadmap covering versioned releases, a formal proposal process and security guidance for people who write and install skills."
-      ],
-      "sources": [
-        {
-          "name": "Anthropic",
-          "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-          "date": "2026-10-22"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI's frontier models and Codex are coming to Google Cloud",
-      "tag": "AI",
-      "date": "2026-10-21",
-      "paragraphs": [
-        "OpenAI announced on Oct. 21 that it is partnering with Google Cloud to bring its frontier models and its Codex agentic coding workflows into Google Cloud's Model Garden. According to OpenAI, the integration will give Google Cloud customers native access to the models to power complex agentic workflows at scale, backed by Google Cloud's data governance and infrastructure.",
-        "OpenAI says Google Cloud customers will be able to buy OpenAI frontier models through Model Garden, transacted through the Google Cloud Marketplace, and that enterprises with Google Cloud spend commitments will be able to draw those commitments down for these purchases. The company says the setup pairs its models with Google Cloud's built-in access controls and centralized data governance, which it describes as important for organizations in regulated industries.",
-        "OpenAI also says its models will soon be available in Google Antigravity and the Gemini Agent. OpenAI president Greg Brockman called the partnership an important step in making OpenAI's most capable models and Codex available where customers already build, and Google Cloud CEO Thomas Kurian said Google Cloud is focused on giving customers a broad selection of models, including OpenAI's.",
-        "According to the announcement, general availability is planned in the coming weeks. OpenAI notes that Microsoft remains its primary cloud partner."
-      ],
-      "sources": [
-        {
-          "name": "OpenAI",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "title": "OpenAI says thousands of AI agents analyzed a brain-cell gene atlas in 32 minutes and turned up new disease leads",
-      "tag": "AI",
-      "date": "2026-10-21",
-      "paragraphs": [
-        "OpenAI said on Oct. 21, 2026, that it worked with PerturbAI and Scripps Research to run thousands of AI agents, powered by its GPT-Rosalind model, over existing experimental data from millions of mouse brain cells. According to OpenAI, the analysis took 32 minutes, and the team estimated that comparable human analysis and literature review, done one gene disruption at a time, would take months to a year.",
-        "The data came from a whole-brain CRISPR atlas, which shows how disrupting individual genes affects different types of cells across the mouse brain. OpenAI says each agent investigated one gene disruption, analyzed the cells' responses, searched the scientific literature and proposed explanations, and the reports were combined into a 'reasoning atlas' linking genes, cellular effects, publications and possible mechanisms. OpenAI says the agents reproduced findings from human analyses, and that their judgments of novelty and scientific value matched those of blinded human experts.",
-        "Among the leads OpenAI describes: in the cerebellum, disrupting the gene Tsc2 changed the activity of dozens of genes involved in neuronal communication while disrupting its partner Tsc1 changed little, a difference OpenAI notes may be relevant to tuberous sclerosis. The agents also linked disruption of Dctn1, a gene whose mutations cause the Parkinson-like Perry syndrome, to higher activity of cholesterol-making genes, raising a question about cholesterol and neurodegeneration that human experts called novel and worth following up.",
-        "OpenAI also compared the approach with a single agent given the whole dataset using the same model and resources. At the largest workload, it says, the distributed agents cited more than 700 references versus 11 for the single agent, and blinded human experts preferred the distributed-agent reports 75% of the time. OpenAI says the reasoning atlas is available for researchers to explore and that the findings still need lab experiments to test the proposed mechanisms."
-      ],
-      "sources": [
-        {
-          "name": "OpenAI",
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "date": "2026-10-21"
-        }
-      ]
-    },
-    {
-      "title": "Japan launches MMX, the first mission meant to bring back samples from a moon of Mars",
-      "tag": "Space",
-      "date": "2026-10-21",
-      "paragraphs": [
-        "The Japan Aerospace Exploration Agency (JAXA) launched its Martian Moons eXploration (MMX) spacecraft on an H3 rocket from the Tanegashima Space Center at 4:41:03 a.m. Japan time on Oct. 20, 2026, which was 12:41 p.m. PT on Oct. 19, according to JAXA's launch release. JAXA says the rocket flew as planned, the spacecraft separated about 71 minutes and 13 seconds after liftoff, and MMX was placed into its planned orbit. Space.com reports it was the 10th flight of the H3, which JAXA developed with Mitsubishi Heavy Industries. On Oct. 21, JAXA announced that the critical sequence of the spacecraft's first operations had been completed and that MMX is in good health; the agency will now check its onboard equipment and prepare for the cruise toward Mars.",
-        "JAXA's mission page says MMX will observe both of Mars' moons, Phobos and Deimos, land on Phobos to collect samples and return them to Earth, calling it the world's first mission to bring back material from the Martian system. The agency says the goal is to clarify where the Martian moons came from and how the Mars system evolved, and to explore how a habitable environment might have arisen on the rocky planets.",
-        "According to Space.com, the cruise to Mars takes about 10 months, with arrival scheduled for August 2027, when MMX will enter a quasi-satellite orbit around Phobos, a path that keeps it near the moon as both circle Mars. Space.com reports the spacecraft will spend about three years there and carries IDEFIX, a rover built jointly by the French and German space agencies, scheduled to be deployed to the surface of Phobos in late 2028 or early 2029. After mapping landing sites, MMX is to touch down on Phobos twice to collect samples, then make a series of flybys of the smaller moon Deimos before leaving for Earth in November 2030, with the sample capsule set to land in Australia in 2031.",
-        "Space.com explains that scientists hope the samples will settle a decades-old question about the moons' origins. Their near-circular, equatorial orbits suggest they could have formed from debris after a giant impact on Mars, similar to how Earth's moon is thought to have formed, while their lumpy shapes and chemical makeup, as far as telescopes can tell, point to captured asteroids from the early solar system. Mission team members have said that answering the question would give key clues about Mars' geological past and the early history of the solar system."
-      ],
-      "sources": [
-        {
-          "name": "JAXA (launch result)",
-          "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
-          "date": "2026-10-20"
-        },
-        {
-          "name": "JAXA (initial operations complete)",
-          "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
-          "date": "2026-10-21"
-        },
-        {
-          "name": "JAXA ISAS: MMX mission page",
-          "url": "https://www.isas.jaxa.jp/en/missions/spacecraft/current/mmx.html"
-        },
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-          "date": "2026-10-19"
-        }
-      ]
-    },
-    {
-      "title": "NASA's Perseverance rover sets the record for the farthest drive on another world: 28.10 miles",
-      "tag": "Space",
-      "date": "2026-10-21",
-      "paragraphs": [
-        "NASA's Perseverance rover has set a new record for the farthest distance driven on another celestial body, according to a NASA Mars 2020 mission blog post published Oct. 21 and a NASA release carried by ScienceDaily. On Sol 2006, which was Oct. 11, 2026, its odometer reached 45.22 kilometers (28.10 miles), writes Vandi Verma, chief engineer for robotic operations at NASA's Jet Propulsion Laboratory. ScienceDaily reports that this beats the previous record of 28.06 miles (45.16 kilometers) held by NASA's Opportunity rover, which explored Mars from 2004 to 2018, and that Opportunity needed nearly 15 years to cover that distance while Perseverance did it in about five and a half years. Verma writes that the rover's engineering twin on Earth even received a plaque from Guinness World Records.",
-        "Verma explains that two months earlier, on Sol 1947, the odometer sat about 200 meters short of the milestone, but the rover spent time in a scientifically interesting area doing short drives for rock abrasions and close-up science on ancient outcrops before it moved on and sailed past the record. ScienceDaily reports the record came as Perseverance headed toward a location called \"Idubi,\" in an area beyond the western rim of Jezero Crater known as \"Lac de Charmes,\" which may contain some of the oldest terrain ever examined in the solar system. At Idubi, according to the release, scientists hope to find evidence of ancient hydrothermal systems, where heated water once circulated through rocks.",
-        "Both sources credit the rover's autonomy. ScienceDaily says the AutoNav system builds a three-dimensional map of obstacles as the rover moves and picks a safe route, letting it cover as much as 1,351 feet (412 meters) in a single Martian day, and that AutoNav has evaluated the terrain for more than 90% of Perseverance's driving, compared with about 5% for the early autonomy on Spirit and Opportunity. Verma writes that the team raised the rover's tilt limit to 24 degrees, updated its braking and steering software, and added a capability called onboard Global Localization, which uses the processor in the Ingenuity helicopter base station to compare ground and orbital images and locate the rover \"as though we had GPS on a world without it.\"",
-        "\"The original mission called for no more than 12.4 miles of driving. We've blown well past that,\" JPL project manager Steven Lee said, according to ScienceDaily. The release says NASA has approved Perseverance's first mission extension, which began in October and runs through about the end of 2028, and that the rover has gathered 29 samples of rock and regolith so far. It adds that Perseverance has also passed the distances driven on the Moon by the Apollo 17 astronauts in 1972 (22.2 miles) and the Soviet Lunokhod 2 rover in 1973 (24.2 miles)."
-      ],
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-          "date": "2026-10-21"
-        },
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-          "date": "2026-10-21"
-        }
-      ]
+     "name": "xAI",
+     "url": "https://x.ai/news/partnernetworkannouncement",
+     "date": "2026-10-22"
     }
-  ],
-  "audio": {
-    "src": "audio/top_stories-f7e762d422.mp3",
-    "hash": "f7e762d422e5290a0a3aa73774abfe7472404624",
-    "duration": 918.7,
-    "voice": "Kokoro (af_heart)"
+   ]
+  },
+  {
+   "title": "Anthropic hands its Agent Skills standard to the Linux Foundation's Agentic AI Foundation",
+   "tag": "AI",
+   "date": "2026-10-22",
+   "paragraphs": [
+    "Anthropic said on Oct. 22 that it is donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation (AAIF). The AAIF sits under the Linux Foundation, and Anthropic says it co-founded the foundation with Block and OpenAI last year and had already donated its Model Context Protocol (MCP) to it. According to Anthropic, more than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot and VS Code, have integrated Agent Skills since it published the standard in December 2025.",
+    "Anthropic describes a skill as a folder containing a SKILL.md file that teaches an agent a specific task or domain, along with any scripts or reference material it needs. The company says it developed skills while working on Claude Code, which handled general knowledge work well but often lacked the procedural knowledge that real business tasks need. It says developers published thousands of skills on GitHub within weeks of the October 2025 launch, and that so far 1 million skills have been published and nearly 280 million installed.",
+    "As part of the donation, Anthropic says it is handing over the Agent Skills name and logo, the GitHub organization and the agentskills.io domain, and that people can keep using or contributing to the standard without joining the AAIF. Engineers from Anthropic, Google, OpenAI and other companies will maintain it as individuals, with David Soria Parra and Mahesh Murag as lead maintainers. Anthropic says it has proposed a starting roadmap covering versioned releases, a formal proposal process and security guidance for people who write and install skills."
+   ],
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+     "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI's frontier models and Codex are coming to Google Cloud",
+   "tag": "AI",
+   "date": "2026-10-21",
+   "paragraphs": [
+    "OpenAI announced on Oct. 21 that it is partnering with Google Cloud to bring its frontier models and its Codex agentic coding workflows into Google Cloud's Model Garden. According to OpenAI, the integration will give Google Cloud customers native access to the models to power complex agentic workflows at scale, backed by Google Cloud's data governance and infrastructure.",
+    "OpenAI says Google Cloud customers will be able to buy OpenAI frontier models through Model Garden, transacted through the Google Cloud Marketplace, and that enterprises with Google Cloud spend commitments will be able to draw those commitments down for these purchases. The company says the setup pairs its models with Google Cloud's built-in access controls and centralized data governance, which it describes as important for organizations in regulated industries.",
+    "OpenAI also says its models will soon be available in Google Antigravity and the Gemini Agent. OpenAI president Greg Brockman called the partnership an important step in making OpenAI's most capable models and Codex available where customers already build, and Google Cloud CEO Thomas Kurian said Google Cloud is focused on giving customers a broad selection of models, including OpenAI's.",
+    "According to the announcement, general availability is planned in the coming weeks. OpenAI notes that Microsoft remains its primary cloud partner."
+   ],
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/openai-models-google-cloud",
+     "date": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "title": "OpenAI says thousands of AI agents analyzed a brain-cell gene atlas in 32 minutes and turned up new disease leads",
+   "tag": "AI",
+   "date": "2026-10-21",
+   "paragraphs": [
+    "OpenAI said on Oct. 21, 2026, that it worked with PerturbAI and Scripps Research to run thousands of AI agents, powered by its GPT-Rosalind model, over existing experimental data from millions of mouse brain cells. According to OpenAI, the analysis took 32 minutes, and the team estimated that comparable human analysis and literature review, done one gene disruption at a time, would take months to a year.",
+    "The data came from a whole-brain CRISPR atlas, which shows how disrupting individual genes affects different types of cells across the mouse brain. OpenAI says each agent investigated one gene disruption, analyzed the cells' responses, searched the scientific literature and proposed explanations, and the reports were combined into a 'reasoning atlas' linking genes, cellular effects, publications and possible mechanisms. OpenAI says the agents reproduced findings from human analyses, and that their judgments of novelty and scientific value matched those of blinded human experts.",
+    "Among the leads OpenAI describes: in the cerebellum, disrupting the gene Tsc2 changed the activity of dozens of genes involved in neuronal communication while disrupting its partner Tsc1 changed little, a difference OpenAI notes may be relevant to tuberous sclerosis. The agents also linked disruption of Dctn1, a gene whose mutations cause the Parkinson-like Perry syndrome, to higher activity of cholesterol-making genes, raising a question about cholesterol and neurodegeneration that human experts called novel and worth following up.",
+    "OpenAI also compared the approach with a single agent given the whole dataset using the same model and resources. At the largest workload, it says, the distributed agents cited more than 700 references versus 11 for the single agent, and blinded human experts preferred the distributed-agent reports 75% of the time. OpenAI says the reasoning atlas is available for researchers to explore and that the findings still need lab experiments to test the proposed mechanisms."
+   ],
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+     "date": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "title": "Japan launches MMX, the first mission meant to bring back samples from a moon of Mars",
+   "tag": "Space",
+   "date": "2026-10-21",
+   "paragraphs": [
+    "The Japan Aerospace Exploration Agency (JAXA) launched its Martian Moons eXploration (MMX) spacecraft on an H3 rocket from the Tanegashima Space Center at 4:41:03 a.m. Japan time on Oct. 20, 2026, which was 12:41 p.m. PT on Oct. 19, according to JAXA's launch release. JAXA says the rocket flew as planned, the spacecraft separated about 71 minutes and 13 seconds after liftoff, and MMX was placed into its planned orbit. Space.com reports it was the 10th flight of the H3, which JAXA developed with Mitsubishi Heavy Industries. On Oct. 21, JAXA announced that the critical sequence of the spacecraft's first operations had been completed and that MMX is in good health; the agency will now check its onboard equipment and prepare for the cruise toward Mars.",
+    "JAXA's mission page says MMX will observe both of Mars' moons, Phobos and Deimos, land on Phobos to collect samples and return them to Earth, calling it the world's first mission to bring back material from the Martian system. The agency says the goal is to clarify where the Martian moons came from and how the Mars system evolved, and to explore how a habitable environment might have arisen on the rocky planets.",
+    "According to Space.com, the cruise to Mars takes about 10 months, with arrival scheduled for August 2027, when MMX will enter a quasi-satellite orbit around Phobos, a path that keeps it near the moon as both circle Mars. Space.com reports the spacecraft will spend about three years there and carries IDEFIX, a rover built jointly by the French and German space agencies, scheduled to be deployed to the surface of Phobos in late 2028 or early 2029. After mapping landing sites, MMX is to touch down on Phobos twice to collect samples, then make a series of flybys of the smaller moon Deimos before leaving for Earth in November 2030, with the sample capsule set to land in Australia in 2031.",
+    "Space.com explains that scientists hope the samples will settle a decades-old question about the moons' origins. Their near-circular, equatorial orbits suggest they could have formed from debris after a giant impact on Mars, similar to how Earth's moon is thought to have formed, while their lumpy shapes and chemical makeup, as far as telescopes can tell, point to captured asteroids from the early solar system. Mission team members have said that answering the question would give key clues about Mars' geological past and the early history of the solar system."
+   ],
+   "sources": [
+    {
+     "name": "JAXA (launch result)",
+     "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
+     "date": "2026-10-20"
+    },
+    {
+     "name": "JAXA (initial operations complete)",
+     "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
+     "date": "2026-10-21"
+    },
+    {
+     "name": "JAXA ISAS: MMX mission page",
+     "url": "https://www.isas.jaxa.jp/en/missions/spacecraft/current/mmx.html"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
+     "date": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "title": "NASA's Perseverance rover sets the record for the farthest drive on another world: 28.10 miles",
+   "tag": "Space",
+   "date": "2026-10-21",
+   "paragraphs": [
+    "NASA's Perseverance rover has set a new record for the farthest distance driven on another celestial body, according to a NASA Mars 2020 mission blog post published Oct. 21 and a NASA release carried by ScienceDaily. On Sol 2006, which was Oct. 11, 2026, its odometer reached 45.22 kilometers (28.10 miles), writes Vandi Verma, chief engineer for robotic operations at NASA's Jet Propulsion Laboratory. ScienceDaily reports that this beats the previous record of 28.06 miles (45.16 kilometers) held by NASA's Opportunity rover, which explored Mars from 2004 to 2018, and that Opportunity needed nearly 15 years to cover that distance while Perseverance did it in about five and a half years. Verma writes that the rover's engineering twin on Earth even received a plaque from Guinness World Records.",
+    "Verma explains that two months earlier, on Sol 1947, the odometer sat about 200 meters short of the milestone, but the rover spent time in a scientifically interesting area doing short drives for rock abrasions and close-up science on ancient outcrops before it moved on and sailed past the record. ScienceDaily reports the record came as Perseverance headed toward a location called \"Idubi,\" in an area beyond the western rim of Jezero Crater known as \"Lac de Charmes,\" which may contain some of the oldest terrain ever examined in the solar system. At Idubi, according to the release, scientists hope to find evidence of ancient hydrothermal systems, where heated water once circulated through rocks.",
+    "Both sources credit the rover's autonomy. ScienceDaily says the AutoNav system builds a three-dimensional map of obstacles as the rover moves and picks a safe route, letting it cover as much as 1,351 feet (412 meters) in a single Martian day, and that AutoNav has evaluated the terrain for more than 90% of Perseverance's driving, compared with about 5% for the early autonomy on Spirit and Opportunity. Verma writes that the team raised the rover's tilt limit to 24 degrees, updated its braking and steering software, and added a capability called onboard Global Localization, which uses the processor in the Ingenuity helicopter base station to compare ground and orbital images and locate the rover \"as though we had GPS on a world without it.\"",
+    "\"The original mission called for no more than 12.4 miles of driving. We've blown well past that,\" JPL project manager Steven Lee said, according to ScienceDaily. The release says NASA has approved Perseverance's first mission extension, which began in October and runs through about the end of 2028, and that the rover has gathered 29 samples of rock and regolith so far. It adds that Perseverance has also passed the distances driven on the Moon by the Apollo 17 astronauts in 1972 (22.2 miles) and the Soviet Lunokhod 2 rover in 1973 (24.2 miles)."
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+     "date": "2026-10-21"
+    },
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
+     "date": "2026-10-21"
+    }
+   ]
   }
+ ],
+ "audio": {
+  "src": "audio/top_stories-a675b5b3f5.mp3",
+  "hash": "a675b5b3f5fcd0cd8c92f6131f516e2e00bb9d7f",
+  "duration": 863.8,
+  "voice": "Kokoro (af_heart)"
+ }
 }
