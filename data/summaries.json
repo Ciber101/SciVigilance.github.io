@@ -100,9 +100,6 @@
  "https://www.therobotreport.com/avenda-health-expands-unfold-ai-platform-support-intraoperative-prostate-cancer-care/": {
   "s": "Avenda Health introduced Surgery Mode, adding advanced 3D mapping to its Unfold AI platform for intraoperative prostate cancer care. This feature enhances surgeons' view of cancer anatomy during robotic procedures, aiding in better treatment decisions. The innovation aims to improve outcomes, preserve patient quality of life, and set a new standard for prostate cancer care."
  },
- "https://huggingface.co/blog/ibm-research/altk-evolve-bc": {
-  "s": "ALTK-Evolve, a system using GPT-4.1, outperforms other customer service agents on a benchmark by learning and applying behavioral rules from past interactions. This approach, without updating model weights, shows that older models can still perform well in complex tasks like customer service, which require following policies and understanding customer requests."
- },
  "https://huggingface.co/blog/hf-torchtpu": {
   "s": "Hugging Face has introduced TorchTPU, a native PyTorch backend for TPUs, making them easier to use. This native support simplifies running Hugging Face models on TPUs, eliminating the need for torch_xla and making debugging and code execution more straightforward."
  },
@@ -126,12 +123,6 @@
  },
  "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
   "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
- },
- "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/": {
-  "s": "Google Cloud released llm-d 1.0, an open-source stack for distributed large language model inference. This matters as it offers multi-tenant flow control and zero-downtime upgrades, making it easier to run LLMs reliably in production. It also uses cache-aware routing to efficiently manage memory and improve performance."
- },
- "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/": {
-  "s": "Mistral AI released Voxtral 3, a suite of tools for speech recognition and text-to-speech, including models for transcription and a voice agent SDK. This release aims to improve speech recognition accuracy and efficiency, offering features like context biasing and real-time transcription. The SDK's modular design allows for easy integration and customization, addressing a gap in the market for high-quality speech processing solutions."
  },
  "https://www.sciencenews.org/article/minerals-earth-geology-gabriela-farfan": {
   "s": "Gabriela Farfan, a Smithsonian geologist, studies minerals to learn about Earth's past. She investigates chemical signatures trapped in corals and other minerals, unlocking stories about ocean conditions and environmental changes. Farfan hopes visitors will appreciate the natural history of gemstones, just as they do other exhibits."
@@ -187,9 +178,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261020084818.htm": {
   "s": "NASA’s Perseverance rover has just set a new record for off-world driving, surpassing the distance traveled by NASA's Opportunity rover. This achievement matters because it showcases the rover's advanced autonomous navigation system, which allows it to explore distant worlds with less reliance on Earth-based commands, potentially increasing the rover's ability to cover vast distances."
  },
- "https://www.sciencedaily.com/releases/2026/10/261020085727.htm": {
-  "s": "A massive asteroid slammed into the North Sea, creating a crater and triggering a tsunami more than 100 meters high. Now researchers have uncovered compelling evidence confirming the ancient collision, solving a decades-long mystery."
- },
  "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": {
   "s": "Mistral is advancing AI for engineering by partnering with NVIDIA to create AI-powered tools that speed up simulations and design processes. This collaboration will provide open benchmarks and datasets to improve AI models and validate them in real engineering and electronic design applications."
  },
@@ -223,17 +211,11 @@
  "https://www.universetoday.com/articles/how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocapture-mb-edits": {
   "s": "Aerocapture is a technique to use a planet's atmosphere to capture and place a satellite in orbit, a goal long sought by engineers. However, it requires precise coordination of systems and mechanics. A California start-up, Inversion, is developing a spacecraft called Arc to enable this, aiming to reduce travel times for mission-critical cargo."
  },
- "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/": {
-  "s": "Perseverance, a Mars rover operated by NASA, recently set a record by driving 45.22 kilometers (28.10 miles) on Mars. This feat occurred as the rover explored a scientifically interesting area, spending time in close proximity to rocks. The journey exposed the rover to challenging terrain, prompting the team to refine driving guidelines to better handle tough conditions."
- },
  "https://www.livescience.com/planet-earth/arctic/the-russians-were-the-problem-in-the-end-sailor-matt-rutherford-on-being-intercepted-by-the-fsb-while-attempting-to-circumnavigate-the-arctic-ocean-solo": {
   "s": "Matt Rutherford, a sailor and founder of an environmental nonprofit, was intercepted by the FSB during his solo attempt to circumnavigate the Arctic Ocean. This incident matters because it highlights the ongoing threat of espionage and interference in Arctic waters, potentially complicating future environmental research and exploration in the region."
  },
  "https://www.sciencenews.org/article/opioid-overdose-deaths-naloxone": {
   "s": "A drop in U.S. drug overdose deaths was observed but not explained by more naloxone use, a medication that reverses opioid overdoses. Researchers found that while naloxone use declined, nonfatal overdose responses by emergency services also decreased, suggesting fewer overall overdoses rather than more revivals."
- },
- "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/": {
-  "s": "NASA astronaut Jessica Watkins conducted a 3D bioprinting experiment in space on Earth's orbit. The experiment aimed to produce cartilage tissue of higher quality in microgravity, which could benefit both Earth patients and astronauts."
  },
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
@@ -362,5 +344,24 @@
  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron": {
+  "s": "Stars are forming inside dense clumps of gas in a nebulous region called N159, located far in the Large Magellanic Cloud. This process is marked by the intense ultraviolet radiation from massive stars ionising the gas, creating bright emission nebulae."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/": {
+  "s": "Astronomers recently discovered that some white dwarf stars, despite being called white, can appear in other colors due to trace elements interacting with their atmospheres. This discovery suggests that stars can have a wider range of colors than previously thought."
+ },
+ "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
+  "s": "A Blog post by IBM Research introduced Granite time-series models, which combine four complementary models to forecast without needing to train on specific datasets. This ensemble approach reduces the need to choose a single model, as each model handles different types of signals better, offering a more accurate forecast."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": {
+  "s": "Fires spread across New Guinea, an island with diverse ecosystems, during a drought exacerbated by El Niño. Smoke from these fires caused air quality issues, affecting flights and schools."
+ },
+ "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/": {
+  "s": "IBM released Granite Speech 5.0 2B, a speech recognition and translation model. It ranks high on speech recognition leaderboards, showing improvements in accuracy and multilingual support. The model matters because it offers better translation and keyword recognition, aiding in multilingual communication and improving speech-to-text accuracy."
+ },
+ "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  }
 }

@@ -379,10 +379,50 @@
    "rank": 1
   }
  ],
- "date": "2026-10-21",
- "updated": "2026-10-22T05:29+00:00",
+ "date": "2026-10-22",
+ "updated": "2026-10-22T08:32+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
+  {
+   "id": "stars-brewing-in-a-nebulous-cauldron",
+   "title": "Stars brewing in a nebulous cauldron",
+   "summary": "Image: Stars brewing in a nebulous cauldron",
+   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T08:00:00+00:00"
+  },
+  {
+   "id": "apod-2026-october-22-the-first-green-star-wd-j1330-6435",
+   "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+   "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/green_wd_mark-garlick_annotated2.jpg?w=1280&#038;h=1280&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:05:00+00:00"
+  },
+  {
+   "id": "ai-physicist-christopher-stubbs-joins-anthropic-s-long-term",
+   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+   "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T00:00:00+00:00",
+   "rank": 0
+  },
   {
    "id": "baby-manta-rays-hunker-down-close-to-coasts-before-facing-th",
    "title": "Baby manta rays hunker down close to coasts before facing the open ocean's dangers",
@@ -408,33 +448,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T02:00:00+00:00"
-  },
-  {
-   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
-   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
-   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
-   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T04:33:40+00:00",
-   "rank": 0
-  },
-  {
-   "id": "faster-to-science-a-letter-to-the-science-community",
-   "title": "Faster to Science: A Letter to the Science Community",
-   "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
-   "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/05/rsch-phys-nasa-fox-dspoc-visit-ek-041824-007.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T00:00:16+00:00"
   },
   {
    "id": "how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun",
@@ -463,6 +476,20 @@
    "ts": "2026-10-21T21:41:37+00:00"
   },
   {
+   "id": "ai-ensemble-forecasting-with-ibm-granite-time-series-models",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "summary": "A Blog post by IBM Research on Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "source": "Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T07:51:31+00:00",
+   "rank": 1
+  },
+  {
    "id": "james-webb-telescope-discovers-surprising-trove-of-metals-ar",
    "title": "James Webb telescope discovers surprising trove of metals around the Milky Way's supermassive black hole",
    "summary": "New observations from the James Webb Space Telescope reveal a concentration of heavy metals near the Milky Way's central black hole. The discovery deepens a mystery about why our black hole behaves the way it does.",
@@ -474,20 +501,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T21:33:50+00:00"
-  },
-  {
-   "id": "ai-physicist-christopher-stubbs-joins-anthropic-s-long-term",
-   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-   "summary": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust.",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T00:00:00+00:00",
-   "rank": 0
   },
   {
    "id": "ai-could-turn-scientific-papers-into-research-assistants",
@@ -529,19 +542,6 @@
    "ts": "2026-10-21T13:02:34+00:00"
   },
   {
-   "id": "an-ai-model-s-false-tip-to-philadelphia-police-reveals-how-d",
-   "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
-   "summary": "An expert on AI governance explains why these rare mistakes may soon be common, and with much higher stakes.",
-   "url": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/766819/original/file-20261016-50-jx2dj3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2506%2C1670&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T12:48:18+00:00"
-  },
-  {
    "id": "ai-leading-european-financial-services-organizations-embrac",
    "title": "Leading European Financial Services Organizations Embrace Open Models to Build Proprietary Intelligence",
    "summary": "At GTC Berlin, banks, payment companies and financial data providers are showing what production-scale intelligence looks like — built on NVIDIA accelerated computing, powered by open weight models and running on their…",
@@ -554,6 +554,19 @@
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:56+00:00",
    "rank": 1
+  },
+  {
+   "id": "an-ai-model-s-false-tip-to-philadelphia-police-reveals-how-d",
+   "title": "An AI model’s false tip to Philadelphia police reveals how digital agents can do as they’re told and still cause trouble",
+   "summary": "An expert on AI governance explains why these rare mistakes may soon be common, and with much higher stakes.",
+   "url": "https://theconversation.com/an-ai-models-false-tip-to-philadelphia-police-reveals-how-digital-agents-can-do-as-theyre-told-and-still-cause-trouble-294228",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/766819/original/file-20261016-50-jx2dj3.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C2506%2C1670&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T12:48:18+00:00"
   },
   {
    "id": "the-ocean-s-most-abundant-loner-microbe-has-a-sticky-second",
@@ -569,17 +582,17 @@
    "ts": "2026-10-20T21:15:00+00:00"
   },
   {
-   "id": "mmx-lifts-off-to-mars-s-moon-phobos",
-   "title": "MMX lifts off to Mars’s moon Phobos",
-   "summary": "Image: MMX lifts off to Mars’s moon Phobos",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
+   "id": "fires-char-new-guinea",
+   "title": "Fires Char New Guinea",
+   "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+   "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T07:00:00+00:00"
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:01:00+00:00"
   },
   {
    "id": "ai-listens-to-bee-buzzes-to-monitor-activity-without-lethal",
@@ -606,19 +619,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T21:16:28+00:00"
-  },
-  {
-   "id": "nasa-conducts-rs-25-engine-test-in-support-of-future-artemis",
-   "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
-   "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
-   "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T20:51:50+00:00"
   },
   {
    "id": "webb-captures-stars-in-the-early-stages-of-life-in-a-nearby",
@@ -686,6 +686,19 @@
    "ts": "2026-10-21T12:35:57+00:00"
   },
   {
+   "id": "mmx-lifts-off-to-mars-s-moon-phobos",
+   "title": "MMX lifts off to Mars’s moon Phobos",
+   "summary": "Image: MMX lifts off to Mars’s moon Phobos",
+   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/mmx_lifts_off_to_mars_s_moon_phobos/27583877-2-eng-GB/MMX_lifts_off_to_Mars_s_moon_Phobos_card_full.gif",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-20",
+   "ts": "2026-10-20T07:00:00+00:00"
+  },
+  {
    "id": "symposium-highlights-mit-s-wide-range-of-innovations-for-agi",
    "title": "Symposium highlights MIT’s wide range of innovations for aging brain health",
    "summary": "In six talks, researchers from across MIT described projects aimed at advancing the understanding of and interventions against neurodegenerative diseases such as Alzheimer’s, Parkinson’s, and ALS.",
@@ -712,17 +725,17 @@
    "ts": "2026-10-19T15:40:26+00:00"
   },
   {
-   "id": "celebrating-bepicolombo-three-words-at-a-time",
-   "title": "Celebrating BepiColombo, three words at a time",
-   "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
-   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
+   "id": "faster-to-science-a-letter-to-the-science-community",
+   "title": "Faster to Science: A Letter to the Science Community",
+   "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+   "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/05/rsch-phys-nasa-fox-dspoc-visit-ek-041824-007.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:00:00+00:00"
+   "date": "2026-10-22",
+   "ts": "2026-10-22T00:00:16+00:00"
   },
   {
    "id": "new-optogenetic-tool-inhibits-activity-in-neurons-and-heart",
@@ -736,19 +749,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T23:20:01+00:00"
-  },
-  {
-   "id": "nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
-   "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
-   "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct.",
-   "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T18:35:56+00:00"
   },
   {
    "id": "there-should-be-black-holes-in-our-neighbourhood-can-we-find",
@@ -842,17 +842,17 @@
    "ts": "2026-10-19T18:20:00+00:00"
   },
   {
-   "id": "euclid-discovers-new-comet",
-   "title": "Euclid discovers new comet",
-   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+   "id": "celebrating-bepicolombo-three-words-at-a-time",
+   "title": "Celebrating BepiColombo, three words at a time",
+   "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
+   "url": "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time",
    "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2026/10/celebrating_bepicolombo_three_words_at_a_time/27584100-1-eng-GB/Celebrating_BepiColombo_three_words_at_a_time_card_full.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-19",
-   "ts": "2026-10-19T12:00:00+00:00"
+   "ts": "2026-10-19T15:00:00+00:00"
   },
   {
    "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
@@ -881,6 +881,19 @@
    "ts": "2026-10-21T23:00:01+00:00"
   },
   {
+   "id": "nasa-conducts-rs-25-engine-test-in-support-of-future-artemis",
+   "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+   "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
+   "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/ssc-20261021-s00947h.jpg?w=1024",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T20:51:50+00:00"
+  },
+  {
    "id": "a-stubborn-question-answered-new-research-reveals-how-the-mi",
    "title": "A Stubborn Question Answered: New Research Reveals How the Milky Way's Disk Formed",
    "summary": "Figuring out how the Milky Way's thin and thick disks formed is a tough question in astronomy. It relies on determining individual stellar ages accurately.",
@@ -892,19 +905,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T17:23:09+00:00"
-  },
-  {
-   "id": "nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-al",
-   "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
-   "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24.",
-   "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T16:31:11+00:00"
   },
   {
    "id": "the-russians-were-the-problem-in-the-end-sailor-matt-ruther",
@@ -972,6 +972,19 @@
    "ts": "2026-10-19T12:35:17+00:00"
   },
   {
+   "id": "euclid-discovers-new-comet",
+   "title": "Euclid discovers new comet",
+   "summary": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026.",
+   "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/comet_c_2026_s1_euclid_streaks_across_the_sky/27582276-1-eng-GB/Comet_C_2026_S1_Euclid_streaks_across_the_sky_card_full.gif",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:00:00+00:00"
+  },
+  {
    "id": "giving-ai-a-crystal-clear-view-of-the-materials-world",
    "title": "Giving AI a “crystal clear” view of the materials world",
    "summary": "New research can help AI models understand crystalline materials in 3D and reason about their properties.",
@@ -1011,6 +1024,19 @@
    "ts": "2026-10-21T22:30:06+00:00"
   },
   {
+   "id": "nasa-jpl-looks-to-next-90-years-of-innovation-exploration",
+   "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+   "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct.",
+   "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/jpl90collage-v3-jpg-16x9-1.jpg?w=2048",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T18:35:56+00:00"
+  },
+  {
    "id": "neutrinos-may-be-the-key-to-why-we-are-surrounded-by-matter",
    "title": "Neutrinos May Be The Key To Why We Are Surrounded By Matter",
    "summary": "In the early Universe, neutrinos interacted strongly with other matter before some of them \"decoupled.\" The heaviest of these decoupled neutrinos may be the solution to the matter-antimatter cosmic mystery.",
@@ -1022,19 +1048,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T16:45:41+00:00"
-  },
-  {
-   "id": "tracks-along-the-longest-drive-on-another-world",
-   "title": "Tracks Along the Longest Drive on Another World",
-   "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct.",
-   "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2026/perseverance-rover-updates/Mars_Perseverance_NLF_2006_0845030184_441ECM_N0911496NCAM03006_04_195J.jpg?w=1288&#038;h=968&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:50:44+00:00"
   },
   {
    "id": "orionid-meteor-shower-peaks-tonight-here-s-the-best-time-to",
@@ -1141,6 +1154,19 @@
    "ts": "2026-10-21T22:20:07+00:00"
   },
   {
+   "id": "nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-al",
+   "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+   "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24.",
+   "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-21",
+   "ts": "2026-10-21T16:31:11+00:00"
+  },
+  {
    "id": "how-inversion-and-nasa-plan-to-unlock-interplanetary-aerocap",
    "title": "How Inversion and NASA Plan to Unlock Interplanetary Aerocapture MB edits",
    "summary": "Using a planet’s atmosphere to secure a satellite’s place in orbit, a process known as “aerocapture”, has been the dream of flight engineers for decades. The only problem? It’s really hard to actually do.",
@@ -1152,19 +1178,6 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T16:12:33+00:00"
-  },
-  {
-   "id": "science-on-the-space-station-with-nasa-astronaut-jessica-wat",
-   "title": "Science on the Space Station with NASA Astronaut Jessica Watkins",
-   "summary": "NASA astronaut and Expedition 75 flight engineer Jessica Watkins works inside the Kibo laboratory module’s Life Science Glovebox on Oct.",
-   "url": "https://www.nasa.gov/image-article/science-on-the-space-station-with-nasa-astronaut-jessica-watkins/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/iss075e0190239orig.jpg?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:05:08+00:00"
   },
   {
    "id": "russian-satellite-plays-cat-and-mouse-with-a-commercial-us-s",
@@ -1191,36 +1204,9 @@
    ],
    "date": "2026-10-21",
    "ts": "2026-10-21T10:00:00+00:00"
-  },
-  {
-   "id": "a-massive-asteroid-slammed-into-the-north-sea-and-unleashed",
-   "title": "A massive asteroid slammed into the North Sea and unleashed a 330-foot tsunami",
-   "summary": "A decades-long mystery beneath the North Sea has finally been solved. Scientists have confirmed that the Silverpit Crater, buried 700 meters below the seabed, was created when a 160-meter-wide asteroid struck Earth…",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261020085727.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/asteroid-slamming-into-ocean.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T04:08:28+00:00"
   }
  ],
  "ai": [
-  {
-   "id": "ai-google-cloud-ships-llm-d-1-0-with-cache-aware-routing-fo",
-   "title": "Google Cloud Ships llm-d 1.0 With Cache-Aware Routing for TPU and GPU Fleets",
-   "summary": "Google, Red Hat and IBM released llm-d 1.0, an open-source Kubernetes-native stack for distributed LLM inference. It adds multi-tenant flow control, zero-downtime upgrades and agent-aware routing across vLLM, SGLang…",
-   "url": "https://www.marktechpost.com/2026/10/20/llm-d-1-0-open-source-distributed-inference-stack/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f916.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T04:33:40+00:00",
-   "rank": 0
-  },
   {
    "id": "ai-physicist-christopher-stubbs-joins-anthropic-s-long-term",
    "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
@@ -1234,6 +1220,20 @@
    "date": "2026-10-21",
    "ts": "2026-10-21T00:00:00+00:00",
    "rank": 0
+  },
+  {
+   "id": "ai-ensemble-forecasting-with-ibm-granite-time-series-models",
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "summary": "A Blog post by IBM Research on Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "source": "Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T07:51:31+00:00",
+   "rank": 1
   },
   {
    "id": "ai-leading-european-financial-services-organizations-embrac",
@@ -1306,34 +1306,6 @@
    "rank": 1
   },
   {
-   "id": "ai-mistral-ai-releases-voxtral-3-speech-to-text-tts-and-a-v",
-   "title": "Mistral AI Releases Voxtral 3: Speech-to-Text, TTS and a Voice Agent SDK",
-   "summary": "Mistral AI released Voxtral 3, a family of 3 transcription models, 1 text-to-speech model and a LiveKit-based voice agent SDK. Voxtral Small Transcribe 3 scores 2.1% AA-WER, ranking #3 on Artificial Analysis.",
-   "url": "https://www.marktechpost.com/2026/10/20/mistral-voxtral-3-speech-models-voice-agent-sdk/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-18-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T06:03:12+00:00",
-   "rank": 1
-  },
-  {
-   "id": "ai-altk-evolve-how-learned-memory-tops-the-bench-leaderboar",
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "summary": "A Blog post by IBM Research on Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T15:19:48+00:00",
-   "rank": 1
-  },
-  {
    "id": "ai-hugging-face-torchtpu-tpus-natively",
    "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
    "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
@@ -1346,6 +1318,20 @@
    "date": "2026-10-20",
    "ts": "2026-10-20T00:00:00+00:00",
    "rank": 1
+  },
+  {
+   "id": "ai-ibm-ai-releases-granite-speech-5-0-2b-for-multilingual-t",
+   "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
+   "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.",
+   "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-1-2-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T07:00:56+00:00",
+   "rank": 2
   },
   {
    "id": "ai-nvidia-cosmos-opens-new-tools-to-train-evaluate-and-depl",
@@ -1373,6 +1359,20 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T05:00:23+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-perplexity-and-nvidia-researchers-introduce-jolt-a-joint",
+   "title": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement Learning Method",
+   "summary": "Perplexity and NVIDIA introduced JOLT, a post-training method that trains one model as both teacher and student. On MATH it matched GRPO’s accuracy with 6.5x fewer processed training tokens.",
+   "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-23-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:56:31+00:00",
    "rank": 2
   },
   {
