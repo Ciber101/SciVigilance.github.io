@@ -1,7 +1,29 @@
 {
- "updated": "2026-10-22T19:42:10-07:00",
- "updated_pt": "Oct 22, 2026, 7:42 PM PT",
+ "updated": "2026-10-23T01:36:12-07:00",
+ "updated_pt": "Oct 23, 2026, 1:36 AM PT",
  "stories": [
+  {
+   "title": "Study: Europe's record summer heat killed about 50,000 people in its cities, two-thirds of them because of climate change",
+   "tag": "Climate",
+   "date": "2026-10-23",
+   "paragraphs": [
+    "Record heat across Europe this summer was linked to 50,391 deaths in 854 European cities between June and August, according to a study by researchers at Imperial College London reported by The Associated Press on Oct. 23, 2026. The study, due in an upcoming issue of Nature Health, found that 32,619 of those deaths, about 65 percent, happened because of the extra heat added by human-caused climate change, mostly from burning coal, oil and gas.",
+    "According to the AP, that toll is 71 percent higher than the previous deadliest summer the same researchers have tracked, 29,480 deaths in 2022. The authors told the AP the new figures are underestimates, because they leave out a deadly heat wave in May and cover only those 854 cities, which hold about 40 percent of Europe's population. About a third of the deaths came during an especially intense heat wave from June 17 to July 1, when temperatures ran 5.3 degrees Celsius (9.5 degrees Fahrenheit) above normal, co-author Garyfallos Konstantinoudis said. Italy, France, Spain and Germany had the highest death tolls, and more than half of those who died were 85 or older, though more than 800 people aged 20 to 44 also died.",
+    "The study's abstract says the team combined probabilistic climate attribution with city- and age-specific temperature and mortality relationships, comparing this summer with simulated conditions in a world without human-caused warming. The paper notes that Europe was about 2.5 degrees Celsius warmer in 2026 than in a preindustrial climate, and that the summer was confirmed as the hottest on record for western Europe. Lead author Clair Barnes told the AP that much of western and northern Europe's infrastructure \"is just not designed to cope\" with today's temperatures, and that the share of heat deaths attributable to warming has grown from about 45 percent in the early 2000s to 65 percent now.",
+    "The researchers checked their method against real-time government estimates, the AP reported: for Britain's May and June heat waves, the team calculated 2,700 excess deaths, while the U.K. health statistics agency counted 2,800. Outside experts quoted by the AP, including Howard Frumkin, former director of the U.S. National Center for Environmental Health, and Jonathan Patz of the University of Wisconsin-Madison, praised the methods and called for both better protection from heat and cuts in fossil fuel use."
+   ],
+   "sources": [
+    {
+     "name": "NPR (The Associated Press)",
+     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
+     "date": "2026-10-23"
+    },
+    {
+     "name": "Imperial College London: study preprint",
+     "url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/e8879b8a-f89b-4690-b6d5-5bfbf81f94b8/content"
+    }
+   ]
+  },
   {
    "title": "xAI launches the SpaceX Super Intelligence Partner Network, with more than 130 companies in early access",
    "tag": "AI",
@@ -98,38 +120,6 @@
      "name": "Space.com",
      "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
      "date": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "title": "Japan launches MMX, the first mission meant to bring back samples from a moon of Mars",
-   "tag": "Space",
-   "date": "2026-10-21",
-   "paragraphs": [
-    "The Japan Aerospace Exploration Agency (JAXA) launched its Martian Moons eXploration (MMX) spacecraft on an H3 rocket from the Tanegashima Space Center at 4:41:03 a.m. Japan time on Oct. 20, 2026, which was 12:41 p.m. PT on Oct. 19, according to JAXA's launch release. JAXA says the rocket flew as planned, the spacecraft separated about 71 minutes and 13 seconds after liftoff, and MMX was placed into its planned orbit. Space.com reports it was the 10th flight of the H3, which JAXA developed with Mitsubishi Heavy Industries. On Oct. 21, JAXA announced that the critical sequence of the spacecraft's first operations had been completed and that MMX is in good health; the agency will now check its onboard equipment and prepare for the cruise toward Mars.",
-    "JAXA's mission page says MMX will observe both of Mars' moons, Phobos and Deimos, land on Phobos to collect samples and return them to Earth, calling it the world's first mission to bring back material from the Martian system. The agency says the goal is to clarify where the Martian moons came from and how the Mars system evolved, and to explore how a habitable environment might have arisen on the rocky planets.",
-    "According to Space.com, the cruise to Mars takes about 10 months, with arrival scheduled for August 2027, when MMX will enter a quasi-satellite orbit around Phobos, a path that keeps it near the moon as both circle Mars. Space.com reports the spacecraft will spend about three years there and carries IDEFIX, a rover built jointly by the French and German space agencies, scheduled to be deployed to the surface of Phobos in late 2028 or early 2029. After mapping landing sites, MMX is to touch down on Phobos twice to collect samples, then make a series of flybys of the smaller moon Deimos before leaving for Earth in November 2030, with the sample capsule set to land in Australia in 2031.",
-    "Space.com explains that scientists hope the samples will settle a decades-old question about the moons' origins. Their near-circular, equatorial orbits suggest they could have formed from debris after a giant impact on Mars, similar to how Earth's moon is thought to have formed, while their lumpy shapes and chemical makeup, as far as telescopes can tell, point to captured asteroids from the early solar system. Mission team members have said that answering the question would give key clues about Mars' geological past and the early history of the solar system."
-   ],
-   "sources": [
-    {
-     "name": "JAXA (launch result)",
-     "url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "JAXA (initial operations complete)",
-     "url": "https://global.jaxa.jp/press/2026/10/20261021-1_e.html",
-     "date": "2026-10-21"
-    },
-    {
-     "name": "JAXA ISAS: MMX mission page",
-     "url": "https://www.isas.jaxa.jp/en/missions/spacecraft/current/mmx.html"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
-     "date": "2026-10-19"
     }
    ]
   }
