@@ -1,52 +1,11 @@
 {
  "data": [
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113661974630600801",
    "created_at": "2026-10-23T16:00:59.000Z",
    "edit_history_tweet_ids": [
     "2113661974630600801"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 156,
-      "start": 140,
-      "tag": "AndromedaGalaxy"
-     },
-     {
-      "end": 162,
-      "start": 157,
-      "tag": "APOD"
-     }
-    ],
-    "urls": [
-     {
-      "display_url": "science.nasa.gov/image-article/…",
-      "end": 138,
-      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-      "images": [
-       {
-        "height": 855,
-        "url": "https://pbs.twimg.com/news_img/2113482459329241088/XudpuDlD?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113482459329241088/XudpuDlD?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 115,
-      "status": 200,
-      "title": "APOD: 2026 October 23 – Andromeda in Southern Spring - NASA Science",
-      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-      "url": "https://t.co/GI3M8PN51F"
-     }
-    ]
-   },
    "id": "2113661974630600801",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 4,
@@ -59,56 +18,14 @@
    "url": "https://x.com/i/status/2113661974630600801"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113616637220077786",
    "created_at": "2026-10-23T13:00:50.000Z",
    "edit_history_tweet_ids": [
     "2113616637220077786"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 122,
-      "start": 111,
-      "tag": "Exoplanets"
-     },
-     {
-      "end": 128,
-      "start": 123,
-      "tag": "JWST"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Typically, when we think of exoplanets, we think of neat spheres floating directly in front of their star, which acts as a giant spotlight. From our vantage point, they would look more like two perfect two dimensional circles than spheres, though. But nature is almost never so clean-cut. A new paper published in Nature Astronomy from researchers at Cornell and the University of Bristol details the first-ever study of an exoplanet that is noticeably lopsided.",
-      "display_url": "universetoday.com/articles/jwst-…",
-      "end": 109,
-      "expanded_url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
-      "images": [
-       {
-        "height": 641,
-        "url": "https://pbs.twimg.com/news_img/2113586696444887040/poGp5wpn?format=jpg&name=orig",
-        "width": 1140
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113586696444887040/poGp5wpn?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 86,
-      "status": 200,
-      "title": "JWST Reveals a Lopsided Alien World with Blistering Evening Winds",
-      "unwound_url": "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds",
-      "url": "https://t.co/1BsCpWo3IX"
-     }
-    ]
-   },
    "id": "2113616637220077786",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 2,
+    "impression_count": 3,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -118,53 +35,11 @@
    "url": "https://x.com/i/status/2113616637220077786"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113571337709195300",
    "created_at": "2026-10-23T10:00:49.000Z",
    "edit_history_tweet_ids": [
     "2113571337709195300"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 129,
-      "start": 126,
-      "tag": "AI"
-     },
-     {
-      "end": 143,
-      "start": 130,
-      "tag": "DeepLearning"
-     }
-    ],
-    "urls": [
-     {
-      "description": "MIT Assistant Professor Benjamin Lindquist discusses his research on the incorporation of randomness and irrationality into early AI models designed to mimic human creativity.",
-      "display_url": "news.mit.edu/2026/qa-how-ai…",
-      "end": 124,
-      "expanded_url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "images": [
-       {
-        "height": 868,
-        "url": "https://pbs.twimg.com/news_img/2113533945081995264/B6FzgZTi?format=jpg&name=orig",
-        "width": 1302
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113533945081995264/B6FzgZTi?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 101,
-      "status": 200,
-      "title": "Q&A: How AI came to model the “messy” human mind",
-      "unwound_url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-      "url": "https://t.co/KpkCX1mscV"
-     }
-    ]
-   },
    "id": "2113571337709195300",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 9,
@@ -177,56 +52,14 @@
    "url": "https://x.com/i/status/2113571337709195300"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113526236068872662",
    "created_at": "2026-10-23T07:01:36.000Z",
    "edit_history_tweet_ids": [
     "2113526236068872662"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 133,
-      "start": 120,
-      "tag": "NanoMedicine"
-     },
-     {
-      "end": 148,
-      "start": 134,
-      "tag": "Antimicrobial"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Scientific Reports - Hierarchical Mg/Ag2O nanostructures as multifunctional biomedical agents with potent antimicrobial, mosquitocidal, and anticancer efficacy",
-      "display_url": "nature.com/articles/s4159…",
-      "end": 118,
-      "expanded_url": "https://www.nature.com/articles/s41598-026-72305-4",
-      "images": [
-       {
-        "height": 1026,
-        "url": "https://pbs.twimg.com/news_img/2113526237331333120/zfipFaKT?format=png&name=orig",
-        "width": 1532
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113526237331333120/zfipFaKT?format=png&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 95,
-      "status": 200,
-      "title": "Hierarchical Mg/Ag2O nanostructures as multifunctional biomedical agents with potent antimicrobial, mosquitocidal, and anticancer efficacy",
-      "unwound_url": "https://www.nature.com/articles/s41598-026-72305-4?error=cookies_not_supported&code=c770a838-e32c-4e2e-8573-24671b666298",
-      "url": "https://t.co/bRYAcuFkL0"
-     }
-    ]
-   },
    "id": "2113526236068872662",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
-    "impression_count": 4,
+    "impression_count": 5,
     "like_count": 0,
     "quote_count": 0,
     "reply_count": 0,
@@ -236,53 +69,11 @@
    "url": "https://x.com/i/status/2113526236068872662"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113480866139922479",
    "created_at": "2026-10-23T04:01:19.000Z",
    "edit_history_tweet_ids": [
     "2113480866139922479"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 178,
-      "start": 161,
-      "tag": "SpaceExploration"
-     },
-     {
-      "end": 191,
-      "start": 179,
-      "tag": "MoonMission"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University",
-      "display_url": "nasa.gov/news-release/n…",
-      "end": 159,
-      "expanded_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "images": [
-       {
-        "height": 1700,
-        "url": "https://pbs.twimg.com/news_img/2113385707733434368/yDFKVa-p?format=jpg&name=orig",
-        "width": 3400
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113385707733434368/yDFKVa-p?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 136,
-      "status": 200,
-      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium - NASA",
-      "unwound_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
-      "url": "https://t.co/jxT7Y6yxkC"
-     }
-    ]
-   },
    "id": "2113480866139922479",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 17,
@@ -295,53 +86,11 @@
    "url": "https://x.com/i/status/2113480866139922479"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113390244171317735",
    "created_at": "2026-10-22T22:01:13.000Z",
    "edit_history_tweet_ids": [
     "2113390244171317735"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 160,
-      "start": 149,
-      "tag": "3DPrinting"
-     },
-     {
-      "end": 173,
-      "start": 161,
-      "tag": "SmartDesign"
-     }
-    ],
-    "urls": [
-     {
-      "description": "The “X-Hinges” software tool developed by MIT CSAIL researchers can help users design and produce self-aware items. It automatically embeds sensors at different angles that send clear signals, ensuring your object reacts to dynamic interactions in real time.",
-      "display_url": "news.mit.edu/2026/design-so…",
-      "end": 147,
-      "expanded_url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "images": [
-       {
-        "height": 640,
-        "url": "https://pbs.twimg.com/news_img/2113390244775223296/t_AHBiO0?format=jpg&name=orig",
-        "width": 960
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113390244775223296/t_AHBiO0?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 124,
-      "status": 200,
-      "title": "This design software reimagines everyday objects as self-aware devices",
-      "unwound_url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "url": "https://t.co/dGkPd3O9zY"
-     }
-    ]
-   },
    "id": "2113390244171317735",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 6,
@@ -354,53 +103,11 @@
    "url": "https://x.com/i/status/2113390244171317735"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113344967603372370",
    "created_at": "2026-10-22T19:01:18.000Z",
    "edit_history_tweet_ids": [
     "2113344967603372370"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 145,
-      "start": 124,
-      "tag": "GravitationalLensing"
-     },
-     {
-      "end": 161,
-      "start": 146,
-      "tag": "RomanTelescope"
-     }
-    ],
-    "urls": [
-     {
-      "description": "This Hubble gravitational lensing image is one of many taken in preparation for science with the Nancy Grace Roman Space Telescope.",
-      "display_url": "science.nasa.gov/missions/hubbl…",
-      "end": 122,
-      "expanded_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "images": [
-       {
-        "height": 1216,
-        "url": "https://pbs.twimg.com/news_img/2113310294462066688/AalD3RLv?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113310294462066688/AalD3RLv?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 99,
-      "status": 200,
-      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses  - NASA Science",
-      "unwound_url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
-      "url": "https://t.co/juS7PpTdQL"
-     }
-    ]
-   },
    "id": "2113344967603372370",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 17,
@@ -413,40 +120,11 @@
    "url": "https://x.com/i/status/2113344967603372370"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113299652091207787",
    "created_at": "2026-10-22T16:01:14.000Z",
    "edit_history_tweet_ids": [
     "2113299652091207787"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 152,
-      "start": 138,
-      "tag": "StarFormation"
-     },
-     {
-      "end": 160,
-      "start": 153,
-      "tag": "Nebula"
-     }
-    ],
-    "urls": [
-     {
-      "display_url": "esa.int/ESA_Multimedia…",
-      "end": 136,
-      "expanded_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "start": 113,
-      "status": 200,
-      "title": "kernel (1)",
-      "unwound_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-      "url": "https://t.co/wscyPccTqj"
-     }
-    ]
-   },
    "id": "2113299652091207787",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 4,
@@ -459,53 +137,11 @@
    "url": "https://x.com/i/status/2113299652091207787"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113254366044106916",
    "created_at": "2026-10-22T13:01:17.000Z",
    "edit_history_tweet_ids": [
     "2113254366044106916"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 161,
-      "start": 146,
-      "tag": "QuantumPhysics"
-     },
-     {
-      "end": 177,
-      "start": 162,
-      "tag": "PhysicsHistory"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Unlike classical physics, quantum mechanics generally cannot tell us exactly what will happen in an individual event. Instead, it predicts the probabilities of different outcomes. As one of the theory's ...",
-      "display_url": "phys.org/news/2026-10-l…",
-      "end": 144,
-      "expanded_url": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
-      "images": [
-       {
-        "height": 853,
-        "url": "https://pbs.twimg.com/news_img/2113254367797391361/NBPyyrJg?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113254367797391361/NBPyyrJg?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 121,
-      "status": 200,
-      "title": "Lost Schrödinger manuscript reveals his true view of quantum randomness",
-      "unwound_url": "https://phys.org/news/2026-10-lost-schrdinger-manuscript-reveals-true.html",
-      "url": "https://t.co/OIbvl1WM2M"
-     }
-    ]
-   },
    "id": "2113254366044106916",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 4,
@@ -518,53 +154,11 @@
    "url": "https://x.com/i/status/2113254366044106916"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113209089870496205",
    "created_at": "2026-10-22T10:01:23.000Z",
    "edit_history_tweet_ids": [
     "2113209089870496205"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 156,
-      "start": 144,
-      "tag": "SolarFlares"
-     },
-     {
-      "end": 170,
-      "start": 157,
-      "tag": "SpaceScience"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Solar flaring is complex behaviour triggered by reconnection, when magnetic field lines break and then snap back to the Sun's surface. The flaring is complex behaviour, and its details are difficult to observe. Researchers found a new way to study flaring behaviour.",
-      "display_url": "universetoday.com/articles/how-f…",
-      "end": 142,
-      "expanded_url": "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun",
-      "images": [
-       {
-        "height": 1000,
-        "url": "https://pbs.twimg.com/news_img/2113049323092983808/3jwKlv1_?format=jpg&name=orig",
-        "width": 1000
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113049323092983808/3jwKlv1_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 119,
-      "status": 200,
-      "title": "How Flare Ribbons Reveal Hidden Solar Explosions on the Sun",
-      "unwound_url": "https://www.universetoday.com/articles/how-flare-ribbons-reveal-hidden-solar-explosions-on-the-sun",
-      "url": "https://t.co/Z9UBXklO8D"
-     }
-    ]
-   },
    "id": "2113209089870496205",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 6,
@@ -577,52 +171,11 @@
    "url": "https://x.com/i/status/2113209089870496205"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113166831381041383",
    "created_at": "2026-10-22T07:13:27.000Z",
    "edit_history_tweet_ids": [
     "2113166831381041383"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 125,
-      "start": 114,
-      "tag": "WhiteDwarf"
-     },
-     {
-      "end": 143,
-      "start": 126,
-      "tag": "StellarDiscovery"
-     }
-    ],
-    "urls": [
-     {
-      "display_url": "science.nasa.gov/image-article/…",
-      "end": 112,
-      "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "images": [
-       {
-        "height": 1280,
-        "url": "https://pbs.twimg.com/news_img/2113120461789745152/WyxXBLKp?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113120461789745152/WyxXBLKp?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 89,
-      "status": 200,
-      "title": "APOD: 2026 October 22 - The First Green Star, WD J1330+6435 - NASA Science",
-      "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
-      "url": "https://t.co/Wuimxsmxtw"
-     }
-    ]
-   },
    "id": "2113166831381041383",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 2,
@@ -635,53 +188,11 @@
    "url": "https://x.com/i/status/2113166831381041383"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113120816443588784",
    "created_at": "2026-10-22T04:10:37.000Z",
    "edit_history_tweet_ids": [
     "2113120816443588784"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 140,
-      "start": 125,
-      "tag": "QuantumPhysics"
-     },
-     {
-      "end": 148,
-      "start": 141,
-      "tag": "Optics"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated ...",
-      "display_url": "phys.org/news/2026-10-l…",
-      "end": 123,
-      "expanded_url": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
-      "images": [
-       {
-        "height": 945,
-        "url": "https://pbs.twimg.com/news_img/2113120816867209216/8uf4hwVN?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113120816867209216/8uf4hwVN?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 100,
-      "status": 200,
-      "title": "Laser-made lattice reveals discrete light solitons in tunable atomic vapor",
-      "unwound_url": "https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html",
-      "url": "https://t.co/i1TFZGBCW3"
-     }
-    ]
-   },
    "id": "2113120816443588784",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 12,
@@ -694,53 +205,11 @@
    "url": "https://x.com/i/status/2113120816443588784"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113073141773979680",
    "created_at": "2026-10-22T01:01:10.000Z",
    "edit_history_tweet_ids": [
     "2113073141773979680"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 137,
-      "start": 129,
-      "tag": "Artemis"
-     },
-     {
-      "end": 156,
-      "start": 138,
-      "tag": "SpaceLaunchSystem"
-     }
-    ],
-    "urls": [
-     {
-      "description": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.",
-      "display_url": "nasa.gov/image-article/…",
-      "end": 127,
-      "expanded_url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "images": [
-       {
-        "height": 3712,
-        "url": "https://pbs.twimg.com/news_img/2113011827433152512/0_YJ91Jj?format=jpg&name=orig",
-        "width": 5568
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113011827433152512/0_YJ91Jj?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 104,
-      "status": 200,
-      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions - NASA",
-      "unwound_url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
-      "url": "https://t.co/YUPrwFtUqo"
-     }
-    ]
-   },
    "id": "2113073141773979680",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 15,
@@ -753,81 +222,11 @@
    "url": "https://x.com/i/status/2113073141773979680"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113058155810979885",
    "created_at": "2026-10-22T00:01:37.000Z",
    "edit_history_tweet_ids": [
     "2113058155810979885"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 72,
-      "start": 65,
-      "tag": "shorts"
-     },
-     {
-      "end": 155,
-      "start": 147,
-      "tag": "Science"
-     },
-     {
-      "end": 162,
-      "start": 156,
-      "tag": "Space"
-     }
-    ],
-    "urls": [
-     {
-      "description": "In 1181, a new star blazed in the sky. Gemini North just took the s...",
-      "display_url": "youtube.com/shorts/ao8oHnv…",
-      "end": 96,
-      "expanded_url": "https://www.youtube.com/shorts/ao8oHnvBTwk",
-      "images": [
-       {
-        "height": 720,
-        "url": "https://pbs.twimg.com/news_img/2113058156083638272/YroT2MN9?format=jpg&name=orig",
-        "width": 405
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113058156083638272/YroT2MN9?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 73,
-      "status": 200,
-      "title": "A Star Exploded in 1181. Here's What It Left Behind #shorts",
-      "unwound_url": "https://www.youtube.com/shorts/ao8oHnvBTwk",
-      "url": "https://t.co/IVDKGMCAqr"
-     },
-     {
-      "description": "This channel is mainly made for aerial videography as well as other types of videography I choose. This is going to be a very high quality channel most of the time. Enjoy the content! w51oorg9p5",
-      "display_url": "youtube.com/@ciberaifacts/…",
-      "end": 146,
-      "expanded_url": "https://www.youtube.com/@ciberaifacts/shorts",
-      "images": [
-       {
-        "height": 900,
-        "url": "https://pbs.twimg.com/news_img/2113058198441836544/TM2Cwbz-?format=jpg&name=orig",
-        "width": 900
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2113058198441836544/TM2Cwbz-?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 123,
-      "status": 200,
-      "title": "CAI (AI Science Facts)",
-      "unwound_url": "https://www.youtube.com/@ciberaifacts/shorts",
-      "url": "https://t.co/Ixim7fNj7d"
-     }
-    ]
-   },
    "id": "2113058155810979885",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 3,
@@ -840,41 +239,11 @@
    "url": "https://x.com/i/status/2113058155810979885"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2113027895304372309",
    "created_at": "2026-10-21T22:01:23.000Z",
    "edit_history_tweet_ids": [
     "2113027895304372309"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 194,
-      "start": 171,
-      "tag": "SpatialTranscriptomics"
-     },
-     {
-      "end": 207,
-      "start": 195,
-      "tag": "GeneMapping"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Nature Communications - While sequencing-based spatial transcriptomics has reached subcellular resolution, its low capture efficiency compromises downstream analysis. Here, authors present a...",
-      "display_url": "nature.com/articles/s4146…",
-      "end": 169,
-      "expanded_url": "https://www.nature.com/articles/s41467-026-78854-6",
-      "start": 146,
-      "status": 200,
-      "title": "Sequencing-based spatial transcriptomics with high sensitivity",
-      "unwound_url": "https://www.nature.com/articles/s41467-026-78854-6?error=cookies_not_supported&code=095f0d89-3812-4a07-9719-5af91c7c4909",
-      "url": "https://t.co/x3BaLvFvYO"
-     }
-    ]
-   },
    "id": "2113027895304372309",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 2,
@@ -887,53 +256,11 @@
    "url": "https://x.com/i/status/2113027895304372309"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112982589447565501",
    "created_at": "2026-10-21T19:01:21.000Z",
    "edit_history_tweet_ids": [
     "2112982589447565501"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 151,
-      "start": 135,
-      "tag": "MarsExploration"
-     },
-     {
-      "end": 170,
-      "start": 152,
-      "tag": "PerseveranceRover"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA's Jet Propulsion Laboratory",
-      "display_url": "science.nasa.gov/blog/tracks-al…",
-      "end": 133,
-      "expanded_url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-      "images": [
-       {
-        "height": 961,
-        "url": "https://pbs.twimg.com/news_img/2112947971423719424/0SPZfKwD?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2112947971423719424/0SPZfKwD?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 110,
-      "status": 200,
-      "title": "Tracks Along the Longest Drive on Another World - NASA Science",
-      "unwound_url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-      "url": "https://t.co/WqPHyf2LQ3"
-     }
-    ]
-   },
    "id": "2112982589447565501",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 3,
@@ -946,41 +273,11 @@
    "url": "https://x.com/i/status/2112982589447565501"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112937415862362459",
    "created_at": "2026-10-21T16:01:51.000Z",
    "edit_history_tweet_ids": [
     "2112937415862362459"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 142,
-      "start": 133,
-      "tag": "Histones"
-     },
-     {
-      "end": 159,
-      "start": 143,
-      "tag": "GenomeIntegrity"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Nature Communications - PRMT5 is essential for cell proliferation, but the basis for this requirement is unclear. Here, the authors show that PRMT5 sustains histone transcription and genome...",
-      "display_url": "nature.com/articles/s4146…",
-      "end": 131,
-      "expanded_url": "https://www.nature.com/articles/s41467-026-78671-x",
-      "start": 108,
-      "status": 200,
-      "title": "PRMT5 activity sustains histone production to maintain genome integrity",
-      "unwound_url": "https://www.nature.com/articles/s41467-026-78671-x?error=cookies_not_supported&code=99b8e241-353b-4004-a9fa-0fe1576dd95a",
-      "url": "https://t.co/sAlM1mD89M"
-     }
-    ]
-   },
    "id": "2112937415862362459",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 13,
@@ -993,53 +290,11 @@
    "url": "https://x.com/i/status/2112937415862362459"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112891915616297080",
    "created_at": "2026-10-21T13:01:02.000Z",
    "edit_history_tweet_ids": [
     "2112891915616297080"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 153,
-      "start": 135,
-      "tag": "QuantumNetworking"
-     },
-     {
-      "end": 175,
-      "start": 154,
-      "tag": "QuantumCommunication"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Quantum networks, systems that connect devices and allow them to exchange information encoded in the quantum states of particles, could enable more secure communications. To build these networks, physicists ...",
-      "display_url": "phys.org/news/2026-10-a…",
-      "end": 133,
-      "expanded_url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
-      "images": [
-       {
-        "height": 656,
-        "url": "https://pbs.twimg.com/news_img/2112872019465555968/O4LG7tf_?format=jpg&name=orig",
-        "width": 1280
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2112872019465555968/O4LG7tf_?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 110,
-      "status": 200,
-      "title": "Atomic memory keeps distant ions entangled for about 10 seconds",
-      "unwound_url": "https://phys.org/news/2026-10-atomic-memory-distant-ions-entangled.html",
-      "url": "https://t.co/DWI5V7h6uV"
-     }
-    ]
-   },
    "id": "2112891915616297080",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 4,
@@ -1052,53 +307,11 @@
    "url": "https://x.com/i/status/2112891915616297080"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112846614784287163",
    "created_at": "2026-10-21T10:01:02.000Z",
    "edit_history_tweet_ids": [
     "2112846614784287163"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 134,
-      "start": 117,
-      "tag": "QuantumComputing"
-     },
-     {
-      "end": 151,
-      "start": 135,
-      "tag": "ErrorCorrection"
-     }
-    ],
-    "urls": [
-     {
-      "description": "A demo of error-corrected qubits shows big reductions in errors as they grow.",
-      "display_url": "arstechnica.com/science/2026/1…",
-      "end": 115,
-      "expanded_url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
-      "images": [
-       {
-        "height": 648,
-        "url": "https://pbs.twimg.com/news_img/2112607394987708416/b4iIewXM?format=jpg&name=orig",
-        "width": 1152
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2112607394987708416/b4iIewXM?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 92,
-      "status": 200,
-      "title": "Quantum error correction goes well beyond breakeven",
-      "unwound_url": "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
-      "url": "https://t.co/HMi7hPN8w8"
-     }
-    ]
-   },
    "id": "2112846614784287163",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 6,
@@ -1111,41 +324,11 @@
    "url": "https://x.com/i/status/2112846614784287163"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112801317458714754",
    "created_at": "2026-10-21T07:01:02.000Z",
    "edit_history_tweet_ids": [
     "2112801317458714754"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 151,
-      "start": 142,
-      "tag": "Virology"
-     },
-     {
-      "end": 169,
-      "start": 152,
-      "tag": "ViralReplication"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Scientific Reports - Interaction of Bunyamwera virus non-structural protein NSm with cellular BNIP1 is required for efficient viral gene expression and replication",
-      "display_url": "nature.com/articles/s4159…",
-      "end": 140,
-      "expanded_url": "https://www.nature.com/articles/s41598-026-74306-9",
-      "start": 117,
-      "status": 200,
-      "title": "Interaction of Bunyamwera virus non-structural protein NSm with cellular BNIP1 is required for efficient viral gene expression and replication",
-      "unwound_url": "https://www.nature.com/articles/s41598-026-74306-9?error=cookies_not_supported&code=147b2a89-d252-4a10-99c6-dc45023a80dd",
-      "url": "https://t.co/NGGwXAA5cb"
-     }
-    ]
-   },
    "id": "2112801317458714754",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 5,
@@ -1158,95 +341,11 @@
    "url": "https://x.com/i/status/2112801317458714754"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112607542002237460",
-   "created_at": "2026-10-20T18:57:11.000Z",
-   "edit_history_tweet_ids": [
-    "2112619154897559595"
-   ],
-   "entities": {
-    "mentions": [
-     {
-      "end": 10,
-      "id": "1308211178",
-      "start": 0,
-      "username": "Teslarati"
-     },
-     {
-      "end": 26,
-      "id": "1447963180567863314",
-      "start": 11,
-      "username": "jeremyjudkins_"
-     }
-    ]
-   },
-   "id": "2112619154897559595",
-   "lang": "en",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 96,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "referenced_tweets": [
-    {
-     "id": "2112607542002237460",
-     "type": "replied_to"
-    }
-   ],
-   "text": "@Teslarati @jeremyjudkins_ Can't wait to get foot fungus lol.",
-   "url": "https://x.com/i/status/2112619154897559595"
-  },
-  {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112574885851795518",
    "created_at": "2026-10-20T16:01:17.000Z",
    "edit_history_tweet_ids": [
     "2112574885851795518"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 144,
-      "start": 134,
-      "tag": "Magnetars"
-     },
-     {
-      "end": 158,
-      "start": 145,
-      "tag": "NeutronStars"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Magnetars are neutron stars with magnetic fields a thousand times stronger than normal. One way that magnetars might form is through the merger of two small neutron stars.",
-      "display_url": "universetoday.com/articles/a-mag…",
-      "end": 132,
-      "expanded_url": "https://www.universetoday.com/articles/a-magnetar-can-be-born-when-two-neutron-stars-touch",
-      "images": [
-       {
-        "height": 1280,
-        "url": "https://pbs.twimg.com/news_img/2112573639912570880/4M8DhYhb?format=jpg&name=orig",
-        "width": 1920
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2112573639912570880/4M8DhYhb?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 109,
-      "status": 200,
-      "title": "A Magnetar Can Be Born When Two Neutron Stars Touch",
-      "unwound_url": "https://www.universetoday.com/articles/a-magnetar-can-be-born-when-two-neutron-stars-touch",
-      "url": "https://t.co/krC3yPtOrq"
-     }
-    ]
-   },
    "id": "2112574885851795518",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 2,
@@ -1259,41 +358,11 @@
    "url": "https://x.com/i/status/2112574885851795518"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112529542833389728",
    "created_at": "2026-10-20T13:01:06.000Z",
    "edit_history_tweet_ids": [
     "2112529542833389728"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 161,
-      "start": 145,
-      "tag": "MedicinalPlants"
-     },
-     {
-      "end": 182,
-      "start": 162,
-      "tag": "TraditionalMedicine"
-     }
-    ],
-    "urls": [
-     {
-      "description": "Scientific Reports - Antioxidant, antimicrobial, safety profiles and phytochemical analysis of selected medicinal plants collected from northern Kwazulu-Natal, South Africa",
-      "display_url": "nature.com/articles/s4159…",
-      "end": 143,
-      "expanded_url": "https://www.nature.com/articles/s41598-026-76861-7",
-      "start": 120,
-      "status": 200,
-      "title": "Antioxidant, antimicrobial, safety profiles and phytochemical analysis of selected medicinal plants collected from northern Kwazulu-Natal, South Africa",
-      "unwound_url": "https://www.nature.com/articles/s41598-026-76861-7?error=cookies_not_supported&code=eb7f7772-0f37-4c40-8a44-c60ebd7a8291",
-      "url": "https://t.co/z6Zf2OfcHc"
-     }
-    ]
-   },
    "id": "2112529542833389728",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 3,
@@ -1306,41 +375,11 @@
    "url": "https://x.com/i/status/2112529542833389728"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112484278617649311",
    "created_at": "2026-10-20T10:01:14.000Z",
    "edit_history_tweet_ids": [
     "2112484278617649311"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 118,
-      "start": 101,
-      "tag": "SpaceExploration"
-     },
-     {
-      "end": 131,
-      "start": 119,
-      "tag": "MarsMission"
-     }
-    ],
-    "urls": [
-     {
-      "description": "MMX lifts off to Mars’s moon Phobos",
-      "display_url": "esa.int/ESA_Multimedia…",
-      "end": 99,
-      "expanded_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "start": 76,
-      "status": 200,
-      "title": "MMX lifts off to Mars’s moon Phobos",
-      "unwound_url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos",
-      "url": "https://t.co/ETSzTlQ3wn"
-     }
-    ]
-   },
    "id": "2112484278617649311",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 8,
@@ -1353,53 +392,11 @@
    "url": "https://x.com/i/status/2112484278617649311"
   },
   {
-   "author_id": "1974272513917267972",
-   "conversation_id": "2112438935498658182",
    "created_at": "2026-10-20T07:01:04.000Z",
    "edit_history_tweet_ids": [
     "2112438935498658182"
    ],
-   "entities": {
-    "hashtags": [
-     {
-      "end": 136,
-      "start": 119,
-      "tag": "SpaceExploration"
-     },
-     {
-      "end": 149,
-      "start": 137,
-      "tag": "MarsMission"
-     }
-    ],
-    "urls": [
-     {
-      "description": "The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.",
-      "display_url": "arstechnica.com/space/2026/10/…",
-      "end": 117,
-      "expanded_url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "images": [
-       {
-        "height": 648,
-        "url": "https://pbs.twimg.com/news_img/2112424309532626944/9f7g1t1w?format=jpg&name=orig",
-        "width": 1152
-       },
-       {
-        "height": 150,
-        "url": "https://pbs.twimg.com/news_img/2112424309532626944/9f7g1t1w?format=jpg&name=150x150",
-        "width": 150
-       }
-      ],
-      "start": 94,
-      "status": 200,
-      "title": "Japan launches mission to bring home a piece of the Martian moon Phobos",
-      "unwound_url": "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
-      "url": "https://t.co/01LF6S5Axj"
-     }
-    ]
-   },
    "id": "2112438935498658182",
-   "lang": "en",
    "public_metrics": {
     "bookmark_count": 0,
     "impression_count": 17,
@@ -1451,6 +448,14 @@
     "2112333364892192816"
    ],
    "id": "2112333364892192816",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "🎬 New Short: You Can Actually Hear the Pillars of Creation #shorts\nhttps://t.co/rIWmahRIL6\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
    "url": "https://x.com/i/status/2112333364892192816"
   },
@@ -1460,6 +465,14 @@
     "2112303072617845193"
    ],
    "id": "2112303072617845193",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "ESA's Euclid telescope, designed to map galaxies and study dark energy, surprisingly discovered a new comet, C/2026 S1 (Euclid).\n\nhttps://t.co/dRMHGUKrsR\n\n#EuclidTelescope #CometDiscovery",
    "url": "https://x.com/i/status/2112303072617845193"
   },
@@ -1469,6 +482,14 @@
     "2112257987972903219"
    ],
    "id": "2112257987972903219",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "AI learns symmetry to improve prenatal scans, cutting repeat visits for families.\n\nhttps://t.co/TFtlFqzBoT\n\n#AISymmetry #PrenatalCare",
    "url": "https://x.com/i/status/2112257987972903219"
   },
@@ -1478,6 +499,14 @@
     "2112212471138455852"
    ],
    "id": "2112212471138455852",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "X-rays reveal long-lived spin waves in copper oxide, hinting at energy-efficient computing alternatives to silicon.\n\nhttps://t.co/FPB1yJi4jw\n\n#QuantumComputing #Spintronics",
    "url": "https://x.com/i/status/2112212471138455852"
   },
@@ -1487,6 +516,14 @@
     "2112167152610668932"
    ],
    "id": "2112167152610668932",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Euclid spots first unknown comet! ESA's telescope discovers new object in September 2026 images.\n\nhttps://t.co/WZL6Gbn7iH\n\n#Euclid #CometDiscovery",
    "url": "https://x.com/i/status/2112167152610668932"
   },
@@ -1496,6 +533,14 @@
     "2112121820505850041"
    ],
    "id": "2112121820505850041",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Drosophila macrophages adapt nuclear mechanics to intracellular forces, enhancing phagocytic capacity in vivo.\n\nhttps://t.co/oZL0sj6WPM\n\n#CellMechanics #Phagocytosis",
    "url": "https://x.com/i/status/2112121820505850041"
   },
@@ -1505,6 +550,14 @@
     "2112076583112749304"
    ],
    "id": "2112076583112749304",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Mystery in space! APOD reveals a rare X-ray-bright radio source, \"Treble Clef,\" defying cosmic norms.\n\nhttps://t.co/wUkG040w80\n\n#XRayAstronomy #APOD",
    "url": "https://x.com/i/status/2112076583112749304"
   },
@@ -1514,6 +567,14 @@
     "2112031264903680365"
    ],
    "id": "2112031264903680365",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Endothelial exosomes alter chromatin in cancer cells, boosting liver metastasis.\n\nhttps://t.co/f3CebTF3pb\n\n#CancerMetastasis #ExosomeCommunication",
    "url": "https://x.com/i/status/2112031264903680365"
   },
@@ -1523,6 +584,14 @@
     "2111986104509616469"
    ],
    "id": "2111986104509616469",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Solar Orbiter uncovers origin of magnetic \"switchbacks\"—tracing them to the Sun’s surface, shedding light on solar storms.\n\nhttps://t.co/X86AuyV4xC\n\n#SolarOrbiter #SolarMagnetism",
    "url": "https://x.com/i/status/2111986104509616469"
   },
@@ -1532,6 +601,14 @@
     "2111941528470081706"
    ],
    "id": "2111941528470081706",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Scientists develop efficient one-pot method to create polyhydroquinolines, a new class of α-glucosidase inhibitors.\n\nhttps://t.co/nJuWgPNfZG\n\n#Chemistry #DrugDiscovery",
    "url": "https://x.com/i/status/2111941528470081706"
   },
@@ -1541,6 +618,14 @@
     "2111895494566007030"
    ],
    "id": "2111895494566007030",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "New monolithic ion trap simplifies quantum simulations, making complex systems more accessible to researchers.\n\nhttps://t.co/i5m5xU3eIC\n\n#QuantumSimulation #IonTrap",
    "url": "https://x.com/i/status/2111895494566007030"
   },
@@ -1550,6 +635,14 @@
     "2111850111328555290"
    ],
    "id": "2111850111328555290",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 10,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "New study shows carvacrol-ZnO NPs modulate EMT genes in colorectal cancer via integrated in silico/in vitro methods.\n\nhttps://t.co/ZSm5gBVlG8\n\n#ColorectalCancer #NanoMedicine",
    "url": "https://x.com/i/status/2111850111328555290"
   },
@@ -1559,6 +652,14 @@
     "2111804774530310584"
    ],
    "id": "2111804774530310584",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 31,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Hear the Eagle Nebula's iconic pillars come to life through sonification! Astronomers transform cosmic images into sound, revealing hidden details in this stellar nursery.\n\nhttps://t.co/MAREGnatbB\n\n#Astronomy #Sonification",
    "url": "https://x.com/i/status/2111804774530310584"
   },
@@ -1568,6 +669,14 @@
     "2111759447928561870"
    ],
    "id": "2111759447928561870",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Revolutionizing AI's ability to reason about crystalline materials' 3D properties. #AI #MaterialsScience\n\nhttps://t.co/0CycJb2CL4\n\n#AI #MaterialsScience",
    "url": "https://x.com/i/status/2111759447928561870"
   },
@@ -1577,6 +686,14 @@
     "2111714293456744887"
    ],
    "id": "2111714293456744887",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Breakthrough! Prolyl hydroxylation is crucial for Zika virus NS1 protein maturation and secretion, revealing a new drug target.\n\nhttps://t.co/dPyfD3Z8zb\n\n#ZikaVirus #Virology",
    "url": "https://x.com/i/status/2111714293456744887"
   },
@@ -1586,6 +703,14 @@
     "2111668953483452541"
    ],
    "id": "2111668953483452541",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "New research reveals space stays alter human DNA! Prolonged microgravity exposure triggers genetic changes, offering clues for future missions.\n\nhttps://t.co/bUCZAz6swP\n\n#SpaceGenetics #MicrogravityEffects",
    "url": "https://x.com/i/status/2111668953483452541"
   },
@@ -1595,6 +720,14 @@
     "2111623611606073433"
    ],
    "id": "2111623611606073433",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 2,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Scientists design sweet proteins that mimic sugar's taste, offering a healthier alternative.\n\nhttps://t.co/yhmfu6bHa8\n\n#ProteinDesign #SweetTasteReceptor",
    "url": "https://x.com/i/status/2111623611606073433"
   },
@@ -1604,6 +737,14 @@
     "2111608592164102168"
    ],
    "id": "2111608592164102168",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 5,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "🎬 New Short: Webb Caught a Stellar Nursery Exploding With Jets #shorts\nhttps://t.co/JQQpVltdHf\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
    "url": "https://x.com/i/status/2111608592164102168"
   },
@@ -1613,6 +754,14 @@
     "2111578258118684825"
    ],
    "id": "2111578258118684825",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 4,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Quantum breakthrough: New \"magic state cleanup\" cuts errors 40x in qubit tests!\n\nhttps://t.co/TJA0757uEC\n\n#QuantumComputing #ErrorCorrection",
    "url": "https://x.com/i/status/2111578258118684825"
   },
@@ -1622,6 +771,14 @@
     "2111532941419610608"
    ],
    "id": "2111532941419610608",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Tech for all? Kendall Square explores how innovation can drive shared prosperity, building community through tech.\n\nhttps://t.co/Hu8hSe5Uri\n\n#TechForGood #CommunityInnovation",
    "url": "https://x.com/i/status/2111532941419610608"
   },
@@ -1631,6 +788,14 @@
     "2111487766320320923"
    ],
    "id": "2111487766320320923",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Breakthrough! New high-frequency method boosts 2D material readout, speeding up next-gen quantum computers.\n\nhttps://t.co/oIZ01PTzmN\n\n#QuantumComputing #MaterialScience",
    "url": "https://x.com/i/status/2111487766320320923"
   },
@@ -1640,6 +805,14 @@
     "2111442380822118899"
    ],
    "id": "2111442380822118899",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Science shows bosses should listen more, talk less—cutting aimless meetings boosts productivity!\n\nhttps://t.co/Bkb8GEyO8O\n\n#WorkplaceEfficiency #MeetingLessons",
    "url": "https://x.com/i/status/2111442380822118899"
   },
@@ -1649,14 +822,40 @@
     "2111397076240396595"
    ],
    "id": "2111397076240396595",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
    "text": "Mercury's secrets won't reveal themselves from orbit—lander needed! Despite Bepi Colombo's arrival, Mercury's mysteries demand a lander for full understanding.\n\nhttps://t.co/AM8ztwGGXN\n\n#MercuryMysteries #SpaceExploration",
    "url": "https://x.com/i/status/2111397076240396595"
+  },
+  {
+   "created_at": "2026-10-17T07:00:51.000Z",
+   "edit_history_tweet_ids": [
+    "2111351718462316608"
+   ],
+   "id": "2111351718462316608",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Explore comet 67P in stunning 3D! APOD reveals new insights into this icy wanderer.\n\nhttps://t.co/z1bWz5x1oc\n\n#Comet67P #APOD",
+   "url": "https://x.com/i/status/2111351718462316608"
   }
  ],
  "meta": {
-  "newest_id": "2113661974630600801",
-  "next_token": "7140dibdnow9c7btwp0g71q2iytvg0in6iyx6695ejvhu",
-  "oldest_id": "2112438935498658182",
+  "newest_id": "2112348354680365304",
+  "next_token": "7140dibdnow9c7btwp0g6zl1o78s32wj1r3xp68qdzm7s",
+  "oldest_id": "2111351718462316608",
+  "previous_token": "77qpymm88g5h9vqkmfprnh84j27luqb1g60zjjvpw64hg",
   "result_count": 25
  }
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T14:29:37.022738+00:00",
+ "updated": "2026-10-23T17:27:37.252396+00:00",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -92,7 +92,7 @@
    "posts": [
     {
      "id": "2113396938368536825",
-     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26",
+     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26 #Agility #MadeForWork",
      "date": "2026-10-22T22:27:49.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVRLT9TbQAAVBAD.jpg",
@@ -210,7 +210,7 @@
    "posts": [
     {
      "id": "2113583522883747944",
-     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion relationships, spatial occupancy, and task progress change, linking decisions to real-robot execution.  \n\n📖 Explore the project: \n🤗 Access the dataset:  \n\n#AGIBOT #EmbodiedAI #PhysicalAI #Robotics #AGIBOTWORLD",
+     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion",
      "date": "2026-10-23T10:49:14.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113582427176382464/img/TFDtw28ks8xloikY.jpg",
@@ -219,7 +219,7 @@
     },
     {
      "id": "2113570766742532283",
-     "text": "AGIBOT has been selected as a key enterprise by the Hong Kong SAR Government’s Office for Attracting Strategic Enterprises (OASES), marking a new milestone in its development in Hong Kong.  \n\nFollowing the announcement of its Hong Kong development plan in May and the opening of its Hong Kong office in October, AGIBOT is strengthening its presence in international R&D and industry collaboration.  \n\nAGIBOT is focused on applying embodied AI in real-world business and industrial scenarios, developing tailored solutions and exploring robot rental models to support wider adoption.",
+     "text": "AGIBOT has been selected as a key enterprise by the Hong Kong SAR Government’s Office for Attracting Strategic Enterprises (OASES), marking a new milestone in its development in Hong Kong.  \n\nFollowing the announcement of its Hong Kong development plan in May and the opening of",
      "date": "2026-10-23T09:58:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVTpYWDbAAAO32B.jpg",
@@ -228,7 +228,7 @@
     },
     {
      "id": "2111030893058076711",
-     "text": "AGIBOT welcomed a Thai delegation led by Mr. Songsak Thongsri, Deputy Prime Minister of Thailand and Chairman of the Board of Executives of the National Sports Development Fund (NSDF), to our Shanghai headquarters.  \n\nThe delegation watched humanoid robot demonstrations showcasing locomotion, interaction and manipulation capabilities, and learned about real-world applications across industrial, commercial, cultural, sports and educational settings.",
+     "text": "AGIBOT welcomed a Thai delegation led by Mr. Songsak Thongsri, Deputy Prime Minister of Thailand and Chairman of the Board of Executives of the National Sports Development Fund (NSDF), to our Shanghai headquarters.  \n\nThe delegation watched humanoid robot demonstrations",
      "date": "2026-10-16T09:46:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvHtgoaEAAkS8d.jpg",
@@ -259,8 +259,17 @@
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
     {
+     "id": "2113660499548393724",
+     "text": "Want to try Nemotron 3.5 Bolt E4B 4GB for yourself? 👀\n\nGet hands-on with it on your NVIDIA Jetson through Jetson AI Labs:",
+     "date": "2026-10-23T15:55:07.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2113660499548393724"
+    },
+    {
      "id": "2113407332747293131",
-     "text": "We’re excited to announce the official release of NVIDIA Isaac Lab 3.0. 🎉\n\nIsaac Lab 3.0 brings a new modular and lightweight architecture along with major new capabilities across the robot learning workflow: multi-physics and multi-rendering support, training at scale, and streamlined deployment on real hardware.\n\nWith Newton integration, the new OVRTX renderer, RL post-training, and LEAPP deployment, there’s a lot to explore.\n\nHere’s a look at what’s new 🧵\n\n(1/7)",
+     "text": "We’re excited to announce the official release of NVIDIA Isaac Lab 3.0. 🎉\n\nIsaac Lab 3.0 brings a new modular and lightweight architecture along with major new capabilities across the robot learning workflow: multi-physics and multi-rendering support, training at scale, and",
      "date": "2026-10-22T23:09:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113406445874245632/img/m2sVj3rIi7U4P9yD.jpg",
@@ -275,15 +284,6 @@
      "image": "https://pbs.twimg.com/media/HVPd8feXUAAgeWz.jpg",
      "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2113276685080510860"
-    },
-    {
-     "id": "2111166068949479480",
-     "text": "Physical AI has moves. 🏀\n\nNVIDIA Cosmos climbs the Physics-IQ leaderboards:\n🥇 Image-to-video: #19 → #1\n🥈 Video-to-video: #14 → #2\n\nFor robotics, understanding how the world moves matters. Cue the shimmy.",
-     "date": "2026-10-16T18:43:09.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/tweet_video_thumb/HUxeVNDWIAAShZx.jpg",
-     "video": "https://video.twimg.com/tweet_video/HUxeVNDWIAAShZx.mp4",
-     "url": "https://x.com/NVIDIARobotics/status/2111166068949479480"
     }
    ]
   }

@@ -29,6 +29,20 @@
    "rank": 0
   },
   {
+   "id": "rb-video-friday-quadruped-robot-solves-giant-rubik-s-cube-b",
+   "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
+   "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months.",
+   "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
+   "source": "IEEE Spectrum",
+   "image": "https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=980",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T15:30:02+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-robot-talk-episode-167-automating-construction-with-jan",
    "title": "Robot Talk Episode 167 – Automating construction, with Jan Petrš",
    "summary": "Claire chatted to Jan Petrš from École Polytechnique Fédérale de Lausanne (EPFL) and Déploya Robotics about novel robot designs for construction and architecture.",
@@ -239,20 +253,6 @@
    "rank": 1
   },
   {
-   "id": "rb-video-friday-when-two-robots-become-one",
-   "title": "Video Friday: When Two Robots Become One",
-   "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months.",
-   "url": "https://spectrum.ieee.org/video-friday-reconfigurable-robots",
-   "source": "IEEE Spectrum",
-   "image": "https://spectrum.ieee.org/media-library/two-small-robots-with-long-limbs-and-bodies-linked-by-a-wire-join-connect-to-form-one-four-wheeled-robot-on-a-paved-pathway.gif?id=68443843&width=980",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T16:30:02+00:00",
-   "rank": 1
-  },
-  {
    "id": "rb-robot-talk-episode-166-evolving-robot-bodies-and-brains",
    "title": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova",
    "summary": "Claire chatted to Rika Antonova from the University of Cambridge about using artificial intelligence to develop complimentary robot hardware and algorithms.",
@@ -379,77 +379,49 @@
    "rank": 1
   },
   {
-   "id": "rb-robot-hands-for-modern-ai-and-real-work",
-   "title": "Robot Hands for Modern AI and Real Work",
-   "summary": "Boston Dynamics new robot hands have 13 degrees of freedom and direct actuation, built for high fidelity simulation and dexterous physical work.",
-   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+   "id": "rb-spot-to-the-rescue",
+   "title": "Spot to the Rescue",
+   "summary": "Public safety organizations around the world are relying on Spot to do what it does best—keep people out of harm’s way.",
+   "url": "https://bostondynamics.com/blog/spot-to-the-rescue/",
    "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/atlas-mts-drill-1440x1016-1.jpg",
+   "image": "https://bostondynamics.com/wp-content/uploads/2024/03/spot-public-safety-eod-1440x1016-1.jpg",
    "tags": [
     "Robots"
    ],
-   "date": "2026-10-01",
-   "ts": "2026-10-01T13:10:02+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-ask-a-roboticist-meet-diane",
-   "title": "Ask a Roboticist: Meet Diane",
-   "summary": "A mechanical engineer answers questions about endurance testing at Boston Dynamics and how we simulate years of robot use in just weeks.",
-   "url": "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/",
-   "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/Diane-Heinle-Still-Cropped.png",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-09-23",
-   "ts": "2026-09-23T13:59:17+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-boston-dynamics-joins-dow-skillbridge-program",
-   "title": "Boston Dynamics Joins DoW SkillBridge Program",
-   "summary": "Boston Dynamics is proud to announce that we are now an official DoW SkillBridge Industry Partner. The SkillBridge program helps service members transition into civilian careers with on-the-job training…",
-   "url": "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/",
-   "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/BD-SkillBridge-Announcement-v4.png",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-09-16",
-   "ts": "2026-09-16T14:56:20+00:00",
+   "date": "2026-10-05",
+   "ts": "2026-10-05T19:23:58+00:00",
    "rank": 1
   }
  ],
  "date": "2026-10-23",
- "updated": "2026-10-23T14:30+00:00",
+ "updated": "2026-10-23T17:28+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
   {
-   "id": "what-makes-glass-good-at-conducting-heat-sound-holds-the-key",
-   "title": "What makes glass good at conducting heat? Sound holds the key",
-   "summary": "Glass can keep a drink safely contained, protect a smartphone screen, or serve as a foundation for electronic components. But when it comes to controlling heat, this familiar material still holds some scientific…",
-   "url": "https://phys.org/news/2026-10-glass-good-key.html",
+   "id": "marine-heat-waves-suppress-nutrient-use-reproductive-flexibi",
+   "title": "Marine heat waves suppress nutrient use, reproductive flexibility in humpback whales",
+   "summary": "A new study led by University of Hawai'i (UH) at Mānoa researchers reveals how extreme ocean warming disrupts whale metabolism, nutrition and reproductive success and what the developing 2026–2027 El Niño could mean…",
+   "url": "https://phys.org/news/2026-10-marine-suppress-nutrient-reproductive-flexibility.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/what-makes-glass-good.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/marine-heatwaves-suppr.jpg",
    "tags": [
-    "Physics"
+    "Earth"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T14:20:25+00:00"
+   "ts": "2026-10-23T17:20:19+00:00"
   },
   {
-   "id": "private-griffin-moon-lander-gets-put-to-the-test-space-photo",
-   "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
-   "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
-   "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
+   "id": "most-people-can-t-handle-driving-in-2-dimensions-let-alone",
+   "title": "'Most people can't handle driving in 2 dimensions let alone 3': Readers respond to our poll about flying cars",
+   "summary": "Tesla recently demonstrated its Rocket Roadster \"flying car.\" We asked our readers whether they think flying cars will be widely available in the near future.",
+   "url": "https://www.livescience.com/technology/most-people-cant-handle-driving-in-2-dimensions-let-alone-3-readers-respond-to-our-poll-about-flying-cars",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/LHuPuoxuDoHPfHvPofyRyD-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T14:00:00+00:00"
+   "ts": "2026-10-23T16:55:34+00:00"
   },
   {
    "id": "ai-google-cloud-launches-agent-compute-engine-a-microvm-per",
@@ -466,30 +438,83 @@
    "rank": 0
   },
   {
-   "id": "16-years-after-deepwater-horizon-spill-deep-sea-life-in-the",
-   "title": "16 Years After Deepwater Horizon Spill, Deep Sea Life in The Gulf of Mexico Shows No Sign of Recovery",
-   "summary": "After 16 years, this disaster is still ongoing. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-   "url": "https://www.sciencealert.com/16-years-after-deepwater-horizon-spill-deep-sea-life-in-the-gulf-of-mexico-shows-no-sign-of-recovery",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/10/GettyImages-98736482-2560x1440-1-1200x675.jpg",
+   "id": "magnetic-field-reversals-and-extinctions-the-correlation-won",
+   "title": "Magnetic Field Reversals and Extinctions: The Correlation Won't Go Away.",
+   "summary": "Scientists have wondered about a connection between Earth's geomagnetic reversals, or pole flips, and mass extinctions. They've found correlations, but nothing convincing enough to remove healthy doubts.",
+   "url": "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Stereoscopic-visualization-of-Earths-magnetic-field-1-1_20261023_152809.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:11:14+00:00"
+  },
+  {
+   "id": "never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+   "title": "Never finishing the fight: Where did Xbox go wrong with Halo?",
+   "summary": "After a failed soft reboot and a remake of the original, the Halo universe is facing yet another major creative shift. But has Xbox learned any lessons this time?",
+   "url": "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/WZyHqvXzdZYsVNqGxBqQCQ-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:00:00+00:00"
+  },
+  {
+   "id": "eating-too-much-sugar-on-antibiotics-could-squash-helpful-gu",
+   "title": "Eating too much sugar on antibiotics could squash helpful gut bacteria",
+   "summary": "In people being treated for blood cancer, consuming sugar while on antibiotics boosted harm to the diversity of the gut microbiome.",
+   "url": "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/100726_MC_sugars_main.jpg?w=800",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T13:01:00+00:00"
+   "ts": "2026-10-23T15:30:00+00:00"
   },
   {
-   "id": "electric-stoves-could-help-people-with-asthma-breathe-easier",
-   "title": "Electric stoves could help people with asthma breathe easier",
-   "summary": "Switching to an electric stove from a lung-irritating gas one may improve asthma symptoms. But if you’re stuck with gas, reducing exposure may help.",
-   "url": "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_AC_gasstoveasthma_main.jpg?w=800",
+   "id": "researchers-developed-a-molecule-to-fight-alzheimer-s-then-f",
+   "title": "Researchers Developed a Molecule to Fight Alzheimer's – Then Found It's Already in Our Blood",
+   "summary": "What does this mean? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+   "url": "https://www.sciencealert.com/researchers-developed-a-molecule-to-fight-alzheimers-then-found-its-already-in-our-blood",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/10/Pipetting-a-blood-drop-on-a-slide-1200x675.png",
    "tags": [
-    "Science"
+    "Biology"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T13:00:00+00:00"
+   "ts": "2026-10-23T15:00:00+00:00"
+  },
+  {
+   "id": "ai-donating-agent-skills-to-the-agentic-ai-foundation",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T00:00:00+00:00",
+   "rank": 0
+  },
+  {
+   "id": "malaria-parasite-caught-in-the-act-of-breaking-and-entering",
+   "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
+   "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail.",
+   "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T14:54:10+00:00"
   },
   {
    "id": "fear-based-campaign-ads-can-grab-attention-but-whether-they",
@@ -518,18 +543,109 @@
    "ts": "2026-10-23T11:23:19+00:00"
   },
   {
-   "id": "ai-donating-agent-skills-to-the-agentic-ai-foundation",
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "id": "apod-2026-october-23-andromeda-in-southern-spring",
+   "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
+   "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T04:05:00+00:00"
+  },
+  {
+   "id": "ai-introducing-the-spacex-super-intelligence-partner-networ",
+   "title": "Introducing the SpaceX Super Intelligence Partner Network",
+   "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
+   "url": "https://x.ai/news/partnernetworkannouncement",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:00+00:00",
    "rank": 0
+  },
+  {
+   "id": "q-a-how-ai-came-to-model-the-messy-human-mind",
+   "title": "Q&A: How AI came to model the “messy” human mind",
+   "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
+   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T04:00:00+00:00"
+  },
+  {
+   "id": "stars-brewing-in-a-nebulous-cauldron",
+   "title": "Stars brewing in a nebulous cauldron",
+   "summary": "Image: Stars brewing in a nebulous cauldron",
+   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
+   "source": "ESA",
+   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T08:00:00+00:00"
+  },
+  {
+   "id": "strategic-new-protections-could-link-13-pacific-deep-sea-res",
+   "title": "Strategic new protections could link 13 Pacific deep-sea reserves into connected network",
+   "summary": "Protected areas have been set up to shield deep-sea life from the impacts of seabed mining in the Pacific Ocean. However, new research led by scientists at Plymouth Marine Laboratory (PML) and published in Nature…",
+   "url": "https://phys.org/news/2026-10-strategic-link-pacific-deep-sea.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-highlights-new-o.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T17:00:14+00:00"
+  },
+  {
+   "id": "private-griffin-moon-lander-gets-put-to-the-test-space-photo",
+   "title": "Private Griffin moon lander gets put to the test | Space photo of the day for Oct. 23, 2026",
+   "summary": "The robotic Griffin lunar lander has passed a host of critical tests ahead of its first-ever moon mission, which is scheduled to launch later this year.",
+   "url": "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/yZxSJ4zbEYk5Q8FVpPXRPd-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T14:00:00+00:00"
+  },
+  {
+   "id": "electric-stoves-could-help-people-with-asthma-breathe-easier",
+   "title": "Electric stoves could help people with asthma breathe easier",
+   "summary": "Switching to an electric stove from a lung-irritating gas one may improve asthma symptoms. But if you’re stuck with gas, reducing exposure may help.",
+   "url": "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101926_AC_gasstoveasthma_main.jpg?w=800",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T13:00:00+00:00"
+  },
+  {
+   "id": "dental-implants-can-hijack-your-immune-system-scientists-dis",
+   "title": "Dental implants can hijack your immune system, scientists discover",
+   "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/dental-implant.webp",
+   "tags": [
+    "Science"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T11:12:28+00:00"
   },
   {
    "id": "jwst-reveals-a-lopsided-alien-world-with-blistering-evening",
@@ -558,111 +674,6 @@
    "ts": "2026-10-23T09:44:19+00:00"
   },
   {
-   "id": "apod-2026-october-23-andromeda-in-southern-spring",
-   "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
-   "summary": "APOD Science APOD APOD: 2026 October 23 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/APOD_Lucy.jpg?w=2048&#038;h=1368&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T04:05:00+00:00"
-  },
-  {
-   "id": "q-a-how-ai-came-to-model-the-messy-human-mind",
-   "title": "Q&A: How AI came to model the “messy” human mind",
-   "summary": "Assistant Professor Benjamin Lindquist studies how engineers deliberately injected randomness into early AI, giving rise to deep-learning models that sometimes hallucinate.",
-   "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-indquist_Ben_IrrationalComputer-01-press.jpg?itok=syHYcG5I",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T04:00:00+00:00"
-  },
-  {
-   "id": "ai-introducing-the-spacex-super-intelligence-partner-networ",
-   "title": "Introducing the SpaceX Super Intelligence Partner Network",
-   "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
-   "url": "https://x.ai/news/partnernetworkannouncement",
-   "source": "xAI",
-   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T00:00:00+00:00",
-   "rank": 0
-  },
-  {
-   "id": "stars-brewing-in-a-nebulous-cauldron",
-   "title": "Stars brewing in a nebulous cauldron",
-   "summary": "Image: Stars brewing in a nebulous cauldron",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T08:00:00+00:00"
-  },
-  {
-   "id": "see-inside-cells-like-never-before-in-these-vivid-microscopi",
-   "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
-   "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta…",
-   "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Default.webp",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T14:00:07+00:00"
-  },
-  {
-   "id": "sinking-antarctic-ice-reveals-a-hidden-lake-s-massive-water",
-   "title": "Sinking Antarctic ice reveals a hidden lake's massive water loss",
-   "summary": "The Kronshtadskiy subglacial lake near East Antarctica's Amery Ice Shelf was hidden beneath Antarctica's ice, but its drainage left a mark visible from space as a broad depression that deepened by more than 6 meters (20…",
-   "url": "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/sinking-antarctic-ice.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T14:00:07+00:00"
-  },
-  {
-   "id": "stupendously-large-black-holes-aren-t-a-major-component-of",
-   "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
-   "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
-   "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/miTmJ9Cbreb9FwyinHA8eH-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T12:00:00+00:00"
-  },
-  {
-   "id": "dental-implants-can-hijack-your-immune-system-scientists-dis",
-   "title": "Dental implants can hijack your immune system, scientists discover",
-   "summary": "Researchers have uncovered a surprising reason dental implant infections often resist antibiotics: the implants themselves can contribute to the problem.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/dental-implant.webp",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T11:12:28+00:00"
-  },
-  {
    "id": "el-ni-o-then-and-now",
    "title": "El Niño Then and Now",
    "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
@@ -674,19 +685,6 @@
    ],
    "date": "2026-10-23",
    "ts": "2026-10-23T04:00:00+00:00"
-  },
-  {
-   "id": "advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
-   "title": "Advancing Astronomy at MIT with X-ray Reverberation Mapping",
-   "summary": "Professor Erin Kara of MIT's Kavli Institute for Astrophysics and Space Research is helping advance our understanding of the most extreme objects in the Universe by analyzing X-ray reverberations and other astrophysical…",
-   "url": "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Black_Holes_-_Monsters_in_Space_20261022_223542.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T22:39:19+00:00"
   },
   {
    "id": "this-design-software-reimagines-everyday-objects-as-self-awa",
@@ -702,30 +700,17 @@
    "ts": "2026-10-22T20:45:00+00:00"
   },
   {
-   "id": "we-re-never-going-to-come-home-artemis-ii-commander-recalls",
-   "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
-   "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
-   "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/okJPhZBzpSUq73QF7gf773-1920-80.jpg",
+   "id": "see-inside-cells-like-never-before-in-these-vivid-microscopi",
+   "title": "See Inside Cells Like Never Before in These Vivid Microscopic Images",
+   "summary": "Winning entries in the 2026 Nikon Small World competitions reveal the hidden interactions that govern everyday life. The post See Inside Cells Like Never Before in These Vivid Microscopic Images first appeared on Quanta…",
+   "url": "https://www.quantamagazine.org/see-inside-cells-like-never-before-in-these-vivid-microscopic-images-20261021/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2056/10/ImageGallerySmallWorld-crKaelinWulfAndMsRachelFlannery_AllenInstitute_DepartmentOfNeuralDynamics-Default.webp",
    "tags": [
-    "Space"
+    "Biology"
    ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T20:00:00+00:00"
-  },
-  {
-   "id": "a-nanoparticle-revealed-the-tiny-impact-of-a-single-gas-atom",
-   "title": "A nanoparticle revealed the tiny impact of a single gas atom",
-   "summary": "The force exerted by a gas usually results from many atoms or molecules at once. But scientists isolated the force of a lone particle.",
-   "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_EC_gasmolecule_main.jpg?w=800",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T17:00:00+00:00"
+   "date": "2026-10-21",
+   "ts": "2026-10-21T14:00:07+00:00"
   },
   {
    "id": "an-ai-model-s-false-tip-to-philadelphia-police-reveals-how-d",
@@ -754,30 +739,30 @@
    "ts": "2026-10-20T07:00:00+00:00"
   },
   {
-   "id": "ai-proved-the-quasi-riemann-hypothesis-what-happens-now",
-   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
-   "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis.",
-   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T15:40:26+00:00"
-  },
-  {
-   "id": "a-quick-squeeze-helps-crispr-turn-skin-cells-into-neurons-mo",
-   "title": "A quick squeeze helps CRISPR turn skin cells into neurons more efficiently",
-   "summary": "Human cells hold about two meters (6.6 feet) of DNA, folded and compacted to fit inside a nucleus. That packing is essential for life, but it creates a problem for scientists.",
-   "url": "https://phys.org/news/2026-10-quick-crispr-skin-cells-neurons.html",
+   "id": "alma-spots-dragon-egg-that-may-represent-the-earliest-stages",
+   "title": "ALMA spots 'dragon egg' that may represent the earliest stages of massive star formation",
+   "summary": "Astronomers identified an exceptionally tiny core that may represent an early stage in the formation of a massive star. Located in an infrared-dark area called Dragon Cloud, the core is nicknamed the \"dragon egg.\" The…",
+   "url": "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-quick-squeeze-helps.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/alma-spots-dragon-egg.jpg",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T13:20:09+00:00"
+   "ts": "2026-10-23T16:50:01+00:00"
+  },
+  {
+   "id": "stupendously-large-black-holes-aren-t-a-major-component-of",
+   "title": "'Stupendously large black holes' aren't a major component of dark matter, study finds",
+   "summary": "Black holes more massive than entire galaxies are not a major component of dark matter, the mysterious stuff that's thought to make up most of the matter in the cosmos, a new study finds.",
+   "url": "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/miTmJ9Cbreb9FwyinHA8eH-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T12:00:00+00:00"
   },
   {
    "id": "breakthrough-ptsd-treatment-achieves-68-remission-rate-in-cl",
@@ -793,17 +778,17 @@
    "ts": "2026-10-23T11:02:25+00:00"
   },
   {
-   "id": "rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-sig",
-   "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
-   "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/L6jMi8Cb66ZnEJVs8Mimc9-1920-80.jpg",
+   "id": "advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
+   "title": "Advancing Astronomy at MIT with X-ray Reverberation Mapping",
+   "summary": "Professor Erin Kara of MIT's Kavli Institute for Astrophysics and Space Research is helping advance our understanding of the most extreme objects in the Universe by analyzing X-ray reverberations and other astrophysical…",
+   "url": "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Black_Holes_-_Monsters_in_Space_20261022_223542.jpg",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T10:57:51+00:00"
+   "date": "2026-10-22",
+   "ts": "2026-10-22T22:39:19+00:00"
   },
   {
    "id": "spiral-s-edge",
@@ -819,43 +804,30 @@
    "ts": "2026-10-22T21:35:38+00:00"
   },
   {
-   "id": "even-the-rubin-s-test-camera-produces-stunning-images",
-   "title": "Even the Rubin's Test Camera Produces Stunning Images",
-   "summary": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images.",
-   "url": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/noirlab2625a_20261022_201011.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T21:04:01+00:00"
-  },
-  {
-   "id": "crows-may-make-lightning-fast-decisions-sometimes-twice-as-f",
-   "title": "Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints",
-   "summary": "Carrion crows made decisions about their visual environments significantly faster than humans and primates tend to, according to a comparison in a new study.",
-   "url": "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints",
+   "id": "we-re-never-going-to-come-home-artemis-ii-commander-recalls",
+   "title": "'We're never going to come home': Artemis II commander recalls the most terrifying moment of his 10-day trip around the moon",
+   "summary": "Artemis II Commander Reid Wiseman felt genuine fear when he saw the Orion spacecraft had gone farther from Earth than anticipated, the astronaut told an audience at the Starmus VIII festival this week.",
+   "url": "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/hjFZGVGMz2MupcqZH4ECuK-1920-80.gif",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T19:34:26+00:00"
-  },
-  {
-   "id": "was-van-gogh-s-the-starry-night-a-flight-of-fancy-or-a-real",
-   "title": "Was van Gogh’s ‘The Starry Night’ a flight of fancy or a real sky?",
-   "summary": "Vincent van Gogh'spainted the iconic work in the summer of 1889. Now researchers claim to have pinned down which night the stars were from.",
-   "url": "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102226_LS_StarryNight_main.jpg?w=800",
+   "image": "https://cdn.mos.cms.futurecdn.net/okJPhZBzpSUq73QF7gf773-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T15:16:10+00:00"
+   "ts": "2026-10-22T20:00:00+00:00"
+  },
+  {
+   "id": "a-nanoparticle-revealed-the-tiny-impact-of-a-single-gas-atom",
+   "title": "A nanoparticle revealed the tiny impact of a single gas atom",
+   "summary": "The force exerted by a gas usually results from many atoms or molecules at once. But scientists isolated the force of a lone particle.",
+   "url": "https://www.sciencenews.org/article/nanoparticle-tiny-impact-gas-atom",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_EC_gasmolecule_main.jpg?w=800",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T17:00:00+00:00"
   },
   {
    "id": "human-rights-could-improve-or-worsen-based-on-how-nations-us",
@@ -884,6 +856,19 @@
    "ts": "2026-10-20T21:15:00+00:00"
   },
   {
+   "id": "ai-proved-the-quasi-riemann-hypothesis-what-happens-now",
+   "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+   "summary": "Unlike other recent AI proofs, this one has been unpacked by human experts. The implications, one mathematician said, are “staggering.” The post AI Proved the Quasi-Riemann Hypothesis.",
+   "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Default.webp",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T15:40:26+00:00"
+  },
+  {
    "id": "celebrating-bepicolombo-three-words-at-a-time",
    "title": "Celebrating BepiColombo, three words at a time",
    "summary": "Video: 00:03:32 BepiColombo launched on 20 October 2018. This year, the anniversary is special. After eight years of travelling through the inner Solar System, the ESA/JAXA mission will arrive at Mercury on 9 December…",
@@ -897,30 +882,30 @@
    "ts": "2026-10-19T15:00:00+00:00"
   },
   {
-   "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
-   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
-   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T13:25:08+00:00"
-  },
-  {
-   "id": "east-asia-s-summer-rain-belt-has-shifted-north-over-decades",
-   "title": "East Asia's summer rain belt has shifted north over decades, reshaping rain and heat risks",
-   "summary": "A joint research team from KAIST and the APEC Climate Center has found that the East Asian summer front has migrated north over the past half century, with the shift exceeding 200 km (124 miles) in late summer.",
-   "url": "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html",
+   "id": "archimedes-screw-inspires-single-molecule-motor-powered-by-e",
+   "title": "Archimedes screw inspires single-molecule motor powered by electric current",
+   "summary": "Molecular machines are regarded as the next step in miniaturization. Their models can be found in living cells, where molecular motors convert energy and generate movement.",
+   "url": "https://phys.org/news/2026-10-archimedes-molecule-motor-powered-electric.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-late-summer-rain-3.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/archimedes-screw-made.jpg",
    "tags": [
-    "Earth"
+    "Biology"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T13:00:06+00:00"
+   "ts": "2026-10-23T16:40:01+00:00"
+  },
+  {
+   "id": "rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-sig",
+   "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence",
+   "summary": "Rocket Lab launched a trio of private signals-intelligence satellites to orbit today (Oct. 21), the 19th mission of the year for the California-based company.",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/L6jMi8Cb66ZnEJVs8Mimc9-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T10:57:51+00:00"
   },
   {
    "id": "scientists-discover-a-surprising-double-benefit-of-exercise",
@@ -936,43 +921,30 @@
    "ts": "2026-10-23T10:10:11+00:00"
   },
   {
-   "id": "space-debris-are-we-on-track-for-true-sustainability-op-ed",
-   "title": "Space debris: Are we on track for true sustainability? (op-ed)",
-   "summary": "Space is a critical infrastructure layer, underpinning nearly all systems that enable modern life as we know it. It’s therefore critical to maintain a safe and clean orbital environment.",
-   "url": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T10:00:00+00:00"
-  },
-  {
-   "id": "two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
-   "title": "Two Disks in One: How Accretion Disks Drive Black Hole Jets",
-   "summary": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin, cold accretion disks.",
-   "url": "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
+   "id": "even-the-rubin-s-test-camera-produces-stunning-images",
+   "title": "Even the Rubin's Test Camera Produces Stunning Images",
+   "summary": "The Vera Rubin Observatory's Commissioning Camera operated for about 7 weeks in 2024, before the observatory released its well-known first look images.",
+   "url": "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/227_supermassiveblackholes_t_20261022_184134.jpg",
+   "image": "https://www.universetoday.com/article_images/noirlab2625a_20261022_201011.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T19:25:24+00:00"
+   "ts": "2026-10-22T21:04:01+00:00"
   },
   {
-   "id": "brain-scans-reveal-number-line-that-s-used-to-mentally-compa",
-   "title": "Brain scans reveal 'number line' that's used to mentally compare values",
-   "summary": "Although whole numbers and fractions are processed differently in the brain, when you compare their values, a single \"mental map\" akin to a number line lights up.",
-   "url": "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values",
+   "id": "crows-may-make-lightning-fast-decisions-sometimes-twice-as-f",
+   "title": "Crows may make lightning-fast decisions, sometimes twice as fast as humans, study hints",
+   "summary": "Carrion crows made decisions about their visual environments significantly faster than humans and primates tend to, according to a comparison in a new study.",
+   "url": "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/LZmRWHsLdXZ5ara3urSgU-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/hjFZGVGMz2MupcqZH4ECuK-1920-80.gif",
    "tags": [
-    "Biology"
+    "Science"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T18:00:00+00:00"
+   "ts": "2026-10-22T19:34:26+00:00"
   },
   {
    "id": "nasa-s-hubble-charts-path-for-roman-with-gravitational-lense",
@@ -988,17 +960,17 @@
    "ts": "2026-10-22T16:20:37+00:00"
   },
   {
-   "id": "this-living-drug-could-change-the-course-of-autoimmune-disea",
-   "title": "This ‘living drug’ could change the course of autoimmune disease",
-   "summary": "If given the green light by the FDA, a CAR T cell therapy from Kyverna Therapeutics would be the first approved treatment for stiff person syndrome.",
-   "url": "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases",
+   "id": "was-van-gogh-s-the-starry-night-a-flight-of-fancy-or-a-real",
+   "title": "Was van Gogh’s ‘The Starry Night’ a flight of fancy or a real sky?",
+   "summary": "Vincent van Gogh'spainted the iconic work in the summer of 1889. Now researchers claim to have pinned down which night the stars were from.",
+   "url": "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars",
    "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_SPS_feature_main.jpg?w=800",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102226_LS_StarryNight_main.jpg?w=800",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T13:00:00+00:00"
+   "ts": "2026-10-22T15:16:10+00:00"
   },
   {
    "id": "horror-films-exploit-how-human-vision-works-to-deliver-movie",
@@ -1040,17 +1012,43 @@
    "ts": "2026-10-19T12:00:00+00:00"
   },
   {
-   "id": "experiment-shows-when-quantum-cat-states-stop-bouncing-back",
-   "title": "Experiment shows when quantum 'cat' states stop bouncing back",
-   "summary": "Quantum systems can occupy superpositions, quantum states that combine different possibilities. For instance, a microwave field can be prepared in a superposition of an empty state and a state that contains microwave…",
-   "url": "https://phys.org/news/2026-10-quantum-cat-states.html",
+   "id": "he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art",
+   "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+   "summary": "Moritz Hardt, author of a new book on benchmarks, believes these “standardized tests” for artificial intelligence are fundamentally broken — but not unfixable.",
+   "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Default.webp",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-16",
+   "ts": "2026-10-16T13:25:08+00:00"
+  },
+  {
+   "id": "open-source-workflow-makes-spatial-proteomics-easier-to-use",
+   "title": "Open-source workflow makes spatial proteomics easier to use",
+   "summary": "Fabian Coscia and his team have published in Nature Methods an open-source workflow that makes Deep Visual Proteomics easier to use, adapt and scale.",
+   "url": "https://phys.org/news/2026-10-source-workflow-spatial-proteomics-easier.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/experiment-shows-when.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/opendvp-makes-spatial.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-23",
-   "ts": "2026-10-23T12:40:02+00:00"
+   "ts": "2026-10-23T16:20:10+00:00"
+  },
+  {
+   "id": "space-debris-are-we-on-track-for-true-sustainability-op-ed",
+   "title": "Space debris: Are we on track for true sustainability? (op-ed)",
+   "summary": "Space is a critical infrastructure layer, underpinning nearly all systems that enable modern life as we know it. It’s therefore critical to maintain a safe and clean orbital environment.",
+   "url": "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/Gt5R75f7y96u2THoLmzmaC-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T10:00:00+00:00"
   },
   {
    "id": "scientists-discover-a-hidden-messaging-system-deep-inside-th",
@@ -1064,6 +1062,110 @@
    ],
    "date": "2026-10-23",
    "ts": "2026-10-23T08:28:22+00:00"
+  },
+  {
+   "id": "two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
+   "title": "Two Disks in One: How Accretion Disks Drive Black Hole Jets",
+   "summary": "SMBH jets are driven by thick, hot accretion disks with powerful magnetic fields. But there's a bit of a paradox. Some SMBH produce jets, even though they appear to have thin, cold accretion disks.",
+   "url": "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/227_supermassiveblackholes_t_20261022_184134.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T19:25:24+00:00"
+  },
+  {
+   "id": "brain-scans-reveal-number-line-that-s-used-to-mentally-compa",
+   "title": "Brain scans reveal 'number line' that's used to mentally compare values",
+   "summary": "Although whole numbers and fractions are processed differently in the brain, when you compare their values, a single \"mental map\" akin to a number line lights up.",
+   "url": "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/LZmRWHsLdXZ5ara3urSgU-1920-80.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T18:00:00+00:00"
+  },
+  {
+   "id": "this-living-drug-could-change-the-course-of-autoimmune-disea",
+   "title": "This ‘living drug’ could change the course of autoimmune disease",
+   "summary": "If given the green light by the FDA, a CAR T cell therapy from Kyverna Therapeutics would be the first approved treatment for stiff person syndrome.",
+   "url": "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/1126_SPS_feature_main.jpg?w=800",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T13:00:00+00:00"
+  },
+  {
+   "id": "fires-char-new-guinea",
+   "title": "Fires Char New Guinea",
+   "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+   "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-22",
+   "ts": "2026-10-22T04:01:00+00:00"
+  },
+  {
+   "id": "why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis",
+   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+   "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
+   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p",
+   "tags": [
+    "Tech"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T18:20:00+00:00"
+  },
+  {
+   "id": "why-haven-t-farm-animals-evolved-against-humans-a-biologist",
+   "title": "Why haven’t farm animals evolved against humans? A biologist explains why there won’t be a chicken uprising anytime soon",
+   "summary": "From domesticated foxes to tuskless elephants, humans have directly and indirectly influenced the evolution of a wide range of animals.",
+   "url": "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/764352/original/file-20261006-50-e8ny2a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5637%2C3758&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-19",
+   "ts": "2026-10-19T12:35:17+00:00"
+  },
+  {
+   "id": "elusive-uranium-sandwich-molecule-isolated-after-more-than-5",
+   "title": "Elusive uranium 'sandwich' molecule isolated after more than 50 years",
+   "summary": "In a study published in Nature Communications, researchers from The University of Manchester and Lancaster University have isolated and characterized uranocenium, the positively charged form of a landmark uranium…",
+   "url": "https://phys.org/news/2026-10-elusive-uranium-sandwich-molecule-isolated.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/elusive-uranium-sandwi.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T16:00:12+00:00"
+  },
+  {
+   "id": "cambridge-scientists-create-a-10-chip-that-could-put-a-medic",
+   "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
+   "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T01:21:47+00:00"
   },
   {
    "id": "europe-s-space-rider-vehicle-comes-crashing-down-during-drop",
@@ -1105,123 +1207,6 @@
    "ts": "2026-10-22T17:25:38+00:00"
   },
   {
-   "id": "fires-char-new-guinea",
-   "title": "Fires Char New Guinea",
-   "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
-   "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/new-guinea-on-fire/papuanewguinea_vir_20261011.jpg?w=2048&#038;h=1460&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T04:01:00+00:00"
-  },
-  {
-   "id": "ai-could-turn-scientific-papers-into-research-assistants",
-   "title": "AI could turn scientific papers into research assistants",
-   "summary": "An AI ‘virtual author’ can help scientists use a paper’s methods on new data. But it’s not going to match a human author’s expertise.",
-   "url": "https://www.sciencenews.org/article/ai-scientific-papers-research-assistant",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/101426_KH_virtualauthor_main.jpg?w=800",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T17:00:00+00:00"
-  },
-  {
-   "id": "why-teaching-ai-about-symmetry-could-make-prenatal-diagnosis",
-   "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-   "summary": "A model developed by researchers at MIT and Boston Children's Hospital adjusts scans on the fly to track fetal movement, potentially sparing families repeat hospital visits.",
-   "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-jameel-clinic-fetal-brain.jpg?itok=TGq3tK5p",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T18:20:00+00:00"
-  },
-  {
-   "id": "why-haven-t-farm-animals-evolved-against-humans-a-biologist",
-   "title": "Why haven’t farm animals evolved against humans? A biologist explains why there won’t be a chicken uprising anytime soon",
-   "summary": "From domesticated foxes to tuskless elephants, humans have directly and indirectly influenced the evolution of a wide range of animals.",
-   "url": "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/764352/original/file-20261006-50-e8ny2a.jpg?ixlib=rb-4.1.1&amp;rect=0%2C0%2C5637%2C3758&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-19",
-   "ts": "2026-10-19T12:35:17+00:00"
-  },
-  {
-   "id": "ai-agents-can-form-political-camps-and-changing-their-conver",
-   "title": "AI agents can form political camps—and changing their conversation partners does little to soften their views",
-   "summary": "Give AI agents political positions, ask them to defend their views and persuade one another, and let them decide which contacts to keep.",
-   "url": "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-can-form-pol.jpg",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T11:20:06+00:00"
-  },
-  {
-   "id": "cambridge-scientists-create-a-10-chip-that-could-put-a-medic",
-   "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
-   "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/wearable-spectrometer-chip.webp",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T01:21:47+00:00"
-  },
-  {
-   "id": "on-this-day-in-space-oct-22-1992-ashes-of-star-trek-creator",
-   "title": "On this day in space! Oct. 22, 1992: Ashes of 'Star Trek' creator Gene Roddenberry launch into space on NASA shuttle",
-   "summary": "On Oct. 22, 1992, the space shuttle Columbia launched into space with the ashes of Gene Roddenberry, the creator of \"Star Trek.\" Here's why it mattered.",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/JDnT5gidkxtFmwCnuxnt5Z-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T21:08:26+00:00"
-  },
-  {
-   "id": "japan-launches-world-s-first-round-trip-mission-to-mars",
-   "title": "Japan launches world's first round-trip mission to Mars",
-   "summary": "The Martian Moons Exploration (MMX) mission, which launched from Japan on Oct. 19, is on its way to Mars. When it arrives, the probe will attempt to land on one of the Red Planet's twin moons and scoop up rocks to bring…",
-   "url": "https://www.livescience.com/space/space-exploration/worlds-first-round-trip-mission-to-mars-has-launched-why-it-could-be-a-transformative-leap-for-science",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/TD5CWTJdChfyTRHXMXXVEQ-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T16:46:36+00:00"
-  },
-  {
-   "id": "from-dusk-towards-dawn-venus-slides-past-the-sun-this-weeken",
-   "title": "From Dusk, Towards Dawn: Venus Slides Past the Sun This Weekend",
-   "summary": "Where have all the planets gone? Late October 2026 sees a decided dearth of planets in the dusk sky, with only bashful Mercury receding from view, and Saturn fresh off of opposition.",
-   "url": "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/44619460185_3c3ed1e20f_c_20261022_141854.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T15:30:00+00:00"
-  },
-  {
    "id": "faster-to-science-a-letter-to-the-science-community",
    "title": "Faster to Science: A Letter to the Science Community",
    "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
@@ -1233,19 +1218,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:16+00:00"
-  },
-  {
-   "id": "a-lifesaving-medication-is-not-behind-the-drop-in-u-s-overdo",
-   "title": "A lifesaving medication is not behind the drop in U.S. overdose deaths",
-   "summary": "A possible reason for the overdose deaths drop is more use of naloxone, which reverses opioid overdoses. But while still a key tool, its use fell too.",
-   "url": "https://www.sciencenews.org/article/opioid-overdose-deaths-naloxone",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_AC_overdose_main-1.jpg?w=800",
-   "tags": [
-    "Science"
-   ],
-   "date": "2026-10-21",
-   "ts": "2026-10-21T15:33:50+00:00"
   }
  ],
  "ai": [
@@ -1573,6 +1545,20 @@
    "rank": 2
   },
   {
+   "id": "ai-google-deepmind-and-singapore-government-collaborate-to",
+   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+   "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/5PC4h7MzjC0ojOxiK-nPcRz0b6kUybKnCBjLL3nsb9T9qt7-2ciORJPnrObeFaYbAMqPxIhH4Wq9HD-U73lCivpFBcK8gABvhXXDo2lzUUSk9olsZQ=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-14",
+   "ts": "2026-10-14T02:00:14+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-introducing-grok-voice-3-0",
    "title": "Introducing Grok Voice 3.0",
    "summary": "The world’s most intelligent voice model.",
@@ -1615,17 +1601,45 @@
    "rank": 2
   },
   {
-   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
-   "title": "Gemini 4 Argon: Built to solve your hardest problems",
-   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-   "source": "Google AI",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+   "id": "ai-developing-gemini-4-argon-responsibly-and-safely",
+   "title": "Developing Gemini 4 Argon responsibly and safely",
+   "summary": "Learn more about our approach to safety and security for Gemini 4 Argon.",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup_light_16-9.width-1300.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-13",
-   "ts": "2026-10-13T16:00:00+00:00",
+   "ts": "2026-10-13T19:43:07+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gemini-4-argon-for-robotics",
+   "title": "Gemini 4 Argon for Robotics",
+   "summary": "Discover Gemini 4 Argon for robotics: leading the ERQA benchmark with physical reasoning, zero-shot control, Real2Sim, and agentic workflows.",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/argon__robotics__hero.2e16d0ba.fill-1200x600.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:58+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gemini-4-argon-built-to-solve-your-hardest-problems",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__2784x1566.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-13",
+   "ts": "2026-10-13T16:01:52+00:00",
    "rank": 2
   },
   {
@@ -1654,20 +1668,6 @@
    ],
    "date": "2026-10-12",
    "ts": "2026-10-12T15:54:36+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-asana-cuts-model-costs-76x-in-browser-tests-with-gpt-6-1",
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "url": "https://openai.com/index/asana-browser-agent",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/4bNHf0rdpv55WFke9YADV7/306540f0701aa79ce7cc9057f616c577/asana-blue-layered-paper-social-seo-1920x1080.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-09",
-   "ts": "2026-10-09T07:00:00+00:00",
    "rank": 2
   }
  ]
