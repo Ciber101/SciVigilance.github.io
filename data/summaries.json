@@ -331,18 +331,11 @@
  "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test": {
   "s": "The Space Rider prototype, designed for Europe's space program, failed to deploy its parachute during a test drop, indicating a technical issue. Despite this, researchers at ESA remain optimistic it won't halt development of reusable spacecraft."
  },
- "https://www.sciencealert.com/scientists-just-cracked-a-quantum-mystery-thats-puzzled-physicists-for-decades": {
-  "s": "Scientists just quantified the Kondo effect in a real material through precise calculations. Previously, predicting this effect required experiments and simplified models, lacking full precision."
- },
  "https://www.nasa.gov/image-article/spirals-edge/": {
   "s": "This NASA image shows NGC 1827, a spiral galaxy seen edge-on. Such galaxies are studied to test cosmological models, which often fail to match observations of small-scale structures."
  },
  "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
   "s": "The design software X-Hinges reimagines everyday objects like lamps and gloves, embedding sensors that perceive and adapt to human contact. This innovation allows items to react to touch, similar to how AI agents make decisions based on instructions. However, the sensors often confused the devices, leading to errors. Researchers at MIT and Tianjin University developed a method to 3D print items with sensors and conductive traces that emit distinct signals, solving the confusion issue."
- },
- "https://openai.com/index/openai-models-google-cloud": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html": {
   "s": "",
@@ -367,21 +360,19 @@
  "https://phys.org/news/2026-10-supramolecular-route-quantum-materials.html": {
   "s": "A joint research team created a two-dimensional structure that combines properties of honeycomb and Kagome lattices using organic molecules. This discovery revealed edge states characteristic of topological materials within this structure. The achievement matters because it opens a new avenue for designing quantum materials using organic molecules, which are more flexible than inorganic materials."
  },
- "https://phys.org/news/2026-10-microgreens-nutritional.html": {
-  "s": "First, researchers found adding iron to soilless growing systems makes microgreens richer in iron without affecting their growth or nutritional quality. This could help improve iron intake and combat iron deficiency. Second, adjusting the red-to-blue light ratio indoors improves microgreens' nutritional properties. Finally, using plasma-activated water boosts growth, yield, and nutritional quality of pea microgreens."
- },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "",
-  "why": "too little source text"
+ "https://www.sciencealert.com/mole-rats-get-stressed-when-earths-magnetic-field-vanishes-study-suggests": {
+  "s": "The study suggests Ansell's mole rat, sensitive to Earth's magnetic field, exhibits stress when the field disappears. This shows such animals, like the rat, can sense and be affected by magnetic fields, a previously understudied area."
  },
- "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
-  "s": "Boston Dynamics has joined the DoW SkillBridge program, which provides service members with job training before their discharge. This move matters as it supports military personnel in transitioning to civilian careers, aligning with Boston Dynamics' mission to deliver capable robots and help various industries."
+ "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html": {
+  "s": "Light-activated catalysts make hydrogen peroxide production more efficient, reducing energy costs and environmental impact. As demand for hydrogen peroxide rises, photocatalysis offers a sustainable alternative to traditional anthraquinone processes."
  },
- "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Boston Dynamics' Spot robot to keep people safe, leveraging its mobility and ease of use. Spot's advantages, including agility and a manipulator arm, make it a standard part of the public safety toolkit."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high fidelity simulation and dexterous physical work. This matters as it addresses the complex tradeoffs in hand design, focusing on dexterity, strength, and ruggedness, making the hand more capable for real-world tasks."
  }
 }
