@@ -2,9 +2,6 @@
  "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
   "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
  },
- "https://www.quantamagazine.org/how-do-fungi-keep-the-planet-healthy-20261015/": {
-  "s": "Fungi in soil trade minerals with plants, enriching the soil and storing carbon. This underground network, unseen by humans, evolved over 450 million years ago. Scientists are now studying how fungi without brains manage these complex transactions, revealing new insights into soil health and carbon storage."
- },
  "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
   "s": "A new AI model uncovers how cells communicate to form tissues. This could help in making stem cells more useful and could lead to better disease models and therapies. Understanding these cell conversations could help scientists fix problems in how organs grow and develop, which is important for treating diseases."
  },
@@ -37,9 +34,6 @@
  },
  "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839": {
   "s": "Farmers have selectively bred animals for traits they find useful, such as tameness or increased egg production. This process, called domestication, has shaped farm animals over generations. As a result, farm animals have evolved to benefit humans rather than protect themselves against them."
- },
- "https://theconversation.com/nasas-mars-orbiter-fleet-is-getting-old-heres-how-that-could-affect-future-exploration-292555": {
-  "s": "NASA’s Mars orbiter Maven, the youngest of its fleet, lost contact in December 2025, leaving two active orbiters. This situation matters because it highlights the aging of the Mars orbiter fleet, which could affect future exploration efforts. As Mars has a limited number of satellites compared to Earth, the loss of Maven reduces the number of operational satellites and orbiters, impacting communication and data collection crucial for planetary science."
  },
  "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
   "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
@@ -79,9 +73,6 @@
  },
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
- },
- "https://huggingface.co/blog/hf-torchtpu": {
-  "s": "Hugging Face has introduced TorchTPU, a native PyTorch backend for TPUs, making them easier to use. This native support simplifies running Hugging Face models on TPUs, eliminating the need for torch_xla and making debugging and code execution more straightforward."
  },
  "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/": {
   "s": "RoboBusiness rebranded as Robotics Summit & Expo West to focus on deploying robotics and AI in real-world settings, reflecting industry growth. The new name aims to serve professionals meeting increasing demand for intelligent systems across various sectors."
@@ -153,9 +144,6 @@
  "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/": {
   "s": "Robots showcased at a humanoid robot competition can sprint and box, but handling laundry is a more challenging task. Laundry tasks require robots to handle clothes of various shapes and materials, adapt to unexpected changes, and solve problems that humans do without thinking. This makes laundry a better test for assessing robot intelligence."
  },
- "https://robohub.org/robot-talk-episode-165-robots-behind-the-research-with-kushant-patel/": {
-  "s": "Kushant Patel from Brookhaven National Laboratory works on software that enables robots to navigate and interact with their environment, particularly in scientific facilities like particle accelerators. His research includes teaching robots to map and inspect nuclear material, and developing control systems for advanced synchrotron beamlines."
- },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
   "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
  },
@@ -195,20 +183,6 @@
  "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": {
   "s": "Fires spread across New Guinea, an island with diverse ecosystems, during a drought exacerbated by El Niño. Smoke from these fires caused air quality issues, affecting flights and schools."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark, scoring 87%. This advance in capability suggests Argon can understand and solve complex physical problems without needing to be trained on specific tasks, which is crucial for robotics."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases": {
   "s": "If approved, a CAR T cell therapy would be the first treatment for stiff person syndrome. It could change Lynn Montgomery-Haga's life, giving her back mobility after years of debilitating disease."
  },
@@ -235,9 +209,6 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure reliability in warehouse environments. She simulates years of wear and tear on robot parts in weeks by running tests with more aggressive forces than the robot would experience in real use. This helps identify potential issues early, ensuring the robot can work predictably over its lifetime."
- },
- "https://www.space.com/stargazing/solar-eclipses/the-2027-total-solar-eclipse-will-plunge-these-10-ancient-egyptian-temples-and-monuments-into-darkness": {
-  "s": "The 2027 total solar eclipse will darken some of Egypt's most impressive ancient sites, including temples and tombs. This event matters as it highlights the alignment of celestial events with historical landmarks, offering a unique opportunity to study the impact of eclipses on ancient structures."
  },
  "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
   "s": "Donated Agent Skills, an open standard for specialized AI knowledge, to the Agentic AI Foundation, making it accessible to any AI agent. This move supports community-driven development and ensures transparency in AI skill creation and deployment."
@@ -284,23 +255,14 @@
  "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images": {
   "s": "The Vera Rubin Observatory's Commissioning Camera operated for seven weeks in late 2024, gathering about 16,000 exposures. This image shows a nebula 3,700 light years away, highlighting Sharpless 2-292. The camera, smaller than the observatory's Legacy Survey of Space and Time camera, still produces impressive images, satisfying anticipation for more from the Vera Rubin Observatory."
  },
- "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia": {
-  "s": "Ukraine, after experiencing a disruption in its satellite communication network, has now agreed to collaborate with Nokia and ICEYE to create its own system. This move matters as it aims to regain control over its communication infrastructure, which has been compromised by external factors."
- },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
- },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Boston Dynamics' Spot robot to keep people safe, leveraging its mobility and ease of use. Spot's advantages, including agility and a manipulator arm, make it a standard part of the public safety toolkit."
  },
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high fidelity simulation and dexterous physical work. This matters as it addresses the complex tradeoffs in hand design, focusing on dexterity, strength, and ruggedness, making the hand more capable for real-world tasks."
  },
  "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/": {
   "s": "Today, from Australia, the Andromeda Galaxy was photographed rising above hills, showing its spiral structure in detail. This rare view highlights how distant galaxies appear when viewed from Earth's southern hemisphere during spring."
- },
- "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html": {
-  "s": "Mother bats hear their own pups' isolation calls and react to them by rushing over. This study found that the sound of their own pups' calls also made their hearts beat faster, helping them identify their offspring."
  },
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
@@ -311,17 +273,8 @@
  "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
   "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
  },
- "https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html": {
-  "s": "Blistering heatwaves in Europe this summer claimed over 50,000 lives, with climate change blamed for two-thirds of those deaths. This study suggests that human-caused climate change significantly increased the risk of heat-related deaths during extreme heat events."
- },
  "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/": {
   "s": "Google Cloud introduced Agent Compute Engine, isolating each AI agent in a separate microVM to prevent credential sharing. This innovation matters because it enhances security by reducing the risk of secrets being stolen, and it optimizes resource usage by allowing agents to run in a stateless environment."
- },
- "https://phys.org/news/2026-10-iris-patterns-noninvasive-individual-amazonian.html": {
-  "s": "Researchers identified individual Amazonian treefrogs using their unique eye patterns. This method is noninvasive and less stressful for the animals, offering a humane alternative to traditional tagging."
- },
- "https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html": {
-  "s": "In the Earth's mantle, magnesium oxide crystals transform into a new structure or liquid under extreme pressures and temperatures. This discovery solves a long-standing mystery in planetary science, challenging the assumption that the direction of compression does not matter. Understanding these transformations helps explain the interiors of various planets, including super-Earths and gas giants."
  },
  "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/": {
   "s": "You.com launched Inference Router, an API for 12 open models with a high uptime SLA. This matters as it offers a reliable service for web search without data retention, making it appealing for users concerned about privacy."
@@ -331,10 +284,6 @@
  },
  "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html": {
   "s": "AI agents were given political positions and asked to defend them, persuading one another. Despite not being instructed to favor like-minded partners, they formed opposing camps that preferred their own company. Changing whom the agents encountered did not soften their views."
- },
- "https://www.sciencealert.com/were-a-step-closer-to-quantum-computers-that-can-correct-their-own-mistakes": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence": {
   "s": "Rocket Lab launched three satellites designed to collect signals intelligence into space today. Such satellites matter as they help gather critical information about communications and electronic signals, potentially aiding national security efforts."
@@ -352,9 +301,6 @@
  "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed": {
   "s": "Space debris threatens the safety and cleanliness of orbital environments, crucial for all modern systems. Therefore, efforts to manage and reduce debris are important for maintaining space as a sustainable infrastructure."
  },
- "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html": {
-  "s": "Glaciers ending in lakes, oceans or ice shelves account for 3.2% of world glaciers, but these lost 134 billion metric tons of ice annually between 2000 and 2019, half of all glacier ice loss. Understanding these glaciers is crucial as they are losing ice faster than those ending on land, a phenomenon not yet fully understood."
- },
  "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": {
   "s": "A new PTSD treatment using personalized brain mapping and magnetic stimulation achieved a 52% reduction in symptoms and 68% remission in a clinical trial. This approach could significantly expand treatment options for PTSD, which affects millions of people, including veterans."
  },
@@ -369,5 +315,53 @@
  },
  "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/": {
   "s": "RIPL, a real-time inference engine from Liquid AI, significantly reduces latency from 14.4 to 28.4x compared to classical models. This matters because it enables quick responses like search ranking and payment authorization that need answers in milliseconds, making AI models like LFM2.5-1.2B perform 2 to 10x faster, crucial for real-time commerce tasks."
+ },
+ "https://phys.org/news/2026-10-glass-good-key.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026": {
+  "s": "The Griffin lunar lander has successfully completed numerous important tests before its historic moon mission, set to launch soon. This matters because it demonstrates the lander's readiness for the moon's harsh environment."
+ },
+ "https://www.sciencealert.com/16-years-after-deepwater-horizon-spill-deep-sea-life-in-the-gulf-of-mexico-shows-no-sign-of-recovery": {
+  "s": "After 16 years, deep sea life in the Gulf of Mexico still shows no signs of recovery from the 2010 Deepwater Horizon spill. Scientists found a sharp decline in deep pelagic species, including krill, lanternfish, and bristlemouths. The spill, which released millions of gallons of oil, is the most likely cause of this decline, as other environmental factors did not change. This decline impacts the ecosystem and economies that rely on these deep-sea creatures."
+ },
+ "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas": {
+  "s": "Switching from a gas stove to an electric one can help people with asthma breathe easier. Exposure to pollutants from gas stoves, including nitrogen dioxide, can trigger asthma symptoms. A study found that after replacing gas stoves with electric ones, people reported significant improvement in asthma symptoms, fewer emergency room visits, and less missed work or school."
+ },
+ "https://theconversation.com/fear-based-campaign-ads-can-grab-attention-but-whether-they-win-votes-is-less-clear-292574": {
+  "s": "Fear-based campaign ads can grab attention by tapping into voters' existing prejudices, but whether they win votes is less clear. Anxiety drives people to seek out new information, possibly helping a struggling campaign, but this effect varies depending on the audience's level of political engagement."
+ },
+ "https://phys.org/news/2026-10-antarctic-ice-reveals-hidden-lake.html": {
+  "s": "Sinking Antarctic ice exposed a hidden lake, leaving a visible depression that deepened by nearly 20 feet. Tracking this sinking surface revealed the lake lost about 78 million cubic meters of water over five years. This matters because reduced friction due to water loss can affect glacier movement, but measuring surface changes is complicated by the ice's sideways movement."
+ },
+ "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds": {
+  "s": "Stupendously large black holes are not a significant part of dark matter, the study suggests. This finding challenges previous theories about the composition of dark matter."
+ },
+ "https://phys.org/news/2026-10-quick-crispr-skin-cells-neurons.html": {
+  "s": "Scientists have found a way to make human skin cells more easily transform into neurons, a process that is usually inefficient. By squeezing the cell's nucleus for a brief moment, they temporarily loosen the tightly packed DNA, allowing gene-targeting tools to reach and activate genes they would otherwise struggle to access. This improvement makes the conversion process more successful, potentially leading to better research and treatments for diseases."
+ },
+ "https://phys.org/news/2026-10-east-asia-summer-belt-shifted.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-quantum-cat-states.html": {
+  "s": "Researchers at Fuzhou University in China demonstrated that when a quantum system is prepared in a \"cat state\" and stored in a superconducting resonator, interference can fade but return progressively as the environment's size increases. This finding suggests that decoherence, the loss of interference, can sometimes be reversed, but only up to a point."
+ },
+ "https://huggingface.co/blog/torch-neuronx-model-support": {
+  "s": "The organization introduced TorchNeuron, a native PyTorch backend for AWS Trainium, allowing models to run on the device. This tool helps users check if popular models can be run unmodified on Trainium, providing scripts to test them."
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/asana-browser-agent": {
+  "s": "Asana reduced the cost and speed of its browser agent by 76 times and five times respectively, through tests using GPT-6 Astra in Codex. This innovation helps Asana offer more capable models to customers, saving significant resources at scale."
+ },
+ "https://robohub.org/robot-talk-episode-167-automating-construction-with-jan-petrs/": {
+  "s": "Jan Petrš, a roboticist, architect, and entrepreneur, discussed novel robot designs for construction and architecture. His work at EPFL and Déploya Robotics focuses on developing deployable robotic systems for automated façade installation."
+ },
+ "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
+  "s": "Boston Dynamics has joined the DoW SkillBridge program, which provides service members with on-the-job training, apprenticeships, or internships to help them transition into civilian careers. This move matters as it supports military members as they leave active duty, helping them gain valuable industry experience while still in uniform."
  }
 }
