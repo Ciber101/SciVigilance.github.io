@@ -195,9 +195,6 @@
  "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": {
   "s": "Fires spread across New Guinea, an island with diverse ecosystems, during a drought exacerbated by El Niño. Smoke from these fires caused air quality issues, affecting flights and schools."
  },
- "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/": {
-  "s": "IBM released Granite Speech 5.0 2B, a speech recognition and translation model. It ranks high on speech recognition leaderboards, showing improvements in accuracy and multilingual support. The model matters because it offers better translation and keyword recognition, aiding in multilingual communication and improving speech-to-text accuracy."
- },
  "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -249,9 +246,6 @@
  "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend": {
   "s": "Venus disappears from evening twilight skies as it passes between Earth and the Sun. This event transforms Venus from an evening star to a morning one, visible in the dawn sky. It matters because this rare alignment provides a unique opportunity to study Venus up close, allowing astronomers to gather valuable data about the planet's atmosphere and surface."
  },
- "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/": {
-  "s": "Gradium released Phonon, a text-to-speech model that generates speech locally without needing internet access. Its release under Apache 2.0 license matters as it offers a lightweight, fast solution for speech generation, suitable for devices with limited resources."
- },
  "https://www.livescience.com/planet-earth/plants/can-plants-survive-climate-change-an-armory-of-unique-adaptations-could-see-some-grow-with-the-flow": {
   "s": "Plants have adapted to tough conditions by developing strategies to withstand adverse environments. This resilience could be beneficial as climate change intensifies, allowing some plants to persist despite changing conditions."
  },
@@ -297,9 +291,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/": {
-  "s": "Liquid AI developed RIPL, an engine for faster real-time inference of its large language models. This matters because current serving stacks are too slow for many tasks requiring quick answers, such as search ranking and payment authorization. RIPL aims to reduce latency to less than a second, addressing a gap in technology for faster AI processing."
- },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
  },
@@ -319,25 +310,14 @@
  "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
   "s": "The design software X-Hinges reimagines everyday objects like lamps and gloves, embedding sensors that perceive and adapt to human contact. This innovation allows items to react to touch, similar to how AI agents make decisions based on instructions. However, the sensors often confused the devices, leading to errors. Researchers at MIT and Tianjin University developed a method to 3D print items with sensors and conductive traces that emit distinct signals, solving the confusion issue."
  },
- "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-22-2026": {
   "s": "The ashes of Gene Roddenberry, creator of \"Star Trek,\" were launched into space aboard NASA's Columbia shuttle on October 22, 1992. This event mattered as it was a unique way to honor the legacy of a beloved science fiction author, sending his ashes into space."
  },
  "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images": {
   "s": "The Vera Rubin Observatory's Commissioning Camera operated for seven weeks in late 2024, gathering about 16,000 exposures. This image shows a nebula 3,700 light years away, highlighting Sharpless 2-292. The camera, smaller than the observatory's Legacy Survey of Space and Time camera, still produces impressive images, satisfying anticipation for more from the Vera Rubin Observatory."
  },
- "https://phys.org/news/2026-10-iron-laser-driven-demagnetization.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/satellites/after-starshield-interruption-ukraine-wants-to-build-its-own-satellite-communication-network-with-iceye-and-nokia": {
   "s": "Ukraine, after experiencing a disruption in its satellite communication network, has now agreed to collaborate with Nokia and ICEYE to create its own system. This move matters as it aims to regain control over its communication infrastructure, which has been compromised by external factors."
- },
- "https://phys.org/news/2026-10-global-database-fuller-picture-elements.html": {
-  "s": "Scientists have compiled a database of 5,474 plant samples from around the world, revealing the elements that make up plants. This comprehensive picture helps researchers understand what could happen to plants grown in different environments, such as on the moon or Mars, and is crucial for future space agriculture."
  },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
@@ -374,5 +354,20 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
   "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
+ },
+ "https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html": {
+  "s": "Blistering heatwaves in Europe this summer claimed over 50,000 lives, with climate change blamed for two-thirds of those deaths. This study suggests that human-caused climate change significantly increased the risk of heat-related deaths during extreme heat events."
+ },
+ "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/": {
+  "s": "Google Cloud introduced Agent Compute Engine, isolating each AI agent in a separate microVM to prevent credential sharing. This innovation matters because it enhances security by reducing the risk of secrets being stolen, and it optimizes resource usage by allowing agents to run in a stateless environment."
+ },
+ "https://phys.org/news/2026-10-iris-patterns-noninvasive-individual-amazonian.html": {
+  "s": "Researchers identified individual Amazonian treefrogs using their unique eye patterns. This method is noninvasive and less stressful for the animals, offering a humane alternative to traditional tagging."
+ },
+ "https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html": {
+  "s": "In the Earth's mantle, magnesium oxide crystals transform into a new structure or liquid under extreme pressures and temperatures. This discovery solves a long-standing mystery in planetary science, challenging the assumption that the direction of compression does not matter. Understanding these transformations helps explain the interiors of various planets, including super-Earths and gas giants."
+ },
+ "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/": {
+  "s": "You.com launched Inference Router, an API for 12 open models with a high uptime SLA. This matters as it offers a reliable service for web search without data retention, making it appealing for users concerned about privacy."
  }
 }

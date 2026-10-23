@@ -421,10 +421,23 @@
    "rank": 1
   }
  ],
- "date": "2026-10-22",
- "updated": "2026-10-23T05:32+00:00",
+ "date": "2026-10-23",
+ "updated": "2026-10-23T08:24+00:00",
  "tagline": "63 real stories from the frontier of science, each linked to its source.",
  "articles": [
+  {
+   "id": "europe-s-killer-heat-this-summer-claims-50-000-lives-climate",
+   "title": "Europe's killer heat this summer claims 50,000 lives. Climate change blamed for two-thirds of deaths",
+   "summary": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
+   "url": "https://phys.org/news/2026-10-europe-killer-summer-climate-blamed.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/climate-europe-heat-de.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T08:20:01+00:00"
+  },
   {
    "id": "apod-2026-october-23-andromeda-in-southern-spring",
    "title": "APOD: 2026 October 23 – Andromeda in Southern Spring",
@@ -439,30 +452,17 @@
    "ts": "2026-10-23T04:05:00+00:00"
   },
   {
-   "id": "mother-bats-hearts-beat-faster-at-the-sound-of-their-own-bab",
-   "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
-   "summary": "A mother bat has one crucial challenge: find her own babies among hundreds of other bats in the colony. Making sure she cares for and nurses only her own offspring is important to ensuring their survival.",
-   "url": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mother-bats.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T04:00:01+00:00"
-  },
-  {
-   "id": "ai-donating-agent-skills-to-the-agentic-ai-foundation",
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
+   "id": "ai-google-cloud-launches-agent-compute-engine-a-microvm-per",
+   "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+   "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside.",
+   "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T00:00:00+00:00",
+   "date": "2026-10-23",
+   "ts": "2026-10-23T06:05:10+00:00",
    "rank": 0
   },
   {
@@ -518,12 +518,12 @@
    "ts": "2026-10-22T22:39:19+00:00"
   },
   {
-   "id": "ai-introducing-the-spacex-super-intelligence-partner-networ",
-   "title": "Introducing the SpaceX Super Intelligence Partner Network",
-   "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
-   "url": "https://x.ai/news/partnernetworkannouncement",
-   "source": "xAI",
-   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
+   "id": "ai-donating-agent-skills-to-the-agentic-ai-foundation",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
    "tags": [
     "AI"
    ],
@@ -584,18 +584,18 @@
    "ts": "2026-10-22T08:00:00+00:00"
   },
   {
-   "id": "ai-turning-database-grading-into-rl-rewards-post-training-a",
-   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-   "summary": "A Blog post by Microsoft on Hugging Face",
-   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
+   "id": "ai-introducing-the-spacex-super-intelligence-partner-networ",
+   "title": "Introducing the SpaceX Super Intelligence Partner Network",
+   "summary": "Our official program for companies building products, solutions, and services with Grok for our joint prospects and customers.",
+   "url": "https://x.ai/news/partnernetworkannouncement",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/spacexsi_partner_network_og_image-2e1cc308.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T22:24:34+00:00",
-   "rank": 1
+   "ts": "2026-10-22T00:00:00+00:00",
+   "rank": 0
   },
   {
    "id": "see-inside-cells-like-never-before-in-these-vivid-microscopi",
@@ -624,6 +624,19 @@
    "ts": "2026-10-21T12:48:18+00:00"
   },
   {
+   "id": "iris-patterns-offer-a-noninvasive-way-to-recognize-individua",
+   "title": "Iris patterns offer a noninvasive way to recognize individual Amazonian treefrogs",
+   "summary": "Identifying individual animals in the wild has long meant tagging, branding or clipping. For amphibians, the standard approach has often been toe-clipping, a procedure that can affect survival, physiology and behavior.",
+   "url": "https://phys.org/news/2026-10-iris-patterns-noninvasive-individual-amazonian.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/iris-patterns-offer-a-1.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T08:00:01+00:00"
+  },
+  {
    "id": "el-ni-o-then-and-now",
    "title": "El Niño Then and Now",
    "summary": "A 35-year satellite altimetry record lets scientists hold this year’s El Niño up against its strongest predecessors.",
@@ -648,19 +661,6 @@
    ],
    "date": "2026-10-23",
    "ts": "2026-10-23T02:54:41+00:00"
-  },
-  {
-   "id": "light-activated-catalyst-makes-sustainable-production-of-hyd",
-   "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
-   "summary": "Hydrogen peroxide (H₂O₂) is a versatile chemical feedstock whose industrial production relies predominantly on an energy-intensive process with a substantial environmental footprint.",
-   "url": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/making-the-sustainable.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T23:40:06+00:00"
   },
   {
    "id": "on-this-day-in-space-oct-22-1992-ashes-of-star-trek-creator",
@@ -767,6 +767,19 @@
    "ts": "2026-10-19T15:40:26+00:00"
   },
   {
+   "id": "a-mineral-from-the-inside-of-planets-reveals-a-surprising-le",
+   "title": "A mineral from the inside of planets reveals a surprising lesson: How you push matters",
+   "summary": "In the deepest region of the Earth's mantle, just above the core, much of the material consists of crystals of magnesium oxide.",
+   "url": "https://phys.org/news/2026-10-mineral-planets-reveals-lesson.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/an-artistic-rendering.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T07:42:44+00:00"
+  },
+  {
    "id": "cambridge-scientists-create-a-10-chip-that-could-put-a-medic",
    "title": "Cambridge scientists create a $10 chip that could put a medical lab on your wrist",
    "summary": "Cambridge researchers have created a groundbreaking $10 optical sensor that delivers the precision of laboratory equipment in a device small enough for wearable technology.",
@@ -778,19 +791,6 @@
    ],
    "date": "2026-10-23",
    "ts": "2026-10-23T01:21:47+00:00"
-  },
-  {
-   "id": "with-climate-resilient-crops-in-mind-study-tackles-flaw-in-p",
-   "title": "With climate-resilient crops in mind, study tackles flaw in photosynthesis",
-   "summary": "Rising temperatures and increasing drought are shortening crop-growing seasons in many parts of the world. Now scientists in Sweden report new advances toward engineering more efficient photosynthesis, work that could…",
-   "url": "https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/with-climate-resilient-1.jpg",
-   "tags": [
-    "Earth"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T23:20:01+00:00"
   },
   {
    "id": "spiral-s-edge",
@@ -910,17 +910,17 @@
    "ts": "2026-10-16T13:25:08+00:00"
   },
   {
-   "id": "ultrafast-light-pulses-track-molecular-motion-with-three-fem",
-   "title": "Ultrafast light pulses track molecular motion with three-femtosecond resolution",
-   "summary": "Researchers have observed a molecule in the first instants after it has absorbed light and tracked the coordinated motion of electrons and nuclei with a temporal resolution of three femtoseconds.",
-   "url": "https://phys.org/news/2026-10-ultrafast-pulses-track-molecular-motion.html",
+   "id": "mother-bats-hearts-beat-faster-at-the-sound-of-their-own-bab",
+   "title": "Mother bats' hearts beat faster at the sound of their own babies' cries",
+   "summary": "A mother bat has one crucial challenge: find her own babies among hundreds of other bats in the colony. Making sure she cares for and nurses only her own offspring is important to ensuring their survival.",
+   "url": "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ultrafast-light-pulses.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mother-bats.jpg",
    "tags": [
     "Physics"
    ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T23:00:02+00:00"
+   "date": "2026-10-23",
+   "ts": "2026-10-23T04:00:01+00:00"
   },
   {
    "id": "the-2027-total-solar-eclipse-will-plunge-these-10-ancient-eg",
@@ -1053,17 +1053,17 @@
    "ts": "2026-10-15T13:40:13+00:00"
   },
   {
-   "id": "shrinking-iron-films-strengthens-laser-driven-demagnetizatio",
-   "title": "Shrinking iron films strengthens laser-driven demagnetization",
-   "summary": "From photos and videos to documents, vast amounts of data are stored on hard drives in large data centers. These devices use tiny magnetic regions whose orientation determines the information stored.",
-   "url": "https://phys.org/news/2026-10-iron-laser-driven-demagnetization.html",
+   "id": "light-activated-catalyst-makes-sustainable-production-of-hyd",
+   "title": "Light-activated catalyst makes sustainable production of hydrogen peroxide more efficient",
+   "summary": "Hydrogen peroxide (H₂O₂) is a versatile chemical feedstock whose industrial production relies predominantly on an energy-intensive process with a substantial environmental footprint.",
+   "url": "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/shrinking-iron-films-f.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/making-the-sustainable.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T22:40:10+00:00"
+   "ts": "2026-10-22T23:40:06+00:00"
   },
   {
    "id": "van-gogh-s-the-starry-night-depicts-the-sky-on-july-22-1889",
@@ -1170,17 +1170,17 @@
    "ts": "2026-10-19T12:35:06+00:00"
   },
   {
-   "id": "global-database-provides-a-fuller-picture-of-the-elements-th",
-   "title": "Global database provides a fuller picture of the elements that make up plant life",
-   "summary": "What, exactly, is a plant made of? Scientists have a good understanding of the essential nutrients plants need to grow. But what plants need and what they contain are not necessarily the same.",
-   "url": "https://phys.org/news/2026-10-global-database-fuller-picture-elements.html",
+   "id": "with-climate-resilient-crops-in-mind-study-tackles-flaw-in-p",
+   "title": "With climate-resilient crops in mind, study tackles flaw in photosynthesis",
+   "summary": "Rising temperatures and increasing drought are shortening crop-growing seasons in many parts of the world. Now scientists in Sweden report new advances toward engineering more efficient photosynthesis, work that could…",
+   "url": "https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2024/plant-roots.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/with-climate-resilient-1.jpg",
    "tags": [
-    "Biology"
+    "Earth"
    ],
    "date": "2026-10-22",
-   "ts": "2026-10-22T22:20:11+00:00"
+   "ts": "2026-10-22T23:20:01+00:00"
   },
   {
    "id": "cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-war",
@@ -1250,6 +1250,20 @@
  ],
  "ai": [
   {
+   "id": "ai-google-cloud-launches-agent-compute-engine-a-microvm-per",
+   "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+   "summary": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside.",
+   "url": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f9e0.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T06:05:10+00:00",
+   "rank": 0
+  },
+  {
    "id": "ai-donating-agent-skills-to-the-agentic-ai-foundation",
    "title": "Donating Agent Skills to the Agentic AI Foundation",
    "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
@@ -1278,6 +1292,20 @@
    "rank": 0
   },
   {
+   "id": "ai-you-com-launches-inference-router-12-open-weight-models",
+   "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+   "summary": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, server-side web search and no platform fee.",
+   "url": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-23",
+   "ts": "2026-10-23T05:28:21+00:00",
+   "rank": 1
+  },
+  {
    "id": "ai-turning-database-grading-into-rl-rewards-post-training-a",
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "summary": "A Blog post by Microsoft on Hugging Face",
@@ -1289,20 +1317,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T22:24:34+00:00",
-   "rank": 1
-  },
-  {
-   "id": "ai-gradium-open-sources-phonon-a-31m-parameter-on-device-tt",
-   "title": "Gradium Open-Sources Phonon, a 31M-Parameter On-Device TTS Model Under Apache 2.0",
-   "summary": "Gradium has open-sourced Phonon, a family of on-device text-to-speech models. The English Phonon 31m ships under Apache 2.0, fits in 64.5 MB, and starts speaking in about 7 ms on a laptop CPU.",
-   "url": "https://www.marktechpost.com/2026/10/22/gradium-phonon-31m-on-device-tts/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T16:56:12+00:00",
    "rank": 1
   },
   {
@@ -1390,20 +1404,6 @@
    "rank": 2
   },
   {
-   "id": "ai-liquid-ai-launches-ripl-a-real-time-inference-engine-for",
-   "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
-   "summary": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than Qwen3.5-0.8B on vLLM.",
-   "url": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-27-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T17:33:25+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-cohere-releases-rerank-5-with-passage-level-context-focu",
    "title": "Cohere Releases Rerank 5 With Passage-Level Context Focus and Calibrated Scores",
    "summary": "Cohere Rerank 5 ships in Pro and Fast tiers with a 32K context window, Context Focus passage extraction and calibrated relevance scores. Pro scores 82.2 on BRIGHT and costs $0.05 per 1M tokens.",
@@ -1415,20 +1415,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T16:31:31+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-ibm-ai-releases-granite-speech-5-0-2b-for-multilingual-t",
-   "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
-   "summary": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average English WER, alongside updated Turbo CTC and 4.1 2B Plus models.",
-   "url": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-454-1-2-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T07:00:56+00:00",
    "rank": 2
   },
   {
