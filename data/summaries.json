@@ -174,19 +174,12 @@
  "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon": {
   "s": "Artemis II commander Reid Wiseman experienced fear during his mission when the spacecraft traveled farther from Earth than expected. This moment highlighted the dangers and unpredictability of space travel."
  },
- "https://www.universetoday.com/articles/two-disks-in-one-how-accretion-disks-drive-black-hole-jets": {
-  "s": "Two disks in one: Some supermassive black holes (SMBH) produce jets, despite having thin, cold accretion disks. This is puzzling because the Blandford–Znajek (BZ) mechanism, which relies on large-scale magnetic fields, typically requires thick, hot accretion disks. New research suggests that even thin disks can launch jets, challenging the current understanding of how these jets are powered."
- },
  "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints": {
   "s": "",
   "why": "too little source text"
  },
  "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values": {
   "s": "Brain scans show a common mental map for comparing values of numbers, regardless of whether they are whole or fractions. This map helps in mentally assessing the relative sizes of numbers."
- },
- "https://www.livescience.com/animals/snakes/watch-bizarre-snake-cartwheel-away-from-danger-at-more-than-12-feet-per-second": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
@@ -195,14 +188,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.nasa.gov/image-article/spirals-edge/": {
-  "s": "This NASA image shows NGC 1827, a spiral galaxy seen edge-on. Such galaxies are studied to test cosmological models, which often fail to match observations of small-scale structures."
- },
  "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
   "s": "The design software X-Hinges reimagines everyday objects like lamps and gloves, embedding sensors that perceive and adapt to human contact. This innovation allows items to react to touch, similar to how AI agents make decisions based on instructions. However, the sensors often confused the devices, leading to errors. Researchers at MIT and Tianjin University developed a method to 3D print items with sensors and conductive traces that emit distinct signals, solving the confusion issue."
- },
- "https://www.universetoday.com/articles/even-the-rubins-test-camera-produces-stunning-images": {
-  "s": "The Vera Rubin Observatory's Commissioning Camera operated for seven weeks in late 2024, gathering about 16,000 exposures. This image shows a nebula 3,700 light years away, highlighting Sharpless 2-292. The camera, smaller than the observatory's Legacy Survey of Space and Time camera, still produces impressive images, satisfying anticipation for more from the Vera Rubin Observatory."
  },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
@@ -212,9 +199,6 @@
  },
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
- },
- "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/": {
-  "s": "Scientists compared this year's El Niño to the strongest in the satellite altimetry record by using a 35-year dataset. This comparison helps in understanding how El Niño impacts the Pacific Ocean, potentially influencing global weather patterns."
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
   "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
@@ -228,9 +212,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261023003214.htm": {
   "s": "Scientists have discovered that a huge magma reservoir beneath Kikai caldera, Japan, is slowly refilling after a massive eruption roughly 7,300 years ago. This finding is significant because it offers insight into how giant volcanic systems replenish their magma after powerful eruptions, potentially providing clues for predicting future eruptions."
  },
- "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence": {
-  "s": "Rocket Lab launched three satellites designed to collect signals intelligence into space today. Such satellites matter as they help gather critical information about communications and electronic signals, potentially aiding national security efforts."
- },
  "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds": {
   "s": "The JWST observed WASP-17 b, an exoplanet previously known, revealing it is not a perfect sphere but lopsided. This matters because traditional methods of studying exoplanet atmospheres treat them as uniform, ignoring differences between sides. New techniques can now analyze the atmosphere's thickness and chemistry at different parts of the planet, providing more detailed information."
  },
@@ -240,9 +221,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081314.htm": {
   "s": "Dental implants can cause infections that antibiotics often fail to treat. Scientists found that titanium particles from implants interfere with immune cells, leading to persistent inflammation that damages jawbone. This discovery offers a new target for developing therapies to prevent peri-implantitis."
- },
- "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed": {
-  "s": "Space debris threatens the safety and cleanliness of orbital environments, crucial for all modern systems. Therefore, efforts to manage and reduce debris are important for maintaining space as a sustainable infrastructure."
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": {
   "s": "A new PTSD treatment using personalized brain mapping and magnetic stimulation achieved a 52% reduction in symptoms and 68% remission in a clinical trial. This approach could significantly expand treatment options for PTSD, which affects millions of people, including veterans."
@@ -268,9 +246,6 @@
  "https://theconversation.com/fear-based-campaign-ads-can-grab-attention-but-whether-they-win-votes-is-less-clear-292574": {
   "s": "Fear-based campaign ads can grab attention by tapping into voters' existing prejudices, but whether they win votes is less clear. Anxiety drives people to seek out new information, possibly helping a struggling campaign, but this effect varies depending on the audience's level of political engagement."
  },
- "https://www.space.com/astronomy/dark-universe/stupendously-large-black-holes-arent-a-major-component-of-dark-matter-study-finds": {
-  "s": "Stupendously large black holes are not a significant part of dark matter, the study suggests. This finding challenges previous theories about the composition of dark matter."
- },
  "https://huggingface.co/blog/torch-neuronx-model-support": {
   "s": "The organization introduced TorchNeuron, a native PyTorch backend for AWS Trainium, allowing models to run on the device. This tool helps users check if popular models can be run unmodified on Trainium, providing scripts to test them."
  },
@@ -293,20 +268,6 @@
  "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
   "s": "Researchers used advanced imaging techniques to capture the malaria parasite in the act of entering red blood cells. This discovery reveals the structure of a ring-shaped structure called the moving junction, which allows the parasite to temporarily breach the cell membrane."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore's GovTech collaborated to develop a lightweight AI model named Gemma. This model is designed to detect scam conversations in private chats without transferring any data to the cloud."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated advanced physical reasoning and control capabilities, outperforming other models in a robotics benchmark. This breakthrough could accelerate the development of physical AGI, enabling robots to learn and perform new tasks without extensive training."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
   "s": "The robot solved a Rubik's cube by itself, demonstrating its dexterity and problem-solving skills. This feat matters as it showcases the capabilities of robots in complex manipulation tasks, potentially aiding in future manufacturing or rescue operations."
  },
@@ -315,9 +276,6 @@
  },
  "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342": {
   "s": "The shadow population of deceased relatives is larger than today's living population, comprising millions of people. Researchers found that almost 44% of Americans report feeling the presence of a deceased relative or communicating with one in the past year."
- },
- "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
-  "s": "Introducing Kimi K3.1 Pro, an AI model that landed on the Kimi API today. Moonshot promises to release full model weights by November 2026, with a \"Highspeed\" version at twice the price. This model is benchmarked to be approximately level with Claude Opus 5.5 and GPT-6 Astra, outperforming them on some tasks and coming close on others. The model's performance is notable as it is the first open-weight model to score highly against the frontier."
  },
  "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/": {
   "s": "Teams at NASA's Stennis Space Center tested an RS-25 engine on October 21, 2026, for almost eight minutes, the same duration as during a rocket launch. This test helps improve engine performance and reliability for future missions."
@@ -332,9 +290,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/tiny-genetic-tweak-from-an-ancient-virus-mightve-prevented-chimpanzees-from-developing-brains-like-ours": {
-  "s": "A virus that infected chimpanzees but not humans about 4 million years ago left a tiny genetic mark that influences brain development. This discovery suggests ancient viruses can affect major evolutionary differences between species."
- },
  "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html": {
   "s": "Bacteria produce potent antibiotics through nonribosomal peptides, which evolve through gene swapping and recombination, creating new chemical compounds. This process, not well understood, challenges traditional evolutionary research methods."
  },
@@ -344,23 +299,80 @@
  "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999": {
   "s": "PHP is a programming language that powers most websites, with estimates suggesting around 70% of websites run on it. The recent vulnerability in PHP's core system and libraries allows attackers to run unauthorized commands on hosting computers, giving them access to data and full control of websites."
  },
- "https://www.sciencealert.com/16-years-after-deepwater-horizon-spill-deep-sea-life-in-the-gulf-of-mexico-shows-no-sign-of-recovery": {
-  "s": "After 16 years, deep sea life in the Gulf of Mexico has not recovered from the 2010 oil spill disaster. Scientists found that fish, crustaceans, and squid populations have sharply declined, impacting the ecosystem's health and economic viability."
+ "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/": {
+  "s": "Generative Bionics plans to launch a Physical AI Data Factory in Italy, aiming to generate data for humanoid robots in Europe, thus advancing sovereignty in robotics. This hub will help move robotics from labs to industrial use, providing high-fidelity data and training models for European industry."
  },
- "https://phys.org/news/2026-10-antibiotic-resistance-drugs-patients.html": {
-  "s": "Researchers from a Hungarian research center propose a framework to predict antibiotic resistance early in drug development. This could help identify and refine promising drug candidates, preventing costly failures. Identifying genetic changes that allow bacteria to resist drugs could also inform the redesign of the molecule itself, making it harder for resistance to evolve."
+ "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly": {
+  "s": "",
+  "why": "too little source text"
  },
- "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html": {
+ "https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html": {
+  "s": "Researchers at the MRC Laboratory of Medical Sciences have created a new method to enhance glowing biological reporters, enabling scientists to track gene activity in living plants over extended periods. This innovation helps in understanding how plants respond to various stresses and diseases, potentially aiding in the study of animal and human diseases as well."
+ },
+ "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/": {
+  "s": "Moonshot AI released Kimi K3.1 Pro, a large AI model with 2.8 trillion parameters and 1 million token context. This matters because it scores high on benchmark tests and offers faster inference, but also raises concerns about its cyber-related training data."
+ },
+ "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": {
+  "s": "NASA and commercial partners are accelerating the development of landers for future missions to the Moon in 2028. This matters because it ensures the agency can return astronauts to the lunar surface and establish a long-term presence, fulfilling President Trump's policy and preparing for the Artemis missions."
+ },
+ "https://www.universetoday.com/articles/27-exoplanet-targets-for-the-worlds-first-private-space-telescope": {
+  "s": "The Lazuli Space Telescope, a private project led by former Google CEO Eric Schmidt, will launch in 2029. It will use an ExtraSolar Coronagraph to observe exoplanets via reflected starlight, allowing for more detailed studies of their atmospheres without being dimmed by leftover heat from their formation."
+ },
+ "https://www.sciencealert.com/your-brain-may-be-switching-between-two-versions-of-reality-15-times-a-second": {
+  "s": "The research suggests the brain might switch between conscious and unconscious information 15 times per second, potentially influencing how one perceives reality. This division raises questions about how the brain decides which sensory information to experience consciously."
+ },
+ "https://www.livescience.com/health/immune-system/christina-applegate-misdiagnosis-why-can-ms-be-difficult-to-diagnose": {
+  "s": "Multiple sclerosis can be difficult to diagnose because its symptoms overlap with those of many other conditions. Its variability and the lack of specific diagnostic tests make it challenging for doctors to identify accurately."
+ },
+ "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch": {
+  "s": "NASA presented its Artemis III moon-lander test flight plan, scheduled to launch to Earth orbit next year. However, a specific launch date has not been set yet."
+ },
+ "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/": {
+  "s": "Before returning to the Moon, NASA will conduct a test mission in 2027. This mission will practice operations with future landers to reduce risks and validate hardware."
+ },
+ "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-stellar-collision-orion-nebula-planet.html": {
-  "s": "Some young stars in the Orion Nebula are surrounded by disks of gas and dust. These disks should have disappeared long ago due to radiation from the central star, but they do not. Researchers propose that two stars in a binary system merged, causing one to be knocked out of orbit and eventually collide. This scenario could explain why the disks appear younger than the stars."
+ "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active": {
+  "s": "The largest canyon on Mars, Valles Marineris, is still active and causing earthquakes, contrary to previous assumptions that Mars was geologically inactive. Scientists found evidence of fault lines within the canyon's crust, indicating that the planet is still tectonically active, even billions of years after its formation."
  },
- "https://phys.org/news/2026-10-scientists-uncover-molecular-pillars-cells.html": {
-  "s": "Mitochondria, the powerhouses of cells, have a unique structure with two membranes separated by a space. A new study reveals a protein called SPRIZ that controls this space, allowing cells to adjust the internal architecture of their powerhouses. This discovery could help explain how mitochondrial dysfunction contributes to diseases like Parkinson's."
+ "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/": {
+  "s": "NASA’s Swift mission has ended as the spacecraft orbits Earth at a height of less than 171 miles. This height causes atmospheric drag, preventing Swift from making steady observations. The mission has left behind a vast archive of astronomical data, contributing to over 7,000 scientific papers."
  },
- "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/": {
-  "s": "Generative Bionics plans to launch a Physical AI Data Factory in Italy, aiming to generate data for humanoid robots in Europe, thus advancing sovereignty in robotics. This hub will help move robotics from labs to industrial use, providing high-fidelity data and training models for European industry."
+ "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html": {
+  "s": "Scientists at the Institute for Protein Design and collaborators have used advanced AI to design new enzymes that can be used to synthesize drugs more efficiently. This AI approach is significant because it can consider multiple aspects of a protein's structure and function simultaneously, leading to more effective and efficient enzyme design."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html": {
+  "s": "Researchers at AIST have shown how simple chemical modifications of common sugars like sucrose and fructose can be used to form nanoporous carbonaceous materials and materials with layered nanostructures. This method avoids the need for complex templates and harsh chemical processes, making it more environmentally friendly and versatile."
+ },
+ "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/terminal-x": {
+  "s": "This suggests GPT-6.1 performs well in adhering to investment mandates, catching more deviations than a baseline system."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot’s unique capabilities, including agility and a manipulator arm, make it a valuable tool for various safety tasks."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-mark/": {
+  "s": "Mark DiLeo, a roboticist, discusses challenges in repairing complex machinery, sharing insights on a robot's worst malfunction and human reactions to robotic performances. His work involves creating a playbook for tasks that have never been done before."
  }
 }
