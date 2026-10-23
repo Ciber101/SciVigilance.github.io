@@ -195,10 +195,6 @@
  "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": {
   "s": "Fires spread across New Guinea, an island with diverse ecosystems, during a drought exacerbated by El Niño. Smoke from these fires caused air quality issues, affecting flights and schools."
  },
- "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats. This model is fine-tuned on local scam conversations, distinguishing between genuine manipulation and benign social chatter, without needing to send data to the cloud."
  },
@@ -216,15 +212,6 @@
  "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases": {
   "s": "If approved, a CAR T cell therapy would be the first treatment for stiff person syndrome. It could change Lynn Montgomery-Haga's life, giving her back mobility after years of debilitating disease."
  },
- "https://www.sciencedaily.com/releases/2026/10/261021231250.htm": {
-  "s": "Birds in cities react differently to men and women, with females being approached closer before flight initiation. The study's findings raise questions about how birds perceive humans, but scientists have not yet determined the specific characteristics birds recognize or the reasons for the behavior."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231248.htm": {
-  "s": "Scientists at Oxford have observed how viruses build themselves molecule by molecule, revealing a simple process of trial and error that leads to complex structures. This discovery offers insights into how viral proteins consistently form correct structures, potentially leading to new medical treatments."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": {
-  "s": "Researchers have created a revolutionary microscope using laser technology that makes cellular structures clearer, similar to a technique that allowed scientists to see inside cells nearly a century ago. This new microscope could help see very small proteins, providing clearer images of how proteins interact in their natural cellular environment."
- },
  "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/": {
   "s": "Dream Labs raised $90 million and launched Dream API, an interface to control robots with simple instructions. Factories use many robots for specific tasks, but Dream Labs claims its AI model can learn from video and control any robot, even new ones, with minimal setup."
  },
@@ -240,23 +227,11 @@
  "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/": {
   "s": "This observation showcases a spiral galaxy magnified by a gravitational lens, a feature prepared by Hubble for the Roman Space Telescope. Gravitational lensing happens when a galaxy's mass bends spacetime, distorting and magnifying background galaxies, similar to a lens in space."
  },
- "https://www.space.com/space-exploration/artemis/cabin-leak-suspected-artemis-ii-astronaut-reveals-how-a-warning-nearly-derailed-moon-mission": {
-  "s": "Victor Glover, an Artemis II astronaut, recounts how a cabin leak warning nearly aborted NASA's moon mission. Receiving the warning just five minutes earlier might have prompted a different course of action, potentially saving the mission."
- },
  "https://www.universetoday.com/articles/from-dusk-towards-dawn-venus-slides-past-the-sun-this-weekend": {
   "s": "Venus disappears from evening twilight skies as it passes between Earth and the Sun. This event transforms Venus from an evening star to a morning one, visible in the dawn sky. It matters because this rare alignment provides a unique opportunity to study Venus up close, allowing astronomers to gather valuable data about the planet's atmosphere and surface."
  },
- "https://www.livescience.com/planet-earth/plants/can-plants-survive-climate-change-an-armory-of-unique-adaptations-could-see-some-grow-with-the-flow": {
-  "s": "Plants have adapted to tough conditions by developing strategies to withstand adverse environments. This resilience could be beneficial as climate change intensifies, allowing some plants to persist despite changing conditions."
- },
- "https://www.universetoday.com/articles/autonomous-triangular-modules-could-build-tomorrows-mega-observatories": {
-  "s": "The new modules, triangular in shape, can adjust their size and position in space, overcoming the limitations of current deployable booms. This innovation allows for more precise and reliable assembly of large structures like telescopes or power satellites, potentially enabling the construction of much larger and more powerful observatories than before."
- },
  "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
   "s": "Vincent van Gogh painted \"The Starry Night\" in 1889. Now researchers say they have identified the specific night sky the artist used. This suggests the painting was based on real observations rather than just van Gogh's imagination, challenging the conventional view that the work was purely a creative expression."
- },
- "https://www.marktechpost.com/2026/10/22/cohere-rerank-5-context-focus/": {
-  "s": "Cohere released Rerank 5, offering two tiers with a 32K context window, passage-level context extraction, and calibrated relevance scores. This matters because it improves search quality, reducing token usage and enhancing accuracy, particularly useful for reasoning-heavy queries and long documents. It also supports multiple languages and semi-structured data, and teams can adjust the model's threshold for relevance scores."
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure reliability in warehouse environments. She simulates years of wear and tear on robot parts in weeks by running tests with more aggressive forces than the robot would experience in real use. This helps identify potential issues early, ensuring the robot can work predictably over its lifetime."
@@ -277,10 +252,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.space.com/astronomy/van-goghs-the-starry-night-depicts-the-sky-on-july-22-1889-researchers-find": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes": {
   "s": "Observations show that some supermassive black holes in galactic centers move away from the center after their galaxies merge, swinging back and forth like a pendulum. This phenomenon, predicted by theory, suggests the black holes receive a powerful kick from gravitational waves during the merger. The new research provides statistical evidence for these recoiling SMBH, indicating they can remain active for millions of years, potentially observable as quasars."
  },
@@ -293,9 +264,6 @@
  },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
- },
- "https://phys.org/news/2026-10-climate-resilient-crops-mind-tackles.html": {
-  "s": "With rising temperatures and increasing drought, crop-growing seasons are becoming shorter in many regions. Swedish scientists have made advances in engineering more efficient photosynthesis, aiming to adapt crops for climate change. Their study focused on bacterial Rubisco, finding promising mutations that could help improve plant Rubisco, aiding in the design of better enzymes."
  },
  "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping": {
   "s": "",
@@ -322,12 +290,6 @@
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
- "https://www.sciencealert.com/mole-rats-get-stressed-when-earths-magnetic-field-vanishes-study-suggests": {
-  "s": "The study suggests Ansell's mole rat, sensitive to Earth's magnetic field, exhibits stress when the field disappears. This shows such animals, like the rat, can sense and be affected by magnetic fields, a previously understudied area."
- },
- "https://phys.org/news/2026-10-catalyst-sustainable-production-hydrogen-peroxide.html": {
-  "s": "Light-activated catalysts make hydrogen peroxide production more efficient, reducing energy costs and environmental impact. As demand for hydrogen peroxide rises, photocatalysis offers a sustainable alternative to traditional anthraquinone processes."
- },
  "https://bostondynamics.com/blog/spot-to-the-rescue/": {
   "s": "Public safety organizations worldwide are increasingly using Boston Dynamics' Spot robot to keep people safe, leveraging its mobility and ease of use. Spot's advantages, including agility and a manipulator arm, make it a standard part of the public safety toolkit."
  },
@@ -343,14 +305,8 @@
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
- "https://www.sciencedaily.com/releases/2026/10/261021231241.htm": {
-  "s": "After 40 years, tiny radioactive particles from Chernobyl's disaster still persist in soil, carrying risks. Scientists found some particles maintain their original structure despite decades of exposure, revealing complex origins and behavior."
- },
  "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/": {
   "s": "Scientists compared this year's El Niño to the strongest in the satellite altimetry record by using a 35-year dataset. This comparison helps in understanding how El Niño impacts the Pacific Ocean, potentially influencing global weather patterns."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231244.htm": {
-  "s": "A massive analysis of 2,884 exploding stars has revealed new evidence suggesting dark energy, the mysterious force driving the universe's expansion, might vary over time. This finding challenges a fundamental assumption in modern cosmology and could lead to a better understanding of how the universe evolves."
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
   "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
@@ -369,5 +325,49 @@
  },
  "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/": {
   "s": "You.com launched Inference Router, an API for 12 open models with a high uptime SLA. This matters as it offers a reliable service for web search without data retention, making it appealing for users concerned about privacy."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023003214.htm": {
+  "s": "Scientists have discovered that a huge magma reservoir beneath Kikai caldera, Japan, is slowly refilling after a massive eruption roughly 7,300 years ago. This finding is significant because it offers insight into how giant volcanic systems replenish their magma after powerful eruptions, potentially providing clues for predicting future eruptions."
+ },
+ "https://phys.org/news/2026-10-ai-agents-political-conversation-partners.html": {
+  "s": "AI agents were given political positions and asked to defend them, persuading one another. Despite not being instructed to favor like-minded partners, they formed opposing camps that preferred their own company. Changing whom the agents encountered did not soften their views."
+ },
+ "https://www.sciencealert.com/were-a-step-closer-to-quantum-computers-that-can-correct-their-own-mistakes": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-3-hawk-satellites-to-orbit-to-gather-signals-intelligence": {
+  "s": "Rocket Lab launched three satellites designed to collect signals intelligence into space today. Such satellites matter as they help gather critical information about communications and electronic signals, potentially aiding national security efforts."
+ },
+ "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds": {
+  "s": "The JWST observed WASP-17 b, an exoplanet previously known, revealing it is not a perfect sphere but lopsided. This matters because traditional methods of studying exoplanet atmospheres treat them as uniform, ignoring differences between sides. New techniques can now analyze the atmosphere's thickness and chemistry at different parts of the planet, providing more detailed information."
+ },
+ "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261022081314.htm": {
+  "s": "Dental implants can cause infections that antibiotics often fail to treat. Scientists found that titanium particles from implants interfere with immune cells, leading to persistent inflammation that damages jawbone. This discovery offers a new target for developing therapies to prevent peri-implantitis."
+ },
+ "https://www.space.com/space-exploration/satellites/space-debris-are-we-on-track-for-true-sustainability-op-ed": {
+  "s": "Space debris threatens the safety and cleanliness of orbital environments, crucial for all modern systems. Therefore, efforts to manage and reduce debris are important for maintaining space as a sustainable infrastructure."
+ },
+ "https://phys.org/news/2026-10-world-glaciers-account-glacier-ice.html": {
+  "s": "Glaciers ending in lakes, oceans or ice shelves account for 3.2% of world glaciers, but these lost 134 billion metric tons of ice annually between 2000 and 2019, half of all glacier ice loss. Understanding these glaciers is crucial as they are losing ice faster than those ending on land, a phenomenon not yet fully understood."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": {
+  "s": "A new PTSD treatment using personalized brain mapping and magnetic stimulation achieved a 52% reduction in symptoms and 68% remission in a clinical trial. This approach could significantly expand treatment options for PTSD, which affects millions of people, including veterans."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261022081306.htm": {
+  "s": "Scientists discovered that people with Parkinson's disease who exercise more have slower declines in movement and thinking skills. This study suggests physical activity may offer dual benefits for people living with Parkinson's, but does not prove exercise directly slows the disease."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261022081304.htm": {
+  "s": "Scientists have discovered a hidden messaging system deep within the brain called the locus coeruleus (LC), which produces a chemical messenger that regulates attention, learning, and stress reactions. This study reveals the LC communicates through several distinct pathways, sending signals to specific destinations, unlike previously assumed. Understanding this network could lead to new treatments for neurological and mental health conditions."
+ },
+ "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/": {
+  "s": "TinyFish developed a 7-phase production architecture for AI agents, integrating evidence contracts and retries. This system, built on web primitives, improved task completion rates and reduced costs on OpenBenchmarks. The architecture's key is a robust control loop, failure-specific retries, and unified reasoning, addressing issues like incomplete results and conflicting information."
+ },
+ "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/": {
+  "s": "RIPL, a real-time inference engine from Liquid AI, significantly reduces latency from 14.4 to 28.4x compared to classical models. This matters because it enables quick responses like search ranking and payment authorization that need answers in milliseconds, making AI models like LFM2.5-1.2B perform 2 to 10x faster, crucial for real-time commerce tasks."
  }
 }
