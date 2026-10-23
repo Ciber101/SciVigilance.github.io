@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-23T01:36:12-07:00",
- "updated_pt": "Oct 23, 2026, 1:36 AM PT",
+ "updated": "2026-10-23T13:43:15-07:00",
+ "updated_pt": "Oct 23, 2026, 1:43 PM PT",
  "stories": [
   {
    "title": "Study: Europe's record summer heat killed about 50,000 people in its cities, two-thirds of them because of climate change",
@@ -21,6 +21,29 @@
     {
      "name": "Imperial College London: study preprint",
      "url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/e8879b8a-f89b-4690-b6d5-5bfbf81f94b8/content"
+    }
+   ]
+  },
+  {
+   "title": "An ancient virus left DNA in chimpanzee genomes that switches off a gene linked to brain-cell growth, a new study reports",
+   "tag": "Biology",
+   "date": "2026-10-23",
+   "paragraphs": [
+    "Leftover DNA from an ancient virus that is found in chimpanzees but not in humans switches off a gene that appears to help brain cells mature, according to a study by researchers at Lund University in Sweden published Oct. 23, 2026, in Science Advances, as reported by Science News and ScienceAlert. The researchers say the finding shows one way human and chimpanzee brains could have developed differently even though most of the two species' protein-making genes are very similar. Human brains are about three times larger than chimpanzee brains, both outlets note.",
+    "The viral remnant comes from a retrovirus called PTERV1 (Pan troglodytes endogenous retrovirus-1), which is found in chimpanzees and other African apes but not in humans, lead author Patricia Gerdes told ScienceAlert. Science News reports that the infection struck an ancestral African ape between 5 million and 7 million years ago and that the viral DNA sits at 158 different locations in the chimpanzee genome, while ScienceAlert puts the infection at about 4 million years ago. Both outlets say it is not known why humans lack the insertion; ScienceAlert notes theories including a protective antiviral protein called TRIM5α or ancestors living in different places.",
+    "According to Science News, when the team used CRISPR gene editing to remove the viral DNA from chimpanzee stem cells, a nearby gene called LINC00662, normally silenced in chimps and active in human brain cells, switched on. Switching LINC00662 off in human cells and brain organoids, small lab-grown clusters of cells, meant neurons and their extensions did not mature and grow as much, ScienceAlert reports, and Science News says the gene's activity boosted other genes involved in neuron development and in forming new connections.",
+    "The researchers caution against overreading the result. \"It does not show that removing it would transform brain development,\" Gerdes told ScienceAlert, adding that brain differences come from many genetic and developmental influences. Co-author Johan Jakobsson told Science News that other genetic and environmental changes could also be involved. Ravinder Kanda of Oxford Brookes University, who was not part of the study, told Science News the team convincingly showed the viral leftovers influence differences between human and chimp neurons, but \"how far that goes, I don't think we can quite say yet.\""
+   ],
+   "sources": [
+    {
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna",
+     "date": "2026-10-23"
+    },
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/tiny-genetic-tweak-from-an-ancient-virus-mightve-prevented-chimpanzees-from-developing-brains-like-ours",
+     "date": "2026-10-23"
     }
    ]
   },
@@ -55,34 +78,6 @@
     {
      "name": "Anthropic",
      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-     "date": "2026-10-22"
-    }
-   ]
-  },
-  {
-   "title": "At GTC Berlin, NVIDIA shows European banks, governments and robot makers building on open models",
-   "tag": "AI",
-   "date": "2026-10-22",
-   "paragraphs": [
-    "NVIDIA used its GTC Berlin event on Oct. 22, 2026 to publish a set of blog posts on how European organizations are building AI on open models running on infrastructure they control. In its financial-services post, NVIDIA says Revolut is rebuilding its technology stack on a single foundation model called PRAGMA, running on NVIDIA Blackwell Ultra GPUs and serving an initial 80 million customers. Revolut's head of AI, Pavel Nesterov, is quoted calling PRAGMA \"the clearest proof yet\" that a research breakthrough can become a production banking system.",
-    "The same post lists other banks and payment firms. According to NVIDIA, Lloyds Banking Group built a transaction foundation model called ATUM, neobank bunq's assistant Finn now runs on open-weight models at 60% of the cost per answer of leading closed models while matching their quality, Santander is an early adopter of NVIDIA's new Kumo family of open-weight models for structured financial data, and Stripe saw 42x faster data pipelines and 92% cost savings for its Radar fraud-detection platform in offline testing.",
-    "A second post covers the public sector. NVIDIA says Poland's eHealth Centre is building a medical-imaging platform to help physicians analyze X-rays, CT scans and MRI images, and that Poland's labor ministry, with Deloitte, is developing an agentic system meant to support more than 400 labor offices. The post also says secunet, NVIDIA, Red Hat and deepset are developing a sovereign cloud offering for classified information in German data centers, and that new synthetic-persona datasets for the U.K. and Germany, each with 1 million records, were released to test whether public-service models work consistently across communities.",
-    "In a third post, NVIDIA says it expanded its Cosmos platform for world models, which help physical AI systems such as robots and self-driving cars simulate the real world, with new training tools, Cosmos 3 Nano simulation models and Cosmos Data Factory blueprints. According to NVIDIA, Porsche expects the tools to cut repeated physical test drives by up to 90% across Volkswagen Group brands, and robot maker ANYbotics generated more than 1,500 synthetic video clips to train its industrial-inspection robots to spot liquid spills."
-   ],
-   "sources": [
-    {
-     "name": "NVIDIA (financial services)",
-     "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
-     "date": "2026-10-22"
-    },
-    {
-     "name": "NVIDIA (public sector)",
-     "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
-     "date": "2026-10-22"
-    },
-    {
-     "name": "NVIDIA (Cosmos)",
-     "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
      "date": "2026-10-22"
     }
    ]
