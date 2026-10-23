@@ -29,12 +29,6 @@
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
- "https://simonwillison.net/2026/Oct/12/web-edit/": {
-  "s": "The organization created a Python web app to allow editing of files without passing credentials through the LLM. This app provides a web UI to view and edit files in a folder, intended to be used over Tailscale for secure mobile editing."
- },
- "https://theconversation.com/why-havent-farm-animals-evolved-against-humans-a-biologist-explains-why-there-wont-be-a-chicken-uprising-anytime-soon-291839": {
-  "s": "Farmers have selectively bred animals for traits they find useful, such as tameness or increased egg production. This process, called domestication, has shaped farm animals over generations. As a result, farm animals have evolved to benefit humans rather than protect themselves against them."
- },
  "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
   "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
  },
@@ -73,12 +67,6 @@
  },
  "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/": {
   "s": "RoboBusiness rebranded as Robotics Summit & Expo West to focus on deploying robotics and AI in real-world settings, reflecting industry growth. The new name aims to serve professionals meeting increasing demand for intelligent systems across various sectors."
- },
- "https://www.therobotreport.com/2027-trr50-robotics-innovation-awards-open-nominations/": {
-  "s": "The Robot Report is opening nominations for its 2026 TRR50 Robotics Innovation Awards. This awards gala is scheduled to take place at the Robotics Summit & Expo in Boston on June 2-3, 2027."
- },
- "https://theconversation.com/horror-films-exploit-how-human-vision-works-to-deliver-movies-best-scares-291955": {
-  "s": "Horror films exploit the gap between what viewers see and what they consciously process, using techniques like low lighting and sound to direct attention. This creates suspense, as unseen characters or objects in the background can surprise viewers."
  },
  "https://x.ai/news/incident-sweep": {
   "s": "IncidentWatch monitors support queues for sudden increases in similar tickets, alerting the team when it detects an incident. IncidentSweep then closes those affected tickets in a batch, reducing the workload for support engineers. This approach helps manage customer wait times and ensures consistent responses during incidents."
@@ -147,9 +135,6 @@
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
  },
- "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
-  "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
- },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
  },
@@ -171,12 +156,6 @@
  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
   "s": "A Blog post by IBM Research introduced Granite time-series models, which combine four complementary models to forecast without needing to train on specific datasets. This ensemble approach reduces the need to choose a single model, as each model handles different types of signals better, offering a more accurate forecast."
  },
- "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/": {
-  "s": "Fires spread across New Guinea, an island with diverse ecosystems, during a drought exacerbated by El Niño. Smoke from these fires caused air quality issues, affecting flights and schools."
- },
- "https://www.sciencenews.org/article/car-t-cell-therapy-autoimmune-diseases": {
-  "s": "If approved, a CAR T cell therapy would be the first treatment for stiff person syndrome. It could change Lynn Montgomery-Haga's life, giving her back mobility after years of debilitating disease."
- },
  "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/": {
   "s": "Dream Labs raised $90 million and launched Dream API, an interface to control robots with simple instructions. Factories use many robots for specific tasks, but Dream Labs claims its AI model can learn from video and control any robot, even new ones, with minimal setup."
  },
@@ -185,9 +164,6 @@
  },
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
- },
- "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/": {
-  "s": "This observation showcases a spiral galaxy magnified by a gravitational lens, a feature prepared by Hubble for the Roman Space Telescope. Gravitational lensing happens when a galaxy's mass bends spacetime, distorting and magnifying background galaxies, similar to a lens in space."
  },
  "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
   "s": "Vincent van Gogh painted \"The Starry Night\" in 1889. Now researchers say they have identified the specific night sky the artist used. This suggests the painting was based on real observations rather than just van Gogh's imagination, challenging the conventional view that the work was purely a creative expression."
@@ -205,9 +181,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.universetoday.com/articles/new-evidence-for-an-old-prediction-recoiling-supermassive-black-holes": {
-  "s": "Observations show that some supermassive black holes in galactic centers move away from the center after their galaxies merge, swinging back and forth like a pendulum. This phenomenon, predicted by theory, suggests the black holes receive a powerful kick from gravitational waves during the merger. The new research provides statistical evidence for these recoiling SMBH, indicating they can remain active for millions of years, potentially observable as quasars."
- },
  "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values": {
   "s": "Brain scans show a common mental map for comparing values of numbers, regardless of whether they are whole or fractions. This map helps in mentally assessing the relative sizes of numbers."
  },
@@ -221,9 +194,6 @@
  "https://www.universetoday.com/articles/advancing-astronomy-at-mit-with-x-ray-reverberation-mapping": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test": {
-  "s": "The Space Rider prototype, designed for Europe's space program, failed to deploy its parachute during a test drop, indicating a technical issue. Despite this, researchers at ESA remain optimistic it won't halt development of reusable spacecraft."
  },
  "https://www.nasa.gov/image-article/spirals-edge/": {
   "s": "This NASA image shows NGC 1827, a spiral galaxy seen edge-on. Such galaxies are studied to test cosmological models, which often fail to match observations of small-scale structures."
@@ -307,10 +277,6 @@
  "https://robohub.org/robot-talk-episode-167-automating-construction-with-jan-petrs/": {
   "s": "Jan Petrš, a roboticist, architect, and entrepreneur, discussed novel robot designs for construction and architecture. His work at EPFL and Déploya Robotics focuses on developing deployable robotic systems for automated façade installation."
  },
- "https://phys.org/news/2026-10-marine-suppress-nutrient-reproductive-flexibility.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.livescience.com/technology/most-people-cant-handle-driving-in-2-dimensions-let-alone-3-readers-respond-to-our-poll-about-flying-cars": {
   "s": "Most people who responded to the poll think flying cars are not ready for widespread use yet. They find flying in just one dimension (up and down) hard to handle, let alone the added complexity of flying in three dimensions."
  },
@@ -324,27 +290,8 @@
  "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria": {
   "s": "Eating sugar while on antibiotics harmed the variety of gut bacteria in cancer patients, reducing their diversity by 24 percent. This combination also increased the growth of Enterococcus bacteria, which can be drug-resistant and linked to harder-to-treat infections."
  },
- "https://www.sciencealert.com/researchers-developed-a-molecule-to-fight-alzheimers-then-found-its-already-in-our-blood": {
-  "s": "Researchers created a molecule to prevent Alzheimer's by blocking a protein that forms clumps in the brain. They found this molecule is naturally present in human blood, suggesting it could be a biomarker for the disease. Further study is needed to understand the relationship between this molecule and Alzheimer's."
- },
  "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
   "s": "Researchers used advanced imaging techniques to capture the malaria parasite in the act of entering red blood cells. This discovery reveals the structure of a ring-shaped structure called the moving junction, which allows the parasite to temporarily breach the cell membrane."
- },
- "https://phys.org/news/2026-10-strategic-link-pacific-deep-sea.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-alma-dragon-egg-earliest-stages.html": {
-  "s": "Astronomers discovered a tiny core in a dark cloud region, named the \"dragon egg,\" that might be at the beginning of a massive star's formation. This discovery matters because it helps scientists choose between two theories about how giant stars form."
- },
- "https://phys.org/news/2026-10-archimedes-molecule-motor-powered-electric.html": {
-  "s": "Scientists have developed a single-molecule motor powered by electric current, inspired by the Archimedes screw. This innovation marks the first time a controllable molecular motor has been firmly attached to metal electrodes, demonstrating how molecular machines can be directly powered by electric current."
- },
- "https://phys.org/news/2026-10-source-workflow-spatial-proteomics-easier.html": {
-  "s": "Scientists have developed an open-source workflow that makes a complex technology easier to use, adapt and scale. This technology allows researchers to map thousands of proteins within cells and their environments, preserving the tissue context. The new workflow, called openDVP, bridges a gap in the development of Deep Visual Proteomics, a method that combines imaging, AI and mass spectrometry to connect cell location with their proteomes."
- },
- "https://phys.org/news/2026-10-elusive-uranium-sandwich-molecule-isolated.html": {
-  "s": "This breakthrough challenges current understanding of how heavy elements bond, as uranocene was previously thought to fall apart when electrons were stripped away."
  },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore's GovTech collaborated to develop a lightweight AI model named Gemma. This model is designed to detect scam conversations in private chats without transferring any data to the cloud."
@@ -363,8 +310,57 @@
  "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
   "s": "The robot solved a Rubik's cube by itself, demonstrating its dexterity and problem-solving skills. This feat matters as it showcases the capabilities of robots in complex manipulation tasks, potentially aiding in future manufacturing or rescue operations."
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+ "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html": {
+  "s": "In 1953, physicists discovered that an electron beam passing a grating emits light whose color depends on the electron's speed and grating spacing. Now, researchers have found that this effect also reveals a hidden property called chirality, or handedness, which was previously overlooked. This discovery allows for more precise control over the emitted light, potentially leading to better light sources and particle tracking."
+ },
+ "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342": {
+  "s": "The shadow population of deceased relatives is larger than today's living population, comprising millions of people. Researchers found that almost 44% of Americans report feeling the presence of a deceased relative or communicating with one in the past year."
+ },
+ "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
+  "s": "Introducing Kimi K3.1 Pro, an AI model that landed on the Kimi API today. Moonshot promises to release full model weights by November 2026, with a \"Highspeed\" version at twice the price. This model is benchmarked to be approximately level with Claude Opus 5.5 and GPT-6 Astra, outperforming them on some tasks and coming close on others. The model's performance is notable as it is the first open-weight model to score highly against the frontier."
+ },
+ "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/": {
+  "s": "Teams at NASA's Stennis Space Center tested an RS-25 engine on October 21, 2026, for almost eight minutes, the same duration as during a rocket launch. This test helps improve engine performance and reliability for future missions."
+ },
+ "https://www.universetoday.com/articles/saudi-arabia-joins-the-search-for-alien-civilizations": {
+  "s": "Saudi Arabia is joining the search for alien signals by collaborating with SETI, a non-profit organization that uses telescopes to detect signals from other civilizations. LaserSETI, a new network of optical detectors, brings new capabilities to SETI, allowing continuous sky coverage and the potential to detect signals from other ETIs."
+ },
+ "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna": {
+  "s": "A virus that infected an ancestor of chimps and humans millions of years ago left behind DNA in the chimp genome. This viral DNA influences genes involved in neuron development, which may help explain why human brains are larger and more complex than those of chimps."
+ },
+ "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.sciencealert.com/tiny-genetic-tweak-from-an-ancient-virus-mightve-prevented-chimpanzees-from-developing-brains-like-ours": {
+  "s": "A virus that infected chimpanzees but not humans about 4 million years ago left a tiny genetic mark that influences brain development. This discovery suggests ancient viruses can affect major evolutionary differences between species."
+ },
+ "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html": {
+  "s": "Bacteria produce potent antibiotics through nonribosomal peptides, which evolve through gene swapping and recombination, creating new chemical compounds. This process, not well understood, challenges traditional evolutionary research methods."
+ },
+ "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/": {
+  "s": "NASA is helping Virginia to secure its energy future by sharing its meteorological data. This partnership will aid state officials in planning for extreme weather and energy demands, improving energy security and reliability."
+ },
+ "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999": {
+  "s": "PHP is a programming language that powers most websites, with estimates suggesting around 70% of websites run on it. The recent vulnerability in PHP's core system and libraries allows attackers to run unauthorized commands on hosting computers, giving them access to data and full control of websites."
+ },
+ "https://www.sciencealert.com/16-years-after-deepwater-horizon-spill-deep-sea-life-in-the-gulf-of-mexico-shows-no-sign-of-recovery": {
+  "s": "After 16 years, deep sea life in the Gulf of Mexico has not recovered from the 2010 oil spill disaster. Scientists found that fish, crustaceans, and squid populations have sharply declined, impacting the ecosystem's health and economic viability."
+ },
+ "https://phys.org/news/2026-10-antibiotic-resistance-drugs-patients.html": {
+  "s": "Researchers from a Hungarian research center propose a framework to predict antibiotic resistance early in drug development. This could help identify and refine promising drug candidates, preventing costly failures. Identifying genetic changes that allow bacteria to resist drugs could also inform the redesign of the molecule itself, making it harder for resistance to evolve."
+ },
+ "https://phys.org/news/2026-10-everyday-mylar-insulator-lunar-habitats.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-stellar-collision-orion-nebula-planet.html": {
+  "s": "Some young stars in the Orion Nebula are surrounded by disks of gas and dust. These disks should have disappeared long ago due to radiation from the central star, but they do not. Researchers propose that two stars in a binary system merged, causing one to be knocked out of orbit and eventually collide. This scenario could explain why the disks appear younger than the stars."
+ },
+ "https://phys.org/news/2026-10-scientists-uncover-molecular-pillars-cells.html": {
+  "s": "Mitochondria, the powerhouses of cells, have a unique structure with two membranes separated by a space. A new study reveals a protein called SPRIZ that controls this space, allowing cells to adjust the internal architecture of their powerhouses. This discovery could help explain how mitochondrial dysfunction contributes to diseases like Parkinson's."
+ },
+ "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/": {
+  "s": "Generative Bionics plans to launch a Physical AI Data Factory in Italy, aiming to generate data for humanoid robots in Europe, thus advancing sovereignty in robotics. This hub will help move robotics from labs to industrial use, providing high-fidelity data and training models for European industry."
  }
 }
