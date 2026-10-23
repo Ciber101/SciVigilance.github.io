@@ -1,7 +1,4 @@
 {
- "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018": {
-  "s": "Model can now understand 3D crystal structures, explaining their properties and potential uses. Helps AI find materials suitable for specific applications."
- },
  "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
   "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
  },
@@ -171,9 +168,6 @@
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
  },
- "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/": {
-  "s": "NASA conducted a hot fire test of RS-25 engine No. 10001 on October 21 at NASA's Stennis Space Center. This test is important because it validates the new thermal protection system and provides data to improve engine performance and reliability for future Artemis missions."
- },
  "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/": {
   "s": "NASA Science aims to deliver science faster by changing the mission selection process. The organization will host a virtual town hall on October 26 to explain new Competition Model 2.0, aiming to reduce the time and resources spent on mission concepts and focus funding on high-priority missions."
  },
@@ -194,9 +188,6 @@
  },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron": {
   "s": "Stars are forming inside dense clumps of gas in a nebulous region called N159, located far in the Large Magellanic Cloud. This process is marked by the intense ultraviolet radiation from massive stars ionising the gas, creating bright emission nebulae."
- },
- "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/": {
-  "s": "Astronomers recently discovered that some white dwarf stars, despite being called white, can appear in other colors due to trace elements interacting with their atmospheres. This discovery suggests that stars can have a wider range of colors than previously thought."
  },
  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
   "s": "A Blog post by IBM Research introduced Granite time-series models, which combine four complementary models to forecast without needing to train on specific datasets. This ensemble approach reduces the need to choose a single model, as each model handles different types of signals better, offering a more accurate forecast."
@@ -236,15 +227,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261021231230.htm": {
   "s": "Researchers have created a revolutionary microscope using laser technology that makes cellular structures clearer, similar to a technique that allowed scientists to see inside cells nearly a century ago. This new microscope could help see very small proteins, providing clearer images of how proteins interact in their natural cellular environment."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231227.htm": {
-  "s": "Honey bees are aggressively chasing and displacing other pollinators from flowers, according to a study. This behavior is limiting the access of other insects to valuable food sources, the research shows."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231238.htm": {
-  "s": "NASA’s Curiosity rover has captured a stunning new view of mysterious cliffs on Mars, shaped by wind. As the rover continues toward these cliffs, scientists hope to uncover clues about ancient volcanic activity and how the landscape evolved."
- },
- "https://www.sciencedaily.com/releases/2026/10/261021231235.htm": {
-  "s": "Scientists found why common marmosets have a smooth brain unlike other primates. The cells in marmosets' brains develop differently, producing fewer neurons and causing less folding. This difference helps explain brain size variations among primates. The research provides insights into primate brain evolution and could benefit understanding human brain disorders."
  },
  "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/": {
   "s": "Dream Labs raised $90 million and launched Dream API, an interface to control robots with simple instructions. Factories use many robots for specific tasks, but Dream Labs claims its AI model can learn from video and control any robot, even new ones, with minimal setup."
@@ -357,9 +339,6 @@
  "https://phys.org/news/2026-10-global-database-fuller-picture-elements.html": {
   "s": "Scientists have compiled a database of 5,474 plant samples from around the world, revealing the elements that make up plants. This comprehensive picture helps researchers understand what could happen to plants grown in different environments, such as on the moon or Mars, and is crucial for future space agriculture."
  },
- "https://phys.org/news/2026-10-supramolecular-route-quantum-materials.html": {
-  "s": "A joint research team created a two-dimensional structure that combines properties of honeycomb and Kagome lattices using organic molecules. This discovery revealed edge states characteristic of topological materials within this structure. The achievement matters because it opens a new avenue for designing quantum materials using organic molecules, which are more flexible than inorganic materials."
- },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
@@ -374,5 +353,26 @@
  },
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for high fidelity simulation and dexterous physical work. This matters as it addresses the complex tradeoffs in hand design, focusing on dexterity, strength, and ruggedness, making the hand more capable for real-world tasks."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/": {
+  "s": "Today, from Australia, the Andromeda Galaxy was photographed rising above hills, showing its spiral structure in detail. This rare view highlights how distant galaxies appear when viewed from Earth's southern hemisphere during spring."
+ },
+ "https://phys.org/news/2026-10-mother-hearts-faster-babies-cries.html": {
+  "s": "Mother bats hear their own pups' isolation calls and react to them by rushing over. This study found that the sound of their own pups' calls also made their hearts beat faster, helping them identify their offspring."
+ },
+ "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
+  "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231241.htm": {
+  "s": "After 40 years, tiny radioactive particles from Chernobyl's disaster still persist in soil, carrying risks. Scientists found some particles maintain their original structure despite decades of exposure, revealing complex origins and behavior."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/": {
+  "s": "Scientists compared this year's El Niño to the strongest in the satellite altimetry record by using a 35-year dataset. This comparison helps in understanding how El Niño impacts the Pacific Ocean, potentially influencing global weather patterns."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261021231244.htm": {
+  "s": "A massive analysis of 2,884 exploding stars has revealed new evidence suggesting dark energy, the mysterious force driving the universe's expansion, might vary over time. This finding challenges a fundamental assumption in modern cosmology and could lead to a better understanding of how the universe evolves."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
+  "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
  }
 }
