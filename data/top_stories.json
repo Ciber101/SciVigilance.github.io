@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T13:44:06-07:00",
- "updated_pt": "Oct 22, 2026, 1:44 PM PT",
+ "updated": "2026-10-22T19:42:10-07:00",
+ "updated_pt": "Oct 22, 2026, 7:42 PM PT",
  "stories": [
   {
    "title": "xAI launches the SpaceX Super Intelligence Partner Network, with more than 130 companies in early access",
@@ -38,20 +38,30 @@
    ]
   },
   {
-   "title": "OpenAI's frontier models and Codex are coming to Google Cloud",
+   "title": "At GTC Berlin, NVIDIA shows European banks, governments and robot makers building on open models",
    "tag": "AI",
-   "date": "2026-10-21",
+   "date": "2026-10-22",
    "paragraphs": [
-    "OpenAI announced on Oct. 21 that it is partnering with Google Cloud to bring its frontier models and its Codex agentic coding workflows into Google Cloud's Model Garden. According to OpenAI, the integration will give Google Cloud customers native access to the models to power complex agentic workflows at scale, backed by Google Cloud's data governance and infrastructure.",
-    "OpenAI says Google Cloud customers will be able to buy OpenAI frontier models through Model Garden, transacted through the Google Cloud Marketplace, and that enterprises with Google Cloud spend commitments will be able to draw those commitments down for these purchases. The company says the setup pairs its models with Google Cloud's built-in access controls and centralized data governance, which it describes as important for organizations in regulated industries.",
-    "OpenAI also says its models will soon be available in Google Antigravity and the Gemini Agent. OpenAI president Greg Brockman called the partnership an important step in making OpenAI's most capable models and Codex available where customers already build, and Google Cloud CEO Thomas Kurian said Google Cloud is focused on giving customers a broad selection of models, including OpenAI's.",
-    "According to the announcement, general availability is planned in the coming weeks. OpenAI notes that Microsoft remains its primary cloud partner."
+    "NVIDIA used its GTC Berlin event on Oct. 22, 2026 to publish a set of blog posts on how European organizations are building AI on open models running on infrastructure they control. In its financial-services post, NVIDIA says Revolut is rebuilding its technology stack on a single foundation model called PRAGMA, running on NVIDIA Blackwell Ultra GPUs and serving an initial 80 million customers. Revolut's head of AI, Pavel Nesterov, is quoted calling PRAGMA \"the clearest proof yet\" that a research breakthrough can become a production banking system.",
+    "The same post lists other banks and payment firms. According to NVIDIA, Lloyds Banking Group built a transaction foundation model called ATUM, neobank bunq's assistant Finn now runs on open-weight models at 60% of the cost per answer of leading closed models while matching their quality, Santander is an early adopter of NVIDIA's new Kumo family of open-weight models for structured financial data, and Stripe saw 42x faster data pipelines and 92% cost savings for its Radar fraud-detection platform in offline testing.",
+    "A second post covers the public sector. NVIDIA says Poland's eHealth Centre is building a medical-imaging platform to help physicians analyze X-rays, CT scans and MRI images, and that Poland's labor ministry, with Deloitte, is developing an agentic system meant to support more than 400 labor offices. The post also says secunet, NVIDIA, Red Hat and deepset are developing a sovereign cloud offering for classified information in German data centers, and that new synthetic-persona datasets for the U.K. and Germany, each with 1 million records, were released to test whether public-service models work consistently across communities.",
+    "In a third post, NVIDIA says it expanded its Cosmos platform for world models, which help physical AI systems such as robots and self-driving cars simulate the real world, with new training tools, Cosmos 3 Nano simulation models and Cosmos Data Factory blueprints. According to NVIDIA, Porsche expects the tools to cut repeated physical test drives by up to 90% across Volkswagen Group brands, and robot maker ANYbotics generated more than 1,500 synthetic video clips to train its industrial-inspection robots to spot liquid spills."
    ],
    "sources": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/openai-models-google-cloud",
-     "date": "2026-10-21"
+     "name": "NVIDIA (financial services)",
+     "url": "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/",
+     "date": "2026-10-22"
+    },
+    {
+     "name": "NVIDIA (public sector)",
+     "url": "https://blogs.nvidia.com/blog/european-public-sector-open-models/",
+     "date": "2026-10-22"
+    },
+    {
+     "name": "NVIDIA (Cosmos)",
+     "url": "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/",
+     "date": "2026-10-22"
     }
    ]
   },
@@ -70,6 +80,24 @@
      "name": "OpenAI",
      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
      "date": "2026-10-21"
+    }
+   ]
+  },
+  {
+   "title": "Europe's Space Rider prototype crashes in a drop test after its main parafoil detaches",
+   "tag": "Space",
+   "date": "2026-10-22",
+   "paragraphs": [
+    "A full-scale test model of Space Rider, the European Space Agency's planned reusable spacecraft, crashed during an Oct. 6 drop test, Space.com reported on Oct. 22, 2026. According to ESA officials cited by Space.com, the vehicle's first drogue parachute deployed as planned, but its main steerable parafoil detached during deployment, leaving the prototype unable to slow down before it hit the ground.",
+    "An ESA spokesperson told Space.com that the test \"was not completed as planned due to an anomaly during the parafoil deployment sequence\" and that an independent investigation is underway to find the root cause. The minivan-sized mockup was released from a helicopter at about 2 miles (3 kilometers) over a military range on the Italian island of Sardinia, and ESA has since recovered all of its components, Space.com reports.",
+    "Space Rider is being built as Europe's first reusable orbital spacecraft: an uncrewed vehicle meant to carry experiments to orbit for up to two months and bring them back to Earth. According to Space.com, its wingless design relies on the parafoil to steer to a runway-style landing, and the drop test was meant to demonstrate that ability, which is key to reusing the vehicle.",
+    "Speaking at an ESA Council media briefing on Oct. 22, ESA's director of space transportation, Géraldine Naja, said the agency hopes the test will not force changes to the remaining schedule, adding that the remaining qualification activities \"are not on the critical path\" of Space Rider's development. Space.com notes this was the first drop test since a May attempt that was called off before release."
+   ],
+   "sources": [
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/launches-spacecraft/europes-space-rider-vehicle-comes-crashing-down-during-drop-test",
+     "date": "2026-10-22"
     }
    ]
   },
@@ -102,29 +130,6 @@
      "name": "Space.com",
      "url": "https://www.space.com/space-exploration/launches-spacecraft/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos",
      "date": "2026-10-19"
-    }
-   ]
-  },
-  {
-   "title": "NASA's Perseverance rover sets the record for the farthest drive on another world: 28.10 miles",
-   "tag": "Space",
-   "date": "2026-10-21",
-   "paragraphs": [
-    "NASA's Perseverance rover has set a new record for the farthest distance driven on another celestial body, according to a NASA Mars 2020 mission blog post published Oct. 21 and a NASA release carried by ScienceDaily. On Sol 2006, which was Oct. 11, 2026, its odometer reached 45.22 kilometers (28.10 miles), writes Vandi Verma, chief engineer for robotic operations at NASA's Jet Propulsion Laboratory. ScienceDaily reports that this beats the previous record of 28.06 miles (45.16 kilometers) held by NASA's Opportunity rover, which explored Mars from 2004 to 2018, and that Opportunity needed nearly 15 years to cover that distance while Perseverance did it in about five and a half years. Verma writes that the rover's engineering twin on Earth even received a plaque from Guinness World Records.",
-    "Verma explains that two months earlier, on Sol 1947, the odometer sat about 200 meters short of the milestone, but the rover spent time in a scientifically interesting area doing short drives for rock abrasions and close-up science on ancient outcrops before it moved on and sailed past the record. ScienceDaily reports the record came as Perseverance headed toward a location called \"Idubi,\" in an area beyond the western rim of Jezero Crater known as \"Lac de Charmes,\" which may contain some of the oldest terrain ever examined in the solar system. At Idubi, according to the release, scientists hope to find evidence of ancient hydrothermal systems, where heated water once circulated through rocks.",
-    "Both sources credit the rover's autonomy. ScienceDaily says the AutoNav system builds a three-dimensional map of obstacles as the rover moves and picks a safe route, letting it cover as much as 1,351 feet (412 meters) in a single Martian day, and that AutoNav has evaluated the terrain for more than 90% of Perseverance's driving, compared with about 5% for the early autonomy on Spirit and Opportunity. Verma writes that the team raised the rover's tilt limit to 24 degrees, updated its braking and steering software, and added a capability called onboard Global Localization, which uses the processor in the Ingenuity helicopter base station to compare ground and orbital images and locate the rover \"as though we had GPS on a world without it.\"",
-    "\"The original mission called for no more than 12.4 miles of driving. We've blown well past that,\" JPL project manager Steven Lee said, according to ScienceDaily. The release says NASA has approved Perseverance's first mission extension, which began in October and runs through about the end of 2028, and that the rover has gathered 29 samples of rock and regolith so far. It adds that Perseverance has also passed the distances driven on the Moon by the Apollo 17 astronauts in 1972 (22.2 miles) and the Soviet Lunokhod 2 rover in 1973 (24.2 miles)."
-   ],
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
-     "date": "2026-10-21"
-    },
-    {
-     "name": "ScienceDaily",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-     "date": "2026-10-21"
     }
    ]
   }
