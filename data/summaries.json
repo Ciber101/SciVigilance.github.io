@@ -270,20 +270,6 @@
  "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/": {
   "s": "Kyutai released CADRE, a family of autoencoders for interactive world models. These autoencoders cut world model lag below 230 ms, enabling faster and more responsive simulations. Researchers chose a compression method that balances cost per frame and action delay, matching human perception thresholds for lag."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore's government team up to create a smart AI model that can spot scams in private chats. This model operates locally on devices, without sending any data to the cloud, making it secure and efficient."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated its superior physical reasoning and control capabilities in a robotics challenge, outperforming other models on a benchmark. This advance could accelerate the development of physical AI, enabling robots to learn and perform tasks without extensive training."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
  },
@@ -326,9 +312,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": {
   "s": "Tiny samples from asteroid Bennu collected by NASA are revealing that the asteroid was formed by mixing material from both the inner and outer Solar System, challenging previous theories. This new evidence suggests Jupiter played a significant role in the formation of Bennu and other ancient objects."
  },
- "https://phys.org/news/2026-10-cleaner-brick-kilns-pollution-gains.html": {
-  "s": "Cleaner brick kilns in Bangladesh reduced pollution and improved brick quality without significant changes to kiln owners. However, these gains did not benefit the workers, who continued to face poor conditions."
- },
  "https://www.sciencedaily.com/releases/2026/10/261023023726.htm": {
   "s": "Scientists have proposed a method to detect \"mirror life,\" hypothetical life forms with reversed molecular structures. This detection could be crucial as mirror life, if created, could pose significant risks to Earth's ecosystems and existing life forms."
  },
@@ -357,10 +340,18 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression": {
-  "s": "Squids have an unmatched ability to change genetic expression, altering proteins without changing DNA. This ability allows them to generate proteins with different properties, influencing various biological processes. Such flexibility in genetic expression is rare among animals, making squids more adaptable and potentially more intelligent than previously thought."
- },
  "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html": {
   "s": "Understanding instabilities and turbulence in plasmas is crucial for fields like nuclear fusion, astrophysics, and laser-plasma physics. Structures in plasmas can vary greatly in size, from very small to large, and these variations can significantly affect plasma behavior. However, capturing these structures across different scales in a single measurement is challenging due to the rapid growth of instabilities and turbulence. The recent achievement by researchers using an X-ray pulse and a single camera allows for the simultaneous measurement of structures from 10 nm to 500 nm, offering a new way to study plasma dynamics."
+ },
+ "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencealert.com/physicists-may-have-inadvertently-built-a-qubit-that-can-run-backward-in-time": {
+  "s": "Physicists may have inadvertently created a quantum system that can run backward in time. This discovery could lead to new ways to process information, particularly in quantum computing. The researchers found this unusual property by analyzing an experiment they conducted for a different purpose in 2018."
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
