@@ -291,10 +291,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-virtual-lightsabers-pattern-based-vr.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season": {
   "s": "",
   "why": "too little source text"
@@ -320,10 +316,6 @@
  },
  "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion": {
   "s": "AI companies recognize they are dependent on each other, and fear facing severe reputational and legal issues if they do not self-regulate. Therefore, they seek to prevent a catastrophic situation."
- },
- "https://www.sciencealert.com/as-water-crisis-continues-backup-water-supply-in-the-colorado-river-basin-is-also-drying-up": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.sciencedaily.com/releases/2026/10/261023023738.htm": {
   "s": "A study published in Science Advances challenges 70 years of scientific understanding of word meaning. Researchers at the University of Vermont discovered that meaning in language is organized around power, danger, and order rather than emotional valence. This hidden bias could transform fields including psychology, linguistics, and artificial intelligence, as traditional models overlook important dimensions of meaning."
@@ -364,5 +356,11 @@
  "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression": {
+  "s": "Squids have an unmatched ability to change genetic expression, altering proteins without changing DNA. This ability allows them to generate proteins with different properties, influencing various biological processes. Such flexibility in genetic expression is rare among animals, making squids more adaptable and potentially more intelligent than previously thought."
+ },
+ "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html": {
+  "s": "Understanding instabilities and turbulence in plasmas is crucial for fields like nuclear fusion, astrophysics, and laser-plasma physics. Structures in plasmas can vary greatly in size, from very small to large, and these variations can significantly affect plasma behavior. However, capturing these structures across different scales in a single measurement is challenging due to the rapid growth of instabilities and turbulence. The recent achievement by researchers using an X-ray pulse and a single camera allows for the simultaneous measurement of structures from 10 nm to 500 nm, offering a new way to study plasma dynamics."
  }
 }
