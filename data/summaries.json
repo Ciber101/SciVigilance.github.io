@@ -334,9 +334,6 @@
  "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html": {
   "s": "Researchers at AIST have shown how simple chemical modifications of common sugars like sucrose and fructose can be used to form nanoporous carbonaceous materials and materials with layered nanostructures. This method avoids the need for complex templates and harsh chemical processes, making it more environmentally friendly and versatile."
  },
- "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself": {
-  "s": "Perseverance rover recently drove farther across Mars than any previous vehicle, surpassing the record set by Opportunity. This feat was achieved through the rover's AutoNav system, which scans and safely navigates the terrain, using more than 200,000 measurements per glance."
- },
  "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple": {
   "s": "The study found that white dwarfs, despite their name, can exhibit colors other than white, including yellow, green, and pink. This challenges the long-held belief that stars, including white dwarfs, are perfect radiators, or blackbody objects, emitting light uniformly across all wavelengths."
  },
@@ -347,8 +344,34 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+ "https://www.sciencealert.com/miniature-ball-lightning-created-in-a-lab-could-help-solve-a-centuries-old-mystery": {
+  "s": "Physicists created miniature ball lightning in a lab using a very fine tungsten needle and a laser. This achievement helps solve a centuries-old mystery by providing a controlled environment to study ball lightning's theoretical electromagnetic nature."
+ },
+ "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/": {
+  "s": "Kyutai released CADRE, a family of autoencoders for interactive world models. These autoencoders cut world model lag below 230 ms, enabling faster and more responsive simulations. Researchers chose a compression method that balances cost per frame and action delay, matching human perception thresholds for lag."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore's government team up to create a smart AI model that can spot scams in private chats. This model operates locally on devices, without sending any data to the cloud, making it secure and efficient."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its superior physical reasoning and control capabilities in a robotics challenge, outperforming other models on a benchmark. This advance could accelerate the development of physical AI, enabling robots to learn and perform tasks without extensive training."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, including climbing stairs and navigating tight spaces, make it a valuable tool for various tasks like disaster search and rescue, hostage situations, and drug lab investigations. Its features, such as a manipulator arm and speaker, allow operators to conduct searches and communicate safely from a distance. The robot's benefits are evident, as it can enter dangerous areas without risking human officers, thus reducing potential harm."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, discusses endurance testing for Boston Dynamics' Stretch robot. She explains how her team simulates years of robot use in just weeks by running testers faster and with more aggressive forces. This accelerates wear on components like cables, helping to identify potential issues early. Her work ensures Stretch can reliably move boxes in warehouses."
  }
 }
