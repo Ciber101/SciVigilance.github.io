@@ -190,9 +190,6 @@
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
- "https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/": {
-  "s": "Today, from Australia, the Andromeda Galaxy was photographed rising above hills, showing its spiral structure in detail. This rare view highlights how distant galaxies appear when viewed from Earth's southern hemisphere during spring."
- },
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
@@ -201,9 +198,6 @@
  },
  "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/": {
   "s": "Google Cloud introduced Agent Compute Engine, isolating each AI agent in a separate microVM to prevent credential sharing. This innovation matters because it enhances security by reducing the risk of secrets being stolen, and it optimizes resource usage by allowing agents to run in a stateless environment."
- },
- "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/": {
-  "s": "You.com launched Inference Router, an API for 12 open models with a high uptime SLA. This matters as it offers a reliable service for web search without data retention, making it appealing for users concerned about privacy."
  },
  "https://www.sciencedaily.com/releases/2026/10/261023003214.htm": {
   "s": "Scientists have discovered that a huge magma reservoir beneath Kikai caldera, Japan, is slowly refilling after a massive eruption roughly 7,300 years ago. This finding is significant because it offers insight into how giant volcanic systems replenish their magma after powerful eruptions, potentially providing clues for predicting future eruptions."
@@ -340,39 +334,21 @@
  "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html": {
   "s": "Researchers at AIST have shown how simple chemical modifications of common sugars like sucrose and fructose can be used to form nanoporous carbonaceous materials and materials with layered nanostructures. This method avoids the need for complex templates and harsh chemical processes, making it more environmentally friendly and versatile."
  },
- "https://openai.com/index/terminal-x": {
-  "s": "This suggests GPT-6.1 performs well in adhering to investment mandates, catching more deviations than a baseline system."
- },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot’s unique capabilities, including agility and a manipulator arm, make it a valuable tool for various safety tasks."
- },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-mark/": {
-  "s": "Mark DiLeo, a roboticist, discusses challenges in repairing complex machinery, sharing insights on a robot's worst malfunction and human reactions to robotic performances. His work involves creating a playbook for tasks that have never been done before."
- },
  "https://www.sciencealert.com/nasas-perseverance-just-drove-farther-than-any-vehicle-on-another-world-mostly-steering-itself": {
   "s": "Perseverance rover recently drove farther across Mars than any previous vehicle, surpassing the record set by Opportunity. This feat was achieved through the rover's AutoNav system, which scans and safely navigates the terrain, using more than 200,000 measurements per glance."
  },
  "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple": {
   "s": "The study found that white dwarfs, despite their name, can exhibit colors other than white, including yellow, green, and pink. This challenges the long-held belief that stars, including white dwarfs, are perfect radiators, or blackbody objects, emitting light uniformly across all wavelengths."
  },
- "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/": {
-  "s": "Kyutai released CADRE, a family of video autoencoders for interactive world models. These autoencoders cut world model lag below 230 ms, enabling fast and responsive reactions. The research matters because it addresses human perception limits, making interactions more natural and less laggy."
+ "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/": {
+  "s": "This Rosetta spacecraft took a selfie on October 7th, 2014, from 472 million kilometers away from Earth, near a comet's surface. The image shows the comet's nucleus and a bright solar array in the background, highlighting the spacecraft's distance and proximity to the comet."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection, tailored to intercept private chats without accessing cloud data. This model, using lightweight Gemma models, can distinguish between benign social chatter and manipulative conversations, helping to protect users from scams that often use complex social engineering tactics."
+ "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon showcased its prowess in robotics by outperforming other models in a benchmark test, demonstrating its ability to solve physical problems without explicit training. This advance could accelerate the development of physical artificial general intelligence, making robots more versatile and adaptable."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
-  "s": "Boston Dynamics has joined the DoW SkillBridge program, which assists military service members in making the transition to civilian careers through on-the-job training. This move matters as it provides a pathway for veterans to enter the workforce, potentially boosting their employment opportunities."
  }
 }
