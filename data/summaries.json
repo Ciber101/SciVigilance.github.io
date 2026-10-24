@@ -1,7 +1,4 @@
 {
- "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
-  "s": "Benchmarks for AI models are designed to measure their performance but can also drive the field's direction. In the past, benchmarks have led to AI winters and booms. Moritz Hardt believes these benchmarks are fundamentally flawed but not irreparable. He argues that AI systems can manipulate benchmarks without demonstrating true intelligence."
- },
  "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
   "s": "A new AI model uncovers how cells communicate to form tissues. This could help in making stem cells more useful and could lead to better disease models and therapies. Understanding these cell conversations could help scientists fix problems in how organs grow and develop, which is important for treating diseases."
  },
@@ -64,9 +61,6 @@
  },
  "https://news.mit.edu/2026/symposium-highlights-innovations-for-aging-brain-health-1019": {
   "s": "In six talks, researchers from MIT discussed projects targeting neurodegenerative diseases like Alzheimer's, Parkinson's, and ALS. This symposium highlights MIT's diverse approaches to improving brain health for the aging population, reflecting the initiative's goal to address complex, system-wide issues."
- },
- "https://www.therobotreport.com/robobusiness-rebrands-as-robotics-summit-expo-west/": {
-  "s": "RoboBusiness rebranded as Robotics Summit & Expo West to focus on deploying robotics and AI in real-world settings, reflecting industry growth. The new name aims to serve professionals meeting increasing demand for intelligent systems across various sectors."
  },
  "https://x.ai/news/incident-sweep": {
   "s": "IncidentWatch monitors support queues for sudden increases in similar tickets, alerting the team when it detects an incident. IncidentSweep then closes those affected tickets in a batch, reducing the workload for support engineers. This approach helps manage customer wait times and ensures consistent responses during incidents."
@@ -168,9 +162,6 @@
  "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
   "s": "Donated Agent Skills, an open standard for specialized AI knowledge, to the Agentic AI Foundation, making it accessible to any AI agent. This move supports community-driven development and ensures transparency in AI skill creation and deployment."
  },
- "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon": {
-  "s": "Artemis II commander Reid Wiseman experienced fear during his mission when the spacecraft traveled farther from Earth than expected. This moment highlighted the dangers and unpredictability of space travel."
- },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
  },
@@ -183,33 +174,12 @@
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
- "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
-  "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023003214.htm": {
-  "s": "Scientists have discovered that a huge magma reservoir beneath Kikai caldera, Japan, is slowly refilling after a massive eruption roughly 7,300 years ago. This finding is significant because it offers insight into how giant volcanic systems replenish their magma after powerful eruptions, potentially providing clues for predicting future eruptions."
- },
  "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds": {
   "s": "The JWST observed WASP-17 b, an exoplanet previously known, revealing it is not a perfect sphere but lopsided. This matters because traditional methods of studying exoplanet atmospheres treat them as uniform, ignoring differences between sides. New techniques can now analyze the atmosphere's thickness and chemistry at different parts of the planet, providing more detailed information."
  },
  "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.sciencedaily.com/releases/2026/10/261022081314.htm": {
-  "s": "Dental implants can cause infections that antibiotics often fail to treat. Scientists found that titanium particles from implants interfere with immune cells, leading to persistent inflammation that damages jawbone. This discovery offers a new target for developing therapies to prevent peri-implantitis."
- },
- "https://www.sciencedaily.com/releases/2026/10/261022081309.htm": {
-  "s": "A new PTSD treatment using personalized brain mapping and magnetic stimulation achieved a 52% reduction in symptoms and 68% remission in a clinical trial. This approach could significantly expand treatment options for PTSD, which affects millions of people, including veterans."
- },
- "https://www.sciencedaily.com/releases/2026/10/261022081306.htm": {
-  "s": "Scientists discovered that people with Parkinson's disease who exercise more have slower declines in movement and thinking skills. This study suggests physical activity may offer dual benefits for people living with Parkinson's, but does not prove exercise directly slows the disease."
- },
- "https://www.sciencedaily.com/releases/2026/10/261022081304.htm": {
-  "s": "Scientists have discovered a hidden messaging system deep within the brain called the locus coeruleus (LC), which produces a chemical messenger that regulates attention, learning, and stress reactions. This study reveals the LC communicates through several distinct pathways, sending signals to specific destinations, unlike previously assumed. Understanding this network could lead to new treatments for neurological and mental health conditions."
- },
- "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/": {
-  "s": "TinyFish developed a 7-phase production architecture for AI agents, integrating evidence contracts and retries. This system, built on web primitives, improved task completion rates and reduced costs on OpenBenchmarks. The architecture's key is a robust control loop, failure-specific retries, and unified reasoning, addressing issues like incomplete results and conflicting information."
  },
  "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas": {
   "s": "Switching from a gas stove to an electric one can help people with asthma breathe easier. Exposure to pollutants from gas stoves, including nitrogen dioxide, can trigger asthma symptoms. A study found that after replacing gas stoves with electric ones, people reported significant improvement in asthma symptoms, fewer emergency room visits, and less missed work or school."
@@ -229,10 +199,6 @@
  "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away": {
   "s": "Scientists have observed a correlation between Earth's magnetic pole flips and mass extinctions, but have not yet proven a direct link. Despite efforts, the idea remains persistent, as geomagnetic reversals have occurred throughout Earth's history. Detecting these flips in geological records is challenging, as magnetic minerals in lava and sediments record the pole positions at the time they solidified. The chaotic nature of reversals makes predicting them difficult, and determining their timing and duration is complicated."
  },
- "https://www.space.com/entertainment/space-games/never-finishing-the-fight-where-did-xbox-go-wrong-with-halo": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria": {
   "s": "Eating sugar while on antibiotics harmed the variety of gut bacteria in cancer patients, reducing their diversity by 24 percent. This combination also increased the growth of Enterococcus bacteria, which can be drug-resistant and linked to harder-to-treat infections."
  },
@@ -241,9 +207,6 @@
  },
  "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
   "s": "The robot solved a Rubik's cube by itself, demonstrating its dexterity and problem-solving skills. This feat matters as it showcases the capabilities of robots in complex manipulation tasks, potentially aiding in future manufacturing or rescue operations."
- },
- "https://phys.org/news/2026-10-plain-silicon-reveals-hidden-electron.html": {
-  "s": "In 1953, physicists discovered that an electron beam passing a grating emits light whose color depends on the electron's speed and grating spacing. Now, researchers have found that this effect also reveals a hidden property called chirality, or handedness, which was previously overlooked. This discovery allows for more precise control over the emitted light, potentially leading to better light sources and particle tracking."
  },
  "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342": {
   "s": "The shadow population of deceased relatives is larger than today's living population, comprising millions of people. Researchers found that almost 44% of Americans report feeling the presence of a deceased relative or communicating with one in the past year."
@@ -305,15 +268,9 @@
  "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/": {
   "s": "NASA’s Swift mission has ended as the spacecraft orbits Earth at a height of less than 171 miles. This height causes atmospheric drag, preventing Swift from making steady observations. The mission has left behind a vast archive of astronomical data, contributing to over 7,000 scientific papers."
  },
- "https://phys.org/news/2026-10-scientists-ai-enzyme-drug-synthesis.html": {
-  "s": "Scientists at the Institute for Protein Design and collaborators have used advanced AI to design new enzymes that can be used to synthesize drugs more efficiently. This AI approach is significant because it can consider multiple aspects of a protein's structure and function simultaneously, leading to more effective and efficient enzyme design."
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-chemically-sugars-enable-nanostructure-formation.html": {
-  "s": "Researchers at AIST have shown how simple chemical modifications of common sugars like sucrose and fructose can be used to form nanoporous carbonaceous materials and materials with layered nanostructures. This method avoids the need for complex templates and harsh chemical processes, making it more environmentally friendly and versatile."
  },
  "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple": {
   "s": "The study found that white dwarfs, despite their name, can exhibit colors other than white, including yellow, green, and pink. This challenges the long-held belief that stars, including white dwarfs, are perfect radiators, or blackbody objects, emitting light uniformly across all wavelengths."
@@ -342,16 +299,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, including climbing stairs and navigating tight spaces, make it a valuable tool for various tasks like disaster search and rescue, hostage situations, and drug lab investigations. Its features, such as a manipulator arm and speaker, allow operators to conduct searches and communicate safely from a distance. The robot's benefits are evident, as it can enter dangerous areas without risking human officers, thus reducing potential harm."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "Diane Heinle, a mechanical engineer, discusses endurance testing for Boston Dynamics' Stretch robot. She explains how her team simulates years of robot use in just weeks by running testers faster and with more aggressive forces. This accelerates wear on components like cables, helping to identify potential issues early. Her work ensures Stretch can reliably move boxes in warehouses."
- },
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
  },
@@ -367,14 +314,61 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/both-low-and-high-testosterone-seem-to-be-linked-to-an-irregular-heartbeat-study-finds": {
-  "s": "Both low and high testosterone levels were found to be linked to a higher risk of atrial fibrillation, a heart rhythm disorder. This finding suggests that the hormone's level, whether too low or too high, may affect heart rhythm. Researchers suggest that keeping testosterone within the middle range may reduce this risk."
- },
  "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built": {
   "s": "",
   "why": "too little source text"
  },
  "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/": {
   "s": "The organization developed a stateful engineering copilot named Letta to extend memory beyond basic prompts. This tool is significant as it allows for more complex interactions and memory management, facilitating advanced collaborative and memory-enhanced tasks."
+ },
+ "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html": {
+  "s": "What happened: Researchers found that mapping the evolutionary relatives of seabirds offers better clues than their diets or feeding methods for predicting which species tend to accumulate plastic in their digestive systems. Why it matters: This finding suggests that evolutionary relationships among seabirds are a stronger predictor of plastic accumulation than their diet or feeding habits, highlighting the importance of considering evolutionary history in conservation efforts targeting plastic pollution in marine environments."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023732.htm": {
+  "s": "A small device that gently stimulates nerves in the ear through the tragus could be a new way to treat stubborn high blood pressure. Although the device did not significantly lower blood pressure overall, it showed promise in patients with severe hypertension, suggesting it might help certain people whose blood pressure remains elevated despite medication."
+ },
+ "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/": {
+  "s": "Anthropic’s sandbox-runtime restricts file and network access for AI agents, MCP servers and CLI tools by wrapping them in OS-level restrictions. This tool works on macOS, Linux and Windows, isolating traffic through HTTP and SOCKS5 proxies. It matters because it reduces permission prompts by 84% in internal Claude Code usage, addressing developer fatigue by setting a fixed boundary."
+ },
+ "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything": {
+  "s": "The fourth season of Star Trek: Strange New Worlds featured numerous gimmicks, blending \"Trek\" elements into various genres and frequently adapting classic films from those genres. This approach was criticized for not delivering substantive Star Trek content."
+ },
+ "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion": {
+  "s": "AI companies recognize they are dependent on each other, and fear facing severe reputational and legal issues if they do not self-regulate. Therefore, they seek to prevent a catastrophic situation."
+ },
+ "https://www.sciencealert.com/as-water-crisis-continues-backup-water-supply-in-the-colorado-river-basin-is-also-drying-up": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://openai.com/index/securing-our-frontier-model-training-environment": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023738.htm": {
+  "s": "A study published in Science Advances challenges 70 years of scientific understanding of word meaning. Researchers at the University of Vermont discovered that meaning in language is organized around power, danger, and order rather than emotional valence. This hidden bias could transform fields including psychology, linguistics, and artificial intelligence, as traditional models overlook important dimensions of meaning."
+ },
+ "https://phys.org/news/2026-10-ancient-stalagmites-reveal-exceptions-asiasouth.html": {
+  "s": "Ancient stalagmites from a cave in Peru reveal that at times, the usual pattern of monsoons in Asia and South America did not follow a seesaw relationship. This matters because understanding these exceptions can help predict drought risks affecting agriculture, reservoirs, and hydropower in distant regions, offering insights into climate changes that might have influenced these deviations."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": {
+  "s": "Tiny samples from asteroid Bennu collected by NASA are revealing that the asteroid was formed by mixing material from both the inner and outer Solar System, challenging previous theories. This new evidence suggests Jupiter played a significant role in the formation of Bennu and other ancient objects."
+ },
+ "https://phys.org/news/2026-10-cleaner-brick-kilns-pollution-gains.html": {
+  "s": "Cleaner brick kilns in Bangladesh reduced pollution and improved brick quality without significant changes to kiln owners. However, these gains did not benefit the workers, who continued to face poor conditions."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023726.htm": {
+  "s": "Scientists have proposed a method to detect \"mirror life,\" hypothetical life forms with reversed molecular structures. This detection could be crucial as mirror life, if created, could pose significant risks to Earth's ecosystems and existing life forms."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023723.htm": {
+  "s": "Astronomers found a complex web of magnetic threads above the Sun's surface, even in regions that appear calm. This discovery offers new insights into how energy moves through the Sun's atmosphere, contributing to its heating."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023718.htm": {
+  "s": "Tiny snakes in Southeast Asia have discovered a unique way to escape by rapidly rolling across the ground, moving four times faster than their usual slithering. This discovery, made by scientists, reveals how these small reptiles coordinate their movements with remarkable precision, facing forward and maintaining a steady height, even as their rear halves rotate rapidly."
+ },
+ "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
+  "s": "Vincent van Gogh painted \"The Starry Night\" in the summer of 1889. Researchers claim to have identified the specific night sky depicted in the painting, July 22, 1889, just before dawn over France. This suggests the painting was based on real observations rather than van Gogh's imagination."
+ },
+ "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
+  "s": "Eka Robotics raised $150 million to scale its VFA model, which learns physics through reinforcement learning. This model aims to make robots versatile and capable of handling various tasks and conditions, unlike current models that often require specific training for each task."
  }
 }
