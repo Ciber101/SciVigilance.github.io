@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-22T16:50:00-07:00",
- "updated_pt": "Oct 22, 2026, 4:50 PM PT",
+ "updated": "2026-10-24T13:38:18-07:00",
+ "updated_pt": "Oct 24, 2026, 1:38 PM PT",
  "stories": [
   {
    "title": "Tesla starts Optimus humanoid production at its Fremont, California factory",
@@ -39,6 +39,24 @@
      "name": "The Next Web",
      "url": "https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor",
      "date": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "title": "Italian humanoid maker Generative Bionics plans a 'Physical AI Data Factory' to train its GENE.01 robot, powered by AMD",
+   "tag": "Humanoids",
+   "date": "2026-10-23",
+   "paragraphs": [
+    "Generative Bionics, a humanoid robot company based in Genoa, Italy, announced this week that it plans to build a proprietary, multi-site \"Physical AI Data Factory\" in Italy, The Robot Report reported on Oct. 23. According to the company, the first hub will cover 5,000 square meters (about 53,800 square feet), become one of Europe's largest physical AI training facilities for humanoid robots, and be operational by the fourth quarter of 2027. The company says it plans a second facility elsewhere in Europe and a third serving global markets.",
+    "Generative Bionics says the facilities will reproduce real industrial environments chosen with industrial partners, where fleets of its GENE.01 humanoid will perform tasks continuously to generate physical data, including vision, motion and signals from the robot's full-body multimodal skin. Each environment will also be recreated as a digital twin so the same tasks can be repeated across thousands of variations, with models trained in simulation sent back to the real robots for validation. AMD will be the company's AI infrastructure partner, and the network will run on AMD Helios rack-scale systems, the company said.",
+    "CEO Daniele Pucci told The Robot Report that Europe needs to extract physical AI data from its industry to train its own models, and that the company wants to be \"the European champion in physical AI.\" Pucci also said that many Chinese humanoid robots are \"simply not certified to enter industrial settings\" and that Generative Bionics is focusing on safety and certification because it wants to sell to businesses first. The company plans to offer GENE.01 as a base platform customized by industry in three ways: its AI, its exterior design, and its hands and feet.",
+    "According to The Robot Report, Generative Bionics spun out of the Italian Institute of Technology (IIT) in 2024, builds on more than 20 years of humanoid research there, and holds exclusive licenses to key IIT technologies."
+   ],
+   "sources": [
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
+     "date": "2026-10-23"
     }
    ]
   },
@@ -83,34 +101,6 @@
      "name": "Agility Robotics on X",
      "url": "https://x.com/agilityrobotics/status/2112861957438992771",
      "date": "2026-10-21"
-    }
-   ]
-  },
-  {
-   "title": "Agility's co-founder says Digit 5 trades running for real work: 23-kilogram lifts, a 9-minute recharge and human-style legs",
-   "tag": "Humanoids",
-   "date": "2026-10-19",
-   "paragraphs": [
-    "Agility Robotics co-founder Jonathan Hurst writes in an IEEE Spectrum essay published Oct. 19 that the company has just launched Digit 5, which he says is designed to be the first humanoid robot that can safely and economically do useful work at scale. According to Hurst, Digit 5 is engineered to lift 23-kilogram bins onto high shelves and to handle heavy warehouse tasks shift after shift.",
-    "Agility announced on Oct. 15 that battery maker Nyobolt is supplying Digit 5's fast-charging battery system, which the company says gives about 90 minutes of runtime and recharges in about 9 minutes, a 10-to-1 ratio of work to charging time compared with 2-to-1 for Digit 4. Agility says that should let one robot work more than 20 hours in a 24-hour day. Hurst writes that the charging dock will deliver 240 amperes at 48 volts, and that the battery and its cooling system take up about 75 percent of the robot's torso.",
-    "Hurst writes that all the extra bulk means Digit 5 can no longer run or jump the way earlier Digits could, and that in some ways it \"feels more like a forklift than the graceful humanoid I set out to build.\" He says humanlike legs replace the ostrichlike legs of earlier versions because the backward-knee design made the ankle strike the ground when squatting to lift objects near the floor. Agility says that when Digit 5 detects an approaching person, it lowers itself to the floor and cuts power to its motors, which the company believes is the only near-term approach to verifiably reduce risk when working near people.",
-    "Hurst calls Digit 5 the largest, heaviest and most expensive robot Agility will ever build. According to the essay, Agility's RoboFab factory in Salem, Oregon, a 70,000-square-foot facility, has the capacity to produce more than 10,000 Digit 5 robots per year, and the company's road map goes beyond carrying bins to picking individual items, tending machines, preparing parts for assembly and shipping, and eventually assembly work itself."
-   ],
-   "sources": [
-    {
-     "name": "IEEE Spectrum (Jonathan Hurst)",
-     "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-     "date": "2026-10-19"
-    },
-    {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agility-robotics-selects-nyobolt-as-its-ultra-fast-charging-battery-technology-partner-for-digit-5",
-     "date": "2026-10-15"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112286284236640320",
-     "date": "2026-10-19"
     }
    ]
   },
