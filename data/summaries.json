@@ -220,10 +220,6 @@
  "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna": {
   "s": "A virus that infected an ancestor of chimps and humans millions of years ago left behind DNA in the chimp genome. This viral DNA influences genes involved in neuron development, which may help explain why human brains are larger and more complex than those of chimps."
  },
- "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/": {
   "s": "NASA is helping Virginia to secure its energy future by sharing its meteorological data. This partnership will aid state officials in planning for extreme weather and energy demands, improving energy security and reliability."
  },
@@ -236,9 +232,6 @@
  "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-reveal-immune-responses-infection-sites.html": {
-  "s": "Researchers at the MRC Laboratory of Medical Sciences have created a new method to enhance glowing biological reporters, enabling scientists to track gene activity in living plants over extended periods. This innovation helps in understanding how plants respond to various stresses and diseases, potentially aiding in the study of animal and human diseases as well."
  },
  "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/": {
   "s": "Moonshot AI released Kimi K3.1 Pro, a large AI model with 2.8 trillion parameters and 1 million token context. This matters because it scores high on benchmark tests and offers faster inference, but also raises concerns about its cyber-related training data."
@@ -258,19 +251,11 @@
  "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/": {
   "s": "Before returning to the Moon, NASA will conduct a test mission in 2027. This mission will practice operations with future landers to reduce risks and validate hardware."
  },
- "https://phys.org/news/2026-10-magnetic-flux-quanta-photon.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.universetoday.com/articles/the-largest-canyon-in-the-solar-system-is-still-tectonically-active": {
   "s": "The largest canyon on Mars, Valles Marineris, is still active and causing earthquakes, contrary to previous assumptions that Mars was geologically inactive. Scientists found evidence of fault lines within the canyon's crust, indicating that the planet is still tectonically active, even billions of years after its formation."
  },
  "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/": {
   "s": "NASA’s Swift mission has ended as the spacecraft orbits Earth at a height of less than 171 miles. This height causes atmospheric drag, preventing Swift from making steady observations. The mission has left behind a vast archive of astronomical data, contributing to over 7,000 scientific papers."
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-23-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple": {
   "s": "The study found that white dwarfs, despite their name, can exhibit colors other than white, including yellow, green, and pink. This challenges the long-held belief that stars, including white dwarfs, are perfect radiators, or blackbody objects, emitting light uniformly across all wavelengths."
@@ -340,10 +325,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/securing-our-frontier-model-training-environment": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencedaily.com/releases/2026/10/261023023738.htm": {
   "s": "A study published in Science Advances challenges 70 years of scientific understanding of word meaning. Researchers at the University of Vermont discovered that meaning in language is organized around power, danger, and order rather than emotional valence. This hidden bias could transform fields including psychology, linguistics, and artificial intelligence, as traditional models overlook important dimensions of meaning."
  },
@@ -370,5 +351,18 @@
  },
  "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
   "s": "Eka Robotics raised $150 million to scale its VFA model, which learns physics through reinforcement learning. This model aims to make robots versatile and capable of handling various tasks and conditions, unlike current models that often require specific training for each task."
+ },
+ "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html": {
+  "s": "The researchers Gerald Gabrielse and colleagues have developed a quantum cyclotron to trap a single positron, aiming to test a key prediction of the Standard Model. The magnetic moment of the positron should be exactly equal and opposite to that of an electron, according to CPT symmetry. If the positron's magnetic moment deviates from the electron's, it could indicate new physics beyond the Standard Model."
+ },
+ "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation": {
+  "s": "On Episode 233, researchers discuss how more women and people of color are entering the space workforce. This matters as diversifying the space industry can bring new perspectives and innovation."
+ },
+ "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html": {
+  "s": "A study identified three human proteins—ENL, USP7, and BRD4—that help HIV remain dormant in immune cells and the brain. Understanding these proteins could lead to new strategies to cure HIV, as disrupting them can reactivate latent HIV. This research advances the field by providing a new approach to eliminate hidden HIV reservoirs, a key challenge in curing the disease."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026": {
+  "s": "",
+  "why": "too little source text"
  }
 }
