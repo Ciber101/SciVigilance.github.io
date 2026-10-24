@@ -165,21 +165,11 @@
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
  },
- "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
-  "s": "Vincent van Gogh painted \"The Starry Night\" in 1889. Now researchers say they have identified the specific night sky the artist used. This suggests the painting was based on real observations rather than just van Gogh's imagination, challenging the conventional view that the work was purely a creative expression."
- },
  "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation": {
   "s": "Donated Agent Skills, an open standard for specialized AI knowledge, to the Agentic AI Foundation, making it accessible to any AI agent. This move supports community-driven development and ensures transparency in AI skill creation and deployment."
  },
  "https://www.livescience.com/space/space-exploration/were-never-going-to-come-home-artemis-ii-commander-recalls-the-most-terrifying-moment-of-his-10-day-trip-around-the-moon": {
   "s": "Artemis II commander Reid Wiseman experienced fear during his mission when the spacecraft traveled farther from Earth than expected. This moment highlighted the dangers and unpredictability of space travel."
- },
- "https://www.livescience.com/animals/birds/crows-may-make-lightning-fast-decisions-sometimes-twice-as-fast-as-humans-study-hints": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.livescience.com/health/neuroscience/brain-scans-reveal-number-line-thats-used-to-mentally-compare-values": {
-  "s": "Brain scans show a common mental map for comparing values of numbers, regardless of whether they are whole or fractions. This map helps in mentally assessing the relative sizes of numbers."
  },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
@@ -195,9 +185,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261022081312.htm": {
   "s": "Cambridge scientists have developed a $10 optical sensor that matches the precision of lab equipment but is small enough for wearable tech. This innovation could revolutionize health monitoring by allowing people to track blood glucose without needles, and extend to food testing, industrial quality control, and environmental monitoring."
- },
- "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/": {
-  "s": "Google Cloud introduced Agent Compute Engine, isolating each AI agent in a separate microVM to prevent credential sharing. This innovation matters because it enhances security by reducing the risk of secrets being stolen, and it optimizes resource usage by allowing agents to run in a stateless environment."
  },
  "https://www.sciencedaily.com/releases/2026/10/261023003214.htm": {
   "s": "Scientists have discovered that a huge magma reservoir beneath Kikai caldera, Japan, is slowly refilling after a massive eruption roughly 7,300 years ago. This finding is significant because it offers insight into how giant volcanic systems replenish their magma after powerful eruptions, potentially providing clues for predicting future eruptions."
@@ -223,9 +210,6 @@
  },
  "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/": {
   "s": "TinyFish developed a 7-phase production architecture for AI agents, integrating evidence contracts and retries. This system, built on web primitives, improved task completion rates and reduced costs on OpenBenchmarks. The architecture's key is a robust control loop, failure-specific retries, and unified reasoning, addressing issues like incomplete results and conflicting information."
- },
- "https://www.space.com/space-exploration/private-griffin-moon-lander-gets-put-to-the-test-space-photo-of-the-day-for-oct-23-2026": {
-  "s": "The Griffin lunar lander has successfully completed numerous important tests before its historic moon mission, set to launch soon. This matters because it demonstrates the lander's readiness for the moon's harsh environment."
  },
  "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas": {
   "s": "Switching from a gas stove to an electric one can help people with asthma breathe easier. Exposure to pollutants from gas stoves, including nitrogen dioxide, can trigger asthma symptoms. A study found that after replacing gas stoves with electric ones, people reported significant improvement in asthma symptoms, fewer emergency room visits, and less missed work or school."
@@ -276,9 +260,6 @@
  "https://www.space.com/stargazing/meteor-showers/halleys-comet-dazzles-from-afar-in-spectacular-astrophoto-of-orionid-meteor-shower": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-bacteria-reinvent-weapons-chance-gene.html": {
-  "s": "Bacteria produce potent antibiotics through nonribosomal peptides, which evolve through gene swapping and recombination, creating new chemical compounds. This process, not well understood, challenges traditional evolutionary research methods."
  },
  "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/": {
   "s": "NASA is helping Virginia to secure its energy future by sharing its meteorological data. This partnership will aid state officials in planning for extreme weather and energy demands, improving energy security and reliability."
@@ -344,9 +325,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.sciencealert.com/miniature-ball-lightning-created-in-a-lab-could-help-solve-a-centuries-old-mystery": {
-  "s": "Physicists created miniature ball lightning in a lab using a very fine tungsten needle and a laser. This achievement helps solve a centuries-old mystery by providing a controlled environment to study ball lightning's theoretical electromagnetic nature."
- },
  "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/": {
   "s": "Kyutai released CADRE, a family of autoencoders for interactive world models. These autoencoders cut world model lag below 230 ms, enabling faster and more responsive simulations. Researchers chose a compression method that balances cost per frame and action delay, matching human perception thresholds for lag."
  },
@@ -373,5 +351,30 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, discusses endurance testing for Boston Dynamics' Stretch robot. She explains how her team simulates years of robot use in just weeks by running testers faster and with more aggressive forces. This accelerates wear on components like cables, helping to identify potential issues early. Her work ensures Stretch can reliably move boxes in warehouses."
+ },
+ "https://www.sciencenews.org/article/ed-note-november-2026": {
+  "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
+ },
+ "https://www.livescience.com/space/the-moon/you-have-2-superb-chances-to-watch-the-hunters-moon-rise-this-week": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-virtual-lightsabers-pattern-based-vr.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/both-low-and-high-testosterone-seem-to-be-linked-to-an-irregular-heartbeat-study-finds": {
+  "s": "Both low and high testosterone levels were found to be linked to a higher risk of atrial fibrillation, a heart rhythm disorder. This finding suggests that the hormone's level, whether too low or too high, may affect heart rhythm. Researchers suggest that keeping testosterone within the middle range may reduce this risk."
+ },
+ "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/": {
+  "s": "The organization developed a stateful engineering copilot named Letta to extend memory beyond basic prompts. This tool is significant as it allows for more complex interactions and memory management, facilitating advanced collaborative and memory-enhanced tasks."
  }
 }
