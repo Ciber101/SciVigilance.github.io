@@ -2,9 +2,6 @@
  "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
   "s": "A new AI model uncovers how cells communicate to form tissues. This could help in making stem cells more useful and could lead to better disease models and therapies. Understanding these cell conversations could help scientists fix problems in how organs grow and develop, which is important for treating diseases."
  },
- "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017": {
-  "s": "DeepSeek released a new version of its model, DeepSeek-V4.1-Flash-1017, accessible on Hugging Face. This update enhances the model's performance in various tasks, improving reasoning, coding, and visual tasks. It also speeds up task execution and reduces costs."
- },
  "https://simonwillison.net/2026/Oct/14/tree-appreciator/": {
   "s": "Tree Appreciator game was created by Claude, a chat app, to show differences between two algorithmically generated trees. It matters because it demonstrates how AI can generate games that are both fun and visually appealing, even if the goal is simple spot-the-difference."
  },
@@ -174,10 +171,6 @@
  "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds": {
   "s": "The JWST observed WASP-17 b, an exoplanet previously known, revealing it is not a perfect sphere but lopsided. This matters because traditional methods of studying exoplanet atmospheres treat them as uniform, ignoring differences between sides. New techniques can now analyze the atmosphere's thickness and chemistry at different parts of the planet, providing more detailed information."
  },
- "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas": {
   "s": "Switching from a gas stove to an electric one can help people with asthma breathe easier. Exposure to pollutants from gas stoves, including nitrogen dioxide, can trigger asthma symptoms. A study found that after replacing gas stoves with electric ones, people reported significant improvement in asthma symptoms, fewer emergency room visits, and less missed work or school."
  },
@@ -230,9 +223,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/": {
-  "s": "Moonshot AI released Kimi K3.1 Pro, a large AI model with 2.8 trillion parameters and 1 million token context. This matters because it scores high on benchmark tests and offers faster inference, but also raises concerns about its cyber-related training data."
- },
  "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": {
   "s": "NASA and commercial partners are accelerating the development of landers for future missions to the Moon in 2028. This matters because it ensures the agency can return astronauts to the lunar surface and establish a long-term presence, fulfilling President Trump's policy and preparing for the Artemis missions."
  },
@@ -259,13 +249,6 @@
  },
  "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/": {
   "s": "This Rosetta spacecraft took a selfie on October 7th, 2014, from 472 million kilometers away from Earth, near a comet's surface. The image shows the comet's nucleus and a bright solar array in the background, highlighting the spacecraft's distance and proximity to the comet."
- },
- "https://www.marktechpost.com/2026/10/23/nvidia-nemotron-3-5-bolt-e4b-4gb/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/": {
-  "s": "Kyutai released CADRE, a family of autoencoders for interactive world models. These autoencoders cut world model lag below 230 ms, enabling faster and more responsive simulations. Researchers chose a compression method that balances cost per frame and action delay, matching human perception thresholds for lag."
  },
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
@@ -347,10 +330,6 @@
  "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression": {
   "s": "Squids have an unmatched ability to change the genetic expression of their proteins, altering their activity, stability, and interactions with other proteins. This ability, detailed in a study published in Cell, suggests squids can generate proteins with different properties without changing their DNA, providing insights into how they adapt to their environment."
  },
- "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore's government team up to create a smart AI model that can spot scams in private chats. This model operates locally on devices, without sending any data to the cloud, making it secure and efficient."
  },
@@ -368,10 +347,23 @@
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for dexterous physical work. This innovation matters as it addresses the complex tradeoffs in hand design, aiming for dexterity, strength, and ruggedness, crucial for humanoid robots performing real tasks."
+ "https://www.nature.com/articles/s41467-026-78639-x": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  },
- "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
-  "s": "Boston Dynamics has joined the DoW SkillBridge program, which assists military veterans in finding civilian jobs through on-the-job training. This move shows the company's commitment to supporting military personnel after their service."
+ "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
+  "s": "Introducing Kimi K3.1 Pro, a new model available on the Kimi API. Moonshot promises to release full model weights by November 2026, currently offering a \"Highspeed\" version at twice the price. This model is benchmarked as approximately at par with Claude Opus 5.5 and GPT-6 Astra, with some advantages on certain tasks."
+ },
+ "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/": {
+  "s": "Microsoft Research released Agensh, a multi-agent system that allows 1,024 agents to work together without a central coordinator. This matters because it addresses the limitations of current orchestrator designs by enabling self-organizing teams to manage their own tasks and communicate, scaling up to a large number of agents."
+ },
+ "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/": {
+  "s": "Cognition released a plugin named Devin Vulnerability Fixes, which includes three agent skills that detect and repair vulnerabilities in PHP, Node.js, and GitLab systems affected by recent critical remote code execution flaws. This release matters as it provides automated solutions to secure these systems, addressing major security risks identified by the software vendors."
+ },
+ "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/": {
+  "s": "The guide explains how to run the Saluki 27B model, comparing it with another model. It details steps like setting up the environment, downloading necessary files, and running the model. This matters as it provides a step-by-step process for researchers to experiment with and compare different AI models, aiding in model optimization and development."
+ },
+ "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash": {
+  "s": "MiniMax released a new image-to-text model named MiniMax-M3.1-Flash on Hugging Face. This model is significant as it supports text, image, and video inputs, improving both performance and efficiency with advanced techniques like sparse attention and quantization-aware training."
  }
 }
