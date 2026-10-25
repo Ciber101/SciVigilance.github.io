@@ -61,7 +61,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -78,13 +78,13 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
-     "id": "2110846112152105136",
-     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
-     "date": "2026-10-15T21:31:45.000Z",
-     "quoted": true,
+     "id": "2111152183240511640",
+     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
+     "date": "2026-10-16T17:47:58.000Z",
+     "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/AnthropicAI/status/2110846112152105136"
+     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
     }
    ]
   },
@@ -272,7 +272,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -290,7 +290,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -430,7 +430,7 @@
    "posts": [
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -439,7 +439,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -448,7 +448,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -457,7 +457,7 @@
     },
     {
      "id": "2110779754274292212",
-     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token context window\n→ Natively multimodal across text, image, video, audio",
+     "text": "Today we’re releasing Muse Spark Open, the most capable US open-weight model to date.\n\nBuilt for coding and agentic work, it excels at long-horizon tasks, complex software engineering, and multi-step reasoning.\n\nKey Model Specs:\n→ 816B total / 42B active parameters\n→ 1M token",
      "date": "2026-10-15T17:08:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUr8TsmbIAAT-m3.jpg",
@@ -501,7 +501,7 @@
     },
     {
      "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
+     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.\n\nTogether, we’re building the capacity to put more NVIDIA infrastructure in the hands of businesses and developers.\n\nRead more:",
      "date": "2026-10-21T14:54:03.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
@@ -720,7 +720,7 @@
     },
     {
      "id": "2105659276425298012",
-     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI",
+     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work:",
      "date": "2026-10-01T14:01:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
@@ -912,7 +912,7 @@
     },
     {
      "id": "2113737225976377732",
-     "text": "Now that’s a lineup. 💚\n\nA spotlight on a few of our robotics and automotive partners from Europe and around the world as we celebrate the entire ecosystem bringing physical AI to life.\n\nTo all our partners, thanks for building with us and making moments like this possible.",
+     "text": "Now that’s a lineup. 💚\n\nA spotlight on a few of our robotics and automotive partners from Europe and around the world as we celebrate the entire ecosystem bringing physical AI to life.\n\nTo all our partners, thanks for building with us and making moments like this possible. #NVIDIAGTC",
      "date": "2026-10-23T21:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVV6AlWaMAARBs3.jpg",
@@ -921,7 +921,7 @@
     },
     {
      "id": "2113695795891314710",
-     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train",
+     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train policies in NVIDIA Isaac Lab, and validate them in Isaac Sim on @NVIDIARTXSpark.",
      "date": "2026-10-23T18:15:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113695460812533760/img/phMw7BM0WE8w6COl.jpg",
@@ -930,7 +930,7 @@
     },
     {
      "id": "2113407332747293131",
-     "text": "We’re excited to announce the official release of NVIDIA Isaac Lab 3.0. 🎉\n\nIsaac Lab 3.0 brings a new modular and lightweight architecture along with major new capabilities across the robot learning workflow: multi-physics and multi-rendering support, training at scale, and",
+     "text": "We’re excited to announce the official release of NVIDIA Isaac Lab 3.0. 🎉\n\nIsaac Lab 3.0 brings a new modular and lightweight architecture along with major new capabilities across the robot learning workflow: multi-physics and multi-rendering support, training at scale, and streamlined deployment on real hardware.\n\nWith Newton integration, the new OVRTX renderer, RL post-training, and LEAPP deployment, there’s a lot to explore.\n\nHere’s a look at what’s new 🧵\n\n(1/7)",
      "date": "2026-10-22T23:09:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113406445874245632/img/m2sVj3rIi7U4P9yD.jpg",
@@ -971,15 +971,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/elonmusk/status/2114065201939034225"
-    },
-    {
-     "id": "2114003587156086798",
-     "text": "Another 27 Starlink satellites",
-     "date": "2026-10-24T14:38:26.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/elonmusk/status/2114003587156086798"
     }
    ]
   },
@@ -1034,6 +1025,15 @@
    "avatar": "img/x-nasa.jpg",
    "posts": [
     {
+     "id": "2114484649430798432",
+     "text": "Have you put up your Halloween decor? The night sky will add the finishing touch. 🌕\n \nOctober’s full moon, named the Hunter’s Moon, will rise on the night of Oct. 26. Its name comes from the seasonal practice of hunters relying on bright moonlight.",
+     "date": "2026-10-25T22:30:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVbziVaWQAAxGi1.jpg",
+     "video": null,
+     "url": "https://x.com/NASA/status/2114484649430798432"
+    },
+    {
      "id": "2113776971603689874",
      "text": "We are not slowing down. 🚀\n\nOur Artemis III mission will send four astronauts to low Earth orbit next year to test critical systems needed for future lunar landings and we’re accelerating efforts to ensure the success of Artemis IV, the first Artemis",
      "date": "2026-10-23T23:37:56.000Z",
@@ -1059,15 +1059,6 @@
      "image": "https://pbs.twimg.com/media/HVU2SLKW0AA7q0a.jpg",
      "video": null,
      "url": "https://x.com/NASA/status/2113655288687431819"
-    },
-    {
-     "id": "2112604875452223824",
-     "text": "LIVE: Get a preview of two upcoming spacewalks set for Oct. 29 and Nov. 5. @astro_anil and CSA (Canadian Space Agency) astronaut Joshua Kutryk will use both spacewalks to finish installing solar arrays.",
-     "date": "2026-10-20T18:00:27.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NASA/status/2112604875452223824"
     }
    ]
   },
@@ -1551,15 +1542,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
-    },
-    {
-     "id": "2110344436643230019",
-     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
-     "date": "2026-10-14T12:18:16.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
-     "video": null,
-     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }
