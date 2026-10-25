@@ -56,9 +56,6 @@
  "https://x.ai/news/incident-sweep": {
   "s": "IncidentWatch monitors support queues for sudden increases in similar tickets, alerting the team when it detects an incident. IncidentSweep then closes those affected tickets in a batch, reducing the workload for support engineers. This approach helps manage customer wait times and ensures consistent responses during incidents."
  },
- "https://www.therobotreport.com/reservoir-launches-new-agricultural-robotics-incubator-for-washington-growers/": {
-  "s": "Reservoir launched a new agricultural robotics incubator in Washington to assist growers facing labor shortages and high costs. The initiative aims to integrate startups with researchers and growers in fruit, wine grape, and berry fields. This move addresses automation challenges in hard-to-automate crops, helping to reduce labor costs and improve efficiency."
- },
  "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
   "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
  },
@@ -210,10 +207,6 @@
  "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/": {
   "s": "Generative Bionics plans to launch a Physical AI Data Factory in Italy, aiming to generate data for humanoid robots in Europe, thus advancing sovereignty in robotics. This hub will help move robotics from labs to industrial use, providing high-fidelity data and training models for European industry."
  },
- "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-15-b1063-ocisly": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": {
   "s": "NASA and commercial partners are accelerating the development of landers for future missions to the Moon in 2028. This matters because it ensures the agency can return astronauts to the lunar surface and establish a long-term presence, fulfilling President Trump's policy and preparing for the Artemis missions."
  },
@@ -247,38 +240,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/10/24/stateful-engineering-copilots-letta-tutorial/": {
-  "s": "The organization developed a stateful engineering copilot named Letta to extend memory beyond basic prompts. This tool is significant as it allows for more complex interactions and memory management, facilitating advanced collaborative and memory-enhanced tasks."
- },
- "https://phys.org/news/2026-10-seabird-family-tree-species-accumulate.html": {
-  "s": "What happened: Researchers found that mapping the evolutionary relatives of seabirds offers better clues than their diets or feeding methods for predicting which species tend to accumulate plastic in their digestive systems. Why it matters: This finding suggests that evolutionary relationships among seabirds are a stronger predictor of plastic accumulation than their diet or feeding habits, highlighting the importance of considering evolutionary history in conservation efforts targeting plastic pollution in marine environments."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023732.htm": {
-  "s": "A small device that gently stimulates nerves in the ear through the tragus could be a new way to treat stubborn high blood pressure. Although the device did not significantly lower blood pressure overall, it showed promise in patients with severe hypertension, suggesting it might help certain people whose blood pressure remains elevated despite medication."
- },
- "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/": {
-  "s": "Anthropic’s sandbox-runtime restricts file and network access for AI agents, MCP servers and CLI tools by wrapping them in OS-level restrictions. This tool works on macOS, Linux and Windows, isolating traffic through HTTP and SOCKS5 proxies. It matters because it reduces permission prompts by 84% in internal Claude Code usage, addressing developer fatigue by setting a fixed boundary."
- },
  "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything": {
   "s": "The fourth season of Star Trek: Strange New Worlds featured numerous gimmicks, blending \"Trek\" elements into various genres and frequently adapting classic films from those genres. This approach was criticized for not delivering substantive Star Trek content."
  },
  "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion": {
   "s": "AI companies recognize they are dependent on each other, and fear facing severe reputational and legal issues if they do not self-regulate. Therefore, they seek to prevent a catastrophic situation."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023738.htm": {
-  "s": "A study published in Science Advances challenges 70 years of scientific understanding of word meaning. Researchers at the University of Vermont discovered that meaning in language is organized around power, danger, and order rather than emotional valence. This hidden bias could transform fields including psychology, linguistics, and artificial intelligence, as traditional models overlook important dimensions of meaning."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023734.htm": {
-  "s": "Tiny samples from asteroid Bennu collected by NASA are revealing that the asteroid was formed by mixing material from both the inner and outer Solar System, challenging previous theories. This new evidence suggests Jupiter played a significant role in the formation of Bennu and other ancient objects."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023726.htm": {
-  "s": "Scientists have proposed a method to detect \"mirror life,\" hypothetical life forms with reversed molecular structures. This detection could be crucial as mirror life, if created, could pose significant risks to Earth's ecosystems and existing life forms."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023723.htm": {
-  "s": "Astronomers found a complex web of magnetic threads above the Sun's surface, even in regions that appear calm. This discovery offers new insights into how energy moves through the Sun's atmosphere, contributing to its heating."
- },
- "https://www.sciencedaily.com/releases/2026/10/261023023718.htm": {
-  "s": "Tiny snakes in Southeast Asia have discovered a unique way to escape by rapidly rolling across the ground, moving four times faster than their usual slithering. This discovery, made by scientists, reveals how these small reptiles coordinate their movements with remarkable precision, facing forward and maintaining a steady height, even as their rear halves rotate rapidly."
  },
  "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
   "s": "Eka Robotics raised $150 million to scale its VFA model, which learns physics through reinforcement learning. This model aims to make robots versatile and capable of handling various tasks and conditions, unlike current models that often require specific training for each task."
@@ -303,20 +269,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore's government team up to create a smart AI model that can spot scams in private chats. This model operates locally on devices, without sending any data to the cloud, making it secure and efficient."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated its superior physical reasoning and control capabilities in a robotics challenge, outperforming other models on a benchmark. This advance could accelerate the development of physical AI, enabling robots to learn and perform tasks without extensive training."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
@@ -338,10 +290,6 @@
  "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
   "s": "Vincent van Gogh painted \"The Starry Night\" in summer 1889. Researchers now claim to have identified the specific night sky the painting depicts, July 22, 1889, just before dawn over France. This suggests the painting was based on real observations, not just van Gogh's imagination, challenging the long-held belief that it was an artistic interpretation."
  },
- "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://phys.org/news/2026-10-sea-cucumberinspired-gel-tissue-humans.html": {
   "s": "Inspired by sea cucumbers, researchers developed a gel that can change stiffness, potentially aiding in soft tissue repair. Unlike materials that leave permanent material behind, the gel supports tissue growth as it breaks down. Its adaptable properties could help in various body tissues. After extensive research, preliminary tests showed the gel promoted better healing compared to traditional stitching methods in rats."
  },
@@ -351,9 +299,6 @@
  "https://www.livescience.com/space/astronomy/cosmic-seagull-locks-eyes-with-the-vera-c-rubin-observatory-in-long-awaited-test-image-space-photo-of-the-week": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.sciencealert.com/too-much-rna-can-actually-starve-cells-of-energy-study-finds": {
-  "s": "Too much RNA can interfere with mitochondria, limiting their energy production. This discovery offers new insights into age-related diseases and therapies targeting RNA."
  },
  "https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/": {
   "s": "A simulated universe map shows dark matter as a pervasive force, forming complex web-like structures. This matter's gravity influences the distribution of visible matter and the fast rotation of galaxies."
@@ -368,8 +313,55 @@
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+ "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html": {
+  "s": "Researchers found the first stenciled rock art in southern Africa, hidden in a shelter that is unusually large and well-preserved. This discovery is significant because stenciling is rare globally, making this find particularly noteworthy."
+ },
+ "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/": {
+  "s": "Anthropic has released OSS Scanner, a free tool that uses AI models to detect vulnerabilities in open-source projects. This matters as it offers a systematic way to identify and address security flaws in widely-used open-source software, potentially improving overall system security."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024222000.htm": {
+  "s": "Astronomers found three black holes actively consuming matter in a galaxy dating back 12.5 billion years. This discovery offers insight into how giant black holes formed and interacted early in the universe's history."
+ },
+ "https://www.sciencealert.com/the-worlds-first-corporate-psychopath-may-have-just-been-identified": {
+  "s": "People with dark impulses can rise to power in corporations, according to research. A merchant shipwrecked in 1629 off Australia shows historical precedent for corporate psychopathy."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024221956.htm": {
+  "s": "The study suggests that spinosaurus, an ancient predatory dinosaur, spent most of its life underwater. This finding matters because it challenges the conventional view of dinosaurs as exclusively terrestrial animals, revealing new insights into the evolutionary flexibility of life forms."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024221849.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024222026.htm": {
+  "s": "A study found that older adults with a specific genetic profile who took low-dose aspirin had a significantly lower risk of developing dementia. However, taking aspirin also increased the risk of major bleeding. Researchers believe genetic testing could help identify people who might benefit from preventive treatments, but the potential benefits need to be balanced against the risk of serious side effects."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024222021.htm": {
+  "s": "For nearly a century, people in various parts of the world have reported seeing tiny, colorful human figures after eating certain wild mushrooms. Now, a study identifies Lanmaoa asiatica as the mushroom responsible for these hallucinations in Southwest China and the northern Philippines."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261023023736.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+  "s": "Using thousands of AI agents, researchers identified promising biological connections in data from millions of brain cells. The work shows how AI can help scientists explore complex data from modern experiments, connecting experimental findings with scientific literature to uncover new research leads."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
+  "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
  }
 }
