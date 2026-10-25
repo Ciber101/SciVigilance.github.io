@@ -256,13 +256,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-ray-pulse-reveals-plasma-nanostructures.html": {
-  "s": "Understanding instabilities and turbulence in plasmas is crucial for fields like nuclear fusion, astrophysics, and laser-plasma physics. Structures in plasmas can vary greatly in size, from very small to large, and these variations can significantly affect plasma behavior. However, capturing these structures across different scales in a single measurement is challenging due to the rapid growth of instabilities and turbulence. The recent achievement by researchers using an X-ray pulse and a single camera allows for the simultaneous measurement of structures from 10 nm to 500 nm, offering a new way to study plasma dynamics."
- },
- "https://phys.org/news/2026-10-reveal-titanium-additions-fully-pitting.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
@@ -280,9 +273,6 @@
  },
  "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
   "s": "Vincent van Gogh painted \"The Starry Night\" in summer 1889. Researchers now claim to have identified the specific night sky the painting depicts, July 22, 1889, just before dawn over France. This suggests the painting was based on real observations, not just van Gogh's imagination, challenging the long-held belief that it was an artistic interpretation."
- },
- "https://phys.org/news/2026-10-sea-cucumberinspired-gel-tissue-humans.html": {
-  "s": "Inspired by sea cucumbers, researchers developed a gel that can change stiffness, potentially aiding in soft tissue repair. Unlike materials that leave permanent material behind, the gel supports tissue growth as it breaks down. Its adaptable properties could help in various body tissues. After extensive research, preliminary tests showed the gel promoted better healing compared to traditional stitching methods in rats."
  },
  "https://www.space.com/stargazing/octobers-hunters-moon-stalks-into-the-autumn-sky-tonight-heres-what-you-need-to-know": {
   "s": "The Hunter's Moon rises on October 25, marking the full moon of October. Named this way, it signifies the time when hunters prepare for winter by hunting more animals."
@@ -307,9 +297,6 @@
  "https://www.space.com/space-exploration/on-this-day-in-space-oct-25-1671-astronomer-giovanni-cassini-discovers-iapetus-saturns-yin-yang-moon": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html": {
-  "s": "Researchers found the first stenciled rock art in southern Africa, hidden in a shelter that is unusually large and well-preserved. This discovery is significant because stenciling is rare globally, making this find particularly noteworthy."
  },
  "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/": {
   "s": "Anthropic has released OSS Scanner, a free tool that uses AI models to detect vulnerabilities in open-source projects. This matters as it offers a systematic way to identify and address security flaws in widely-used open-source software, potentially improving overall system security."
@@ -338,18 +325,11 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
   "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
  },
  "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html": {
   "s": "A team at HZB has discovered polar vortices in superlattices of barium and strontium titanates on silicon. This finding broadens the use of materials and substrates for creating complex ferroelectric states, which could lead to new silicon-based technologies. Prior to this discovery, polar textures were mainly found in lead-containing superlattices, limiting their application. Replacing lead and depositing layers on silicon could enable the use of these textures in semiconductor technologies."
- },
- "https://www.sciencealert.com/scientists-found-a-barrel-shaped-squid-like-creature-from-the-jurassic-one-of-the-chunkiest": {
-  "s": "Scientists discovered a new Jurassic squid-like creature, named Wyoteuthis linsterorum, from fossils in Wyoming. This creature is unique because its internal shell, called the guard, is exceptionally thick, unlike any other belemnite species found so far."
  },
  "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/": {
   "s": "Hugging Face released Carbon-X, a 14.8B DNA language model that integrates DNA and text. This model averages 66.7% across DNA benchmarks, using a hybrid tokenizer that combines text and DNA tokens. Why it matters: it marks the first time DNA and natural language are combined, offering potential applications in genetic research and diagnostics."
@@ -367,5 +347,34 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch robots to ensure they work reliably in dynamic environments like warehouses. She simulates years of wear and tear in the lab by using faster and more aggressive forces than a robot would experience in real-world use, to find potential issues early. This testing translates to designing robots that can handle the expected number of moves in their lifetime, as estimated from real-world customer sites."
+ },
+ "https://www.sciencealert.com/scientists-discovered-an-amazing-practical-use-for-the-worlds-leftover-coffee-grounds": {
+  "s": "Scientists discovered coffee grounds, usually discarded, can make concrete stronger. With global construction needing more concrete, this discovery helps reduce the need for sand, a scarce resource."
+ },
+ "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html": {
+  "s": "A new study proposes a method to read quantum information from a qubit without destroying it. Unlike conventional bits, quantum bits cannot be read repeatedly without altering their state. The study introduces an Andreev qubit that produces a supercurrent, a macroscopic indicator of the qubit's state. This supercurrent could enable the reconstruction of the qubit's information in a nondestructive manner, potentially eliminating the need for ancillas."
+ },
+ "https://phys.org/news/2026-10-crows-decisions-fast-humans-monkeys.html": {
+  "s": "Crows, when faced with a visual choice, make decisions twice as fast as humans and monkeys, averaging just 235 milliseconds. This speed is due to neural activity in the crow's brain that begins to diverge for different motion directions before the bird can make its response."
+ },
+ "https://phys.org/news/2026-10-monarchs-cellphone.html": {
+  "s": "Monarch butterflies now use radio-pulse tags that weigh less than half a gram to send their locations back to researchers via Bluetooth technology. This allows scientists to track the butterflies' migratory paths and speeds more accurately than ever before."
+ },
+ "https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html": {
+  "s": "Whether a community is prioritized for public support depends on how its needs are measured, according to a study from the University of New Hampshire. The research found significant differences in how government tools identify disadvantaged communities, particularly in rural areas. Rural areas, where resources tend to be more limited, were often overlooked by these tools, potentially affecting access to funding."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create an AI model that detects scams in private chats without sharing data with the cloud. This matters because scams, especially sophisticated ones that use social engineering, have become a major threat, leading to significant financial losses. The new model, fine-tuned on lightweight Gemma models, can process conversations locally, making it more effective against local deception tactics and protecting privacy."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated advanced physical reasoning by outperforming other models on a benchmark, solving complex tasks like a Boston Dynamics robot without explicit training. This breakthrough could accelerate development of physical AGI, enabling robots to learn new skills autonomously."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
