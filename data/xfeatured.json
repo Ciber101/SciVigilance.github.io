@@ -61,7 +61,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -78,13 +78,13 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
-     "id": "2111152183240511640",
-     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
-     "date": "2026-10-16T17:47:58.000Z",
-     "quoted": false,
+     "id": "2110846112152105136",
+     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
+     "date": "2026-10-15T21:31:45.000Z",
+     "quoted": true,
      "image": null,
      "video": null,
-     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
+     "url": "https://x.com/AnthropicAI/status/2110846112152105136"
     }
    ]
   },
@@ -237,7 +237,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -252,6 +252,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
+    },
+    {
+     "id": "2105348732464070823",
+     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
+     "date": "2026-09-30T17:27:07.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2105348732464070823"
     }
    ]
   },
@@ -298,7 +307,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +316,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -376,6 +385,15 @@
      "url": "https://x.com/MistralAI/status/2112870261829603589"
     },
     {
+     "id": "2112574627381936345",
+     "text": "Voxtral 3 also introduces a voice agent SDK, built on LiveKit. \n\nTranscribe listens, a reasoning model thinks and calls tools, and Speech replies, streamed as one pipeline for natural, intelligent conversation.",
+     "date": "2026-10-20T16:00:15.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/MistralAI/status/2112574627381936345"
+    },
+    {
      "id": "2112574615318876178",
      "text": "Introducing Voxtral 3: state-of-the-art Transcribe and Speech models powering Mistral’s new voice agents API. 🧵",
      "date": "2026-10-20T16:00:12.000Z",
@@ -392,15 +410,6 @@
      "image": "https://pbs.twimg.com/media/HUv6fJaXIAAGSef.jpg",
      "video": null,
      "url": "https://x.com/MistralAI/status/2111056939841163336"
-    },
-    {
-     "id": "2110377713525796942",
-     "text": "Welcome to Mistral, New Material. Let’s bring design to mission-critical AI.",
-     "date": "2026-10-14T14:30:30.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/MistralAI/status/2110377713525796942"
     }
    ]
   },
@@ -455,6 +464,15 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
+     "id": "2114377680715980950",
+     "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
+     "date": "2026-10-25T15:24:56.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVfHS85XkAA6wvW.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114377565158662144/vid/avc1/1280x720/Y0QkPlLGU3q2nzuP.mp4?tag=16",
+     "url": "https://x.com/nvidia/status/2114377680715980950"
+    },
+    {
      "id": "2113757030754443437",
      "text": "A new look for a classic. 💚\n\nRTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on @NVIDIAGeForce and @NVIDIARTXSpark.",
      "date": "2026-10-23T22:18:42.000Z",
@@ -480,15 +498,6 @@
      "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
      "video": null,
      "url": "https://x.com/nvidia/status/2112920354230296993"
-    },
-    {
-     "id": "2112850890642383262",
-     "text": "This is the magic behind the agents.",
-     "date": "2026-10-21T10:18:01.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112850745636663297/img/47v3ljPksG-IZfaI.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112850745636663297/vid/avc1/3840x2160/90YEyT7mIstxt1XK.mp4",
-     "url": "https://x.com/nvidia/status/2112850890642383262"
     }
    ]
   },
@@ -728,7 +737,7 @@
     },
     {
      "id": "2113396938368536825",
-     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26 #Agility #MadeForWork",
+     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26",
      "date": "2026-10-22T22:27:49.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVRLT9TbQAAVBAD.jpg",
@@ -789,7 +798,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -807,7 +816,7 @@
     },
     {
      "id": "2106350586232991745",
-     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH #HumanoidRobot #DigitalTwin #SmartManufacturing #AI",
+     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH",
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
@@ -1219,7 +1228,7 @@
    "posts": [
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -1228,7 +1237,7 @@
     },
     {
      "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support the study of Mars’ moons and their origins.\n\nLearn more about P-Sampler:",
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
@@ -1237,7 +1246,7 @@
     },
     {
      "id": "2108615012730167401",
-     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations",
+     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations with our flight-like offloader: the complete offload sequence, nominal and off-nominal, ran end-to-end across the full range of lander tilt angles, with joint mission operations and NASA commanding the rover remotely. Stay tuned for images of our flight offloader, which is being fabricated now!",
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
@@ -1246,7 +1255,7 @@
     },
     {
      "id": "2105031277321826515",
-     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload",
+     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload capacity and flexibility as we expand the New Glenn fleet 🚀\n\nTwo paths to orbit. More flexibility for NASA.",
      "date": "2026-09-29T20:25:40.000Z",
      "quoted": true,
      "image": null,
@@ -1351,7 +1360,7 @@
    "posts": [
     {
      "id": "2113676900883218684",
-     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the",
+     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the spacecraft and Ariane 6. It keeps the spacecraft securely attached during launch and enables its separation once the intended orbit has been reached.\n\nDuring the fit check, teams verify that the spacecraft and its adapter match perfectly, which is a key step before moving forward with the launch campaign.\n\nOnce these checks are complete, the spacecraft can move on to the next stage of its preparation for launch.\n\n#LaunchingAmbitions",
      "date": "2026-10-23T17:00:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVVJ31CWcAAr-2K.jpg",
@@ -1360,7 +1369,7 @@
     },
     {
      "id": "2113314438816170244",
-     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through",
+     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through the inner Solar System to reach Mercury.\n\nA few minutes with Ariane 5 were the first step in a journey lasting billions of kilometres.\n\nFrom launch to separation, every minute was about putting BepiColombo on the right path for what came next.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-22T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVQARrrXYAAF3pm.jpg",
@@ -1378,7 +1387,7 @@
     },
     {
      "id": "2112589662518681977",
-     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled",
+     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled billions of kilometres, using planetary flybys to gradually adjust its trajectory towards the closest planet to the Sun.\n\nEight years after launch, the journey that began in Kourou is entering its final chapter, bringing BepiColombo closer to the world it was built to explore.\n\nA journey that started with Ariane 5, and continues to push our understanding of Mercury further.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-20T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVFtE3gW4AACRTG.jpg",
@@ -1395,7 +1404,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1404,7 +1413,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1413,7 +1422,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1422,7 +1431,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1533,6 +1542,15 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
+    },
+    {
+     "id": "2110344436643230019",
+     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
+     "date": "2026-10-14T12:18:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
+     "video": null,
+     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }

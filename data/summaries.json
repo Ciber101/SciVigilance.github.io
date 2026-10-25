@@ -249,14 +249,8 @@
  "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
   "s": "Eka Robotics raised $150 million to scale its VFA model, which learns physics through reinforcement learning. This model aims to make robots versatile and capable of handling various tasks and conditions, unlike current models that often require specific training for each task."
  },
- "https://phys.org/news/2026-10-positron-cyclotron-key-standard.html": {
-  "s": "The researchers Gerald Gabrielse and colleagues have developed a quantum cyclotron to trap a single positron, aiming to test a key prediction of the Standard Model. The magnetic moment of the positron should be exactly equal and opposite to that of an electron, according to CPT symmetry. If the positron's magnetic moment deviates from the electron's, it could indicate new physics beyond the Standard Model."
- },
  "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-233-the-artemis-generation": {
   "s": "On Episode 233, researchers discuss how more women and people of color are entering the space workforce. This matters as diversifying the space industry can bring new perspectives and innovation."
- },
- "https://phys.org/news/2026-10-newly-protein-pathway-hiv-stay.html": {
-  "s": "A study identified three human proteins—ENL, USP7, and BRD4—that help HIV remain dormant in immune cells and the brain. Understanding these proteins could lead to new strategies to cure HIV, as disrupting them can reactivate latent HIV. This research advances the field by providing a new approach to eliminate hidden HIV reservoirs, a key challenge in curing the disease."
  },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-24-2026": {
   "s": "",
@@ -280,9 +274,6 @@
  },
  "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/": {
   "s": "Cognition released a plugin named Devin Vulnerability Fixes, which includes three agent skills that detect and repair vulnerabilities in PHP, Node.js, and GitLab systems affected by recent critical remote code execution flaws. This release matters as it provides automated solutions to secure these systems, addressing major security risks identified by the software vendors."
- },
- "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/": {
-  "s": "The guide explains how to run the Saluki 27B model, comparing it with another model. It details steps like setting up the environment, downloading necessary files, and running the model. This matters as it provides a step-by-step process for researchers to experiment with and compare different AI models, aiding in model optimization and development."
  },
  "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution": {
   "s": "Lunar meteorites, pieces of the Moon's surface that have been displaced and burned through Earth's atmosphere, offer a unique window into the Moon's earliest formation. They are valuable for scientific study because they come from almost all over the lunar surface, unlike the Apollo samples which were primarily from specific landing sites. This makes lunar meteorites more representative of the Moon's composition, providing a broader understanding of its evolution."
@@ -326,9 +317,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261024222000.htm": {
   "s": "Astronomers found three black holes actively consuming matter in a galaxy dating back 12.5 billion years. This discovery offers insight into how giant black holes formed and interacted early in the universe's history."
  },
- "https://www.sciencealert.com/the-worlds-first-corporate-psychopath-may-have-just-been-identified": {
-  "s": "People with dark impulses can rise to power in corporations, according to research. A merchant shipwrecked in 1629 off Australia shows historical precedent for corporate psychopathy."
- },
  "https://www.sciencedaily.com/releases/2026/10/261024221956.htm": {
   "s": "The study suggests that spinosaurus, an ancient predatory dinosaur, spent most of its life underwater. This finding matters because it challenges the conventional view of dinosaurs as exclusively terrestrial animals, revealing new insights into the evolutionary flexibility of life forms."
  },
@@ -350,18 +338,34 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
-  "s": "Using thousands of AI agents, researchers identified promising biological connections in data from millions of brain cells. The work shows how AI can help scientists explore complex data from modern experiments, connecting experimental findings with scientific literature to uncover new research leads."
- },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
  },
  "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
   "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
+ },
+ "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html": {
+  "s": "A team at HZB has discovered polar vortices in superlattices of barium and strontium titanates on silicon. This finding broadens the use of materials and substrates for creating complex ferroelectric states, which could lead to new silicon-based technologies. Prior to this discovery, polar textures were mainly found in lead-containing superlattices, limiting their application. Replacing lead and depositing layers on silicon could enable the use of these textures in semiconductor technologies."
+ },
+ "https://www.sciencealert.com/scientists-found-a-barrel-shaped-squid-like-creature-from-the-jurassic-one-of-the-chunkiest": {
+  "s": "Scientists discovered a new Jurassic squid-like creature, named Wyoteuthis linsterorum, from fossils in Wyoming. This creature is unique because its internal shell, called the guard, is exceptionally thick, unlike any other belemnite species found so far."
+ },
+ "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/": {
+  "s": "Hugging Face released Carbon-X, a 14.8B DNA language model that integrates DNA and text. This model averages 66.7% across DNA benchmarks, using a hybrid tokenizer that combines text and DNA tokens. Why it matters: it marks the first time DNA and natural language are combined, offering potential applications in genetic research and diagnostics."
+ },
+ "https://phys.org/news/2026-10-seconds-online-learners-track.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, such as climbing stairs and navigating in confined spaces, make it a valuable tool for various safety missions. Spot's public safety kit includes cameras, radios, and an arm for lifting and carrying objects, offering operators a safe and efficient way to search and rescue."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch robots to ensure they work reliably in dynamic environments like warehouses. She simulates years of wear and tear in the lab by using faster and more aggressive forces than a robot would experience in real-world use, to find potential issues early. This testing translates to designing robots that can handle the expected number of moves in their lifetime, as estimated from real-world customer sites."
  }
 }
