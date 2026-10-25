@@ -168,9 +168,6 @@
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
- "https://www.universetoday.com/articles/jwst-reveals-a-lopsided-alien-world-with-blistering-evening-winds": {
-  "s": "The JWST observed WASP-17 b, an exoplanet previously known, revealing it is not a perfect sphere but lopsided. This matters because traditional methods of studying exoplanet atmospheres treat them as uniform, ignoring differences between sides. New techniques can now analyze the atmosphere's thickness and chemistry at different parts of the planet, providing more detailed information."
- },
  "https://www.sciencenews.org/article/asthma-symptoms-electric-stove-gas": {
   "s": "Switching from a gas stove to an electric one can help people with asthma breathe easier. Exposure to pollutants from gas stoves, including nitrogen dioxide, can trigger asthma symptoms. A study found that after replacing gas stoves with electric ones, people reported significant improvement in asthma symptoms, fewer emergency room visits, and less missed work or school."
  },
@@ -324,12 +321,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.sciencealert.com/uranium-waste-from-this-aussie-mine-was-safely-locked-away-but-microbes-had-other-plans": {
-  "s": "Recent samples from Mount Painter mine's tailings suggest microbes are moving potentially dangerous minerals to the surface, contrary to previous assumptions. This finding raises concerns about the long-term safety of the site, as microbes appear to be converting uranium into forms that can easily travel through the environment."
- },
- "https://www.sciencealert.com/squid-are-even-more-alien-like-than-we-thought-with-an-unmatched-ability-to-change-genetic-expression": {
-  "s": "Squids have an unmatched ability to change the genetic expression of their proteins, altering their activity, stability, and interactions with other proteins. This ability, detailed in a study published in Cell, suggests squids can generate proteins with different properties without changing their DNA, providing insights into how they adapt to their environment."
- },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore's government team up to create a smart AI model that can spot scams in private chats. This model operates locally on devices, without sending any data to the cloud, making it secure and efficient."
  },
@@ -347,10 +338,6 @@
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
- "https://www.nature.com/articles/s41467-026-78639-x": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
   "s": "Introducing Kimi K3.1 Pro, a new model available on the Kimi API. Moonshot promises to release full model weights by November 2026, currently offering a \"Highspeed\" version at twice the price. This model is benchmarked as approximately at par with Claude Opus 5.5 and GPT-6 Astra, with some advantages on certain tasks."
  },
@@ -363,7 +350,27 @@
  "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/": {
   "s": "The guide explains how to run the Saluki 27B model, comparing it with another model. It details steps like setting up the environment, downloading necessary files, and running the model. This matters as it provides a step-by-step process for researchers to experiment with and compare different AI models, aiding in model optimization and development."
  },
- "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash": {
-  "s": "MiniMax released a new image-to-text model named MiniMax-M3.1-Flash on Hugging Face. This model is significant as it supports text, image, and video inputs, improving both performance and efficiency with advanced techniques like sparse attention and quantization-aware training."
+ "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution": {
+  "s": "Lunar meteorites, pieces of the Moon's surface that have been displaced and burned through Earth's atmosphere, offer a unique window into the Moon's earliest formation. They are valuable for scientific study because they come from almost all over the lunar surface, unlike the Apollo samples which were primarily from specific landing sites. This makes lunar meteorites more representative of the Moon's composition, providing a broader understanding of its evolution."
+ },
+ "https://www.sciencealert.com/talking-inside-your-head-changes-your-pupils-in-a-totally-different-way-to-talking-out-loud": {
+  "s": "The study found that pupils dilate more when silently counting than when speaking aloud, suggesting inner speech activates the brain's arousal systems differently than external speech. This discovery reveals a new link between mental activity and physical responses, potentially offering insights into how the brain processes thoughts and emotions."
+ },
+ "https://www.livescience.com/technology/artificial-intelligence/scientists-can-now-watermark-ai-generated-proteins-to-deter-bioweapon-creation-but-will-it-really-work": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/van-gogh-starry-night-real-sky-stars": {
+  "s": "Vincent van Gogh painted \"The Starry Night\" in summer 1889. Researchers now claim to have identified the specific night sky the painting depicts, July 22, 1889, just before dawn over France. This suggests the painting was based on real observations, not just van Gogh's imagination, challenging the long-held belief that it was an artistic interpretation."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for complex tasks and high fidelity simulation. This matters because it addresses the tradeoffs in hand design, enabling dexterous physical work and overcoming limitations of previous hand designs."
+ },
+ "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
+  "s": "Boston Dynamics has joined the DoW SkillBridge program, which assists military veterans in finding civilian jobs through hands-on training. This partnership matters as it provides opportunities for military personnel to enter the workforce, potentially offering skills and experience not typically found in civilian roles."
+ },
+ "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
