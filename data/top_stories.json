@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T07:44:01-07:00",
- "updated_pt": "Oct 25, 2026, 7:44 AM PT",
+ "updated": "2026-10-25T19:38:41-07:00",
+ "updated_pt": "Oct 25, 2026, 7:38 PM PT",
  "stories": [
   {
    "title": "Astronomers may have found the first moon beyond our Solar System: a Jupiter-mass body circling a brown dwarf",
@@ -80,25 +80,24 @@
    ]
   },
   {
-   "title": "NASA lays out its Artemis III plan: four astronauts will test docking with Blue Origin's and SpaceX's moon landers in Earth orbit",
-   "tag": "Space",
-   "date": "2026-10-23",
+   "title": "Hugging Face releases Carbon-X, an open 14.8-billion-parameter model that reads DNA and answers in plain English",
+   "tag": "AI + Biology",
+   "date": "2026-10-25",
    "paragraphs": [
-    "NASA released a detailed plan for its Artemis III mission on Oct. 23, 2026, describing it as one of the most ambitious and complex test missions in the agency's history. According to NASA, Artemis III will launch in 2027 and send NASA astronauts Randy Bresnik, Frank Rubio and Andre Douglas, along with ESA (European Space Agency) astronaut Luca Parmitano, aboard the Orion spacecraft into low Earth orbit. There they will practice rendezvous, docking and other procedures with test versions of the moon landers being built by Blue Origin and SpaceX, ahead of crewed landings near the moon's south pole planned for 2028.",
-    "NASA says the mission will use three spacecraft on three different heavy-lift rockets. Blue Origin will first launch a test version of its Blue Moon Mark 2 lander to an orbit about 273 miles above Earth, and NASA plans to launch Orion on its SLS rocket from Kennedy Space Center days later. Once docked, the crew will spend about two days aboard Blue Moon, opening the hatch and checking the cabin, controls and life-support systems. Speaking at a Kennedy Space Center press conference reported by Space.com, Artemis program manager Jeremy Parsons said the crew will also test emergency scenarios and dual vehicle control.",
-    "After leaving Blue Moon, Orion will dock with a SpaceX Starship Version 3 test vehicle carrying a docking system on its nose, NASA says. That test is expected to last up to two hours, and the crew will not enter Starship. Afterward, NASA says the crew will have up to five more days in orbit for tests of their survival suits, health assessments and science experiments, before splashing down in the Pacific off California. NASA describes the planned mission as 14 days long, and Space.com reports Parsons said it could last as long as 17.",
-    "Space.com reports that it's still unclear which lander will carry astronauts to the moon's surface on Artemis IV. NASA Administrator Jared Isaacman said the agency is keeping both options open, and Parsons said both companies are planning lunar landing missions in 2028. Space.com also notes that NASA is targeting summer 2027 for Artemis III but may struggle to meet it: last month Isaacman told employees in an internal memo that the mission was about 90 days behind schedule, and Parsons said some of the biggest challenges involve the landers' supply chain."
+    "Hugging Face has released Carbon-X, an open language model trained jointly on DNA sequences and ordinary text, according to the model card published by the company's Hugging Face Bio team and a MarkTechPost report dated Oct. 25, 2026. The model card says users can paste raw DNA into a normal chat and get answers in English: Carbon-X predicts whether mutations are benign or pathogenic, identifies regions that control gene activity, classifies sequences by organism group, predicts the next bases of a sequence and explains its reasoning. The weights are released under the Apache 2.0 license, and MarkTechPost reports that Hugging Face built it with Zhongguancun Academy and TIGEM and the University of Naples Federico II.",
+    "Carbon-X has 14.8 billion parameters and starts from Alibaba's Qwen3-14B, the model card says. DNA and text share one token stream in a single decoder, with no separate DNA encoder: a hybrid tokenizer keeps Qwen3's text vocabulary and adds 5,515 DNA tokens, so one DNA token covers six base pairs. Training included 302 billion tokens of mid-training on DNA, biology text, English and instruction data, followed by supervised fine-tuning and reinforcement learning with verifiable rewards on DNA tasks. The context window is 40,960 tokens, and the model fits on a single 80 GB GPU.",
+    "On five DNA benchmarks, Carbon-X averages 66.7 percent with its thinking mode disabled, according to the model card. Hugging Face says that is 27 points above Qwen3-14B, ahead of every other open model it evaluated, and close to OpenAI's GPT-6.1 Sol at 67.5 percent, at about 1/1,800 of the inference cost per problem. The company estimates that analyzing the 2.4 million ClinVar variants of uncertain significance would cost about $300 with Carbon-X, compared with $32,000 to $4 million with the frontier models it tested. MarkTechPost notes these scores are self-reported by Hugging Face.",
+    "MarkTechPost also reports the model's weak spots: it scored 29.8 percent on GenomeQA splice-site questions, and frontier models still did better on complex and single-base variants. The publication notes that Carbon-X is not clinically validated. The model card adds that keeping the weights on a single GPU lets researchers keep sensitive or unpublished sequences on their own computers."
    ],
    "sources": [
     {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
-     "date": "2026-10-23"
+     "name": "Hugging Face: Carbon-X model card",
+     "url": "https://huggingface.co/HuggingFaceBio/Carbon-X"
     },
     {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/artemis/nasa-lays-out-plan-for-artemis-3-moon-lander-test-flight-but-when-will-it-launch",
-     "date": "2026-10-23"
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+     "date": "2026-10-25"
     }
    ]
   },
