@@ -99,9 +99,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://robohub.org/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/": {
-  "s": "Robots showcased at a humanoid robot competition can sprint and box, but handling laundry is a more challenging task. Laundry tasks require robots to handle clothes of various shapes and materials, adapt to unexpected changes, and solve problems that humans do without thinking. This makes laundry a better test for assessing robot intelligence."
- },
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
   "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
  },
@@ -171,9 +168,6 @@
  "https://robohub.org/robot-talk-episode-167-automating-construction-with-jan-petrs/": {
   "s": "Jan Petrš, a roboticist, architect, and entrepreneur, discussed novel robot designs for construction and architecture. His work at EPFL and Déploya Robotics focuses on developing deployable robotic systems for automated façade installation."
  },
- "https://www.universetoday.com/articles/magnetic-field-reversals-and-extinctions-the-correlation-wont-go-away": {
-  "s": "Scientists have observed a correlation between Earth's magnetic pole flips and mass extinctions, but have not yet proven a direct link. Despite efforts, the idea remains persistent, as geomagnetic reversals have occurred throughout Earth's history. Detecting these flips in geological records is challenging, as magnetic minerals in lava and sediments record the pole positions at the time they solidified. The chaotic nature of reversals makes predicting them difficult, and determining their timing and duration is complicated."
- },
  "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria": {
   "s": "Eating sugar while on antibiotics harmed the variety of gut bacteria in cancer patients, reducing their diversity by 24 percent. This combination also increased the growth of Enterococcus bacteria, which can be drug-resistant and linked to harder-to-treat infections."
  },
@@ -222,23 +216,8 @@
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
  },
- "https://www.livescience.com/space/the-moon/you-have-2-superb-chances-to-watch-the-hunters-moon-rise-this-week": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/stargazing/medusas-eye-halloween-fireballs-and-more-5-skywatching-targets-to-look-out-for-this-spooky-season": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.livescience.com/archaeology/why-were-the-nazca-lines-built": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.space.com/entertainment/space-movies-shows/star-trek-strange-new-worlds-season-of-gimmicks-was-afraid-to-say-anything": {
   "s": "The fourth season of Star Trek: Strange New Worlds featured numerous gimmicks, blending \"Trek\" elements into various genres and frequently adapting classic films from those genres. This approach was criticized for not delivering substantive Star Trek content."
- },
- "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion": {
-  "s": "AI companies recognize they are dependent on each other, and fear facing severe reputational and legal issues if they do not self-regulate. Therefore, they seek to prevent a catastrophic situation."
  },
  "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/": {
   "s": "Eka Robotics raised $150 million to scale its VFA model, which learns physics through reinforcement learning. This model aims to make robots versatile and capable of handling various tasks and conditions, unlike current models that often require specific training for each task."
@@ -310,9 +289,6 @@
  "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
   "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
  },
- "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html": {
-  "s": "A team at HZB has discovered polar vortices in superlattices of barium and strontium titanates on silicon. This finding broadens the use of materials and substrates for creating complex ferroelectric states, which could lead to new silicon-based technologies. Prior to this discovery, polar textures were mainly found in lead-containing superlattices, limiting their application. Replacing lead and depositing layers on silicon could enable the use of these textures in semiconductor technologies."
- },
  "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html": {
   "s": "A new study proposes a method to read quantum information from a qubit without destroying it. Unlike conventional bits, quantum bits cannot be read repeatedly without altering their state. The study introduces an Andreev qubit that produces a supercurrent, a macroscopic indicator of the qubit's state. This supercurrent could enable the reconstruction of the qubit's information in a nondestructive manner, potentially eliminating the need for ancillas."
  },
@@ -327,9 +303,6 @@
  },
  "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/": {
   "s": "Nanbeige LLM Lab released Nanbeige4.3-33B, a large 33B dense model with 512K context. Its release strategy is to first build a strong teacher model, then distill agentic skills into smaller models. The model's performance is compared with other models, showing it outperforms in some tasks but loses in others. The model uses a standard LlamaForCausalLM architecture and has controls for reasoning and multi-turn chat."
- },
- "https://www.sciencealert.com/world-first-cancer-vaccine-cuts-melanoma-recurrence-or-death-risk-by-42-in-landmark-trial": {
-  "s": "The world's first cancer vaccine specifically for melanoma has shown success, reducing the risk of recurrence or death by 42 percent compared to standard immunotherapy. This breakthrough marks a significant shift in cancer treatment, as it uses the immune system in a more personalized way."
  },
  "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html": {
   "s": "",
@@ -359,10 +332,6 @@
  "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/": {
   "s": "Tsinghua researchers released AKV, a serving system for cache engineering. It allows LLM agents to drop and reposition KV cache entries, reducing cost by 27.7% across 4 benchmarks. The system is stateless and open-compatible, unlike traditional summarization methods that lose details."
  },
- "https://openai.com/index/terminal-x": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats without sending data to the cloud. This model is fine-tuned on local scam conversations to distinguish between genuine manipulation and harmless social chatter, ensuring faster detection and quicker action by users."
  },
@@ -376,5 +345,32 @@
  "https://deepmind.google/blog/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.livescience.com/archaeology/americas/rare-burial-of-elite-toddler-from-pre-inca-culture-discovered-in-peru": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/testosterone-may-have-an-unexpected-benefit-for-womens-bones-after-menopause": {
+  "s": "Testosterone, previously thought to be only for men, was found to protect bone density in postmenopausal women, potentially offering a new treatment option. The findings suggest testosterone might complement estrogen in maintaining bone health, a discovery that could lead to safer and more effective treatments for older women."
+ },
+ "https://phys.org/news/2026-10-fast-arecibo-dark-galaxy-vast.html": {
+  "s": "Astronomers have identified a mysterious object, AGC 322753, containing a vast amount of hydrogen but no detectable starlight. This suggests it might be a dark galaxy, a system with very few or no stars, where the hydrogen is too cold to emit detectable starlight. Its radio signal and images indicate it could be rotating in a disk, yet without visible stars, the nature and origin of this object remain a puzzle."
+ },
+ "https://www.space.com/space-exploration/more-missions-more-often-nasa-is-overhauling-how-it-selects-science-missions": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/archaeology/mold-gold-cape-a-3-900-year-old-accessory-thats-one-of-the-finest-examples-of-prehistoric-goldwork-ever-found": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nature.com/articles/s41467-026-78482-0": {
+  "s": "The study found that rats' intermediate hippocampus integrates spatial information with observations of distress, linking the context of witnessing shock with their own spatial representation. This discovery helps explain how animals learn to avoid danger by observing others, potentially reducing the need for direct experience."
+ },
+ "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows": {
+  "s": "People found to use AI assistance in solving problems were more likely to stop trying when the AI was taken away, compared with those who did not use AI. This suggests AI can reduce motivation by making people rely on external help."
+ },
+ "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
+  "s": "A robotic hand capable of walking has been developed, showcasing progress in anthropomorphic robotics. This development matters as it advances the field from specialized industrial machines to more versatile and adaptable systems. Meanwhile, the global robotics market is growing, with China leading in installations, and the United States catching up. Toyota estimates a potential investment of $6.4 billion annually in robot modernization, indicating the increasing importance of robotics in manufacturing."
  }
 }

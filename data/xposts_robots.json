@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:22:52.289009+00:00",
+ "updated": "2026-10-26T11:22:42.854745+00:00",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -100,6 +100,15 @@
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
     {
+     "id": "2114673401235181690",
+     "text": "GXO announces an expanded partnership with Agility. Digit is headed to @GXOLogistics sites in Statesville, NC, and Lebanon, TN, with deployments expected to begin in early 2027 — building on more than 100,000 totes moved at Flowery Branch, GA.\n\n#Agility",
+     "date": "2026-10-26T11:00:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVhmPyIaEAAFPgr.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2114673401235181690"
+    },
+    {
      "id": "2113714577498116466",
      "text": "Digit carries its safety envelope on board. It operates independently of connectivity — so no network condition, remote command, or external access can override what its safety system knows it must not do.\n\nOur CTO Pras Velagapudi on one of the most important design decisions",
      "date": "2026-10-23T19:30:00.000Z",
@@ -116,15 +125,6 @@
      "image": "https://pbs.twimg.com/media/HVVXP68aoAABytj.jpg",
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2113691564094755034"
-    },
-    {
-     "id": "2113396938368536825",
-     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26",
-     "date": "2026-10-22T22:27:49.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVRLT9TbQAAVBAD.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2113396938368536825"
     }
    ]
   },
@@ -169,7 +169,7 @@
     },
     {
      "id": "2101996861259395234",
-     "text": "Unitree Introducing: Unitree Dex5-S Dexterous Hand 22 Degrees of Freedom 1:1 Real-Hand Size👋\nPrecision biomimetic dexterous hand, price from $6.5K (Tax and Shipping cost excluded), with all 22 joints supporting smooth backdrivability, and each joint equipped with limit impact",
+     "text": "Unitree Introducing: Unitree Dex5-S Dexterous Hand 22 Degrees of Freedom 1:1 Real-Hand Size👋\nPrecision biomimetic dexterous hand, price from $6.5K (Tax and Shipping cost excluded), with all 22 joints supporting smooth backdrivability, and each joint equipped with limit impact torque protection.",
      "date": "2026-09-21T11:27:59.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2101992226356391936/img/XQqrWm-bot5IJmcw.jpg",
@@ -185,7 +185,7 @@
    "posts": [
     {
      "id": "2109977466236453342",
-     "text": "Proud to rank No. 11 globally and No. 1 among Chinese companies on the #FortuneFuture120 2026 list, which highlights 120 companies worldwide with strong future growth potential! 🏆 @FortuneMagazine  \n\nUBTECH is accelerating the commercialization of humanoid robots across",
+     "text": "Proud to rank No. 11 globally and No. 1 among Chinese companies on the #FortuneFuture120 2026 list, which highlights 120 companies worldwide with strong future growth potential! 🏆 @FortuneMagazine  \n\nUBTECH is accelerating the commercialization of humanoid robots across industrial, commercial, and consumer applications this year.\n\nThe future of embodied AI is taking shape. 🤖\n\n#UBTECH #HumanoidRobots #EmbodiedAI",
      "date": "2026-10-13T12:00:04.000Z",
      "quoted": true,
      "image": null,
@@ -203,7 +203,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -286,22 +286,22 @@
      "url": "https://x.com/NVIDIARobotics/status/2114417058641314231"
     },
     {
+     "id": "2113737225976377732",
+     "text": "Now that’s a lineup. 💚\n\nA spotlight on a few of our robotics and automotive partners from Europe and around the world as we celebrate the entire ecosystem bringing physical AI to life.\n\nTo all our partners, thanks for building with us and making moments like this possible.",
+     "date": "2026-10-23T21:00:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVV6AlWaMAARBs3.jpg",
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2113737225976377732"
+    },
+    {
      "id": "2113695795891314710",
-     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train policies in NVIDIA Isaac Lab, and validate them in Isaac Sim on @NVIDIARTXSpark.",
+     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train",
      "date": "2026-10-23T18:15:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113695460812533760/img/phMw7BM0WE8w6COl.jpg",
      "video": "https://video.twimg.com/amplify_video/2113695460812533760/vid/avc1/1920x1080/yb0hh-diXGQ9aWAU.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2113695795891314710"
-    },
-    {
-     "id": "2113660499548393724",
-     "text": "Want to try Nemotron 3.5 Bolt E4B 4GB for yourself? 👀\n\nGet hands-on with it on your NVIDIA Jetson through Jetson AI Labs:",
-     "date": "2026-10-23T15:55:07.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2113660499548393724"
     }
    ]
   }
