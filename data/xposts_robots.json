@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T20:23:28.261898+00:00",
+ "updated": "2026-10-26T23:28:37.729936+00:00",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -286,22 +286,22 @@
      "url": "https://x.com/NVIDIARobotics/status/2114417058641314231"
     },
     {
+     "id": "2113737225976377732",
+     "text": "Now that’s a lineup. 💚\n\nA spotlight on a few of our robotics and automotive partners from Europe and around the world as we celebrate the entire ecosystem bringing physical AI to life.\n\nTo all our partners, thanks for building with us and making moments like this possible.",
+     "date": "2026-10-23T21:00:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVV6AlWaMAARBs3.jpg",
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2113737225976377732"
+    },
+    {
      "id": "2113695795891314710",
-     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train policies in NVIDIA Isaac Lab, and validate them in Isaac Sim on @NVIDIARTXSpark.",
+     "text": "🦆 Put AI agents to work to help your robot learn to navigate.\n\nUsing Microduck as the reference robot, this walkthrough shows how to create a simulated obstacle course with @OpenAI GPT-6 Astra, build 3D assets with @nvidiaomniverse libraries, simulate physics with Newton, train",
      "date": "2026-10-23T18:15:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113695460812533760/img/phMw7BM0WE8w6COl.jpg",
      "video": "https://video.twimg.com/amplify_video/2113695460812533760/vid/avc1/1920x1080/yb0hh-diXGQ9aWAU.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2113695795891314710"
-    },
-    {
-     "id": "2113660499548393724",
-     "text": "Want to try Nemotron 3.5 Bolt E4B 4GB for yourself? 👀\n\nGet hands-on with it on your NVIDIA Jetson through Jetson AI Labs:",
-     "date": "2026-10-23T15:55:07.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2113660499548393724"
     }
    ]
   }

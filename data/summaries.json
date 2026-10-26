@@ -50,9 +50,6 @@
  "https://x.ai/news/incident-sweep": {
   "s": "IncidentWatch monitors support queues for sudden increases in similar tickets, alerting the team when it detects an incident. IncidentSweep then closes those affected tickets in a batch, reducing the workload for support engineers. This approach helps manage customer wait times and ensures consistent responses during incidents."
  },
- "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
-  "s": "The ocean’s most abundant microbe Prochlorococcus has been found to switch between two states: drifting alone in the sunlit ocean surface or forming sticky communities called biofilms. This discovery challenges previous assumptions about the organism’s role in carbon transport from the surface to the deep sea."
- },
  "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
   "s": "At GTC Berlin, NVIDIA is presenting its new AI hardware, RTX Spark, which powers personal agents on Windows PCs. This innovation matters because it enables local AI processing, enhancing privacy and performance, and opens new possibilities for AI applications on personal devices."
  },
@@ -123,9 +120,6 @@
  "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
   "s": "A Blog post by IBM Research introduced Granite time-series models, which combine four complementary models to forecast without needing to train on specific datasets. This ensemble approach reduces the need to choose a single model, as each model handles different types of signals better, offering a more accurate forecast."
  },
- "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/": {
-  "s": "Dream Labs raised $90 million and launched Dream API, an interface to control robots with simple instructions. Factories use many robots for specific tasks, but Dream Labs claims its AI model can learn from video and control any robot, even new ones, with minimal setup."
- },
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
  },
@@ -171,12 +165,6 @@
  "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/": {
   "s": "Generative Bionics plans to launch a Physical AI Data Factory in Italy, aiming to generate data for humanoid robots in Europe, thus advancing sovereignty in robotics. This hub will help move robotics from labs to industrial use, providing high-fidelity data and training models for European industry."
  },
- "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/": {
-  "s": "NASA and commercial partners are accelerating the development of landers for future missions to the Moon in 2028. This matters because it ensures the agency can return astronauts to the lunar surface and establish a long-term presence, fulfilling President Trump's policy and preparing for the Artemis missions."
- },
- "https://www.universetoday.com/articles/white-dwarfs-are-actuallyyellow-green-pink-and-purple": {
-  "s": "The study found that white dwarfs, despite their name, can exhibit colors other than white, including yellow, green, and pink. This challenges the long-held belief that stars, including white dwarfs, are perfect radiators, or blackbody objects, emitting light uniformly across all wavelengths."
- },
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
  },
@@ -211,9 +199,6 @@
  "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026": {
   "s": "The new simulation called Lumina tracks the universe’s first 2 billion years with greater detail and volume, including dark matter, galaxies, stars, and cosmic structures. This helps researchers better understand how the universe developed after the dark ages."
  },
- "https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/": {
-  "s": "A modern satellite enables tracking the seasonal color change of leaves, a practice traditionally enjoyed in autumn. This innovation allows for observing and predicting the spread of red leaves across different regions."
- },
  "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/": {
   "s": "Tsinghua researchers released AKV, a serving system for cache engineering. It allows LLM agents to drop and reposition KV cache entries, reducing cost by 27.7% across 4 benchmarks. The system is stateless and open-compatible, unlike traditional summarization methods that lose details."
  },
@@ -224,9 +209,6 @@
  "https://www.livescience.com/archaeology/mold-gold-cape-a-3-900-year-old-accessory-thats-one-of-the-finest-examples-of-prehistoric-goldwork-ever-found": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.livescience.com/technology/artificial-intelligence/10-minutes-is-all-it-takes-for-ai-assistance-to-erode-your-motivation-study-shows": {
-  "s": "People found to use AI assistance in solving problems were more likely to stop trying when the AI was taken away, compared with those who did not use AI. This suggests AI can reduce motivation by making people rely on external help."
  },
  "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
   "s": "A robotic hand capable of walking has been developed, showcasing progress in anthropomorphic robotics. This development matters as it advances the field from specialized industrial machines to more versatile and adaptable systems. Meanwhile, the global robotics market is growing, with China leading in installations, and the United States catching up. Toyota estimates a potential investment of $6.4 billion annually in robot modernization, indicating the increasing importance of robotics in manufacturing."
@@ -265,10 +247,6 @@
  },
  "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
   "s": "Agility Robotics and GXO Logistics plan to deploy Agility's Digit humanoid robot in two more sites. This expansion signals the growing value of humanoid robots in real-world operations, as customers increasingly decide where to scale such technology."
- },
- "https://www.space.com/science/astrophysics/record-breaker-astronomers-spot-powerful-cosmic-explosion-that-lasted-27-days": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/parker-solar-probe-spots-twisted-magnetic-braids-growing-in-the-solar-wind": {
   "s": "The Parker Solar Probe has observed twisted magnetic braids developing in the solar wind, a region of the Sun's magnetic environment. This matter is a complex jumble of chaotic fields and streams of charged particles. New research aims to bridge the gap between large-scale solar wind behavior and the microscale properties of ions, which could help explain why the Sun’s corona is much hotter than its surface."
@@ -314,15 +292,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/introducing-gpt-6-1-terra": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/": {
   "s": "NASA interns tackled real-world challenges in lunar exploration by developing a dashboard for a mission. This tool helps investigate how spacecraft performance changes under different conditions. Their work is crucial for NASA’s Artemis missions, which aim to return humans to the Moon."
- },
- "https://www.sciencealert.com/spiders-can-rack-up-rem-like-sleep-debt-and-may-even-dream-just-like-humans": {
-  "s": "Portia fimbriata spiders twitch and flutter during their sleep, showing REM-like activity. This discovery suggests spiders might dream, mirroring vertebrates in sleep structure and regulation. Understanding spider sleep could reveal why and how sleep evolved, offering insights into brain function and evolution."
  },
  "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization": {
   "s": "A new simulation named Lumina, one of the largest and most detailed simulations, helps cosmologists understand the universe's reionization. This matters because it provides insights into how galaxies and active galactic nuclei drive the reionization of the intergalactic medium across cosmic time, a challenge in cosmology."
@@ -333,9 +304,6 @@
  "https://www.livescience.com/physics-mathematics/particle-physics/a-neglected-particle-from-the-dawn-of-time-could-explain-why-everything-in-the-universe-exists": {
   "s": "A theoretical particle might have briefly contained more energy than all other matter in the universe's early stages. Understanding this could reveal how matter prevailed over antimatter."
  },
- "https://phys.org/news/2026-10-hydrogen-production-seawater-catalyst-energy.html": {
-  "s": "Using advanced techniques, researchers have developed a method to produce hydrogen from seawater that requires less energy and resists corrosion. This innovation could make hydrogen production more economical and sustainable, as seawater is abundant and chloride ions present a major challenge to traditional methods."
- },
  "https://www.space.com/entertainment/space-books/darth-vader-wields-the-infinity-gauntlet-in-the-first-ever-official-star-wars-and-marvel-crossover": {
   "s": "",
   "why": "too little source text"
@@ -343,36 +311,70 @@
  "https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side": {
   "s": "Scientists have developed a method to map out hidden sunspots on the solar far side, using acoustic waves that reflect off the Sun's surface. This technique, similar to seismology on Earth, allows for the detection of magnetic fields on the side of the Sun not visible from Earth."
  },
- "https://phys.org/news/2026-10-scientists-disruptive-age-breakthroughs.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/missions/nasa-ends-swift-space-telescope-mission-after-failed-rescue-attempt": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-hidden-chromosome-reveal-greater-complexity.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic": {
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-distinct-stages-emerge-spider-rem.html": {
-  "s": "Two distinct sleep stages emerged in the jumping spider Portia fimbriata, including a REM-like state marked by eye movements and muscle twitches. This discovery fills a gap in knowledge about sleep behavior in spiders, offering the first comprehensive confirmation of sleep in an arachnid species."
- },
  "https://www.space.com/entertainment/space-toys-lego/stuck-for-a-halloween-outfit-set-phasers-to-stunning-with-the-best-star-trek-costumes": {
   "s": "For Halloween, organizations can choose from a variety of Star Trek costumes, ranging from classic series to more recent ones. This offers costume options that cater to different eras and fan preferences."
  },
- "https://phys.org/news/2026-10-reveals-fabricated-physics-chemistry-journals.html": {
-  "s": "The audit found that about one in four hundred papers in various scientific fields cited studies that could not be found online, an increase from one in one thousand in 2023. This suggests that fabricated references are a widespread problem across multiple disciplines, undermining the integrity of scientific literature."
+ "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
+  "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
  },
- "https://openai.com/index/openai-models-google-cloud": {
+ "https://www.sciencealert.com/an-armored-amphibian-that-lived-its-whole-life-at-sea-its-a-fossil-first": {
+  "s": "An ancient armored amphibian species Gerrothorax maritimus was discovered in marine deposits dating back 237 million years, suggesting it lived its entire life in saltwater. This finding challenges the typical habitat of amphibians, which are known to need fresh water."
+ },
+ "https://phys.org/news/2026-10-fuel-nanomaterial-green-hydrogen.html": {
+  "s": "Generating hydrogen without carbon dioxide seems straightforward: pass electricity through water and split the molecules. But finding a suitable electrocatalyst is tricky, as current ones rely on scarce and expensive metals. Researchers aimed to use iron and nickel oxides on carbon nanofibers instead. They found these could perform as well as traditional catalysts, using a new material called MXene."
+ },
+ "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026": {
+  "s": "The J-PAL North America hub offers free online resources for tackling homelessness, aiding policymakers, practitioners, and researchers in using rigorous research to inform their approaches. Homelessness is a complex issue, and this hub aims to help overcome barriers to accessing and understanding evidence to improve housing stability."
+ },
+ "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang": {
   "s": "",
   "why": "too little source text"
  },
- "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
-  "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
+ "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": {
+  "s": "These findings could help design better spacesuits and habitats for future Mars missions, improving crew health and reducing dust-related risks."
+ },
+ "https://www.space.com/space-exploration/missions/analog-astronauts-how-living-underwater-can-prepare-humans-for-space-missions": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-ecological-roles-clues-life-began.html": {
+  "s": "Thinking about producers, consumers, and decomposers in today's ecosystems led researchers to wonder if these roles might reflect different physical and chemical environments in early life. This research suggests that understanding how these roles function in modern ecosystems could offer clues about how life might have begun, focusing on how environmental structures influence molecule behavior."
+ },
+ "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/": {
+  "s": "The sunshade of NASA’s NEO Surveyor spacecraft was inspected in a clean room in Boulder, Colorado, in July 2026. Its purpose is to block sunlight and protect the spacecraft’s instruments, especially crucial for observing asteroids and comets near the Sun."
+ },
+ "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html": {
+  "s": "Researchers at the Helmholtz Center for Infection Research and its site, the Helmholtz Institute for Pharmaceutical Research Saarland, discovered a new family of natural compounds produced by soil bacteria. These compounds bind specifically to a human protein involved in cancer development. By activating a silent biosynthetic pathway, the team synthesized these myxoglucamides, which have a unique structure not previously seen. This discovery offers potential for developing new cancer drugs."
+ },
+ "https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html": {
+  "s": "Excess body weight is a significant health concern for domestic cats, with studies showing 30%–60% of cats are overweight or obese. Andrew Knight, a veterinary professor, notes that vegan diets may help reduce these health issues. Rising popularity of vegan diets for cats is driven by concerns about the environmental impacts of animal agriculture."
+ },
+ "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
+  "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot's unique capabilities, such as climbing stairs and navigating tight spaces, make it a standard tool in the public safety kit."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot are more complex and capable than typical human hands, with 13 degrees of freedom for enhanced dexterity and strength. This matters because it enables Atlas to perform a wider range of tasks, from delicate manipulation to gripping tools, making it better suited for real-world work scenarios."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, conducts endurance testing on Stretch robots to ensure they work reliably in warehouses. Her team simulates years of wear and tear on robot parts in weeks by running tests at accelerated speeds and with more force than a real warehouse would. This helps identify potential issues early, improving robot durability."
  }
 }
