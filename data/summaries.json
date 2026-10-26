@@ -256,9 +256,6 @@
  "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
   "s": "Introducing Kimi K3.1 Pro, a new model available on the Kimi API. Moonshot promises to release full model weights by November 2026, currently offering a \"Highspeed\" version at twice the price. This model is benchmarked as approximately at par with Claude Opus 5.5 and GPT-6 Astra, with some advantages on certain tasks."
  },
- "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/": {
-  "s": "Microsoft Research released Agensh, a multi-agent system that allows 1,024 agents to work together without a central coordinator. This matters because it addresses the limitations of current orchestrator designs by enabling self-organizing teams to manage their own tasks and communicate, scaling up to a large number of agents."
- },
  "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution": {
   "s": "Lunar meteorites, pieces of the Moon's surface that have been displaced and burned through Earth's atmosphere, offer a unique window into the Moon's earliest formation. They are valuable for scientific study because they come from almost all over the lunar surface, unlike the Apollo samples which were primarily from specific landing sites. This makes lunar meteorites more representative of the Moon's composition, providing a broader understanding of its evolution."
  },
@@ -316,9 +313,6 @@
  "https://phys.org/news/2026-10-patterns-polar-vortices-free-superlattices.html": {
   "s": "A team at HZB has discovered polar vortices in superlattices of barium and strontium titanates on silicon. This finding broadens the use of materials and substrates for creating complex ferroelectric states, which could lead to new silicon-based technologies. Prior to this discovery, polar textures were mainly found in lead-containing superlattices, limiting their application. Replacing lead and depositing layers on silicon could enable the use of these textures in semiconductor technologies."
  },
- "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/": {
-  "s": "Hugging Face released Carbon-X, a 14.8B DNA language model that integrates DNA and text. This model averages 66.7% across DNA benchmarks, using a hybrid tokenizer that combines text and DNA tokens. Why it matters: it marks the first time DNA and natural language are combined, offering potential applications in genetic research and diagnostics."
- },
  "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html": {
   "s": "A new study proposes a method to read quantum information from a qubit without destroying it. Unlike conventional bits, quantum bits cannot be read repeatedly without altering their state. The study introduces an Andreev qubit that produces a supercurrent, a macroscopic indicator of the qubit's state. This supercurrent could enable the reconstruction of the qubit's information in a nondestructive manner, potentially eliminating the need for ancillas."
  },
@@ -341,10 +335,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/": {
   "s": "The Great Nebula in Orion, a starbirth region, is visible near the belt of stars in Orion. This nebula, about 1500 light-years away, contains many stellar nurseries with hydrogen gas, hot young stars, and material being ejected at high speeds."
  },
@@ -365,5 +355,26 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch robots to ensure they work reliably in dynamic environments like warehouses. She simulates years of wear and tear in the lab by using faster and more aggressive forces than a robot would experience in real-world use, to find potential issues early. This testing translates to designing robots that can handle the expected number of moves in their lifetime, as estimated from real-world customer sites."
+ },
+ "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/": {
+  "s": "Tsinghua researchers released AKV, a serving system for cache engineering. It allows LLM agents to drop and reposition KV cache entries, reducing cost by 27.7% across 4 benchmarks. The system is stateless and open-compatible, unlike traditional summarization methods that lose details."
+ },
+ "https://openai.com/index/terminal-x": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore Government collaborated to create a privacy-preserving AI model that detects scams in private chats without sending data to the cloud. This model is fine-tuned on local scam conversations to distinguish between genuine manipulation and harmless social chatter, ensuring faster detection and quicker action by users."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated its prowess in physical reasoning by outperforming other models on a benchmark test. This advance could accelerate the development of physical AGI, as Argon can apply its reasoning across various robotic tasks."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
