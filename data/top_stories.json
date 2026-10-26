@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-25T19:38:41-07:00",
- "updated_pt": "Oct 25, 2026, 7:38 PM PT",
+ "updated": "2026-10-26T04:35:46-07:00",
+ "updated_pt": "Oct 26, 2026, 4:35 AM PT",
  "stories": [
   {
    "title": "Astronomers may have found the first moon beyond our Solar System: a Jupiter-mass body circling a brown dwarf",
@@ -34,6 +34,29 @@
     {
      "name": "ScienceDaily (materials from MPE)",
      "url": "https://www.sciencedaily.com/releases/2026/10/261024222000.htm",
+     "date": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "title": "Lumina, a record-size supercomputer simulation, follows the universe's first 2 billion years out of the cosmic dark ages",
+   "tag": "Space",
+   "date": "2026-10-26",
+   "paragraphs": [
+    "Physicists from MIT, the Center for Astrophysics | Harvard & Smithsonian and other institutions have published Lumina, a computer simulation of the early universe, in the journal Monthly Notices of the Royal Astronomical Society, MIT News reported on Oct. 26, 2026. According to MIT, the simulation starts about 45 million years after the Big Bang, during the cosmic \"dark age\" when neutral hydrogen blocked light from traveling freely, and follows the next 2 billion years of cosmic history. It tracks dark matter, gas, stars and radiation, from the largest scales down to individual developing galaxies.",
+    "The simulated region spans about 500 megaparsecs. MIT News describes that as about 1.6 billion light-years wide, while the Center for Astrophysics release, published on Phys.org on Oct. 25, describes a cube roughly 1.5 billion light-years on each side. Both say it covers more than 100 times the volume of previous comparable simulations. MIT says Lumina contains about half a trillion individual elements, such as dark matter particles and gas cells, giving it about 30 times the resolution of the earlier IllustrisTNG simulation it builds on. \"Lumina does everything from small-scale star and galaxy formation to large-scale re-ionization of hydrogen and helium, in a volume that is 100 times larger than previous best simulations,\" said MIT physics professor Mark Vogelsberger.",
+    "According to MIT News, the simulation is the first to capture both hydrogen and helium reionization, the periods when radiation stripped electrons from those gases and let light travel freely. In Lumina, hydrogen reionization was likely driven by light from early galaxies and stars, while helium reionization was fueled by much more energetic supermassive black holes in their active, feeding phases. The Center for Astrophysics calls Lumina the largest cosmological radiation-hydrodynamics simulation ever created.",
+    "The team ran Lumina on Frontier, a supercomputer at Oak Ridge National Laboratory in Tennessee. \"At peak scale, the calculation brings together the equivalent of more than 100,000 CPU cores and around 15,000 GPUs,\" said MIT co-author Xuejian (Jacob) Shen. Lead author Oliver Zier of the Center for Astrophysics said the goal is to turn theories into detailed predictions that can be checked against what telescopes such as the James Webb Space Telescope see. The researchers are making Lumina available to other scientists, according to MIT."
+   ],
+   "sources": [
+    {
+     "name": "MIT News",
+     "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
+     "date": "2026-10-26"
+    },
+    {
+     "name": "Phys.org (Center for Astrophysics | Harvard & Smithsonian)",
+     "url": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
      "date": "2026-10-25"
     }
    ]
@@ -98,28 +121,6 @@
      "name": "MarkTechPost",
      "url": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
      "date": "2026-10-25"
-    }
-   ]
-  },
-  {
-   "title": "Study: Europe's record summer heat killed about 50,000 people in its cities, two-thirds of them because of climate change",
-   "tag": "Climate",
-   "date": "2026-10-23",
-   "paragraphs": [
-    "Record heat across Europe this summer was linked to 50,391 deaths in 854 European cities between June and August, according to a study by researchers at Imperial College London reported by The Associated Press on Oct. 23, 2026. The study, due in an upcoming issue of Nature Health, found that 32,619 of those deaths, about 65 percent, happened because of the extra heat added by human-caused climate change, mostly from burning coal, oil and gas.",
-    "According to the AP, that toll is 71 percent higher than the previous deadliest summer the same researchers have tracked, 29,480 deaths in 2022. The authors told the AP the new figures are underestimates, because they leave out a deadly heat wave in May and cover only those 854 cities, which hold about 40 percent of Europe's population. About a third of the deaths came during an especially intense heat wave from June 17 to July 1, when temperatures ran 5.3 degrees Celsius (9.5 degrees Fahrenheit) above normal, co-author Garyfallos Konstantinoudis said. Italy, France, Spain and Germany had the highest death tolls, and more than half of those who died were 85 or older, though more than 800 people aged 20 to 44 also died.",
-    "The study's abstract says the team combined probabilistic climate attribution with city- and age-specific temperature and mortality relationships, comparing this summer with simulated conditions in a world without human-caused warming. The paper notes that Europe was about 2.5 degrees Celsius warmer in 2026 than in a preindustrial climate, and that the summer was confirmed as the hottest on record for western Europe. Lead author Clair Barnes told the AP that much of western and northern Europe's infrastructure \"is just not designed to cope\" with today's temperatures, and that the share of heat deaths attributable to warming has grown from about 45 percent in the early 2000s to 65 percent now.",
-    "The researchers checked their method against real-time government estimates, the AP reported: for Britain's May and June heat waves, the team calculated 2,700 excess deaths, while the U.K. health statistics agency counted 2,800. Outside experts quoted by the AP, including Howard Frumkin, former director of the U.S. National Center for Environmental Health, and Jonathan Patz of the University of Wisconsin-Madison, praised the methods and called for both better protection from heat and cuts in fossil fuel use."
-   ],
-   "sources": [
-    {
-     "name": "NPR (The Associated Press)",
-     "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
-     "date": "2026-10-23"
-    },
-    {
-     "name": "Imperial College London: study preprint",
-     "url": "https://spiral.imperial.ac.uk/server/api/core/bitstreams/e8879b8a-f89b-4690-b6d5-5bfbf81f94b8/content"
     }
    ]
   }
