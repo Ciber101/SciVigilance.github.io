@@ -331,23 +331,6 @@
  "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/": {
   "s": "Hugging Face released Carbon-X, a 14.8B DNA language model that integrates DNA and text. This model averages 66.7% across DNA benchmarks, using a hybrid tokenizer that combines text and DNA tokens. Why it matters: it marks the first time DNA and natural language are combined, offering potential applications in genetic research and diagnostics."
  },
- "https://phys.org/news/2026-10-seconds-online-learners-track.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, such as climbing stairs and navigating in confined spaces, make it a valuable tool for various safety missions. Spot's public safety kit includes cameras, radios, and an arm for lifting and carrying objects, offering operators a safe and efficient way to search and rescue."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "Diane Heinle, a mechanical engineer at Boston Dynamics, conducts endurance testing on Stretch robots to ensure they work reliably in dynamic environments like warehouses. She simulates years of wear and tear in the lab by using faster and more aggressive forces than a robot would experience in real-world use, to find potential issues early. This testing translates to designing robots that can handle the expected number of moves in their lifetime, as estimated from real-world customer sites."
- },
- "https://www.sciencealert.com/scientists-discovered-an-amazing-practical-use-for-the-worlds-leftover-coffee-grounds": {
-  "s": "Scientists discovered coffee grounds, usually discarded, can make concrete stronger. With global construction needing more concrete, this discovery helps reduce the need for sand, a scarce resource."
- },
  "https://phys.org/news/2026-10-supercurrent-enables-quantum-destroying.html": {
   "s": "A new study proposes a method to read quantum information from a qubit without destroying it. Unlike conventional bits, quantum bits cannot be read repeatedly without altering their state. The study introduces an Andreev qubit that produces a supercurrent, a macroscopic indicator of the qubit's state. This supercurrent could enable the reconstruction of the qubit's information in a nondestructive manner, potentially eliminating the need for ancillas."
  },
@@ -360,27 +343,17 @@
  "https://phys.org/news/2026-10-screening-tools-disadvantage-rural-communities.html": {
   "s": "Whether a community is prioritized for public support depends on how its needs are measured, according to a study from the University of New Hampshire. The research found significant differences in how government tools identify disadvantaged communities, particularly in rural areas. Rural areas, where resources tend to be more limited, were often overlooked by these tools, potentially affecting access to funding."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to create an AI model that detects scams in private chats without sharing data with the cloud. This matters because scams, especially sophisticated ones that use social engineering, have become a major threat, leading to significant financial losses. The new model, fine-tuned on lightweight Gemma models, can process conversations locally, making it more effective against local deception tactics and protecting privacy."
- },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated advanced physical reasoning by outperforming other models on a benchmark, solving complex tasks like a Boston Dynamics robot without explicit training. This breakthrough could accelerate development of physical AGI, enabling robots to learn new skills autonomously."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/": {
   "s": "Nanbeige LLM Lab released Nanbeige4.3-33B, a large 33B dense model with 512K context. Its release strategy is to first build a strong teacher model, then distill agentic skills into smaller models. The model's performance is compared with other models, showing it outperforms in some tasks but loses in others. The model uses a standard LlamaForCausalLM architecture and has controls for reasoning and multi-turn chat."
  },
- "https://openai.com/index/terminal-x": {
-  "s": "This suggests GPT-6.1, when fine-tuned, can closely align with human expert assessments."
+ "https://www.sciencealert.com/world-first-cancer-vaccine-cuts-melanoma-recurrence-or-death-risk-by-42-in-landmark-trial": {
+  "s": "The world's first cancer vaccine specifically for melanoma has shown success, reducing the risk of recurrence or death by 42 percent compared to standard immunotherapy. This breakthrough marks a significant shift in cancer treatment, as it uses the immune system in a more personalized way."
  },
- "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic": {
+ "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
  }
