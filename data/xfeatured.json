@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2113766354386084338",
-     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.\n\nThis root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.\n\nMore details on the patch and mitigations below:",
+     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
      "date": "2026-10-23T22:55:45.000Z",
      "quoted": true,
      "image": null,
@@ -16,8 +16,17 @@
      "url": "https://x.com/OpenAI/status/2113766354386084338"
     },
     {
+     "id": "2113718797505036665",
+     "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
+     "date": "2026-10-23T19:46:46.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/OpenAI/status/2113718797505036665"
+    },
+    {
      "id": "2113298833392496746",
-     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
+     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future",
      "date": "2026-10-22T15:57:59.000Z",
      "quoted": true,
      "image": null,
@@ -32,15 +41,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/OpenAI/status/2112988118471295323"
-    },
-    {
-     "id": "2112945805686604033",
-     "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it:",
-     "date": "2026-10-21T16:35:11.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/OpenAI/status/2112945805686604033"
     }
    ]
   },
@@ -139,6 +139,15 @@
    "avatar": "img/x-googledeepmind.jpg",
    "posts": [
     {
+     "id": "2115114028338962672",
+     "text": "This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak.",
+     "date": "2026-10-27T16:10:55.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVplvENXUAA-sCS.jpg",
+     "video": "https://video.twimg.com/amplify_video/2115110795553964032/vid/avc1/1920x1080/UjdIAfbWqSTv6JaM.mp4",
+     "url": "https://x.com/GoogleDeepMind/status/2115114028338962672"
+    },
+    {
      "id": "2113645959762575623",
      "text": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.\n\nIt iterates on the geometry, textures, and lighting to create the finished scene.",
      "date": "2026-10-23T14:57:21.000Z",
@@ -164,15 +173,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112974557619302400/img/C5NXfnVigLrq4siZ.jpg",
      "video": "https://video.twimg.com/amplify_video/2112974557619302400/vid/avc1/1920x1080/drtYOJAYBY2n30ix.mp4",
      "url": "https://x.com/GoogleDeepMind/status/2112974723659247896"
-    },
-    {
-     "id": "2112557925264752930",
-     "text": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elements.”\n\nCreated in @Antigravity, it animates orbiting electrons, atomic data, and light spectra.",
-     "date": "2026-10-20T14:53:53.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112556446218862593/img/vm7Hadu5pWswOhr9.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112556446218862593/vid/avc1/1920x1080/pY7aXhWMcWehJljh.mp4",
-     "url": "https://x.com/GoogleDeepMind/status/2112557925264752930"
     }
    ]
   },
@@ -333,12 +333,21 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
+    },
+    {
+     "id": "2108549075218120949",
+     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
+     "date": "2026-10-09T13:24:09.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -455,6 +464,15 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
+     "id": "2114827978748383342",
+     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
+     "date": "2026-10-26T21:14:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
+     "url": "https://x.com/nvidia/status/2114827978748383342"
+    },
+    {
      "id": "2114377680715980950",
      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
      "date": "2026-10-25T15:24:56.000Z",
@@ -480,15 +498,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
      "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
      "url": "https://x.com/nvidia/status/2113604477261398148"
-    },
-    {
-     "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
-     "date": "2026-10-21T14:54:03.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112920354230296993"
     }
    ]
   },
@@ -702,7 +711,7 @@
     },
     {
      "id": "2105659276425298012",
-     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work:",
+     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI",
      "date": "2026-10-01T14:01:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
@@ -727,17 +736,8 @@
      "url": "https://x.com/agilityrobotics/status/2114786439737262138"
     },
     {
-     "id": "2114703340474896639",
-     "text": "Today, we announced an expanded partnership with GXO and detailed three previously unannounced enterprise manufacturing customers. This builds on our active pipeline of more than 30 prospective customers in manufacturing, automotive, aerospace, defense, logistics, and consumer",
-     "date": "2026-10-26T12:59:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVhUQlHasAE3Xxc.png",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2114703340474896639"
-    },
-    {
      "id": "2114673401235181690",
-     "text": "GXO announces an expanded partnership with Agility. Digit is headed to @GXOLogistics sites in Statesville, NC, and Lebanon, TN, with deployments expected to begin in early 2027 — building on more than 100,000 totes moved at Flowery Branch, GA.\n\n#Agility",
+     "text": "GXO announces an expanded partnership with Agility. Digit is headed to @GXOLogistics sites in Statesville, NC, and Lebanon, TN, with deployments expected to begin in early 2027 — building on more than 100,000 totes moved at Flowery Branch, GA.\n\n#Agility #Digit #MadeToWork",
      "date": "2026-10-26T11:00:02.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVhmPyIaEAAFPgr.jpg",
@@ -752,6 +752,15 @@
      "image": "https://pbs.twimg.com/media/HVVXP68aoAABytj.jpg",
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2113691564094755034"
+    },
+    {
+     "id": "2113396938368536825",
+     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26 #Agility #MadeForWork",
+     "date": "2026-10-22T22:27:49.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVRLT9TbQAAVBAD.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2113396938368536825"
     }
    ]
   },
@@ -928,6 +937,15 @@
    "avatar": "img/x-elonmusk.jpg",
    "posts": [
     {
+     "id": "2115092766275543266",
+     "text": "Starlink Brasil 🇧🇷",
+     "date": "2026-10-27T14:46:26.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/elonmusk/status/2115092766275543266"
+    },
+    {
      "id": "2114772404463337693",
      "text": "Supervised FSD approved in Latvia! 🇱🇻",
      "date": "2026-10-26T17:33:26.000Z",
@@ -935,15 +953,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/elonmusk/status/2114772404463337693"
-    },
-    {
-     "id": "2114756811689447712",
-     "text": "Soon Moon",
-     "date": "2026-10-26T16:31:28.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/elonmusk/status/2114756811689447712"
     }
    ]
   },
@@ -998,6 +1007,15 @@
    "avatar": "img/x-nasa.jpg",
    "posts": [
     {
+     "id": "2115129428158087498",
+     "text": "Are you stepping into a spacesuit this week? So are @astro_anil and @astro_kutryk — but not for Halloween!\n\nTune in here on Oct. 29 at 6:30am ET (1030 UTC) to watch these two astronauts deploy a new solar array on the @Space_Station.",
+     "date": "2026-10-27T17:12:07.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVpzAVEWYAARbtt.jpg",
+     "video": null,
+     "url": "https://x.com/NASA/status/2115129428158087498"
+    },
+    {
      "id": "2114801524358406570",
      "text": "The @NASAWebb telescope recently spotted stars brewing in this cosmic cauldron. This region of toil and trouble, named N159, is 161,000 light-years from Earth, in the Large Magellanic Cloud.",
      "date": "2026-10-26T19:29:09.000Z",
@@ -1023,15 +1041,6 @@
      "image": "https://pbs.twimg.com/media/HVWk812WIAAg_hz.jpg",
      "video": "https://video.twimg.com/amplify_video/2113776813121941504/vid/avc1/1920x1080/oa29OYgVBG7qAyEB.mp4?tag=16",
      "url": "https://x.com/NASA/status/2113776971603689874"
-    },
-    {
-     "id": "2113693409772761305",
-     "text": "LIVE: @NASAAdmin and agency leaders are sharing the latest updates on next year's Artemis III mission and our plans to return astronauts to the surface of the Moon by 2028.",
-     "date": "2026-10-23T18:05:54.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NASA/status/2113693409772761305"
     }
    ]
   },
@@ -1096,7 +1105,7 @@
     },
     {
      "id": "2113574846562976192",
-     "text": "Department of Space / ISRO organised a Curtain Raiser at ISRO HQ, Bengaluru, for the Space Science &amp; Technologies thematic session of #ESTIC2026. Dr V. Narayanan, Secretary, DOS/Chairman, ISRO, addressed the gathering. The thematic session will be held on Oct 29 at Bharat",
+     "text": "Department of Space / ISRO organised a Curtain Raiser at ISRO HQ, Bengaluru, for the Space Science & Technologies thematic session of #ESTIC2026. Dr V. Narayanan, Secretary, DOS/Chairman, ISRO, addressed the gathering. The thematic session will be held on Oct 29 at Bharat Mandapam, New Delhi.\n \nFor more Information:\n\n#ISRO #ESTIC2026 #SpaceScience #SpaceTechnology #ViksitBharat2047",
      "date": "2026-10-23T10:14:46.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVTtCuJbMAAWesD.jpg",
@@ -1210,7 +1219,7 @@
    "posts": [
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -1219,7 +1228,7 @@
     },
     {
      "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support the study of Mars’ moons and their origins.\n\nLearn more about P-Sampler:",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
      "date": "2026-10-13T21:09:22.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
@@ -1228,7 +1237,7 @@
     },
     {
      "id": "2108615012730167401",
-     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations with our flight-like offloader: the complete offload sequence, nominal and off-nominal, ran end-to-end across the full range of lander tilt angles, with joint mission operations and NASA commanding the rover remotely. Stay tuned for images of our flight offloader, which is being fabricated now!",
+     "text": "One demonstration closer to delivering VIPER to the Moon.\n \nWe just completed a risk-reduction test campaign with @NASA: running a full offload with a VIPER Mobility Ground Research Unit (MGRU) before doing so on the lunar surface.\n \nWe proved out the full concept of operations",
      "date": "2026-10-09T17:46:09.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUNOLelXgAADlvZ.jpg",
@@ -1237,7 +1246,7 @@
     },
     {
      "id": "2105031277321826515",
-     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload capacity and flexibility as we expand the New Glenn fleet 🚀\n\nTwo paths to orbit. More flexibility for NASA.",
+     "text": "New Glenn 9x4 has been added to NASA’s Launch Services Program, making both New Glenn configurations eligible to compete for NASA science and exploration missions.\n\nWith an 8.7-meter fairing and the ability to carry more than 70 metric tons to LEO, 9x4 gives NASA greater payload",
      "date": "2026-09-29T20:25:40.000Z",
      "quoted": true,
      "image": null,
@@ -1254,7 +1263,7 @@
    "posts": [
     {
      "id": "2114887275045941664",
-     "text": "It’s a beautiful day to set sail with the next pieces of Neutron flight hardware to Launch Complex 3.\n\nEarlier today we sent Neutron’s Stage 2 and Thrust Module out of the Neutron Factory and onto a barge for transport through Chesapeake Bay to Wallops Island in Virginia. \n\nOnce it arrives, the Thrust Module will go straight onto the launch mount at LC-3 for check outs and the beginning of wider systems demonstrations including integrated fluids tests and module-to-launch-mount interface checkouts. With no strongback on the launch mount by design, Neutron’s Thrust Module is the rocket’s only physical interface to the launch pad, which this upcoming test campaign enables us to test early before the entire vehicle comes together.",
+     "text": "It’s a beautiful day to set sail with the next pieces of Neutron flight hardware to Launch Complex 3.\n\nEarlier today we sent Neutron’s Stage 2 and Thrust Module out of the Neutron Factory and onto a barge for transport through Chesapeake Bay to Wallops Island in Virginia. \n\nOnce",
      "date": "2026-10-27T01:09:53.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVmUBioa8AAeLwt.jpg",
@@ -1342,7 +1351,7 @@
    "posts": [
     {
      "id": "2113676900883218684",
-     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the",
+     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the spacecraft and Ariane 6. It keeps the spacecraft securely attached during launch and enables its separation once the intended orbit has been reached.\n\nDuring the fit check, teams verify that the spacecraft and its adapter match perfectly, which is a key step before moving forward with the launch campaign.\n\nOnce these checks are complete, the spacecraft can move on to the next stage of its preparation for launch.\n\n#LaunchingAmbitions",
      "date": "2026-10-23T17:00:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVVJ31CWcAAr-2K.jpg",
@@ -1351,7 +1360,7 @@
     },
     {
      "id": "2113314438816170244",
-     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through",
+     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through the inner Solar System to reach Mercury.\n\nA few minutes with Ariane 5 were the first step in a journey lasting billions of kilometres.\n\nFrom launch to separation, every minute was about putting BepiColombo on the right path for what came next.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-22T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVQARrrXYAAF3pm.jpg",
@@ -1369,7 +1378,7 @@
     },
     {
      "id": "2112589662518681977",
-     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled",
+     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled billions of kilometres, using planetary flybys to gradually adjust its trajectory towards the closest planet to the Sun.\n\nEight years after launch, the journey that began in Kourou is entering its final chapter, bringing BepiColombo closer to the world it was built to explore.\n\nA journey that started with Ariane 5, and continues to push our understanding of Mercury further.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-20T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVFtE3gW4AACRTG.jpg",
@@ -1430,7 +1439,7 @@
    "posts": [
     {
      "id": "2112885441305215014",
-     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and",
+     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and collaboration across our joint teams in just a matter of months.\n\nNext step: Critical design review!",
      "date": "2026-10-21T12:35:19.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVJ6HKUW8AAK0_I.jpg",
@@ -1448,7 +1457,7 @@
     },
     {
      "id": "2110110342042796119",
-     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay.",
+     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay. That's where our Elytra orbiter comes in 🛰️. Elytra will serve as a transfer vehicle and communications bridge between Blue Ghost and Earth, enabling critical science operations on the lunar surface and setting the stage for future missions.",
      "date": "2026-10-13T20:48:04.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUieKtlWkAEX_b9.jpg",
@@ -1457,7 +1466,7 @@
     },
     {
      "id": "2108173401235816859",
-     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization",
+     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization of unmanned aerial threats.\n \nRead more here:",
      "date": "2026-10-08T12:31:21.000Z",
      "quoted": false,
      "image": null,
@@ -1474,7 +1483,7 @@
    "posts": [
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
@@ -1483,7 +1492,7 @@
     },
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1492,7 +1501,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",

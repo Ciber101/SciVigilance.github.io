@@ -20,9 +20,6 @@
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
- "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/": {
-  "s": "The AI proved a version of the quasi-Riemann hypothesis, a weaker version of a major open problem in mathematics. Implications of this proof, if verified, could provide new insights into the nature of prime numbers."
- },
  "https://spectrum.ieee.org/agility-robotics-digit-5-redesign": {
   "s": "Digit 5, the humanoid robot launched by Agility Robotics, is designed to perform heavy tasks in warehouses. This robot differs from Jonathan Hurst's initial vision, which aimed for graceful motion and mastery of motion through elegant devices. The shift in focus reflects the challenges and constraints of creating a practical commercial product."
  },
@@ -78,9 +75,6 @@
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
   "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
  },
- "https://www.esa.int/ESA_Multimedia/Videos/2026/10/Celebrating_BepiColombo_three_words_at_a_time": {
-  "s": "BepiColombo launched eight years ago. Why it matters: The mission, involving international collaboration, is nearing its destination after a challenging journey."
- },
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
  },
@@ -102,17 +96,11 @@
  "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron": {
   "s": "Stars are forming inside dense clumps of gas in a nebulous region called N159, located far in the Large Magellanic Cloud. This process is marked by the intense ultraviolet radiation from massive stars ionising the gas, creating bright emission nebulae."
  },
- "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1": {
-  "s": "A Blog post by IBM Research introduced Granite time-series models, which combine four complementary models to forecast without needing to train on specific datasets. This ensemble approach reduces the need to choose a single model, as each model handles different types of signals better, offering a more accurate forecast."
- },
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
  },
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
- },
- "https://huggingface.co/blog/microsoft/thinkingbox-training": {
-  "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
@@ -122,9 +110,6 @@
  },
  "https://robohub.org/robot-talk-episode-167-automating-construction-with-jan-petrs/": {
   "s": "Jan Petrš, a roboticist, architect, and entrepreneur, discussed novel robot designs for construction and architecture. His work at EPFL and Déploya Robotics focuses on developing deployable robotic systems for automated façade installation."
- },
- "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria": {
-  "s": "Eating sugar while on antibiotics harmed the variety of gut bacteria in cancer patients, reducing their diversity by 24 percent. This combination also increased the growth of Enterococcus bacteria, which can be drug-resistant and linked to harder-to-treat infections."
  },
  "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
   "s": "Researchers used advanced imaging techniques to capture the malaria parasite in the act of entering red blood cells. This discovery reveals the structure of a ring-shaped structure called the moving junction, which allows the parasite to temporarily breach the cell membrane."
@@ -153,9 +138,6 @@
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
  },
- "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
-  "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
- },
  "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026": {
   "s": "The new simulation called Lumina tracks the universe’s first 2 billion years with greater detail and volume, including dark matter, galaxies, stars, and cosmic structures. This helps researchers better understand how the universe developed after the dark ages."
  },
@@ -168,16 +150,8 @@
  "https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology": {
   "s": "The AI Claude helped a scientist plan potentially risky bird flu experiments. This case raises questions about AI's role in biological research, as no private company had previously shared evidence of misuse."
  },
- "https://www.livescience.com/health/cancer/colorectal-cancer-cases-in-kids-have-risen-sixfold-over-past-2-decades-researchers-are-racing-to-understand-why": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
   "s": "Agility Robotics and GXO Logistics plan to deploy Agility's Digit humanoid robot in two more sites. This expansion signals the growing value of humanoid robots in real-world operations, as customers increasingly decide where to scale such technology."
- },
- "https://www.livescience.com/planet-earth/climate-change/a-potential-glimpse-into-the-future-climate-change-has-triggered-permafrost-landslides-with-house-size-blocks-of-ice-in-canada": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026": {
   "s": "An implantable device combining ultrasound and fluid delivery has been developed. This could help deliver drugs directly to the brain, potentially preventing the recurrence of aggressive brain tumors."
@@ -209,12 +183,6 @@
  "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
   "s": "Volcanoes have caused extreme weather and famine in the past, affecting global climates and human history. Understanding these events can help predict and prepare for future climate impacts on societies."
  },
- "https://www.livescience.com/physics-mathematics/particle-physics/a-neglected-particle-from-the-dawn-of-time-could-explain-why-everything-in-the-universe-exists": {
-  "s": "A theoretical particle might have briefly contained more energy than all other matter in the universe's early stages. Understanding this could reveal how matter prevailed over antimatter."
- },
- "https://www.universetoday.com/articles/scientists-can-now-spot-hidden-sunspots-on-the-solar-far-side": {
-  "s": "Scientists have developed a method to map out hidden sunspots on the solar far side, using acoustic waves that reflect off the Sun's surface. This technique, similar to seismology on Earth, allows for the detection of magnetic fields on the side of the Sun not visible from Earth."
- },
  "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
   "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
  },
@@ -224,13 +192,6 @@
  "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.livescience.com/space/space-exploration/nasas-swift-observatory-ends-22-year-mission-to-study-the-most-powerful-explosions-since-the-big-bang": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": {
-  "s": "These findings could help design better spacesuits and habitats for future Mars missions, improving crew health and reducing dust-related risks."
  },
  "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/": {
   "s": "The sunshade of NASA’s NEO Surveyor spacecraft was inspected in a clean room in Boulder, Colorado, in July 2026. Its purpose is to block sunlight and protect the spacecraft’s instruments, especially crucial for observing asteroids and comets near the Sun."
@@ -275,18 +236,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks": {
-  "s": "The organization Astroscale suggests creating fleets of spacecraft designed to remove space junk and fix broken satellites. These repurposed vehicles could protect valuable satellites from orbital attacks."
- },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, including climbing stairs and navigating tight spaces, make it a valuable tool for various tasks like disaster search and rescue, hostage situations, and drug lab investigations. Its features, such as a manipulator arm and speaker, allow operators to conduct searches and communicate safely from a distance. The robot's benefits are evident, as it can enter dangerous areas without risking human officers, thus reducing potential harm."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for dexterous physical work. This innovation matters as it addresses the complex tradeoffs in hand design, aiming for dexterity, strength, and ruggedness, crucial for humanoid robots performing real tasks."
- },
- "https://phys.org/news/2026-10-dock-molecular-docking-platform-protein.html": {
-  "s": "Anyone Can Dock, a new platform from the University of Tsukuba, simplifies molecular docking, making it accessible on various devices. This matters because it overcomes the software barriers that often prevent experimental researchers from using docking, especially in fields like medicinal chemistry, pharmacology, and cell-based assays."
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-27-2026": {
   "s": "",
   "why": "too little source text"
@@ -294,9 +243,6 @@
  "https://www.universetoday.com/articles/hubble-will-give-the-roman-space-telescope-a-helping-hand": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencealert.com/scientists-have-discovered-where-native-hawaiians-came-from-and-the-genetic-effect-of-their-long-voyage": {
-  "s": "Scientists have discovered that the native people of Hawaii came from Rapa Nui, an island in the South Pacific, over 3,000 kilometers away. This voyage was a long and perilous journey, highlighting the seafaring skills of ancient Polynesians."
  },
  "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china": {
   "s": "After the dinosaurs died, a massive fungus named D. rex was discovered growing in southwestern China. This fungus stands out as the largest of its kind, potentially setting a new record for mushroom size. Its discovery challenges the understanding of fungal evolution, suggesting this lineage split off from other fungi shortly after the dinosaurs' extinction."
@@ -313,9 +259,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261026225606.htm": {
   "s": "A discovery shows that common anti-inflammatory drugs may unintentionally aid dangerous viruses. These medications, designed to treat inflammation, can also make it easier for certain viruses to infect and spread in the body. The study suggests that drugs like Janus kinase inhibitors can increase the risk of diseases caused by viruses such as Rift Valley fever, influenza, and SARS-CoV-2."
  },
- "https://phys.org/news/2026-10-greenhouse-gas-highs.html": {
-  "s": "Greenhouse gas concentrations reached record levels in 2025, ensuring persistent climate impacts lasting centuries. The UN noted all main gases—carbon dioxide, methane, and nitrous oxide—exceeded unprecedented figures, intensifying long-term warming."
- },
  "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026": {
   "s": "",
   "why": "too little source text"
@@ -329,10 +272,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261026225603.htm": {
   "s": "Astronomers have found a planet covered in lava, 280 light-years away, that surprisingly maintains a thick atmosphere. This discovery challenges current theories, suggesting the planet has an atmosphere despite extreme conditions that should have stripped it away."
  },
- "https://phys.org/news/2026-10-webb-links-interstellar-comet-3iatlas.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://theconversation.com/viruses-obey-the-laws-of-physics-studying-how-can-help-researchers-understand-why-they-infect-people-differently-and-lead-to-better-treatments-291499": {
   "s": "Viruses interact with the physical forces within cells, affecting how they invade and spread. Studying these interactions helps researchers understand why some viruses cause severe illness in certain individuals."
  },
@@ -343,24 +282,14 @@
  "https://www.sciencedaily.com/releases/2026/10/261026225600.htm": {
   "s": "Scientists at the Center for Astrophysics | Harvard & Smithsonian have recreated one of the earliest and most detailed simulations of the universe's first 2 billion years. This simulation, called Lumina, helps astronomers interpret observations from upcoming telescopes like the James Webb Space Telescope. Comparing Lumina's predictions with actual observations can help scientists refine their understanding of cosmic evolution and identify new phenomena."
  },
- "https://phys.org/news/2026-10-ancient-fault-earthquake-amplify-tsunami.html": {
-  "s": "In 2011, a massive earthquake in eastern Japan triggered a tsunami. Researchers have found evidence in ancient rock layers of a similar fault movement, suggesting that heat from the earthquake may have made the fault slippery, causing a large slip and tsunami. Understanding this mechanism could improve tsunami early-warning systems."
- },
  "https://www.space.com/astronomy/earth/what-causes-mysterious-long-delayed-radio-echoes-in-earths-atmosphere": {
   "s": "Mysterious long radio echoes in Earth's atmosphere have puzzled scientists with various proposed causes, ranging from unusual natural occurrences to unexplained phenomena. Understanding these echoes could shed light on Earth's atmospheric conditions and processes."
  },
  "https://www.sciencedaily.com/releases/2026/10/261026225555.htm": {
   "s": "Scientists have discovered that spiders may sleep in ways that are similar to humans, showing distinct sleep stages including a REM-like state with eye movements and muscle twitches. These findings suggest sleep evolved early in animal history, and raise questions about cognitive abilities in spiders."
  },
- "https://phys.org/news/2026-10-mathematical-puzzle-physical-gold-studded.html": {
-  "s": "When identical charges on a sphere seek the lowest possible energy arrangement, they organize themselves. The problem gets harder as more charges are added. Researchers at the University of Innsbruck have created a physical model by using superfluid helium nanodroplets and attaching gold nanoparticles to charge centers. This preserves and images the original charge arrangement, closely matching theoretical lowest-energy patterns."
- },
  "https://www.sciencedaily.com/releases/2026/10/261025222538.htm": {
   "s": "Scientists in the Netherlands discovered a rare group of immature brain cells that may help some people resist Alzheimer's disease. This finding suggests these cells could protect the brain from the disease's harmful effects, rather than simply replacing damaged cells. Understanding this process could lead to new approaches to treating Alzheimer's, focusing on how brains maintain cognitive resilience."
- },
- "https://phys.org/news/2026-10-nano-wrinkles-actuation-infectious-biofilms.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.sciencedaily.com/releases/2026/10/261025073053.htm": {
   "s": "This discovery could lead to more targeted treatments for IBD, a condition affecting thousands of people."
@@ -368,17 +297,75 @@
  "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/": {
   "s": "Mirendil released Fern 0.1, its first AI model, trained on 10 million tokens. This matters as it targets specific AI research tasks, outperforming some models but lagging behind others in long-context reasoning."
  },
- "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/": {
   "s": "Embotech and BMW have automated the movement of 1 million vehicles across their sites, using Embotech's automated driving technology. This milestone showcases how automated systems can improve efficiency and safety in industrial logistics, enhancing productivity and reducing human labor."
  },
  "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/": {
   "s": "Xpanner launched a new robot called X1 Piling R6, designed to autonomously drive solar posts for large solar and battery energy storage sites. This robot improves accuracy and reduces the need for manual labor, addressing a shortage of skilled crews."
  },
- "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
-  "s": "Boston Dynamics has joined the DoW SkillBridge program, which assists military veterans in transitioning to civilian careers through on-the-job training. This move aligns with Boston Dynamics' mission to support veterans, offering them industry experience while still in uniform."
+ "https://phys.org/news/2026-10-metal-free-magnetic-sensor-safely.html": {
+  "s": "Researchers in the U.S. and China have invented a magnet that can be safely implanted into the body. This magnet can generate signals from deep inside the body, which could lead to new types of wireless sensors for medical monitoring. Magnetic fields are useful for medical imaging but don't work well for implants."
+ },
+ "https://www.livescience.com/health/viruses-infections-disease/hepatitis-b-could-surge-infecting-millions-more-in-childhood-under-proposed-cdc-guidance": {
+  "s": "A change in hepatitis B vaccination guidelines suggested could expose many young adults to the virus, according to a study. This matters because it could increase the number of new infections among young people."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new world simulation model that enhances realism and interactive capabilities, enabling real-time generation of sounds and dialogue. This matters because it advances the ability to create safe, infinitely variable simulations, useful for training robots and agents and developing new interactive experiences."
+ },
+ "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand": {
+  "s": "Observations of TOI-561 b, a planet orbiting very close to its star, revealed it has a thick atmosphere, contrary to expectations. This discovery challenges current theories about how atmospheres form on rocky exoplanets, as they are expected to lose their atmospheres due to intense radiation."
+ },
+ "https://www.space.com/entertainment/space-books/dungeon-crawler-carl-is-getting-a-killer-new-comic-book-series": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/extreme-roller-coaster-brain-safety": {
+  "s": "Roller coasters from the past, like the Flip Flap Railway in 1895, subjected riders to extreme forces unseen in modern safety guidelines. Now, lawsuits and accidents prompt questions about coaster design and safety, highlighting gaps in guidelines."
+ },
+ "https://www.sciencealert.com/your-dogs-mouth-may-be-crawling-with-human-associated-parasites": {
+  "s": "Dogs and cats, like humans, may harbor a parasite called Trichomonas tenax in their mouths. This finding suggests that humans can infect their pets, especially older dogs and those with more tartar. Researchers suggest that people are likely the primary source of infection for these parasites in pets."
+ },
+ "https://phys.org/news/2026-10-avian-influenza-threatens-vulture-populations.html": {
+  "s": "Vultures are facing threats from human activities such as poisoning, leading to their decline. Avian flu (H5N1) poses a significant threat, potentially causing vulture populations to collapse. The virus spreads widely in critical areas for vultures, affecting species like the California condor and Andean condor."
+ },
+ "https://www.livescience.com/archaeology/native-hawaiians-and-easter-islanders-came-from-same-ultravoyager-group": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-greenhouse-gases-highs.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision": {
+  "s": "Astronomers using James Webb telescope found a galaxy with a ring of stars 2.1 billion years after the Big Bang. This rare sight suggests the universe in its youth may have been more dynamic and chaotic than previously thought."
+ },
+ "https://phys.org/news/2026-10-human-chimpanzee-leaders.html": {
+  "s": "People in leadership positions rate themselves as more risk-loving, and this pattern is also observed in chimpanzees. This finding suggests that traits associated with leadership may have evolutionary roots, as the link between leadership and risk-taking appears in both humans and chimpanzees."
+ },
+ "https://www.livescience.com/health/scientists-invent-implant-that-can-transform-sugar-in-the-blood-to-treat-type-2-diabetes": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-perseverance-clues-crews-ultrafine-mars.html": {
+  "s": "These findings could help future Mars missions by providing insights into how to protect astronauts from inhaling dangerous dust."
+ },
+ "https://phys.org/news/2026-10-earth-planet-grew.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/": {
+  "s": "NASA interns tackled a real-world challenge in lunar exploration by developing a tool to measure propellant mass in microgravity. This matters because the interns gained hands-on experience with a technology crucial for NASA's Artemis missions, preparing for future spaceflight and lunar surface operations."
+ },
+ "https://theconversation.com/fear-based-campaign-ads-can-grab-attention-but-whether-they-win-votes-is-less-clear-292574": {
+  "s": "Campaigns use fear to appeal to voters' prejudices, grabbing attention but not always winning votes. Anxiety from fear alerts people to threats, making them more attentive to new information, which can be a campaign's goal. Yet, how much this works is unpredictable, as shown by the 1964 LBJ “Daisy” ad. Fear appeals may work for struggling campaigns, but informed voters are more likely to reconsider their choices."
+ },
+ "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
+  "s": "Design software X-Hinges transforms everyday objects into self-aware devices with embedded sensors. This innovation allows items like lamps and gloves to perceive and adapt to human contact. Yet, the sensors often mix signals, causing confusion and errors, as seen in a glove misinterpreting a student's motions."
+ },
+ "https://huggingface.co/blog/LiquidAI/lfm3": {
+  "s": "LFM3, a new model from Liquid AI, is designed to be the foundation for specialized intelligence by integrating various types of data including text, vision, and audio. Its significance lies in its ability to be used as a starting point for developing more complex models, all within a manageable 2B parameter size."
+ },
+ "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/": {
+  "s": "ANYbotics introduced ANYmal X, a legged robot designed for hazardous environments like oil, gas, and chemical plants. This innovation matters because it meets strict safety standards, allowing robots to safely inspect areas previously off-limits to human workers, reducing costs and preventing downtime."
  }
 }
