@@ -17,9 +17,6 @@
  "https://simonwillison.net/2026/Oct/13/llm-gemini/": {
   "s": "New Gemini 4 Argon model became available today via Gemini API and for $100/month subscription. Prices are set to double on December 1st, but Argon is cheaper than other models in terms of cost to run a benchmark."
  },
- "https://simonwillison.net/2026/Oct/12/llm-meta-ai/": {
-  "s": "Meta AI released new models Muse Wonder and Muse Wonder Full, claiming they are the most capable. These models are similar to GPT-6.1 Sol, indicating significant advancements. The release of new models suggests improvements in AI capabilities, as seen in the updated pelican charts."
- },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
@@ -177,14 +174,8 @@
  "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
   "s": "Introducing Kimi K3.1 Pro, a new model available on the Kimi API. Moonshot promises to release full model weights by November 2026, currently offering a \"Highspeed\" version at twice the price. This model is benchmarked as approximately at par with Claude Opus 5.5 and GPT-6 Astra, with some advantages on certain tasks."
  },
- "https://www.universetoday.com/articles/rare-lunar-meteorites-could-fill-gaps-in-moons-evolution": {
-  "s": "Lunar meteorites, pieces of the Moon's surface that have been displaced and burned through Earth's atmosphere, offer a unique window into the Moon's earliest formation. They are valuable for scientific study because they come from almost all over the lunar surface, unlike the Apollo samples which were primarily from specific landing sites. This makes lunar meteorites more representative of the Moon's composition, providing a broader understanding of its evolution."
- },
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
- },
- "https://www.sciencedaily.com/releases/2026/10/261024222000.htm": {
-  "s": "Astronomers found three black holes actively consuming matter in a galaxy dating back 12.5 billion years. This discovery offers insight into how giant black holes formed and interacted early in the universe's history."
  },
  "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/": {
   "s": "",
@@ -231,9 +222,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261025073055.htm": {
   "s": "A solar eclipse from 709 BCE, recorded in ancient Chinese texts, is revealing new insights about Earth's rotation and the Sun's behavior. By analyzing this historical record, researchers have determined Earth's rotation speed in ancient times and suggest the Sun was returning to a more active phase after a period of low activity."
- },
- "https://science.nasa.gov/image-article/apod/2026-october-26-m42-the-great-nebula-in-orion/": {
-  "s": "The Great Nebula in Orion, a famous starbirth region, is illuminated by gas surrounding young stars in a cloud 1500 light-years away. This nebula, visible to the unaided eye near Orion's belt, contains many stellar nurseries with hydrogen gas, hot stars, and material being ejected at high speeds."
  },
  "https://www.sciencedaily.com/releases/2026/10/261025073034.htm": {
   "s": "Chinese scientists have found a giant fungus named Dianjunus rex, which can grow up to 20 inches tall and weigh nearly five pounds. This discovery challenges previous knowledge of fungal size, offering insights into fungal evolution and biodiversity in East Asian forests."
@@ -285,9 +273,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-simulations-reveal-high-dna-particle.html": {
-  "s": "DNA-nano/microparticle motors, operating through a \"burnt-bridge Brownian ratchet\" mechanism, are found to move at approximately 30 nm per second. However, these motors are still slower than natural motor proteins and require further improvements in design and performance. Researchers conducted simulations to identify conditions for speeding up these motors, discovering that large particles take longer steps but also pause, compensating for each other in terms of speed but affecting run length and unidirectionality differently."
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-26-2026": {
   "s": "",
   "why": "too little source text"
@@ -325,9 +310,6 @@
  "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
   "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
  },
- "https://www.sciencealert.com/an-armored-amphibian-that-lived-its-whole-life-at-sea-its-a-fossil-first": {
-  "s": "An ancient armored amphibian species Gerrothorax maritimus was discovered in marine deposits dating back 237 million years, suggesting it lived its entire life in saltwater. This finding challenges the typical habitat of amphibians, which are known to need fresh water."
- },
  "https://phys.org/news/2026-10-fuel-nanomaterial-green-hydrogen.html": {
   "s": "Generating hydrogen without carbon dioxide seems straightforward: pass electricity through water and split the molecules. But finding a suitable electrocatalyst is tricky, as current ones rely on scarce and expensive metals. Researchers aimed to use iron and nickel oxides on carbon nanofibers instead. They found these could perform as well as traditional catalysts, using a new material called MXene."
  },
@@ -359,12 +341,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-silent-bacterial-genes-yield-potential.html": {
-  "s": "Researchers at the Helmholtz Center for Infection Research and its site, the Helmholtz Institute for Pharmaceutical Research Saarland, discovered a new family of natural compounds produced by soil bacteria. These compounds bind specifically to a human protein involved in cancer development. By activating a silent biosynthetic pathway, the team synthesized these myxoglucamides, which have a unique structure not previously seen. This discovery offers potential for developing new cancer drugs."
- },
- "https://phys.org/news/2026-10-cats-vegan-diets-professor-andrew.html": {
-  "s": "Excess body weight is a significant health concern for domestic cats, with studies showing 30%–60% of cats are overweight or obese. Andrew Knight, a veterinary professor, notes that vegan diets may help reduce these health issues. Rising popularity of vegan diets for cats is driven by concerns about the environmental impacts of animal agriculture."
- },
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
  },
@@ -376,5 +352,46 @@
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing on Stretch robots to ensure they work reliably in warehouses. Her team simulates years of wear and tear on robot parts in weeks by running tests at accelerated speeds and with more force than a real warehouse would. This helps identify potential issues early, improving robot durability."
+ },
+ "https://www.sciencealert.com/one-dose-of-experimental-antibody-kept-hiv-like-virus-in-remission-for-4-years-in-a-monkey": {
+  "s": "A single dose of an experimental antibody helped keep the virus that causes AIDS in a group of infant monkeys undetectable in the blood for four years after stopping medication, suggesting it may be a promising route to a cure. This approach targets cells that can harbor the virus, potentially reducing viral reservoirs and improving chances of long-term remission."
+ },
+ "https://www.universetoday.com/articles/asymmetric-space-waves-map-pressure-on-earths-magnetic-shield": {
+  "s": "The Earth's magnetic field experiences greater stress from space weather in certain regions compared to others, according to a recent study. This finding could help scientists better understand how the magnetic field protects Earth from harmful space radiation, and could also apply to magnetic fields on other planets."
+ },
+ "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
+  "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
+ },
+ "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html": {
+  "s": "Scientists have clarified the distinction between two similar-looking fungi, Ganoderma lucidum and Ganoderma lingzhi, which have been confused for each other for over two centuries. This distinction is important because it affects consumer safety and the pharmaceutical research on these fungi, which are valued for their medicinal properties. Confusion around their identity has hindered research and potentially misled consumers, posing risks to their health and satisfaction."
+ },
+ "https://www.nature.com/articles/s41467-026-77107-w": {
+  "s": "The researchers constructed a detailed map of human adipose tissue at the cellular level, revealing a specific type of cell called THBS1 that is more active in fat tissue of people with obesity and diabetes. This THBS1 cell promotes inflammation and fibrosis in fat, which can lead to metabolic diseases. The findings suggest that targeting THBS1 could be a way to treat these diseases."
+ },
+ "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
+  "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a site that billions of years ago was home to a river channel. This vista now shows dust, indicating wind action, but it preserves evidence of past water flow."
+ },
+ "https://openai.com/index/introducing-gpt-6-1-terra": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html": {
+  "s": "A new species of dinosaur, Paludohadros proudlovii, was identified from fossils at a brickworks in Surrey, England, dating back 125 million years. This discovery challenges previous classifications of iguanodontians found in southern England, leading to the naming of several new species. The wetland environment of the time helped shape the dinosaur's name, reflecting its habitat."
+ },
+ "https://phys.org/news/2026-10-binary-gene-enables-independent-multiple.html": {
+  "s": "The researchers developed a new binary gene expression system that allows independent control of multiple cell types. This innovation matters because it provides researchers with a tool to specifically manipulate gene expression in different cell types, aiding in the understanding of how these cell types work together to maintain normal physiological functions."
+ },
+ "https://openai.com/index/securing-our-frontier-model-training-environment": {
+  "s": "Securing their research environment, OpenAI strengthened offline training and evaluation settings and red-teamed their boundaries. This matters as AI models, when more capable, can find ways to escape security controls, potentially causing harm. OpenAI's efforts aim to contain these risks by adding new security measures and improving detection of misaligned behavior."
+ },
+ "https://openai.com/index/openai-models-google-cloud": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/amp-beyond-coding": {
+  "s": "Amp uses AI models from OpenAI to help developers turn ideas into software. Each new model opens more possibilities for what the AI can do, from planning projects to writing code. OpenAI models are popular because they are transparent and easy to use, allowing developers to work with them without worrying about costs. OpenAI's GPT-6 Astra, in particular, makes the AI more willing to handle bigger tasks, giving developers more confidence to let the AI do more work."
+ },
+ "https://openai.com/index/third-moment-research": {
+  "s": "Such extended use enhances the agents' performance, suggesting AI can operate continuously in demanding roles."
  }
 }
