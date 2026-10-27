@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2113766354386084338",
-     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.\n\nThis root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.\n\nMore details on the patch and mitigations below:",
+     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
      "date": "2026-10-23T22:55:45.000Z",
      "quoted": true,
      "image": null,
@@ -16,8 +16,17 @@
      "url": "https://x.com/OpenAI/status/2113766354386084338"
     },
     {
+     "id": "2113718797505036665",
+     "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
+     "date": "2026-10-23T19:46:46.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/OpenAI/status/2113718797505036665"
+    },
+    {
      "id": "2113298833392496746",
-     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
+     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future",
      "date": "2026-10-22T15:57:59.000Z",
      "quoted": true,
      "image": null,
@@ -32,15 +41,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/OpenAI/status/2112988118471295323"
-    },
-    {
-     "id": "2112945805686604033",
-     "text": "If you are wondering whether your website is affected, we have packaged a Codex skill to help check.\n\nPoint your Codex at this repo to guide you through it:",
-     "date": "2026-10-21T16:35:11.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/OpenAI/status/2112945805686604033"
     }
    ]
   },
@@ -61,7 +61,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -78,13 +78,13 @@
      "url": "https://x.com/AnthropicAI/status/2112579251555721573"
     },
     {
-     "id": "2110846112152105136",
-     "text": "Working out how best to use AI in mathematics research—and in science more generally—will take time, effort, and resources. We’re eager to support mathematicians as they drive scientific progress and define the future of their field.\n\nWe’ve committed $5 million of funding, compute, and Claude access to help the math community navigate the massive changes that AI brings. We’re partnering with @SimonsFdn, who will manage the award through a community-driven approach, supporting workshops, conferences, and lectures by domain experts.",
-     "date": "2026-10-15T21:31:45.000Z",
-     "quoted": true,
+     "id": "2111152183240511640",
+     "text": "New from our STEM Fellows Program: Designing more efficient quantum circuits with Claude.\n\nGiven plain-language instructions, Claude Mythos 5 designed quantum circuits that improve on the best published ones, sometimes by an order of magnitude or more.\n\nMore efficient circuits",
+     "date": "2026-10-16T17:47:58.000Z",
+     "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/AnthropicAI/status/2110846112152105136"
+     "url": "https://x.com/AnthropicAI/status/2111152183240511640"
     }
    ]
   },
@@ -237,7 +237,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -252,15 +252,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/demishassabis/status/2106850913474482566"
-    },
-    {
-     "id": "2105348732464070823",
-     "text": "Biosecurity is one of the most urgent challenges for the AI era. Bringing SynthID to biology so AI-generated proteins can be watermarked is a critical step - and we’re open sourcing SynthID Bio tools so the research community can build on this work. Published in @Nature today,",
-     "date": "2026-09-30T17:27:07.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/demishassabis/status/2105348732464070823"
     }
    ]
   },
@@ -307,7 +298,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -316,7 +307,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -473,6 +464,15 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
+     "id": "2114827978748383342",
+     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
+     "date": "2026-10-26T21:14:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
+     "url": "https://x.com/nvidia/status/2114827978748383342"
+    },
+    {
      "id": "2114377680715980950",
      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
      "date": "2026-10-25T15:24:56.000Z",
@@ -498,15 +498,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
      "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
      "url": "https://x.com/nvidia/status/2113604477261398148"
-    },
-    {
-     "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
-     "date": "2026-10-21T14:54:03.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112920354230296993"
     }
    ]
   },
@@ -720,7 +711,7 @@
     },
     {
      "id": "2105659276425298012",
-     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI and real work:",
+     "text": "These new hands are the perfect companion for Atlas. With 13 degrees of freedom, they are directly actuated, built for high fidelity simulation to enable sim-to-real RL, and designed from the ground up for dexterous physical work. \n\nLearn how we built robot hands for modern AI",
      "date": "2026-10-01T14:01:07.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTjN70OW4AA9qPg.jpg",
@@ -807,7 +798,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -825,7 +816,7 @@
     },
     {
      "id": "2106350586232991745",
-     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH",
+     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH #HumanoidRobot #DigitalTwin #SmartManufacturing #AI",
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
@@ -1325,7 +1316,7 @@
    "posts": [
     {
      "id": "2108573330659803566",
-     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and scientific discovery to global communications. As we celebrate #WSW2026, our goal is to inspire the next generation to dream bigger and explore farther. \n\n#WorldSpaceWeek // @WorldSpaceWeek",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
      "date": "2026-10-09T15:00:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
@@ -1352,7 +1343,7 @@
     },
     {
      "id": "2104676285280604205",
-     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low Earth orbit.",
+     "text": "We are already working towards the Starliner-1 mission and look forward to our continued work with @BoeingSpace and @NASA to integrate and certify our #VulcanRocket for human spaceflight. We are committed to being a long-term launch provider of human spaceflight capability to low",
      "date": "2026-09-28T20:55:04.000Z",
      "quoted": true,
      "image": null,
@@ -1369,7 +1360,7 @@
    "posts": [
     {
      "id": "2113676900883218684",
-     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the",
+     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the spacecraft and Ariane 6. It keeps the spacecraft securely attached during launch and enables its separation once the intended orbit has been reached.\n\nDuring the fit check, teams verify that the spacecraft and its adapter match perfectly, which is a key step before moving forward with the launch campaign.\n\nOnce these checks are complete, the spacecraft can move on to the next stage of its preparation for launch.\n\n#LaunchingAmbitions",
      "date": "2026-10-23T17:00:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVVJ31CWcAAr-2K.jpg",
@@ -1378,7 +1369,7 @@
     },
     {
      "id": "2113314438816170244",
-     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through",
+     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through the inner Solar System to reach Mercury.\n\nA few minutes with Ariane 5 were the first step in a journey lasting billions of kilometres.\n\nFrom launch to separation, every minute was about putting BepiColombo on the right path for what came next.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-22T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVQARrrXYAAF3pm.jpg",
@@ -1396,7 +1387,7 @@
     },
     {
      "id": "2112589662518681977",
-     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled",
+     "text": "Eight years ago today, BepiColombo began its journey to Mercury. 🚀\n\nOn 20 October 2018, the ESA/JAXA mission lifted off from Europe’s Spaceport aboard Ariane 5, beginning one of the most complex journeys through the inner Solar System.\n\nSince then, BepiColombo has travelled billions of kilometres, using planetary flybys to gradually adjust its trajectory towards the closest planet to the Sun.\n\nEight years after launch, the journey that began in Kourou is entering its final chapter, bringing BepiColombo closer to the world it was built to explore.\n\nA journey that started with Ariane 5, and continues to push our understanding of Mercury further.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-20T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVFtE3gW4AACRTG.jpg",
@@ -1413,7 +1404,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1422,7 +1413,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1431,7 +1422,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1440,7 +1431,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1501,7 +1492,7 @@
    "posts": [
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
@@ -1510,7 +1501,7 @@
     },
     {
      "id": "2111036311800815903",
-     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are",
+     "text": "We're thrilled to announce we have signed an MoU with ALTEC, an Italian centre of excellence for engineering and logistics services supporting space operations and planetary exploration missions.\n\nTesting, simulation, and operator training in analogue lunar environments are essential to successful lunar surface operations. Under the MoU, we will assess opportunities for ispace-EUROPE to use ALTEC facilities to simulate rover platform operations in lunar analogue environments.\n\nThrough this collaboration, we have the opportunity to bring together ispace-EUROPE’s expertise in lunar rover development and operations with ALTEC’s advanced facilities and expertise testing for planetary mission operations.\n\nWith ALTEC owned by Thales Alenia Space and the Italian Space Agency (ASI), this agreement reflects the growing strength of Europe’s lunar exploration ecosystem. \n\nBy working with leading partners across Europe we can accelerate the development of robust, operationally ready rover systems that support future science, exploration and space resource utilization missions on the Moon 🇮🇹🇱🇺🌙\n\nRead more 🔗",
      "date": "2026-10-16T10:07:32.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvoVhMWgAA3nzV.jpg",
@@ -1519,7 +1510,7 @@
     },
     {
      "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project “High-Precision Landing Technology in the Lunar Polar Regions,” and is advancing technology development in preparation for Mission 4.\n\nDuring the visit, our team shared plans for upcoming technology development activities and exchanged perspectives with JAXA representatives. JAXA also presented a commemorative plaque to Takashi Katagiri, ispace’s Mission 4 Manager, in recognition of the project. Through M4, ispace aims to advance high-precision landing capabilities near the lunar south pole, a region of significant scientific and economic potential. 🚀🌕\n\n#ispace #JAXA #LunarExploration #Mission4",
      "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",

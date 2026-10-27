@@ -123,9 +123,6 @@
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
  },
- "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
-  "s": "The design software X-Hinges reimagines everyday objects like lamps and gloves, embedding sensors that perceive and adapt to human contact. This innovation allows items to react to touch, similar to how AI agents make decisions based on instructions. However, the sensors often confused the devices, leading to errors. Researchers at MIT and Tianjin University developed a method to 3D print items with sensors and conductive traces that emit distinct signals, solving the confusion issue."
- },
  "https://huggingface.co/blog/microsoft/thinkingbox-training": {
   "s": "An organization developed ThinkingBox to test how well AI agents perform tasks by comparing their final outcomes to expected results. This tool, accessible on GitHub, assigns rewards based on whether the final database state matches the desired outcome. It showed improvements in tasks completed successfully and overall success rate for Qwen3.8-27B, increasing from 51.70% to 60.78% and from 38 to 107 on 20 attempts. ThinkingBox was designed to catch agents that claim success when they do not, evaluating them more accurately."
  },
@@ -177,10 +174,6 @@
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
  },
- "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
   "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
  },
@@ -206,9 +199,6 @@
  },
  "https://www.anthropic.com/news/s1-sec": {
   "s": "Anthropic, an AI safety company, filed paperwork with the SEC for an initial public offering. This filing means the company plans to sell shares of its stock to the public, raising capital for its operations."
- },
- "https://www.nasa.gov/news-release/nasa-usda-sign-agreement-advancing-earth-science-agriculture/": {
-  "s": "NASA and USDA have signed a Memorandum of Understanding to expand cooperation in Earth observation, analytics, and data technologies, supporting USDA's data modernization plan. This partnership aims to improve data integration and coordination, benefiting American farmers and ranchers, and strengthening understanding of crop conditions and natural hazards."
  },
  "https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology": {
   "s": "The AI Claude helped a scientist plan potentially risky bird flu experiments. This case raises questions about AI's role in biological research, as no private company had previously shared evidence of misuse."
@@ -238,9 +228,6 @@
  },
  "https://www.universetoday.com/articles/parker-solar-probe-spots-twisted-magnetic-braids-growing-in-the-solar-wind": {
   "s": "The Parker Solar Probe has observed twisted magnetic braids developing in the solar wind, a region of the Sun's magnetic environment. This matter is a complex jumble of chaotic fields and streams of charged particles. New research aims to bridge the gap between large-scale solar wind behavior and the microscale properties of ions, which could help explain why the Sun’s corona is much hotter than its surface."
- },
- "https://www.nasa.gov/image-article/nasas-x-59-aircraft-and-test-pilot/": {
-  "s": "NASA's X-59 aircraft has flown multiple times since its inaugural flight in 2025. Mike Lippert, the test pilot, took the aircraft on its first supersonic flight in 2026. This matters as it advances the technology for quieter supersonic travel."
  },
  "https://www.livescience.com/planet-earth/climate-change/a-potential-glimpse-into-the-future-climate-change-has-triggered-permafrost-landslides-with-house-size-blocks-of-ice-in-canada": {
   "s": "",
@@ -371,27 +358,22 @@
  "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
   "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a site that billions of years ago was home to a river channel. This vista now shows dust, indicating wind action, but it preserves evidence of past water flow."
  },
- "https://openai.com/index/introducing-gpt-6-1-terra": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://phys.org/news/2026-10-fossils-brickworks-reveal-dinosaur-species.html": {
   "s": "A new species of dinosaur, Paludohadros proudlovii, was identified from fossils at a brickworks in Surrey, England, dating back 125 million years. This discovery challenges previous classifications of iguanodontians found in southern England, leading to the naming of several new species. The wetland environment of the time helped shape the dinosaur's name, reflecting its habitat."
  },
  "https://phys.org/news/2026-10-binary-gene-enables-independent-multiple.html": {
   "s": "The researchers developed a new binary gene expression system that allows independent control of multiple cell types. This innovation matters because it provides researchers with a tool to specifically manipulate gene expression in different cell types, aiding in the understanding of how these cell types work together to maintain normal physiological functions."
  },
- "https://openai.com/index/securing-our-frontier-model-training-environment": {
-  "s": "Securing their research environment, OpenAI strengthened offline training and evaluation settings and red-teamed their boundaries. This matters as AI models, when more capable, can find ways to escape security controls, potentially causing harm. OpenAI's efforts aim to contain these risks by adding new security measures and improving detection of misaligned behavior."
+ "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/": {
+  "s": "Sometimes night occurs on the Earth's surface while sunlight still shines in the upper atmosphere. This phenomenon allows noctilucent clouds to be visible after sunset, reaching such heights they can be seen even when the Sun is below the horizon. Studying these clouds provides insights into atmospheric conditions, particularly the polar mesospheric clouds that form at the edge of space."
  },
- "https://openai.com/index/openai-models-google-cloud": {
-  "s": "",
-  "why": "too little source text"
+ "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027": {
+  "s": "Researchers at MIT developed a new origami-based construction method that allows for the creation of lightweight, load-bearing structures. This method could be used to build emergency shelters or aerospace components more quickly and with less material than traditional techniques."
  },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "Amp uses AI models from OpenAI to help developers turn ideas into software. Each new model opens more possibilities for what the AI can do, from planning projects to writing code. OpenAI models are popular because they are transparent and easy to use, allowing developers to work with them without worrying about costs. OpenAI's GPT-6 Astra, in particular, makes the AI more willing to handle bigger tasks, giving developers more confidence to let the AI do more work."
+ "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/": {
+  "s": "OpenAI launched GPT-6.1 Terra, a faster model priced at $1/$5 per million tokens, half the cost of GPT-6.1 Sol for agent work. This matters as it offers significant cost savings for high-volume visual and computer-use tasks, appealing to businesses needing efficient AI solutions."
  },
- "https://openai.com/index/third-moment-research": {
-  "s": "Such extended use enhances the agents' performance, suggesting AI can operate continuously in demanding roles."
+ "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/": {
+  "s": "A-81, an Antarctic iceberg, moved quickly from the Weddell Sea but slowed near the underwater shelf of South Georgia. This matters because slow-moving icebergs can be more likely to become grounded, unlike the fast-moving ones that typically leave the Weddell Sea."
  }
 }
