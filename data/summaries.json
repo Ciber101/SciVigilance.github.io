@@ -157,9 +157,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.marktechpost.com/2026/10/26/nace-ai-releases-drex-for-search-for-ai-agents/": {
-  "s": "Nace AI has released Drex for Search, a tool that improves AI agent performance in document search tasks. This release shows Drex for Search outperforms existing methods, achieving high accuracy with fewer steps and tokens, making it suitable for real-time applications."
- },
  "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
   "s": "Volcanoes have caused extreme weather and famine in the past, affecting global climates and human history. Understanding these events can help predict and prepare for future climate impacts on societies."
  },
@@ -168,10 +165,6 @@
  },
  "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026": {
   "s": "The J-PAL North America hub offers free online resources for tackling homelessness, aiding policymakers, practitioners, and researchers in using rigorous research to inform their approaches. Homelessness is a complex issue, and this hub aims to help overcome barriers to accessing and understanding evidence to improve housing stability."
- },
- "https://www.universetoday.com/articles/a-brief-ish-history-of-meti-part-i-early-ideas-and-experiments": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
@@ -225,10 +218,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261026225606.htm": {
   "s": "A discovery shows that common anti-inflammatory drugs may unintentionally aid dangerous viruses. These medications, designed to treat inflammation, can also make it easier for certain viruses to infect and spread in the body. The study suggests that drugs like Janus kinase inhibitors can increase the risk of diseases caused by viruses such as Rift Valley fever, influenza, and SARS-CoV-2."
- },
- "https://www.space.com/space-exploration/mars-rovers/mars-rover-tracks-from-a-historic-drive-space-photo-of-the-day-for-oct-27-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/a-deep-mantle-garnet-might-hold-the-secret-to-ancient-martian-magma": {
   "s": "A new study explains that majorite, a deep-mantle garnet, might resolve the contradiction in Mars' rock chemistry. Majorite forms under high pressures near Mars' core, where conditions are reducing, yet the rock samples show they are oxidized, indicating a different environment."
@@ -292,17 +281,11 @@
  "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/": {
   "s": "ANYbotics introduced ANYmal X, a legged robot designed for hazardous environments like oil, gas, and chemical plants. This innovation matters because it meets strict safety standards, allowing robots to safely inspect areas previously off-limits to human workers, reducing costs and preventing downtime."
  },
- "https://phys.org/news/2026-10-nanostructures-classic-layered.html": {
-  "s": "Researchers developed a computational model that extends the study of nanostructures beyond classic layered systems. This model helps predict which materials can be split into stable two-dimensional layers, a significant advancement given the young and unpredictable nature of these materials."
- },
  "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier": {
   "s": "People who use AI for simple tasks like math became less motivated, a study found. This suggests reliance on technology might make individuals less inclined to engage in challenging activities."
  },
  "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart": {
   "s": "Astronomers have uncovered the mysteries of a cosmic phenomenon called 'string of pearls,' a relic from a supernova seen by humans centuries ago. This relic contains a 'zombie star,' a star that has reawakened after being dormant."
- },
- "https://www.sciencealert.com/physicists-propose-a-strange-new-state-of-matter-a-liquid-that-can-flow-in-time": {
-  "s": "Physicists propose a new state of matter called a time liquid, where molecules retain short-range temporal order even as long-range coherence dissolves. If confirmed, this could offer new ways to study how matter responds to environmental fluctuations, revealing how order can emerge from apparent disorder."
  },
  "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes": {
   "s": "In the early Universe, dense stellar environments led to frequent stellar collisions, producing massive stars. This research suggests that repeated mergers of these massive stars could have formed supermassive black holes, explaining their presence before expected."
@@ -316,18 +299,12 @@
  "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/": {
   "s": "A technician inspects a sunshade for NASA’s NEO Surveyor mission, designed to keep the telescope cool and shield it from the sun’s heat. This will enable the spacecraft to detect near-Earth asteroids and comets, including those near the sun, which are difficult to see from the ground."
  },
- "https://phys.org/news/2026-10-rice-devastating-disease-gene-ai.html": {
-  "s": "Rice plants developed by University of Missouri researchers can now resist bacterial blight, a disease that severely impacts global food security. This advance could help farmers in Asia and Africa, where the disease can devastate harvests. The work builds on previous research and uses an AI-designed gene-editing tool, opening new possibilities for creating stronger crops. Further testing and commercialization are needed before farmers can grow these resilient rice plants."
- },
  "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them": {
   "s": "Rare tiger behaviors, such as a mother, father, and cubs spending time together, were captured on camera. This suggests researchers still know little about these usually solitary cats."
  },
  "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-human-brain-humans-great-apes.html": {
-  "s": "Researchers compared brain development in humans and great apes using brain organoids grown from stem cells. They found that in humans, certain genes made cells more branched, likely leading to more neurons and a bigger brain. This suggests genetic switches play a key role in brain development, not just new genes."
  },
  "https://www.space.com/space-exploration/launches-spacecraft/cowboy-space-unveils-big-iron-rocket-to-launch-20-000-ai-data-centers": {
   "s": "This launch plan aims for late 2028, signaling the company's ambition to build a constellation of these data centers in orbit."
@@ -336,15 +313,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-autonomous-rendezvous-simulated-spacecraft-failures.html": {
-  "s": "Many are nonfunctional and not sending signals, leading to a need for spacecraft to service these satellites. Minduli Wijayatunga developed CORTEX, a framework for autonomous spacecraft to rendezvous and repair unconscious satellites. This is important because it addresses a gap in current capabilities for servicing space debris and noncommunicating satellites in orbit."
- },
- "https://phys.org/news/2026-10-species-climate-regional-strategies.html": {
-  "s": "A study found that plant species' vulnerability to climate change varies by region, not by species. This suggests that conservation efforts should focus on regional data, not national data, to accurately identify which species need protection and where."
- },
- "https://phys.org/news/2026-10-reusable-palladium-catalyst-enables-chemical.html": {
-  "s": "Reusable palladium catalyst enables more direct chemical synthesis, making reactions more efficient and sustainable. This breakthrough reduces waste and makes C-H functionalization a viable route for producing complex molecules."
- },
  "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": {
   "s": "These findings could help design better spacesuits and habitats for future Mars missions, improving crew health and safety."
  },
@@ -352,18 +320,53 @@
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/openai-models-google-cloud": {
+ "https://phys.org/news/2026-10-earth-thermostat-pangea-era.html": {
+  "s": "The climate thermostat that maintains Earth's habitability may have operated differently during the time when the supercontinent Pangea existed. This discovery could offer new insights into how Earth's climate has changed over time and might influence future climate scenarios."
+ },
+ "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star": {
+  "s": "When a star like the Sun exhausts its fuel and expands, it can engulf and destroy its inner planets. This debris can form new planets, but these worlds would not have a chance to support life. The discovery of a white dwarf surrounded by a split debris disk suggests the potential for planets, but chances of life emerging are remote."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "",
   "why": "too little source text"
  },
- "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
-  "s": "Patch the Planet coordinated efforts to address critical vulnerabilities in PHP, a widely used open-source language. This matter matters because the flaws identified had high severity and were used by both defenders and attackers, underscoring the need for rapid response and coordination in the AI era."
+ "https://www.sciencealert.com/mice-with-parkinsons-like-brain-changes-unexpectedly-recovered-a-year-later": {
+  "s": "Mice with movement problems resembling Parkinson's disease recovered without treatment after pesticide exposure ended. Scientists found this recovery unexpected, as it was not expected that the animals would improve over time."
  },
- "https://openai.com/index/amp-beyond-coding": {
+ "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space": {
+  "s": "Underwater, Michaela Musilova conducted simulated spacewalks in dim conditions to prepare astronauts for real space missions. Her work helps ensure safety and effective communication for future space travelers."
+ },
+ "https://phys.org/news/2026-10-identical-vesicles-behaviors-reveals-spontaneous.html": {
+  "s": "Nonreciprocal interactions occur when agents act differently on each other, contrary to Newton's third law. This phenomenon explains various active matter traits like self-propulsion and motion. A model shows how such interactions arise spontaneously in chemically active vesicles, which can switch between ignoring, attracting, repelling and chasing each other. The behavior stems from chemical concentration gradients within the vesicles, which evolve dynamically over time, influenced by external chemical reactions."
+ },
+ "https://phys.org/news/2026-10-simple-recipe-guesswork-mass-spectrometry.html": {
+  "s": "Researchers at Georgia Tech have developed a framework to help make mass spectrometry imaging more predictable. This approach, published in Analytical Chemistry, aims to reduce the guesswork involved in using MSI to map molecular locations within tissue, making it easier for scientists to conduct new studies."
+ },
+ "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-database-tracks-earth-standardizing-decades.html": {
+  "s": "Researchers track water's origins using isotopes, variants of water molecules with different masses. This data from eight satellites, though rich, was hard to use due to differences in data sets and locations. A new database standardizes isotopic data, making it easier for researchers to combine and analyze, potentially revealing more about water's global cycle."
+ },
+ "https://phys.org/news/2026-10-counteranion-captures-reactants-boost-driven.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/": {
+  "s": "Liquid AI released LFM3, 6 open-weight multimodal models. LFM3 is larger but lighter than previous models, using a hybrid backbone and more efficient attention mechanisms. These changes are important for practical deployment, especially on resource-constrained devices. LFM3's superior performance, particularly in decision-making tasks and agent-based reasoning, highlights the model's potential for real-world applications."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore's GovTech collaborated to develop a lightweight AI model called Gemma. This model is designed to detect scam conversations in private chats without transmitting any data to the cloud."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
   "s": "",
   "why": "too little source text"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon demonstrated advanced physical reasoning by outperforming other models on a benchmark test, showcasing its ability to solve complex physical problems without explicit training. This advancement could accelerate the development of physical artificial general intelligence, potentially leading to more versatile and autonomous robots."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
  }
