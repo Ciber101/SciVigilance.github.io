@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-27T10:37:42-07:00",
- "updated_pt": "Oct 27, 2026, 10:37 AM PT",
+ "updated": "2026-10-27T16:35:50-07:00",
+ "updated_pt": "Oct 27, 2026, 4:35 PM PT",
  "stories": [
   {
    "title": "Google DeepMind unveils Genie 4, a real-time world model that generates sound, speech and realistic physics",
@@ -16,6 +16,24 @@
     {
      "name": "Google DeepMind",
      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "date": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "title": "Rubin Observatory finds its first dwarf planet candidate, an icy world beyond Pluto called 2026 ED138",
+   "tag": "Space",
+   "date": "2026-10-27",
+   "paragraphs": [
+    "Scientists have found a distant, icy body orbiting beyond Pluto that may be added to the solar system's official list of dwarf planets, according to a University of Washington release published on Phys.org on Oct. 27, 2026. The object, provisionally named 2026 ED138, was spotted earlier this month in data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rubin Observatory. The results were presented at a press conference on Oct. 27 by Matthew Holman, a senior astrophysicist at the Harvard & Smithsonian Center for Astrophysics who first spotted the object, and Mario Jurić, a University of Washington astronomy professor who leads Rubin's solar system team.",
+    "According to the release, initial measurements place ED138 among the largest dwarf planet candidates ever found beyond Neptune. If confirmed, it would join the five dwarf planets recognized by the International Astronomical Union: Pluto, Ceres, Eris, Haumea and Makemake. \"Finding an object this big, roughly 1,000 kilometers (620 miles) across, is something that happens maybe once in a generation,\" Jurić said. \"It's the largest trans-Neptunian object found in about 20 years, and Rubin turned it up while we were still commissioning the telescope.\"",
+    "Holman found the object on the evening of Oct. 13 by running Rubin data through a search code he developed with colleague Kevin Napier, which compares billions of detections of moving objects to find the ones that belong to the same body. Jurić then found 20 more Rubin observations going back to March 2026, and the team also spotted ED138 in archival images from other surveys going back to 2016, giving them more than 10 years of its orbit. The release says the object sits in a crowded region of sky near the plane of the Milky Way, which is likely why it went unnoticed until now.",
+    "ED138 is currently about 46 astronomical units from the sun, compared with Pluto's average distance of 40 au. Based on its distance, brightness and estimated surface reflectivity, the team estimates it is between 600 and 1,500 kilometers (370 and 930 miles) across, and the release notes that icy bodies this large are expected to be round, one of the requirements for a dwarf planet. Further observations are needed to measure its exact size and confirm that it is a dwarf planet. The discovery follows Rubin's announcement in April of more than 11,000 new asteroids, including roughly 380 new trans-Neptunian objects, before its Legacy Survey of Space and Time formally began in June 2026."
+   ],
+   "sources": [
+    {
+     "name": "Phys.org (University of Washington)",
+     "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
      "date": "2026-10-27"
     }
    ]
@@ -99,29 +117,6 @@
      "name": "CNBC",
      "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
      "date": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "title": "Lumina, a record-size supercomputer simulation, follows the universe's first 2 billion years out of the cosmic dark ages",
-   "tag": "Space",
-   "date": "2026-10-26",
-   "paragraphs": [
-    "Physicists from MIT, the Center for Astrophysics | Harvard & Smithsonian and other institutions have published Lumina, a computer simulation of the early universe, in the journal Monthly Notices of the Royal Astronomical Society, MIT News reported on Oct. 26, 2026. According to MIT, the simulation starts about 45 million years after the Big Bang, during the cosmic \"dark age\" when neutral hydrogen blocked light from traveling freely, and follows the next 2 billion years of cosmic history. It tracks dark matter, gas, stars and radiation, from the largest scales down to individual developing galaxies.",
-    "The simulated region spans about 500 megaparsecs. MIT News describes that as about 1.6 billion light-years wide, while the Center for Astrophysics release, published on Phys.org on Oct. 25, describes a cube roughly 1.5 billion light-years on each side. Both say it covers more than 100 times the volume of previous comparable simulations. MIT says Lumina contains about half a trillion individual elements, such as dark matter particles and gas cells, giving it about 30 times the resolution of the earlier IllustrisTNG simulation it builds on. \"Lumina does everything from small-scale star and galaxy formation to large-scale re-ionization of hydrogen and helium, in a volume that is 100 times larger than previous best simulations,\" said MIT physics professor Mark Vogelsberger.",
-    "According to MIT News, the simulation is the first to capture both hydrogen and helium reionization, the periods when radiation stripped electrons from those gases and let light travel freely. In Lumina, hydrogen reionization was likely driven by light from early galaxies and stars, while helium reionization was fueled by much more energetic supermassive black holes in their active, feeding phases. The Center for Astrophysics calls Lumina the largest cosmological radiation-hydrodynamics simulation ever created.",
-    "The team ran Lumina on Frontier, a supercomputer at Oak Ridge National Laboratory in Tennessee. \"At peak scale, the calculation brings together the equivalent of more than 100,000 CPU cores and around 15,000 GPUs,\" said MIT co-author Xuejian (Jacob) Shen. Lead author Oliver Zier of the Center for Astrophysics said the goal is to turn theories into detailed predictions that can be checked against what telescopes such as the James Webb Space Telescope see. The researchers are making Lumina available to other scientists, according to MIT."
-   ],
-   "sources": [
-    {
-     "name": "MIT News",
-     "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
-     "date": "2026-10-26"
-    },
-    {
-     "name": "Phys.org (Center for Astrophysics | Harvard & Smithsonian)",
-     "url": "https://phys.org/news/2026-10-lumina-simulation-early-universe-life.html",
-     "date": "2026-10-25"
     }
    ]
   }
