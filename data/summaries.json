@@ -177,9 +177,6 @@
  "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/": {
   "s": "Sereact and Teradyne have already deployed hundreds of UR robots in Europe, handling customer returns at Zalando fulfillment centers. This partnership aims to automate unstructured tasks in retail and logistics, leveraging Teradyne's UR robots and Sereact's physical AI platform."
  },
- "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/": {
-  "s": "Nanbeige LLM Lab released Nanbeige4.3-33B, a large 33B dense model with 512K context. Its release strategy is to first build a strong teacher model, then distill agentic skills into smaller models. The model's performance is compared with other models, showing it outperforms in some tasks but loses in others. The model uses a standard LlamaForCausalLM architecture and has controls for reasoning and multi-turn chat."
- },
  "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026": {
   "s": "The new simulation called Lumina tracks the universe’s first 2 billion years with greater detail and volume, including dark matter, galaxies, stars, and cosmic structures. This helps researchers better understand how the universe developed after the dark ages."
  },
@@ -264,9 +261,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://science.nasa.gov/learning-resources/science-activation/nasa-sees-interns-tackle-real-world-challenges-in-lunar-exploration/": {
-  "s": "NASA interns tackled real-world challenges in lunar exploration by developing a dashboard for a mission. This tool helps investigate how spacecraft performance changes under different conditions. Their work is crucial for NASA’s Artemis missions, which aim to return humans to the Moon."
- },
  "https://www.universetoday.com/articles/a-huge-and-powerful-new-simulation-helps-explain-the-universes-reionization": {
   "s": "A new simulation named Lumina, one of the largest and most detailed simulations, helps cosmologists understand the universe's reionization. This matters because it provides insights into how galaxies and active galactic nuclei drive the reionization of the intergalactic medium across cosmic time, a challenge in cosmology."
  },
@@ -331,15 +325,6 @@
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot's unique capabilities, such as climbing stairs and navigating tight spaces, make it a standard tool in the public safety kit."
- },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
-  "s": "Robot hands for Boston Dynamics' Atlas robot are more complex and capable than typical human hands, with 13 degrees of freedom for enhanced dexterity and strength. This matters because it enables Atlas to perform a wider range of tasks, from delicate manipulation to gripping tools, making it better suited for real-world work scenarios."
- },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "Diane Heinle, a mechanical engineer, conducts endurance testing on Stretch robots to ensure they work reliably in warehouses. Her team simulates years of wear and tear on robot parts in weeks by running tests at accelerated speeds and with more force than a real warehouse would. This helps identify potential issues early, improving robot durability."
- },
  "https://www.sciencealert.com/one-dose-of-experimental-antibody-kept-hiv-like-virus-in-remission-for-4-years-in-a-monkey": {
   "s": "A single dose of an experimental antibody helped keep the virus that causes AIDS in a group of infant monkeys undetectable in the blood for four years after stopping medication, suggesting it may be a promising route to a cure. This approach targets cells that can harbor the virus, potentially reducing viral reservoirs and improving chances of long-term remission."
  },
@@ -351,9 +336,6 @@
  },
  "https://phys.org/news/2026-10-false-lingzhi-unmasked-scientists-year.html": {
   "s": "Scientists have clarified the distinction between two similar-looking fungi, Ganoderma lucidum and Ganoderma lingzhi, which have been confused for each other for over two centuries. This distinction is important because it affects consumer safety and the pharmaceutical research on these fungi, which are valued for their medicinal properties. Confusion around their identity has hindered research and potentially misled consumers, posing risks to their health and satisfaction."
- },
- "https://www.nature.com/articles/s41467-026-77107-w": {
-  "s": "The researchers constructed a detailed map of human adipose tissue at the cellular level, revealing a specific type of cell called THBS1 that is more active in fat tissue of people with obesity and diabetes. This THBS1 cell promotes inflammation and fibrosis in fat, which can lead to metabolic diseases. The findings suggest that targeting THBS1 could be a way to treat these diseases."
  },
  "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
   "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a site that billions of years ago was home to a river channel. This vista now shows dust, indicating wind action, but it preserves evidence of past water flow."
@@ -375,5 +357,17 @@
  },
  "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/": {
   "s": "A-81, an Antarctic iceberg, moved quickly from the Weddell Sea but slowed near the underwater shelf of South Georgia. This matters because slow-moving icebergs can be more likely to become grounded, unlike the fast-moving ones that typically leave the Weddell Sea."
+ },
+ "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/": {
+  "s": "When Malvika Bhardwaj, an intern at NASA’s Johnson Space Center, asked her mentor Daniel Cohen for more teaching time, Cohen encouraged her to decide what was important. This advice shaped Bhardwaj’s internship experience, as Cohen’s support and community-building efforts helped her gain technical skills and experience. Cohen’s mentorship and NASA’s culture of support and teamwork influenced Bhardwaj’s career aspirations in space exploration."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261024222000.htm": {
+  "s": "Astronomers have found three giant black holes in a galaxy that existed when the universe was very young, about 1.2 billion years after the Big Bang. This discovery offers insights into how black holes grew and interacted during the universe's earliest days, suggesting that galaxy collisions and mergers helped bring together massive black holes."
+ },
+ "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/": {
+  "s": "vLLM Semantic Router released d3-ultra, a 27-billion parameter multimodal decision model capable of processing text, images, and video. This model scores 87.2 on the SR-Text test, indicating its ability to answer typed questions with high accuracy. The release of d3-ultra is significant as it joins the Decision 3.0 family, which ranges from 0.6B to 27B parameters, showcasing advancements in multimodal decision-making models."
+ },
+ "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/": {
+  "s": "Baidu has released Unlimited OCR 2, an improved OCR model that can parse hundred-page documents in a single request. Its SR-SWA attention mechanism keeps the decoding cost nearly flat, scoring well on document parsing benchmarks. This advancement matters because it represents a significant improvement in handling complex, multi-page documents, potentially aiding in automated document processing and analysis."
  }
 }
