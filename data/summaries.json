@@ -187,10 +187,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.livescience.com/archaeology/mold-gold-cape-a-3-900-year-old-accessory-thats-one-of-the-finest-examples-of-prehistoric-goldwork-ever-found": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
   "s": "A robotic hand capable of walking has been developed, showcasing progress in anthropomorphic robotics. This development matters as it advances the field from specialized industrial machines to more versatile and adaptable systems. Meanwhile, the global robotics market is growing, with China leading in installations, and the United States catching up. Toyota estimates a potential investment of $6.4 billion annually in robot modernization, indicating the increasing importance of robotics in manufacturing."
  },
@@ -281,13 +277,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.space.com/entertainment/donnie-darko-at-25-how-a-giant-rabbit-time-loops-and-teen-angst-became-a-sci-fi-cult-classic": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/entertainment/space-toys-lego/stuck-for-a-halloween-outfit-set-phasers-to-stunning-with-the-best-star-trek-costumes": {
-  "s": "For Halloween, organizations can choose from a variety of Star Trek costumes, ranging from classic series to more recent ones. This offers costume options that cater to different eras and fan preferences."
- },
  "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
   "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
  },
@@ -318,15 +307,8 @@
  "https://science.nasa.gov/photojournal/neo-surveyors-sunshade-gets-inspected/": {
   "s": "The sunshade of NASA’s NEO Surveyor spacecraft was inspected in a clean room in Boulder, Colorado, in July 2026. Its purpose is to block sunlight and protect the spacecraft’s instruments, especially crucial for observing asteroids and comets near the Sun."
  },
- "https://phys.org/news/2026-10-metalens-microscope-focus-voltage-optics.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
- },
- "https://www.sciencealert.com/one-dose-of-experimental-antibody-kept-hiv-like-virus-in-remission-for-4-years-in-a-monkey": {
-  "s": "A single dose of an experimental antibody helped keep the virus that causes AIDS in a group of infant monkeys undetectable in the blood for four years after stopping medication, suggesting it may be a promising route to a cure. This approach targets cells that can harbor the virus, potentially reducing viral reservoirs and improving chances of long-term remission."
  },
  "https://www.universetoday.com/articles/asymmetric-space-waves-map-pressure-on-earths-magnetic-shield": {
   "s": "The Earth's magnetic field experiences greater stress from space weather in certain regions compared to others, according to a recent study. This finding could help scientists better understand how the magnetic field protects Earth from harmful space radiation, and could also apply to magnetic fields on other planets."
@@ -369,5 +351,35 @@
  },
  "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/": {
   "s": "Baidu has released Unlimited OCR 2, an improved OCR model that can parse hundred-page documents in a single request. Its SR-SWA attention mechanism keeps the decoding cost nearly flat, scoring well on document parsing benchmarks. This advancement matters because it represents a significant improvement in handling complex, multi-page documents, potentially aiding in automated document processing and analysis."
+ },
+ "https://phys.org/news/2026-10-radio-fusion-plasma-current-reactors.html": {
+  "s": "A team of physicists in the U.S. has shown that radio waves can drive an electric current inside a nuclear fusion experiment, a tokamak. This could help future fusion reactors operate without needing to shut down and restart."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-starlink-group-15-16-b1082-ocisly": {
+  "s": "SpaceX launched 27 Starlink satellites early in the morning from California. This matters as it increases the number of internet satellites in space, expanding internet access globally."
+ },
+ "https://www.sciencealert.com/cranberry-juice-appears-to-suppress-dental-plaque-growth-study-reveals": {
+  "s": "Cranberry juice appears to suppress dental plaque growth, according to a new study. This finding suggests cranberries' compounds, proanthocyanidins, might also benefit oral health, contrary to common belief that cranberry juice is harmful to teeth."
+ },
+ "https://www.livescience.com/animals/orcas/this-psychologist-has-a-new-theory-for-why-orcas-keep-attacking-boats": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.space.com/space-exploration/satellites/astroscale-proposes-fleet-of-bodyguard-spacecraft-to-protect-satellites-from-orbital-attacks": {
+  "s": "The organization Astroscale suggests creating fleets of spacecraft designed to remove space junk and fix broken satellites. These repurposed vehicles could protect valuable satellites from orbital attacks."
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, including climbing stairs and navigating tight spaces, make it a valuable tool for various tasks like disaster search and rescue, hostage situations, and drug lab investigations. Its features, such as a manipulator arm and speaker, allow operators to conduct searches and communicate safely from a distance. The robot's benefits are evident, as it can enter dangerous areas without risking human officers, thus reducing potential harm."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom, directly actuated, designed for dexterous physical work. This innovation matters as it addresses the complex tradeoffs in hand design, aiming for dexterity, strength, and ruggedness, crucial for humanoid robots performing real tasks."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
