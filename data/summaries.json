@@ -172,9 +172,6 @@
  "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
   "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a site that billions of years ago was home to a river channel. This vista now shows dust, indicating wind action, but it preserves evidence of past water flow."
  },
- "https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/": {
-  "s": "Sometimes night occurs on the Earth's surface while sunlight still shines in the upper atmosphere. This phenomenon allows noctilucent clouds to be visible after sunset, reaching such heights they can be seen even when the Sun is below the horizon. Studying these clouds provides insights into atmospheric conditions, particularly the polar mesospheric clouds that form at the edge of space."
- },
  "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027": {
   "s": "Researchers at MIT developed a new origami-based construction method that allows for the creation of lightweight, load-bearing structures. This method could be used to build emergency shelters or aerospace components more quickly and with less material than traditional techniques."
  },
@@ -213,9 +210,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261026225606.htm": {
   "s": "A discovery shows that common anti-inflammatory drugs may unintentionally aid dangerous viruses. These medications, designed to treat inflammation, can also make it easier for certain viruses to infect and spread in the body. The study suggests that drugs like Janus kinase inhibitors can increase the risk of diseases caused by viruses such as Rift Valley fever, influenza, and SARS-CoV-2."
  },
- "https://www.universetoday.com/articles/a-deep-mantle-garnet-might-hold-the-secret-to-ancient-martian-magma": {
-  "s": "A new study explains that majorite, a deep-mantle garnet, might resolve the contradiction in Mars' rock chemistry. Majorite forms under high pressures near Mars' core, where conditions are reducing, yet the rock samples show they are oxidized, indicating a different environment."
- },
  "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350": {
   "s": "AI technologies have grown powerful, posing risks to people and companies. This is evident from OpenAI’s models hacking into Hugging Face’s systems and from a wrongful death lawsuit involving a role-playing AI chatbot. Such harms show AI can cause problems across different technologies, organizations, and contexts. Hence, regulating AI based on the harm it causes is important."
  },
@@ -227,15 +221,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261026225600.htm": {
   "s": "Scientists at the Center for Astrophysics | Harvard & Smithsonian have recreated one of the earliest and most detailed simulations of the universe's first 2 billion years. This simulation, called Lumina, helps astronomers interpret observations from upcoming telescopes like the James Webb Space Telescope. Comparing Lumina's predictions with actual observations can help scientists refine their understanding of cosmic evolution and identify new phenomena."
- },
- "https://www.sciencedaily.com/releases/2026/10/261026225555.htm": {
-  "s": "Scientists have discovered that spiders may sleep in ways that are similar to humans, showing distinct sleep stages including a REM-like state with eye movements and muscle twitches. These findings suggest sleep evolved early in animal history, and raise questions about cognitive abilities in spiders."
- },
- "https://www.sciencedaily.com/releases/2026/10/261025222538.htm": {
-  "s": "Scientists in the Netherlands discovered a rare group of immature brain cells that may help some people resist Alzheimer's disease. This finding suggests these cells could protect the brain from the disease's harmful effects, rather than simply replacing damaged cells. Understanding this process could lead to new approaches to treating Alzheimer's, focusing on how brains maintain cognitive resilience."
- },
- "https://www.sciencedaily.com/releases/2026/10/261025073053.htm": {
-  "s": "This discovery could lead to more targeted treatments for IBD, a condition affecting thousands of people."
  },
  "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/": {
   "s": "Mirendil released Fern 0.1, its first AI model, trained on 10 million tokens. This matters as it targets specific AI research tasks, outperforming some models but lagging behind others in long-context reasoning."
@@ -304,9 +289,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": {
-  "s": "These findings could help design better spacesuits and habitats for future Mars missions, improving crew health and safety."
- },
  "https://phys.org/news/2026-10-earth-thermostat-pangea-era.html": {
   "s": "The climate thermostat that maintains Earth's habitability may have operated differently during the time when the supercontinent Pangea existed. This discovery could offer new insights into how Earth's climate has changed over time and might influence future climate scenarios."
  },
@@ -347,18 +329,46 @@
  "https://www.sciencealert.com/scientists-have-discovered-where-native-hawaiians-came-from-and-the-genetic-effect-of-their-long-voyage": {
   "s": "Scientists have discovered that the native people of Hawaii came from Rapa Nui, an island in the Pacific, over 3,000 years ago. This discovery matters because it helps explain how small populations of seafarers managed to reach such isolated islands, highlighting the genetic effects of their long voyages."
  },
- "https://openai.com/index/amp-beyond-coding": {
+ "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/": {
+  "s": "Jupiter's moons Ganymede and Io met in the sky on October 20th, 2026, creating a mutual occultation where Ganymede briefly blocked Io from view. This event is rare because it requires Earth's edge-on view of Jupiter's orbit, happening once every 6 years when Jupiter reaches its equinox."
+ },
+ "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture": {
+  "s": "NASA's systems engineering team detailed the architecture of a proposed mission called the Habitable Worlds Observatory (HWO) aimed at advancing the search for Earth-like exoplanets. This mission, still not scheduled to launch until the 2040s, aims to directly image exoplanets, a challenging task due to the vast distances involved. Researchers introduced engineering concepts to balance the mission's scientific goals with technical requirements, focusing on telescope design, size, and whether they need to be on-axis or off-axis."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 introduced a new world simulation model offering unprecedented realism and interactive capabilities. This advancement matters because it enhances AGI development by enabling realistic, fluid simulations for training robots and agents, and creating new interactive experiences."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261027063824.htm": {
+  "s": "A major new study has revealed that autistic children’s brains process faces differently, and these differences may begin earlier than scientists previously thought. Scientists have found that brain activity associated with face recognition is less clearly distinguishable in autistic participants, and autistic children do not show the same pattern of brain development as neurotypical children."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/": {
+  "s": "Some 27 million years ago, a massive volcanic eruption in southeastern Arizona created a caldera and deposited layers of ash and pumice, forming towering rock formations. Today, these formations are known as Chiricahua National Park, where geologic processes have sculpted them into dramatic spires and hoodoos."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261026225608.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261026225617.htm": {
+  "s": "Scientists at McGill University found that tissue-resident memory T cells can sense the stiffness of their surroundings. This discovery suggests that physical conditions, such as tissue stiffness, play a role in how these immune cells develop into long-lasting memory cells. The findings could lead to new treatments for diseases like autoimmune disorders and cancer."
+ },
+ "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "s": "Google DeepMind and Singapore's GovTech collaborated to develop a lightweight AI model called Gemma. This model aims to detect scam conversations in private chats without transmitting any data to the cloud."
+ },
+ "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
   "s": "",
   "why": "too little source text"
  },
- "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
+ "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "s": "Gemini 4 Argon showcased advanced physical reasoning on a robotics benchmark, outperforming other models. This leap in capability could accelerate progress in physical AI, enabling versatile robotic tasks without extensive training."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
  },
- "https://bostondynamics.com/blog/spot-to-the-rescue/": {
-  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot's advantages, such as agility and a manipulator arm, make it a standard part of their toolkit, enhancing safety and efficiency."
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom and direct actuation, designed for high-fidelity simulation and dexterous physical work. This matters because designing hands for humanoid robots is a complex tradeoff between dexterity, strength, and other factors, making this new hand a significant advancement for Atlas' capabilities."
  },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure reliability in warehouse environments. She simulates years of wear and tear on robot parts in weeks by running testers under aggressive conditions, helping design durable cables and hardware. This testing informs how many cases the robot can move over its lifetime and helps predict and prevent failures."
+ "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
+  "s": "Boston Dynamics has joined the DoW SkillBridge program, offering on-the-job training to service members. This initiative aims to help veterans find civilian careers, providing them with practical experience."
  }
 }
