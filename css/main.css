@@ -988,3 +988,6 @@ body.sv-modal-open{overflow:hidden}
 
 .filter-chips .chip-group { display: flex; flex-wrap: wrap; gap: 8px; width: 100%; align-items: center; }
 .filter-chips .chip-head { font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+
+.sec-teaser .rt-text{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.robot-teaser .kicker{overflow-wrap:anywhere}

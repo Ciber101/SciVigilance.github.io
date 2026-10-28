@@ -836,3 +836,55 @@ async function loadRobots() {
     }
   }
 }
+
+
+/* ---------- Section summary cards (same look as "Robots, explained") ----------
+   Each card shows its section's current top item (rebuilt whenever the grid is filled from the refreshed data/)
+   and smooth-scrolls to that exact card on this page with a brief highlight. */
+const SEC_TEASERS = {
+  digestGrid: ['Core Sciences, top story', 'Jump to this story'],
+  aiGrid: ['AI, top release', 'Jump to this story'],
+  xGrid: ['Science in 280', 'Jump to this post'],
+  featuredGrid: ['Rockets, agencies & tech', 'Jump to this post'],
+};
+function buildSecTeaser(gid) {
+  const g = document.getElementById(gid), t = document.getElementById('teaser-' + gid);
+  if (!g || !t) return;
+  const top = g.querySelector('[data-anchor]');
+  if (!top) { t.hidden = true; return; }
+  const [label, more] = SEC_TEASERS[gid];
+  const isX = top.classList.contains('x-card');
+  const head = isX ? (top.querySelector('.x-name b') || {}).textContent : (top.querySelector('h3') || {}).textContent;
+  const raw = ((isX ? top.querySelector('.text') : top.querySelector('.summary')) || {}).textContent || '';
+  const snip = raw.trim().replace(/\s+/g, ' ');
+  let title = (head || '').trim(), body = snip, lab = label;
+  if (isX) {  // X post: account name in the label, first sentence as the headline, rest as the snippet
+    const m = snip.match(/^(.{20,140}?[.!?])\s+([A-Z\u201c"].*)$/);
+    lab = title && title !== label ? `${label} · ${title}` : label;
+    title = m ? m[1] : (snip.length > 140 ? snip.slice(0, 137) + '…' : snip);
+    body = m ? m[2] : '';
+  }
+  const id = top.getAttribute('data-anchor');
+  t.href = '#' + id;
+  t.dataset.target = id;
+  t.innerHTML = `<span class="kicker">${escapeHtml(lab)}</span><b>${escapeHtml(title)}</b>${body ? `<span class="rt-text">${escapeHtml(body.slice(0, 220))}${body.length > 220 ? '…' : ''}</span>` : ''}<span class="rt-more">${escapeHtml(more)} ↓</span>`;
+  t.hidden = false;
+}
+document.addEventListener('DOMContentLoaded', () => {
+  Object.keys(SEC_TEASERS).forEach(gid => {
+    const g = document.getElementById(gid);
+    if (!g) return;
+    let timer;
+    new MutationObserver(() => { clearTimeout(timer); timer = setTimeout(() => buildSecTeaser(gid), 120); }).observe(g, { childList: true });
+    buildSecTeaser(gid);
+  });
+});
+document.addEventListener('click', e => {
+  const t = e.target.closest('.sec-teaser');
+  if (!t || !t.dataset.target) return;
+  const el = document.getElementById(t.dataset.target);
+  if (!el) return;
+  e.preventDefault();
+  highlightAnchor(el);
+  history.replaceState(null, '', '#' + t.dataset.target);
+});
