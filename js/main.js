@@ -112,11 +112,12 @@ async function loadDigest() {
   }
 
   const tagline = document.getElementById('digestTagline');
-  if (tagline && data.tagline) tagline.textContent = data.tagline;
+
 
   // Daily Signal = science only; AI stories show in the AI section (ticker still gets everything)
   const allArticles = (data.articles || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   const articles = allArticles.filter(a => !(a.tags || []).includes('AI'));
+  if (tagline) tagline.textContent = `${articles.length} real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.`;
   if (!articles.length) { showEmpty(empty); return; }
 
   grid.querySelectorAll('.card').forEach(c => c.remove());

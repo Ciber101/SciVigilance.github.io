@@ -361,7 +361,7 @@ if __name__ == '__main__':
         except Exception: robots = []
     if len(arts) >= 5:
         json.dump({'robots': robots, 'date': datetime.date.today().isoformat(), 'updated': datetime.datetime.now(datetime.timezone.utc).isoformat(timespec='minutes'),
-                   'tagline': f'{len(arts)} real stories from the frontier of science, each linked to its source.', 'articles': arts, 'ai': ai},
+                   'tagline': f'{len(arts)} real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.', 'articles': arts, 'ai': ai},
                   open(os.path.join(DATA, 'latest.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     else: print('too few articles; keeping previous latest.json', file=sys.stderr)
     print('articles', len(arts), 'ai', len(ai))
