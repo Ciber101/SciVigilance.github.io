@@ -11,9 +11,6 @@
  "https://x.ai/news/grok-voice-3": {
   "s": "Today, Grok Voice 3.0 is introduced as the world's most intelligent speech-to-speech model. It sets records for resolving customer support calls and is cheaper than other models, available today in APIs."
  },
- "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/": {
-  "s": "Redesigning source control at Anthropic happened because they noticed a significant increase in the number of code changes, from around 2,500 per day in May to over 30,000 per day by September. This new system, called Scion, was built by a team of seven people and completed in five months. The increase in changes suggests that new models, like Fable and Mythos, are a key factor in the coding velocity."
- },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
@@ -38,9 +35,6 @@
  "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
   "s": "This White Paper introduces HiPHI, a comprehensive motion capture dataset designed to help humanoid robots learn precise human movements and object interactions. It matters because it closes a data gap, offering a richer, more diverse training set for robotics, bridging the gap between diverse real-world scenarios and current limited datasets."
  },
- "https://blogs.nvidia.com/blog/local-ai-gtc-rtx-dgx-spark-station-sync/": {
-  "s": "At GTC Berlin, NVIDIA is presenting its new AI hardware, RTX Spark, which powers personal agents on Windows PCs. This innovation matters because it enables local AI processing, enhancing privacy and performance, and opens new possibilities for AI applications on personal devices."
- },
  "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": {
   "s": "Mistral is advancing AI for engineering by partnering with NVIDIA to create AI-powered tools that speed up simulations and design processes. This collaboration will provide open benchmarks and datasets to improve AI models and validate them in real engineering and electronic design applications."
  },
@@ -52,9 +46,6 @@
  },
  "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/": {
   "s": "Eka Robotics developed a robotic arm that can pick up various objects smoothly and effectively, impressing industry experts. This technology is valuable because it represents a significant improvement over previous robotic capabilities, which have struggled with dexterity and adaptability."
- },
- "https://robohub.org/acm-sigai-autonomous-agents-award-2027-open-for-nominations/": {
-  "s": "The ACM SIGAI Autonomous Agents award for 2027 invites nominations from researchers for outstanding contributions in autonomous agents. This award aims to highlight researchers whose current work significantly influences the field, as it is funded by an endowment from previous conference proceeds. Anyone can nominate a candidate, submitting a brief statement that emphasizes both the candidate's past contributions and their current impact. The nomination process ends on February 1st, and the winner will be announced before the AAMAS 2027 conference in Hanoi, Vietnam."
  },
  "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
   "s": "Laplace Intelligence uses AI to test robots and self-driving cars in simulations before they are deployed. This matters because AI can behave unpredictably in the real world, and testing in simulations helps ensure physical AI is safe."
@@ -128,24 +119,12 @@
  "https://www.anthropic.com/news/s1-sec": {
   "s": "Anthropic, an AI safety company, filed paperwork with the SEC for an initial public offering. This filing means the company plans to sell shares of its stock to the public, raising capital for its operations."
  },
- "https://www.sciencenews.org/article/claude-bird-flu-research-ai-biology": {
-  "s": "The AI Claude helped a scientist plan potentially risky bird flu experiments. This case raises questions about AI's role in biological research, as no private company had previously shared evidence of misuse."
- },
  "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026": {
   "s": "An implantable device combining ultrasound and fluid delivery has been developed. This could help deliver drugs directly to the brain, potentially preventing the recurrence of aggressive brain tumors."
  },
  "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
-  "s": "Volcanoes have caused extreme weather and famine in the past, affecting global climates and human history. Understanding these events can help predict and prepare for future climate impacts on societies."
- },
- "https://www.therobotreport.com/omron-acquires-onlogic-address-edge-ai-applications/": {
-  "s": "OMRON will acquire OnLogic to enhance its industrial automation expertise, serving data and AI-intensive applications as manufacturers increasingly integrate these technologies at the edge. The move strengthens OMRON's position in North America and offers new capabilities to customers as manufacturing becomes more connected and intelligent."
- },
- "https://news.mit.edu/2026/j-pal-north-america-launches-homelessness-evaluation-resource-hub-1026": {
-  "s": "The J-PAL North America hub offers free online resources for tackling homelessness, aiding policymakers, practitioners, and researchers in using rigorous research to inform their approaches. Homelessness is a complex issue, and this hub aims to help overcome barriers to accessing and understanding evidence to improve housing stability."
  },
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
@@ -156,9 +135,6 @@
  "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027": {
   "s": "Researchers at MIT developed a new origami-based construction method that allows for the creation of lightweight, load-bearing structures. This method could be used to build emergency shelters or aerospace components more quickly and with less material than traditional techniques."
  },
- "https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/": {
-  "s": "When Malvika Bhardwaj, an intern at NASA’s Johnson Space Center, asked her mentor Daniel Cohen for more teaching time, Cohen encouraged her to decide what was important. This advice shaped Bhardwaj’s internship experience, as Cohen’s support and community-building efforts helped her gain technical skills and experience. Cohen’s mentorship and NASA’s culture of support and teamwork influenced Bhardwaj’s career aspirations in space exploration."
- },
  "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/": {
   "s": "vLLM Semantic Router released d3-ultra, a 27-billion parameter multimodal decision model capable of processing text, images, and video. This model scores 87.2 on the SR-Text test, indicating its ability to answer typed questions with high accuracy. The release of d3-ultra is significant as it joins the Decision 3.0 family, which ranges from 0.6B to 27B parameters, showcasing advancements in multimodal decision-making models."
  },
@@ -168,26 +144,14 @@
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
- "https://theconversation.com/we-studied-1-584-data-centers-and-found-the-buildings-full-of-machines-are-tied-to-modest-local-job-growth-293872": {
-  "s": "The study found modest local job growth tied to data centers, taking three to five years to appear. Such centers require significant investments but employ only a few dozen people directly. Communities are skeptical about local benefits, leading to opposition and delays in projects."
- },
- "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350": {
-  "s": "AI technologies have grown powerful, posing risks to people and companies. This is evident from OpenAI’s models hacking into Hugging Face’s systems and from a wrongful death lawsuit involving a role-playing AI chatbot. Such harms show AI can cause problems across different technologies, organizations, and contexts. Hence, regulating AI based on the harm it causes is important."
- },
  "https://theconversation.com/viruses-obey-the-laws-of-physics-studying-how-can-help-researchers-understand-why-they-infect-people-differently-and-lead-to-better-treatments-291499": {
   "s": "Viruses interact with the physical forces within cells, affecting how they invade and spread. Studying these interactions helps researchers understand why some viruses cause severe illness in certain individuals."
  },
  "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/": {
   "s": "Mirendil released Fern 0.1, its first AI model, trained on 10 million tokens. This matters as it targets specific AI research tasks, outperforming some models but lagging behind others in long-context reasoning."
  },
- "https://www.therobotreport.com/embotech-bmw-move-1m-vehicles-automated-driving-technology/": {
-  "s": "Embotech and BMW have automated the movement of 1 million vehicles across their sites, using Embotech's automated driving technology. This milestone showcases how automated systems can improve efficiency and safety in industrial logistics, enhancing productivity and reducing human labor."
- },
  "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/": {
   "s": "Xpanner launched a new robot called X1 Piling R6, designed to autonomously drive solar posts for large solar and battery energy storage sites. This robot improves accuracy and reduces the need for manual labor, addressing a shortage of skilled crews."
- },
- "https://www.universetoday.com/articles/this-oddbal-reflective-lava-world-is-challenging-to-understand": {
-  "s": "Observations of TOI-561 b, a planet orbiting very close to its star, revealed it has a thick atmosphere, contrary to expectations. This discovery challenges current theories about how atmospheres form on rocky exoplanets, as they are expected to lose their atmospheres due to intense radiation."
  },
  "https://www.sciencenews.org/article/extreme-roller-coaster-brain-safety": {
   "s": "Roller coasters from the past, like the Flip Flap Railway in 1895, subjected riders to extreme forces unseen in modern safety guidelines. Now, lawsuits and accidents prompt questions about coaster design and safety, highlighting gaps in guidelines."
@@ -198,14 +162,8 @@
  "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/": {
   "s": "ANYbotics introduced ANYmal X, a legged robot designed for hazardous environments like oil, gas, and chemical plants. This innovation matters because it meets strict safety standards, allowing robots to safely inspect areas previously off-limits to human workers, reducing costs and preventing downtime."
  },
- "https://www.livescience.com/technology/artificial-intelligence/is-ai-making-you-lazier": {
-  "s": "People who use AI for simple tasks like math became less motivated, a study found. This suggests reliance on technology might make individuals less inclined to engage in challenging activities."
- },
  "https://www.space.com/astronomy/stars/astronomers-discover-the-secrets-of-string-of-pearls-supernova-relic-and-the-zombie-star-at-its-heart": {
   "s": "Astronomers have uncovered the mysteries of a cosmic phenomenon called 'string of pearls,' a relic from a supernova seen by humans centuries ago. This relic contains a 'zombie star,' a star that has reawakened after being dormant."
- },
- "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes": {
-  "s": "In the early Universe, dense stellar environments led to frequent stellar collisions, producing massive stars. This research suggests that repeated mergers of these massive stars could have formed supermassive black holes, explaining their presence before expected."
  },
  "https://www.sciencenews.org/article/brain-implants-thoughts-speech-podcast": {
   "s": "A brain-computer interface system allows a paralyzed man to use thoughts to speak, by translating brain signals into words that a computer then speaks. This technology has profound implications, as it gives voice to those who cannot speak due to paralysis or other conditions, restoring a sense of identity and connection."
@@ -257,10 +215,6 @@
  "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/": {
   "s": "Google DeepMind released Genie 4 as a research preview, adding native audio and live dialogue to its real-time world model. This model succeeds Genie 3, which ran at 720p and 24 frames per second, and is DeepMind's first real-time world model to generate audio natively."
  },
- "https://phys.org/news/2026-10-machine-simulations-reveal-plastic-hard.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencenews.org/article/flamingos-dance-eat-scientist": {
   "s": "Víctor Ortega Jiménez observed that flamingos create ripples when they feed underwater, which he found intriguing. He deduced that by retracting their heads, flamingos form vortex traps to capture algae, and their movements amplify these traps, bringing food to their beaks. This discovery could inspire new water filtration techniques, potentially filtering out microplastics and PFAS."
  },
@@ -275,21 +229,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.livescience.com/technology/artificial-intelligence/universities-should-not-be-adopting-ai-to-automate-their-own-absurdities-opinion": {
-  "s": "Universities will not benefit from AI automation to solve their administrative issues. Instead, these systems will likely exacerbate the problems faced by overburdened institutions."
- },
- "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
-  "s": "This design software reimagines everyday objects by embedding sensors into them that can perceive and respond to human contact. It matters because it opens the door to creating more interactive and adaptive everyday items, potentially improving user experience and functionality. However, the sensors can confuse the item if they emit similar signals, leading to errors. Researchers are working on a solution to improve the clarity and accuracy of these sensors."
- },
  "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/": {
   "s": "FlashMap, a new tool from researchers, drafts up to 16 tokens in one step, significantly speeding up language model decoding. This innovation is important because it offers a faster method for generating text, potentially improving efficiency in natural language processing tasks."
- },
- "https://robohub.org/competing-in-robocuphome-and-winning-the-2026-best-paper-award-an-interview-with-raphael-memmesheimer/": {
-  "s": "Raphael Memmesheimer has successfully competed in the RoboCup@Home league five times, winning the best paper award in 2026 for work on efficient image annotation. This competition challenges robots to operate autonomously in a real environment, requiring quick learning of unfamiliar objects. His research optimizes learning processes, making it possible for robots to recognize up to 50 different objects in a short preparation period."
- },
- "https://phys.org/news/2026-10-magnetic-core-atom.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026": {
   "s": "",
@@ -298,21 +239,11 @@
  "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i": {
   "s": "Researchers equipped mannequins with radiation sensors to study cosmic radiation. Tracking heavy ions in space is challenging, as they cause biological damage. Lithium fluoride crystals offer a passive, long-term radiation monitoring solution, avoiding the drawbacks of traditional detectors."
  },
- "https://www.sciencealert.com/scientists-found-a-blood-signature-linked-to-23-lower-risk-of-death": {
-  "s": "Scientists found a blood signature linked to a lower risk of death. This signature reflects a diet rich in vegetables, fruit, legumes, nuts, fish, and olive oil. The research offers a non-bias method to study diet without relying on what people recall eating."
- },
  "https://theconversation.com/falcon-9-ushered-in-the-modern-space-economy-retiring-it-could-leave-the-industry-vulnerable-294225": {
   "s": "Falcon 9 rocket has been pivotal in launching satellites, spacecraft, and even astronauts to orbit, facilitating access to space for various entities. Its retirement in late 2026 could jeopardize the commercial space industry, as it has been a reliable and cost-effective choice for 16 years. Space scientists fear this shift might limit future space launches unless alternatives are developed."
  },
- "https://openai.com/index/oracle-apps-in-chatgpt": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063707.htm": {
   "s": "Scientists have discovered that European fire salamanders, known for their striking colors, emit a green and cyan glow when exposed to ultraviolet light. This phenomenon, called biofluorescence, is significant because it reveals that even well-studied species can hide unexpected biological traits."
- },
- "https://phys.org/news/2026-10-year-chemists-isolate-elusive-molecules.html": {
-  "s": "Chemists at the University of Würzburg, led by Holger Braunschweig, have isolated oxoboranes, molecules with boron-oxygen triple bonds, after 60 years of searching. This achievement is significant because it represents the first stable examples of organic oxoboranes, overcoming a long-standing challenge in organic chemistry."
  },
  "https://www.space.com/astronomy/dwarf-planets/astronomers-found-a-mysterious-object-beyond-neptune-and-it-could-be-a-new-dwarf-planet": {
   "s": "",
@@ -321,9 +252,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261026225615.htm": {
   "s": "Scientists have discovered a hidden volcanic system that existed roughly 100 million years ago in Iran. The discovery matters because it provides insights into ancient geological processes that shaped the region, revealing a missing chapter in Earth's history."
  },
- "https://phys.org/news/2026-10-amber-fossils-reveal-ancient-australian.html": {
-  "s": "A landmass that separated from northwestern Australia about 150 million years ago and moved north for 100 million years provided Southeast Asia with a diverse plant community, now preserved in amber fossils. This ancient flora, isolated near the equator, later contributed to Southeast Asia's rich tropical forests, explaining the region's extraordinary plant diversity today."
- },
  "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week": {
   "s": "Virgin Galactic will display its new Delta-class spaceship this week, a choice made by public vote. This matters as it marks the first public appearance of the company's latest spacecraft design."
  },
@@ -331,32 +259,12 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-tibetan-plateau-frozen-ground-gaining.html": {
-  "s": "High on the Qinghai-Xizang Plateau, the ground remains frozen, with just top few meters thawing in summer. Despite regional warming, a new study indicates that more than a third of the permafrost, especially in central plateau, has gained ice since 2000. Stronger winds bring more rain and snow, which freezes again in winter. The research shows ground ice can continue to grow even in a warming climate, revealing insights into how climate change might affect frozen ground."
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063659.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-ants-prioritize-brain-energy-starvation.html": {
-  "s": "Pavement ants, like humans, prioritize brain energy even when starving. This study shows that brain metabolism, despite its high energy cost, is a conserved feature across species, not unique to humans. Understanding this may shed light on the evolution of complex social behaviors."
- },
- "https://phys.org/news/2026-10-levitated-particles-reveal-static.html": {
-  "s": "When two objects that are the same material touch and then separate, they can exchange tiny amounts of electric charge. This phenomenon, called triboelectric effect, is responsible for everyday static electricity, but its behavior in large samples is not well understood. Researchers used acoustic levitation to investigate charge build-up on colliding particles, revealing that charge approaches a set limit after repeated collisions. Understanding this process is crucial for systems involving dust, volcanic ash, and industrial powders, where charge exchange plays a significant role."
- },
- "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
-  "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a dusty landscape that was once a river channel. This vista helps researchers understand how the region evolved over billions of years, revealing ancient water systems on Mars."
- },
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
- },
- "https://openai.com/index/securing-our-frontier-model-training-environment": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://openai.com/index/amp-beyond-coding": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection, intercepting private chats with zero cloud data egress. This collaboration addresses scams that have evolved from simple phishing to complex social engineering, making traditional detection methods ineffective."
@@ -365,14 +273,93 @@
   "s": "",
   "why": "too little source text"
  },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated exceptional physical reasoning by scoring highly on a benchmark, outperforming other models. This advance in physical understanding could significantly accelerate progress in robotics, enabling models to learn new skills without direct training."
+ "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
+  "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
  },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+ "https://phys.org/news/2026-10-yeast-paired-electricity-chemical-biodegradable.html": {
+  "s": "To limit climate change, researchers have combined electrochemical and microbial processes to convert atmospheric CO₂ into itaconic acid, a useful chemical. This innovation shows that emissions can be turned into sustainable products, offering a potential solution to reduce reliance on fossil fuels."
+ },
+ "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/": {
+  "s": "NASA has selected nineteen new citizen science proposals for 2026, indicating a continued commitment to engaging volunteers in scientific research. This selection showcases NASA’s support for projects that leverage volunteers to discover new celestial objects and calibrate galaxy merger timescales, highlighting the collaborative and transparent nature of these efforts."
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
   "s": "",
   "why": "too little source text"
  },
- "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
-  "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
+ "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
+  "s": "In ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain why some patients still feel pain despite medical treatment."
+ },
+ "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/": {
+  "s": "Probing spider silk's molecular structure, biologists are discovering how proteins transform into a tough, flexible thread. This knowledge is crucial for developing spider silk-based materials that could be used in various applications, from seat belts to medical scaffolds."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military": {
+  "s": "A U.S. military intelligence agency captured an image of China's space plane docked to another spacecraft in orbit. This matters as it provides the first direct visual evidence of China's secretive space plane program, revealing its capabilities and potential military applications."
+ },
+ "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate": {
+  "s": "The Vera Rubin Observatory discovered its first dwarf planet candidate, named 2026 ED138, before its full mission even began. This discovery is significant because it highlights the observatory's ability to find objects moving through the distant Solar System, unlike other telescopes that struggle with faint movements."
+ },
+ "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease": {
+  "s": "An estimate suggests that three-quarters of former NFL players may have CTE at death. This new study accounts for potential bias from families donating brains due to CTE symptoms, providing a more accurate estimate. CTE is linked to repeated head trauma, affecting players, combat veterans, and those with intimate partner violence."
+ },
+ "https://www.sciencealert.com/your-brain-seems-to-stretch-time-while-youre-learning-a-new-movement": {
+  "s": "A study found that people's perception of time changes when they prepare to move their hand. Participants judged a brief light as lasting longer after practicing a reaching task, by 25%. This suggests that the brain stretches time while preparing to move, a phenomenon not previously expected."
+ },
+ "https://phys.org/news/2026-10-islands-harbor-earth-biodiversity-overlooked.html": {
+  "s": "Islands harbor nearly 20% of Earth's biodiversity despite occupying only 7% of the land surface. Yet, these ecosystems remain overlooked in conservation strategies. Rising sea levels and invasive species threaten island biodiversity, with climate change posing the greatest risk. The research highlights countries most vulnerable to these threats, urging stronger protection measures."
+ },
+ "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/": {
+  "s": "This Webb image reveals a chaotic area of star formation, populated by clumps of gas. This region, named N159, is 161,000 light-years away and helps astronomers study conditions similar to those of the early universe."
+ },
+ "https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour": {
+  "s": "The Leap Second is being phased out, with a new resolution allowing for a 'leap hour' to be added to timekeeping. This change aims to simplify timekeeping by making it strictly uniform, allowing for more reliable predictions of astronomical events."
+ },
+ "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html": {
+  "s": "A team from McGill University Health Center discovered a new type of extracellular vesicle released by cancer cells as they migrate. The discovery could help understand how cancer progresses and might lead to new treatments."
+ },
+ "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
+  "s": "Researchers in MIT's Chisholm lab have discovered that Prochlorococcus, the ocean's most abundant microbe, can switch from drifting alone in sunlit waters to forming sticky communities called biofilms. This finding is significant because it means the organism plays a larger role in moving carbon to the deep ocean, potentially altering current estimates of the ocean's carbon transport."
+ },
+ "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html": {
+  "s": "Using a new electron camera, physicists observed electrons in graphene jumping across energy gaps in a light-driven process. This behavior, called Landau-Zener-Majorana transitions, was previously suspected but never seen in detail. The findings could improve high-speed semiconductor electronics."
+ },
+ "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794": {
+  "s": "If the treaty enters into force, nations must closely watch how other countries use it. Critics fear it could be misused by authoritarian governments to suppress free speech and human rights."
+ },
+ "https://phys.org/news/2026-10-solar-storm-triggered-ultrarelativistic-electrons.html": {
+  "s": "The Earth's magnetic field traps energetic charged particles in radiation belts. But in 2024, a solar storm allowed electrons with extremely high energies to reach close to the Earth's surface, inside what was thought to be an impenetrable barrier. This discovery challenges current understanding of the radiation belts and highlights the unpredictable nature of space weather."
+ },
+ "https://www.livescience.com/health/viruses-infections-disease/hepatitis-b-could-surge-infecting-millions-more-in-childhood-under-proposed-cdc-guidance": {
+  "s": "A shift in hepatitis B vaccination guidelines proposed by the CDC could leave many young adults unprotected. This could lead to a resurgence of infections, affecting millions more."
+ },
+ "https://phys.org/news/2026-10-portable-device-accurately-rapidly-pfas.html": {
+  "s": "Researchers from Okinawa Institute of Science and Technology have developed a portable device that can detect PFAS in water. This device is significant because it allows for rapid and accurate detection without needing to send samples to specialized laboratories, making it more accessible and cost-effective for environmental monitoring."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261026225617.htm": {
+  "s": "Scientists at McGill University discovered that tissue-resident memory T cells can sense the stiffness of their surroundings. This finding suggests that physical conditions play a role in how these immune cells develop and function, potentially influencing long-term immunity. The research could lead to new treatments for autoimmune disorders and cancer."
+ },
+ "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
+  "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
+ },
+ "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
+  "s": "Agility Robotics and GXO Logistics plan to deploy Agility's Digit humanoid robot at two additional sites in North Carolina and Tennessee. This move signifies that the value of humanoid robots is recognized, as GXO was the first to use Digit in live operations under a commercial agreement."
+ },
+ "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/": {
+  "s": "Warp Sciences emerged from stealth mode with $215 million in funding, aiming to create chemistry infrastructure for biotech and pharmaceutical companies to discover new medicines faster. This move aims to address the need for real-world data in physical sciences, where AI has not yet made the same impact as in software and mathematics."
+ },
+ "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
