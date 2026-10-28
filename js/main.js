@@ -114,13 +114,15 @@ async function loadDigest() {
   const tagline = document.getElementById('digestTagline');
   if (tagline && data.tagline) tagline.textContent = data.tagline;
 
-  const articles = (data.articles || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  // Daily Signal = science only; AI stories show in the AI section (ticker still gets everything)
+  const allArticles = (data.articles || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  const articles = allArticles.filter(a => !(a.tags || []).includes('AI'));
   if (!articles.length) { showEmpty(empty); return; }
 
   grid.querySelectorAll('.card').forEach(c => c.remove());
   currentArticles = articles;
   articles.forEach(a => grid.appendChild(makeCard(a)));
-  buildTicker(articles);
+  buildTicker(allArticles);
   const ai = document.getElementById('aiGrid');
   if (ai) {
     const list = data.ai || [];

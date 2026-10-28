@@ -44,12 +44,14 @@ AI_FEEDS = [
 AI_GOOD = r'\b(model|models|llm|open[- ]weights?|open[- ]source|benchmark|release[sd]?|launch(es|ed)?|gpt[- ]?\d|claude|gemini|gemma|grok|llama|qwen|mistral|deepseek|phi-?\d|gguf|ollama|llama\.cpp|quantiz\w*|reasoning|multimodal|agent\w*|parameters?|context window|fine-?tun\w*|inference|tokens?|transformer|diffusion|anthropic|deepmind|xai|meta ai|hugging ?face)\b'
 AI_BAD = r'\b(funding|raises?|valuation|ipo|lawsuit|sues|layoffs?|stock|shares|earnings|revenue|acquisition|acquires|deal|ceo|hiring|policy|regulat\w*|lobby\w*|super bowl|ads?)\b'
 AI_TOTAL, AI_MAX_AGE, AI_PER_SOURCE = 36, 14, 5
-TAGS = [('Space', r'\b(nasa|esa|mars|moon|lunar|jwst|webb|hubble|galax|star|planet|asteroid|comet|orbit|rocket|telescope|black hole|solar|sun)\w*'),
-        ('Physics', r'\b(quantum|particle|physic|cern|collider|laser|photon|neutrino)\w*'),
-        ('Biology', r'\b(cell|gene|dna|protein|species|brain|bacteria|virus|evolution|animal|plant)\w*'),
-        ('Health', r'\b(cancer|disease|patient|drug|vaccine|medical|health)\w*'),
-        ('Earth', r'\b(climate|ocean|earthquake|volcano|glacier|weather|carbon)\w*'),
-        ('Tech', r'\b(ai|robot|chip|battery|computer|algorithm)\w*')]
+TAGS = [('Space', r'\b(nasa|esa|jaxa|isro|mars|martian|moons?|lunar|jwst|webb|hubble|galax\w*|stars?|starbirth|stellar|planet\w*|exoplanet\w*|asteroids?|comets?|orbit\w*|rockets?|telescopes?|black holes?|solar system|sun|spacecraft|spacewalk\w*|astronom\w*|astronauts?|cosmic|cosmolog\w*|universe|nebula\w*|neptune|jupiter|saturn|io|ganymede|artemis)\b'),
+        ('Physics', r'\b(quantum|particles?|physics|physicists?|cern|collider|lasers?|photons?|neutrinos?|atoms?|atomic|magnet\w*|superconduct\w*|molecules?|chemists?|chemistry)\b'),
+        ('Biology', r'\b(cells?|genes?|genetic\w*|dna|proteins?|species|brains?|bacteri\w*|virus\w*|evolution\w*|animals?|plants?|fung\w*|ants?|insects?|flamingos?|salamanders?|tigers?|parasites?|fossils?|dinosaurs?|denisovans?|neanderthals?|ancestors?|archaeolog\w*|biodiversity|microbes?|ecolog\w*)\b'),
+        ('Health', r'\b(cancer|disease\w*|patients?|drugs?|vaccines?|medical|health|death|mortality|implants?|autis\w*|hepatitis|infect\w*|cdc|neurons?|inflammation)\b'),
+        ('Earth', r'\b(climate|oceans?|earthquakes?|volcan\w*|glaciers?|ice ages?|icebergs?|permafrost|frozen ground|weather|carbon|tibetan plateau|forests?)\b'),
+        ('Tech', r'\b(chips?|batter(y|ies)|computers?|algorithms?|origami|materials?|engineering)\b')]
+# Science feed (homepage Daily Signal + news.html) is science only: AI and robot stories have their own sections.
+NOT_SCIENCE = r'\b(ai|a\.i\.|artificial intelligence|chatgpt|chatbots?|llms?|large language models?|machine learning|openai|anthropic|robots?|robotics|humanoids?|data cent(er|re)s?|trailers?|movies?|films?|tv|netflix|episode|php|websites?|software|campaign ads?|votes?|voters?|elections?|homelessness|deals?|sales?|black friday)\b'
 
 def get(u, n=None):
     r = urllib.request.urlopen(urllib.request.Request(u, headers=UA), timeout=20)
@@ -104,11 +106,14 @@ def dedupe(items):
     for a in keep: a.pop('_img'); a.pop('_w')
     return keep
 
-def tag_for(text, default):
-    t = text.lower()
-    for name, rx in TAGS:
-        if re.search(rx, t): return name
-    return default
+def tag_for(text, default, title=''):
+    """Best-scoring topic (title hits count 3x); the feed's own field breaks ties, so 'starvation' or 'Phys.org' alone can't misfile a story."""
+    t, ti = text.lower(), title.lower()
+    score = {name: len(re.findall(rx, t)) + 2 * len(re.findall(rx, ti)) for name, rx in TAGS}
+    best = max(score.values())
+    if best == 0: return default
+    if score.get(default, 0) == best: return default
+    return max(score, key=lambda k: score[k])
 
 def news():
     now = datetime.datetime.now(datetime.timezone.utc); out = []; seen = set()
@@ -127,10 +132,11 @@ def news():
             if not img or not img.startswith('http'): continue
             summ = short(clean(e.get('summary') or ''))
             if len(summ) < 40: continue
+            if re.search(NOT_SCIENCE, title.lower()): continue  # AI / robot stories belong to their own sections
             seen.add(title.lower()); n += 1
             out.append({'id': re.sub(r'[^a-z0-9]+', '-', title.lower())[:60].strip('-'), 'title': title, 'summary': summ,
                         'url': link, 'source': src, 'image': img.replace('http://', 'https://').replace('/csz/news/tmb/', '/csz/news/800a/'),
-                        'tags': [tag_for(title + ' ' + summ, field)], 'date': d.date().isoformat(), 'ts': d.isoformat()})
+                        'tags': [tag_for(title + ' ' + summ, field, title)], 'date': d.date().isoformat(), 'ts': d.isoformat()})
         print(src, n)
     out.sort(key=lambda a: a['ts'], reverse=True)
     out = dedupe(out)
@@ -291,6 +297,10 @@ HUMANOID_SRC = {'Figure', 'Boston Dynamics', '1X', 'Agility Robotics'}
 HUMANOID_KW = r'\b(humanoid\w*|figure ?0?\d|figure ai|optimus|tesla bot|1x|neo|boston dynamics|atlas|agility|digit|apptronik|apollo|unitree|ubtech|walker s?\d*|agibot|fourier|xpeng|iron robot|sanctuary|phoenix|galbot|leju|engine ?ai|kepler|booster robotics|gr00t)\b'
 ROBOT_OK = r'\b(robot\w*|humanoid\w*|automat\w*|drone\w*|autonomous|exoskeleton\w*|gripper\w*|actuator\w*|manipulat\w*|embodied|physical ai|cobot\w*|amr\w*|isaac|gr00t)\b'
 
+# Robots section = robots only: needs a real robot word ("autonomous agents", "edge AI", "automation" alone are not enough)
+ROBOT_STRONG = r'\b(robot\w*|humanoid\w*|drones?|exoskeleton\w*|grippers?|cobots?|quadrupeds?|legged|bipeds?|embodied|physical ai|optimus|gr00t|robo\w*|bots?|self-driving|driverless|autonomous (vehicles?|driving|cars?|trucks?|equipment|heavy equipment))\b'
+NOT_ROBOT = r'\b(award|nominations?|acquires?|acquire|acquisition)\b'
+
 def robot_news():
     now = datetime.datetime.now(datetime.timezone.utc); out = []; seen = set()
     for src, url in ROBOT_FEEDS:
@@ -303,7 +313,7 @@ def robot_news():
             if not link or not title or title.lower() in seen: continue
             summ = short(clean(e.get('summary') or ''.join(c.get('value', '') for c in e.get('content', []))))
             if len(summ) < 40: summ = short(og_desc(link))
-            if not re.search(ROBOT_OK, (title + ' ' + summ).lower()) or re.search(r'\b(podcast|webinar|sponsored|register now)\b', title.lower()): continue
+            if not re.search(ROBOT_STRONG, (title + ' ' + summ).lower()) or re.search(r'\b(podcast|webinar|sponsored|register now)\b', title.lower()): continue
             t = e.get('published_parsed') or e.get('updated_parsed')
             d = datetime.datetime(*t[:6], tzinfo=datetime.timezone.utc) if t else now
             if (now - d).days > ROBOT_MAX_AGE or len(summ) < 40: continue
@@ -317,6 +327,7 @@ def robot_news():
     have = {a['url'] for a in out}
     out += [a for a in page_news(ROBOT_PAGES, 'Robots', 60) if a['url'] not in have]
     for a in out: a['id'] = a['id'].replace('ai-', 'rb-', 1)
+    out = [a for a in out if re.search(ROBOT_STRONG, (a['title'] + ' ' + a['summary']).lower()) and not re.search(NOT_ROBOT, a['title'].lower())]
     return rank_robots(dedupe(sorted(out, key=lambda a: a['ts'], reverse=True)))[:ROBOT_TOTAL]
 
 def rank_robots(items):
