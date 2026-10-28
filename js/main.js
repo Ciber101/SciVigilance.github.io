@@ -318,8 +318,10 @@ async function loadFeatured() {
   (d.accounts || []).forEach(acc => (acc.posts || []).forEach(p => cards.push({ acc, p })));
   cards.sort((a, b) => (b.p.date || '').localeCompare(a.p.date || ''));
   if (grid.id === 'featuredGrid') {
-    if (!cards.length) return;
-    grid.innerHTML = cards.map(featuredCard).join('');
+    // Homepage section: rockets/agencies + non-AI tech only (AI and robots have their own sections)
+    const spaceCards = cards.filter(c => (c.acc.group || 'space') === 'space');
+    if (!spaceCards.length) return;
+    grid.innerHTML = spaceCards.map(featuredCard).join('');
     grid.closest('section').hidden = false;
     clampRows();
     return;

@@ -23,6 +23,15 @@ _rob = json.load(open(os.path.join(ROOT, 'data', 'x_raw_robots.json'), encoding=
 _have = {a['username'].lower() for a in raw['accounts']}
 for _a in _rob['accounts']:
     if _a['username'].lower() not in _have: raw['accounts'].append(dict(_a, group='robots'))
+# Homepage "Rockets, agencies & tech advancements" section = group 'space' only (marc, Oct 28 2026):
+# rockets / space agencies / launch companies + NON-AI tech advancements (biotech, energy, materials, hardware).
+# NO AI, NO robots, NO basic science. Err on the side of excluding.
+NOT_SPACE_AI = r'\b(ai|a\.i\.|agi|artificial intelligence|machine learning|ml|llms?|gpt\w*|grok\w*|xai|chatbot\w*|neural\w*|model|models|agents?|agentic|api|apis|inference|training|compute|gpus?|datacenters?|data centers?|colossus|supercomputer\w*|openai|anthropic|claude|gemini|mistral|deepseek|qwen|llama|copilot|chatgpt|imagine|autonomy|autonomous|self-driving|fsd|robotaxi|cybercab|algorithm\w*|intelligen\w*)\b'
+NOT_SPACE_ROBOT = r'\b(robot\w*|humanoid\w*|optimus|android|droid\w*|embodied|rover\w*|helix|figure 0?\d)\b'
+NOT_SPACE_SCIENCE = r'\b(scien\w*|galax\w*|nebula\w*|black holes?|stars?|stellar|cosmic|cosmos|universe|light-years?|exoplanet\w*|supernova\w*|telescope\w*|webb|hubble|asteroids?|comets?|meteor\w*|eclipse\w*|full moon|hunter.s moon|night sky|solar (?:eruption|flare|wind|storm)\w*|sun.s|relativity|einstein|physics|quantum|particle\w*|fossil\w*|dinosaur\w*|species|evolution\w*|climate|weather|ocean\w*|geolog\w*|biolog\w*|chemistry|astronom\w*|astrophysic\w*|planetary science|research\w*|study|studies|discover\w*|observ\w*|météo|relativité|scientifique\w*)\b'
+SPACE_OR_TECH = r'\b(starship|falcon|raptor|rocket\w*|launch\w*|orbit\w*|mars|moon|lunar|starlink|satellite\w*|spacex|dragon|booster|engine\w*|spacecraft|space|nasa|esa|artemis|battery|batteries|chip\w*|fab|terafab|semiconductor\w*|energy|solar panel\w*|solar power|fusion|reactor|nuclear|materials?|biotech\w*|neuralink|tunnel\w*|boring|hyperloop|ev|evs|tesla|cybertruck|megapack|powerwall)\b'
+def space_ok(low):
+    return not (re.search(NOT_SPACE_AI, low) or re.search(NOT_SPACE_ROBOT, low) or re.search(NOT_SPACE_SCIENCE, low))
 _rank = {'ai': 0, 'robots': 1, 'space': 2}
 raw['accounts'].sort(key=lambda a: _rank.get(a.get('group', 'space'), 2))  # stable: keeps list order inside a group
 CUTOFF = (datetime.datetime.now(datetime.timezone.utc) - datetime.timedelta(days=30)).isoformat()
@@ -52,6 +61,10 @@ for acc in raw['accounts']:
             if acc['username'].lower() in TOPIC_ONLY and not re.search(topic, low, re.I): continue
             if acc['username'].lower() in ('xpeng_global', 'adcock_brett') and not re.search(r'\b(robot\w*|humanoid\w*|iron|figure ?0?\d|f\.0\d|helix|embodied)\b', low): continue
         elif len(words) < 3 or re.search(PROMO, text.lower()) or re.search(FLUFF, text.lower()): continue
+        if acc.get('group', 'space') == 'space':
+            low = text.lower()
+            if not space_ok(low): continue
+            if acc['username'].lower() == 'elonmusk' and not re.search(SPACE_OR_TECH, low): continue
         if p['created_at'] < CUTOFF[:19]: continue
         imgs = [media[k].get('url') or media[k].get('preview_image_url') for k in p.get('attachments', {}).get('media_keys', []) if k in media]
         vids = [best_video(media[k]) for k in p.get('attachments', {}).get('media_keys', []) if k in media]

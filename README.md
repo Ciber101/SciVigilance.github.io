@@ -43,3 +43,6 @@ python3 scripts/update_shorts.py        # YouTube Shorts list
 
 ### Ticker
 The top ticker lists news, X posts, and Shorts. Each item links to a stable `#anchor` on the matching page (`news.html`, `posts.html`, `shorts.html`) with smooth scroll + brief highlight.
+
+## Rockets, agencies & tech advancements section rule
+RULE (marc, Oct 28 2026): homepage "Rockets, agencies & tech advancements" section (Digest.html #featuredGrid) shows ONLY group "space" accounts (js/main.js filters it). Content must be rockets / space agencies / launch companies + NON-AI tech advancements (biotech, energy, materials, hardware). NO AI, NO robots, NO basic science (astronomy images, physics, biology, climate, research/discovery posts). update_x_featured.py enforces it with space_ok() (NOT_SPACE_AI / NOT_SPACE_ROBOT / NOT_SPACE_SCIENCE, err on excluding); @elonmusk additionally must match SPACE_OR_TECH. Never put AI accounts (e.g. @MistralAI) in group space. AI and robot accounts stay on voices.html (all groups) and in their own homepage sections. Don't loosen these filters.
