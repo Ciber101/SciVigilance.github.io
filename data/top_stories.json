@@ -1,130 +1,135 @@
 {
- "updated": "2026-10-27T19:36:57-07:00",
- "updated_pt": "Oct 27, 2026, 7:36 PM PT",
- "stories": [
-  {
-   "title": "Google DeepMind unveils Genie 4, a real-time world model that generates sound, speech and realistic physics",
-   "tag": "AI",
-   "date": "2026-10-27",
-   "paragraphs": [
-    "Google DeepMind announced Genie 4 on Oct. 27, 2026, describing it as its new world model for real-time interactive simulation. In a blog post by Raia Hadsell, Diego Rivas and Hang Qi, the lab says Genie 4 is natively multimodal and can generate music, ambient noise and interactive dialogue at the same time as the world itself, making it DeepMind's first real-time world model to generate audio natively.",
-    "According to DeepMind, Genie 4 builds on the Gemini family: Gemini Omni anchors simulations in real-world appearance and behavior, while Gemini 3.8 Flash acts as a guiding agent that watches the scene as it is generated, breaks goals into steps and checks whether each step succeeded. Users navigate with standard keyboard controls and can type prompts to change the scene while it runs, such as altering the weather, moving the camera or adding a person or object. DeepMind says the model simulates physics such as aerodynamics and collisions, and that its biggest leap is in how it simulates people who move, react and speak.",
-    "DeepMind also showed Gemini 4 Argon and Genie 4 working together on robotics research, with Argon breaking a task into steps that steer the simulation; its example simulates Apptronik's Apollo humanoid playing checkers. The lab says trusted testers in film, journalism, education, gaming and engineering have been using the model for tasks such as pre-visualizing scenes and turning a single archival photo into an explorable simulation.",
-    "DeepMind calls Genie 4 an early, experimental model and says visual details and object permanence can still drift over longer sessions, with complex physics, audio accuracy, legible text and long-term consistency still under research. It is rolling out as a research preview to trusted testers, with access coming to Google AI Ultra subscribers in Project Genie and to early-access partners of the Gemini API and Google AI Studio. DeepMind says all video and audio Genie 4 generates carries its SynthID watermark."
-   ],
-   "sources": [
+  "updated": "2026-10-28T07:43:34-07:00",
+  "updated_pt": "Oct 28, 2026, 7:43 AM PT",
+  "stories": [
     {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "date": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "title": "Heat deaths linked to climate change hit a record high, and Lancet Countdown researchers call for a global health emergency",
-   "tag": "Climate",
-   "date": "2026-10-27",
-   "paragraphs": [
-    "Researchers behind The Lancet's 2026 Countdown on Health and Climate Change are calling for climate change to be formally recognized as a global health emergency, ScienceAlert reported Oct. 27, 2026. The report finds that risks and harms tied to extreme heat and drought are rising faster than climate action, despite a decade of growing investment in moving away from fossil fuels. It comes 10 years after the first Countdown report and tracks the effects of climate change on 54 health indicators.",
-    "\"Heat deaths linked to climate change have reached a record-high,\" said Marina Romanello, executive director of The Lancet Countdown. According to the report's estimates, as reported by ScienceAlert, 71.5% of heat-related deaths worldwide in 2023 can be attributed to climate change: about 710,000 deaths, compared with around 200,000 without it. From 2016 to 2023, an estimated 540,800 deaths a year were linked to heat, and climate change was responsible for 68% of them, up from 55% a year in 2006 to 2015.",
-    "The report puts the cost of heat to global economic productivity in 2025 at about $1.07 trillion, just from interrupting people's ability to work, with the biggest losses in the economies of Southeast Asia and Africa. Agriculture and construction were hit especially hard because they rely on demanding outdoor work. Romanello said drought is also spreading while other places flood, and ScienceAlert notes the report finds the world's 100 largest oil and gas companies plan, by 2040, to exceed by 150% the fossil fuel production that would be consistent with keeping warming below 1.5°C.",
-    "The authors say the World Health Organization and United Nations should declare a global health emergency, put health at the center of climate decisions and increase grant-based funding for climate and health work. Co-chair Anthony Costello said health-centered climate action, such as cleaner air and better warning systems, is already saving lives, \"but the pace and scale of emissions reduction remains entirely out of step with the pace and scale of the harm.\""
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency",
-     "date": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "title": "Rubin Observatory finds its first dwarf planet candidate, an icy world beyond Pluto called 2026 ED138",
-   "tag": "Space",
-   "date": "2026-10-27",
-   "paragraphs": [
-    "Scientists have found a distant, icy body orbiting beyond Pluto that may be added to the solar system's official list of dwarf planets, according to a University of Washington release published on Phys.org on Oct. 27, 2026. The object, provisionally named 2026 ED138, was spotted earlier this month in data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rubin Observatory. The results were presented at a press conference on Oct. 27 by Matthew Holman, a senior astrophysicist at the Harvard & Smithsonian Center for Astrophysics who first spotted the object, and Mario Jurić, a University of Washington astronomy professor who leads Rubin's solar system team.",
-    "According to the release, initial measurements place ED138 among the largest dwarf planet candidates ever found beyond Neptune. If confirmed, it would join the five dwarf planets recognized by the International Astronomical Union: Pluto, Ceres, Eris, Haumea and Makemake. \"Finding an object this big, roughly 1,000 kilometers (620 miles) across, is something that happens maybe once in a generation,\" Jurić said. \"It's the largest trans-Neptunian object found in about 20 years, and Rubin turned it up while we were still commissioning the telescope.\"",
-    "Holman found the object on the evening of Oct. 13 by running Rubin data through a search code he developed with colleague Kevin Napier, which compares billions of detections of moving objects to find the ones that belong to the same body. Jurić then found 20 more Rubin observations going back to March 2026, and the team also spotted ED138 in archival images from other surveys going back to 2016, giving them more than 10 years of its orbit. The release says the object sits in a crowded region of sky near the plane of the Milky Way, which is likely why it went unnoticed until now.",
-    "ED138 is currently about 46 astronomical units from the sun, compared with Pluto's average distance of 40 au. Based on its distance, brightness and estimated surface reflectivity, the team estimates it is between 600 and 1,500 kilometers (370 and 930 miles) across, and the release notes that icy bodies this large are expected to be round, one of the requirements for a dwarf planet. Further observations are needed to measure its exact size and confirm that it is a dwarf planet. The discovery follows Rubin's announcement in April of more than 11,000 new asteroids, including roughly 380 new trans-Neptunian objects, before its Legacy Survey of Space and Time formally began in June 2026."
-   ],
-   "sources": [
-    {
-     "name": "Phys.org (University of Washington)",
-     "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
-     "date": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "title": "Greenhouse gases hit new record highs in 2025, with carbon dioxide at 426.8 parts per million, WMO reports",
-   "tag": "Climate",
-   "date": "2026-10-27",
-   "paragraphs": [
-    "Levels of carbon dioxide, methane and nitrous oxide in the atmosphere all reached record highs in 2025, according to the World Meteorological Organization's annual Greenhouse Gas Bulletin, published Oct. 27, 2026 and reported by Phys.org. The bulletin puts the globally averaged surface concentration of CO2 at 426.8 parts per million, or 153% of the preindustrial level in 1750. WMO releases it ahead of the U.N. climate conference, COP 31, which meets in Antalya, Turkey, Nov. 9 to 20.",
-    "The bulletin measures how much gas builds up in the atmosphere, not yearly emissions. WMO reports that CO2 growth rates have tripled since the 1960s, from an average of 0.8 ppm a year to 2.4 ppm a year in 2011 to 2020, and that CO2 rose by 2.8 ppm from 2024 to 2025, above the decade average but slightly less than the surge of 2023 to 2024. WMO senior scientific officer Oksana Tarasova said the smaller rise reflects land carbon sinks recovering and fewer fire emissions after the strong 2023 to 2024 El Niño, and that she expects concentrations to rise further in 2026 because of fossil fuel burning and a developing powerful El Niño.",
-    "Methane averaged 1,948 parts per billion in 2025, or 267% of its 1750 level, and nitrous oxide reached 339.1 ppb, or 126%. Citing NOAA's Annual Greenhouse Gas Index, the report says the warming effect of long-lived greenhouse gases rose 56% from 1990 to 2025, with CO2 accounting for about 81% of that increase.",
-    "WMO Deputy Secretary-General Ko Barrett said the past 11 years have been the warmest on record. The bulletin also flags two gases tied to the clean-energy transition: sulfur hexafluoride, used in electricity distribution, which has a lifetime of more than 1,000 years and rose by a record amount in 2025, and hydrogen, which is not itself a greenhouse gas but has an indirect warming effect and increased 5.3% between 2010 and 2024."
-   ],
-   "sources": [
-    {
-     "name": "Phys.org (World Meteorological Organization)",
-     "url": "https://phys.org/news/2026-10-greenhouse-gases-highs.html",
-     "date": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "title": "OpenAI releases GPT-6.1 Terra, a cheaper mid-range model built for computer use and visual reasoning",
-   "tag": "AI",
-   "date": "2026-10-26",
-   "paragraphs": [
-    "OpenAI announced GPT-6.1 Terra on Oct. 26, 2026, describing it as a fast, efficient model that combines detailed visual reasoning and precise computer use with clearer, more natural writing. The company calls it a significant step up from GPT-5.6 Terra and says it is aimed at everyday workplace tasks, from drafting proposals and interpreting technical drawings to filling out forms and editing videos.",
-    "According to OpenAI, at medium reasoning effort GPT-6.1 Terra scores 15 percentage points higher than GPT-5.6 Terra on Agents' Last Exam, a benchmark of professional computer-use tasks, at about one-third the cost, and performs on par with GPT-6 Astra at one-tenth its price per token. OpenAI also reports that on Terminal-Bench 4.0 at maximum reasoning effort the model solves 50.3% of coding tasks, more than double GPT-5.6 Terra's published 21.5%, and that on its internal benchmark of error-inducing prompts the error rate at low reasoning effort fell from 53.6% to 16.7%. OpenAI says GPT-6.1 Sol and GPT-6 Astra remain the better choice for the most complex coding tasks.",
-    "OpenAI says the model meets the Critical threshold in cybersecurity under its Preparedness Framework and keeps the protections developed for GPT-6 Astra. GPT-6.1 Terra is available starting Oct. 26 to Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and to developers through the API as gpt-6.1-terra, at $1 per million input tokens and $5 per million output tokens, which OpenAI says is 50% lower than GPT-5.6 Terra and GPT-6.1 Sol.",
-    "Writing about the release the same day, developer Simon Willison noted that OpenAI's announcement emphasized visual reasoning and computer use, and compared Terra's place in OpenAI's lineup to Sonnet's in Anthropic's: neither the cheapest nor the most expensive option. He quoted OpenAI's Ted Sanders, who said on Hacker News that Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use but much faster, and a bit worse on most other things."
-   ],
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-     "date": "2026-10-26"
+      "title": "Google DeepMind unveils Genie 4, a real-time world model that generates sound, speech and realistic physics",
+      "tag": "AI",
+      "date": "2026-10-27",
+      "paragraphs": [
+        "Google DeepMind announced Genie 4 on Oct. 27, 2026, describing it as its new world model for real-time interactive simulation. In a blog post by Raia Hadsell, Diego Rivas and Hang Qi, the lab says Genie 4 is natively multimodal and can generate music, ambient noise and interactive dialogue at the same time as the world itself, making it DeepMind's first real-time world model to generate audio natively.",
+        "According to DeepMind, Genie 4 builds on the Gemini family: Gemini Omni anchors simulations in real-world appearance and behavior, while Gemini 3.8 Flash acts as a guiding agent that watches the scene as it is generated, breaks goals into steps and checks whether each step succeeded. Users navigate with standard keyboard controls and can type prompts to change the scene while it runs, such as altering the weather, moving the camera or adding a person or object. DeepMind says the model simulates physics such as aerodynamics and collisions, and that its biggest leap is in how it simulates people who move, react and speak.",
+        "DeepMind also showed Gemini 4 Argon and Genie 4 working together on robotics research, with Argon breaking a task into steps that steer the simulation; its example simulates Apptronik's Apollo humanoid playing checkers. The lab says trusted testers in film, journalism, education, gaming and engineering have been using the model for tasks such as pre-visualizing scenes and turning a single archival photo into an explorable simulation.",
+        "DeepMind calls Genie 4 an early, experimental model and says visual details and object permanence can still drift over longer sessions, with complex physics, audio accuracy, legible text and long-term consistency still under research. It is rolling out as a research preview to trusted testers, with access coming to Google AI Ultra subscribers in Project Genie and to early-access partners of the Gemini API and Google AI Studio. DeepMind says all video and audio Genie 4 generates carries its SynthID watermark."
+      ],
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "date": "2026-10-27"
+        }
+      ]
     },
     {
-     "name": "Simon Willison",
-     "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-     "date": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "title": "Anthropic files to go public, with plans to list on Nasdaq under the ticker ANT",
-   "tag": "AI",
-   "date": "2026-10-26",
-   "paragraphs": [
-    "Anthropic announced on Oct. 26, 2026, that it has filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A common stock. The company says it intends to list on the Nasdaq Global Select Market under the symbol \"ANT,\" and that the number of shares to be offered and the price range have not yet been determined. Goldman Sachs and Morgan Stanley are named as the lead underwriters.",
-    "According to CNBC's coverage of the filing, Anthropic reported revenue of $16.29 billion for the six months ended June 30, 2026, up 1,304% from $1.16 billion a year earlier, and $4.59 billion in revenue for all of 2025. It reported a net loss of $80.7 billion for the first half of 2026, which the company says largely reflects accounting charges from changes in the value of convertible notes tied to increases in its valuation. CNBC reports that consumption-based revenue made up 80% of the total in that period and subscriptions 20%.",
-    "CNBC reports that the filing describes a governance structure Anthropic says has \"no direct public company precedent.\" A company called Founder LLC, whose sole members are Anthropic's seven co-founders, including CEO Dario Amodei and President Daniela Amodei, will hold 50.1% of the voting power of outstanding shares. Anthropic says in the filing that the structure may make it more difficult to replace its directors and management and is likely to limit the chance of an unsolicited takeover.",
-    "CNBC reports the filing lists 5,300 employees as of Sept. 30, more than 11,900 enterprise customers with at least $100,000 in trailing-twelve-month revenue, and more than 90 pages of risk factors, including AI safety, dependence on TSMC for chips, and data center construction moratoriums. The filing names OpenAI and Google as its direct competitors and, according to CNBC, describes a compute agreement with SpaceX of up to $120.5 billion running into 2029. Anthropic says no sales can take place until the registration statement becomes effective."
-   ],
-   "sources": [
-    {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/news/s1-sec",
-     "date": "2026-10-26"
+      "title": "Artemis I data show radiation near the Moon is higher than in Earth orbit, but by less than expected",
+      "tag": "Space",
+      "date": "2026-10-28",
+      "paragraphs": [
+        "Radiation detectors that flew around the Moon on NASA's uncrewed Artemis I mission in late November and early December 2022 have produced new preliminary measurements of cosmic radiation near the Moon, according to a ScienceDaily release from the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) dated Oct. 28, 2026. The Orion spacecraft carried more than 10,000 tiny crystals inside two human-shaped mannequins as part of the MARE (Matroshka AstroRad Radiation Experiment) study. The results were published in the journal Radiation Measurements in a paper led by Paweł Bilski of IFJ PAN.",
+        "The release says total radiation doses near the Moon are higher than in low Earth orbit because of galactic radiation, but the difference is not as large as one might expect. Bilski explains that low-energy protons trapped in Earth's Van Allen belts can make up most of the dose astronauts receive in low Earth orbit, and that contribution disappears near the Moon. High-energy galactic particles can pass through the entire body, so the Artemis I detectors recorded doses spread almost evenly through the mannequins, unlike the uneven pattern seen in the earlier MATROSHKA experiment on the International Space Station.",
+        "The study also tested a new kind of passive detector: millimeter-sized lithium fluoride crystals that record the tracks of charged particles and can be read with a fluorescence microscope. Universe Today reports that traditional plastic detectors must be etched in hot sodium hydroxide before they can be read, which destroys them and creates hazardous waste. According to IFJ PAN, after corrections and new background-removal software, the crystal results differed by no more than 15% from conventional track detectors across the overlapping range, and they also picked up many particle tracks below the older detectors' threshold.",
+        "Universe Today adds that for the highest energy transfers, the new sensors overestimated the dose by around 30% compared with the plastic detectors, which the researchers suspect comes from secondary neutrons knocking lithium atoms out of place inside the crystal. The team used crystals enriched in lithium-7 to reduce those reactions. IFJ PAN says the detectors are small enough to be worn by people, making them practical for monitoring astronaut radiation exposure on future missions."
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily (IFJ PAN)",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+          "date": "2026-10-28"
+        },
+        {
+          "name": "Universe Today",
+          "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
+          "date": "2026-10-28"
+        }
+      ]
     },
     {
-     "name": "CNBC",
-     "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
-     "date": "2026-10-26"
+      "title": "Heat deaths linked to climate change hit a record high, and Lancet Countdown researchers call for a global health emergency",
+      "tag": "Climate",
+      "date": "2026-10-27",
+      "paragraphs": [
+        "Researchers behind The Lancet's 2026 Countdown on Health and Climate Change are calling for climate change to be formally recognized as a global health emergency, ScienceAlert reported Oct. 27, 2026. The report finds that risks and harms tied to extreme heat and drought are rising faster than climate action, despite a decade of growing investment in moving away from fossil fuels. It comes 10 years after the first Countdown report and tracks the effects of climate change on 54 health indicators.",
+        "\"Heat deaths linked to climate change have reached a record-high,\" said Marina Romanello, executive director of The Lancet Countdown. According to the report's estimates, as reported by ScienceAlert, 71.5% of heat-related deaths worldwide in 2023 can be attributed to climate change: about 710,000 deaths, compared with around 200,000 without it. From 2016 to 2023, an estimated 540,800 deaths a year were linked to heat, and climate change was responsible for 68% of them, up from 55% a year in 2006 to 2015.",
+        "The report puts the cost of heat to global economic productivity in 2025 at about $1.07 trillion, just from interrupting people's ability to work, with the biggest losses in the economies of Southeast Asia and Africa. Agriculture and construction were hit especially hard because they rely on demanding outdoor work. Romanello said drought is also spreading while other places flood, and ScienceAlert notes the report finds the world's 100 largest oil and gas companies plan, by 2040, to exceed by 150% the fossil fuel production that would be consistent with keeping warming below 1.5°C.",
+        "The authors say the World Health Organization and United Nations should declare a global health emergency, put health at the center of climate decisions and increase grant-based funding for climate and health work. Co-chair Anthony Costello said health-centered climate action, such as cleaner air and better warning systems, is already saving lives, \"but the pace and scale of emissions reduction remains entirely out of step with the pace and scale of the harm.\""
+      ],
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency",
+          "date": "2026-10-28"
+        }
+      ]
+    },
+    {
+      "title": "Rubin Observatory finds its first dwarf planet candidate, an icy world beyond Pluto called 2026 ED138",
+      "tag": "Space",
+      "date": "2026-10-27",
+      "paragraphs": [
+        "Scientists have found a distant, icy body orbiting beyond Pluto that may be added to the solar system's official list of dwarf planets, according to a University of Washington release published on Phys.org on Oct. 27, 2026. The object, provisionally named 2026 ED138, was spotted earlier this month in data from the Simonyi Survey Telescope at the NSF-DOE Vera C. Rubin Observatory. The results were presented at a press conference on Oct. 27 by Matthew Holman, a senior astrophysicist at the Harvard & Smithsonian Center for Astrophysics who first spotted the object, and Mario Jurić, a University of Washington astronomy professor who leads Rubin's solar system team.",
+        "According to the release, initial measurements place ED138 among the largest dwarf planet candidates ever found beyond Neptune. If confirmed, it would join the five dwarf planets recognized by the International Astronomical Union: Pluto, Ceres, Eris, Haumea and Makemake. \"Finding an object this big, roughly 1,000 kilometers (620 miles) across, is something that happens maybe once in a generation,\" Jurić said. \"It's the largest trans-Neptunian object found in about 20 years, and Rubin turned it up while we were still commissioning the telescope.\"",
+        "Holman found the object on the evening of Oct. 13 by running Rubin data through a search code he developed with colleague Kevin Napier, which compares billions of detections of moving objects to find the ones that belong to the same body. Jurić then found 20 more Rubin observations going back to March 2026, and the team also spotted ED138 in archival images from other surveys going back to 2016, giving them more than 10 years of its orbit. The release says the object sits in a crowded region of sky near the plane of the Milky Way, which is likely why it went unnoticed until now.",
+        "ED138 is currently about 46 astronomical units from the sun, compared with Pluto's average distance of 40 au. Based on its distance, brightness and estimated surface reflectivity, the team estimates it is between 600 and 1,500 kilometers (370 and 930 miles) across, and the release notes that icy bodies this large are expected to be round, one of the requirements for a dwarf planet. Further observations are needed to measure its exact size and confirm that it is a dwarf planet. The discovery follows Rubin's announcement in April of more than 11,000 new asteroids, including roughly 380 new trans-Neptunian objects, before its Legacy Survey of Space and Time formally began in June 2026."
+      ],
+      "sources": [
+        {
+          "name": "Phys.org (University of Washington)",
+          "url": "https://phys.org/news/2026-10-rubin-observatory-reveals-dwarf-planet.html",
+          "date": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "title": "OpenAI releases GPT-6.1 Terra, a cheaper mid-range model built for computer use and visual reasoning",
+      "tag": "AI",
+      "date": "2026-10-26",
+      "paragraphs": [
+        "OpenAI announced GPT-6.1 Terra on Oct. 26, 2026, describing it as a fast, efficient model that combines detailed visual reasoning and precise computer use with clearer, more natural writing. The company calls it a significant step up from GPT-5.6 Terra and says it is aimed at everyday workplace tasks, from drafting proposals and interpreting technical drawings to filling out forms and editing videos.",
+        "According to OpenAI, at medium reasoning effort GPT-6.1 Terra scores 15 percentage points higher than GPT-5.6 Terra on Agents' Last Exam, a benchmark of professional computer-use tasks, at about one-third the cost, and performs on par with GPT-6 Astra at one-tenth its price per token. OpenAI also reports that on Terminal-Bench 4.0 at maximum reasoning effort the model solves 50.3% of coding tasks, more than double GPT-5.6 Terra's published 21.5%, and that on its internal benchmark of error-inducing prompts the error rate at low reasoning effort fell from 53.6% to 16.7%. OpenAI says GPT-6.1 Sol and GPT-6 Astra remain the better choice for the most complex coding tasks.",
+        "OpenAI says the model meets the Critical threshold in cybersecurity under its Preparedness Framework and keeps the protections developed for GPT-6 Astra. GPT-6.1 Terra is available starting Oct. 26 to Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and to developers through the API as gpt-6.1-terra, at $1 per million input tokens and $5 per million output tokens, which OpenAI says is 50% lower than GPT-5.6 Terra and GPT-6.1 Sol.",
+        "Writing about the release the same day, developer Simon Willison noted that OpenAI's announcement emphasized visual reasoning and computer use, and compared Terra's place in OpenAI's lineup to Sonnet's in Anthropic's: neither the cheapest nor the most expensive option. He quoted OpenAI's Ted Sanders, who said on Hacker News that Terra is probably better than Astra and Sol at technical communication, similar on vision and computer use but much faster, and a bit worse on most other things."
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "date": "2026-10-26"
+        },
+        {
+          "name": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+          "date": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "title": "Anthropic files to go public, with plans to list on Nasdaq under the ticker ANT",
+      "tag": "AI",
+      "date": "2026-10-26",
+      "paragraphs": [
+        "Anthropic announced on Oct. 26, 2026, that it has filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission for a proposed initial public offering of its Class A common stock. The company says it intends to list on the Nasdaq Global Select Market under the symbol \"ANT,\" and that the number of shares to be offered and the price range have not yet been determined. Goldman Sachs and Morgan Stanley are named as the lead underwriters.",
+        "According to CNBC's coverage of the filing, Anthropic reported revenue of $16.29 billion for the six months ended June 30, 2026, up 1,304% from $1.16 billion a year earlier, and $4.59 billion in revenue for all of 2025. It reported a net loss of $80.7 billion for the first half of 2026, which the company says largely reflects accounting charges from changes in the value of convertible notes tied to increases in its valuation. CNBC reports that consumption-based revenue made up 80% of the total in that period and subscriptions 20%.",
+        "CNBC reports that the filing describes a governance structure Anthropic says has \"no direct public company precedent.\" A company called Founder LLC, whose sole members are Anthropic's seven co-founders, including CEO Dario Amodei and President Daniela Amodei, will hold 50.1% of the voting power of outstanding shares. Anthropic says in the filing that the structure may make it more difficult to replace its directors and management and is likely to limit the chance of an unsolicited takeover.",
+        "CNBC reports the filing lists 5,300 employees as of Sept. 30, more than 11,900 enterprise customers with at least $100,000 in trailing-twelve-month revenue, and more than 90 pages of risk factors, including AI safety, dependence on TSMC for chips, and data center construction moratoriums. The filing names OpenAI and Google as its direct competitors and, according to CNBC, describes a compute agreement with SpaceX of up to $120.5 billion running into 2029. Anthropic says no sales can take place until the registration statement becomes effective."
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "date": "2026-10-26"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-live-updates-ai-s-1-filing.html",
+          "date": "2026-10-26"
+        }
+      ]
     }
-   ]
+  ],
+  "audio": {
+    "src": "audio/top_stories-6dc5fda725.mp3",
+    "hash": "6dc5fda725fff54a05e2b80c66cb9ce5eca9ab52",
+    "duration": 996.2,
+    "voice": "Kokoro (af_heart)"
   }
- ],
- "audio": {
-  "src": "audio/top_stories-6dc5fda725.mp3",
-  "hash": "6dc5fda725fff54a05e2b80c66cb9ce5eca9ab52",
-  "duration": 996.2,
-  "voice": "Kokoro (af_heart)"
- }
 }
