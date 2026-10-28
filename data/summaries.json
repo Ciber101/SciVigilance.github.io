@@ -72,9 +72,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.esa.int/ESA_Multimedia/Images/2026/10/MMX_lifts_off_to_Mars_s_moon_Phobos": {
-  "s": "MMX lifted off into space on October 20, 2026, aboard an H3 rocket from Japan. This mission will be the first to orbit Mars's moon Phobos and collect samples from its surface."
- },
  "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization": {
   "s": "Specializing the vocabulary of specialized language models (SLMs) by fine-tuning them for a specific domain or task can significantly reduce the cost of inference. In a production essay grader, this approach cut the inference cost by 77% without altering the base model. The grader, originally using a vocabulary for multiple languages and text types, was optimized for Portuguese essays, reducing token usage and vocabulary size."
  },
@@ -169,14 +166,8 @@
  "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
   "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
  },
- "https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/": {
-  "s": "NASA’s Perseverance rover captured a 360-degree view of Neretva Vallis, a site that billions of years ago was home to a river channel. This vista now shows dust, indicating wind action, but it preserves evidence of past water flow."
- },
  "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027": {
   "s": "Researchers at MIT developed a new origami-based construction method that allows for the creation of lightweight, load-bearing structures. This method could be used to build emergency shelters or aerospace components more quickly and with less material than traditional techniques."
- },
- "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/": {
-  "s": "OpenAI launched GPT-6.1 Terra, a faster model priced at $1/$5 per million tokens, half the cost of GPT-6.1 Sol for agent work. This matters as it offers significant cost savings for high-volume visual and computer-use tasks, appealing to businesses needing efficient AI solutions."
  },
  "https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/": {
   "s": "A-81, an Antarctic iceberg, moved quickly from the Weddell Sea but slowed near the underwater shelf of South Georgia. This matters because slow-moving icebergs can be more likely to become grounded, unlike the fast-moving ones that typically leave the Weddell Sea."
@@ -335,9 +326,6 @@
  "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture": {
   "s": "NASA's systems engineering team detailed the architecture of a proposed mission called the Habitable Worlds Observatory (HWO) aimed at advancing the search for Earth-like exoplanets. This mission, still not scheduled to launch until the 2040s, aims to directly image exoplanets, a challenging task due to the vast distances involved. Researchers introduced engineering concepts to balance the mission's scientific goals with technical requirements, focusing on telescope design, size, and whether they need to be on-axis or off-axis."
  },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4 introduced a new world simulation model offering unprecedented realism and interactive capabilities. This advancement matters because it enhances AGI development by enabling realistic, fluid simulations for training robots and agents, and creating new interactive experiences."
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063824.htm": {
   "s": "A major new study has revealed that autistic children’s brains process faces differently, and these differences may begin earlier than scientists previously thought. Scientists have found that brain activity associated with face recognition is less clearly distinguishable in autistic participants, and autistic children do not show the same pattern of brain development as neurotypical children."
  },
@@ -368,7 +356,19 @@
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "Robot hands for Boston Dynamics' Atlas robot have 13 degrees of freedom and direct actuation, designed for high-fidelity simulation and dexterous physical work. This matters because designing hands for humanoid robots is a complex tradeoff between dexterity, strength, and other factors, making this new hand a significant advancement for Atlas' capabilities."
  },
- "https://bostondynamics.com/blog/boston-dynamics-joins-dow-skillbridge-program/": {
-  "s": "Boston Dynamics has joined the DoW SkillBridge program, offering on-the-job training to service members. This initiative aims to help veterans find civilian careers, providing them with practical experience."
+ "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/": {
+  "s": "Following the Basque Lakes drill campaign, Curiosity returned to a spot near the \"Chiu Chiu\" block to prepare for its next drilling. The rover's imaging showed promising crystal forms at a new target called \"Nazca,\" hinting at mineral growth in the past."
+ },
+ "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/": {
+  "s": "Google DeepMind released Genie 4 as a research preview, adding native audio and live dialogue to its real-time world model. This model succeeds Genie 3, which ran at 720p and 24 frames per second, and is DeepMind's first real-time world model to generate audio natively."
+ },
+ "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999": {
+  "s": "PHP is a programming language that powers most websites, running on a web server and handling user input. A flaw in its core system allows hackers to run unauthorized commands, access data, and control websites. AI was used to uncover this vulnerability, highlighting its importance in both attacking and defending the internet."
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot, a robot designed for mobility and ease of use, to keep people safe. Spot's agility and capabilities, including climbing stairs and navigating tight spaces, make it a valuable tool for various tasks like disaster search and rescue, hostage situations, and drug lab investigations. Its features, such as a manipulator arm and speaker, allow operators to conduct searches and communicate safely from a distance. The robot's benefits are evident, as it can enter dangerous areas without risking human officers, thus reducing potential harm."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, discusses endurance testing for Boston Dynamics' Stretch robot. She explains how her team simulates years of robot use in just weeks by running testers faster and with more aggressive forces. This accelerates wear on components like cables, helping to identify potential issues early. Her work ensures Stretch can reliably move boxes in warehouses."
  }
 }
