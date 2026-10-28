@@ -120,9 +120,6 @@
  "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342": {
   "s": "The shadow population of deceased relatives is larger than today's living population, comprising millions of people. Researchers found that almost 44% of Americans report feeling the presence of a deceased relative or communicating with one in the past year."
  },
- "https://theconversation.com/php-is-in-the-foundation-of-70-of-websites-heres-what-it-is-and-why-a-flaw-in-the-software-is-a-major-hacking-threat-294999": {
-  "s": "PHP is a programming language that powers most websites, with estimates suggesting around 70% of websites run on it. The recent vulnerability in PHP's core system and libraries allows attackers to run unauthorized commands on hosting computers, giving them access to data and full control of websites."
- },
  "https://www.sciencenews.org/article/ed-note-november-2026": {
   "s": "People's voices have unique powers, enabling expression and connection. A man with lost voice regained it thanks to technology. AI in mathematics raises ethical concerns."
  },
@@ -168,9 +165,6 @@
  },
  "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
   "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
- },
- "https://www.universetoday.com/articles/asymmetric-space-waves-map-pressure-on-earths-magnetic-shield": {
-  "s": "The Earth's magnetic field experiences greater stress from space weather in certain regions compared to others, according to a recent study. This finding could help scientists better understand how the magnetic field protects Earth from harmful space radiation, and could also apply to magnetic fields on other planets."
  },
  "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
   "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
@@ -272,9 +266,6 @@
  "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision": {
   "s": "Astronomers using James Webb telescope found a galaxy with a ring of stars 2.1 billion years after the Big Bang. This rare sight suggests the universe in its youth may have been more dynamic and chaotic than previously thought."
  },
- "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022": {
-  "s": "Design software X-Hinges transforms everyday objects into self-aware devices with embedded sensors. This innovation allows items like lamps and gloves to perceive and adapt to human contact. Yet, the sensors often mix signals, causing confusion and errors, as seen in a glove misinterpreting a student's motions."
- },
  "https://huggingface.co/blog/LiquidAI/lfm3": {
   "s": "LFM3, a new model from Liquid AI, is designed to be the foundation for specialized intelligence by integrating various types of data including text, vision, and audio. Its significance lies in its ability to be used as a starting point for developing more complex models, all within a manageable 2B parameter size."
  },
@@ -316,22 +307,11 @@
  "https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/": {
   "s": "These findings could help design better spacesuits and habitats for future Mars missions, improving crew health and safety."
  },
- "https://openai.com/index/introducing-gpt-6-1-terra": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://phys.org/news/2026-10-earth-thermostat-pangea-era.html": {
   "s": "The climate thermostat that maintains Earth's habitability may have operated differently during the time when the supercontinent Pangea existed. This discovery could offer new insights into how Earth's climate has changed over time and might influence future climate scenarios."
  },
  "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star": {
   "s": "When a star like the Sun exhausts its fuel and expands, it can engulf and destroy its inner planets. This debris can form new planets, but these worlds would not have a chance to support life. The discovery of a white dwarf surrounded by a split debris disk suggests the potential for planets, but chances of life emerging are remote."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.sciencealert.com/mice-with-parkinsons-like-brain-changes-unexpectedly-recovered-a-year-later": {
-  "s": "Mice with movement problems resembling Parkinson's disease recovered without treatment after pesticide exposure ended. Scientists found this recovery unexpected, as it was not expected that the animals would improve over time."
  },
  "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space": {
   "s": "Underwater, Michaela Musilova conducted simulated spacewalks in dim conditions to prepare astronauts for real space missions. Her work helps ensure safety and effective communication for future space travelers."
@@ -346,28 +326,39 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-database-tracks-earth-standardizing-decades.html": {
-  "s": "Researchers track water's origins using isotopes, variants of water molecules with different masses. This data from eight satellites, though rich, was hard to use due to differences in data sets and locations. A new database standardizes isotopic data, making it easier for researchers to combine and analyze, potentially revealing more about water's global cycle."
- },
- "https://phys.org/news/2026-10-counteranion-captures-reactants-boost-driven.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/": {
   "s": "Liquid AI released LFM3, 6 open-weight multimodal models. LFM3 is larger but lighter than previous models, using a hybrid backbone and more efficient attention mechanisms. These changes are important for practical deployment, especially on resource-constrained devices. LFM3's superior performance, particularly in decision-making tasks and agent-based reasoning, highlights the model's potential for real-world applications."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore's GovTech collaborated to develop a lightweight AI model called Gemma. This model is designed to detect scam conversations in private chats without transmitting any data to the cloud."
+ "https://www.universetoday.com/articles/unveiling-starbirth-mysteries": {
+  "s": "Researchers have used radio astronomy to study the magnetic fields in star-forming regions. They found that in the inner part of these regions, the neutral molecules fall in faster than ions, due to a process called ambipolar diffusion. This finding helps explain how gravity can compress clouds of gas and dust into stars, revealing insights into the veiled birth of stars."
  },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+ "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency": {
+  "s": "Experts warn that climate change is accelerating these health threats, and is responsible for a significant portion of heat-related deaths."
+ },
+ "https://phys.org/news/2026-10-climate-health-outpace-action-prompting.html": {
+  "s": "The 2026 report from The Lancet Countdown found that health risks and harms from climate change grew faster from 2016 to 2025 than from 2006 to 2015. This report calls for climate change to be recognized as a global health emergency, as progress in reducing harm from fossil fuels has not kept pace with the increasing risks."
+ },
+ "https://www.nature.com/articles/s41467-026-77597-8": {
+  "s": "This study longitudinally profiles the upper respiratory tract virome of beef calves from birth to weaning, revealing changes in viral community richness and turnover. These findings suggest that phages, which are dominant in the URT phage community, contribute to host adaptation and persistence. The emergence of vertebrate-associated viruses after the first week of life and the recovery of near-complete viral genomes from bovine URT viromes indicate evolutionary connections between different hosts."
+ },
+ "https://phys.org/news/2026-10-decoding-loopy-physics-hula-hooping.html": {
+  "s": "Hula hooping was initially thought to involve two separate movements: one for the hoop's orbit and another for its wobble. However, recent research using advanced sensors and nonlinear analysis has shown that these movements are intertwined, challenging previous understanding. This discovery could improve how mechanical systems are modeled, potentially benefiting fields like physical rehabilitation and robotics."
+ },
+ "https://www.sciencealert.com/scientists-have-discovered-where-native-hawaiians-came-from-and-the-genetic-effect-of-their-long-voyage": {
+  "s": "Scientists have discovered that the native people of Hawaii came from Rapa Nui, an island in the Pacific, over 3,000 years ago. This discovery matters because it helps explain how small populations of seafarers managed to reach such isolated islands, highlighting the genetic effects of their long voyages."
+ },
+ "https://openai.com/index/amp-beyond-coding": {
   "s": "",
   "why": "too little source text"
  },
- "https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
-  "s": "Gemini 4 Argon demonstrated advanced physical reasoning by outperforming other models on a benchmark test, showcasing its ability to solve complex physical problems without explicit training. This advancement could accelerate the development of physical artificial general intelligence, potentially leading to more versatile and autonomous robots."
- },
- "https://deepmind.google/blog/introducing-gemini-4-argon/": {
+ "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/spot-to-the-rescue/": {
+  "s": "Public safety organizations worldwide are increasingly using Spot robots to keep people safe, leveraging its mobility and ease of use. Spot's advantages, such as agility and a manipulator arm, make it a standard part of their toolkit, enhancing safety and efficiency."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure reliability in warehouse environments. She simulates years of wear and tear on robot parts in weeks by running testers under aggressive conditions, helping design durable cables and hardware. This testing informs how many cases the robot can move over its lifetime and helps predict and prevent failures."
  }
 }
