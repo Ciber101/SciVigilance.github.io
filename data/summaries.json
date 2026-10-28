@@ -98,9 +98,6 @@
  "https://spectrum.ieee.org/video-friday-rubiks-cube-robot": {
   "s": "The robot solved a Rubik's cube by itself, demonstrating its dexterity and problem-solving skills. This feat matters as it showcases the capabilities of robots in complex manipulation tasks, potentially aiding in future manufacturing or rescue operations."
  },
- "https://theconversation.com/ancestors-all-around-millions-of-dead-people-linger-in-americans-memories-292342": {
-  "s": "The shadow population of deceased relatives is larger than today's living population, comprising millions of people. Researchers found that almost 44% of Americans report feeling the presence of a deceased relative or communicating with one in the past year."
- },
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
@@ -122,21 +119,8 @@
  "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026": {
   "s": "An implantable device combining ultrasound and fluid delivery has been developed. This could help deliver drugs directly to the brain, potentially preventing the recurrence of aggressive brain tumors."
  },
- "https://www.quantamagazine.org/how-voting-is-like-a-klein-bottle-20261026/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.therobotreport.com/bedrock-robotics-nears-1b-in-total-funding-as-demand-for-autonomous-heavy-equipment-surges/": {
-  "s": "Bedrock Robotics has raised $600 million in new funding, bringing its total to nearly $1 billion. This investment aims to scale autonomous heavy equipment to address labor shortages in construction, improving site economics and safety."
- },
  "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
   "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
- },
- "https://news.mit.edu/2026/origami-based-construction-method-yields-lightweight-load-bearing-structures-architecture-1027": {
-  "s": "Researchers at MIT developed a new origami-based construction method that allows for the creation of lightweight, load-bearing structures. This method could be used to build emergency shelters or aerospace components more quickly and with less material than traditional techniques."
- },
- "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/": {
-  "s": "vLLM Semantic Router released d3-ultra, a 27-billion parameter multimodal decision model capable of processing text, images, and video. This model scores 87.2 on the SR-Text test, indicating its ability to answer typed questions with high accuracy. The release of d3-ultra is significant as it joins the Decision 3.0 family, which ranges from 0.6B to 27B parameters, showcasing advancements in multimodal decision-making models."
  },
  "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china": {
   "s": "After the dinosaurs died, a massive fungus named D. rex was discovered growing in southwestern China. This fungus stands out as the largest of its kind, potentially setting a new record for mushroom size. Its discovery challenges the understanding of fungal evolution, suggesting this lineage split off from other fungi shortly after the dinosaurs' extinction."
@@ -144,17 +128,11 @@
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
- "https://theconversation.com/viruses-obey-the-laws-of-physics-studying-how-can-help-researchers-understand-why-they-infect-people-differently-and-lead-to-better-treatments-291499": {
-  "s": "Viruses interact with the physical forces within cells, affecting how they invade and spread. Studying these interactions helps researchers understand why some viruses cause severe illness in certain individuals."
- },
  "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/": {
   "s": "Mirendil released Fern 0.1, its first AI model, trained on 10 million tokens. This matters as it targets specific AI research tasks, outperforming some models but lagging behind others in long-context reasoning."
  },
  "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/": {
   "s": "Xpanner launched a new robot called X1 Piling R6, designed to autonomously drive solar posts for large solar and battery energy storage sites. This robot improves accuracy and reduces the need for manual labor, addressing a shortage of skilled crews."
- },
- "https://www.sciencenews.org/article/extreme-roller-coaster-brain-safety": {
-  "s": "Roller coasters from the past, like the Flip Flap Railway in 1895, subjected riders to extreme forces unseen in modern safety guidelines. Now, lawsuits and accidents prompt questions about coaster design and safety, highlighting gaps in guidelines."
  },
  "https://huggingface.co/blog/LiquidAI/lfm3": {
   "s": "LFM3, a new model from Liquid AI, is designed to be the foundation for specialized intelligence by integrating various types of data including text, vision, and audio. Its significance lies in its ability to be used as a starting point for developing more complex models, all within a manageable 2B parameter size."
@@ -184,9 +162,6 @@
  "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star": {
   "s": "When a star like the Sun exhausts its fuel and expands, it can engulf and destroy its inner planets. This debris can form new planets, but these worlds would not have a chance to support life. The discovery of a white dwarf surrounded by a split debris disk suggests the potential for planets, but chances of life emerging are remote."
  },
- "https://www.space.com/space-exploration/human-spaceflight/how-spacewalking-underwater-made-me-feel-like-i-was-really-in-space": {
-  "s": "Underwater, Michaela Musilova conducted simulated spacewalks in dim conditions to prepare astronauts for real space missions. Her work helps ensure safety and effective communication for future space travelers."
- },
  "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/": {
   "s": "Liquid AI released LFM3, 6 open-weight multimodal models. LFM3 is larger but lighter than previous models, using a hybrid backbone and more efficient attention mechanisms. These changes are important for practical deployment, especially on resource-constrained devices. LFM3's superior performance, particularly in decision-making tasks and agent-based reasoning, highlights the model's potential for real-world applications."
  },
@@ -196,14 +171,8 @@
  "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/": {
   "s": "Jupiter's moons Ganymede and Io met in the sky on October 20th, 2026, creating a mutual occultation where Ganymede briefly blocked Io from view. This event is rare because it requires Earth's edge-on view of Jupiter's orbit, happening once every 6 years when Jupiter reaches its equinox."
  },
- "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture": {
-  "s": "NASA's systems engineering team detailed the architecture of a proposed mission called the Habitable Worlds Observatory (HWO) aimed at advancing the search for Earth-like exoplanets. This mission, still not scheduled to launch until the 2040s, aims to directly image exoplanets, a challenging task due to the vast distances involved. Researchers introduced engineering concepts to balance the mission's scientific goals with technical requirements, focusing on telescope design, size, and whether they need to be on-axis or off-axis."
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063824.htm": {
   "s": "A major new study has revealed that autistic children’s brains process faces differently, and these differences may begin earlier than scientists previously thought. Scientists have found that brain activity associated with face recognition is less clearly distinguishable in autistic participants, and autistic children do not show the same pattern of brain development as neurotypical children."
- },
- "https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/": {
-  "s": "Some 27 million years ago, a massive volcanic eruption in southeastern Arizona created a caldera and deposited layers of ash and pumice, forming towering rock formations. Today, these formations are known as Chiricahua National Park, where geologic processes have sculpted them into dramatic spires and hoodoos."
  },
  "https://www.sciencedaily.com/releases/2026/10/261026225608.htm": {
   "s": "",
@@ -225,10 +194,6 @@
  "https://www.space.com/astronomy/black-holes/black-holes-can-split-in-two-but-only-if-they-spin-at-extreme-speeds": {
   "s": "Scientists have observed black holes merging, creating larger black holes. This new research proposes that single black holes might split into two smaller ones, provided they rotate very rapidly."
  },
- "https://www.livescience.com/health/reproductive-health/diagnostic-dilemma-a-woman-carried-a-stone-baby-in-her-abdomen-for-3-years": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/": {
   "s": "FlashMap, a new tool from researchers, drafts up to 16 tokens in one step, significantly speeding up language model decoding. This innovation is important because it offers a faster method for generating text, potentially improving efficiency in natural language processing tasks."
  },
@@ -238,9 +203,6 @@
  },
  "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i": {
   "s": "Researchers equipped mannequins with radiation sensors to study cosmic radiation. Tracking heavy ions in space is challenging, as they cause biological damage. Lithium fluoride crystals offer a passive, long-term radiation monitoring solution, avoiding the drawbacks of traditional detectors."
- },
- "https://theconversation.com/falcon-9-ushered-in-the-modern-space-economy-retiring-it-could-leave-the-industry-vulnerable-294225": {
-  "s": "Falcon 9 rocket has been pivotal in launching satellites, spacecraft, and even astronauts to orbit, facilitating access to space for various entities. Its retirement in late 2026 could jeopardize the commercial space industry, as it has been a reliable and cost-effective choice for 16 years. Space scientists fear this shift might limit future space launches unless alternatives are developed."
  },
  "https://www.sciencedaily.com/releases/2026/10/261027063707.htm": {
   "s": "Scientists have discovered that European fire salamanders, known for their striking colors, emit a green and cyan glow when exposed to ultraviolet light. This phenomenon, called biofluorescence, is significant because it reveals that even well-studied species can hide unexpected biological traits."
@@ -269,10 +231,6 @@
  "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
   "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection, intercepting private chats with zero cloud data egress. This collaboration addresses scams that have evolved from simple phishing to complex social engineering, making traditional detection methods ineffective."
  },
- "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
   "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
  },
@@ -298,58 +256,27 @@
  "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate": {
   "s": "The Vera Rubin Observatory discovered its first dwarf planet candidate, named 2026 ED138, before its full mission even began. This discovery is significant because it highlights the observatory's ability to find objects moving through the distant Solar System, unlike other telescopes that struggle with faint movements."
  },
- "https://www.sciencenews.org/article/football-nfl-players-cte-brain-disease": {
-  "s": "An estimate suggests that three-quarters of former NFL players may have CTE at death. This new study accounts for potential bias from families donating brains due to CTE symptoms, providing a more accurate estimate. CTE is linked to repeated head trauma, affecting players, combat veterans, and those with intimate partner violence."
- },
- "https://www.sciencealert.com/your-brain-seems-to-stretch-time-while-youre-learning-a-new-movement": {
-  "s": "A study found that people's perception of time changes when they prepare to move their hand. Participants judged a brief light as lasting longer after practicing a reaching task, by 25%. This suggests that the brain stretches time while preparing to move, a phenomenon not previously expected."
- },
  "https://phys.org/news/2026-10-islands-harbor-earth-biodiversity-overlooked.html": {
   "s": "Islands harbor nearly 20% of Earth's biodiversity despite occupying only 7% of the land surface. Yet, these ecosystems remain overlooked in conservation strategies. Rising sea levels and invasive species threaten island biodiversity, with climate change posing the greatest risk. The research highlights countries most vulnerable to these threats, urging stronger protection measures."
  },
  "https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/": {
   "s": "This Webb image reveals a chaotic area of star formation, populated by clumps of gas. This region, named N159, is 161,000 light-years away and helps astronomers study conditions similar to those of the early universe."
  },
- "https://www.universetoday.com/articles/the-leap-second-is-history-long-live-the-leap-hour": {
-  "s": "The Leap Second is being phased out, with a new resolution allowing for a 'leap hour' to be added to timekeeping. This change aims to simplify timekeeping by making it strictly uniform, allowing for more reliable predictions of astronomical events."
- },
- "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-extracellular-vesicle-discovery-cancer.html": {
-  "s": "A team from McGill University Health Center discovered a new type of extracellular vesicle released by cancer cells as they migrate. The discovery could help understand how cancer progresses and might lead to new treatments."
- },
  "https://news.mit.edu/2026/oceans-most-abundant-loner-microbe-has-sticky-second-life-1020": {
   "s": "Researchers in MIT's Chisholm lab have discovered that Prochlorococcus, the ocean's most abundant microbe, can switch from drifting alone in sunlit waters to forming sticky communities called biofilms. This finding is significant because it means the organism plays a larger role in moving carbon to the deep ocean, potentially altering current estimates of the ocean's carbon transport."
  },
- "https://phys.org/news/2026-10-motion-electron-camera-reveals-driven.html": {
-  "s": "Using a new electron camera, physicists observed electrons in graphene jumping across energy gaps in a light-driven process. This behavior, called Landau-Zener-Majorana transitions, was previously suspected but never seen in detail. The findings could improve high-speed semiconductor electronics."
- },
- "https://theconversation.com/human-rights-could-improve-or-worsen-based-on-how-nations-use-the-un-treaty-against-cybercrime-269794": {
-  "s": "If the treaty enters into force, nations must closely watch how other countries use it. Critics fear it could be misused by authoritarian governments to suppress free speech and human rights."
- },
- "https://phys.org/news/2026-10-solar-storm-triggered-ultrarelativistic-electrons.html": {
-  "s": "The Earth's magnetic field traps energetic charged particles in radiation belts. But in 2024, a solar storm allowed electrons with extremely high energies to reach close to the Earth's surface, inside what was thought to be an impenetrable barrier. This discovery challenges current understanding of the radiation belts and highlights the unpredictable nature of space weather."
- },
  "https://www.livescience.com/health/viruses-infections-disease/hepatitis-b-could-surge-infecting-millions-more-in-childhood-under-proposed-cdc-guidance": {
   "s": "A shift in hepatitis B vaccination guidelines proposed by the CDC could leave many young adults unprotected. This could lead to a resurgence of infections, affecting millions more."
- },
- "https://phys.org/news/2026-10-portable-device-accurately-rapidly-pfas.html": {
-  "s": "Researchers from Okinawa Institute of Science and Technology have developed a portable device that can detect PFAS in water. This device is significant because it allows for rapid and accurate detection without needing to send samples to specialized laboratories, making it more accessible and cost-effective for environmental monitoring."
  },
  "https://www.sciencedaily.com/releases/2026/10/261026225617.htm": {
   "s": "Scientists at McGill University discovered that tissue-resident memory T cells can sense the stiffness of their surroundings. This finding suggests that physical conditions play a role in how these immune cells develop and function, potentially influencing long-term immunity. The research could lead to new treatments for autoimmune disorders and cancer."
  },
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
- },
- "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/": {
-  "s": "Agility Robotics and GXO Logistics plan to deploy Agility's Digit humanoid robot at two additional sites in North Carolina and Tennessee. This move signifies that the value of humanoid robots is recognized, as GXO was the first to use Digit in live operations under a commercial agreement."
  },
  "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/": {
   "s": "Warp Sciences emerged from stealth mode with $215 million in funding, aiming to create chemistry infrastructure for biotech and pharmaceutical companies to discover new medicines faster. This move aims to address the need for real-world data in physical sciences, where AI has not yet made the same impact as in software and mathematics."
@@ -358,7 +285,90 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+ "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html": {
+  "s": "A team of researchers has mapped the sun's outer magnetic field in three dimensions for the first time, including the area beyond the visible edge. This advance helps in creating more accurate models of solar activity, which can predict extreme space weather affecting Earth."
+ },
+ "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
+  "s": "Astronaut Kutryk will step outside the ISS for the first time in nearly eight years on October 29. This spacewalk matters as it represents the first Canadian space excursion in a long time, after a seven-year gap."
+ },
+ "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/": {
+  "s": "Google DeepMind introduced Gemini 4 Carbon, a model that excels in long, complex tasks like root-causing and patching bugs. This matters because Carbon outperforms other models in tasks like full-stack web development and securing code, indicating its versatility and strength in critical areas of cybersecurity and coding."
+ },
+ "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/": {
+  "s": "The Artemis III SLS core stage was integrated with twin solid rocket boosters in Florida. This milestone marks progress toward the Artemis III mission, which aims to test docking capabilities with commercial spacecraft on the Moon."
+ },
+ "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star": {
+  "s": "Betelgeuse, a red supergiant star, has a companion star named Siwarha that orbits very close to it. This companion star disturbs the atmosphere of Betelgeuse, causing it to appear egg-shaped at times. This new observation helps explain the star's long-term brightness variations, which have a cycle of about 5.9 years."
+ },
+ "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028": {
+  "s": "MIT researchers found that the APOE4 gene variant suppresses a pathway crucial for oligodendrocytes to wrap neurons in a protective fatty sheath. This discovery explains why APOE4 increases Alzheimer's risk and provides a potential fix for the problem in lab experiments."
+ },
+ "https://www.sciencealert.com/las-eaton-fire-exposed-7-million-residents-to-lead-80-times-above-normal-levels": {
+  "s": "When the Eaton Canyon fire in Altadena in January 2025 intensified, it released lead into the air at levels 80 times higher than normal, affecting 7 million Los Angeles residents for 24 hours. This study reveals how urban fires can release a wide range of toxic metals, highlighting health risks unique to such events."
+ },
+ "https://phys.org/news/2026-10-customizable-dna-drug-carriers-cancer.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth": {
+  "s": "Ancient comets carried important organic compounds like amino acids and phosphorous, which are crucial for life. However, new research suggests these compounds did not survive the impact of comets crashing into Earth, making it unlikely that comets seeded Earth with the chemistry necessary for life."
+ },
+ "https://phys.org/news/2026-10-humidity-pollutants-dark.html": {
+  "s": "What happens: Smoke particles after sunset can change their chemical pathways depending on humidity levels. Why it matters: This discovery highlights how relative humidity influences the transformation of phenolic compounds from smoke, pointing to humidity as a crucial factor in nighttime atmospheric chemistry."
+ },
+ "https://phys.org/news/2026-10-supersonic-strange-orbits-hot-jupiters.html": {
+  "s": "Using advanced simulations, astronomers have proposed a new theory explaining how giant exoplanets migrate into close orbits. They suggest these planets release energy via shock waves in their atmospheres, which could explain why hot Jupiters and smaller Neptune-sized planets cluster in certain orbits but not in others."
+ },
+ "https://phys.org/news/2026-10-climate-amplified-european-rainfall.html": {
+  "s": "In September 2024, Storm Boris caused severe flooding in Central and Eastern Europe, affecting Poland, Czechia, and Austria. Climate change models showed that global warming amplified the rainfall during the storm, leading to more flooding. Researchers found that while increased precipitation did not cause a proportional rise in flood magnitude, climate change significantly heightened the peak flood levels. This indicates that even small increases in rainfall can lead to substantial increases in flooding, highlighting the need for better flood management strategies."
+ },
+ "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
+  "s": "Volcanoes have caused extreme weather and famines in the past, as seen in the aftermath of Mount Tambora's 1815 eruption. Such events may have influenced human history, leading to revolts and disease outbreaks. Understanding these impacts can help modern societies prepare for climate-related challenges."
+ },
+ "https://phys.org/news/2026-10-eaton-exposed-million-people-elevated.html": {
+  "s": "The Eaton Fire released atmospheric particles containing elevated levels of lead, chlorine, and arsenic into the air, affecting nearly 7 million people in the Los Angeles area during its peak. These findings challenge the assumption that wildfire smoke is the only source of toxic metals in urban environments and could improve models predicting smoke's health effects."
+ },
+ "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision": {
+  "s": "Astronomers used the James Webb telescope to spot a galaxy with a ring of stars formed 2.1 billion years after the universe began. This discovery suggests the cosmos might have been more turbulent in its early stages than previously thought."
+ },
+ "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna": {
+  "s": "A virus that infected an ancient ape millions of years ago left behind DNA in modern chimps, influencing genes involved in neuron development. This genetic legacy may help explain how human brains are three times larger and more powerful compared to chimps."
+ },
+ "https://www.universetoday.com/articles/massive-stellar-collisions-could-explain-early-supermassive-black-holes": {
+  "s": "In the early Universe, dense stellar environments fostered frequent stellar collisions, leading to the formation of massive stars. This research suggests that in these dense environments, repeated stellar mergers could have led to the formation of supermassive black holes, explaining their presence before theory predicts."
+ },
+ "https://www.livescience.com/health/scientists-invent-implant-that-can-transform-sugar-in-the-blood-to-treat-type-2-diabetes": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/sugar-antibiotics-squash-gut-bacteria": {
+  "s": "Eating sugar while taking antibiotics can harm gut bacteria in patients with blood cancer, reducing their diversity and potentially allowing drug-resistant bacteria to grow. This study suggests that diet can have a significant impact on the gut microbiome, even when antibiotics are used."
+ },
+ "https://www.space.com/stargazing/november-full-moon-2026-when-where-and-how-to-see-the-beaver-moon": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
+  "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
+ },
+ "https://openai.com/index/anima": {
+  "s": "This innovation allows clinics to more efficiently manage patient requests and clinical documents, improving patient care and response times."
+ },
+ "https://openai.com/index/scaling-ai-research-for-complex-biological-data": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/localiza-generative-ai": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/": {
+  "s": "North American robot orders grew 24.8% in Q3 of 2026, according to A3. This growth occurred as automotive component orders nearly doubled and other sectors saw strong gains, despite earlier declines in automotive orders."
+ },
+ "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/": {
+  "s": "Symbotic grew significantly with Walmart, supplying 90.5% of its revenue in the quarter ending June 27, 2026. This dependence on Walmart, however, poses risks including customer concentration and contractual restrictions, as seen in Walmart's continuity rights and caps on Symbotic's sales to other customers. For startups considering a second customer, the reliance on Walmart doesn't fully indicate the cost of serving another account, requiring a detailed analysis of the customer's field pull and contract terms."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "",
   "why": "too little source text"
  }
