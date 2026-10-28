@@ -106,6 +106,9 @@ def dedupe(items):
     for a in keep: a.pop('_img'); a.pop('_w')
     return keep
 
+# Natural sciences only (marc, Oct 28 2026): no social science / policy / economics / law / rights / education / "science of everyday things".
+NOT_NATURAL = r'\b(human rights|rights|treaty|treaties|un|united nations|law|laws|legal|court|policy|policies|politic\w*|government|congress|homeless\w*|poverty|econom\w*|jobs?|employment|wages?|education|schools?|students?|teachers?|universit(y|ies)|colleges?|evaluation|j-pal|social|society|sociolog\w*|psycholog\w*|memor(y|ies)|grief|dead people|religio\w*|culture|cultural|history of|museums?|roller coasters?|sports?|football|nfl|games?|toys?|fashion|food|recipes?|architect\w*|construction|voting|klein bottle|mathemat\w*|ceos?|business|market\w*|investors?|startups?|mentors?|talent|careers?|made me feel|workforce|interns?\b)\b'
+
 def tag_for(text, default, title=''):
     """Best-scoring topic (title hits count 3x); the feed's own field breaks ties, so 'starvation' or 'Phys.org' alone can't misfile a story."""
     t, ti = text.lower(), title.lower()
@@ -132,7 +135,8 @@ def news():
             if not img or not img.startswith('http'): continue
             summ = short(clean(e.get('summary') or ''))
             if len(summ) < 40: continue
-            if re.search(NOT_SCIENCE, title.lower()): continue  # AI / robot stories belong to their own sections
+            if re.search(NOT_SCIENCE, title.lower()) or re.search(NOT_NATURAL, title.lower()): continue
+            if not any(re.search(rx, (title + ' ' + summ).lower()) for n_, rx in TAGS if n_ != 'Tech'): continue  # must be natural science  # AI / robot stories belong to their own sections
             seen.add(title.lower()); n += 1
             out.append({'id': re.sub(r'[^a-z0-9]+', '-', title.lower())[:60].strip('-'), 'title': title, 'summary': summ,
                         'url': link, 'source': src, 'image': img.replace('http://', 'https://').replace('/csz/news/tmb/', '/csz/news/800a/'),
