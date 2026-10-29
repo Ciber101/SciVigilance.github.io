@@ -101,26 +101,16 @@
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
- "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/": {
-  "s": "ANYbotics introduced ANYmal X, a legged robot designed for hazardous environments like oil, gas, and chemical plants. This innovation matters because it meets strict safety standards, allowing robots to safely inspect areas previously off-limits to human workers, reducing costs and preventing downtime."
- },
  "https://www.sciencenews.org/article/brain-implants-thoughts-speech-podcast": {
   "s": "A brain-computer interface system allows a paralyzed man to use thoughts to speak, by translating brain signals into words that a computer then speaks. This technology has profound implications, as it gives voice to those who cannot speak due to paralysis or other conditions, restoring a sense of identity and connection."
  },
  "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324": {
   "s": "The earwax used in experiments to repel insects is both slippery and sticky, absorbing twice its weight in water. This unique consistency might explain why it naturally repels insects, leading to safer insect repellents."
  },
- "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them": {
-  "s": "Rare tiger behaviors, such as a mother, father, and cubs spending time together, were captured on camera. This suggests researchers still know little about these usually solitary cats."
- },
  "https://www.sciencenews.org/article/flamingos-dance-eat-scientist": {
   "s": "Víctor Ortega Jiménez observed that flamingos create ripples when they feed underwater, which he found intriguing. He deduced that by retracting their heads, flamingos form vortex traps to capture algae, and their movements amplify these traps, bringing food to their beaks. This discovery could inspire new water filtration techniques, potentially filtering out microplastics and PFAS."
  },
  "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026": {
   "s": "",
   "why": "too little source text"
  },
@@ -130,21 +120,11 @@
  "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
   "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
  },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
   "s": "In ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain why some patients still feel pain despite medical treatment."
  },
  "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/": {
   "s": "Probing spider silk's molecular structure, biologists are discovering how proteins transform into a tough, flexible thread. This knowledge is crucial for developing spider silk-based materials that could be used in various applications, from seat belts to medical scaffolds."
- },
- "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military": {
-  "s": "A U.S. military intelligence agency captured an image of China's space plane docked to another spacecraft in orbit. This matters as it provides the first direct visual evidence of China's secretive space plane program, revealing its capabilities and potential military applications."
- },
- "https://www.universetoday.com/articles/the-rubin-observatory-finds-its-first-dwarf-planet-candidate": {
-  "s": "The Vera Rubin Observatory discovered its first dwarf planet candidate, named 2026 ED138, before its full mission even began. This discovery is significant because it highlights the observatory's ability to find objects moving through the distant Solar System, unlike other telescopes that struggle with faint movements."
  },
  "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp": {
   "s": "",
@@ -160,9 +140,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
-  "s": "Astronaut Kutryk will step outside the ISS for the first time in nearly eight years on October 29. This spacewalk matters as it represents the first Canadian space excursion in a long time, after a seven-year gap."
- },
  "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star": {
   "s": "Betelgeuse, a red supergiant star, has a companion star named Siwarha that orbits very close to it. This companion star disturbs the atmosphere of Betelgeuse, causing it to appear egg-shaped at times. This new observation helps explain the star's long-term brightness variations, which have a cycle of about 5.9 years."
  },
@@ -175,17 +152,11 @@
  "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
   "s": "Volcanoes have caused extreme weather and famines in the past, as seen in the aftermath of Mount Tambora's 1815 eruption. Such events may have influenced human history, leading to revolts and disease outbreaks. Understanding these impacts can help modern societies prepare for climate-related challenges."
  },
- "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna": {
-  "s": "A virus that infected an ancient ape millions of years ago left behind DNA in modern chimps, influencing genes involved in neuron development. This genetic legacy may help explain how human brains are three times larger and more powerful compared to chimps."
- },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
  },
  "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/": {
   "s": "North American robot orders grew 24.8% in Q3 of 2026, according to A3. This growth occurred as automotive component orders nearly doubled and other sectors saw strong gains, despite earlier declines in automotive orders."
- },
- "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/": {
-  "s": "Symbotic grew significantly with Walmart, supplying 90.5% of its revenue in the quarter ending June 27, 2026. This dependence on Walmart, however, poses risks including customer concentration and contractual restrictions, as seen in Walmart's continuity rights and caps on Symbotic's sales to other customers. For startups considering a second customer, the reliance on Walmart doesn't fully indicate the cost of serving another account, requiring a detailed analysis of the customer's field pull and contract terms."
  },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026": {
   "s": "",
@@ -210,28 +181,17 @@
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A mobile robot slows for someone in a hallway based on its input data. But if the input is wrong, the robot may still act as designed, potentially causing a safety issue. This matters because researchers are discovering how manipulated inputs can alter robot behavior, posing a risk to safety."
  },
- "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063814.htm": {
   "s": "Researchers have identified a small group of brain cells that help maintain steady blood pressure, even when average readings appear normal. Loss of these cells can lead to unstable blood pressure, increasing the risk of heart disease, stroke, and brain injury. The findings suggest that maintaining stable blood pressure from moment to moment is as important as keeping average levels within normal range. Understanding this mechanism could lead to new treatments to protect against the potential consequences of unstable blood pressure."
  },
  "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
   "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
  },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/": {
   "s": "Infini-AI-Lab released Hermit, an open-source framework that trains an external layer of instructions and tools for AI agents, leaving the core model and harness unchanged. This matters because it allows for more flexible and adaptable AI systems that can be edited without breaking the core, and it supports moving between different models and harnesses."
  },
  "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
   "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
- },
- "https://www.sciencealert.com/scientists-ran-100000-simulations-of-comets-striking-earth-the-results-are-a-surprise": {
-  "s": "Scientists conducted 100,000 simulations showing comets carrying prebiotic chemicals would rarely deliver enough to Earth. This contradicts a long-held theory that comets brought essential ingredients for life."
  },
  "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail": {
   "s": "The new simulation aims to reveal how the universe's initial ingredients formed into galaxies, illuminating the period when the cosmos was lit up after a dark age. This helps scientists understand the early stages of the universe's development."
@@ -245,10 +205,6 @@
  "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jared-spiers/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.sciencedaily.com/releases/2026/10/261028232659.htm": {
   "s": "Scientists identified a weakened brain signal that appears to link several puzzling symptoms of schizophrenia, including difficulties with perception, speech, and severity of symptoms. This discovery suggests that symptoms traditionally seen as separate may actually be manifestations of a common brain processing problem."
@@ -294,9 +250,6 @@
  "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/": {
   "s": "AGIBOT introduced Worken at its Innovation Day 2026, a framework to measure robot productivity in real-world settings. This matters because as robots are deployed more widely, their ability to perform useful work autonomously becomes a key indicator of their value, beyond just the number of units produced."
  },
- "https://phys.org/news/2026-10-populations-weaken-ecosystem-benefits-species.html": {
-  "s": "Bat populations are shrinking, even though species remain widespread. This loss can weaken ecosystem benefits, as smaller numbers may not regulate pests or pollinate plants effectively."
- },
  "https://www.livescience.com/archaeology/neanderthals/neanderthals-and-our-ancestors-mated-repeatedly-what-were-these-relationships-like": {
   "s": "",
   "why": "too little source text"
@@ -311,42 +264,73 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/legora": {
-  "s": "Legora is developing an operating system that incorporates advanced AI models to streamline legal processes, such as contract analysis, thereby allowing lawyers to focus on more strategic tasks. This system aims to reduce the time lawyers spend on routine tasks, enabling them to handle more complex legal issues."
- },
- "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html": {
-  "s": "These discoveries indicate the observatory's advanced technology could reveal hundreds of faint Milky Way satellites, which are thought to be hiding around Earth's home galaxy."
- },
  "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html": {
-  "s": "Researchers at Columbia University analyzed data from the cosmic microwave background, a faint glow from the early universe. They found evidence of gas motions in galaxy clusters, a phenomenon called the rotational kinematic Sunyaev-Zel'dovich effect. This finding strengthens earlier clues and provides new insights into the internal dynamics of galaxy clusters."
- },
  "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/": {
   "s": "When companies started approaching NASA’s Langley Research Center for inclusion in the ISAM State of Play, the team recognized it marked a shift. The document, now 368 pages long, serves as both an encyclopedia and roadmap for technologies enabling space servicing, assembly, and manufacturing, expanding more than linearly since its inception. This rigor matters, as ISAM capabilities will be crucial for missions that require larger telescopes, mobile national security assets, and systems that can upgrade without full replacement."
- },
- "https://phys.org/news/2026-10-ancient-charcoal-clues-neanderthal.html": {
-  "s": "Researchers at Abric Romaní found that Neanderthals organized their living spaces by splitting them into areas for different activities, including hearths for cooking, socializing and warmth. These findings suggest Neanderthals had a complex understanding of their environment and how to use it, including managing resources like firewood."
  },
  "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/": {
   "s": "A gravitational lensing image taken by Hubble Space Telescope shows a spiral galaxy with a barred center and a lensing effect at the bottom right. This image helps prepare for future observations with the Nancy Grace Roman Space Telescope, aiding in understanding dark matter and building a more comprehensive view of the universe."
  },
- "https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html": {
-  "s": "The Cat's Tail, a mysterious dark structure in space, has been puzzling astronomers for two years. Now, captured in visible light by Hubble, it reveals details of a collision between large bodies, likely similar to Pluto, suggesting its violent origin."
+ "https://phys.org/news/2026-10-nanoparticle-properties-protein-coats-cell.html": {
+  "s": "The study found that nanoparticles' physical and chemical properties influence the formation of protein coats around them, which in turn affects how cells take them in and how the immune system responds. This discovery offers a way to predict how nanoparticles behave in the body, aiding in the design of safer and more effective nanomedicines."
  },
- "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/": {
-  "s": "NASA's Hubble and Webb Space Telescopes have captured a star-forming scene resembling a cat's head within the Carina Nebula. This region is packed with information helping astronomers understand star formation, which is an elusive and chaotic process."
+ "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva": {
+  "s": "Astronauts Anil Menon and Joshua Kutryk deployed a new solar array on the International Space Station during a spacewalk. This matters as it increases power supply, enabling more scientific experiments and crew activities on the station."
  },
- "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html": {
-  "s": "A new study suggests that stars' pasts, marked by events like \"stealing\" mass from a companion star, could influence their internal magnetic fields. This revelation is crucial because it helps researchers better understand and model stellar evolution, improving the accuracy of predictions about stars' magnetic properties."
+ "https://www.universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water": {
+  "s": "No comets or asteroids were needed to deliver Earth's water, as the planet may have formed with substantial amounts of hydrogen and needed only oxygen to create water. This finding challenges the prevailing theory that comets and asteroids delivered Earth's water, offering a new perspective on the planet's habitability."
  },
- "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html": {
+ "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/": {
+  "s": "NASA-funded scientists later dated its minerals, revealing it to be a 4.1 billion-year-old piece of Mars, one of the oldest ever found. Understanding its unique mineral composition could help answer many questions about Mars' geological history."
+ },
+ "https://www.livescience.com/archaeology/romans/decapitated-man-buried-near-fort-in-roman-era-scotland-gets-a-new-virtual-face": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course": {
+  "s": "Seabirds like Manx shearwaters can experience jet lag from rapid east-west flights, leading to a mismatch between their internal time and the sun's position, which can misdirect their flight path. This discovery challenges the birds' sun-based navigation system, which relies on an internal clock synchronized with local time."
+ },
+ "https://www.sciencealert.com/after-30-years-fda-approves-first-ever-drug-for-a-rare-neurological-disorder": {
+  "s": "The FDA has approved the first drug to treat Alexander disease, a rare neurological disorder. This drug targets the protein responsible for the disease, reducing its production, showing positive effects in clinical trials. The approval comes after decades of research, offering hope to those affected by the condition."
+ },
+ "https://phys.org/news/2026-10-microplastic-viral-disease-severity-rainbow.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://openai.com/index/oracle-apps-in-chatgpt": {
-  "s": "OpenAI and Oracle are expanding their partnership to integrate Oracle applications and AI models into ChatGPT, enabling businesses to use AI more effectively. This collaboration aims to simplify access to Oracle software, making it easier for employees to use and manage, and to improve security by identifying and fixing vulnerabilities."
+ "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/": {
+  "s": "NASA has appointed Troy Asher as the director of Armstrong Flight Research Center, a position he has held on an acting basis since March. Asher's extensive experience as a test pilot and aerospace engineer will be crucial as Armstrong works to rebuild NASA's X-plane portfolio and restore flight-test capabilities."
+ },
+ "https://phys.org/news/2026-10-emitting-nanoparticles-ultrasound-gene-mouse.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/": {
+  "s": "The QuSAFE Challenge, a collaboration between NIH and NASA, aims to advance quantum-enabled sensing for in vitro NAMs, like organoids and microphysiological systems. This initiative improves drug safety while reducing animal use, as conventional methods are often noisy, invasive, and not sensitive enough. Quantum sensing offers ultra-high sensitivity and nanoscale resolution, addressing detection and measurement limitations."
+ },
+ "https://phys.org/news/2026-10-zombie-bacteria-dna-death.html": {
+  "s": "Researchers at Aarhus University have found that dead bacteria can continue producing DNA, a process they call \"zombie factories\". This discovery could lead to new ways of controlling biological materials, potentially aiding in the development of synthetic biological materials."
+ },
+ "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html": {
+  "s": "Researchers have experimentally shown for the first time that it is possible to extract magnetic information from altermagnets through spin currents. This discovery validates predictions about altermagnets and advances understanding of these materials, potentially leading to new technologies for information storage and processing."
+ },
+ "https://phys.org/news/2026-10-planetary-collisions-young-worlds-atmospheres.html": {
+  "s": "A new study dismisses the notion that young rocky planets lose their atmosphere after a collision with a large object. Instead, researchers suggest such impacts help retain the hydrogen-rich primordial atmosphere. This finding explains why there are planets of different sizes with different atmospheres, a mystery in exoplanetary science."
+ },
+ "https://phys.org/news/2026-10-reshapes-gelatin-scaffolds-cell-growth.html": {
+  "s": "Lighting a gelatin-based hydrogel causes it to reshape, guiding cell growth in three dimensions. This innovation overcomes a limitation of existing hydrogels, which lack the ability to change shape dynamically."
+ },
+ "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
+  "s": "The 2026 Robotics Handbook explores design choices for dexterous manipulation, humanoid robots, and construction automation. It matters because advances in AI and technology are driving increased interest and adoption of robotics, especially in construction where automation is still in its early stages."
  }
 }
