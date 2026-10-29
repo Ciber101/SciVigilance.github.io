@@ -1,17 +1,22 @@
 {
- "updated": "2026-10-29T01:44:24-07:00",
- "updated_pt": "Oct 29, 2026, 1:44 AM PT",
+ "updated": "2026-10-29T07:38:10-07:00",
+ "updated_pt": "Oct 29, 2026, 7:38 AM PT",
  "stories": [
   {
    "title": "AGIBOT shows a third-generation humanoid hardware platform and a new robot foundation model at its Innovation Day in Shanghai",
    "tag": "Humanoids",
    "date": "2026-10-29",
    "paragraphs": [
-    "Chinese humanoid robot maker AGIBOT held its AGIBOT Innovation Day 2026 at the Shanghai World Expo Center on Oct. 29, 2026, the company said in posts on its official X account. AGIBOT said it introduced Worken, which it describes as a proposed framework for measuring the productive work robots perform in real-world environments, looking beyond deployment numbers to how autonomously and effectively they complete tasks.",
-    "According to AGIBOT, the event also showcased AHA3, its third-generation humanoid hardware architecture and first commercial \"Three Intelligences in One\" hardware platform; AGILE, which the company describes as advances in motion intelligence including self-evolving agent capabilities; and a preview of GO-3, its next-generation embodied AI foundation model.",
-    "The company also listed WITA-Omni 1.0, a multimodal foundation model for human-robot interaction; G2 Max, an industrial robot designed for demanding material-handling tasks in manufacturing and logistics; and Link-U OS 1.0, an operating system for embodied AI that AGIBOT says was officially released at the event. AGIBOT's posts did not give prices or availability dates for the new hardware."
+    "Chinese humanoid robot maker AGIBOT held its AGIBOT Innovation Day 2026 in Shanghai on Oct. 29, 2026, according to the company's posts on X and a report by The Robot Report. AGIBOT introduced Worken, which it describes as a proposed framework for measuring the productive work robots do in real-world settings: the number of active robots, multiplied by their autonomous working hours, multiplied by an output efficiency ratio compared against a reference benchmark for the task.",
+    "The company also showed AHA3, its third-generation humanoid hardware architecture, which The Robot Report says adds a joint liquid-cooling system and IP67-rated joints for continuous industrial work. AGIBOT debuted GO-3 Preview, a next-generation robot foundation model built around what it calls a World Reasoning Action Model, and WITA-Omni 1.0, a model for human-robot interaction that combines vision, speech, real-time dialogue and movement.",
+    "AGIBOT launched G2 Max, an industrial robot with 21 degrees of freedom and a dual-arm handling capacity of up to 40 kg, and released Link-U OS 1.0, an operating system for embodied AI that it plans to make fully open source by the end of 2026, The Robot Report says. The outlet notes that AGIBOT said last month its 20,000th robot had rolled off the production line, and that IDC reported the company led global humanoid robot shipments in the first half of 2026. No prices or availability dates were given for the new hardware."
    ],
    "sources": [
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+     "date": "2026-10-29"
+    },
     {
      "name": "AGIBOT on X",
      "url": "https://x.com/AGIBOTofficial/status/2115694835579666505",
@@ -24,9 +29,9 @@
     }
    ],
    "image": {
-    "url": "https://pbs.twimg.com/amplify_video_thumb/2115691538881884160/img/6uuBUA3vwWb9qGyU.jpg",
-    "credit": "AGIBOT, via X",
-    "alt": "A large audience watches a presenter on stage at AGIBOT Innovation Day 2026"
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Worken_intro.jpg",
+    "credit": "AGIBOT, via The Robot Report",
+    "alt": "AGIBOT president and CTO Peng Zhihui introduces Worken on stage at AGIBOT Innovation Day 2026"
    }
   },
   {

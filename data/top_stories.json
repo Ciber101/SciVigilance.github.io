@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T01:44:24-07:00",
- "updated_pt": "Oct 29, 2026, 1:44 AM PT",
+ "updated": "2026-10-29T07:38:10-07:00",
+ "updated_pt": "Oct 29, 2026, 7:38 AM PT",
  "stories": [
   {
    "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
@@ -21,30 +21,25 @@
    ]
   },
   {
-   "title": "Google DeepMind unveils Genie 4, a world model that generates interactive scenes with sound and can be steered in real time",
-   "tag": "AI",
-   "date": "2026-10-27",
+   "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
+   "tag": "Open models",
+   "date": "2026-10-29",
    "paragraphs": [
-    "Google DeepMind announced Genie 4, its new world model, on Oct. 27, 2026, in a blog post by Raia Hadsell, Diego Rivas and Hang Qi. The company says the model brings more realistic, real-time interactive simulation and is natively multimodal, generating music, ambient noise and interactive dialogue at the same time as the world itself. It succeeds Genie 3, which DeepMind announced as a research preview in August 2025.",
-    "According to DeepMind, Genie 4 builds on the Gemini family: Gemini Omni anchors simulations in real-world appearance and behavior, while other Gemini models handle the reasoning that keeps a simulation coherent. Users move through a world with keyboard controls and can type plain-language prompts mid-session to change the weather, move the camera or add a new person or object, and Gemini adapts the prompt to fit the scene. MarkTechPost reports that Gemini 3.8 Flash plans a goal as a series of steps and checks incoming frames to confirm each one worked, and TechCrunch reports that Genie 4 can keep a scene consistent for up to two minutes, double its predecessor's limit.",
-    "DeepMind says simulating the world is a crucial part of building AGI and that Genie 4 could help create training environments for robots and agents. TechCrunch and MarkTechPost describe a research experiment tied to Gemini Robotics in which a Gemini 4 Argon model broke a task into steps that Genie 4 simulated in real time; MarkTechPost says the demo showed Apptronik's Apollo humanoid playing checkers. TechCrunch also notes the team acknowledged gaps: details and objects can drift the longer a simulation runs, and audio accuracy and legible in-world text are not yet solved.",
-    "Genie 4 is available now as a research preview for trusted testers. DeepMind says it will then reach Google AI Ultra subscribers in Project Genie and early access partners of the Gemini API and Google AI Studio, and TechCrunch reports that rollout is expected in the coming weeks. MarkTechPost reports that all Genie 4 video and audio will carry SynthID watermarks and that DeepMind released no benchmark tables for the model."
+    "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
+    "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
+    "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
+    "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
    ],
    "sources": [
     {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-     "date": "2026-10-27"
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "date": "2026-10-29"
     },
     {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-     "date": "2026-10-27"
-    },
-    {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
-     "date": "2026-10-28"
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/mistral-large4",
+     "date": "2026-10-29"
     }
    ]
   },

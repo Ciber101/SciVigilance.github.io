@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-29T01:44:24-07:00",
- "updated_pt": "Oct 29, 2026, 1:44 AM PT",
+ "updated": "2026-10-29T07:38:10-07:00",
+ "updated_pt": "Oct 29, 2026, 7:38 AM PT",
  "stories": [
   {
    "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model, starting with cyber defenders",
@@ -27,6 +27,34 @@
     "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
     "credit": "Google DeepMind",
     "alt": "Gemini 4 Carbon announcement graphic"
+   }
+  },
+  {
+   "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
+   "tag": "Open models",
+   "date": "2026-10-29",
+   "paragraphs": [
+    "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
+    "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
+    "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
+    "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
+   ],
+   "sources": [
+    {
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/mistral-large4",
+     "date": "2026-10-29"
+    }
+   ],
+   "image": {
+    "url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+    "credit": "Mistral AI",
+    "alt": "Mistral Large 4 announcement cover image"
    }
   },
   {
@@ -77,33 +105,6 @@
     "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
     "credit": "Anthropic",
     "alt": "Anthropic AI for Science announcement image"
-   }
-  },
-  {
-   "title": "Liquid AI releases LFM3, six open-weight 2B-class models for text, vision, audio and more",
-   "tag": "Open models",
-   "date": "2026-10-27",
-   "paragraphs": [
-    "Liquid AI released LFM3, a family of six open-weight models in the 2-billion-parameter range that all branch from one base model, LFM3-1.7B-Base, the company wrote on the Hugging Face blog. The family covers text, vision, audio, omni and decision tasks, and each model can be fine-tuned on a single GPU and run on devices such as phones and laptops.",
-    "The base model was pre-trained on 22 trillion tokens, with a final 3.5 trillion focused on agent traces and tool calls, extending the context window to 256K tokens. Liquid AI says LFM3-1.7B beats its earlier LFM2.5-2.6B with 35% fewer parameters, scoring 38.42 on WebArena-Verified. MarkTechPost notes larger models such as Qwen3.5-9B still lead on knowledge and coding tests like GPQA Diamond and SWE-bench Verified.",
-    "The vision model, LFM3-VL-2B, is Liquid's first to accept video and averages 71.4 across 62 vision benchmarks, up from 57.6 for LFM2.5-VL-3B. LFM3-Audio-2B handles voice chat, speech recognition, speech synthesis and translation across 18 languages."
-   ],
-   "sources": [
-    {
-     "name": "Hugging Face (Liquid AI)",
-     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-     "date": "2026-10-27"
-    },
-    {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
-     "date": "2026-10-27"
-    }
-   ],
-   "image": {
-    "url": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
-    "credit": "Liquid AI, via Hugging Face",
-    "alt": "LFM3 model family graphic"
    }
   }
  ]
