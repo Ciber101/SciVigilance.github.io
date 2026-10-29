@@ -2,6 +2,7 @@
    SciVigilance — main.js
    ============================================================ */
 
+if ('scrollRestoration' in history) history.scrollRestoration = 'manual';  // topic pages open at the top, no jumps
 document.addEventListener('DOMContentLoaded', () => {
   initNavToggle();
   initStarfield();
@@ -842,7 +843,7 @@ const SEC_TEASERS = {
   xGrid: ['Science in 280', 'See all @SciVigil posts'],
   featuredGrid: ['Rockets, agencies & tech', 'See all rocket & agency posts on Voices'],
 };
-const TEASER_PAGES = { digestGrid: ['data/science_stories.json', 'Science, explained', 'news.html#science-stories', 'Read the explainers on Science News'], aiGrid: ['data/ai_stories.json', 'AI, explained', 'ai.html#ai-stories', 'Read the explainers on AI News'] };
+const TEASER_PAGES = { digestGrid: ['data/science_stories.json', 'Science, explained', 'news.html', 'Read the explainers on Science News'], aiGrid: ['data/ai_stories.json', 'AI, explained', 'ai.html', 'Read the explainers on AI News'] };
 async function buildPageTeaser(gid) {
   const t = document.getElementById('teaser-' + gid); if (!t) return false;
   const [url, label, href, more] = TEASER_PAGES[gid];
@@ -924,10 +925,6 @@ function renderExplainers(d, listId, updId, secId) {
     </section>`;
   }).join('');
   sec.hidden = false;
-  if (location.hash === '#' + secId) {  // jump to the explainers; re-align once images above have loaded
-    const go = () => sec.scrollIntoView({ behavior: 'auto', block: 'start' });
-    setTimeout(go, 50); window.addEventListener('load', go, { once: true }); setTimeout(go, 1500);
-  }
 }
 async function loadTopicExplainers() {
   const map = [['sciStories', 'data/science_stories.json', 'sciStoriesUpdated', 'science-stories'], ['aiStories', 'data/ai_stories.json', 'aiStoriesUpdated', 'ai-stories']];
