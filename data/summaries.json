@@ -122,9 +122,6 @@
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
- "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/": {
-  "s": "Mirendil released Fern 0.1, its first AI model, trained on 10 million tokens. This matters as it targets specific AI research tasks, outperforming some models but lagging behind others in long-context reasoning."
- },
  "https://www.therobotreport.com/xpanner-launches-new-autonomous-pile-driver-solar-farm-contruction/": {
   "s": "Xpanner launched a new robot called X1 Piling R6, designed to autonomously drive solar posts for large solar and battery energy storage sites. This robot improves accuracy and reduces the need for manual labor, addressing a shortage of skilled crews."
  },
@@ -140,9 +137,6 @@
  "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324": {
   "s": "The earwax used in experiments to repel insects is both slippery and sticky, absorbing twice its weight in water. This unique consistency might explain why it naturally repels insects, leading to safer insect repellents."
  },
- "https://www.nasa.gov/image-article/nasas-neo-surveyor-sunshade/": {
-  "s": "A technician inspects a sunshade for NASA’s NEO Surveyor mission, designed to keep the telescope cool and shield it from the sun’s heat. This will enable the spacecraft to detect near-Earth asteroids and comets, including those near the sun, which are difficult to see from the ground."
- },
  "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them": {
   "s": "Rare tiger behaviors, such as a mother, father, and cubs spending time together, were captured on camera. This suggests researchers still know little about these usually solitary cats."
  },
@@ -150,27 +144,14 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.universetoday.com/articles/dead-planets-orbiting-a-dead-star": {
-  "s": "When a star like the Sun exhausts its fuel and expands, it can engulf and destroy its inner planets. This debris can form new planets, but these worlds would not have a chance to support life. The discovery of a white dwarf surrounded by a split debris disk suggests the potential for planets, but chances of life emerging are remote."
- },
  "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/": {
   "s": "Liquid AI released LFM3, 6 open-weight multimodal models. LFM3 is larger but lighter than previous models, using a hybrid backbone and more efficient attention mechanisms. These changes are important for practical deployment, especially on resource-constrained devices. LFM3's superior performance, particularly in decision-making tasks and agent-based reasoning, highlights the model's potential for real-world applications."
  },
  "https://www.universetoday.com/articles/unveiling-starbirth-mysteries": {
   "s": "Researchers have used radio astronomy to study the magnetic fields in star-forming regions. They found that in the inner part of these regions, the neutral molecules fall in faster than ions, due to a process called ambipolar diffusion. This finding helps explain how gravity can compress clouds of gas and dust into stars, revealing insights into the veiled birth of stars."
  },
- "https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/": {
-  "s": "Jupiter's moons Ganymede and Io met in the sky on October 20th, 2026, creating a mutual occultation where Ganymede briefly blocked Io from view. This event is rare because it requires Earth's edge-on view of Jupiter's orbit, happening once every 6 years when Jupiter reaches its equinox."
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063824.htm": {
   "s": "A major new study has revealed that autistic children’s brains process faces differently, and these differences may begin earlier than scientists previously thought. Scientists have found that brain activity associated with face recognition is less clearly distinguishable in autistic participants, and autistic children do not show the same pattern of brain development as neurotypical children."
- },
- "https://www.sciencedaily.com/releases/2026/10/261026225608.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/": {
-  "s": "Following the Basque Lakes drill campaign, Curiosity returned to a spot near the \"Chiu Chiu\" block to prepare for its next drilling. The rover's imaging showed promising crystal forms at a new target called \"Nazca,\" hinting at mineral growth in the past."
  },
  "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/": {
   "s": "Google DeepMind released Genie 4 as a research preview, adding native audio and live dialogue to its real-time world model. This model succeeds Genie 3, which ran at 720p and 24 frames per second, and is DeepMind's first real-time world model to generate audio natively."
@@ -204,10 +185,6 @@
  },
  "https://www.space.com/space-exploration/private-spaceflight/virgin-galactic-is-finally-revealing-its-new-delta-class-spaceship-this-week": {
   "s": "Virgin Galactic will display its new Delta-class spaceship this week, a choice made by public vote. This matters as it marks the first public appearance of the company's latest spacecraft design."
- },
- "https://www.sciencedaily.com/releases/2026/10/261026225610.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.sciencedaily.com/releases/2026/10/261027063659.htm": {
   "s": "",
@@ -248,9 +225,6 @@
  "https://www.livescience.com/health/viruses-infections-disease/hepatitis-b-could-surge-infecting-millions-more-in-childhood-under-proposed-cdc-guidance": {
   "s": "A shift in hepatitis B vaccination guidelines proposed by the CDC could leave many young adults unprotected. This could lead to a resurgence of infections, affecting millions more."
  },
- "https://www.sciencedaily.com/releases/2026/10/261026225617.htm": {
-  "s": "Scientists at McGill University discovered that tissue-resident memory T cells can sense the stiffness of their surroundings. This finding suggests that physical conditions play a role in how these immune cells develop and function, potentially influencing long-term immunity. The research could lead to new treatments for autoimmune disorders and cancer."
- },
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
@@ -266,9 +240,6 @@
  },
  "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
   "s": "Astronaut Kutryk will step outside the ISS for the first time in nearly eight years on October 29. This spacewalk matters as it represents the first Canadian space excursion in a long time, after a seven-year gap."
- },
- "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/": {
-  "s": "Google DeepMind introduced Gemini 4 Carbon, a model that excels in long, complex tasks like root-causing and patching bugs. This matters because Carbon outperforms other models in tasks like full-stack web development and securing code, indicating its versatility and strength in critical areas of cybersecurity and coding."
  },
  "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/": {
   "s": "The Artemis III SLS core stage was integrated with twin solid rocket boosters in Florida. This milestone marks progress toward the Artemis III mission, which aims to test docking capabilities with commercial spacecraft on the Moon."
@@ -349,25 +320,39 @@
  "https://phys.org/news/2026-10-gibberellin-reveals-hormone-root-growth.html": {
   "s": "To control where gibberellin acts, researchers developed a synthetic system that allows selective activation of GA signaling in specific cell layers of roots. This system enables precise control of timing and location, revealing that root elongation depends on coordinated signaling in the endodermis and epidermis, not just the endodermis alone."
  },
- "https://openai.com/index/anima": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://x.ai/news/incident-sweep": {
   "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
- },
- "https://openai.com/index/localiza-generative-ai": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A mobile robot slows for someone in a hallway based on its input data. But if the input is wrong, the robot may still act as designed, potentially causing a safety issue. This matters because researchers are discovering how manipulated inputs can alter robot behavior, posing a risk to safety."
  },
- "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+ "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/": {
   "s": "",
-  "why": "too little source text"
+  "why": "rejected (verbatim overlap or empty)"
  },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+ "https://www.sciencedaily.com/releases/2026/10/261027063814.htm": {
+  "s": "Researchers have identified a small group of brain cells that help maintain steady blood pressure, even when average readings appear normal. Loss of these cells can lead to unstable blood pressure, increasing the risk of heart disease, stroke, and brain injury. The findings suggest that maintaining stable blood pressure from moment to moment is as important as keeping average levels within normal range. Understanding this mechanism could lead to new treatments to protect against the potential consequences of unstable blood pressure."
+ },
+ "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
+  "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261027063713.htm": {
+  "s": "Scientists have defied a long-standing rule by generating X-rays with much higher energies than expected. This discovery reveals a quantum interaction between two electrons that releases energy in a way not accounted for by standard theory."
+ },
+ "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/": {
+  "s": "Artemis II Commander Reid Wiseman has been appointed as Caltech associate vice president and deputy director of NASA's Jet Propulsion Laboratory. This move matters as it brings an experienced astronaut with deep space exploration background to lead and support JPL's robotic missions and future space endeavors."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261027063702.htm": {
+  "s": "Scientists have discovered that magma deep inside Earth can absorb and store far more oxygen than previously thought. This finding suggests that magma might have released oxygen into the atmosphere billions of years ago, helping to transform the planet's environment."
+ },
+ "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/": {
+  "s": "NVIDIA released Nemotron 3.5 Transcribe, a speech-augmented language model capable of transcribing 40 languages with high accuracy and timestamps. This model's open weights and versatility matter because it provides a flexible tool for speech transcription, allowing different interpretations based on context and language. It positions speech transcription as a specialist task, rather than a general assistant, offering unique capabilities for language processing."
+ },
+ "https://openai.com/index/securing-our-frontier-model-training-environment": {
   "s": "",
   "why": "too little source text"
  }
