@@ -110,15 +110,8 @@
  "https://www.sciencenews.org/article/flamingos-dance-eat-scientist": {
   "s": "Víctor Ortega Jiménez observed that flamingos create ripples when they feed underwater, which he found intriguing. He deduced that by retracting their heads, flamingos form vortex traps to capture algae, and their movements amplify these traps, bringing food to their beaks. This discovery could inspire new water filtration techniques, potentially filtering out microplastics and PFAS."
  },
- "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
- },
- "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
-  "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
  },
  "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
   "s": "In ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain why some patients still feel pain despite medical treatment."
@@ -140,27 +133,14 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star": {
-  "s": "Betelgeuse, a red supergiant star, has a companion star named Siwarha that orbits very close to it. This companion star disturbs the atmosphere of Betelgeuse, causing it to appear egg-shaped at times. This new observation helps explain the star's long-term brightness variations, which have a cycle of about 5.9 years."
- },
  "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028": {
   "s": "MIT researchers found that the APOE4 gene variant suppresses a pathway crucial for oligodendrocytes to wrap neurons in a protective fatty sheath. This discovery explains why APOE4 increases Alzheimer's risk and provides a potential fix for the problem in lab experiments."
- },
- "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth": {
-  "s": "Ancient comets carried important organic compounds like amino acids and phosphorous, which are crucial for life. However, new research suggests these compounds did not survive the impact of comets crashing into Earth, making it unlikely that comets seeded Earth with the chemistry necessary for life."
- },
- "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
-  "s": "Volcanoes have caused extreme weather and famines in the past, as seen in the aftermath of Mount Tambora's 1815 eruption. Such events may have influenced human history, leading to revolts and disease outbreaks. Understanding these impacts can help modern societies prepare for climate-related challenges."
  },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
  },
  "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/": {
   "s": "North American robot orders grew 24.8% in Q3 of 2026, according to A3. This growth occurred as automotive component orders nearly doubled and other sectors saw strong gains, despite earlier declines in automotive orders."
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031": {
   "s": "NASA's new UV space telescope, named UVEX, will launch in 2031. UVEX will see in ultraviolet light, which is beyond human vision, revealing transient and calamitous events in the night sky that are hidden in visible light. UVEX will complement existing telescopes by providing a comprehensive survey of ultraviolet light across the sky."
@@ -171,9 +151,6 @@
  },
  "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028": {
   "s": "Researchers at MIT, tracking over a million cells, created a detailed map of embryonic development in mice. This could provide insights into development and diseases, offering a comprehensive view of how cells form tissues and organs."
- },
- "https://www.space.com/space-exploration/human-spaceflight/5-days-beneath-the-waves-what-its-like-to-live-in-an-underwater-space-station": {
-  "s": "Dr. Musilova and her team lived for five days in an underwater habitat, simulating conditions for future space missions. Their experience matters as it provides insights into how humans might adapt to living in harsh environments, like on Mars."
  },
  "https://x.ai/news/incident-sweep": {
   "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
@@ -271,12 +248,6 @@
  "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/": {
   "s": "When companies started approaching NASA’s Langley Research Center for inclusion in the ISAM State of Play, the team recognized it marked a shift. The document, now 368 pages long, serves as both an encyclopedia and roadmap for technologies enabling space servicing, assembly, and manufacturing, expanding more than linearly since its inception. This rigor matters, as ISAM capabilities will be crucial for missions that require larger telescopes, mobile national security assets, and systems that can upgrade without full replacement."
  },
- "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/": {
-  "s": "A gravitational lensing image taken by Hubble Space Telescope shows a spiral galaxy with a barred center and a lensing effect at the bottom right. This image helps prepare for future observations with the Nancy Grace Roman Space Telescope, aiding in understanding dark matter and building a more comprehensive view of the universe."
- },
- "https://phys.org/news/2026-10-nanoparticle-properties-protein-coats-cell.html": {
-  "s": "The study found that nanoparticles' physical and chemical properties influence the formation of protein coats around them, which in turn affects how cells take them in and how the immune system responds. This discovery offers a way to predict how nanoparticles behave in the body, aiding in the design of safer and more effective nanomedicines."
- },
  "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva": {
   "s": "Astronauts Anil Menon and Joshua Kutryk deployed a new solar array on the International Space Station during a spacewalk. This matters as it increases power supply, enabling more scientific experiments and crew activities on the station."
  },
@@ -293,23 +264,12 @@
  "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course": {
   "s": "Seabirds like Manx shearwaters can experience jet lag from rapid east-west flights, leading to a mismatch between their internal time and the sun's position, which can misdirect their flight path. This discovery challenges the birds' sun-based navigation system, which relies on an internal clock synchronized with local time."
  },
- "https://www.sciencealert.com/after-30-years-fda-approves-first-ever-drug-for-a-rare-neurological-disorder": {
-  "s": "The FDA has approved the first drug to treat Alexander disease, a rare neurological disorder. This drug targets the protein responsible for the disease, reducing its production, showing positive effects in clinical trials. The approval comes after decades of research, offering hope to those affected by the condition."
- },
- "https://phys.org/news/2026-10-microplastic-viral-disease-severity-rainbow.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/": {
   "s": "NASA has appointed Troy Asher as the director of Armstrong Flight Research Center, a position he has held on an acting basis since March. Asher's extensive experience as a test pilot and aerospace engineer will be crucial as Armstrong works to rebuild NASA's X-plane portfolio and restore flight-test capabilities."
- },
- "https://phys.org/news/2026-10-emitting-nanoparticles-ultrasound-gene-mouse.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate": {
   "s": "",
@@ -318,19 +278,85 @@
  "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/": {
   "s": "The QuSAFE Challenge, a collaboration between NIH and NASA, aims to advance quantum-enabled sensing for in vitro NAMs, like organoids and microphysiological systems. This initiative improves drug safety while reducing animal use, as conventional methods are often noisy, invasive, and not sensitive enough. Quantum sensing offers ultra-high sensitivity and nanoscale resolution, addressing detection and measurement limitations."
  },
- "https://phys.org/news/2026-10-zombie-bacteria-dna-death.html": {
-  "s": "Researchers at Aarhus University have found that dead bacteria can continue producing DNA, a process they call \"zombie factories\". This discovery could lead to new ways of controlling biological materials, potentially aiding in the development of synthetic biological materials."
- },
- "https://phys.org/news/2026-10-electrical-reveal-hidden-magnetic-altermagnets.html": {
-  "s": "Researchers have experimentally shown for the first time that it is possible to extract magnetic information from altermagnets through spin currents. This discovery validates predictions about altermagnets and advances understanding of these materials, potentially leading to new technologies for information storage and processing."
- },
- "https://phys.org/news/2026-10-planetary-collisions-young-worlds-atmospheres.html": {
-  "s": "A new study dismisses the notion that young rocky planets lose their atmosphere after a collision with a large object. Instead, researchers suggest such impacts help retain the hydrogen-rich primordial atmosphere. This finding explains why there are planets of different sizes with different atmospheres, a mystery in exoplanetary science."
- },
- "https://phys.org/news/2026-10-reshapes-gelatin-scaffolds-cell-growth.html": {
-  "s": "Lighting a gelatin-based hydrogel causes it to reshape, guiding cell growth in three dimensions. This innovation overcomes a limitation of existing hydrogels, which lack the ability to change shape dynamically."
- },
  "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
   "s": "The 2026 Robotics Handbook explores design choices for dexterous manipulation, humanoid robots, and construction automation. It matters because advances in AI and technology are driving increased interest and adoption of robotics, especially in construction where automation is still in its early stages."
+ },
+ "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche": {
+  "s": "Astronomers observed a region of the Carina Nebula, finding a cloud of gas and dust seemingly isolated. This ghostly cloud, however, is actually a region where new stars are being formed. Studying this region helps astronomers understand the Carina Nebula's structure and star birth processes. It also provides insight into Eta Carinae's future supernova, which could reshape the nebula."
+ },
+ "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html": {
+  "s": "Graphene, a single layer of carbon atoms, has high electron mobility but is inefficient at converting light into electricity. Researchers propose using magnetic fields and electrical voltages to guide electrons and holes, creating potential barriers that force them to move in opposite directions. This approach aims to overcome graphene's lack of a bandgap, enabling it to convert light energy more effectively."
+ },
+ "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
+  "s": "OpenAI monitors AI agents for misaligned behavior across different surfaces to prevent incidents. A recent incident showed gaps in monitoring, prompting OpenAI to expand its system to cover more types of use, including training, evaluation, and deployment. The expanded system detected a breach 30 hours before the actual breach, giving responders time to interrupt the activity."
+ },
+ "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": {
+  "s": "Crew members aboard the International Space Station still celebrate Halloween by dressing up in costumes, sometimes spooky, sometimes scary. This tradition shows how astronauts maintain a sense of normalcy and fun in space."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb": {
+  "s": "The NASA/ESA Hubble and James Webb Space Telescopes recently observed a mysterious star-forming region within the Carina Nebula, a vast cloud of gas and dust 7500 light-years away. The telescopes captured contrasting views of a dark, glowing cat-shaped structure, revealing how star formation shapes its surroundings. Webb's infrared vision adds detail, showing many young stars and hidden details, while Hubble's visible light highlights the nebula's dark, porous structure. The cat's head is a result of intense ultraviolet radiation from nearby massive stars eroding the nebula's material, leaving behind a dark, glowing 'eye'."
+ },
+ "https://phys.org/news/2026-10-ancestral-enzyme-atp-amino-acid.html": {
+  "s": "The researchers simplified an ancestral enzyme called nucleoside diphosphate kinase, removing some amino acids. Despite this, the enzyme could still convert ATP into two ADP molecules, showing it can perform its function without the usual amino acid needed for its reaction. This finding challenges the understanding of how early enzymes might have functioned with fewer amino acids available."
+ },
+ "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory": {
+  "s": "Artemis II commander Reid Wiseman, who led the historic moon mission, is now the deputy director for NASA's Jet Propulsion Laboratory. This move suggests Wiseman plans to transition to a leadership role within NASA's space science division."
+ },
+ "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html": {
+  "s": "Scientists at St. Jude Children's Research Hospital discovered how a protein that influences mRNA decoding can be altered. This finding is significant because it provides new insights into how errors in mRNA decoding can lead to cancer growth, offering potential new targets for treatment."
+ },
+ "https://phys.org/news/2026-10-qinghaitibet-plateau-evolution-terrestrial-animals.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-gene-genes-roles-species.html": {
+  "s": "The team at Kyoto University developed a method called Species-OT to compare gene expression patterns across different species. They reasoned that shared gene expression shapes might indicate genes that play similar roles in cell fate specification processes. This approach helps identify genes that have correspondences across species, even when the underlying genes differ."
+ },
+ "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html": {
+  "s": "For the first time, researchers have captured detailed images of ribosome assembly inside human cells. This breakthrough matters because it provides a clearer picture of how ribosomes, crucial for protein synthesis, are assembled within cells, revealing steps and interactions that were previously unseen."
+ },
+ "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
+  "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
+ },
+ "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/": {
+  "s": "Prime Intellect released Prime Mega MoE, a kernel that speeds up the training of DeepSeek’s MoE models. This kernel is faster by up to 34% in prime-rl, reducing communication bottlenecks by fusing and overlapping operations. Why it matters: MoE training is slow due to waiting times for data transfer. Prime Mega MoE tackles this by overlapping computations and using scratch buffers, making the forward pass significantly faster."
+ },
+ "https://openai.com/index/grupo-boticario": {
+  "s": "Grupo Boticário has developed an AI platform that handles up to 80% of resellers' operational issues, freeing sales staff to focus on building human connections with customers. This matters because it allows the company to maintain strong customer relationships while reducing administrative burdens."
+ },
+ "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
+  "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
