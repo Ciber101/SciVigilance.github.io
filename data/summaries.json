@@ -213,9 +213,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.livescience.com/health/viruses-infections-disease/hepatitis-b-could-surge-infecting-millions-more-in-childhood-under-proposed-cdc-guidance": {
-  "s": "A shift in hepatitis B vaccination guidelines proposed by the CDC could leave many young adults unprotected. This could lead to a resurgence of infections, affecting millions more."
- },
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
@@ -225,9 +222,6 @@
  "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-sun-outer-magnetic-field-3d.html": {
-  "s": "A team of researchers has mapped the sun's outer magnetic field in three dimensions for the first time, including the area beyond the visible edge. This advance helps in creating more accurate models of solar activity, which can predict extreme space weather affecting Earth."
  },
  "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
   "s": "Astronaut Kutryk will step outside the ISS for the first time in nearly eight years on October 29. This spacewalk matters as it represents the first Canadian space excursion in a long time, after a seven-year gap."
@@ -241,21 +235,11 @@
  "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028": {
   "s": "MIT researchers found that the APOE4 gene variant suppresses a pathway crucial for oligodendrocytes to wrap neurons in a protective fatty sheath. This discovery explains why APOE4 increases Alzheimer's risk and provides a potential fix for the problem in lab experiments."
  },
- "https://www.sciencealert.com/las-eaton-fire-exposed-7-million-residents-to-lead-80-times-above-normal-levels": {
-  "s": "When the Eaton Canyon fire in Altadena in January 2025 intensified, it released lead into the air at levels 80 times higher than normal, affecting 7 million Los Angeles residents for 24 hours. This study reveals how urban fires can release a wide range of toxic metals, highlighting health risks unique to such events."
- },
- "https://phys.org/news/2026-10-customizable-dna-drug-carriers-cancer.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth": {
   "s": "Ancient comets carried important organic compounds like amino acids and phosphorous, which are crucial for life. However, new research suggests these compounds did not survive the impact of comets crashing into Earth, making it unlikely that comets seeded Earth with the chemistry necessary for life."
  },
  "https://www.sciencenews.org/article/volcanoes-impact-human-history-climate": {
   "s": "Volcanoes have caused extreme weather and famines in the past, as seen in the aftermath of Mount Tambora's 1815 eruption. Such events may have influenced human history, leading to revolts and disease outbreaks. Understanding these impacts can help modern societies prepare for climate-related challenges."
- },
- "https://www.livescience.com/space/cosmology/james-webb-telescope-discovers-most-distant-ring-galaxy-ever-hinting-at-an-ultra-rare-early-universe-collision": {
-  "s": "Astronomers used the James Webb telescope to spot a galaxy with a ring of stars formed 2.1 billion years after the universe began. This discovery suggests the cosmos might have been more turbulent in its early stages than previously thought."
  },
  "https://www.sciencenews.org/article/human-chimp-brains-different-virus-dna": {
   "s": "A virus that infected an ancient ape millions of years ago left behind DNA in modern chimps, influencing genes involved in neuron development. This genetic legacy may help explain how human brains are three times larger and more powerful compared to chimps."
@@ -349,5 +333,20 @@
  },
  "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
   "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
+ },
+ "https://phys.org/news/2026-10-ancient-oceans-carbon-export-fish.html": {
+  "s": "As ancient oceans warmed, fish stocks in the open ocean surged, as a new study suggests. But sustained warming can take a long time to have an effect, as seen in a past global warming episode."
+ },
+ "https://www.sciencealert.com/scientists-ran-100000-simulations-of-comets-striking-earth-the-results-are-a-surprise": {
+  "s": "Scientists conducted 100,000 simulations showing comets carrying prebiotic chemicals would rarely deliver enough to Earth. This contradicts a long-held theory that comets brought essential ingredients for life."
+ },
+ "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail": {
+  "s": "The new simulation aims to reveal how the universe's initial ingredients formed into galaxies, illuminating the period when the cosmos was lit up after a dark age. This helps scientists understand the early stages of the universe's development."
+ },
+ "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
+  "s": "Researchers have developed magnetic sensors that track muscle movement. This could help people with amputation use prosthetic limbs more naturally, by providing detailed muscle signals."
+ },
+ "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly": {
+  "s": "The study finds that colorectal cancer in younger people has genetic and structural differences compared to cancer in older people. These differences may make the cancer more aggressive and harder to treat."
  }
 }
