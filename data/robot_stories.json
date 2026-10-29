@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-26T07:39:22-07:00",
- "updated_pt": "Oct 26, 2026, 7:39 AM PT",
+ "updated": "2026-10-28T19:38:36-07:00",
+ "updated_pt": "Oct 28, 2026, 7:38 PM PT",
  "stories": [
   {
    "title": "GXO will put Agility's Digit humanoids to work at two more U.S. warehouses starting in early 2027",
@@ -9,7 +9,7 @@
    "paragraphs": [
     "GXO Logistics and Agility Robotics said on Oct. 26, 2026, that they are expanding their partnership to deploy Agility's Digit humanoid robot at more GXO sites in North Carolina and Tennessee, The Robot Report reports. Under the expanded agreement, Digit will support e-commerce fulfillment at GXO's Statesville and Lebanon sites.",
     "According to The Robot Report, the companies expect to begin deploying Digit 4 at those sites in early 2027, and GXO said it will migrate to Digit 5 when that robot becomes commercially available. Digit 5, which Agility unveiled in September, is designed with new legs, to operate safely near people and to handle a wider range of industrial workflows.",
-    "The expansion builds on the companies' first deployment of Digit in late 2023 at a GXO facility in Flowery Branch, Georgia, which they describe as the industry's first commercial deployment of humanoid robots in live operations and the first robots-as-a-service agreement for humanoids. Digit has moved more than 100,000 totes there, placing them onto conveyors alongside existing automation. Agility CEO Peggy Johnson said expanding to more sites 'is the clearest signal that the value is real.'",
+    "The expansion builds on the companies' first deployment of Digit in late 2023 at a GXO facility in Flowery Branch, Georgia, which they describe as the industry's first commercial deployment of humanoid robots in live operations and the first robots-as-a-service agreement for humanoids. Digit has moved more than 100,000 totes there, placing them onto conveyors alongside existing automation. Agility CEO Peggy Johnson said the expansion to more sites shows that the value of the robots is real.",
     "The Robot Report notes that GXO has also tested other humanoids, including Apptronik's Apollo and Reflex Robotics' Reflex, and that GXO CEO Patrick Kelleher said in August the company had run 45 humanoid pilots but had not yet achieved a return on investment. GXO did not say how much it is investing in the expansion. Agility says Digit has more than 65,000 hours of real-world operation, and the company recently received SEC approval for its planned merger with Churchill Capital Corp. XI as it prepares to go public."
    ],
    "sources": [
@@ -21,157 +21,55 @@
    ],
    "image": {
     "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/GXO_Agility_Digit_02.jpg",
-    "credit": "The Robot Report (source article image)",
-    "alt": "GXO will put Agility's Digit humanoids to work at two more U.S. warehouses starting in ear"
+    "credit": "GXO and Agility Robotics, via The Robot Report",
+    "alt": "Agility Robotics' Digit humanoid robot at work in a GXO warehouse"
    }
   },
   {
-   "title": "Tesla starts Optimus humanoid production at its Fremont, California factory",
-   "tag": "Humanoids",
-   "date": "2026-10-21",
+   "title": "ANYbotics starts delivering ANYmal X, a four-legged inspection robot certified for explosive atmospheres",
+   "tag": "Industrial robots",
+   "date": "2026-10-27",
    "paragraphs": [
-    "Tesla announced on Oct. 21 that it has started producing its Optimus humanoid robot at its factory in Fremont, California, in manufacturing space once dedicated to electric vehicles, TechCrunch reports. In its third-quarter letter to shareholders, Tesla wrote that the bots coming off the line are the first production-quality bots it has made and that it has proven the current manufacturing process is suitable for a commercial product.",
-    "On the earnings call, CEO Elon Musk called this early production and said the ramp will be slow and somewhat bumpy, while claiming Tesla will be able to make 20,000 Optimus robots per week by the end of 2027, according to TechCrunch. Musk said the design still needs tweaks so the robot is safe, reliable and long-lasting, and that there is still a lot of AI work before it is truly useful for open-ended tasks.",
-    "TechCrunch reports that Tesla's spending on Optimus, AI and autonomous driving contributed to a 43% drop in third-quarter net income, to $787 million from $1.37 billion a year earlier, on total revenue of $28.04 billion."
-   ],
-   "sources": [
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-     "date": "2026-10-21"
-    }
-   ],
-   "image": {
-    "url": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
-    "credit": "Getty Images, via TechCrunch",
-    "alt": "Tesla starts Optimus humanoid production at its Fremont, California factory"
-   }
-  },
-  {
-   "title": "Agility's Digit 5 humanoid will run entirely on NVIDIA IGX Thor computers, with early access planned for the first half of 2027",
-   "tag": "Humanoids",
-   "date": "2026-10-22",
-   "paragraphs": [
-    "Agility Robotics announced on Oct. 22 that Digit 5, the next version of its humanoid robot, will standardize its onboard compute on NVIDIA IGX Thor modules. According to the company's release, that makes NVIDIA the exclusive provider of onboard compute for the general-availability version of Digit 5.",
-    "The release says the move builds on Agility's earlier work with NVIDIA's Halos safety platform. Agility is integrating IGX Thor and additional Halos models into its own system for detecting people around Digit, and it will take part in NVIDIA's Halos AI Systems Inspection Lab, which will evaluate Digit's safety-related software, AI components and cybersecurity protections before final third-party certification. NVIDIA's Deepu Talla said in the release that bringing humanoids to commercial scale 'requires AI computing and safety to be engineered together.'",
-    "Agility says early access to Digit 5 is expected to begin in the first half of 2027, with availability increasing over the following six to nine months for manufacturing, warehouse and distribution operators. The Next Web reports this was Agility's fourth announcement in four days, and that the company has said it holds more than $300 million in multi-year Digit 5 orders, subject to contractual milestones, and has signed four new customers in the automotive, consumer goods and agriculture industries.",
-    "Both sources note that Agility is preparing to go public through its merger with Churchill Capital Corp XI, expected to close in the fourth quarter of 2026, with shares trading on Nasdaq under the ticker AGLT."
-   ],
-   "sources": [
-    {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agility-robotics-expands-nvidia-collaboration-as-it-prepares-digit-5-for-commercial-scale",
-     "date": "2026-10-22"
-    },
-    {
-     "name": "The Next Web",
-     "url": "https://thenextweb.com/news/agility-robotics-digit-5-nvidia-igx-thor",
-     "date": "2026-10-22"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad951ace7bb09d50023d181_Agility%20NVIDIA%20Thor%20Image.jpg",
-    "credit": "Agility Robotics",
-    "alt": "Agility's Digit 5 humanoid will run entirely on NVIDIA IGX Thor computers, with early acce"
-   }
-  },
-  {
-   "title": "Italian humanoid maker Generative Bionics plans a 'Physical AI Data Factory' to train its GENE.01 robot, powered by AMD",
-   "tag": "Humanoids",
-   "date": "2026-10-23",
-   "paragraphs": [
-    "Generative Bionics, a humanoid robot company based in Genoa, Italy, announced this week that it plans to build a proprietary, multi-site \"Physical AI Data Factory\" in Italy, The Robot Report reported on Oct. 23. According to the company, the first hub will cover 5,000 square meters (about 53,800 square feet), become one of Europe's largest physical AI training facilities for humanoid robots, and be operational by the fourth quarter of 2027. The company says it plans a second facility elsewhere in Europe and a third serving global markets.",
-    "Generative Bionics says the facilities will reproduce real industrial environments chosen with industrial partners, where fleets of its GENE.01 humanoid will perform tasks continuously to generate physical data, including vision, motion and signals from the robot's full-body multimodal skin. Each environment will also be recreated as a digital twin so the same tasks can be repeated across thousands of variations, with models trained in simulation sent back to the real robots for validation. AMD will be the company's AI infrastructure partner, and the network will run on AMD Helios rack-scale systems, the company said.",
-    "CEO Daniele Pucci told The Robot Report that Europe needs to extract physical AI data from its industry to train its own models, and that the company wants to be \"the European champion in physical AI.\" Pucci also said that many Chinese humanoid robots are \"simply not certified to enter industrial settings\" and that Generative Bionics is focusing on safety and certification because it wants to sell to businesses first. The company plans to offer GENE.01 as a base platform customized by industry in three ways: its AI, its exterior design, and its hands and feet.",
-    "According to The Robot Report, Generative Bionics spun out of the Italian Institute of Technology (IIT) in 2024, builds on more than 20 years of humanoid research there, and holds exclusive licenses to key IIT technologies."
+    "Swiss robotics company ANYbotics launched ANYmal X on Oct. 27, 2026, and began delivering it to customers, The Robot Report reports. The company calls the four-legged robot \"the world's first legged inspection robot for explosive atmospheres,\" designed to meet strict safety standards in oil, gas and chemical plants and to run routine autonomous inspections in places that are dangerous for people.",
+    "According to ANYbotics, every device used in hazardous zones must be certified as unable to ignite a flammable atmosphere, even when something fails, and ANYmal X was built to comply with the ATEX standard in Europe and IECEx globally. The company said the robot's AI computer and inspection equipment sit in sealed, nitrogen-filled chambers, its 12 leg actuators and battery are protected by flameproof casings, its feet are conductive for grounding, and automatic cutoffs monitor temperature. CEO Péter Fankhauser said four years of engineering and more than 10 patents went into the robot.",
+    "The Robot Report says ANYmal X carries thermal, visual, acoustic and gas sensors to detect overheating, leaks, abnormal noise and equipment wear, and runs on ANYbotics' Shift software, which connects findings to plant maintenance systems including SAP, Yokogawa and SLB. Since 2023, companies including BP, Equinor, Shell, PETRONAS, Petrobras, BASF and SLB have tested the robot on hundreds of onshore and offshore missions through an early access program, the company said.",
+    "ANYbotics, a 2016 spinout of ETH Zurich, says it has raised more than $150 million and has about 200 employees in Zurich, San Francisco and Barcelona. The robot and its software will be shown publicly for the first time at the ADIPEC 2026 energy conference by ANYbotics, SLB and Kuwait Oil Co., according to the article."
    ],
    "sources": [
     {
      "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/",
-     "date": "2026-10-23"
+     "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
+     "date": "2026-10-27"
     }
    ],
    "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/generativebionics-featured.jpg",
-    "credit": "The Robot Report (source article image)",
-    "alt": "Italian humanoid maker Generative Bionics plans a 'Physical AI Data Factory' to train its "
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/ANYmal_X_inspection.jpg",
+    "credit": "ANYbotics, via The Robot Report",
+    "alt": "ANYmal X four-legged robot inspecting industrial equipment"
    }
   },
   {
-   "title": "Agility signs a commercial deal to pilot Digit humanoids at AGCO's Kansas farm-machinery plant in 2027",
-   "tag": "Humanoids",
-   "date": "2026-10-20",
+   "title": "North American robot orders jumped 24.8% in the third quarter of 2026, the strongest quarter of the year, A3 says",
+   "tag": "Industry",
+   "date": "2026-10-28",
    "paragraphs": [
-    "Agility Robotics and AGCO, the agricultural machinery maker behind brands such as Fendt, Massey Ferguson and Valtra, have signed a commercial agreement for a U.S. pilot of Agility's Digit humanoid robot, the two companies announced on Oct. 20. According to the release, the pilot is expected to begin in 2027 at AGCO's production facility in Hesston, Kansas.",
-    "The companies say Digit will initially support assembly and production work there, including sorting and stacking parts and placing totes for storage, taking on repetitive and physically demanding tasks. AGCO's director of manufacturing technology, Thomas Enghof, said in the release that the company views humanoid robots and AI as 'teammates' that can absorb repetitive, strenuous or hazardous tasks. Agility said on X that the deal extends its customers from automotive and logistics into agricultural machinery.",
-    "Agility says AGCO joins other companies deploying its humanoids, including Toyota, GXO and Schaeffler, and that Digit has logged more than 65,000 hours of real-world operation. The release adds that Agility is preparing to go public through its merger with Churchill Capital Corp XI, whose registration statement the SEC declared effective on Oct. 13. The deal is expected to close in the fourth quarter of 2026, after which the company is expected to trade on Nasdaq under the ticker AGLT.",
-    "On Oct. 21, Agility also said on X that it is expanding in Pittsburgh, where a new 50,000-square-foot facility will serve as its center of excellence for software and AI and as the home of its East Coast service center for Digit."
+    "North American companies ordered 10,989 robots valued at $723.5 million in the third quarter of 2026, according to data from the Association for Advancing Automation (A3) reported by The Robot Report on Oct. 28, 2026. That is an increase of 24.8% in units and 26.1% in value compared with the third quarter of 2025, and A3 said it was the strongest quarter of the year so far. Orders for the first nine months of 2026 reached 28,984 robots worth about $1.89 billion, up 9.6% in units.",
+    "A3 said automotive OEM orders, which fell in the first half of the year, grew 7.5% in the third quarter, though they remain 17% below last year's level through September. Orders from automotive component suppliers rose 90.4%. Among other industries, A3 reported unit increases of 97.6% in semiconductors and electronics/photonics, 67.7% in plastics and rubber, 38.7% in life sciences, pharmaceutical and biomedical, and 37.0% in metals, while food and consumer goods orders fell 23.7%.",
+    "Collaborative robots, designed to work alongside people, also grew: companies ordered 1,831 of them worth $63.8 million in the quarter, about 56% more units than a year earlier, making up 16.7% of all robot units ordered, A3 said. \"What stands out in the third quarter is not simply the magnitude of the growth, but how broadly it was distributed across the market,\" said Alex Shikany, executive vice president at A3.",
+    "A3 linked the growth in electronics to investment in U.S. semiconductor manufacturing and noted that higher input costs, trade uncertainty and the timing of large manufacturing projects remain factors to watch."
    ],
    "sources": [
     {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112518192245481689",
-     "date": "2026-10-20"
-    },
-    {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2112861957438992771",
-     "date": "2026-10-21"
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
+     "date": "2026-10-28"
     }
    ],
    "image": {
-    "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg",
-    "credit": "Agility Robotics",
-    "alt": "Agility signs a commercial deal to pilot Digit humanoids at AGCO's Kansas farm-machinery p"
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/oct27-first-nine-comparison-industries_main.jpg",
+    "credit": "A3, via The Robot Report",
+    "alt": "A3 chart comparing robot orders by industry in the first nine months of 2026"
    }
-  },
-  {
-   "title": "China's humanoid makers: Unitree shows its H2-X 'Guardian', AGIBOT teases new robots for Oct. 29",
-   "tag": "Humanoids",
-   "date": "2026-10-21",
-   "paragraphs": [
-    "On Oct. 21, Unitree introduced a robot it calls the H2-X 'Kung Fu Legend Guardian'. In its announcement on X, the company says the robot is built to 'serve and guard' and has a maximum endurance of about 8 hours, and it asks owners to use the robot safely and in a friendly manner. Unitree did not list a price or other specifications in the post.",
-    "Shanghai-based AGIBOT says it will unveil new robots and new AI models at its Innovation Day on Oct. 29 at the Shanghai World Expo Center. The company has not shared details yet; earlier this month it showed its A3 Ultra, X2, OmniHand and D1 EDU platforms to researchers at the IROS 2026 conference.",
-    "Unitree, meanwhile, introduced UniUni, a system for controlling groups of its robots at once. Unitree says it can quickly choreograph swarm movements and formations, monitor each machine's status in real time and apply safety braking. In September the company also released a 22-joint robotic hand, the Dex5-S, starting at $6,500, and open-sourced its UnifoLM-WLA-1.0 robot foundation model."
-   ],
-   "sources": [
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2112819774573179175",
-     "date": "2026-10-21"
-    },
-    {
-     "name": "@AGIBOTofficial on X",
-     "url": "https://x.com/AGIBOTofficial/status/2110995951439769843",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "@AGIBOTofficial on X",
-     "url": "https://x.com/AGIBOTofficial/status/2108025499650031791",
-     "date": "2026-10-08"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2111015545869107471",
-     "date": "2026-10-16"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2101996861259395234",
-     "date": "2026-09-21"
-    },
-    {
-     "name": "@UnitreeRobotics on X",
-     "url": "https://x.com/UnitreeRobotics/status/2097973681620459887",
-     "date": "2026-09-10"
-    }
-   ]
   }
  ]
 }
