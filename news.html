@@ -15,7 +15,7 @@
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="SciVigilance">
   <meta property="og:title" content="Science News">
-  <meta property="og:description" content="Space and science, distilled into a daily signal.">
+  <meta property="og:description" content="Daily space and science news, each story linked to its source.">
   <meta property="og:url" content="https://ciber101.github.io/SciVigilance.github.io/news.html">
   <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/8/8d/Artemis_II_Launch_%28NHQ202604010307%29.jpg">
   <meta name="twitter:card" content="summary_large_image">
@@ -32,9 +32,9 @@
       <nav aria-label="Primary">
         <ul class="nav-links" id="navLinks">
           <li><a href="Digest.html">Digest</a></li>
-          <li><a href="news.html" class="active" aria-current="page">News</a></li>
-          <li><a href="ai.html">AI</a></li>
-          <li><a href="robots.html">Robots</a></li>
+          <li><a href="news.html" class="active" aria-current="page">Science News</a></li>
+          <li><a href="ai.html">AI News</a></li>
+          <li><a href="robots.html">Robotics News</a></li>
           <li><a href="posts.html">Posts</a></li>
           <li><a href="voices.html">Voices</a></li>
           <li><a href="shorts.html">Shorts</a></li>
@@ -50,11 +50,20 @@
   <main>
     <div class="page-head">
       <div class="container">
-        <span class="kicker">Frontier Science News</span>
-        <h1>All of today's signals</h1>
-        <p>Every story from this week's science feeds — summarized short, each with its image and original source. <span id="pageCount"></span></p>
+        <span class="kicker">Core Sciences</span>
+        <h1>Science News</h1>
+        <p>Biology, chemistry, physics, astronomy and earth science: explainers of the biggest stories first, then every story from this week's science feeds, each linked to its source. <span id="pageCount"></span></p>
       </div>
     </div>
+    <section id="science-stories" class="site-explainer" aria-label="Science, explained" hidden>
+      <div class="container">
+        <article class="prose explainer">
+          <div class="ts-head"><span class="kicker">Science, explained</span><span class="ts-updated" id="sciStoriesUpdated"></span></div>
+          <p class="ts-meta">Written summaries of the most significant stories from the last 2 days, from sources read in full.</p>
+          <div id="sciStories"></div>
+        </article>
+      </div>
+    </section>
 
     <section>
       <div class="container">
@@ -70,7 +79,7 @@
       <div class="footer-grid">
         <div class="footer-brand">
           <a href="Digest.html" class="brand" aria-label="SciVigilance home"><img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34"><span class="name">Sci<b>Vigilance</b></span></a>
-          <p>The daily signal from the edge of everything we know.</p>
+          <p>Daily news from the edge of everything we know.</p>
         </div>
         <div class="footer-col">
           <h5>Navigate</h5>

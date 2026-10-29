@@ -1,0 +1,87 @@
+{
+ "updated": "2026-10-28T17:40:00-07:00",
+ "updated_pt": "Oct 28, 2026, 5:40 PM PT",
+ "stories": [
+  {
+   "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model, starting with cyber defenders",
+   "tag": "Models",
+   "date": "2026-10-28",
+   "paragraphs": [
+    "Google DeepMind announced Gemini 4 Carbon on Oct. 28, calling it its strongest model, with state-of-the-art cybersecurity and long-horizon capabilities. It arrives two weeks after Gemini 4 Argon. Google says Carbon ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59 and reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym and 71.0% on CWE-bench for patching.",
+    "According to Google, internal teams have seen Carbon work for days on multi-step engineering tasks, and its success rate at generating secure code is more than double Argon's. MarkTechPost notes these are Google's own or self-run figures, with most rival scores self-reported and no independent replication yet.",
+    "Access is limited for now. Google is taking part in the U.S. government's voluntary pre-release testing, is giving Carbon to a subset of cyber defenders this week, and will widen access through its Fairwind Program before a later release to developers, businesses and consumers. Introductory pricing matches Argon: $2 per million input tokens and $10 per million output tokens."
+   ],
+   "sources": [
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "date": "2026-10-28"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+     "date": "2026-10-28"
+    }
+   ],
+   "image": {
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+    "credit": "Google DeepMind",
+    "alt": "Gemini 4 Carbon announcement graphic"
+   }
+  },
+  {
+   "title": "Genie 4, DeepMind's real-time world model, now generates sound and uses Gemini as a planner",
+   "tag": "Models",
+   "date": "2026-10-28",
+   "paragraphs": [
+    "Google DeepMind released Genie 4 as a research preview for trusted testers, MarkTechPost reports. The world model generates explorable environments from text and image prompts in real time, frame by frame, and users move with keyboard controls and steer events with plain-language prompts.",
+    "It is DeepMind's first real-time world model to generate audio natively, producing ambient sound, music and character dialogue together with the visuals. A Gemini model runs inside the simulation loop as a planner and keeps the scene progressing between user inputs, which DeepMind describes as an early step toward hybrid world models.",
+    "DeepMind released no benchmark tables. It says Genie 4 should come soon to Google AI Ultra subscribers in Project Genie, followed by early-access partners of the Gemini API and Google AI Studio, and that all of its video and audio carry SynthID watermarks."
+   ],
+   "sources": [
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
+     "date": "2026-10-28"
+    },
+    {
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+     "date": "2026-10-27"
+    }
+   ],
+   "image": {
+    "url": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w1200-h630-n-nu-rw",
+    "credit": "Google DeepMind",
+    "alt": "Genie 4 announcement image"
+   }
+  },
+  {
+   "title": "Liquid AI releases LFM3, six open-weight 2B-class models for text, vision, audio and more",
+   "tag": "Open models",
+   "date": "2026-10-27",
+   "paragraphs": [
+    "Liquid AI released LFM3, a family of six open-weight models in the 2-billion-parameter range that all branch from one base model, LFM3-1.7B-Base, the company wrote on the Hugging Face blog. The family covers text, vision, audio, omni and decision tasks, and each model can be fine-tuned on a single GPU and run on devices such as phones and laptops.",
+    "The base model was pre-trained on 22 trillion tokens, with a final 3.5 trillion focused on agent traces and tool calls, extending the context window to 256K tokens. Liquid AI says LFM3-1.7B beats its earlier LFM2.5-2.6B with 35% fewer parameters, scoring 38.42 on WebArena-Verified. MarkTechPost notes larger models such as Qwen3.5-9B still lead on knowledge and coding tests like GPQA Diamond and SWE-bench Verified.",
+    "The vision model, LFM3-VL-2B, is Liquid's first to accept video and averages 71.4 across 62 vision benchmarks, up from 57.6 for LFM2.5-VL-3B. LFM3-Audio-2B handles voice chat, speech recognition, speech synthesis and translation across 18 languages."
+   ],
+   "sources": [
+    {
+     "name": "Hugging Face (Liquid AI)",
+     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+     "date": "2026-10-27"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
+     "date": "2026-10-27"
+    }
+   ],
+   "image": {
+    "url": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
+    "credit": "Liquid AI, via Hugging Face",
+    "alt": "LFM3 model family graphic"
+   }
+  }
+ ]
+}

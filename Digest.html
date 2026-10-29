@@ -4,8 +4,8 @@
   <meta name="referrer" content="no-referrer">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SciVigilance — The Daily Signal</title>
-  <meta name="description" content="Space and science, distilled into a daily signal. Mission-control coverage of the universe, the Moon, and the particles beneath.">
+  <title>SciVigilance — Daily Science News</title>
+  <meta name="description" content="Daily space and science news. Mission-control coverage of the universe, the Moon, and the particles beneath.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -14,8 +14,8 @@
   <link rel="apple-touch-icon" href="img/scivigil-avatar.jpg">
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="SciVigilance">
-  <meta property="og:title" content="SciVigilance — The Daily Signal">
-  <meta property="og:description" content="Space and science, distilled into a daily signal.">
+  <meta property="og:title" content="SciVigilance — Daily Science News">
+  <meta property="og:description" content="Daily space and science news, each story linked to its source.">
   <link rel="canonical" href="https://ciber101.github.io/SciVigilance.github.io/Digest.html">
   <meta property="og:url" content="https://ciber101.github.io/SciVigilance.github.io/Digest.html">
   <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/c/c2/NASA-JWST-FirstDeepField-20220712.png">
@@ -38,9 +38,9 @@
       <nav aria-label="Primary">
         <ul class="nav-links" id="navLinks">
           <li><a href="Digest.html" class="active" aria-current="page">Digest</a></li>
-          <li><a href="news.html">News</a></li>
-          <li><a href="ai.html">AI</a></li>
-          <li><a href="robots.html">Robots</a></li>
+          <li><a href="news.html">Science News</a></li>
+          <li><a href="ai.html">AI News</a></li>
+          <li><a href="robots.html">Robotics News</a></li>
           <li><a href="posts.html">Posts</a></li>
           <li><a href="voices.html">Voices</a></li>
           <li><a href="shorts.html">Shorts</a></li>
@@ -59,11 +59,11 @@
       <canvas id="starfield" aria-hidden="true"></canvas>
       <div class="container">
         <span class="eyebrow" id="refreshStatus"><span class="dot" aria-hidden="true"></span> <span id="refreshCountdown">Updated every 3 hours — next update in --:--:--</span></span>
-        <h1>The daily signal from the <span class="accent">edge of everything</span> we know.</h1>
+        <h1>Daily news from the <span class="accent">edge of everything</span> we know.</h1>
         <p class="lede">SciVigilance cuts through the noise. A daily feed of real frontier-science news — space, physics, biology, Earth and tech — each shown with a short excerpt from its source and linked to the original story.</p>
         <div class="hero-actions">
           <a href="#digest" class="btn btn-primary">Read Today's News ↓</a>
-          <a href="newsletter.html" class="btn btn-ghost">Get the Signal</a>
+          <a href="newsletter.html" class="btn btn-ghost">Get the newsletter</a>
         </div>
       </div>
     </section>
@@ -86,7 +86,7 @@
           </div>
           <a href="news.html" class="link-more">All science news →</a>
         </div>
-        <a class="robot-teaser sec-teaser" id="teaser-digestGrid" href="#" data-grid="digestGrid" hidden></a>
+        <a class="robot-teaser sec-teaser" id="teaser-digestGrid" href="news.html#science-stories" data-grid="digestGrid" hidden></a>
         <div class="digest-grid" id="digestGrid">
 
           <div class="empty-state" id="digestEmpty" hidden>
@@ -107,7 +107,7 @@
           <h2>Models, releases &amp; benchmarks</h2>
           <p>New frontier and open-weight models — from the big labs to the ones you can run locally — each linked to its source.</p>
         </div>
-        <a class="robot-teaser sec-teaser" id="teaser-aiGrid" href="#" data-grid="aiGrid" hidden></a>
+        <a class="robot-teaser sec-teaser" id="teaser-aiGrid" href="ai.html#ai-stories" data-grid="aiGrid" hidden></a>
         <div class="digest-grid" id="aiGrid"></div>
         <a href="ai.html" class="see-all" data-for="aiGrid">See all AI news <span class="arr" aria-hidden="true">↓</span></a>
       </div>
@@ -135,7 +135,7 @@
           <h2>Science in 280</h2>
           <p>Recent posts from @SciVigil.</p>
         </div>
-        <a class="robot-teaser sec-teaser" id="teaser-xGrid" href="#" data-grid="xGrid" hidden></a>
+        <a class="robot-teaser sec-teaser" id="teaser-xGrid" href="posts.html" data-grid="xGrid" hidden></a>
         <div class="social-grid" id="xGrid">
           <div class="empty-state" id="xEmpty" hidden>
             <div class="icon" aria-hidden="true">📡</div>
@@ -155,7 +155,7 @@
           <h2>Rockets, agencies &amp; tech advancements</h2>
           <p>Original posts from space agencies and launch companies worldwide, plus non-AI tech advancements like biotech, energy and new hardware. No AI, robots or basic science here.</p>
         </div>
-        <a class="robot-teaser sec-teaser" id="teaser-featuredGrid" href="#" data-grid="featuredGrid" hidden></a>
+        <a class="robot-teaser sec-teaser" id="teaser-featuredGrid" href="voices.html" data-grid="featuredGrid" hidden></a>
         <div class="social-grid" id="featuredGrid"></div>
         <a href="voices.html" class="see-all" data-for="featuredGrid">See all voices <span class="arr" aria-hidden="true">↓</span></a>
       </div>
@@ -178,7 +178,7 @@
     <section class="tight" aria-label="Newsletter signup">
       <div class="container">
         <div class="newsletter-band">
-          <h2>Get the Signal</h2>
+          <h2>Get the newsletter</h2>
           <p>One email a week. The most important space, science and AI stories, each linked to its source.</p>
           <form class="newsletter-form" action="https://app.kit.com/forms/10041324/subscriptions" method="post" data-sv-form="10041324" data-uid="a86266255b" aria-describedby="nl-note">
             <label for="nl-email" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);">Email address</label>
@@ -242,7 +242,7 @@
             <img class="mark" src="img/scivigil-avatar.jpg" alt="" aria-hidden="true" width="34" height="34">
             <span class="name">Sci<b>Vigilance</b></span>
           </a>
-          <p>The daily signal from the edge of everything we know. Space, science, and the missions pushing the frontier.</p>
+          <p>Daily news from the edge of everything we know. Space, science, and the missions pushing the frontier.</p>
         </div>
         <div class="footer-col">
           <h5>Navigate</h5>

@@ -114,7 +114,7 @@ async function loadDigest() {
   const tagline = document.getElementById('digestTagline');
 
 
-  // Daily Signal = science only; AI stories show in the AI section (ticker still gets everything)
+  // Core Sciences = science only; AI stories show in the AI section (ticker still gets everything)
   const allArticles = (data.articles || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   const articles = allArticles.filter(a => !(a.tags || []).includes('AI'));
   if (tagline) tagline.textContent = `${articles.length} real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.`;
@@ -231,7 +231,7 @@ function buildTicker(articles) {
   const parts = [];
   (articles || []).forEach(a => {
     const href = tickerHref('news', a.id || a.url || a.title, 'news.html');
-    const tag = (a.tags && a.tags[0]) || 'SIGNAL';
+    const tag = (a.tags && a.tags[0]) || 'NEWS';
     parts.push(`<a class="ticker-item" href="${escapeHtml(href)}"><b>${escapeHtml(tag)}</b> ${escapeHtml(a.title)}</a>`);
   });
   (tickerExtras.posts || []).slice(0, 12).forEach(p => {
@@ -351,6 +351,10 @@ async function loadFeatured() {
         c.hidden = b.dataset.grp ? grpOf[c.dataset.acc] !== b.dataset.grp : (!!b.dataset.acc && c.dataset.acc !== b.dataset.acc);
       });
     });
+    if (location.hash === '#voices-space') {  // homepage Rockets card: open Voices filtered to the Space group
+      const h = chips.querySelector('.chip-head[data-grp="space"]');
+      if (h) { h.click(); chips.scrollIntoView({ behavior: 'smooth', block: 'start' }); }
+    }
   }
 }
 
@@ -807,17 +811,7 @@ async function loadRobots() {
   if (count) count.textContent = `${list.length} stories`;
   if (!list.length) page.innerHTML = '<div class="empty-state"><div class="icon">🤖</div><h3>No robot news right now.</h3><p>Check back soon.</p></div>';
   list.forEach(a => page.appendChild(makeCard(a)));
-  if (stories && (stories.stories || []).length) {
-    document.getElementById('rsUpdated').textContent = 'Updated ' + (stories.updated_pt || stories.updated || '');
-    document.getElementById('robotStories').innerHTML = stories.stories.map(st => `
-      <section class="ts-story">
-        <h3>${escapeHtml(st.title)}</h3>
-        <p class="ts-meta">${escapeHtml(st.tag || '')}${st.tag ? ' · ' : ''}${escapeHtml(st.date || '')}</p>
-        ${(st.paragraphs || []).map(p => `<p>${escapeHtml(p)}</p>`).join('')}
-        <p class="ts-sources">Sources: ${(st.sources || []).map(x => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>${x.date ? ` (${escapeHtml(x.date)})` : ''}`).join(', ')}</p>
-      </section>`).join('');
-    document.getElementById('robot-stories').hidden = false;
-  }
+  renderExplainers(stories, 'robotStories', 'rsUpdated', 'robot-stories');
   const xg = document.getElementById('robotXGrid');
   if (xg) {
     const cards = [];
@@ -841,13 +835,28 @@ async function loadRobots() {
 /* ---------- Section summary cards (same look as "Robots, explained") ----------
    Each card shows its section's current top item (rebuilt whenever the grid is filled from the refreshed data/)
    and smooth-scrolls to that exact card on this page with a brief highlight. */
+const SEC_TEASER_HREF = { xGrid: 'posts.html', featuredGrid: 'voices.html#voices-space' };
 const SEC_TEASERS = {
-  digestGrid: ['Core Sciences, top story', 'Jump to this story'],
-  aiGrid: ['AI, top release', 'Jump to this story'],
-  xGrid: ['Science in 280', 'Jump to this post'],
-  featuredGrid: ['Rockets, agencies & tech', 'Jump to this post'],
+  digestGrid: ['', ''],
+  aiGrid: ['', ''],
+  xGrid: ['Science in 280', 'See all @SciVigil posts'],
+  featuredGrid: ['Rockets, agencies & tech', 'See all rocket & agency posts on Voices'],
 };
+const TEASER_PAGES = { digestGrid: ['data/science_stories.json', 'Science, explained', 'news.html#science-stories', 'Read the explainers on Science News'], aiGrid: ['data/ai_stories.json', 'AI, explained', 'ai.html#ai-stories', 'Read the explainers on AI News'] };
+async function buildPageTeaser(gid) {
+  const t = document.getElementById('teaser-' + gid); if (!t) return false;
+  const [url, label, href, more] = TEASER_PAGES[gid];
+  let d; try { d = await (await fetch(url, { cache: 'no-cache' })).json(); } catch (e) { return false; }
+  const list = recentStories(d); if (!list.length) return false;
+  const st = list[0], p0 = (st.paragraphs || [])[0] || '';
+  const extra = list.length > 1 ? ` · +${list.length - 1} more` : '';
+  t.href = href; delete t.dataset.target;
+  t.innerHTML = `<span class="kicker">${escapeHtml(label)}</span><b>${escapeHtml(st.title)}</b><span class="rt-text">${escapeHtml(p0.slice(0, 220))}${p0.length > 220 ? '…' : ''}</span><span class="rt-more">${escapeHtml(more + extra)} →</span>`;
+  t.hidden = false; t.dataset.page = '1';
+  return true;
+}
 function buildSecTeaser(gid) {
+  if (TEASER_PAGES[gid]) return;  // Core Sciences / AI cards open their topic pages (built by buildPageTeaser)
   const g = document.getElementById(gid), t = document.getElementById('teaser-' + gid);
   if (!g || !t) return;
   const top = g.querySelector('[data-anchor]');
@@ -865,9 +874,8 @@ function buildSecTeaser(gid) {
     body = m ? m[2] : '';
   }
   const id = top.getAttribute('data-anchor');
-  t.href = '#' + id;
-  t.dataset.target = id;
-  t.innerHTML = `<span class="kicker">${escapeHtml(lab)}</span><b>${escapeHtml(title)}</b>${body ? `<span class="rt-text">${escapeHtml(body.slice(0, 220))}${body.length > 220 ? '…' : ''}</span>` : ''}<span class="rt-more">${escapeHtml(more)} ↓</span>`;
+  t.href = SEC_TEASER_HREF[gid];
+  t.innerHTML = `<span class="kicker">${escapeHtml(lab)}</span><b>${escapeHtml(title)}</b>${body ? `<span class="rt-text">${escapeHtml(body.slice(0, 220))}${body.length > 220 ? '…' : ''}</span>` : ''}<span class="rt-more">${escapeHtml(more)} →</span>`;
   t.hidden = false;
 }
 document.addEventListener('DOMContentLoaded', () => {
@@ -877,6 +885,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let timer;
     new MutationObserver(() => { clearTimeout(timer); timer = setTimeout(() => buildSecTeaser(gid), 120); }).observe(g, { childList: true });
     buildSecTeaser(gid);
+    if (TEASER_PAGES[gid]) buildPageTeaser(gid);
   });
 });
 document.addEventListener('click', e => {
@@ -887,4 +896,62 @@ document.addEventListener('click', e => {
   e.preventDefault();
   highlightAnchor(el);
   history.replaceState(null, '', '#' + t.dataset.target);
+});
+
+
+/* ---------- "X, explained" on the topic pages (Science / AI / Robotics News) ----------
+   data/science_stories.json, ai_stories.json, robot_stories.json (top_stories format + optional image {url, credit, alt}).
+   Only stories dated within the last 2 days (PT) are shown; the section hides when none are. */
+function recentStories(d) {
+  const cut = new Date(Date.now() - 2 * 864e5).toLocaleDateString('en-CA', { timeZone: 'America/Los_Angeles' });
+  return ((d && d.stories) || []).filter(st => (st.date || '') >= cut);
+}
+function renderExplainers(d, listId, updId, secId) {
+  const list = recentStories(d), box = document.getElementById(listId), sec = document.getElementById(secId);
+  if (!box || !sec) return;
+  if (!list.length) { sec.hidden = true; return; }
+  const upd = document.getElementById(updId);
+  if (upd) upd.textContent = 'Updated ' + (d.updated_pt || d.updated || '');
+  box.innerHTML = list.map(st => {
+    const sid = itemAnchorId('explainer', st.title);
+    const img = st.image && st.image.url ? `<figure class="ts-figure"><img src="${safeUrl(st.image.url)}" alt="${escapeHtml(st.image.alt || st.title)}" loading="lazy" referrerpolicy="no-referrer"><figcaption>Image: ${escapeHtml(st.image.credit || (st.sources && st.sources[0] && st.sources[0].name) || 'source')}</figcaption></figure>` : '';
+    return `<section class="ts-story" id="${sid}" data-anchor="${sid}">
+      <h3>${escapeHtml(st.title)}</h3>
+      <p class="ts-meta">${escapeHtml(st.tag || '')}${st.tag ? ' · ' : ''}${escapeHtml(st.date || '')}</p>
+      ${(st.paragraphs || []).map(p => `<p>${escapeHtml(p)}</p>`).join('')}
+      <p class="ts-sources">Sources: ${(st.sources || []).map(x => `<a href="${safeUrl(x.url)}" target="_blank" rel="noopener">${escapeHtml(x.name)}</a>${x.date ? ` (${escapeHtml(x.date)})` : ''}`).join(', ')}</p>
+      ${img}
+    </section>`;
+  }).join('');
+  sec.hidden = false;
+  if (location.hash === '#' + secId) {  // jump to the explainers; re-align once images above have loaded
+    const go = () => sec.scrollIntoView({ behavior: 'auto', block: 'start' });
+    setTimeout(go, 50); window.addEventListener('load', go, { once: true }); setTimeout(go, 1500);
+  }
+}
+async function loadTopicExplainers() {
+  const map = [['sciStories', 'data/science_stories.json', 'sciStoriesUpdated', 'science-stories'], ['aiStories', 'data/ai_stories.json', 'aiStoriesUpdated', 'ai-stories']];
+  for (const [id, url, upd, sec] of map) {
+    if (!document.getElementById(id)) continue;
+    try { renderExplainers(await (await fetch(url, { cache: 'no-cache' })).json(), id, upd, sec); } catch (e) { const el = document.getElementById(sec); if (el) el.hidden = true; }
+  }
+}
+document.addEventListener('DOMContentLoaded', loadTopicExplainers);
+
+/* ---------- Archive search (client-side, title + summary) ---------- */
+document.addEventListener('input', e => {
+  if (e.target.id !== 'archiveSearch') return;
+  const q = e.target.value.trim().toLowerCase();
+  let n = 0;
+  document.querySelectorAll('#archiveList .archive-day').forEach(day => {
+    let shown = 0;
+    day.querySelectorAll('.card').forEach(c => {
+      const t = ((c.querySelector('h3') || {}).textContent || '') + ' ' + ((c.querySelector('.summary') || {}).textContent || '');
+      const ok = !q || t.toLowerCase().includes(q);
+      c.hidden = !ok; if (ok) shown++;
+    });
+    day.hidden = !shown; n += shown;
+  });
+  const cnt = document.getElementById('archiveCount');
+  if (cnt) cnt.textContent = q ? `${n} match${n === 1 ? '' : 'es'}` : '';
 });

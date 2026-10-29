@@ -50,7 +50,7 @@ TAGS = [('Space', r'\b(nasa|esa|jaxa|isro|mars|martian|moons?|lunar|jwst|webb|hu
         ('Health', r'\b(cancer|disease\w*|patients?|drugs?|vaccines?|medical|health|death|mortality|implants?|autis\w*|hepatitis|infect\w*|cdc|neurons?|inflammation)\b'),
         ('Earth', r'\b(climate|oceans?|earthquakes?|volcan\w*|glaciers?|ice ages?|icebergs?|permafrost|frozen ground|weather|carbon|tibetan plateau|forests?)\b'),
         ('Tech', r'\b(chips?|batter(y|ies)|computers?|algorithms?|origami|materials?|engineering)\b')]
-# Science feed (homepage Daily Signal + news.html) is science only: AI and robot stories have their own sections.
+# Science feed (homepage Core Sciences + news.html) is science only: AI and robot stories have their own sections.
 NOT_SCIENCE = r'\b(ai|a\.i\.|artificial intelligence|chatgpt|chatbots?|llms?|large language models?|machine learning|openai|anthropic|robots?|robotics|humanoids?|data cent(er|re)s?|trailers?|movies?|films?|tv|netflix|episode|php|websites?|software|campaign ads?|votes?|voters?|elections?|homelessness|deals?|sales?|black friday)\b'
 
 def get(u, n=None):
@@ -190,7 +190,7 @@ PAGE_SOURCES = [  # (source, index url, link regex, base) — newest links appea
  ('Meta AI', 'https://ai.meta.com/blog/', r'href="(https://ai\.meta\.com/blog/[a-z0-9-]+/)"', ''),
  ('Ollama', 'https://ollama.com/blog', r'href="(/blog/[a-z0-9-]+)"', 'https://ollama.com'),
 ]
-HF_ORGS = [  # (source label, HF org) — new model repos = release signal
+HF_ORGS = [  # (source label, HF org) — new model repos = sign of a release
  ('DeepSeek', 'deepseek-ai'), ('Qwen', 'Qwen'), ('Moonshot AI (Kimi)', 'moonshotai'), ('Zhipu AI (GLM)', 'zai-org'),
  ('MiniMax', 'MiniMaxAI'), ('ByteDance Seed', 'ByteDance-Seed'), ('Mistral AI', 'mistralai'), ('Meta Llama', 'meta-llama'),
  ('OpenAI', 'openai'), ('Google (Gemma)', 'google'), ('xAI', 'xai-org'),
