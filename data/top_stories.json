@@ -1,130 +1,130 @@
 {
-  "updated": "2026-10-29T13:38:04-07:00",
-  "updated_pt": "Oct 29, 2026, 1:38 PM PT",
-  "stories": [
+ "updated": "2026-10-29T13:38:04-07:00",
+ "updated_pt": "Oct 29, 2026, 1:38 PM PT",
+ "stories": [
+  {
+   "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
+   "tag": "AI",
+   "date": "2026-10-28",
+   "paragraphs": [
+    "Google DeepMind announced Gemini 4 Carbon on Oct. 28, 2026, calling it its next frontier model and its strongest yet, with state-of-the-art cybersecurity and long-horizon capabilities. In a blog post by Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google, the company says Carbon builds on Gemini 4 Argon, which launched two weeks earlier, and ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59.",
+    "DeepMind says Carbon is built for sustained agentic work on hard, long-horizon engineering problems, and that internally its teams have seen it run for days to root-cause and patch subtle bugs across large codebases and low-level systems. On cybersecurity benchmarks evaluated without guardrails, the company reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation and 71.0% on CWE-bench for patching. It also says Carbon more than doubles Argon's success rate at generating secure code on internal benchmarks, and gained 89 Elo points to reach fourth place (1769) on WebDev Arena.",
+    "On safety, DeepMind says Carbon uses the same layered safety stack as Argon and was trained to avoid shortcuts: it reports that successful cheating on Terminal-Bench 4.0 fell to 0.0%, high-severity misalignment alerts in live internal coding dropped by almost 80%, unsupported claims fell by about half compared with Argon, and the attack success rate on Gray Swan's indirect prompt injection benchmark was 0.0%.",
+    "The rollout is deliberately limited. DeepMind says it is taking part in the U.S. government's voluntary pre-release testing process, and that starting this week Carbon will go to a subset of cyber defenders, with access phased in to more trusted partners through its Fairwind Program before it reaches developers, businesses and consumers. Introductory pricing matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period, according to the post."
+   ],
+   "sources": [
     {
-      "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
-      "tag": "AI",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "Google DeepMind announced Gemini 4 Carbon on Oct. 28, 2026, calling it its next frontier model and its strongest yet, with state-of-the-art cybersecurity and long-horizon capabilities. In a blog post by Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google, the company says Carbon builds on Gemini 4 Argon, which launched two weeks earlier, and ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59.",
-        "DeepMind says Carbon is built for sustained agentic work on hard, long-horizon engineering problems, and that internally its teams have seen it run for days to root-cause and patch subtle bugs across large codebases and low-level systems. On cybersecurity benchmarks evaluated without guardrails, the company reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation and 71.0% on CWE-bench for patching. It also says Carbon more than doubles Argon's success rate at generating secure code on internal benchmarks, and gained 89 Elo points to reach fourth place (1769) on WebDev Arena.",
-        "On safety, DeepMind says Carbon uses the same layered safety stack as Argon and was trained to avoid shortcuts: it reports that successful cheating on Terminal-Bench 4.0 fell to 0.0%, high-severity misalignment alerts in live internal coding dropped by almost 80%, unsupported claims fell by about half compared with Argon, and the attack success rate on Gray Swan's indirect prompt injection benchmark was 0.0%.",
-        "The rollout is deliberately limited. DeepMind says it is taking part in the U.S. government's voluntary pre-release testing process, and that starting this week Carbon will go to a subset of cyber defenders, with access phased in to more trusted partners through its Fairwind Program before it reaches developers, businesses and consumers. Introductory pricing matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period, according to the post."
-      ],
-      "sources": [
-        {
-          "name": "Google DeepMind",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
-      "tag": "Open models",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
-        "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
-        "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
-        "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
-      ],
-      "sources": [
-        {
-          "name": "Mistral AI",
-          "url": "https://mistral.ai/news/mistral-large-4-oss/",
-          "date": "2026-10-29"
-        },
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "date": "2026-10-29"
-        }
-      ]
-    },
-    {
-      "title": "Astronauts install and unroll a new ISS solar array on the 100th U.S. spacewalk from the station",
-      "tag": "Space",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk installed and deployed the second-to-last upgraded solar array for the International Space Station on Thursday, Oct. 29, Space.com reports. The Expedition 75 crewmates finished the 7-hour, 11-minute spacewalk at 3:08 p.m. EDT (12:08 p.m. PT), working from the U.S. Quest airlock. According to Space.com, it was the 100th U.S. spacewalk from the station without a space shuttle docked, and the first spacewalk by a Canadian astronaut since April 2019.",
-        "The rolled-up array, called an ISS roll-out solar array (iROSA), arrived earlier this month in the unpressurized trunk of SpaceX's Dragon cargo capsule on the company's 35th resupply mission for NASA. Space.com says Menon rode the end of the Canadarm2 robotic arm while carrying the 750-pound (340-kilogram) assembly to the station's port side, where the two astronauts bolted it onto the 2A power channel and connected its cables during a night pass for safety.",
-        "No motor was needed to unroll the array: the energy stored in its rolled-up carbon composite booms extended it to its full 63-foot (19-meter) length, Space.com reports. Mission Control called out the deployment about 4 hours and 23 minutes into the spacewalk, and the array was fully extended about 12 minutes later, partly covering the older panel on the P4 truss.",
-        "According to Space.com, the station's eight original arrays are producing less power after passing their 15-year design life, and the iROSAs used alongside them have raised the station's power supply by 20% to 30%. The extra power supports ongoing work and the station's planned controlled deorbit, currently scheduled for 2030. Working ahead of schedule, the pair also began preparing the final iROSA on its temporary platform."
-      ],
-      "sources": [
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
-          "date": "2026-10-29"
-        }
-      ]
-    },
-    {
-      "title": "Artemis I data show radiation near the Moon is higher than in Earth orbit, but by less than expected",
-      "tag": "Space",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "Radiation detectors that flew around the Moon on NASA's uncrewed Artemis I mission in late November and early December 2022 have produced new preliminary measurements of cosmic radiation near the Moon, according to a ScienceDaily release from the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) dated Oct. 28, 2026. The Orion spacecraft carried more than 10,000 tiny crystals inside two human-shaped mannequins as part of the MARE (Matroshka AstroRad Radiation Experiment) study. The results were published in the journal Radiation Measurements in a paper led by Paweł Bilski of IFJ PAN.",
-        "The release says total radiation doses near the Moon are higher than in low Earth orbit because of galactic radiation, but the difference is not as large as one might expect. Bilski explains that low-energy protons trapped in Earth's Van Allen belts can make up most of the dose astronauts receive in low Earth orbit, and that contribution disappears near the Moon. High-energy galactic particles can pass through the entire body, so the Artemis I detectors recorded doses spread almost evenly through the mannequins, unlike the uneven pattern seen in the earlier MATROSHKA experiment on the International Space Station.",
-        "The study also tested a new kind of passive detector: millimeter-sized lithium fluoride crystals that record the tracks of charged particles and can be read with a fluorescence microscope. Universe Today reports that traditional plastic detectors must be etched in hot sodium hydroxide before they can be read, which destroys them and creates hazardous waste. According to IFJ PAN, after corrections and new background-removal software, the crystal results differed by no more than 15% from conventional track detectors across the overlapping range, and they also picked up many particle tracks below the older detectors' threshold.",
-        "Universe Today adds that for the highest energy transfers, the new sensors overestimated the dose by around 30% compared with the plastic detectors, which the researchers suspect comes from secondary neutrons knocking lithium atoms out of place inside the crystal. The team used crystals enriched in lithium-7 to reduce those reactions. IFJ PAN says the detectors are small enough to be worn by people, making them practical for monitoring astronaut radiation exposure on future missions."
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily (IFJ PAN)",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-          "date": "2026-10-28"
-        },
-        {
-          "name": "Universe Today",
-          "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "title": "Smoke from LA's Eaton Fire exposed about 7 million people to lead at roughly 80 times normal levels, Caltech study finds",
-      "tag": "Health",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "Smoke from the January 2025 Eaton Fire in Los Angeles carried lead at roughly 80 times normal atmospheric levels, and on Jan. 9, 2025, about 7 million residents breathed air with those concentrations for 24 hours, according to a new study in Science Advances reported by ScienceAlert on Oct. 28, 2026. The study was led by atmospheric chemists Haroula Baliaka and Nga Ng at the California Institute of Technology (Caltech).",
-        "The researchers used real-time data from a Caltech air monitoring site in Pico Rivera, directly south of the fire. They report that daily lead there normally averages just 0.6 nanograms per cubic meter, and that on Jan. 9 about 7 million people experienced concentrations above 50 nanograms per cubic meter. Air quality was worst in the first two days, with eastern Los Angeles and the San Gabriel Valley seeing the highest 24-hour lead levels. ScienceAlert notes that a UCLA team recently reported similar results from its own monitoring stations.",
-        "According to the study, the smoke also held high levels of chlorine, bromine, zinc, copper and arsenic. Compared with a 2024 wildfire that burned almost entirely in vegetation near Riverside, the Eaton plume had 50 times the lead, 7 times the chlorine and bromine, 4 times the zinc and 3 times the copper and arsenic. The team writes that the plume came mainly from burning homes, vehicles and infrastructure, \"a fundamentally different fuel with a distinct chemical signature\" from wildland smoke. More than 9,000 structures burned, and ScienceAlert says many Altadena homes date from an era when lead paint and brominated flame retardants were common, which could help explain the toxicity.",
-        "The health effects for people exposed are still unknown, ScienceAlert reports, and the researchers call for epidemiological studies, \"particularly in children and other vulnerable populations.\" They also raise concerns about contaminants that settled on playgrounds, watersheds and farmland, and note that far less is known about short but intense exposures to mixtures of metals than about long-term exposure to single elements such as lead or arsenic."
-      ],
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "url": "https://www.sciencealert.com/las-eaton-fire-exposed-7-million-residents-to-lead-80-times-above-normal-levels",
-          "date": "2026-10-28"
-        }
-      ]
-    },
-    {
-      "title": "Heat deaths linked to climate change hit a record high, and Lancet Countdown researchers call for a global health emergency",
-      "tag": "Climate",
-      "date": "2026-10-27",
-      "paragraphs": [
-        "Researchers behind The Lancet's 2026 Countdown on Health and Climate Change are calling for climate change to be formally recognized as a global health emergency, ScienceAlert reported Oct. 27, 2026. The report finds that risks and harms tied to extreme heat and drought are rising faster than climate action, despite a decade of growing investment in moving away from fossil fuels. It comes 10 years after the first Countdown report and tracks the effects of climate change on 54 health indicators.",
-        "\"Heat deaths linked to climate change have reached a record-high,\" said Marina Romanello, executive director of The Lancet Countdown. According to the report's estimates, as reported by ScienceAlert, 71.5% of heat-related deaths worldwide in 2023 can be attributed to climate change: about 710,000 deaths, compared with around 200,000 without it. From 2016 to 2023, an estimated 540,800 deaths a year were linked to heat, and climate change was responsible for 68% of them, up from 55% a year in 2006 to 2015.",
-        "The report puts the cost of heat to global economic productivity in 2025 at about $1.07 trillion, just from interrupting people's ability to work, with the biggest losses in the economies of Southeast Asia and Africa. Agriculture and construction were hit especially hard because they rely on demanding outdoor work. Romanello said drought is also spreading while other places flood, and ScienceAlert notes the report finds the world's 100 largest oil and gas companies plan, by 2040, to exceed by 150% the fossil fuel production that would be consistent with keeping warming below 1.5°C.",
-        "The authors say the World Health Organization and United Nations should declare a global health emergency, put health at the center of climate decisions and increase grant-based funding for climate and health work. Co-chair Anthony Costello said health-centered climate action, such as cleaner air and better warning systems, is already saving lives, \"but the pace and scale of emissions reduction remains entirely out of step with the pace and scale of the harm.\""
-      ],
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "url": "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency",
-          "date": "2026-10-28"
-        }
-      ]
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+     "date": "2026-10-28"
     }
-  ],
-  "audio": {
-    "src": "audio/top_stories-897f589d7c.mp3",
-    "hash": "897f589d7ca3439013974475b56c078cf4a081ce",
-    "duration": 976.0,
-    "voice": "Kokoro (af_heart)"
+   ]
+  },
+  {
+   "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
+   "tag": "Open models",
+   "date": "2026-10-29",
+   "paragraphs": [
+    "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
+    "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
+    "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
+    "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
+   ],
+   "sources": [
+    {
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/mistral-large-4-oss/",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "Hugging Face",
+     "url": "https://huggingface.co/blog/mistral-large4",
+     "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "title": "Astronauts install and unroll a new ISS solar array on the 100th U.S. spacewalk from the station",
+   "tag": "Space",
+   "date": "2026-10-29",
+   "paragraphs": [
+    "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk installed and deployed the second-to-last upgraded solar array for the International Space Station on Thursday, Oct. 29, Space.com reports. The Expedition 75 crewmates finished the 7-hour, 11-minute spacewalk at 3:08 p.m. EDT (12:08 p.m. PT), working from the U.S. Quest airlock. According to Space.com, it was the 100th U.S. spacewalk from the station without a space shuttle docked, and the first spacewalk by a Canadian astronaut since April 2019.",
+    "The rolled-up array, called an ISS roll-out solar array (iROSA), arrived earlier this month in the unpressurized trunk of SpaceX's Dragon cargo capsule on the company's 35th resupply mission for NASA. Space.com says Menon rode the end of the Canadarm2 robotic arm while carrying the 750-pound (340-kilogram) assembly to the station's port side, where the two astronauts bolted it onto the 2A power channel and connected its cables during a night pass for safety.",
+    "No motor was needed to unroll the array: the energy stored in its rolled-up carbon composite booms extended it to its full 63-foot (19-meter) length, Space.com reports. Mission Control called out the deployment about 4 hours and 23 minutes into the spacewalk, and the array was fully extended about 12 minutes later, partly covering the older panel on the P4 truss.",
+    "According to Space.com, the station's eight original arrays are producing less power after passing their 15-year design life, and the iROSAs used alongside them have raised the station's power supply by 20% to 30%. The extra power supports ongoing work and the station's planned controlled deorbit, currently scheduled for 2030. Working ahead of schedule, the pair also began preparing the final iROSA on its temporary platform."
+   ],
+   "sources": [
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+     "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "title": "Artemis I data show radiation near the Moon is higher than in Earth orbit, but by less than expected",
+   "tag": "Space",
+   "date": "2026-10-28",
+   "paragraphs": [
+    "Radiation detectors that flew around the Moon on NASA's uncrewed Artemis I mission in late November and early December 2022 have produced new preliminary measurements of cosmic radiation near the Moon, according to a ScienceDaily release from the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) dated Oct. 28, 2026. The Orion spacecraft carried more than 10,000 tiny crystals inside two human-shaped mannequins as part of the MARE (Matroshka AstroRad Radiation Experiment) study. The results were published in the journal Radiation Measurements in a paper led by Paweł Bilski of IFJ PAN.",
+    "The release says total radiation doses near the Moon are higher than in low Earth orbit because of galactic radiation, but the difference is not as large as one might expect. Bilski explains that low-energy protons trapped in Earth's Van Allen belts can make up most of the dose astronauts receive in low Earth orbit, and that contribution disappears near the Moon. High-energy galactic particles can pass through the entire body, so the Artemis I detectors recorded doses spread almost evenly through the mannequins, unlike the uneven pattern seen in the earlier MATROSHKA experiment on the International Space Station.",
+    "The study also tested a new kind of passive detector: millimeter-sized lithium fluoride crystals that record the tracks of charged particles and can be read with a fluorescence microscope. Universe Today reports that traditional plastic detectors must be etched in hot sodium hydroxide before they can be read, which destroys them and creates hazardous waste. According to IFJ PAN, after corrections and new background-removal software, the crystal results differed by no more than 15% from conventional track detectors across the overlapping range, and they also picked up many particle tracks below the older detectors' threshold.",
+    "Universe Today adds that for the highest energy transfers, the new sensors overestimated the dose by around 30% compared with the plastic detectors, which the researchers suspect comes from secondary neutrons knocking lithium atoms out of place inside the crystal. The team used crystals enriched in lithium-7 to reduce those reactions. IFJ PAN says the detectors are small enough to be worn by people, making them practical for monitoring astronaut radiation exposure on future missions."
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily (IFJ PAN)",
+     "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
+     "date": "2026-10-28"
+    },
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "title": "Smoke from LA's Eaton Fire exposed about 7 million people to lead at roughly 80 times normal levels, Caltech study finds",
+   "tag": "Health",
+   "date": "2026-10-28",
+   "paragraphs": [
+    "Smoke from the January 2025 Eaton Fire in Los Angeles carried lead at roughly 80 times normal atmospheric levels, and on Jan. 9, 2025, about 7 million residents breathed air with those concentrations for 24 hours, according to a new study in Science Advances reported by ScienceAlert on Oct. 28, 2026. The study was led by atmospheric chemists Haroula Baliaka and Nga Ng at the California Institute of Technology (Caltech).",
+    "The researchers used real-time data from a Caltech air monitoring site in Pico Rivera, directly south of the fire. They report that daily lead there normally averages just 0.6 nanograms per cubic meter, and that on Jan. 9 about 7 million people experienced concentrations above 50 nanograms per cubic meter. Air quality was worst in the first two days, with eastern Los Angeles and the San Gabriel Valley seeing the highest 24-hour lead levels. ScienceAlert notes that a UCLA team recently reported similar results from its own monitoring stations.",
+    "According to the study, the smoke also held high levels of chlorine, bromine, zinc, copper and arsenic. Compared with a 2024 wildfire that burned almost entirely in vegetation near Riverside, the Eaton plume had 50 times the lead, 7 times the chlorine and bromine, 4 times the zinc and 3 times the copper and arsenic. The team writes that the plume came mainly from burning homes, vehicles and infrastructure, \"a fundamentally different fuel with a distinct chemical signature\" from wildland smoke. More than 9,000 structures burned, and ScienceAlert says many Altadena homes date from an era when lead paint and brominated flame retardants were common, which could help explain the toxicity.",
+    "The health effects for people exposed are still unknown, ScienceAlert reports, and the researchers call for epidemiological studies, \"particularly in children and other vulnerable populations.\" They also raise concerns about contaminants that settled on playgrounds, watersheds and farmland, and note that far less is known about short but intense exposures to mixtures of metals than about long-term exposure to single elements such as lead or arsenic."
+   ],
+   "sources": [
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/las-eaton-fire-exposed-7-million-residents-to-lead-80-times-above-normal-levels",
+     "date": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "title": "Heat deaths linked to climate change hit a record high, and Lancet Countdown researchers call for a global health emergency",
+   "tag": "Climate",
+   "date": "2026-10-27",
+   "paragraphs": [
+    "Researchers behind The Lancet's 2026 Countdown on Health and Climate Change are calling for climate change to be formally recognized as a global health emergency, ScienceAlert reported Oct. 27, 2026. The report finds that risks and harms tied to extreme heat and drought are rising faster than climate action, despite a decade of growing investment in moving away from fossil fuels. It comes 10 years after the first Countdown report and tracks the effects of climate change on 54 health indicators.",
+    "\"Heat deaths linked to climate change have reached a record-high,\" said Marina Romanello, executive director of The Lancet Countdown. According to the report's estimates, as reported by ScienceAlert, 71.5% of heat-related deaths worldwide in 2023 can be attributed to climate change: about 710,000 deaths, compared with around 200,000 without it. From 2016 to 2023, an estimated 540,800 deaths a year were linked to heat, and climate change was responsible for 68% of them, up from 55% a year in 2006 to 2015.",
+    "The report puts the cost of heat to global economic productivity in 2025 at about $1.07 trillion, just from interrupting people's ability to work, with the biggest losses in the economies of Southeast Asia and Africa. Agriculture and construction were hit especially hard because they rely on demanding outdoor work. Romanello said drought is also spreading while other places flood, and ScienceAlert notes the report finds the world's 100 largest oil and gas companies plan, by 2040, to exceed by 150% the fossil fuel production that would be consistent with keeping warming below 1.5°C.",
+    "The authors say the World Health Organization and United Nations should declare a global health emergency, put health at the center of climate decisions and increase grant-based funding for climate and health work. Co-chair Anthony Costello said health-centered climate action, such as cleaner air and better warning systems, is already saving lives, \"but the pace and scale of emissions reduction remains entirely out of step with the pace and scale of the harm.\""
+   ],
+   "sources": [
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/heat-deaths-reach-record-high-146-experts-call-to-declare-climate-change-a-global-health-emergency",
+     "date": "2026-10-28"
+    }
+   ]
   }
+ ],
+ "audio": {
+  "src": "audio/top_stories-477f1407e2.mp3",
+  "hash": "477f1407e22c26373e8bf8fca146c35b26eab0eb",
+  "duration": 925.6,
+  "voice": "Kokoro (af_heart)"
+ }
 }
