@@ -1,28 +1,32 @@
 {
- "updated": "2026-10-28T19:38:36-07:00",
- "updated_pt": "Oct 28, 2026, 7:38 PM PT",
+ "updated": "2026-10-29T01:44:24-07:00",
+ "updated_pt": "Oct 29, 2026, 1:44 AM PT",
  "stories": [
   {
-   "title": "GXO will put Agility's Digit humanoids to work at two more U.S. warehouses starting in early 2027",
+   "title": "AGIBOT shows a third-generation humanoid hardware platform and a new robot foundation model at its Innovation Day in Shanghai",
    "tag": "Humanoids",
-   "date": "2026-10-26",
+   "date": "2026-10-29",
    "paragraphs": [
-    "GXO Logistics and Agility Robotics said on Oct. 26, 2026, that they are expanding their partnership to deploy Agility's Digit humanoid robot at more GXO sites in North Carolina and Tennessee, The Robot Report reports. Under the expanded agreement, Digit will support e-commerce fulfillment at GXO's Statesville and Lebanon sites.",
-    "According to The Robot Report, the companies expect to begin deploying Digit 4 at those sites in early 2027, and GXO said it will migrate to Digit 5 when that robot becomes commercially available. Digit 5, which Agility unveiled in September, is designed with new legs, to operate safely near people and to handle a wider range of industrial workflows.",
-    "The expansion builds on the companies' first deployment of Digit in late 2023 at a GXO facility in Flowery Branch, Georgia, which they describe as the industry's first commercial deployment of humanoid robots in live operations and the first robots-as-a-service agreement for humanoids. Digit has moved more than 100,000 totes there, placing them onto conveyors alongside existing automation. Agility CEO Peggy Johnson said the expansion to more sites shows that the value of the robots is real.",
-    "The Robot Report notes that GXO has also tested other humanoids, including Apptronik's Apollo and Reflex Robotics' Reflex, and that GXO CEO Patrick Kelleher said in August the company had run 45 humanoid pilots but had not yet achieved a return on investment. GXO did not say how much it is investing in the expansion. Agility says Digit has more than 65,000 hours of real-world operation, and the company recently received SEC approval for its planned merger with Churchill Capital Corp. XI as it prepares to go public."
+    "Chinese humanoid robot maker AGIBOT held its AGIBOT Innovation Day 2026 at the Shanghai World Expo Center on Oct. 29, 2026, the company said in posts on its official X account. AGIBOT said it introduced Worken, which it describes as a proposed framework for measuring the productive work robots perform in real-world environments, looking beyond deployment numbers to how autonomously and effectively they complete tasks.",
+    "According to AGIBOT, the event also showcased AHA3, its third-generation humanoid hardware architecture and first commercial \"Three Intelligences in One\" hardware platform; AGILE, which the company describes as advances in motion intelligence including self-evolving agent capabilities; and a preview of GO-3, its next-generation embodied AI foundation model.",
+    "The company also listed WITA-Omni 1.0, a multimodal foundation model for human-robot interaction; G2 Max, an industrial robot designed for demanding material-handling tasks in manufacturing and logistics; and Link-U OS 1.0, an operating system for embodied AI that AGIBOT says was officially released at the event. AGIBOT's posts did not give prices or availability dates for the new hardware."
    ],
    "sources": [
     {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/agility-gxo-logistics-plan-expanded-deployment-digit-humanoid/",
-     "date": "2026-10-26"
+     "name": "AGIBOT on X",
+     "url": "https://x.com/AGIBOTofficial/status/2115694835579666505",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "AGIBOT on X (event announcement)",
+     "url": "https://x.com/AGIBOTofficial/status/2115326431194661301",
+     "date": "2026-10-28"
     }
    ],
    "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/GXO_Agility_Digit_02.jpg",
-    "credit": "GXO and Agility Robotics, via The Robot Report",
-    "alt": "Agility Robotics' Digit humanoid robot at work in a GXO warehouse"
+    "url": "https://pbs.twimg.com/amplify_video_thumb/2115691538881884160/img/6uuBUA3vwWb9qGyU.jpg",
+    "credit": "AGIBOT, via X",
+    "alt": "A large audience watches a presenter on stage at AGIBOT Innovation Day 2026"
    }
   },
   {
