@@ -113,10 +113,6 @@
  "https://www.livescience.com/animals/cats/rare-tiger-behaviors-captured-on-camera-show-we-really-know-nothing-about-them": {
   "s": "Rare tiger behaviors, such as a mother, father, and cubs spending time together, were captured on camera. This suggests researchers still know little about these usually solitary cats."
  },
- "https://www.livescience.com/archaeology/human-evolution/30-000-year-old-bone-found-in-french-cave-reveals-vast-genetic-connections-between-people-of-eastern-and-western-europe-during-the-stone-age": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/flamingos-dance-eat-scientist": {
   "s": "Víctor Ortega Jiménez observed that flamingos create ripples when they feed underwater, which he found intriguing. He deduced that by retracting their heads, flamingos form vortex traps to capture algae, and their movements amplify these traps, bringing food to their beaks. This discovery could inspire new water filtration techniques, potentially filtering out microplastics and PFAS."
  },
@@ -128,17 +124,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i": {
-  "s": "Researchers equipped mannequins with radiation sensors to study cosmic radiation. Tracking heavy ions in space is challenging, as they cause biological damage. Lithium fluoride crystals offer a passive, long-term radiation monitoring solution, avoiding the drawbacks of traditional detectors."
- },
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
  },
  "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
   "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
- },
- "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/": {
-  "s": "NASA has selected nineteen new citizen science proposals for 2026, indicating a continued commitment to engaging volunteers in scientific research. This selection showcases NASA’s support for projects that leverage volunteers to discover new celestial objects and calibrate galaxy merger timescales, highlighting the collaborative and transparent nature of these efforts."
  },
  "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
   "s": "",
@@ -173,9 +163,6 @@
  "https://www.space.com/space-exploration/international-space-station/iss-astronaut-will-conduct-canadas-1st-spacewalk-in-7-years-on-oct-29-watch-it-live": {
   "s": "Astronaut Kutryk will step outside the ISS for the first time in nearly eight years on October 29. This spacewalk matters as it represents the first Canadian space excursion in a long time, after a seven-year gap."
  },
- "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/": {
-  "s": "The Artemis III SLS core stage was integrated with twin solid rocket boosters in Florida. This milestone marks progress toward the Artemis III mission, which aims to test docking capabilities with commercial spacecraft on the Moon."
- },
  "https://www.universetoday.com/articles/betelgeuse-is-disturbed-by-its-companion-star": {
   "s": "Betelgeuse, a red supergiant star, has a companion star named Siwarha that orbits very close to it. This companion star disturbs the atmosphere of Betelgeuse, causing it to appear egg-shaped at times. This new observation helps explain the star's long-term brightness variations, which have a cycle of about 5.9 years."
  },
@@ -200,19 +187,12 @@
  "https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/": {
   "s": "Symbotic grew significantly with Walmart, supplying 90.5% of its revenue in the quarter ending June 27, 2026. This dependence on Walmart, however, poses risks including customer concentration and contractual restrictions, as seen in Walmart's continuity rights and caps on Symbotic's sales to other customers. For startups considering a second customer, the reliance on Walmart doesn't fully indicate the cost of serving another account, requiring a detailed analysis of the customer's field pull and contract terms."
  },
- "https://phys.org/news/2026-10-ultrathin-metal-layer-boosts-door.html": {
-  "s": "Researchers at Kyushu University discovered an ultrathin iridium manganese layer enhances two spin-related signals in a structure composed of a magnetic insulator and platinum. This could guide the creation of devices that consume less power, such as those used in computing and energy harvesting. By analyzing how these signals work, the team uncovered how the intermediary layer improves spin transfer."
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-october-28-2026": {
   "s": "",
   "why": "too little source text"
  },
  "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031": {
   "s": "NASA's new UV space telescope, named UVEX, will launch in 2031. UVEX will see in ultraviolet light, which is beyond human vision, revealing transient and calamitous events in the night sky that are hidden in visible light. UVEX will complement existing telescopes by providing a comprehensive survey of ultraviolet light across the sky."
- },
- "https://www.nasa.gov/organizations/oiir/nasa-welcomes-vietnam-as-newest-artemis-accords-signatory/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.livescience.com/archaeology/bronze-age-sword-discovered-in-an-italian-lake-is-still-sharp-after-3-300-years": {
   "s": "",
@@ -240,13 +220,6 @@
  "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
   "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
  },
- "https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/": {
-  "s": "Artemis II Commander Reid Wiseman has been appointed as Caltech associate vice president and deputy director of NASA's Jet Propulsion Laboratory. This move matters as it brings an experienced astronaut with deep space exploration background to lead and support JPL's robotic missions and future space endeavors."
- },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "",
   "why": "too little source text"
@@ -256,9 +229,6 @@
  },
  "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
   "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
- },
- "https://phys.org/news/2026-10-ancient-oceans-carbon-export-fish.html": {
-  "s": "As ancient oceans warmed, fish stocks in the open ocean surged, as a new study suggests. But sustained warming can take a long time to have an effect, as seen in a past global warming episode."
  },
  "https://www.sciencealert.com/scientists-ran-100000-simulations-of-comets-striking-earth-the-results-are-a-surprise": {
   "s": "Scientists conducted 100,000 simulations showing comets carrying prebiotic chemicals would rarely deliver enough to Earth. This contradicts a long-held theory that comets brought essential ingredients for life."
@@ -271,12 +241,6 @@
  },
  "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly": {
   "s": "The study finds that colorectal cancer in younger people has genetic and structural differences compared to cancer in older people. These differences may make the cancer more aggressive and harder to treat."
- },
- "https://phys.org/news/2026-10-fossil-scans-insect-flight-timeline.html": {
-  "s": "A tiny fossil from a century ago has been reexamined using advanced microscopy, revealing that it may not belong to flying insects after all."
- },
- "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb": {
-  "s": "The NASA/ESA Hubble and NASA/ESA/CSA James Webb Space Telescopes recently observed a mysterious star-forming region within the Carina Nebula, a vast cloud of gas and dust. The telescopes captured the eerie Cat’s Head Nebula, resembling a cat's head with a glowing eye and a dark, elongated pillar of dust. Webb’s infrared view reveals many hidden stars and details, while Hubble’s visible-light view highlights the nebula's structure. The nebula's distinctive shape is sculpted by intense radiation and winds from massive stars, gradually eroding the surrounding material."
  },
  "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026": {
   "s": "",
@@ -295,9 +259,6 @@
  "https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets": {
   "s": "Astronomers have solved the mystery of the Sun’s spinning plasma jets by rethinking how these jets are formed. Spicules, thought to be individual spikes, are now seen as part of a complex three-dimensional magnetic sheet, creating an optical illusion of discrete jets from a vast atmospheric drape."
  },
- "https://phys.org/news/2026-10-modest-gamma-ray-dazzling-afterglow.html": {
-  "s": "A cosmic explosion initially signaled by a mild gamma-ray flash later revealed an extraordinary afterglow, brighter than the host galaxy, lasting for months. This discovery suggests the explosion was viewed from an off-axis angle, receiving less intense radiation initially."
- },
  "https://www.sciencedaily.com/releases/2026/10/261028234238.htm": {
   "s": "A study found that people who consumed the most sugar substitutes showed a faster decline in memory and thinking skills, equivalent to 1.6 extra years of brain aging. This suggests that while sweeteners are marketed as healthier alternatives, they might not be as beneficial for long-term brain health as previously thought."
  },
@@ -305,21 +266,12 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-saharan-bacteria-atlantic-amazon-rainforest.html": {
-  "s": "A team of researchers found that bacteria from the Sahara desert are carried across the Atlantic to the Amazon rainforest in dust clouds. This shows that microorganisms, including bacteria, can travel long distances in airborne dust."
- },
  "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-amino-acid-boosts-resort-antibiotic.html": {
-  "s": "Colistin, a last-resort antibiotic, is becoming less effective as bacteria develop resistance. Researchers in China found that combining colistin with L-arginine, an amino acid, can restore sensitivity to the antibiotic. This combination changes the bacterial cell membrane, allowing colistin to enter and trigger cell damage. The approach shows promise in treating infections by colistin-resistant pathogens in mice."
- },
  "https://www.sciencedaily.com/releases/2026/10/261028232719.htm": {
   "s": "Mathematicians have found a flaw in the standard model of the universe, challenging the necessity of dark energy. Their research suggests that cosmic acceleration could occur naturally from Einstein's equations, potentially eliminating the need for dark energy. This finding has significant implications for modern cosmology, as it could alter how scientists view the expansion of the universe since the Big Bang."
- },
- "https://phys.org/news/2026-10-smaller-ants-devote-resting-energy.html": {
-  "s": "Researchers at Arizona State University and Boston University observed that smaller worker ants in harvester ant species allocate more of their resting energy to their brains. This finding suggests that brain metabolic rates may play a role in the evolution of these species, as smaller brains might require more energy to function."
  },
  "https://www.sciencedaily.com/releases/2026/10/261028232707.htm": {
   "s": "Less than 42 minutes of bright daylight each day was linked to a higher risk of dementia in a study of adults. The research suggests that daytime light exposure could be a factor in brain health, potentially offering clues about dementia risk."
@@ -341,5 +293,60 @@
  },
  "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/": {
   "s": "AGIBOT introduced Worken at its Innovation Day 2026, a framework to measure robot productivity in real-world settings. This matters because as robots are deployed more widely, their ability to perform useful work autonomously becomes a key indicator of their value, beyond just the number of units produced."
+ },
+ "https://phys.org/news/2026-10-populations-weaken-ecosystem-benefits-species.html": {
+  "s": "Bat populations are shrinking, even though species remain widespread. This loss can weaken ecosystem benefits, as smaller numbers may not regulate pests or pollinate plants effectively."
+ },
+ "https://www.livescience.com/archaeology/neanderthals/neanderthals-and-our-ancestors-mated-repeatedly-what-were-these-relationships-like": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long": {
+  "s": "The Beta Pictoris system, about 63 light years away and 23 million years old, has a debris disk with a clump of carbon monoxide, a warp, and an asymmetry. Researchers using JWST found an unusual feature called a \"cat's tail\" extending 1,000 astronomical units. They concluded that colliding dwarf planets created this feature, revealing insights into the early stages of planetary systems."
+ },
+ "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/": {
+  "s": "The NASA invites the public to send their name to Titan aboard the Dragonfly mission, a rotor-wing aircraft that will explore Titan, Saturn's largest moon. This mission offers the public the chance to be part of the first scientific flight over another world, marking a unique journey in human history."
+ },
+ "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://openai.com/index/legora": {
+  "s": "Legora is developing an operating system that incorporates advanced AI models to streamline legal processes, such as contract analysis, thereby allowing lawyers to focus on more strategic tasks. This system aims to reduce the time lawyers spend on routine tasks, enabling them to handle more complex legal issues."
+ },
+ "https://phys.org/news/2026-10-rubin-observatory-reveals-hidden-companions.html": {
+  "s": "These discoveries indicate the observatory's advanced technology could reveal hundreds of faint Milky Way satellites, which are thought to be hiding around Earth's home galaxy."
+ },
+ "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-cosmic-microwave-background-evidence-gas.html": {
+  "s": "Researchers at Columbia University analyzed data from the cosmic microwave background, a faint glow from the early universe. They found evidence of gas motions in galaxy clusters, a phenomenon called the rotational kinematic Sunyaev-Zel'dovich effect. This finding strengthens earlier clues and provides new insights into the internal dynamics of galaxy clusters."
+ },
+ "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/": {
+  "s": "When companies started approaching NASA’s Langley Research Center for inclusion in the ISAM State of Play, the team recognized it marked a shift. The document, now 368 pages long, serves as both an encyclopedia and roadmap for technologies enabling space servicing, assembly, and manufacturing, expanding more than linearly since its inception. This rigor matters, as ISAM capabilities will be crucial for missions that require larger telescopes, mobile national security assets, and systems that can upgrade without full replacement."
+ },
+ "https://phys.org/news/2026-10-ancient-charcoal-clues-neanderthal.html": {
+  "s": "Researchers at Abric Romaní found that Neanderthals organized their living spaces by splitting them into areas for different activities, including hearths for cooking, socializing and warmth. These findings suggest Neanderthals had a complex understanding of their environment and how to use it, including managing resources like firewood."
+ },
+ "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/": {
+  "s": "A gravitational lensing image taken by Hubble Space Telescope shows a spiral galaxy with a barred center and a lensing effect at the bottom right. This image helps prepare for future observations with the Nancy Grace Roman Space Telescope, aiding in understanding dark matter and building a more comprehensive view of the universe."
+ },
+ "https://phys.org/news/2026-10-enormous-cat-tail-cosmic-collision.html": {
+  "s": "The Cat's Tail, a mysterious dark structure in space, has been puzzling astronomers for two years. Now, captured in visible light by Hubble, it reveals details of a collision between large bodies, likely similar to Pluto, suggesting its violent origin."
+ },
+ "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/": {
+  "s": "NASA's Hubble and Webb Space Telescopes have captured a star-forming scene resembling a cat's head within the Carina Nebula. This region is packed with information helping astronomers understand star formation, which is an elusive and chaotic process."
+ },
+ "https://phys.org/news/2026-10-grand-theft-astro-stars-criminal.html": {
+  "s": "A new study suggests that stars' pasts, marked by events like \"stealing\" mass from a companion star, could influence their internal magnetic fields. This revelation is crucial because it helps researchers better understand and model stellar evolution, improving the accuracy of predictions about stars' magnetic properties."
+ },
+ "https://phys.org/news/2026-10-ultrathin-carbon-ribbons-electricity-metals.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://openai.com/index/oracle-apps-in-chatgpt": {
+  "s": "OpenAI and Oracle are expanding their partnership to integrate Oracle applications and AI models into ChatGPT, enabling businesses to use AI more effectively. This collaboration aims to simplify access to Oracle software, making it easier for employees to use and manage, and to improve security by identifying and fixing vulnerabilities."
  }
 }
