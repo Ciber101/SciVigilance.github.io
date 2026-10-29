@@ -144,17 +144,11 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/": {
-  "s": "Liquid AI released LFM3, 6 open-weight multimodal models. LFM3 is larger but lighter than previous models, using a hybrid backbone and more efficient attention mechanisms. These changes are important for practical deployment, especially on resource-constrained devices. LFM3's superior performance, particularly in decision-making tasks and agent-based reasoning, highlights the model's potential for real-world applications."
- },
  "https://www.universetoday.com/articles/unveiling-starbirth-mysteries": {
   "s": "Researchers have used radio astronomy to study the magnetic fields in star-forming regions. They found that in the inner part of these regions, the neutral molecules fall in faster than ions, due to a process called ambipolar diffusion. This finding helps explain how gravity can compress clouds of gas and dust into stars, revealing insights into the veiled birth of stars."
  },
  "https://www.sciencedaily.com/releases/2026/10/261027063824.htm": {
   "s": "A major new study has revealed that autistic children’s brains process faces differently, and these differences may begin earlier than scientists previously thought. Scientists have found that brain activity associated with face recognition is less clearly distinguishable in autistic participants, and autistic children do not show the same pattern of brain development as neurotypical children."
- },
- "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/": {
-  "s": "Google DeepMind released Genie 4 as a research preview, adding native audio and live dialogue to its real-time world model. This model succeeds Genie 3, which ran at 720p and 24 frames per second, and is DeepMind's first real-time world model to generate audio natively."
  },
  "https://www.sciencenews.org/article/flamingos-dance-eat-scientist": {
   "s": "Víctor Ortega Jiménez observed that flamingos create ripples when they feed underwater, which he found intriguing. He deduced that by retracting their heads, flamingos form vortex traps to capture algae, and their movements amplify these traps, bringing food to their beaks. This discovery could inspire new water filtration techniques, potentially filtering out microplastics and PFAS."
@@ -162,9 +156,6 @@
  "https://www.livescience.com/archaeology/human-evolution/our-extinct-cousins-the-denisovans-had-a-distinctive-appearance-new-analysis-reveals": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/": {
-  "s": "FlashMap, a new tool from researchers, drafts up to 16 tokens in one step, significantly speeding up language model decoding. This innovation is important because it offers a faster method for generating text, potentially improving efficiency in natural language processing tasks."
  },
  "https://www.space.com/astronomy/earth/satellites-watch-an-escaping-antarctic-iceberg-space-photo-of-the-day-for-oct-28-2026": {
   "s": "",
@@ -349,11 +340,14 @@
  "https://www.sciencedaily.com/releases/2026/10/261027063702.htm": {
   "s": "Scientists have discovered that magma deep inside Earth can absorb and store far more oxygen than previously thought. This finding suggests that magma might have released oxygen into the atmosphere billions of years ago, helping to transform the planet's environment."
  },
- "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/": {
-  "s": "NVIDIA released Nemotron 3.5 Transcribe, a speech-augmented language model capable of transcribing 40 languages with high accuracy and timestamps. This model's open weights and versatility matter because it provides a flexible tool for speech transcription, allowing different interpretations based on context and language. It positions speech transcription as a specialist task, rather than a general assistant, offering unique capabilities for language processing."
- },
- "https://openai.com/index/securing-our-frontier-model-training-environment": {
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/": {
+  "s": "Infini-AI-Lab released Hermit, an open-source framework that trains an external layer of instructions and tools for AI agents, leaving the core model and harness unchanged. This matters because it allows for more flexible and adaptable AI systems that can be edited without breaking the core, and it supports moving between different models and harnesses."
+ },
+ "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
+  "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
  }
 }

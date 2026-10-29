@@ -365,8 +365,8 @@
    "rank": 1
   }
  ],
- "date": "2026-10-28",
- "updated": "2026-10-29T05:30+00:00",
+ "date": "2026-10-29",
+ "updated": "2026-10-29T08:31+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
@@ -462,17 +462,17 @@
    "ts": "2026-10-28T21:27:58+00:00"
   },
   {
-   "id": "ai-meet-google-deepmind-s-genie-4-real-time-world-model-wit",
-   "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
-   "summary": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop.",
-   "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-91110-scaled.png",
+   "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
+   "title": "AI for Science expands to foundations and institutions",
+   "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
    "tags": [
     "AI"
    ],
    "date": "2026-10-28",
-   "ts": "2026-10-28T07:34:58+00:00",
+   "ts": "2026-10-28T00:00:00+00:00",
    "rank": 0
   },
   {
@@ -528,17 +528,17 @@
    "ts": "2026-10-28T12:29:30+00:00"
   },
   {
-   "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
-   "title": "AI for Science expands to foundations and institutions",
-   "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+   "id": "ai-genie-4-a-new-generation-of-world-simulation",
+   "title": "Genie 4: A new generation of world simulation",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T00:00:00+00:00",
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
    "rank": 0
   },
   {
@@ -1208,20 +1208,6 @@
    "rank": 0
   },
   {
-   "id": "ai-meet-google-deepmind-s-genie-4-real-time-world-model-wit",
-   "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
-   "summary": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8 Flash planning events inside the simulation loop.",
-   "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-91110-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T07:34:58+00:00",
-   "rank": 0
-  },
-  {
    "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
    "title": "AI for Science expands to foundations and institutions",
    "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
@@ -1236,6 +1222,34 @@
    "rank": 0
   },
   {
+   "id": "ai-genie-4-a-new-generation-of-world-simulation",
+   "title": "Genie 4: A new generation of world simulation",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
+   "rank": 0
+  },
+  {
+   "id": "ai-infini-ai-lab-releases-hermit-an-open-source-harness-ada",
+   "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+   "summary": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from task feedback, leaving the agent’s model and harness unchanged.",
+   "url": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T08:24:52+00:00",
+   "rank": 1
+  },
+  {
    "id": "ai-the-october-inflection-point-for-vibe-game-development",
    "title": "The October inflection point for vibe game development",
    "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily…",
@@ -1247,20 +1261,6 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T13:55:15+00:00",
-   "rank": 1
-  },
-  {
-   "id": "ai-liquid-ai-releases-lfm3-6-open-weight-2b-class-multimoda",
-   "title": "Liquid AI Releases LFM3: 6 Open-Weight 2B-Class Multimodal Models",
-   "summary": "Liquid AI released LFM3, 6 open-weight 2B-class models for text, vision, audio, omni and decisions. LFM3-1.7B uses a tri-hybrid backbone, a 256K context window and fits in about 1 GB at 4-bit.",
-   "url": "https://www.marktechpost.com/2026/10/27/liquid-ai-lfm3-open-weight-2b-multimodal-models/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-090-3-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-27",
-   "ts": "2026-10-27T21:08:02+00:00",
    "rank": 1
   },
   {
@@ -1292,17 +1292,17 @@
    "rank": 1
   },
   {
-   "id": "ai-nvidia-releases-nemotron-3-5-transcribe-an-open-30b-moe",
-   "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
-   "summary": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and word timestamps, and posts a 4.71% mean WER on the English Open ASR…",
-   "url": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+   "id": "ai-block-unveils-dessa-a-full-duplex-speech-model-trained-o",
+   "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+   "summary": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max, but Block has published no size, benchmarks or weights.",
+   "url": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
    "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1209-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T04:41:24+00:00",
+   "ts": "2026-10-29T07:50:39+00:00",
    "rank": 2
   },
   {
@@ -1317,20 +1317,6 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T15:00:46+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-polymathic-ai-and-princeton-researchers-release-flashmap",
-   "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-   "summary": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches up to 6.14x lossless speedup on Qwen3-8B.",
-   "url": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-91110-1-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T08:18:03+00:00",
    "rank": 2
   },
   {
@@ -1373,20 +1359,6 @@
    ],
    "date": "2026-10-23",
    "ts": "2026-10-23T19:40:54+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-securing-our-frontier-model-training-environment",
-   "title": "Securing our frontier model training environment",
-   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5Ho5AoUkijZ1OWhqcDlVvT/84af1aa075c5e8e44d9dc93d0146c31f/new-approach-to-research-model-containment-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T10:00:00+00:00",
    "rank": 2
   },
   {
