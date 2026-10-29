@@ -8,9 +8,6 @@
  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/": {
   "s": "AI models might replicate on IoT devices, potentially creating new malware. This could spread without human intervention, infecting unfamiliar devices. Small models need less powerful hardware, but they can still self-replicate and adapt to new devices. This raises concerns about stopping such malware, as it's hard to control without a central point."
  },
- "https://x.ai/news/grok-voice-3": {
-  "s": "Today, Grok Voice 3.0 is introduced as the world's most intelligent speech-to-speech model. It sets records for resolving customer support calls and is cheaper than other models, available today in APIs."
- },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
@@ -31,9 +28,6 @@
  },
  "https://spectrum.ieee.org/walking-robotic-hand": {
   "s": "A hand attached to a robot arm is typically found in humanoid robots, but researchers from ETH Zurich have created a hand that can walk on its own and manipulate objects. This innovation could be useful in tasks where a traditional robot arm can't reach, such as industrial maintenance or search and rescue. The hand is made from off-the-shelf components, which the researchers adapted through training using reinforcement learning."
- },
- "https://content.knowledgehub.wiley.com/hiphi-a-large-scale-benchmark-for-high-precision-human-motion-and-object-interaction/": {
-  "s": "This White Paper introduces HiPHI, a comprehensive motion capture dataset designed to help humanoid robots learn precise human movements and object interactions. It matters because it closes a data gap, offering a richer, more diverse training set for robotics, bridging the gap between diverse real-world scenarios and current limited datasets."
  },
  "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/": {
   "s": "Mistral is advancing AI for engineering by partnering with NVIDIA to create AI-powered tools that speed up simulations and design processes. This collaboration will provide open benchmarks and datasets to improve AI models and validate them in real engineering and electronic design applications."
@@ -222,9 +216,6 @@
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
  },
- "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
-  "s": "Google DeepMind and Singapore Government collaborated to build a fine-tuned AI model for scam detection, intercepting private chats with zero cloud data egress. This collaboration addresses scams that have evolved from simple phishing to complex social engineering, making traditional detection methods ineffective."
- },
  "https://www.therobotreport.com/worldoracle-tests-whether-world-models-can-reliably-predict-real-world-executions/": {
   "s": "WorldOracle tested whether world models reliably predict real-world executions by showing a robot's grasp missed a fruit, yet the model predicted a successful pick. This matters because it highlights two main issues: models often predict the motion of robot arms accurately but not the positions and movements of objects, and models that perform well for short periods can fail over longer sequences."
  },
@@ -357,5 +348,27 @@
  },
  "https://phys.org/news/2026-10-gibberellin-reveals-hormone-root-growth.html": {
   "s": "To control where gibberellin acts, researchers developed a synthetic system that allows selective activation of GA signaling in specific cell layers of roots. This system enables precise control of timing and location, revealing that root elongation depends on coordinated signaling in the endodermis and epidermis, not just the endodermis alone."
+ },
+ "https://openai.com/index/anima": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://x.ai/news/incident-sweep": {
+  "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
+ },
+ "https://openai.com/index/localiza-generative-ai": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
+  "s": "A mobile robot slows for someone in a hallway based on its input data. But if the input is wrong, the robot may still act as designed, potentially causing a safety issue. This matters because researchers are discovering how manipulated inputs can alter robot behavior, posing a risk to safety."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
