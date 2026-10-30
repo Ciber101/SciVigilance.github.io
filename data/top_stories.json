@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T13:38:49-07:00",
- "updated_pt": "Oct 30, 2026, 1:38 PM PT",
+ "updated": "2026-10-30T16:42:16-07:00",
+ "updated_pt": "Oct 30, 2026, 4:42 PM PT",
  "stories": [
   {
    "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
@@ -42,6 +42,34 @@
      "date": "2026-10-29"
     }
    ]
+  },
+  {
+   "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
+   "tag": "AI security",
+   "date": "2026-10-30",
+   "paragraphs": [
+    "Cursor, which makes AI-assisted coding tools, published a security notice saying that maliciously modified versions of Anthropic's Claude Code extension, Anthropic.claude-code versions 2.1.312 and 2.1.313 for Windows and macOS, were available in the Cursor VS Code Extension Marketplace between about 2:27 a.m. and 1:35 p.m. PT on Oct. 29, 2026. Cursor said these versions were not developed by Anthropic and that the incident does not affect other extensions in its marketplace. Ars Technica reported on Oct. 30 that the compromise affected at most 5,000 users, according to Cursor, and that the malicious version was distributed through Anthropic's official account on Cursor.",
+    "According to Cursor, the extension collected host and user details such as hostname, username, operating system, environment variable names, configured Git email and public IP address, added an attacker-controlled SSH key, tried to enable the local SSH service and open a reverse SSH tunnel, and set up persistence through a LaunchAgent on macOS or a scheduled task on Windows. Cursor said that, because of errors in the malicious code and because turning on SSH needs administrator rights, the tunnel step would fail on most machines, but that the key, the persistence and the host-detail report still went through.",
+    "Cursor said it removed the malicious version as soon as it was detected, shut down the whole marketplace as a precaution, audited access and found no other tampered extensions, rotated its keys, rebuilt the marketplace and brought it back online. It also said it worked with the hosting provider to take the attacker's server offline. Ars Technica reported that, as of its story, neither Cursor nor Anthropic had explained how the attackers got control of the account, and that Anthropic had not yet issued a public notice to customers.",
+    "Cursor's notice tells anyone who installed or updated to those versions in that window to check their SSH authorized_keys file for a key labeled svc-telemetry, and gives remediation scripts for macOS and Windows. It warns that uninstalling the extension may not be enough, because the payload leaves standalone persistence scripts, and advises rotating credentials and sessions reachable from affected machines. Ars Technica's report described the affected version as 2.1.313 and said the code was written for Windows, macOS and Linux; Cursor's notice, updated Oct. 30 at 11:30 a.m. PT, lists versions 2.1.312 and 2.1.313 for Windows and macOS."
+   ],
+   "sources": [
+    {
+     "name": "Cursor",
+     "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+     "date": "2026-10-30"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+     "date": "2026-10-30"
+    }
+   ],
+   "image": {
+    "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+    "credit": "Getty Images, via Ars Technica",
+    "alt": "Yellow caution tape"
+   }
   },
   {
    "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
@@ -103,24 +131,6 @@
     {
      "name": "ScienceAlert",
      "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
-     "date": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "title": "Astronauts install and unroll a new ISS solar array on the 100th U.S. spacewalk from the station",
-   "tag": "Space",
-   "date": "2026-10-29",
-   "paragraphs": [
-    "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk installed and deployed the second-to-last upgraded solar array for the International Space Station on Thursday, Oct. 29, Space.com reports. The Expedition 75 crewmates finished the 7-hour, 11-minute spacewalk at 3:08 p.m. EDT (12:08 p.m. PT), working from the U.S. Quest airlock. According to Space.com, it was the 100th U.S. spacewalk from the station without a space shuttle docked, and the first spacewalk by a Canadian astronaut since April 2019.",
-    "The rolled-up array, called an ISS roll-out solar array (iROSA), arrived earlier this month in the unpressurized trunk of SpaceX's Dragon cargo capsule on the company's 35th resupply mission for NASA. Space.com says Menon rode the end of the Canadarm2 robotic arm while carrying the 750-pound (340-kilogram) assembly to the station's port side, where the two astronauts bolted it onto the 2A power channel and connected its cables during a night pass for safety.",
-    "No motor was needed to unroll the array: the energy stored in its rolled-up carbon composite booms extended it to its full 63-foot (19-meter) length, Space.com reports. Mission Control called out the deployment about 4 hours and 23 minutes into the spacewalk, and the array was fully extended about 12 minutes later, partly covering the older panel on the P4 truss.",
-    "According to Space.com, the station's eight original arrays are producing less power after passing their 15-year design life, and the iROSAs used alongside them have raised the station's power supply by 20% to 30%. The extra power supports ongoing work and the station's planned controlled deorbit, currently scheduled for 2030. Working ahead of schedule, the pair also began preparing the final iROSA on its temporary platform."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
      "date": "2026-10-29"
     }
    ]
