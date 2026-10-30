@@ -43,8 +43,22 @@
    "rank": 0
   },
   {
+   "id": "rb-percepto-launches-axion-rb-platform-to-unify-inspection",
+   "title": "Percepto launches Axion AI platform to unify inspection data analysis",
+   "summary": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure.",
+   "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Percepto-Axion-featured.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:05:34+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-video-friday-spot-plays-to-show-its-whole-body-manipulat",
-   "title": "Video Friday: Spot Plays to Show Its Whole Body Manipulation",
+   "title": "Video Friday: Spot Plays to Show Its Whole-Body Manipulation",
    "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months.",
    "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
    "source": "IEEE Spectrum",
@@ -96,20 +110,6 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T20:46:53+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-north-american-robot-orders-climb-24-8-in-q3-of-2026-say",
-   "title": "North American robot orders climb 24.8% in Q3 of 2026, says A3",
-   "summary": "Robot demand from automotive component manufacturers nearly doubled in Q3, as other sectors posted strong gains, reported A3.",
-   "url": "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/",
-   "source": "The Robot Report",
-   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/oct27-first-nine-comparison-industries_main.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T18:59:30+00:00",
    "rank": 1
   },
   {
@@ -337,6 +337,20 @@
    "rank": 1
   },
   {
+   "id": "rb-robot-hands-for-modern-ai-and-real-work",
+   "title": "Robot Hands for Modern AI and Real Work",
+   "summary": "Boston Dynamics new robot hands have 13 degrees of freedom and direct actuation, built for high fidelity simulation and dexterous physical work.",
+   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
+   "source": "Boston Dynamics",
+   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/atlas-mts-drill-1440x1016-1.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-01",
+   "ts": "2026-10-01T13:10:02+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-ask-a-roboticist-meet-diane",
    "title": "Ask a Roboticist: Meet Diane",
    "summary": "A mechanical engineer answers questions about endurance testing at Boston Dynamics and how we simulate years of robot use in just weeks.",
@@ -352,34 +366,100 @@
   }
  ],
  "date": "2026-10-30",
- "updated": "2026-10-30T17:27+00:00",
+ "updated": "2026-10-30T20:26+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
-   "id": "a-gamma-ray-powerhouse-s-smoking-gun-gas-trail-points-to-mic",
-   "title": "A gamma-ray powerhouse's smoking gun? Gas trail points to microquasar jets",
-   "summary": "In 2016, a binary star system emitting unusually strong gamma rays was discovered in our galactic neighborhood. Now, astronomers have found the smoking gun, or rather, a smoking trail of cool molecular gas that suggests…",
-   "url": "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html",
+   "id": "tiny-photonic-chip-links-telescopes-together-to-view-the-uni",
+   "title": "Tiny photonic chip links telescopes together to view the universe in 'astonishing' detail",
+   "summary": "A tiny glass chip developed by researchers at Heriot-Watt University has linked two telescopes together to enable them to act as a single powerful instrument, marking an important step toward a new generation of…",
+   "url": "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/gas-trail-beyond-milky.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/tiny-photonic-chip-lin.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T17:20:18+00:00"
+   "ts": "2026-10-30T20:20:06+00:00"
   },
   {
-   "id": "this-gamma-ray-burst-wasn-t-dim-it-was-just-misunderstood",
-   "title": "This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood",
-   "summary": "In March 2026, NASA's Fermi Gamma-ray Space Telescope detected a GRB with an unusual light signature. Its initial gamma radiation was dim, and the afterglow exhibited unusual, delayed peaks.",
-   "url": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Low-Res_Fortuna_Yang_BHianca_press_release_2026_w_LBTlos_20261030_161957.jpg",
+   "id": "nasa-releases-max-power-key-events-for-media-participants",
+   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov.",
+   "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T16:20:24+00:00"
+   "ts": "2026-10-30T19:31:02+00:00"
+  },
+  {
+   "id": "ai-ai-security-agents-compared-claude-codex-mantis-cloudfla",
+   "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+   "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.",
+   "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:34:15+00:00",
+   "rank": 0
+  },
+  {
+   "id": "is-there-more-to-cold-fusion-than-failure-and-fraud",
+   "title": "Is There More to Cold Fusion Than Failure and Fraud?",
+   "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics.",
+   "url": "https://www.quantamagazine.org/is-there-more-to-cold-fusion-than-failure-and-fraud-20261030/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-Muon-Fusion-cr.Oleg-Borodin-Default.webp",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:22:57+00:00"
+  },
+  {
+   "id": "this-ancient-meteorite-hints-at-mars-warm-wet-past",
+   "title": "This Ancient Meteorite Hints at Mars' Warm, Wet Past",
+   "summary": "Ancient Martian meteorites are like time-capsules from the planet's past. They're delivered to us by impacts that launch them into space, where some of them find their way to Earth.",
+   "url": "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Desert_sun_hero_20261030_165351.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:14:01+00:00"
+  },
+  {
+   "id": "the-rocket-scientist-who-summoned-demons-the-true-horror-sto",
+   "title": "The rocket scientist who summoned demons: The true horror story of Jack Parsons",
+   "summary": "Rocketry pioneer Jack Parsons engaged in an elaborate series of occult ceremonies intended to summon an otherworldly feminine goddess into physical existence.",
+   "url": "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/WZe2mijLToPnrQJBJkfVLY-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T18:00:00+00:00"
+  },
+  {
+   "id": "this-halloween-amateur-astronomers-may-be-in-for-a-dwarf-pla",
+   "title": "This Halloween, amateur astronomers may be in for a dwarf planet treat",
+   "summary": "The Vera Rubin Observatory is shedding new light on the faraway regions by Neptune and beyond, including possible solar system building blocks.",
+   "url": "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/103026_LG_newdwarfplanet_main_3a6163.jpg?w=800",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:39:47+00:00"
   },
   {
    "id": "ai-samaya-ai-releases-sterling-a-3b-active-finance-research",
@@ -409,59 +489,6 @@
    "ts": "2026-10-30T16:10:14+00:00"
   },
   {
-   "id": "nasa-s-james-webb-space-telescope-captures-eerie-cat-s-head",
-   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-   "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
-   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:56:26+00:00"
-  },
-  {
-   "id": "star-trek-s-william-shatner-and-george-takei-honor-the-deat",
-   "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
-   "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
-   "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/z4xEW3F3mcd2rwCKwzzC6M-1920-80.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:00:00+00:00"
-  },
-  {
-   "id": "nasa-s-swift-telescope-will-face-a-fiery-demise-after-a-fail",
-   "title": "NASA’s Swift telescope will face a fiery demise after a failed rescue",
-   "summary": "Designed to study the powerful outbursts, the Swift Observatory quickly contributed to a wide range of discoveries. Now, it's about to meet a fiery fate.",
-   "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102926_MB_RIPSwift_main.jpg?w=800",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:00:00+00:00"
-  },
-  {
-   "id": "ai-an-updated-model-spec-for-more-capable-and-beneficial-ai",
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-   "url": "https://openai.com/index/updated-model-spec",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:00:00+00:00",
-   "rank": 0
-  },
-  {
    "id": "the-world-s-largest-known-sponge-is-the-size-of-a-minivan-an",
    "title": "The World's Largest Known Sponge Is The Size of a Minivan – And Its Species Is a Mystery",
    "summary": "Ancient and deep. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
@@ -473,19 +500,6 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T15:00:00+00:00"
-  },
-  {
-   "id": "a-new-map-of-empty-space-challenges-a-tranquil-picture-of-th",
-   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
-   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
-   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:52:05+00:00"
   },
   {
    "id": "figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radi",
@@ -541,17 +555,147 @@
    "ts": "2026-10-30T04:30:00+00:00"
   },
   {
-   "id": "different-transcription-systems-shape-chromatin-behavior-in",
-   "title": "Different transcription systems shape chromatin behavior in distinct nuclear regions",
-   "summary": "Inside the cell nucleus, DNA is wrapped around histone proteins to form nucleosomes, which are further organized into chromatin.",
-   "url": "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html",
+   "id": "four-new-frog-species-reveal-more-of-peru-s-biodiversity",
+   "title": "Four new frog species reveal more of Peru's biodiversity",
+   "summary": "Science can't study a species—or unlock its potential to change the world—until people actually know it exists. Four new species of frogs have now been given names, thanks to the efforts of FIU biologist Alessandro…",
+   "url": "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/different-transcriptio.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/racing-bulldozers-biol.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T17:00:11+00:00"
+   "ts": "2026-10-30T20:00:02+00:00"
+  },
+  {
+   "id": "this-gamma-ray-burst-wasn-t-dim-it-was-just-misunderstood",
+   "title": "This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood",
+   "summary": "In March 2026, NASA's Fermi Gamma-ray Space Telescope detected a GRB with an unusual light signature. Its initial gamma radiation was dim, and the afterglow exhibited unusual, delayed peaks.",
+   "url": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Low-Res_Fortuna_Yang_BHianca_press_release_2026_w_LBTlos_20261030_161957.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:20:24+00:00"
+  },
+  {
+   "id": "nasa-s-james-webb-space-telescope-captures-eerie-cat-s-head",
+   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+   "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
+   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:56:26+00:00"
+  },
+  {
+   "id": "star-trek-s-william-shatner-and-george-takei-honor-the-deat",
+   "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
+   "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
+   "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/z4xEW3F3mcd2rwCKwzzC6M-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "nasa-s-swift-telescope-will-face-a-fiery-demise-after-a-fail",
+   "title": "NASA’s Swift telescope will face a fiery demise after a failed rescue",
+   "summary": "Designed to study the powerful outbursts, the Swift Observatory quickly contributed to a wide range of discoveries. Now, it's about to meet a fiery fate.",
+   "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102926_MB_RIPSwift_main.jpg?w=800",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "a-new-map-of-empty-space-challenges-a-tranquil-picture-of-th",
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
+   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:52:05+00:00"
+  },
+  {
+   "id": "philadelphia-s-academy-of-natural-sciences-just-closed-a-blo",
+   "title": "Philadelphia’s Academy of Natural Sciences just closed – a blow for budding young scientists like me",
+   "summary": "Generations of young Philadelphians experienced science firsthand by wandering through Dinosaur Hall, examining dozens of wildlife dioramas or visiting the butterfly garden.",
+   "url": "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/767081/original/file-20261019-60-pd79xz.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T12:08:59+00:00"
+  },
+  {
+   "id": "the-asteroid-killed-the-dinosaurs-why-did-crocodiles-survive",
+   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T11:34:16+00:00"
+  },
+  {
+   "id": "bright-object-beyond-pluto-may-be-the-solar-system-s-sixth-d",
+   "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
+   "summary": "The Vera C. Rubin Observatory has found what might be a new dwarf planet in our solar system, orbiting the sun on an inclined plane past Pluto.",
+   "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T21:05:05+00:00"
+  },
+  {
+   "id": "magnetic-sensors-track-muscle-movement-for-better-prosthetic",
+   "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
+   "summary": "Researchers hope to use these sensors to help people with amputation achieve more natural movements with their prosthetic limbs.",
+   "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Magnetic-Tracking-01-press.jpg?itok=2gCA_g8R",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T10:00:00+00:00"
+  },
+  {
+   "id": "how-a-tropical-shortcut-could-help-particle-collider-experim",
+   "title": "How a 'tropical' shortcut could help particle collider experiments",
+   "summary": "Particle accelerators are expensive. Not just to build or to run, but also to predict the outcome of measurements obtained from them.",
+   "url": "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-a-tropical-shortcu-1.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T19:40:01+00:00"
   },
   {
    "id": "nasa-explores-potential-commercial-servicing-for-hubble-tele",
@@ -593,30 +737,17 @@
    "ts": "2026-10-30T13:00:00+00:00"
   },
   {
-   "id": "philadelphia-s-academy-of-natural-sciences-just-closed-a-blo",
-   "title": "Philadelphia’s Academy of Natural Sciences just closed – a blow for budding young scientists like me",
-   "summary": "Generations of young Philadelphians experienced science firsthand by wandering through Dinosaur Hall, examining dozens of wildlife dioramas or visiting the butterfly garden.",
-   "url": "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/767081/original/file-20261019-60-pd79xz.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T12:08:59+00:00"
-  },
-  {
-   "id": "the-asteroid-killed-the-dinosaurs-why-did-crocodiles-survive",
-   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "id": "hubble-reveals-a-stunning-twist-in-how-the-universe-emerged",
+   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+   "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
    "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
+   "image": "https://www.sciencedaily.com/images/1920/winds-after-light.webp",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T11:34:16+00:00"
+   "ts": "2026-10-30T10:50:22+00:00"
   },
   {
    "id": "how-you-squeeze-planetary-minerals-changes-everything",
@@ -632,17 +763,17 @@
    "ts": "2026-10-30T02:28:22+00:00"
   },
   {
-   "id": "bright-object-beyond-pluto-may-be-the-solar-system-s-sixth-d",
-   "title": "Bright object beyond Pluto may be the solar system's sixth dwarf planet",
-   "summary": "The Vera C. Rubin Observatory has found what might be a new dwarf planet in our solar system, orbiting the sun on an inclined plane past Pluto.",
-   "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
+   "id": "decapitated-man-buried-near-fort-in-roman-era-scotland-gets",
+   "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
+   "summary": "See the new facial reconstruction of a man from Roman-era Scotland who was decapitated after his death and buried near a Roman fort.",
+   "url": "https://www.livescience.com/archaeology/romans/decapitated-man-buried-near-fort-in-roman-era-scotland-gets-a-new-virtual-face",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/pgQBrYdsER7YAMRSuByFyG-1920-80.jpg",
    "tags": [
-    "Space"
+    "Health"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T21:05:05+00:00"
+   "ts": "2026-10-29T18:00:13+00:00"
   },
   {
    "id": "how-do-you-take-a-picture-of-a-black-hole",
@@ -658,110 +789,6 @@
    "ts": "2026-10-29T15:11:57+00:00"
   },
   {
-   "id": "magnetic-sensors-track-muscle-movement-for-better-prosthetic",
-   "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
-   "summary": "Researchers hope to use these sensors to help people with amputation achieve more natural movements with their prosthetic limbs.",
-   "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Magnetic-Tracking-01-press.jpg?itok=2gCA_g8R",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T10:00:00+00:00"
-  },
-  {
-   "id": "supercharged-molecule-highway-membrane-that-speeds-water-tra",
-   "title": "Supercharged 'molecule highway' membrane that speeds water transport could transform industrial processing",
-   "summary": "New membrane technology delivering faster and more precise molecule separation could improve the efficiency and sustainability of energy-intensive industrial processes—from purifying chemicals and recovering valuable…",
-   "url": "https://phys.org/news/2026-10-supercharged-molecule-highway-membrane-industrial.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/professor-xiwang-zhang.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T16:40:08+00:00"
-  },
-  {
-   "id": "ghostly-cat-s-head-nebula-haunts-the-cosmos-space-photo-of-t",
-   "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
-   "summary": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos.",
-   "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:00:00+00:00"
-  },
-  {
-   "id": "hubble-reveals-a-stunning-twist-in-how-the-universe-emerged",
-   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-   "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/winds-after-light.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:50:22+00:00"
-  },
-  {
-   "id": "november-s-night-sky-notes-light-day-away",
-   "title": "November’s Night Sky Notes: Light-Day Away",
-   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
-   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-   "source": "NASA",
-   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:00:00+00:00"
-  },
-  {
-   "id": "it-s-a-ghost-no-it-s-a-stellar-cr-che",
-   "title": "It's a Ghost! No, It's a Stellar Crèche!",
-   "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation…",
-   "url": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/reaper_20261029_231145.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T23:25:37+00:00"
-  },
-  {
-   "id": "decapitated-man-buried-near-fort-in-roman-era-scotland-gets",
-   "title": "Decapitated man buried near fort in Roman-era Scotland gets a new virtual face",
-   "summary": "See the new facial reconstruction of a man from Roman-era Scotland who was decapitated after his death and buried near a Roman fort.",
-   "url": "https://www.livescience.com/archaeology/romans/decapitated-man-buried-near-fort-in-roman-era-scotland-gets-a-new-virtual-face",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/pgQBrYdsER7YAMRSuByFyG-1920-80.jpg",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:00:13+00:00"
-  },
-  {
-   "id": "seabirds-get-jet-lag-too-and-it-can-throw-them-a-bit-off-cou",
-   "title": "Seabirds get jet lag, too — and it can throw them a bit off course",
-   "summary": "GPS tracking reveals fast east-west flights lead to a mismatch between birds' internal time and the sun’s position, skewing their sense of direction.",
-   "url": "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_AM_bird-jetlag_main.jpg?w=800",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:00:00+00:00"
-  },
-  {
    "id": "capturing-the-complete-process-of-embryonic-development",
    "title": "Capturing the complete process of embryonic development",
    "summary": "By tracking over 1 million cells, researchers created a detailed map of embryonic development in mice. It could provide development and disease insights.",
@@ -773,19 +800,6 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T20:30:00+00:00"
-  },
-  {
-   "id": "how-spiders-spin-silk-dope-into-nature-s-toughest-material",
-   "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-   "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.",
-   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Default.webp",
-   "tags": [
-    "Tech"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T16:04:18+00:00"
   },
   {
    "id": "earwax-is-both-slippery-and-sticky-this-weird-combo-might-le",
@@ -801,30 +815,43 @@
    "ts": "2026-10-27T18:12:53+00:00"
   },
   {
-   "id": "researchers-create-light-activated-cages-for-protein-killer",
-   "title": "Researchers create light-activated cages for 'protein killer' molecules",
-   "summary": "Researchers have created a molecular \"cage\" that keeps protein-degrading drug molecules inactive until they are exposed to low-energy red light.",
-   "url": "https://phys.org/news/2026-10-cages-protein-killer-molecules.html",
+   "id": "novel-chemical-reaction-expands-options-for-building-dna-enc",
+   "title": "Novel chemical reaction expands options for building DNA-encoded libraries",
+   "summary": "Finding new drugs requires screening vast numbers of compounds to identify those that interact with a biological target. DNA-encoded libraries (DELs) help researchers explore these large collections by attaching a short…",
+   "url": "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-lig.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-chemical-reaction-1.jpg",
    "tags": [
-    "Physics"
+    "Biology"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T16:00:01+00:00"
+   "ts": "2026-10-30T19:20:06+00:00"
   },
   {
-   "id": "look-up-china-s-mysterious-space-plane-is-visible-over-the-u",
-   "title": "Look up! China's mysterious space plane is visible over the US this week",
-   "summary": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
-   "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
+   "id": "ghostly-cat-s-head-nebula-haunts-the-cosmos-space-photo-of-t",
+   "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
+   "summary": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos.",
+   "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/amqKDMCMR4gvvfHM2ovuGS-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T11:45:42+00:00"
+   "ts": "2026-10-30T14:00:00+00:00"
+  },
+  {
+   "id": "november-s-night-sky-notes-light-day-away",
+   "title": "November’s Night Sky Notes: Light-Day Away",
+   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
+   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+   "source": "NASA",
+   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T10:00:00+00:00"
   },
   {
    "id": "astronauts-just-gave-the-international-space-station-a-power",
@@ -840,30 +867,30 @@
    "ts": "2026-10-30T06:12:55+00:00"
   },
   {
-   "id": "apod-2026-october-30-haunting-the-cepheus-flare",
-   "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-   "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&#038;h=1391&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T04:05:00+00:00"
-  },
-  {
-   "id": "examining-the-cat-s-head-nebula-with-the-hubble-and-jwst",
-   "title": "Examining the Cat's Head Nebula with the Hubble and JWST",
-   "summary": "Star formation is a complicated process. It involves metallicity, gas temperature and density, dust grains, and stellar feedback from existing stars.",
-   "url": "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst",
+   "id": "it-s-a-ghost-no-it-s-a-stellar-cr-che",
+   "title": "It's a Ghost! No, It's a Stellar Crèche!",
+   "summary": "Astronomers using the Chandra X-ray Observatory (CXO), the James Webb Space Telescope (JWST) zeroed in on a wispy-looking region of the Carina Nebula and found a ghostly looking cloud seemingly floating in isolation…",
+   "url": "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/weic2622b_20261029_190519.jpg",
+   "image": "https://www.universetoday.com/article_images/reaper_20261029_231145.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T22:38:52+00:00"
+   "ts": "2026-10-29T23:25:37+00:00"
+  },
+  {
+   "id": "seabirds-get-jet-lag-too-and-it-can-throw-them-a-bit-off-cou",
+   "title": "Seabirds get jet lag, too — and it can throw them a bit off course",
+   "summary": "GPS tracking reveals fast east-west flights lead to a mismatch between birds' internal time and the sun’s position, skewing their sense of direction.",
+   "url": "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_AM_bird-jetlag_main.jpg?w=800",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T18:00:00+00:00"
   },
   {
    "id": "neanderthal-dna-still-survives-in-our-human-family-tree-what",
@@ -879,19 +906,6 @@
    "ts": "2026-10-29T16:00:00+00:00"
   },
   {
-   "id": "a-striking-mars-cloud-may-be-born-from-surprising-physics",
-   "title": "A striking Mars cloud may be born from surprising physics",
-   "summary": "Everyday Earth clouds get their start with a bit of salt or dust. Not so the Red Planet's Arsia Mons Elongated Cloud, computer models suggest.",
-   "url": "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_AS_strangeMarscloud_main.jpg?w=800",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T12:00:00+00:00"
-  },
-  {
    "id": "how-the-biggest-alzheimer-s-risk-gene-disrupts-the-process-o",
    "title": "How the biggest Alzheimer’s risk gene disrupts the process of insulating neurons",
    "summary": "MIT researchers showed that the APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons and also demonstrated a proof-of-concept fix.",
@@ -905,43 +919,56 @@
    "ts": "2026-10-28T18:25:00+00:00"
   },
   {
-   "id": "malaria-parasite-caught-in-the-act-of-breaking-and-entering",
-   "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
-   "summary": "To invade red blood cells, the deadly protist creates a temporary molecular portal that disappears behind it — a door we can now see in fine detail.",
-   "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/",
+   "id": "how-spiders-spin-silk-dope-into-nature-s-toughest-material",
+   "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
+   "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.",
+   "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
    "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/MalariaPortal-cr-Ada-Zejun-Shen-Default.webp",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Default.webp",
    "tags": [
-    "Biology"
+    "Tech"
    ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T14:54:10+00:00"
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:04:18+00:00"
   },
   {
-   "id": "quantum-skyrmions-outlast-entanglement-hinting-at-more-resil",
-   "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
-   "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication.",
-   "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+   "id": "ute-reveals-two-flavors-of-superconductivity-under-extreme-p",
+   "title": "UTe₂ reveals two flavors of superconductivity under extreme pressure",
+   "summary": "Quantum researchers are searching for a topological superconductor—a material that, if discovered, would allow major advances in quantum computing by combining two distinct \"flavors\" of superconductivity.",
+   "url": "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-skyrmions-coul.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/two-flavors-of-superco.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T15:40:01+00:00"
+   "ts": "2026-10-30T19:00:09+00:00"
   },
   {
-   "id": "think-halloween-is-scary-this-scorched-alien-world-is-a-real",
-   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
-   "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+   "id": "look-up-china-s-mysterious-space-plane-is-visible-over-the-u",
+   "title": "Look up! China's mysterious space plane is visible over the US this week",
+   "summary": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
+   "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
+   "image": "https://cdn.mos.cms.futurecdn.net/amqKDMCMR4gvvfHM2ovuGS-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T10:00:00+00:00"
+   "ts": "2026-10-30T11:45:42+00:00"
+  },
+  {
+   "id": "apod-2026-october-30-haunting-the-cepheus-flare",
+   "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+   "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&#038;h=1391&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T04:05:00+00:00"
   },
   {
    "id": "scientists-discover-mysterious-seahorse-lookalikes-that-no-o",
@@ -955,6 +982,84 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T02:07:19+00:00"
+  },
+  {
+   "id": "examining-the-cat-s-head-nebula-with-the-hubble-and-jwst",
+   "title": "Examining the Cat's Head Nebula with the Hubble and JWST",
+   "summary": "Star formation is a complicated process. It involves metallicity, gas temperature and density, dust grains, and stellar feedback from existing stars.",
+   "url": "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/weic2622b_20261029_190519.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T22:38:52+00:00"
+  },
+  {
+   "id": "a-striking-mars-cloud-may-be-born-from-surprising-physics",
+   "title": "A striking Mars cloud may be born from surprising physics",
+   "summary": "Everyday Earth clouds get their start with a bit of salt or dust. Not so the Red Planet's Arsia Mons Elongated Cloud, computer models suggest.",
+   "url": "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_AS_strangeMarscloud_main.jpg?w=800",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T12:00:00+00:00"
+  },
+  {
+   "id": "new-simulation-shows-the-first-2-billion-years-of-the-univer",
+   "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
+   "summary": "A new program aims to help scientists figure out how the ingredients of the universe formed early galaxies, which lit up the cosmos after a \"dark age.\"",
+   "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/Ufy7nP8P8MCnr2dMVxKfWi-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T10:41:03+00:00"
+  },
+  {
+   "id": "implantable-device-uses-ultrasound-to-improve-drug-delivery",
+   "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
+   "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
+   "url": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_Brain-Ultrasound-01-press.jpg?itok=ahcXTK0H",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-26",
+   "ts": "2026-10-26T15:00:00+00:00"
+  },
+  {
+   "id": "a-decade-of-carbon-dioxide-data-from-space-gets-an-upgrade",
+   "title": "A decade of carbon dioxide data from space gets an upgrade",
+   "summary": "Every day, two NASA space instruments known as the Orbiting Carbon Observatory-2 and -3 (OCO-2 and OCO-3) capture more than a million observations of sunlight reflecting off Earth's surface.",
+   "url": "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/this-circular-view-of-1.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T18:40:08+00:00"
+  },
+  {
+   "id": "think-halloween-is-scary-this-scorched-alien-world-is-a-real",
+   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+   "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T10:00:00+00:00"
   },
   {
    "id": "map-showing-potential-origins-of-martian-meteorite-teghaza-0",
@@ -983,17 +1088,30 @@
    "ts": "2026-10-29T18:25:52+00:00"
   },
   {
-   "id": "new-simulation-shows-the-first-2-billion-years-of-the-univer",
-   "title": "New simulation shows the first 2 billion years of the universe's history play out in stunning detail",
-   "summary": "A new program aims to help scientists figure out how the ingredients of the universe formed early galaxies, which lit up the cosmos after a \"dark age.\"",
-   "url": "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/Ufy7nP8P8MCnr2dMVxKfWi-1920-80.jpg",
+   "id": "six-popular-sugar-substitutes-linked-to-faster-brain-aging",
+   "title": "Six popular sugar substitutes linked to faster brain aging",
+   "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
    "tags": [
-    "Space"
+    "Biology"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T10:41:03+00:00"
+   "ts": "2026-10-29T13:04:04+00:00"
+  },
+  {
+   "id": "study-reveals-new-clues-to-why-colorectal-cancer-in-young-pe",
+   "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
+   "summary": "Colorectal cancer in young people shows genetic and structural differences that may make it more aggressive and treatment-resistant than the cancer tends to be in older people.",
+   "url": "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/8A9X96tqvDNiDCYZgJsXpe-1920-80.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T10:00:00+00:00"
   },
   {
    "id": "why-do-flamingos-dance-while-they-eat-this-scientist-found-o",
@@ -1009,30 +1127,30 @@
    "ts": "2026-10-28T12:29:30+00:00"
   },
   {
-   "id": "implantable-device-uses-ultrasound-to-improve-drug-delivery",
-   "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
-   "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
-   "url": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+   "id": "watch-the-universe-emerge-from-the-dark-ages-with-lumina",
+   "title": "Watch the universe emerge from the dark ages, with Lumina",
+   "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
+   "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
    "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_Brain-Ultrasound-01-press.jpg?itok=ahcXTK0H",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Lumina-01-press.jpg?itok=bg-qRiOR",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-26",
+   "ts": "2026-10-26T04:00:00+00:00"
+  },
+  {
+   "id": "global-wildlife-trade-is-twice-previous-species-estimates-bu",
+   "title": "Global wildlife trade is twice previous species estimates, but major data gaps suggest true scale is even larger",
+   "summary": "More than 107,000 species are used and traded worldwide, more than double previous estimates, according to new research that suggests the true scale may be far greater due to major gaps in trade and wildlife collection…",
+   "url": "https://phys.org/news/2026-10-global-wildlife-previous-species-major.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/pangolin.jpg",
    "tags": [
     "Biology"
    ],
-   "date": "2026-10-26",
-   "ts": "2026-10-26T15:00:00+00:00"
-  },
-  {
-   "id": "scientists-find-that-a-10-millisecond-flash-could-help-build",
-   "title": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
-   "summary": "Nitrogen dioxide is a harmful gas that requires sensitive detection. Researchers used intense light pulses lasting 10 milliseconds to make molybdenum disulfide flakes and anchor isolated metal atoms in one step.",
-   "url": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hanyang-university-eri-4.jpg",
-   "tags": [
-    "Physics"
-   ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T15:20:15+00:00"
+   "ts": "2026-10-30T18:00:01+00:00"
   },
   {
    "id": "patrick-stewart-renowned-actor-and-star-trek-s-captain-picar",
@@ -1072,113 +1190,23 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T15:46:02+00:00"
-  },
-  {
-   "id": "six-popular-sugar-substitutes-linked-to-faster-brain-aging",
-   "title": "Six popular sugar substitutes linked to faster brain aging",
-   "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T13:04:04+00:00"
-  },
-  {
-   "id": "study-reveals-new-clues-to-why-colorectal-cancer-in-young-pe",
-   "title": "Study reveals new clues to why colorectal cancer in young people is so deadly",
-   "summary": "Colorectal cancer in young people shows genetic and structural differences that may make it more aggressive and treatment-resistant than the cancer tends to be in older people.",
-   "url": "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/8A9X96tqvDNiDCYZgJsXpe-1920-80.jpg",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T10:00:00+00:00"
-  },
-  {
-   "id": "comets-probably-didn-t-deliver-life-s-building-blocks-to-ear",
-   "title": "Comets probably didn’t deliver life’s building blocks to Earth",
-   "summary": "Most comets would have hit Earth with too much speed and at too sharp an angle for life-giving molecules to survive impact, a new study suggests.",
-   "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102826_SW_comets-prebiotic-chem_main.jpg?w=800",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T10:00:00+00:00"
-  },
-  {
-   "id": "watch-the-universe-emerge-from-the-dark-ages-with-lumina",
-   "title": "Watch the universe emerge from the dark ages, with Lumina",
-   "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
-   "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Lumina-01-press.jpg?itok=bg-qRiOR",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-26",
-   "ts": "2026-10-26T04:00:00+00:00"
-  },
-  {
-   "id": "customizable-nanoparticles-show-potential-for-delivering-per",
-   "title": "Customizable nanoparticles show potential for delivering personalized cancer vaccines",
-   "summary": "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines.",
-   "url": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mit-engineers-create-n.jpg",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T15:00:43+00:00"
-  },
-  {
-   "id": "on-this-day-in-space-oct-29-1991-nasa-s-galileo-spacecraft-f",
-   "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
-   "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/s9xRrSr9vGL7naKG9VhkcG-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T21:28:58+00:00"
-  },
-  {
-   "id": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever",
-   "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-   "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound…",
-   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:18:09+00:00"
-  },
-  {
-   "id": "nasa-discovers-jupiter-s-invisible-shield-is-more-complex-th",
-   "title": "NASA discovers Jupiter’s invisible shield is more complex than Earth’s",
-   "summary": "NASA’s Juno spacecraft has discovered that Jupiter uses a surprisingly complex system of powerful plasma waves and multiple shock regions to defend against the solar wind.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028232715.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/jupiters-bow-shock.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T12:26:25+00:00"
   }
  ],
  "ai": [
+  {
+   "id": "ai-ai-security-agents-compared-claude-codex-mantis-cloudfla",
+   "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+   "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.",
+   "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:34:15+00:00",
+   "rank": 0
+  },
   {
    "id": "ai-samaya-ai-releases-sterling-a-3b-active-finance-research",
    "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
@@ -1191,20 +1219,6 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T07:26:12+00:00",
-   "rank": 0
-  },
-  {
-   "id": "ai-an-updated-model-spec-for-more-capable-and-beneficial-ai",
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-   "url": "https://openai.com/index/updated-model-spec",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T17:00:00+00:00",
    "rank": 0
   },
   {
@@ -1264,6 +1278,20 @@
    "rank": 1
   },
   {
+   "id": "ai-meet-tokeneconomizer-microsoft-s-plugin-that-cuts-coding",
+   "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+   "summary": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent.",
+   "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:53:37+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-edge0-releases-audio8-tts-realistic-a-0-6b-voice-cloning",
    "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
    "summary": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final GRPO stage driven by a learned realism critic.",
@@ -1289,20 +1317,6 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T21:20:29+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-prime-intellect-releases-prime-mega-moe-trainable-fused",
-   "title": "Prime Intellect Releases Prime Mega MoE: Trainable Fused MoE Kernel, 3.11x Faster Forward Pass",
-   "summary": "Prime Intellect released Prime Mega MoE, a backward pass for DeepSeek’s fused Mega MoE kernel. It makes the kernel trainable and speeds Qwen3 MoE training steps by up to 34% in prime-rl.",
-   "url": "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1209-2-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:28:57+00:00",
    "rank": 2
   },
   {

@@ -56,9 +56,6 @@
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
- "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
-  "s": "Researchers used advanced imaging techniques to capture the malaria parasite in the act of entering red blood cells. This discovery reveals the structure of a ring-shaped structure called the moving junction, which allows the parasite to temporarily breach the cell membrane."
- },
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
@@ -98,10 +95,6 @@
  "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/": {
   "s": "Probing spider silk's molecular structure, biologists are discovering how proteins transform into a tough, flexible thread. This knowledge is crucial for developing spider silk-based materials that could be used in various applications, from seat belts to medical scaffolds."
  },
- "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
@@ -110,9 +103,6 @@
  },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
- },
- "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/": {
-  "s": "North American robot orders grew 24.8% in Q3 of 2026, according to A3. This growth occurred as automotive component orders nearly doubled and other sectors saw strong gains, despite earlier declines in automotive orders."
  },
  "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028": {
   "s": "Researchers at MIT, tracking over a million cells, created a detailed map of embryonic development in mice. This could provide insights into development and diseases, offering a comprehensive view of how cells form tissues and organs."
@@ -134,10 +124,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261028234238.htm": {
   "s": "A study found that people who consumed the most sugar substitutes showed a faster decline in memory and thinking skills, equivalent to 1.6 extra years of brain aging. This suggests that while sweeteners are marketed as healthier alternatives, they might not be as beneficial for long-term brain health as previously thought."
- },
- "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
   "s": "Over a week ago, IBM Granite updated its language model configuration system, allowing users to add specialized expertise through cache-efficient adapters without needing to retrain the base model. This update demonstrates how efficiently the team can release new features, showing developers how to update and improve models like they do with software."
@@ -168,9 +154,6 @@
  "https://www.universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water": {
   "s": "No comets or asteroids were needed to deliver Earth's water, as the planet may have formed with substantial amounts of hydrogen and needed only oxygen to create water. This finding challenges the prevailing theory that comets and asteroids delivered Earth's water, offering a new perspective on the planet's habitability."
  },
- "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/": {
-  "s": "NASA-funded scientists later dated its minerals, revealing it to be a 4.1 billion-year-old piece of Mars, one of the oldest ever found. Understanding its unique mineral composition could help answer many questions about Mars' geological history."
- },
  "https://www.livescience.com/archaeology/romans/decapitated-man-buried-near-fort-in-roman-era-scotland-gets-a-new-virtual-face": {
   "s": "",
   "why": "too little source text"
@@ -187,10 +170,6 @@
  "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": {
   "s": "Crew members aboard the International Space Station still celebrate Halloween by dressing up in costumes, sometimes spooky, sometimes scary. This tradition shows how astronauts maintain a sense of normalcy and fun in space."
  },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -201,9 +180,6 @@
  },
  "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
   "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
- },
- "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/": {
-  "s": "Prime Intellect released Prime Mega MoE, a kernel that speeds up the training of DeepSeek’s MoE models. This kernel is faster by up to 34% in prime-rl, reducing communication bottlenecks by fusing and overlapping operations. Why it matters: MoE training is slow due to waiting times for data transfer. Prime Mega MoE tackles this by overlapping computations and using scratch buffers, making the forward pass significantly faster."
  },
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
@@ -279,10 +255,6 @@
  "https://www.therobotreport.com/robobusiness-2026-recap/": {
   "s": "The RoboBusiness 2026 event concluded with a recap by The Robot Report editorial team. The event featured notable panels and sessions, including discussions on AI in production robotics and best practices for autonomous robot operation. The 20th anniversary event marked the end of the RoboBusiness brand, with the summit renaming to Robotics Summit West for future editions."
  },
- "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood": {
   "s": "NASA's Fermi Gamma-ray Space Telescope observed a gamma-ray burst (GRB) on March 10, 2026, that emitted a gamma-ray flash lasting nearly one minute, significantly longer than usual. This unusual behavior of the burst suggests its source may be more complex or distant, requiring further study to fully understand its nature and origin."
  },
@@ -299,18 +271,11 @@
  "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst": {
   "s": "NASA’s Swift telescope, launched in 2004, has been studying gamma-ray bursts, the most powerful cosmic events. Swift’s ability to respond quickly to bursts has made it a cornerstone of modern astronomy, lasting far longer than expected. Now, the spacecraft is running out of altitude and will burn up in Earth’s atmosphere soon."
  },
- "https://openai.com/index/updated-model-spec": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencealert.com/the-worlds-largest-known-sponge-is-the-size-of-a-minivan-and-its-species-is-a-mystery": {
   "s": "The largest sponge ever found, about the size of a minivan, was discovered by NOAA scientists in the Pacific Ocean. Its species remains unidentified, despite the researchers encountering only two apparent representatives during their expedition."
  },
  "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
   "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
- },
- "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html": {
-  "s": "Different transcription systems influence chromatin motion in distinct regions of the nucleus. Researchers found that nucleosome motion becomes more restricted from euchromatin to heterochromatin, but transcription does not uniformly constrain chromatin throughout the nucleus."
  },
  "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/": {
   "s": "NASA seeks industry proposals to boost Hubble to a higher orbit to extend its science lifetime. The telescope is at risk of re-entry in 2033, and extending its life would mean more discoveries and expanded understanding of the universe."
@@ -318,22 +283,6 @@
  "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-supercharged-molecule-highway-membrane-industrial.html": {
-  "s": "New membrane technology allows molecules to move faster through membranes without compromising separation precision, potentially reducing energy consumption in industrial processes. Researchers discovered that adding self-rotating ammonium ions to tiny channels less than one nanometer wide could improve molecular transport."
- },
- "https://phys.org/news/2026-10-cages-protein-killer-molecules.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html": {
-  "s": "Quantum skyrmions outlast entanglement, hinting at more resilient networks. Researchers from the University of Pennsylvania showed that a distinctive pattern in light polarization, called a skyrmion, can transfer information between entangled photons even when the entanglement is disrupted. This suggests a way to build more reliable quantum networks."
- },
- "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html": {
-  "s": "Scientists found that a 10-millisecond flash of intense light can help create more sensitive gas sensors. This approach could improve detection of harmful gases like nitrogen dioxide. Adding platinum to the material enhanced its sensitivity to nitrogen dioxide, reaching high response levels at low concentrations."
- },
- "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html": {
-  "s": "Researchers at MIT developed a nanoscale particle with a unique structure that can be customized to deliver personalized cancer vaccines. The vaccine uses a harmless bacteriophage M13, which can be coated with cancer antigens to prevent tumor growth in mice. The senior author, Angela Belcher, suggests the particle could be adapted to carry different antigens for personalized treatment of individual patients."
  },
  "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
   "s": "Gemini 4 Carbon is the next model from the organization, boasting advanced cybersecurity and long-term capabilities. It ranks highest in artificial intelligence analysis and excels in tasks like finding vulnerabilities, exploiting weaknesses, and patching security flaws. The announcement follows the release of Gemini 4 Argon, indicating the organization's commitment to advancing model capabilities and strengthening security."
@@ -350,5 +299,57 @@
  },
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A robot designed to slow for someone in a hallway can still respond as programmed if someone is in the way. This matters because robots designed to ensure safety can be misled by manipulated information, altering their intended actions."
+ },
+ "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/": {
+  "s": "NASA will display its X-59 quiet supersonic plane at MAX POWER, an aerospace expo and air show. The event showcases future technologies and features, including Moon rovers and spacecraft, and offers opportunities to meet NASA leaders and experts."
+ },
+ "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/": {
+  "s": "All four security AI agents compare similar processes: finding bugs, disproving them independently, and applying patches. The key finding is they all converge on a similar design. This convergence is significant because it suggests a common solution to a problem: excessive false positives in AI-driven code scanning, which can waste time and resources."
+ },
+ "https://www.quantamagazine.org/is-there-more-to-cold-fusion-than-failure-and-fraud-20261030/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past": {
+  "s": "A meteorite named Teghaza 001, found in Mali, is extremely ancient, about 4.1 billion years old. Such a young meteorite provides unique insights into Mars' early crust and mantle, suggesting conditions more Earth-like than previously thought."
+ },
+ "https://www.space.com/space-exploration/the-rocket-scientist-who-summoned-demons-the-true-horror-story-of-jack-parsons": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
+  "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
+ },
+ "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html": {
+  "s": "Four new frog species have been discovered near Peru's Cordillera Azul National Park, thanks to efforts by biologist Alessandro Catenazzi. Naming a species matters because it helps biologists understand and potentially harness the unique characteristics of each organism, which could lead to medical advancements."
+ },
+ "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html": {
+  "s": "Some researchers have found a shortcut to make predictions for particle collider experiments more efficiently. This shortcut, called tropical QFT, simplifies the complex calculations needed to predict outcomes, potentially making expensive simulations more feasible."
+ },
+ "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html": {
+  "s": "Researchers have developed a new chemical reaction that enables the coupling of carbonyl compounds with other molecules, including those containing double bonds. This reaction preserves DNA sequences, expanding the types of compounds that can be included in DNA-encoded libraries, thus aiding in the identification of compounds that interact with biological targets."
+ },
+ "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html": {
+  "s": "Researchers are searching for a topological superconductor that could revolutionize quantum computing. Uranium ditelluride has been found to exhibit two distinct flavors of superconductivity, setting it apart as a promising candidate. However, it remains to be proven that these flavors can combine to form a topological superconductor."
+ },
+ "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html": {
+  "s": "Every day, two NASA space instruments continuously monitor sunlight reflecting off Earth's surface, generating more than a million observations. New algorithms have enhanced these instruments' ability to measure atmospheric carbon dioxide concentrations, improving the accuracy of global CO₂ records since 2014. The updated data helps scientists better understand carbon cycles, track CO₂ accumulation, and compare with ground-based measurements."
+ },
+ "https://phys.org/news/2026-10-global-wildlife-previous-species-major.html": {
+  "s": "More than 107,000 species are used and traded globally, more than double previous estimates, according to new research. This suggests the true scale of wildlife trade may be even larger due to major data gaps. Researchers say information on extent and sustainability of trade is incomplete and fragmented. They highlight a need for better data to assess risks to biodiversity and identify species in decline."
+ },
+ "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
+  "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
+ },
+ "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/": {
+  "s": "Percepto introduced Axion, an AI platform that integrates inspection data from various sources. This move signifies Percepto's transition from focusing on hardware to developing software, enhancing operational intelligence for critical infrastructure."
+ },
+ "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
  }
 }
