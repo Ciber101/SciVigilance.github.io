@@ -113,9 +113,6 @@
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
  },
- "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
-  "s": "In ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain why some patients still feel pain despite medical treatment."
- },
  "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/": {
   "s": "Probing spider silk's molecular structure, biologists are discovering how proteins transform into a tough, flexible thread. This knowledge is crucial for developing spider silk-based materials that could be used in various applications, from seat belts to medical scaffolds."
  },
@@ -142,9 +139,6 @@
  "https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/": {
   "s": "North American robot orders grew 24.8% in Q3 of 2026, according to A3. This growth occurred as automotive component orders nearly doubled and other sectors saw strong gains, despite earlier declines in automotive orders."
  },
- "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031": {
-  "s": "NASA's new UV space telescope, named UVEX, will launch in 2031. UVEX will see in ultraviolet light, which is beyond human vision, revealing transient and calamitous events in the night sky that are hidden in visible light. UVEX will complement existing telescopes by providing a comprehensive survey of ultraviolet light across the sky."
- },
  "https://www.livescience.com/archaeology/bronze-age-sword-discovered-in-an-italian-lake-is-still-sharp-after-3-300-years": {
   "s": "",
   "why": "too little source text"
@@ -160,9 +154,6 @@
  },
  "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
   "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
- },
- "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/": {
-  "s": "Infini-AI-Lab released Hermit, an open-source framework that trains an external layer of instructions and tools for AI agents, leaving the core model and harness unchanged. This matters because it allows for more flexible and adaptable AI systems that can be edited without breaking the core, and it supports moving between different models and harnesses."
  },
  "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
   "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
@@ -231,10 +222,6 @@
   "s": "The NASA invites the public to send their name to Titan aboard the Dragonfly mission, a rotor-wing aircraft that will explore Titan, Saturn's largest moon. This mission offers the public the chance to be part of the first scientific flight over another world, marking a unique journey in human history."
  },
  "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
@@ -312,10 +299,6 @@
  "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html": {
   "s": "Scientists at St. Jude Children's Research Hospital discovered how a protein that influences mRNA decoding can be altered. This finding is significant because it provides new insights into how errors in mRNA decoding can lead to cancer growth, offering potential new targets for treatment."
  },
- "https://phys.org/news/2026-10-qinghaitibet-plateau-evolution-terrestrial-animals.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
   "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
  },
@@ -353,5 +336,20 @@
  },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "Genie 4 is a new world simulation model that enhances realism and interactive capabilities. It matters because it advances AGI by enabling safer, infinitely variable simulations for training robots and agents, and creating new interactive experiences."
+ },
+ "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html": {
+  "s": "A collaborative team identified a molecular mechanism that could enhance the magnetic compass responses in cryptochrome, a protein involved in magnetoreception. Their findings suggest that chiral rotation of a tryptophan residue can influence electron-spin polarization, potentially enhancing directional dependence. This could help migratory birds and other organisms use Earth's magnetic field for directional information."
+ },
+ "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
+  "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/": {
+  "s": "Spooky shapes in cosmic dust clouds drift through the night in the Cepheus constellation, visible in a distant molecular cloud complex. These shapes, like the Ghost Nebula, are signs of early star formation and provide insights into the universe's formation."
+ },
+ "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything": {
+  "s": "The researchers conducted experiments to simulate the extreme conditions inside planets, using lasers to compress magnesium oxide crystals to pressures and temperatures similar to those found in planetary interiors. Their findings could help solve mysteries about how magnesium oxide forms deep within planets, potentially providing insights into the composition and evolution of other worlds."
+ },
+ "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/": {
+  "s": "Edge0 released Audio8-TTS-Realistic, a 0.6B TTS model. It adds realism to voice cloning, supporting 23 languages and learning from matched human recordings. This model matters because it addresses synthetic speech's shortcomings, improving both speech quality and speaker similarity."
  }
 }
