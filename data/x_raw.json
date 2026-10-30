@@ -1,14 +1,103 @@
 {
   "data": [
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116244165071933550",
+      "created_at": "2026-10-30T19:01:41.000Z",
+      "edit_history_tweet_ids": [
+        "2116244165071933550"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 145,
+            "start": 136,
+            "tag": "SpaceArt"
+          },
+          {
+            "end": 151,
+            "start": 146,
+            "tag": "JWST"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Intricate structures within the Cat's Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
+            "display_url": "nasa.gov/image-article/…",
+            "end": 134,
+            "expanded_url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+            "start": 111,
+            "status": 200,
+            "title": "NASA's James Webb Space Telescope Captures Eerie Cat's Head - NASA",
+            "unwound_url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+            "url": "https://t.co/wVaWbV8r9F"
+          }
+        ]
+      },
+      "id": "2116244165071933550",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 2,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "NASA's James Webb Telescope reveals eerie \"cat's head\" nebula sculpted by stellar winds in the Carina Nebula.\n\nhttps://t.co/wVaWbV8r9F\n\n#SpaceArt #JWST",
+      "url": "https://x.com/i/status/2116244165071933550"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116198697709248605",
       "created_at": "2026-10-30T16:01:01.000Z",
       "edit_history_tweet_ids": [
         "2116198697709248605"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 130,
+            "start": 112,
+            "tag": "QuantumNetworking"
+          },
+          {
+            "end": 141,
+            "start": 131,
+            "tag": "Skyrmions"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication. But a fundamental obstacle stands in the way: Quantum information is extraordinarily ...",
+            "display_url": "phys.org/news/2026-10-q…",
+            "end": 110,
+            "expanded_url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+            "images": [
+              {
+                "height": 853,
+                "url": "https://pbs.twimg.com/news_img/2116198699596754944/KGVdLGtg?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116198699596754944/KGVdLGtg?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 87,
+            "status": 200,
+            "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+            "unwound_url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
+            "url": "https://t.co/019jwMjy8g"
+          }
+        ]
+      },
       "id": "2116198697709248605",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 3,
+        "impression_count": 5,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -18,11 +107,53 @@
       "url": "https://x.com/i/status/2116198697709248605"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116153410894577777",
       "created_at": "2026-10-30T13:01:04.000Z",
       "edit_history_tweet_ids": [
         "2116153410894577777"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 123,
+            "start": 109,
+            "tag": "SpaceIndustry"
+          },
+          {
+            "end": 138,
+            "start": 124,
+            "tag": "RocketScience"
+          }
+        ],
+        "urls": [
+          {
+            "description": "It's been a good week for ULA with a big NASA contract and Vulcan nearing return-to-flight.",
+            "display_url": "arstechnica.com/space/2026/10/…",
+            "end": 107,
+            "expanded_url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2116124596114255873/LgDd9Fc1?format=jpg&name=orig",
+                "width": 1152
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116124596114255873/LgDd9Fc1?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 84,
+            "status": 200,
+            "title": "Rocket Report: Winter is coming for Themis; Cowboy Space adds iron to the fire",
+            "unwound_url": "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+            "url": "https://t.co/XL3gVUnOOg"
+          }
+        ]
+      },
       "id": "2116153410894577777",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -35,11 +166,53 @@
       "url": "https://x.com/i/status/2116153410894577777"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116108137895985421",
       "created_at": "2026-10-30T10:01:10.000Z",
       "edit_history_tweet_ids": [
         "2116108137895985421"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 132,
+            "start": 115,
+            "tag": "Magnetoreception"
+          },
+          {
+            "end": 146,
+            "start": 133,
+            "tag": "Cryptochrome"
+          }
+        ],
+        "urls": [
+          {
+            "description": "A collaborative research team led by Yasuhiro Kobori at Kobe University, together with researchers from Toho University, Saitama University, Nagoya Institute of Technology and the University of Freiburg, ...",
+            "display_url": "phys.org/news/2026-10-s…",
+            "end": 113,
+            "expanded_url": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+            "images": [
+              {
+                "height": 676,
+                "url": "https://pbs.twimg.com/news_img/2116108138223136768/JUzq7bLh?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116108138223136768/JUzq7bLh?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 90,
+            "status": 200,
+            "title": "Small molecular twists may strengthen nature's magnetic compass",
+            "unwound_url": "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html",
+            "url": "https://t.co/Y6WS5IsFfy"
+          }
+        ]
+      },
       "id": "2116108137895985421",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 5,
@@ -52,11 +225,52 @@
       "url": "https://x.com/i/status/2116108137895985421"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116062872761733395",
       "created_at": "2026-10-30T07:01:18.000Z",
       "edit_history_tweet_ids": [
         "2116062872761733395"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 139,
+            "start": 134,
+            "tag": "APOD"
+          },
+          {
+            "end": 153,
+            "start": 140,
+            "tag": "CepheusFlare"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "science.nasa.gov/image-article/…",
+            "end": 132,
+            "expanded_url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+            "images": [
+              {
+                "height": 869,
+                "url": "https://pbs.twimg.com/news_img/2116019149377765376/g65RJ6Vi?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2116019149377765376/g65RJ6Vi?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 109,
+            "status": 200,
+            "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare - NASA Science",
+            "unwound_url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+            "url": "https://t.co/7EW4Zxt3Ak"
+          }
+        ]
+      },
       "id": "2116062872761733395",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 16,
@@ -69,11 +283,53 @@
       "url": "https://x.com/i/status/2116062872761733395"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2116017489079578792",
       "created_at": "2026-10-30T04:00:57.000Z",
       "edit_history_tweet_ids": [
         "2116017489079578792"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 116,
+            "start": 104,
+            "tag": "SolarEnergy"
+          },
+          {
+            "end": 129,
+            "start": 117,
+            "tag": "PowerBackup"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Plant design allows it to run on either stored solar heat or combustion.",
+            "display_url": "arstechnica.com/science/2026/1…",
+            "end": 102,
+            "expanded_url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2115883791340457984/WeVR2Gyp?format=jpg&name=orig",
+                "width": 1152
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115883791340457984/WeVR2Gyp?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 79,
+            "status": 200,
+            "title": "Turning a solar power system into its own backup",
+            "unwound_url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+            "url": "https://t.co/0tUmcMaiu7"
+          }
+        ]
+      },
       "id": "2116017489079578792",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 7,
@@ -86,14 +342,44 @@
       "url": "https://x.com/i/status/2116017489079578792"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115972260209291505",
       "created_at": "2026-10-30T01:01:14.000Z",
       "edit_history_tweet_ids": [
         "2115972260209291505"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 153,
+            "start": 138,
+            "tag": "SpaceHalloween"
+          },
+          {
+            "end": 168,
+            "start": 154,
+            "tag": "AstronautLife"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory",
+            "display_url": "nasa.gov/centers-and-fa…",
+            "end": 136,
+            "expanded_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+            "start": 113,
+            "status": 200,
+            "title": "Halloween Aboard the International Space Station  - NASA",
+            "unwound_url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+            "url": "https://t.co/3ms3eJNkF9"
+          }
+        ]
+      },
       "id": "2115972260209291505",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 4,
+        "impression_count": 6,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -103,11 +389,114 @@
       "url": "https://x.com/i/status/2115972260209291505"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115953858338054355",
+      "created_at": "2026-10-29T23:48:07.000Z",
+      "edit_history_tweet_ids": [
+        "2115953858338054355"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "1380711",
+            "start": 3,
+            "username": "salimismail"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Everyone’s terrified AI is coming for the jobs. I think that’s the ...",
+            "display_url": "youtu.be/tdEdPamsB_k",
+            "end": 131,
+            "expanded_url": "https://youtu.be/tdEdPamsB_k",
+            "images": [
+              {
+                "height": 720,
+                "url": "https://pbs.twimg.com/news_img/2115536627929853952/SdYWq7KH?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115536627929853952/SdYWq7KH?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 108,
+            "status": 200,
+            "title": "What if AI Takes your Job and its a Good thing",
+            "unwound_url": "https://www.youtube.com/watch?v=tdEdPamsB_k&feature=youtu.be",
+            "url": "https://t.co/G1xK2t2s4E"
+          }
+        ]
+      },
+      "id": "2115953858338054355",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 30
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115536580404252744",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @salimismail: “Maybe the greatest gift that AI could give humanity is not intelligence. It’s our time.”\n\nhttps://t.co/G1xK2t2s4E",
+      "url": "https://x.com/i/status/2115953858338054355"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115926936627380734",
       "created_at": "2026-10-29T22:01:08.000Z",
       "edit_history_tweet_ids": [
         "2115926936627380734"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 143,
+            "start": 128,
+            "tag": "QuantumPhysics"
+          },
+          {
+            "end": 154,
+            "start": 144,
+            "tag": "Cosmology"
+          }
+        ],
+        "urls": [
+          {
+            "description": "The word \"vacuum\" may conjure the image of empty space. Maybe you think of a region far outside the solar system without planets, debris, gas clouds or light. According to quantum theory, however, a vacuum ...",
+            "display_url": "phys.org/news/2026-10-q…",
+            "end": 126,
+            "expanded_url": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
+            "images": [
+              {
+                "height": 426,
+                "url": "https://pbs.twimg.com/news_img/2115926939349458944/I_BSsjQ4?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115926939349458944/I_BSsjQ4?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 103,
+            "status": 200,
+            "title": "How the quantum vacuum perturbs atoms, could shrink black holes and may have helped form galaxies",
+            "unwound_url": "https://phys.org/news/2026-10-quantum-vacuum-perturbs-atoms-black.html",
+            "url": "https://t.co/JNhRWQWA0W"
+          }
+        ]
+      },
       "id": "2115926936627380734",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 5,
@@ -120,14 +509,56 @@
       "url": "https://x.com/i/status/2115926936627380734"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115881960174498224",
       "created_at": "2026-10-29T19:02:25.000Z",
       "edit_history_tweet_ids": [
         "2115881960174498224"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 164,
+            "start": 158,
+            "tag": "Space"
+          },
+          {
+            "end": 172,
+            "start": 165,
+            "tag": "Nebula"
+          }
+        ],
+        "urls": [
+          {
+            "description": "NASA’s Hubble and Webb have captured a hauntingly dynamic star-forming scene, the Cat's Head Nebula located about 7,500 light-years away.",
+            "display_url": "science.nasa.gov/missions/hubbl…",
+            "end": 156,
+            "expanded_url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+            "images": [
+              {
+                "height": 1280,
+                "url": "https://pbs.twimg.com/news_img/2115811149438484480/zAL-D_uk?format=jpg&name=orig",
+                "width": 869
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115811149438484480/zAL-D_uk?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 133,
+            "status": 200,
+            "title": "Ghostly Cat’s Head Nebula Lurks Within Sight of NASA’s Hubble, Webb - NASA Science",
+            "unwound_url": "https://science.nasa.gov/missions/hubble/ghostly-cats-head-nebula-lurks-within-sight-of-nasas-hubble-webb/",
+            "url": "https://t.co/oACAjVmcon"
+          }
+        ]
+      },
       "id": "2115881960174498224",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 11,
+        "impression_count": 12,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -137,11 +568,41 @@
       "url": "https://x.com/i/status/2115881960174498224"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115836325735854465",
       "created_at": "2026-10-29T16:01:05.000Z",
       "edit_history_tweet_ids": [
         "2115836325735854465"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 126,
+            "start": 109,
+            "tag": "DragonflyMission"
+          },
+          {
+            "end": 140,
+            "start": 127,
+            "tag": "NASAExplorer"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero",
+            "display_url": "nasa.gov/news-release/e…",
+            "end": 107,
+            "expanded_url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+            "start": 84,
+            "status": 200,
+            "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA - NASA",
+            "unwound_url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+            "url": "https://t.co/LiEVk7adfe"
+          }
+        ]
+      },
       "id": "2115836325735854465",
+      "lang": "es",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 7,
@@ -154,11 +615,41 @@
       "url": "https://x.com/i/status/2115836325735854465"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115791008709628293",
       "created_at": "2026-10-29T13:01:00.000Z",
       "edit_history_tweet_ids": [
         "2115791008709628293"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 146,
+            "start": 129,
+            "tag": "StemCellResearch"
+          },
+          {
+            "end": 168,
+            "start": 147,
+            "tag": "RegenerativeMedicine"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Scientific Reports - Extracellular matrix-dependent regulation of epithelial identity and TGF-β signalling in iPSC-derived RPE",
+            "display_url": "nature.com/articles/s4159…",
+            "end": 127,
+            "expanded_url": "https://www.nature.com/articles/s41598-026-77439-z",
+            "start": 104,
+            "status": 200,
+            "title": "Extracellular matrix-dependent regulation of epithelial identity and TGF-β signalling in iPSC-derived RPE",
+            "unwound_url": "https://www.nature.com/articles/s41598-026-77439-z?error=cookies_not_supported&code=86e126fd-55b3-4dcf-84e1-5de809ac7da5",
+            "url": "https://t.co/zi45AR1BaW"
+          }
+        ]
+      },
       "id": "2115791008709628293",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -171,11 +662,63 @@
       "url": "https://x.com/i/status/2115791008709628293"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115745776873914845",
       "created_at": "2026-10-29T10:01:16.000Z",
       "edit_history_tweet_ids": [
         "2115745776873914845"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 132,
+            "start": 119,
+            "tag": "FutureOfTech"
+          },
+          {
+            "end": 147,
+            "start": 133,
+            "tag": "ClimatePolicy"
+          },
+          {
+            "end": 187,
+            "start": 174,
+            "tag": "FutureOfTech"
+          },
+          {
+            "end": 202,
+            "start": 188,
+            "tag": "ClimatePolicy"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Ali Jadbabaie, head of the MIT Department of Civil and Environmental Engineering, describes why designing, financing, and managing sustainable, resilient infrastructure requires new approaches and global collaboration.",
+            "display_url": "news.mit.edu/2026/3-questio…",
+            "end": 172,
+            "expanded_url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+            "images": [
+              {
+                "height": 1000,
+                "url": "https://pbs.twimg.com/news_img/2115484978012364804/-xmaIY_B?format=jpg&name=orig",
+                "width": 1500
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115484978012364804/-xmaIY_B?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 149,
+            "status": 200,
+            "title": "3 Questions: Why infrastructure is entering a defining era",
+            "unwound_url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+            "url": "https://t.co/6M0au72GHq"
+          }
+        ]
+      },
       "id": "2115745776873914845",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 6,
@@ -188,11 +731,52 @@
       "url": "https://x.com/i/status/2115745776873914845"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115700483386151273",
       "created_at": "2026-10-29T07:01:17.000Z",
       "edit_history_tweet_ids": [
         "2115700483386151273"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 126,
+            "start": 116,
+            "tag": "Astronomy"
+          },
+          {
+            "end": 133,
+            "start": 127,
+            "tag": "Venus"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "science.nasa.gov/image-article/…",
+            "end": 114,
+            "expanded_url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+            "images": [
+              {
+                "height": 744,
+                "url": "https://pbs.twimg.com/news_img/2115656718361210882/zdJb3-3c?format=jpg&name=orig",
+                "width": 744
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115656718361210882/zdJb3-3c?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 91,
+            "status": 200,
+            "title": "APOD: 29 October 2026 - The Horns of Venus - NASA Science",
+            "unwound_url": "https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/",
+            "url": "https://t.co/pLwErOoW2V"
+          }
+        ]
+      },
       "id": "2115700483386151273",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 26,
@@ -205,11 +789,41 @@
       "url": "https://x.com/i/status/2115700483386151273"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115655149314286032",
       "created_at": "2026-10-29T04:01:09.000Z",
       "edit_history_tweet_ids": [
         "2115655149314286032"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 160,
+            "start": 144,
+            "tag": "Neuroplasticity"
+          },
+          {
+            "end": 181,
+            "start": 161,
+            "tag": "OperantConditioning"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Communications Biology - Circuit plasticity coordinates action selection and temporal compression during operant conditioning in Aplysia",
+            "display_url": "nature.com/articles/s4200…",
+            "end": 142,
+            "expanded_url": "https://www.nature.com/articles/s42003-026-11274-w",
+            "start": 119,
+            "status": 200,
+            "title": "Circuit plasticity coordinates action selection and temporal compression during operant conditioning in Aplysia",
+            "unwound_url": "https://www.nature.com/articles/s42003-026-11274-w?error=cookies_not_supported&code=d692a778-8f02-48df-b1b4-f1b6736d1bc2",
+            "url": "https://t.co/BghWLWLvZK"
+          }
+        ]
+      },
       "id": "2115655149314286032",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -222,11 +836,53 @@
       "url": "https://x.com/i/status/2115655149314286032"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115609831340192132",
       "created_at": "2026-10-29T01:01:04.000Z",
       "edit_history_tweet_ids": [
         "2115609831340192132"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 146,
+            "start": 131,
+            "tag": "SpaceTelescope"
+          },
+          {
+            "end": 159,
+            "start": 147,
+            "tag": "UVAstronomy"
+          }
+        ],
+        "urls": [
+          {
+            "description": "NASA has committed to launching a new, more powerful UV space telescope. Named UVEX, the UltraViolet EXplorer, it will launch in 2031. It's about 100 times more powerful than its predecessor, GALEX, whose mission ended in 2013. UVEX will perform a survey in UV that will complement infrared surveys by other telescopes.",
+            "display_url": "universetoday.com/articles/nasas…",
+            "end": 129,
+            "expanded_url": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
+            "images": [
+              {
+                "height": 563,
+                "url": "https://pbs.twimg.com/news_img/2115567185166839808/JLyroBOL?format=jpg&name=orig",
+                "width": 1000
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115567185166839808/JLyroBOL?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 106,
+            "status": 200,
+            "title": "NASA's New UV Space Telescope Will Launch in 2031",
+            "unwound_url": "https://www.universetoday.com/articles/nasas-new-uv-space-telescope-will-launch-in-2031",
+            "url": "https://t.co/CUxwGK1FXw"
+          }
+        ]
+      },
       "id": "2115609831340192132",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 23,
@@ -239,11 +895,132 @@
       "url": "https://x.com/i/status/2115609831340192132"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115544056038350960",
+      "created_at": "2026-10-28T23:22:11.000Z",
+      "edit_history_tweet_ids": [
+        "2115584944844189876"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 7,
+            "id": "352806502",
+            "start": 0,
+            "username": "trq212"
+          }
+        ]
+      },
+      "id": "2115584944844189876",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115544056038350960",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@trq212 my life has changed because of ai. im incredibly active, much more active than ive ever been and thats because ive always been interested in coding but never had the patience to learn to code and now i can code up whatever is in my imagination. ive made lots. its truly incredible",
+      "url": "https://x.com/i/status/2115584944844189876"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115580046765355059",
+      "created_at": "2026-10-28T23:02:43.000Z",
+      "edit_history_tweet_ids": [
+        "2115580046765355059"
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 21,
+            "start": 15,
+            "tag": "ICYMI"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 13,
+            "id": "15813928",
+            "start": 3,
+            "username": "VRubinObs"
+          }
+        ]
+      },
+      "id": "2115580046765355059",
+      "lang": "en",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 73
+      },
+      "referenced_tweets": [
+        {
+          "id": "2115568111613051048",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @VRubinObs: #ICYMI: our Solar System has a newly-discovered dwarf planet candidate! Meet 2026 ED138, recently revealed by NSF–DOE Rubin…",
+      "url": "https://x.com/i/status/2115580046765355059"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115564547637756040",
       "created_at": "2026-10-28T22:01:08.000Z",
       "edit_history_tweet_ids": [
         "2115564547637756040"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 145,
+            "start": 134,
+            "tag": "ArtemisIII"
+          },
+          {
+            "end": 164,
+            "start": 146,
+            "tag": "SpaceLaunchSystem"
+          }
+        ],
+        "urls": [
+          {
+            "description": "NASA’s Artemis III SLS (Space Launch System) core stage is integrated alongside the twin solid rocket boosters on Oct. 28 inside the Vehicle Assembly",
+            "display_url": "nasa.gov/image-article/…",
+            "end": 132,
+            "expanded_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+            "images": [
+              {
+                "height": 1280,
+                "url": "https://pbs.twimg.com/news_img/2115519922944053249/vwXeWk5A?format=jpg&name=orig",
+                "width": 1920
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115519922944053249/vwXeWk5A?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 109,
+            "status": 200,
+            "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy - NASA",
+            "unwound_url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+            "url": "https://t.co/P3Nw0D2i37"
+          }
+        ]
+      },
       "id": "2115564547637756040",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 13,
@@ -256,11 +1033,53 @@
       "url": "https://x.com/i/status/2115564547637756040"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115519289398894920",
       "created_at": "2026-10-28T19:01:17.000Z",
       "edit_history_tweet_ids": [
         "2115519289398894920"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 134,
+            "start": 122,
+            "tag": "AIinScience"
+          },
+          {
+            "end": 149,
+            "start": 135,
+            "tag": "NMRTechnology"
+          }
+        ],
+        "urls": [
+          {
+            "description": "An NMR spectrometer can reveal molecular structure down to the atomic level, but weak signals limit what it can see. Now, Aarhus University researchers have used AI to let the spectrometer learn the best ...",
+            "display_url": "phys.org/news/2026-10-s…",
+            "end": 120,
+            "expanded_url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+            "images": [
+              {
+                "height": 910,
+                "url": "https://pbs.twimg.com/news_img/2115519289826701312/UnR3MHix?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115519289826701312/UnR3MHix?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 97,
+            "status": 200,
+            "title": "When simulations fall short, this spectrometer learns for itself",
+            "unwound_url": "https://phys.org/news/2026-10-simulations-fall-short-spectrometer.html",
+            "url": "https://t.co/mQEW2YugcQ"
+          }
+        ]
+      },
       "id": "2115519289398894920",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 15,
@@ -273,11 +1092,53 @@
       "url": "https://x.com/i/status/2115519289398894920"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115477350989377693",
       "created_at": "2026-10-28T16:14:38.000Z",
       "edit_history_tweet_ids": [
         "2115477350989377693"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 134,
+            "start": 119,
+            "tag": "MarsSimulation"
+          },
+          {
+            "end": 152,
+            "start": 135,
+            "tag": "SpaceExploration"
+          }
+        ],
+        "urls": [
+          {
+            "description": "The four volunteers who lived and worked in a simulated NASA Mars mission for more than a year will exit their habitat on Saturday, Oct. 31, after 378 days of",
+            "display_url": "nasa.gov/news-release/n…",
+            "end": 117,
+            "expanded_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+            "images": [
+              {
+                "height": 4204,
+                "url": "https://pbs.twimg.com/news_img/2115163716417183744/sSNU29VB?format=jpg&name=orig",
+                "width": 5255
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115163716417183744/sSNU29VB?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 94,
+            "status": 200,
+            "title": "NASA Invites Media to Crew Completion of Yearlong Mars Simulation - NASA",
+            "unwound_url": "https://www.nasa.gov/news-release/nasa-invites-media-to-crew-completion-of-yearlong-mars-simulation/",
+            "url": "https://t.co/RqWDvxsazK"
+          }
+        ]
+      },
       "id": "2115477350989377693",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 9,
@@ -290,11 +1151,53 @@
       "url": "https://x.com/i/status/2115477350989377693"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115428637164056599",
       "created_at": "2026-10-28T13:01:04.000Z",
       "edit_history_tweet_ids": [
         "2115428637164056599"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 180,
+            "start": 162,
+            "tag": "ExoplanetResearch"
+          },
+          {
+            "end": 191,
+            "start": 181,
+            "tag": "SpaceTech"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Finding an Earth-like world beyond the solar system is the Holy Grail of exoplanet research, and the field has experienced incredible technological advancements in searching for and identifying exoplanets since the first exoplanet was discovered in 1995. This includes both ground- and space-based telescopes, specifically the powerful James Webb Space Telescope. However, directly imaging exoplanets remains elusive, primarily due to the enormous technological challenge of imaging a point of light so far away.",
+            "display_url": "universetoday.com/articles/nasa-…",
+            "end": 160,
+            "expanded_url": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
+            "images": [
+              {
+                "height": 292,
+                "url": "https://pbs.twimg.com/news_img/2115282792648970240/vKYenKwR?format=png&name=orig",
+                "width": 750
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115282792648970240/vKYenKwR?format=png&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 137,
+            "status": 200,
+            "title": "NASA Systems Engineering Team Details HWO Mission Architecture",
+            "unwound_url": "https://www.universetoday.com/articles/nasa-systems-engineering-team-details-hwo-mission-architecture",
+            "url": "https://t.co/1Jct4YqLGy"
+          }
+        ]
+      },
       "id": "2115428637164056599",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 8,
@@ -307,11 +1210,53 @@
       "url": "https://x.com/i/status/2115428637164056599"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115383346348105763",
       "created_at": "2026-10-28T10:01:06.000Z",
       "edit_history_tweet_ids": [
         "2115383346348105763"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 126,
+            "start": 110,
+            "tag": "AIProteinDesign"
+          },
+          {
+            "end": 145,
+            "start": 127,
+            "tag": "GenomeEngineering"
+          }
+        ],
+        "urls": [
+          {
+            "description": "You can apparently now tell AI tools what sort of protein you want them to make.",
+            "display_url": "arstechnica.com/science/2026/1…",
+            "end": 108,
+            "expanded_url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+            "images": [
+              {
+                "height": 648,
+                "url": "https://pbs.twimg.com/news_img/2115154084428926976/K-cUJgpd?format=jpg&name=orig",
+                "width": 832
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115154084428926976/K-cUJgpd?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 85,
+            "status": 200,
+            "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+            "unwound_url": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+            "url": "https://t.co/Hw99sAaTjg"
+          }
+        ]
+      },
       "id": "2115383346348105763",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 6,
@@ -324,11 +1269,53 @@
       "url": "https://x.com/i/status/2115383346348105763"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115338116764692640",
       "created_at": "2026-10-28T07:01:22.000Z",
       "edit_history_tweet_ids": [
         "2115338116764692640"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 158,
+            "start": 148,
+            "tag": "MarsRover"
+          },
+          {
+            "end": 176,
+            "start": 159,
+            "tag": "SpaceExploration"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Written by Lucy Lim, Planetary Scientist at NASA’s Goddard Space Flight Center",
+            "display_url": "science.nasa.gov/blog/curiosity…",
+            "end": 146,
+            "expanded_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+            "images": [
+              {
+                "height": 956,
+                "url": "https://pbs.twimg.com/news_img/2115318433730428928/Mp0-f7h0?format=jpg&name=orig",
+                "width": 1280
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115318433730428928/Mp0-f7h0?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 123,
+            "status": 200,
+            "title": "Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’ - NASA Science",
+            "unwound_url": "https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/",
+            "url": "https://t.co/Mo22NpdniX"
+          }
+        ]
+      },
       "id": "2115338116764692640",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 7,
@@ -341,11 +1328,53 @@
       "url": "https://x.com/i/status/2115338116764692640"
     },
     {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2115293703749370149",
       "created_at": "2026-10-28T04:04:53.000Z",
       "edit_history_tweet_ids": [
         "2115293703749370149"
       ],
+      "entities": {
+        "hashtags": [
+          {
+            "end": 144,
+            "start": 141,
+            "tag": "AI"
+          },
+          {
+            "end": 149,
+            "start": 145,
+            "tag": "MIT"
+          }
+        ],
+        "urls": [
+          {
+            "description": "Prabha Jha used her experience with MIT Open Learning’s program for senior executives to develop AI solutions for her employer, Verizon, and to co-write a book, \"The AI Anthology.\"",
+            "display_url": "news.mit.edu/2026/learner-p…",
+            "end": 139,
+            "expanded_url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+            "images": [
+              {
+                "height": 2000,
+                "url": "https://pbs.twimg.com/news_img/2115202540807831552/N_4ulnrX?format=jpg&name=orig",
+                "width": 3000
+              },
+              {
+                "height": 150,
+                "url": "https://pbs.twimg.com/news_img/2115202540807831552/N_4ulnrX?format=jpg&name=150x150",
+                "width": 150
+              }
+            ],
+            "start": 116,
+            "status": 200,
+            "title": "Learner collaborates with MIT peers to develop book of AI insights",
+            "unwound_url": "https://news.mit.edu/2026/learner-prabha-jha-collaborates-with-mit-peers-to-develop-book-of-ai-insights-1027",
+            "url": "https://t.co/D0JXZPAxjB"
+          }
+        ]
+      },
       "id": "2115293703749370149",
+      "lang": "en",
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 12,
@@ -613,47 +1642,11 @@
       "id": "2114024367676113135",
       "text": "A 1,000-mile Martian cloud may reveal never-before-seen ice physics!\n\nhttps://t.co/KaJOS78ksF\n\n#MarsScience #SpacePhysics",
       "url": "https://x.com/i/status/2114024367676113135"
-    },
-    {
-      "created_at": "2026-10-24T13:00:58.000Z",
-      "edit_history_tweet_ids": [
-        "2113979061357981750"
-      ],
-      "id": "2113979061357981750",
-      "text": "White dwarfs aren’t just white! Atmospheric gases reveal surprising hues like yellow, green, and purple.\n\nhttps://t.co/1F1c8QzhAT\n\n#StellarScience #WhiteDwarfs",
-      "url": "https://x.com/i/status/2113979061357981750"
-    },
-    {
-      "created_at": "2026-10-24T10:00:58.000Z",
-      "edit_history_tweet_ids": [
-        "2113933762224652668"
-      ],
-      "id": "2113933762224652668",
-      "text": "Scientists use magnetic flux quanta to count photons in superconductors! New method detects photon numbers via quantum flux measurement.\n\nhttps://t.co/e0etv8ya7Y\n\n#QuantumPhysics #PhotonDetection",
-      "url": "https://x.com/i/status/2113933762224652668"
-    },
-    {
-      "created_at": "2026-10-24T07:01:30.000Z",
-      "edit_history_tweet_ids": [
-        "2113888597455851898"
-      ],
-      "id": "2113888597455851898",
-      "text": "Rosetta's selfie shows Comet 67P's eerie beauty from space.\n\nhttps://t.co/LCfgUUe4kg\n\n#SpaceExploration #Comet67P",
-      "url": "https://x.com/i/status/2113888597455851898"
-    },
-    {
-      "created_at": "2026-10-24T04:01:08.000Z",
-      "edit_history_tweet_ids": [
-        "2113843207033479547"
-      ],
-      "id": "2113843207033479547",
-      "text": "NASA &amp; partners speed up crewed lander designs for 2028 Moon missions! Blue Origin &amp; SpaceX refine concepts for sustainable lunar presence.\n\nhttps://t.co/82tJnNaAUh\n\n#ArtemisProgram #MoonMission2028",
-      "url": "https://x.com/i/status/2113843207033479547"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2116198697709248605",
-    "oldest_id": "2113843207033479547"
+    "newest_id": "2116244165071933550",
+    "oldest_id": "2114024367676113135"
   }
 }
