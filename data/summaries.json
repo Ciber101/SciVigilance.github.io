@@ -50,9 +50,6 @@
  "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
   "s": "European retailers are leveraging NVIDIA technology to enhance their digital platforms and physical operations. This includes using open models and physical intelligence for tasks like improving product discovery and optimizing fulfillment centers, leading to faster and more accurate responses. Such advancements matter as they help retailers improve customer experience and operational efficiency, potentially increasing sales and market share."
  },
- "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron": {
-  "s": "Stars are forming inside dense clumps of gas in a nebulous region called N159, located far in the Large Magellanic Cloud. This process is marked by the intense ultraviolet radiation from massive stars ionising the gas, creating bright emission nebulae."
- },
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
  },
@@ -323,9 +320,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity and long-term capabilities. This new model shows significant improvements in identifying and patching vulnerabilities, demonstrating its effectiveness in complex engineering tasks. Launching this week, Carbon will be made available to a limited group of cyber defenders, with broader access expected through a Fairwind Program."
- },
  "https://phys.org/news/2026-10-evolutionary-key-enzyme-bacteria-proteins.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -333,9 +327,6 @@
  "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4 is a new world simulation model that enhances realism and interactive capabilities. It matters because it advances AGI by enabling safer, infinitely variable simulations for training robots and agents, and creating new interactive experiences."
  },
  "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html": {
   "s": "A collaborative team identified a molecular mechanism that could enhance the magnetic compass responses in cryptochrome, a protein involved in magnetoreception. Their findings suggest that chiral rotation of a tryptophan residue can influence electron-spin polarization, potentially enhancing directional dependence. This could help migratory birds and other organisms use Earth's magnetic field for directional information."
@@ -351,5 +342,8 @@
  },
  "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/": {
   "s": "Edge0 released Audio8-TTS-Realistic, a 0.6B TTS model. It adds realism to voice cloning, supporting 23 languages and learning from matched human recordings. This model matters because it addresses synthetic speech's shortcomings, improving both speech quality and speaker similarity."
+ },
+ "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
+  "s": "The study proposes that in ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain persistent pain in patients despite medical treatment."
  }
 }

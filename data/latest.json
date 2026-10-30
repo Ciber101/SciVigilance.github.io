@@ -365,8 +365,8 @@
    "rank": 1
   }
  ],
- "date": "2026-10-29",
- "updated": "2026-10-30T05:31+00:00",
+ "date": "2026-10-30",
+ "updated": "2026-10-30T08:29+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
@@ -396,18 +396,18 @@
    "ts": "2026-10-30T04:30:00+00:00"
   },
   {
-   "id": "ai-gemini-4-carbon-our-next-frontier-model",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "summary": "A Blog post by IBM Granite on Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T17:00:58+00:00",
-   "rank": 0
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:37:07+00:00",
+   "rank": 1
   },
   {
    "id": "apod-2026-october-30-haunting-the-cepheus-flare",
@@ -462,17 +462,17 @@
    "ts": "2026-10-29T21:05:05+00:00"
   },
   {
-   "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "summary": "A Blog post by IBM Granite on Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
+   "id": "ai-mistral-large-4-le-chonk-is-now-open-weight",
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "source": "Mistral AI",
+   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
    "tags": [
     "AI"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T13:37:07+00:00",
+   "ts": "2026-10-29T12:00:07+00:00",
    "rank": 1
   },
   {
@@ -528,17 +528,17 @@
    "ts": "2026-10-29T14:00:00+00:00"
   },
   {
-   "id": "ai-mistral-large-4-le-chonk-is-now-open-weight",
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "source": "Mistral AI",
-   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+   "id": "ai-welcome-le-chonk-mistral-large-4-on-hugging-face",
+   "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+   "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+   "url": "https://huggingface.co/blog/mistral-large4",
+   "source": "Hugging Face",
+   "image": "https://huggingface.co/blog/assets/ml4/thumbnail.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T12:00:07+00:00",
+   "ts": "2026-10-29T00:00:00+00:00",
    "rank": 1
   },
   {
@@ -683,19 +683,6 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T16:04:18+00:00"
-  },
-  {
-   "id": "stars-brewing-in-a-nebulous-cauldron",
-   "title": "Stars brewing in a nebulous cauldron",
-   "summary": "Image: Stars brewing in a nebulous cauldron",
-   "url": "https://www.esa.int/ESA_Multimedia/Images/2026/10/Stars_brewing_in_a_nebulous_cauldron",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/stars_brewing_in_a_nebulous_cauldron/27584043-1-eng-GB/Stars_brewing_in_a_nebulous_cauldron_card_full.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-22",
-   "ts": "2026-10-22T08:00:00+00:00"
   },
   {
    "id": "rare-4-1-billion-year-old-martian-meteorite-reveals-clues-to",
@@ -1190,23 +1177,22 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T02:24:08+00:00"
+  },
+  {
+   "id": "ibd-may-transform-neurons-in-the-gut-triggering-pain-even-wh",
+   "title": "IBD may transform neurons in the gut, triggering pain even when inflammation is under control",
+   "summary": "A new study with data from mice and human tissues suggests that, in ulcerative colitis, immune cells in the gut might make pain-sensing nerves hypersensitive.",
+   "url": "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/LSkyrb9AaJpZSsmxaa7pBJ-1920-80.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-28",
+   "ts": "2026-10-28T16:05:00+00:00"
   }
  ],
  "ai": [
-  {
-   "id": "ai-gemini-4-carbon-our-next-frontier-model",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T17:00:58+00:00",
-   "rank": 0
-  },
   {
    "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
    "title": "Granite Switch 4.1.1 — Update models like you update software",
@@ -1359,20 +1345,6 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T00:00:00+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-genie-4-a-new-generation-of-world-simulation",
-   "title": "Genie 4: A new generation of world simulation",
-   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "source": "Google DeepMind",
-   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:01:38+00:00",
    "rank": 2
   },
   {
