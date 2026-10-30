@@ -1,108 +1,113 @@
 {
-  "updated": "2026-10-30T07:44:05-07:00",
-  "updated_pt": "Oct 30, 2026, 7:44 AM PT",
-  "stories": [
+ "updated": "2026-10-30T13:38:49-07:00",
+ "updated_pt": "Oct 30, 2026, 1:38 PM PT",
+ "stories": [
+  {
+   "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
+   "tag": "Space",
+   "date": "2026-10-30",
+   "paragraphs": [
+    "NASA issued a Request for Information on Oct. 29 to learn what industry can offer for in-space servicing of the Hubble Space Telescope, the agency announced on Oct. 30. According to NASA, it wants to hear from companies interested in boosting Hubble to a higher altitude to extend its science lifetime, servicing the telescope to enhance its capabilities, or carrying out a safe, controlled re-entry or orbital disposal at the end of its mission. Responses are due by 3 p.m. EST on Monday, Nov. 30.",
+    "\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,\" NASA Administrator Jared Isaacman said in the announcement. NASA science chief Nicky Fox said commercial industry has rapidly developed new capabilities for capturing and servicing satellites in space, and that the agency wants to explore ways to boost Hubble to a higher orbit while it develops the flagship mission to follow.",
+    "NASA says Hubble's altitude is slowly dropping because of atmospheric drag, the telescope has no propulsion system of its own, and analysis predicts it is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As a result, the agency expects that any mission would need to take place by 2032.",
+    "Another NASA observatory shows what happens when a boost doesn't work out. Science News reported on Oct. 30 that the Neil Gehrels Swift Observatory, launched in 2004 to study gamma-ray bursts, is falling uncontrollably and is destined to burn up in Earth's atmosphere within days. A spacecraft NASA commissioned to lift Swift out of danger launched in early July, but by late August technical issues made a boost attempt impossible, according to Science News. Swift has lost about half its original altitude, a decline sped up by high solar activity, and Science News says nothing is lined up to replace its combination of instruments."
+   ],
+   "sources": [
     {
-      "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
-      "tag": "Space",
-      "date": "2026-10-30",
-      "paragraphs": [
-        "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
-        "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
-        "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
-        "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
-      ],
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-          "date": "2026-10-30"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
-        "credit": "NASA/Swift/Cruz deWilde, via ScienceAlert",
-        "alt": "Artist's illustration of a gamma-ray burst"
-      }
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+     "date": "2026-10-30"
     },
     {
-      "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
-      "tag": "Space",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "The Vera C. Rubin Observatory has found what may be a new dwarf planet in the outer solar system, Live Science and ScienceAlert reported Oct. 29, 2026. The object, designated 2026 ED138, is a large body in the Kuiper Belt beyond Neptune. ScienceAlert describes it as the telescope's first dwarf planet candidate, and Live Science reports that, if confirmed, it would raise the number of dwarf planets officially recognized by the International Astronomical Union from five (Pluto, Ceres, Eris, Haumea and Makemake) to six.",
-        "According to ScienceAlert, Matthew Holman of the Harvard-Smithsonian Center for Astrophysics spotted the object on Oct. 13, 2026, while analyzing Rubin data with software he developed with colleague Kevin Napier. The team traced it through 30 detections across 20 nights of Rubin observations from March 4 to July 11, 2026, then found it in archival Dark Energy Camera images going back to February 2016. \"My first reaction was one of excited disbelief,\" Holman said in a statement quoted by both outlets. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"",
-        "ScienceAlert, citing the Minor Planet Center, reports that ED138 takes about 281 years to orbit the Sun, ranging from 36.86 to 49.04 astronomical units away, which lies within Pluto's range of distances. Both outlets say its tilted orbit placed it against the crowded star fields of the Milky Way, which helped it escape earlier searches.",
-        "The object's size is still uncertain. Because its reflectivity is unknown, researchers estimate a diameter between 600 and 1,500 kilometers (about 370 to 930 miles), Live Science reports; Pluto is 2,377 kilometers across and Ceres 958 kilometers. Both outlets say further observations are needed to determine whether it is round enough to qualify as a dwarf planet. \"Rubin will image the whole southern sky again and again for ten years, so any others hiding in the places earlier surveys skipped are now within reach,\" Holman said."
-      ],
-      "sources": [
-        {
-          "name": "Live Science",
-          "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
-          "date": "2026-10-29"
-        },
-        {
-          "name": "ScienceAlert",
-          "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
-        "credit": "NSF–DOE Vera C. Rubin Observatory, via Live Science",
-        "alt": "Mosaic of Rubin Observatory images showing the dwarf planet candidate 2026 ED138 on several dates in 2026"
-      }
-    },
-    {
-      "title": "Teghaza 001, a meteorite found in the Sahara, is a piece of Mars more than 4.1 billion years old",
-      "tag": "Space",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "A rose-colored meteorite found in the Sahara Desert in 2022 is a piece of Mars that formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found, NASA announced Oct. 29, 2026. Named Teghaza 001 after the salt plain in Mali where it was discovered, the nearly 2-pound (800-gram) rock is one of roughly 435 known meteorites from Mars, according to NASA. Researchers described it in a paper published Thursday in the journal Science.",
-        "Lead author Yang Liu of NASA's Jet Propulsion Laboratory and her colleagues found zircon crystals in the rock, which can be used to precisely date a sample. Caltech coauthor Francois Tissot's team used an in-situ rubidium-strontium dating method on a piece smaller than a fingernail. According to NASA, the results showed the rock had been altered by Martian water around 4.1 billion years ago, suggesting it formed even earlier. \"One of the paper's reviewers called it a Rosetta Stone for Mars,\" Liu said.",
-        "NASA says Teghaza 001 is one of the three most ancient Martian meteorites found on Earth, alongside ALH84001 and the meteorite nicknamed \"Black Beauty,\" but unlike them it holds a mix of volcanic minerals that records how the planet's crust formed from cooling magma before being altered by underground water. Its mineralogy matches what NASA's Mars Reconnaissance Orbiter has observed in the planet's cratered southern highlands.",
-        "A NASA map released with the study shows 13 locations on Mars that match the meteorite's mineralogy and chemistry, though NASA notes no one will ever know exactly where it came from. \"This is really our first piece of Martian crust from a part of Mars we've never had a sample of before,\" said second author Lee Saper, now at NASA's Ames Research Center."
-      ],
-      "sources": [
-        {
-          "name": "NASA",
-          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-          "date": "2026-10-29"
-        },
-        {
-          "name": "NASA Photojournal",
-          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
-        "credit": "Darryl Pitt / Maine Mineral & Gem Museum, via NASA",
-        "alt": "Close-up of the rose-colored Martian meteorite Teghaza 001"
-      }
-    },
-    {
-      "title": "Astronauts install and unroll a new ISS solar array on the 100th U.S. spacewalk from the station",
-      "tag": "Space",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "NASA astronaut Anil Menon and Canadian Space Agency astronaut Joshua Kutryk installed and deployed the second-to-last upgraded solar array for the International Space Station on Thursday, Oct. 29, Space.com reports. The Expedition 75 crewmates finished the 7-hour, 11-minute spacewalk at 3:08 p.m. EDT (12:08 p.m. PT), working from the U.S. Quest airlock. According to Space.com, it was the 100th U.S. spacewalk from the station without a space shuttle docked, and the first spacewalk by a Canadian astronaut since April 2019.",
-        "The rolled-up array, called an ISS roll-out solar array (iROSA), arrived earlier this month in the unpressurized trunk of SpaceX's Dragon cargo capsule on the company's 35th resupply mission for NASA. Space.com says Menon rode the end of the Canadarm2 robotic arm while carrying the 750-pound (340-kilogram) assembly to the station's port side, where the two astronauts bolted it onto the 2A power channel and connected its cables during a night pass for safety.",
-        "No motor was needed to unroll the array: the energy stored in its rolled-up carbon composite booms extended it to its full 63-foot (19-meter) length, Space.com reports. Mission Control called out the deployment about 4 hours and 23 minutes into the spacewalk, and the array was fully extended about 12 minutes later, partly covering the older panel on the P4 truss.",
-        "According to Space.com, the station's eight original arrays are producing less power after passing their 15-year design life, and the iROSAs used alongside them have raised the station's power supply by 20% to 30%. The extra power supports ongoing work and the station's planned controlled deorbit, currently scheduled for 2030. Working ahead of schedule, the pair also began preparing the final iROSA on its temporary platform."
-      ],
-      "sources": [
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
-        "credit": "NASA, via Space.com",
-        "alt": "A new roll-out solar array installed by spacewalking astronauts on the International Space Station on Oct. 29, 2026"
-      }
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+     "date": "2026-10-30"
     }
-  ]
+   ],
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "credit": "NASA",
+    "alt": "The Hubble Space Telescope returning to orbit after its second servicing mission in February 1997"
+   }
+  },
+  {
+   "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
+   "tag": "Space",
+   "date": "2026-10-30",
+   "paragraphs": [
+    "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
+    "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
+    "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
+    "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
+   ],
+   "sources": [
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+     "date": "2026-10-30"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
+    "credit": "NASA/Swift/Cruz deWilde, via ScienceAlert",
+    "alt": "Artist's illustration of a gamma-ray burst"
+   }
+  },
+  {
+   "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
+   "tag": "Space",
+   "date": "2026-10-29",
+   "paragraphs": [
+    "The Vera C. Rubin Observatory has found what may be a new dwarf planet in the outer solar system, Live Science and ScienceAlert reported Oct. 29, 2026. The object, designated 2026 ED138, is a large body in the Kuiper Belt beyond Neptune. ScienceAlert describes it as the telescope's first dwarf planet candidate, and Live Science reports that, if confirmed, it would raise the number of dwarf planets officially recognized by the International Astronomical Union from five (Pluto, Ceres, Eris, Haumea and Makemake) to six.",
+    "According to ScienceAlert, Matthew Holman of the Harvard-Smithsonian Center for Astrophysics spotted the object on Oct. 13, 2026, while analyzing Rubin data with software he developed with colleague Kevin Napier. The team traced it through 30 detections across 20 nights of Rubin observations from March 4 to July 11, 2026, then found it in archival Dark Energy Camera images going back to February 2016. \"My first reaction was one of excited disbelief,\" Holman said in a statement quoted by both outlets. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"",
+    "ScienceAlert, citing the Minor Planet Center, reports that ED138 takes about 281 years to orbit the Sun, ranging from 36.86 to 49.04 astronomical units away, which lies within Pluto's range of distances. Both outlets say its tilted orbit placed it against the crowded star fields of the Milky Way, which helped it escape earlier searches.",
+    "The object's size is still uncertain. Because its reflectivity is unknown, researchers estimate a diameter between 600 and 1,500 kilometers (about 370 to 930 miles), Live Science reports; Pluto is 2,377 kilometers across and Ceres 958 kilometers. Both outlets say further observations are needed to determine whether it is round enough to qualify as a dwarf planet. \"Rubin will image the whole southern sky again and again for ten years, so any others hiding in the places earlier surveys skipped are now within reach,\" Holman said."
+   ],
+   "sources": [
+    {
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
+     "date": "2026-10-29"
+    }
+   ],
+   "image": {
+    "url": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
+    "credit": "NSF–DOE Vera C. Rubin Observatory, via Live Science",
+    "alt": "Mosaic of Rubin Observatory images showing the dwarf planet candidate 2026 ED138 on several dates in 2026"
+   }
+  },
+  {
+   "title": "Teghaza 001, a meteorite found in the Sahara, is a piece of Mars more than 4.1 billion years old",
+   "tag": "Space",
+   "date": "2026-10-29",
+   "paragraphs": [
+    "A rose-colored meteorite found in the Sahara Desert in 2022 is a piece of Mars that formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found, NASA announced Oct. 29, 2026. Named Teghaza 001 after the salt plain in Mali where it was discovered, the nearly 2-pound (800-gram) rock is one of roughly 435 known meteorites from Mars, according to NASA. Researchers described it in a paper published Thursday in the journal Science.",
+    "Lead author Yang Liu of NASA's Jet Propulsion Laboratory and her colleagues found zircon crystals in the rock, which can be used to precisely date a sample. Caltech coauthor Francois Tissot's team used an in-situ rubidium-strontium dating method on a piece smaller than a fingernail. According to NASA, the results showed the rock had been altered by Martian water around 4.1 billion years ago, suggesting it formed even earlier. \"One of the paper's reviewers called it a Rosetta Stone for Mars,\" Liu said.",
+    "NASA says Teghaza 001 is one of the three most ancient Martian meteorites found on Earth, alongside ALH84001 and the meteorite nicknamed \"Black Beauty,\" but unlike them it holds a mix of volcanic minerals that records how the planet's crust formed from cooling magma before being altered by underground water. Its mineralogy matches what NASA's Mars Reconnaissance Orbiter has observed in the planet's cratered southern highlands.",
+    "A NASA map released with the study shows 13 locations on Mars that match the meteorite's mineralogy and chemistry, though NASA notes no one will ever know exactly where it came from. \"This is really our first piece of Martian crust from a part of Mars we've never had a sample of before,\" said second author Lee Saper, now at NASA's Ames Research Center."
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+     "date": "2026-10-29"
+    },
+    {
+     "name": "NASA Photojournal",
+     "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+     "date": "2026-10-29"
+    }
+   ],
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+    "credit": "Darryl Pitt / Maine Mineral & Gem Museum, via NASA",
+    "alt": "Close-up of the rose-colored Martian meteorite Teghaza 001"
+   }
+  }
+ ]
 }

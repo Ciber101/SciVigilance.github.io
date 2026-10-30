@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-30T07:44:05-07:00",
- "updated_pt": "Oct 30, 2026, 7:44 AM PT",
+ "updated": "2026-10-30T13:38:49-07:00",
+ "updated_pt": "Oct 30, 2026, 1:38 PM PT",
  "stories": [
   {
    "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
@@ -40,6 +40,29 @@
      "name": "Hugging Face",
      "url": "https://huggingface.co/blog/mistral-large4",
      "date": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
+   "tag": "Space",
+   "date": "2026-10-30",
+   "paragraphs": [
+    "NASA issued a Request for Information on Oct. 29 to learn what industry can offer for in-space servicing of the Hubble Space Telescope, the agency announced on Oct. 30. According to NASA, it wants to hear from companies interested in boosting Hubble to a higher altitude to extend its science lifetime, servicing the telescope to enhance its capabilities, or carrying out a safe, controlled re-entry or orbital disposal at the end of its mission. Responses are due by 3 p.m. EST on Monday, Nov. 30.",
+    "\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,\" NASA Administrator Jared Isaacman said in the announcement. NASA science chief Nicky Fox said commercial industry has rapidly developed new capabilities for capturing and servicing satellites in space, and that the agency wants to explore ways to boost Hubble to a higher orbit while it develops the flagship mission to follow.",
+    "NASA says Hubble's altitude is slowly dropping because of atmospheric drag, the telescope has no propulsion system of its own, and analysis predicts it is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As a result, the agency expects that any mission would need to take place by 2032.",
+    "Another NASA observatory shows what happens when a boost doesn't work out. Science News reported on Oct. 30 that the Neil Gehrels Swift Observatory, launched in 2004 to study gamma-ray bursts, is falling uncontrollably and is destined to burn up in Earth's atmosphere within days. A spacecraft NASA commissioned to lift Swift out of danger launched in early July, but by late August technical issues made a boost attempt impossible, according to Science News. Swift has lost about half its original altitude, a decline sped up by high solar activity, and Science News says nothing is lined up to replace its combination of instruments."
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+     "date": "2026-10-30"
+    },
+    {
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+     "date": "2026-10-30"
     }
    ]
   },
@@ -99,29 +122,6 @@
      "name": "Space.com",
      "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
      "date": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "title": "Artemis I data show radiation near the Moon is higher than in Earth orbit, but by less than expected",
-   "tag": "Space",
-   "date": "2026-10-28",
-   "paragraphs": [
-    "Radiation detectors that flew around the Moon on NASA's uncrewed Artemis I mission in late November and early December 2022 have produced new preliminary measurements of cosmic radiation near the Moon, according to a ScienceDaily release from the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) dated Oct. 28, 2026. The Orion spacecraft carried more than 10,000 tiny crystals inside two human-shaped mannequins as part of the MARE (Matroshka AstroRad Radiation Experiment) study. The results were published in the journal Radiation Measurements in a paper led by Paweł Bilski of IFJ PAN.",
-    "The release says total radiation doses near the Moon are higher than in low Earth orbit because of galactic radiation, but the difference is not as large as one might expect. Bilski explains that low-energy protons trapped in Earth's Van Allen belts can make up most of the dose astronauts receive in low Earth orbit, and that contribution disappears near the Moon. High-energy galactic particles can pass through the entire body, so the Artemis I detectors recorded doses spread almost evenly through the mannequins, unlike the uneven pattern seen in the earlier MATROSHKA experiment on the International Space Station.",
-    "The study also tested a new kind of passive detector: millimeter-sized lithium fluoride crystals that record the tracks of charged particles and can be read with a fluorescence microscope. Universe Today reports that traditional plastic detectors must be etched in hot sodium hydroxide before they can be read, which destroys them and creates hazardous waste. According to IFJ PAN, after corrections and new background-removal software, the crystal results differed by no more than 15% from conventional track detectors across the overlapping range, and they also picked up many particle tracks below the older detectors' threshold.",
-    "Universe Today adds that for the highest energy transfers, the new sensors overestimated the dose by around 30% compared with the plastic detectors, which the researchers suspect comes from secondary neutrons knocking lithium atoms out of place inside the crystal. The team used crystals enriched in lithium-7 to reduce those reactions. IFJ PAN says the detectors are small enough to be worn by people, making them practical for monitoring astronaut radiation exposure on future missions."
-   ],
-   "sources": [
-    {
-     "name": "ScienceDaily (IFJ PAN)",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-     "date": "2026-10-28"
-    },
-    {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-     "date": "2026-10-28"
     }
    ]
   }
