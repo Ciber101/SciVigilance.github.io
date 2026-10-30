@@ -20,9 +20,6 @@
  "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/": {
   "s": "The NYU Tandon researchers developed WorMa, a water-pumping robot designed to navigate complex terrains including land, water, and slopes. This innovation mimics a worm's ability to shift its weight, allowing the robot to climb inclines and swim faster. The robot's unique water-balloon mechanism, shifting its center of mass, enables versatile movement."
  },
- "https://spectrum.ieee.org/walking-robotic-hand": {
-  "s": "A hand attached to a robot arm is typically found in humanoid robots, but researchers from ETH Zurich have created a hand that can walk on its own and manipulate objects. This innovation could be useful in tasks where a traditional robot arm can't reach, such as industrial maintenance or search and rescue. The hand is made from off-the-shelf components, which the researchers adapted through training using reinforcement learning."
- },
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
  },
@@ -59,9 +56,6 @@
  "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
   "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
  },
- "https://robohub.org/robot-talk-episode-167-automating-construction-with-jan-petrs/": {
-  "s": "Jan Petrš, a roboticist, architect, and entrepreneur, discussed novel robot designs for construction and architecture. His work at EPFL and Déploya Robotics focuses on developing deployable robotic systems for automated façade installation."
- },
  "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
   "s": "Researchers used advanced imaging techniques to capture the malaria parasite in the act of entering red blood cells. This discovery reveals the structure of a ring-shaped structure called the moving junction, which allows the parasite to temporarily breach the cell membrane."
  },
@@ -92,9 +86,6 @@
  "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
   "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
  },
- "https://www.sciencenews.org/article/d-rex-fungus-mushroom-dinosaurs-china": {
-  "s": "After the dinosaurs died, a massive fungus named D. rex was discovered growing in southwestern China. This fungus stands out as the largest of its kind, potentially setting a new record for mushroom size. Its discovery challenges the understanding of fungal evolution, suggesting this lineage split off from other fungi shortly after the dinosaurs' extinction."
- },
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
@@ -120,13 +111,6 @@
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
- "https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/": {
-  "s": "Warp Sciences emerged from stealth mode with $215 million in funding, aiming to create chemistry infrastructure for biotech and pharmaceutical companies to discover new medicines faster. This move aims to address the need for real-world data in physical sciences, where AI has not yet made the same impact as in software and mathematics."
- },
- "https://robohub.org/neurosymbolic-planning-using-natural-language-communication-for-cooperative-autonomous-vehicles/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028": {
   "s": "MIT researchers found that the APOE4 gene variant suppresses a pathway crucial for oligodendrocytes to wrap neurons in a protective fatty sheath. This discovery explains why APOE4 increases Alzheimer's risk and provides a potential fix for the problem in lab experiments."
  },
@@ -146,12 +130,6 @@
  "https://x.ai/news/incident-sweep": {
   "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
  },
- "https://www.sciencedaily.com/releases/2026/10/261027063814.htm": {
-  "s": "Researchers have identified a small group of brain cells that help maintain steady blood pressure, even when average readings appear normal. Loss of these cells can lead to unstable blood pressure, increasing the risk of heart disease, stroke, and brain injury. The findings suggest that maintaining stable blood pressure from moment to moment is as important as keeping average levels within normal range. Understanding this mechanism could lead to new treatments to protect against the potential consequences of unstable blood pressure."
- },
- "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
-  "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
- },
  "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail": {
   "s": "The new simulation aims to reveal how the universe's initial ingredients formed into galaxies, illuminating the period when the cosmos was lit up after a dark age. This helps scientists understand the early stages of the universe's development."
  },
@@ -160,9 +138,6 @@
  },
  "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly": {
   "s": "The study finds that colorectal cancer in younger people has genetic and structural differences compared to cancer in older people. These differences may make the cancer more aggressive and harder to treat."
- },
- "https://www.sciencedaily.com/releases/2026/10/261028232659.htm": {
-  "s": "Scientists identified a weakened brain signal that appears to link several puzzling symptoms of schizophrenia, including difficulties with perception, speech, and severity of symptoms. This discovery suggests that symptoms traditionally seen as separate may actually be manifestations of a common brain processing problem."
  },
  "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation": {
   "s": "A striking cloud on Mars, resembling a ribbon as long as four Grand Canyons, may form without any starting material, contrary to typical cloud formation on Earth. Tiny particles like dust or salt are usually needed to seed typical clouds, but this Martian cloud shows a new, unseeded way of forming."
@@ -176,15 +151,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencedaily.com/releases/2026/10/261028232719.htm": {
-  "s": "Mathematicians have found a flaw in the standard model of the universe, challenging the necessity of dark energy. Their research suggests that cosmic acceleration could occur naturally from Einstein's equations, potentially eliminating the need for dark energy. This finding has significant implications for modern cosmology, as it could alter how scientists view the expansion of the universe since the Big Bang."
- },
- "https://www.sciencedaily.com/releases/2026/10/261028232707.htm": {
-  "s": "Less than 42 minutes of bright daylight each day was linked to a higher risk of dementia in a study of adults. The research suggests that daytime light exposure could be a factor in brain health, potentially offering clues about dementia risk."
- },
- "https://www.sciencedaily.com/releases/2026/10/261028232713.htm": {
-  "s": "Ancient ice found in Tibet may be older than 128,000 years, offering a unique glimpse into Earth's climate history. The discovery extends the known glacial record by more than 100,000 years, providing rare evidence of how mountain glaciers have endured major climate changes."
  },
  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
   "s": "Over a week ago, IBM Granite updated its language model configuration system, allowing users to add specialized expertise through cache-efficient adapters without needing to retrain the base model. This update demonstrates how efficiently the team can release new features, showing developers how to update and improve models like they do with software."
@@ -228,16 +194,8 @@
  "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course": {
   "s": "Seabirds like Manx shearwaters can experience jet lag from rapid east-west flights, leading to a mismatch between their internal time and the sun's position, which can misdirect their flight path. This discovery challenges the birds' sun-based navigation system, which relies on an internal clock synchronized with local time."
  },
- "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/": {
   "s": "NASA has appointed Troy Asher as the director of Armstrong Flight Research Center, a position he has held on an acting basis since March. Asher's extensive experience as a test pilot and aerospace engineer will be crucial as Armstrong works to rebuild NASA's X-plane portfolio and restore flight-test capabilities."
- },
- "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/": {
   "s": "The QuSAFE Challenge, a collaboration between NIH and NASA, aims to advance quantum-enabled sensing for in vitro NAMs, like organoids and microphysiological systems. This initiative improves drug safety while reducing animal use, as conventional methods are often noisy, invasive, and not sensitive enough. Quantum sensing offers ultra-high sensitivity and nanoscale resolution, addressing detection and measurement limitations."
@@ -247,9 +205,6 @@
  },
  "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche": {
   "s": "Astronomers observed a region of the Carina Nebula, finding a cloud of gas and dust seemingly isolated. This ghostly cloud, however, is actually a region where new stars are being formed. Studying this region helps astronomers understand the Carina Nebula's structure and star birth processes. It also provides insight into Eta Carinae's future supernova, which could reshape the nebula."
- },
- "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html": {
-  "s": "Graphene, a single layer of carbon atoms, has high electron mobility but is inefficient at converting light into electricity. Researchers propose using magnetic fields and electrical voltages to guide electrons and holes, creating potential barriers that force them to move in opposite directions. This approach aims to overcome graphene's lack of a bandgap, enabling it to convert light energy more effectively."
  },
  "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": {
   "s": "Crew members aboard the International Space Station still celebrate Halloween by dressing up in costumes, sometimes spooky, sometimes scary. This tradition shows how astronauts maintain a sense of normalcy and fun in space."
@@ -262,15 +217,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb": {
   "s": "The NASA/ESA Hubble and James Webb Space Telescopes recently observed a mysterious star-forming region within the Carina Nebula, a vast cloud of gas and dust 7500 light-years away. The telescopes captured contrasting views of a dark, glowing cat-shaped structure, revealing how star formation shapes its surroundings. Webb's infrared vision adds detail, showing many young stars and hidden details, while Hubble's visible light highlights the nebula's dark, porous structure. The cat's head is a result of intense ultraviolet radiation from nearby massive stars eroding the nebula's material, leaving behind a dark, glowing 'eye'."
- },
- "https://phys.org/news/2026-10-ancestral-enzyme-atp-amino-acid.html": {
-  "s": "The researchers simplified an ancestral enzyme called nucleoside diphosphate kinase, removing some amino acids. Despite this, the enzyme could still convert ATP into two ADP molecules, showing it can perform its function without the usual amino acid needed for its reaction. This finding challenges the understanding of how early enzymes might have functioned with fewer amino acids available."
  },
  "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst": {
   "s": "",
@@ -303,17 +251,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-evolutionary-key-enzyme-bacteria-proteins.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-small-molecular-nature-magnetic-compass.html": {
-  "s": "A collaborative team identified a molecular mechanism that could enhance the magnetic compass responses in cryptochrome, a protein involved in magnetoreception. Their findings suggest that chiral rotation of a tryptophan residue can influence electron-spin polarization, potentially enhancing directional dependence. This could help migratory birds and other organisms use Earth's magnetic field for directional information."
- },
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
@@ -326,12 +263,6 @@
  "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/": {
   "s": "Edge0 released Audio8-TTS-Realistic, a 0.6B TTS model. It adds realism to voice cloning, supporting 23 languages and learning from matched human recordings. This model matters because it addresses synthetic speech's shortcomings, improving both speech quality and speaker similarity."
  },
- "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
-  "s": "The study proposes that in ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain persistent pain in patients despite medical treatment."
- },
- "https://phys.org/news/2026-10-high-microscopy-captures-3d-images.html": {
-  "s": "Researchers at the University of Tokyo have developed a technique to capture images of living cells at a speed of 19.2 per second, enabling them to create dynamic 3D videos of cellular processes. This technique, using mid-infrared light, can build a map of a cell's composition and is faster than previous methods, allowing observation of living cells in action."
- },
  "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -342,7 +273,66 @@
  "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story": {
   "s": "A distant planet discovered by the JWST would be extremely uncomfortable if Halloween occurred every 11 hours, as it's so hot that no life could exist on its surface. This research highlights how inhospitable some alien worlds can be."
  },
- "https://phys.org/news/2026-10-crowding-enzyme-reactions-protein-droplets.html": {
-  "s": "Researchers from OIST and MPI-DS created model droplets of proteins and added enzymes to study how crowding affects enzyme activity. They found that up to a certain protein concentration, increased crowding boosted enzymatic activity, but at very high concentrations, it decreased activity. This discovery connects atomic interactions to macroscopic system behavior, revealing how protein crowding can speed up reactions, but only up to a point."
+ "https://phys.org/news/2026-10-genetic-lazy-parent-youre-cuckoo.html": {
+  "s": "The genetic cost of being a lazy parent for African cuckoo finches, which sneak into other birds' nests to lay eggs, has been revealed. This deceptive approach triggers an arms race where hosts reject unfamiliar eggs, leading to finches evolving better disguises. However, the study shows this strategy comes with a hidden genetic cost, as the W chromosome has suffered extensive gene loss and deterioration, potentially harboring harmful mutations."
+ },
+ "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
+  "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
+ },
+ "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before": {
+  "s": "Two different types of gamma-ray bursts, one short and one long, erupted 4 minutes apart. This unprecedented occurrence might require a rethinking of how scientists classify and understand gamma-ray bursts, as the chance of their simultaneous appearance is extremely low."
+ },
+ "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408": {
+  "s": "A researcher just won a Nobel Prize for detecting cosmic neutrinos, tiny particles that pass through Earth without interacting. Scientists now want to know where these neutrinos originate, as understanding their sources can reveal much about the universe. To find this information, researchers suggest using radio telescopes to match up IceCube's neutrino detections with their potential sources in space."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261028234703.htm": {
+  "s": "Physicists created a tiny universe in the lab where time emerged naturally without an external clock. This discovery suggests time might not be a fundamental part of reality, but rather a result of changes within the universe."
+ },
+ "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html": {
+  "s": "A fossil ecosystem in Colombia shows a unique overlap of older and newer species, suggesting a gradual evolutionary transition without mass extinction. Researchers propose this was due to favorable environmental conditions such as high sea levels and nutrient-rich waters, similar to those promoting biodiversity today."
+ },
+ "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504": {
+  "s": "This closure matters because the museum had offered a unique educational experience, inspiring generations of scientists and providing hands-on science exploration beyond textbooks."
+ },
+ "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
+  "s": "Scientists found that crocodiles survived the asteroid impact that wiped out the dinosaurs because they preferred warm climates. Their analysis of fossils and climate models showed crocodiles could move to new regions when temperatures rose and return to the tropics when temperatures fell, allowing them to survive in areas that remained suitable after the impact."
+ },
+ "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html": {
+  "s": "Astronomers found evidence that a distant, extremely blue galaxy may let most of its ionizing radiation escape. This galaxy, called EBG-1, is seen 530 million years after the Big Bang and helps scientists understand how galaxies contributed to ionizing radiation during cosmic reionization."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261029072113.htm": {
+  "s": "Astronomers using NASA's Hubble Space Telescope found that powerful winds from exploding stars prevent ultraviolet radiation from escaping galaxies. This discovery contradicts a widely accepted theory and could change how scientists understand the process that made the universe transparent to ultraviolet light."
+ },
+ "https://phys.org/news/2026-10-waterpuzzle-magnets-hydrogen-bonds-classroom.html": {
+  "s": "Water molecules interact in complex ways that influence water's properties, such as its ability to form ice crystals and its role in biological processes. Magnetic models of molecules can help students grasp these interactions, which are difficult to visualize otherwise. Researchers developed WaterPuzzle, a new magnetic model to explore hydrogen bonding and molecular interactions in water, making chemistry more accessible through hands-on exploration."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261030002931.htm": {
+  "s": "Astronauts installed a new solar array on the International Space Station, enhancing its power system. This upgrade will increase the station's electricity generation capacity, supporting future operations and deorbiting plans."
+ },
+ "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html": {
+  "s": "When searching for extraterrestrial intelligence, researchers often look for radio signals, similar to what humans have been emitting for over a century. New research suggests that the methods used to detect these signals may need to change, as intelligent aliens might have used different methods. Inspired by fireflies' mating flashes, scientists propose an alternative system that could distinguish alien optical signals from pulsars, which emit regular pulses of radio waves."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261029072119.htm": {
+  "s": "Scientists have identified three deep-sea fish that resemble seahorses but are actually a separate species. This discovery reveals that nature has independently evolved the same seahorse-like body shape multiple times, challenging previous classifications."
+ },
+ "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html": {
+  "s": "This research confirmed the existence of a new type of magnetism called altermagnetism in manganese telluride (MnTe). Scientists observed a unique magnetic structure in this material, akin to a spiral staircase, which bridges the qualities of ferromagnetism and antiferromagnetism. Identifying altermagnetism could lead to new materials for advanced electronics, including quantum technologies and data centers."
+ },
+ "https://phys.org/news/2026-10-indigenous-adding-shells-sand-young.html": {
+  "s": "Adding crushed shells to beach sand helps young clams withstand ocean acidification. This practice, known to Indigenous communities for generations, alters the water chemistry, making it less acidic and more favorable for shell growth. The research suggests that shell hash can buffer the impacts of acidification and promote clam growth on a local scale."
+ },
+ "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
+  "s": "Zlatka Stoeva from DZP Technologies discussed flexible, stretchable and soft printed electronics for dexterous robots. Her company, DZP Technologies, specializes in advanced materials and novel electronics, and she developed the materials which are the basis for their current portfolio. DZP Technologies entered the robotics field through a project funded by ARIA, focusing on printed electronics components for dexterous robots."
+ },
+ "https://www.therobotreport.com/robobusiness-2026-recap/": {
+  "s": "The RoboBusiness 2026 event concluded with a recap by The Robot Report editorial team. The event featured notable panels and sessions, including discussions on AI in production robotics and best practices for autonomous robot operation. The 20th anniversary event marked the end of the RoboBusiness brand, with the summit renaming to Robotics Summit West for future editions."
  }
 }
