@@ -152,9 +152,6 @@
  "https://www.universetoday.com/articles/moon-habitats-may-use-layered-mylar-to-block-extreme-heat": {
   "s": "Researchers from the University of Pennsylvania developed layered Mylar sheets to insulate Moon habitats. This innovation aims to protect humans from extreme lunar temperatures while maintaining flexibility for long-term use."
  },
- "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/": {
-  "s": "Block released Dessa, a speech model trained exclusively on human conversation audio. It matters because Dessa can listen and speak simultaneously, unlike typical voice systems that separate speech recognition and synthesis, preserving more natural speech characteristics."
- },
  "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail": {
   "s": "The new simulation aims to reveal how the universe's initial ingredients formed into galaxies, illuminating the period when the cosmos was lit up after a dark age. This helps scientists understand the early stages of the universe's development."
  },
@@ -163,10 +160,6 @@
  },
  "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly": {
   "s": "The study finds that colorectal cancer in younger people has genetic and structural differences compared to cancer in older people. These differences may make the cancer more aggressive and harder to treat."
- },
- "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261028232659.htm": {
   "s": "Scientists identified a weakened brain signal that appears to link several puzzling symptoms of schizophrenia, including difficulties with perception, speech, and severity of symptoms. This discovery suggests that symptoms traditionally seen as separate may actually be manifestations of a common brain processing problem."
@@ -214,9 +207,6 @@
  },
  "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long": {
   "s": "The Beta Pictoris system, about 63 light years away and 23 million years old, has a debris disk with a clump of carbon monoxide, a warp, and an asymmetry. Researchers using JWST found an unusual feature called a \"cat's tail\" extending 1,000 astronomical units. They concluded that colliding dwarf planets created this feature, revealing insights into the early stages of planetary systems."
- },
- "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/": {
-  "s": "The NASA invites the public to send their name to Titan aboard the Dragonfly mission, a rotor-wing aircraft that will explore Titan, Saturn's largest moon. This mission offers the public the chance to be part of the first scientific flight over another world, marking a unique journey in human history."
  },
  "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/": {
   "s": "",
@@ -289,13 +279,6 @@
  "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory": {
   "s": "Artemis II commander Reid Wiseman, who led the historic moon mission, is now the deputy director for NASA's Jet Propulsion Laboratory. This move suggests Wiseman plans to transition to a leadership role within NASA's space science division."
  },
- "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html": {
-  "s": "Scientists at St. Jude Children's Research Hospital discovered how a protein that influences mRNA decoding can be altered. This finding is significant because it provides new insights into how errors in mRNA decoding can lead to cancer growth, offering potential new targets for treatment."
- },
  "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
   "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
  },
@@ -345,5 +328,21 @@
  },
  "https://www.livescience.com/health/immune-system/ibd-may-transform-neurons-in-the-gut-triggering-pain-even-when-inflammation-is-under-control": {
   "s": "The study proposes that in ulcerative colitis, immune cells in the gut may make pain-sensing nerves overly sensitive, even when inflammation is under control. This finding could explain persistent pain in patients despite medical treatment."
+ },
+ "https://phys.org/news/2026-10-high-microscopy-captures-3d-images.html": {
+  "s": "Researchers at the University of Tokyo have developed a technique to capture images of living cells at a speed of 19.2 per second, enabling them to create dynamic 3D videos of cellular processes. This technique, using mid-infrared light, can build a map of a cell's composition and is faster than previous methods, allowing observation of living cells in action."
+ },
+ "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/": {
+  "s": "Samaya AI released Sterling, a 3B-active finance research model that outperforms Claude Fable 5.1 on financial research tasks. This matters because it demonstrates how a large model can be adapted for more efficient financial research, reducing costs significantly."
+ },
+ "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story": {
+  "s": "A distant planet discovered by the JWST would be extremely uncomfortable if Halloween occurred every 11 hours, as it's so hot that no life could exist on its surface. This research highlights how inhospitable some alien worlds can be."
+ },
+ "https://phys.org/news/2026-10-crowding-enzyme-reactions-protein-droplets.html": {
+  "s": "Researchers from OIST and MPI-DS created model droplets of proteins and added enzymes to study how crowding affects enzyme activity. They found that up to a certain protein concentration, increased crowding boosted enzymatic activity, but at very high concentrations, it decreased activity. This discovery connects atomic interactions to macroscopic system behavior, revealing how protein crowding can speed up reactions, but only up to a point."
  }
 }
