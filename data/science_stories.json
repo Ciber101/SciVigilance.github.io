@@ -1,7 +1,30 @@
 {
-  "updated": "2026-10-29T19:37:53-07:00",
-  "updated_pt": "Oct 29, 2026, 7:37 PM PT",
+  "updated": "2026-10-30T07:44:05-07:00",
+  "updated_pt": "Oct 30, 2026, 7:44 AM PT",
   "stories": [
+    {
+      "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
+      "tag": "Space",
+      "date": "2026-10-30",
+      "paragraphs": [
+        "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
+        "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
+        "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
+        "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
+      ],
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+          "date": "2026-10-30"
+        }
+      ],
+      "image": {
+        "url": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
+        "credit": "NASA/Swift/Cruz deWilde, via ScienceAlert",
+        "alt": "Artist's illustration of a gamma-ray burst"
+      }
+    },
     {
       "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
       "tag": "Space",
@@ -79,33 +102,6 @@
         "url": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
         "credit": "NASA, via Space.com",
         "alt": "A new roll-out solar array installed by spacewalking astronauts on the International Space Station on Oct. 29, 2026"
-      }
-    },
-    {
-      "title": "Artemis I data show radiation near the Moon is higher than in Earth orbit, but by less than expected",
-      "tag": "Space",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "Tiny crystal detectors that flew around the Moon on NASA's uncrewed Artemis I mission in late 2022 have produced new measurements of the radiation astronauts would face there, ScienceDaily and Universe Today report. Orion carried more than 10,000 small crystals inside two human-shaped mannequins, including several dozen experimental fluorescent lithium fluoride detectors made at the Institute of Nuclear Physics of the Polish Academy of Sciences (IFJ PAN) in Cracow, as part of the MARE experiment.",
-        "When charged particles pass through these crystals they leave defects that glow red under blue light, so individual particle tracks can be read under a fluorescence microscope without the chemical etching that plastic detectors need. After corrections and new background-removal software, the team's results differed by no more than 15% from conventional track detectors, and they also recorded many tracks below the threshold of older detectors.",
-        "Near the Moon, the doses were spread almost evenly through the mannequins, unlike an earlier space station experiment where low-energy protons trapped in Earth's Van Allen belts made doses uneven. 'Although total radiation doses near the Moon are higher than those in Earth orbit due to the considerable levels of galactic radiation, the difference is not as large as one might intuitively expect,' said co-author Pawel Bilski of IFJ PAN."
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/10/261027063659.htm",
-          "date": "2026-10-28"
-        },
-        {
-          "name": "Universe Today",
-          "url": "https://www.universetoday.com/articles/glowing-salt-crystals-tracked-radiation-aboard-artemis-i",
-          "date": "2026-10-28"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencedaily.com/images/1920/nasa-orion-capsule-in-lunar-orbit.webp",
-        "credit": "NASA, via ScienceDaily",
-        "alt": "NASA's Orion capsule in lunar orbit"
       }
     }
   ]
