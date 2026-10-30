@@ -35,26 +35,31 @@
    }
   },
   {
-   "title": "ANYbotics starts delivering ANYmal X, a four-legged inspection robot certified for explosive atmospheres",
-   "tag": "Industrial robots",
-   "date": "2026-10-27",
+   "title": "The White House finds robot and industrial machinery imports threaten U.S. national security and orders trade talks, with no tariffs for now",
+   "tag": "Policy",
+   "date": "2026-10-28",
    "paragraphs": [
-    "Swiss robotics company ANYbotics launched ANYmal X on Oct. 27, 2026, and began delivering it to customers, The Robot Report reports. The company calls the four-legged robot \"the world's first legged inspection robot for explosive atmospheres,\" designed to meet strict safety standards in oil, gas and chemical plants and to run routine autonomous inspections in places that are dangerous for people.",
-    "According to ANYbotics, every device used in hazardous zones must be certified as unable to ignite a flammable atmosphere, even when something fails, and ANYmal X was built to comply with the ATEX standard in Europe and IECEx globally. The company said the robot's AI computer and inspection equipment sit in sealed, nitrogen-filled chambers, its 12 leg actuators and battery are protected by flameproof casings, its feet are conductive for grounding, and automatic cutoffs monitor temperature. CEO Péter Fankhauser said four years of engineering and more than 10 patents went into the robot.",
-    "The Robot Report says ANYmal X carries thermal, visual, acoustic and gas sensors to detect overheating, leaks, abnormal noise and equipment wear, and runs on ANYbotics' Shift software, which connects findings to plant maintenance systems including SAP, Yokogawa and SLB. Since 2023, companies including BP, Equinor, Shell, PETRONAS, Petrobras, BASF and SLB have tested the robot on hundreds of onshore and offshore missions through an early access program, the company said.",
-    "ANYbotics, a 2016 spinout of ETH Zurich, says it has raised more than $150 million and has about 200 employees in Zurich, San Francisco and Barcelona. The robot and its software will be shown publicly for the first time at the ADIPEC 2026 energy conference by ANYbotics, SLB and Kuwait Oil Co., according to the article."
+    "President Donald Trump signed a proclamation on Oct. 28, 2026, agreeing with a Section 232 finding by the Secretary of Commerce that robotics, industrial machinery and their parts and components are being imported into the United States in such quantities and under such circumstances as to threaten to impair U.S. national security, according to the text published by the White House. The proclamation says the United States relies on foreign imports for most types of robotics and industrial machinery and their components, and that equipment from certain foreign entities can pose cybersecurity risks.",
+    "The proclamation specifically cites advanced robots, such as autonomous robots, humanoid and quadruped robots, and autonomous ground vehicles, as providing combat support to the U.S. military, including reconnaissance, casualty extraction and mine clearing. It says robotics and industrial machinery supported about $7.1 trillion in shipments of manufactured goods in 2024 and the production of about $86 billion worth of equipment that year.",
+    "The order does not set tariffs. It directs the Commerce Secretary and the U.S. Trade Representative to negotiate agreements with trading partners and to report on progress within 180 days, and says the president may consider other remedies in the future, including tariffs, duties, quotas and fees, or a program to encourage new investment in U.S. production. The proclamation notes that Section 232 allows further action if an agreement is not reached within 180 days, is not carried out or is ineffective.",
+    "The Robot Report, which covered the decision on Oct. 29, quoted Boston Dynamics vice president of policy Brendan Schulman as saying the next step is negotiations over the next six months with trading partners. Ash Sharma of Interact Analysis told the outlet the move should not be read as a new robotics tariff today but shows the government's direction, and former Novanta robotics strategy chief Robert Little said his biggest concern is gaps in the U.S. supply of robot components such as sensors, actuators, precision gears and encoders."
    ],
    "sources": [
     {
+     "name": "The White House",
+     "url": "https://www.whitehouse.gov/presidential-actions/2026/10/adjusting-imports-of-robotics-industrial-machinery-and-their-parts-and-components-into-the-united-states/",
+     "date": "2026-10-28"
+    },
+    {
      "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/anybotics-begins-delivering-anymal-x-legged-robot-explosive-atmospheres/",
-     "date": "2026-10-27"
+     "url": "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/",
+     "date": "2026-10-29"
     }
    ],
    "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/ANYmal_X_inspection.jpg",
-    "credit": "ANYbotics, via The Robot Report",
-    "alt": "ANYmal X four-legged robot inspecting industrial equipment"
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Section_232_proclamation.jpg",
+    "credit": "Office of the White House, via The Robot Report",
+    "alt": "Image of the White House Section 232 proclamation on robotics imports"
    }
   },
   {

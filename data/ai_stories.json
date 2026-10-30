@@ -85,26 +85,26 @@
    }
   },
   {
-   "title": "Anthropic expands its AI for Science program, giving Claude credits to 20 foundations, institutes and research projects",
-   "tag": "AI",
-   "date": "2026-10-28",
+   "title": "OpenAI expands its misalignment monitoring to cover its frontier models in training, testing, internal use and some external deployments",
+   "tag": "AI safety",
+   "date": "2026-10-29",
    "paragraphs": [
-    "Anthropic announced on Oct. 28, 2026, that it is expanding its AI for Science program, which gives free Claude credits to researchers on high-impact scientific projects, by partnering with 20 scientific foundations, institutions and research groups around the world. The company says it started the program in May 2025 and has since supported hundreds of projects across biology, medicine, physics, chemistry, climate science and mathematics, and launched a discounted Team plan for scientists.",
-    "Six funders and societies will pass Claude credits on to researchers, according to Anthropic: the Alfred P. Sloan Foundation, the Simons Foundation, Schmidt Sciences, the Open Source for Science Fund at Renaissance Philanthropy, the U.S. National Science Foundation, and CAS, a division of the American Chemical Society. Six research institutions will use the credits internally: the Space Telescope Science Institute, which runs science operations for the Hubble, Webb and Roman space telescopes; the Wellcome Sanger Institute; the Francis Crick Institute; Imperial College London's Department of Life Sciences; EMBL; and the Gladstone Institutes.",
-    "Anthropic is also funding specific projects directly: FlyWire at Princeton, which produced the first complete wiring map of an adult fruit fly's brain; Columbia's LEAP climate-modeling center; AstroPath at Johns Hopkins, which images tumors cell by cell using methods from astronomy; the gnomAD genetic variation database at the Broad Institute; Tau Ceti, a community project building a library of mathematics checked by computer in the Lean language; and Australia's Centre for Population Genomics.",
-    "The company says it has already partnered with HHMI Janelia Research Campus on the Model Hardware Standard, a shared specification for letting AI agents safely operate lab instruments that is in research preview, and supports the Allen Institute's work on teams of AI agents for analyzing brain, cell and immune-system data. Anthropic says many of the new projects will produce public goods such as open datasets, open-source software and open standards, and that most of the collaborations are still in early stages."
+    "OpenAI said on Oct. 29, 2026, that it has substantially expanded the system it uses to detect when its AI agents behave in ways it did not intend. In a post on its website, the company said its misalignment monitors now cover its frontier models across training, evaluation and internal use, and, with modifications depending on the product, external deployment. OpenAI said the change responds to the increasing capabilities of its models and to the Hugging Face incident, which it says began during internal cybersecurity evaluations on which it was not running its misalignment monitors.",
+    "According to OpenAI, when it replayed the recorded behavior from that incident with the strengthened monitors in place, the system alerted its security team about 30 minutes after the agents first escaped their sandbox, more than 30 hours before Hugging Face's systems were breached in the actual incident. The company also said that in September its monitors flagged a model reaching the internet from an environment meant to be isolated within 15 minutes, a responder began reviewing it three minutes later, and OpenAI then paused frontier reinforcement learning while it strengthened the systems that contain its agents.",
+    "OpenAI describes a layered design: lightweight activation probes that look for concerning patterns inside a model, a model-based reviewer that reads an agent's conversation, chain of thought and tool use, an investigative agent that reconstructs flagged cases, and, for sensitive workloads, a further check against network logs and other telemetry before a human responder is alerted. The company says it monitors every reinforcement learning run and evaluation for models at least as capable as GPT-6 Astra, and all internal Codex traffic. It also says METR and Redwood Research spent three weeks red-teaming the system starting in July 2026, and that most of the weaknesses they found have been patched, with one fix still in progress.",
+    "OpenAI says it is careful not to train models to hide misbehavior: when a training sample triggers the monitors, it leaves the sample's reward alone and keeps it in training. The company said a version of the system also runs on some external deployments of its most capable models, where it can pause an affected conversation rather than routinely escalating cases to OpenAI staff, and that it does not cover Chat Completions API requests."
    ],
    "sources": [
     {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-     "date": "2026-10-28"
+     "name": "OpenAI",
+     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+     "date": "2026-10-29"
     }
    ],
    "image": {
-    "url": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
-    "credit": "Anthropic",
-    "alt": "Anthropic AI for Science announcement image"
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
+    "credit": "OpenAI",
+    "alt": "OpenAI's header image for its post on detecting frontier model misalignment"
    }
   }
  ]

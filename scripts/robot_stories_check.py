@@ -30,5 +30,11 @@ for i, s in enumerate(st):
         try:
             urllib.request.urlopen(urllib.request.Request(u, headers={'User-Agent': 'Mozilla/5.0 (SciVigilance check)'}), timeout=20)
         except Exception as e: err.append(f'story {i}: unreachable {u} ({e})')
+_bp = os.path.join(ROOT, 'data', 'blocklist.json')  # off-topic stories marc ruled out
+if os.path.exists(_bp):
+    _b = json.load(open(_bp, encoding='utf-8')); _t = [t.lower() for t in _b.get('terms', []) + _b.get('urls', [])]
+    for i, s in enumerate(st):
+        _blob = json.dumps(s, ensure_ascii=False).lower()
+        err += [f'story {i}: blocklisted ({t}), see data/blocklist.json' for t in _t if t in _blob]
 print('\n'.join(err) if err else f'OK: {len(st)} stories in {os.path.basename(FILE)}')
 sys.exit(1 if err else 0)
