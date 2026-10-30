@@ -61,7 +61,7 @@
     },
     {
      "id": "2115178675050307942",
-     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of drug development.\n\nIn this blog post, we share some early results from these efforts, and describe how this work fits in with our wider ambitions in the life sciences.",
      "date": "2026-10-27T20:27:48.000Z",
      "quoted": false,
      "image": null,
@@ -79,7 +79,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -263,7 +263,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -281,7 +281,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -368,7 +368,7 @@
    "posts": [
     {
      "id": "2115811242556137820",
-     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on",
+     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on @artificialanalysis.\n\n🛡 Built to defend: State-of-the-art in cyberdefense, put through the paces by the world's leading cyber vendors, including @CrowdStrike, @cloudflare, @rubrik, @zscaler, and others.\n\nBuilt for sovereignty: Make it yours. Download the weights on @huggingface , customize it with Mistral Forge, and deploy it wherever you need it.\n\nRead more from our team and customers 👇:",
      "date": "2026-10-29T14:21:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVzNm_7W4AAQsZV.jpg",
@@ -377,7 +377,7 @@
     },
     {
      "id": "2115443720371814478",
-     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works",
+     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works with all chat models hosted by Mistral, including Large 4.",
      "date": "2026-10-28T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVtfR8WXEAAXYbh.jpg",
@@ -412,7 +412,7 @@
    "posts": [
     {
      "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
+     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse",
      "date": "2026-10-28T17:08:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
@@ -421,7 +421,7 @@
     },
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -430,7 +430,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -439,7 +439,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -798,7 +798,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -816,7 +816,7 @@
     },
     {
      "id": "2106350586232991745",
-     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH",
+     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH #HumanoidRobot #DigitalTwin #SmartManufacturing #AI",
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
@@ -832,15 +832,6 @@
    "avatar": "img/x-robots-agibotofficial.jpg",
    "posts": [
     {
-     "id": "2115694835579666505",
-     "text": "AGIBOT Innovation Day 2026: Embodied AI, From Innovation to Real Work. 🤖\n\nWhat does it take to turn embodied AI into real-world productivity?\n\nAt AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring the productive work robots perform in real-world",
-     "date": "2026-10-29T06:38:51.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2115691538881884160/img/6uuBUA3vwWb9qGyU.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115691538881884160/vid/avc1/1920x1080/ta_jGkhIZr1oXj3s.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2115694835579666505"
-    },
-    {
      "id": "2115326431194661301",
      "text": "⏰Tomorrow, it begins. \n\nOne day until AGIBOT Innovation Day 2026.\nA new chapter for embodied AI is about to unfold. \n\n📅 October 29 | Shanghai World Expo Center \n\nSee you tomorrow.  \n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
      "date": "2026-10-28T06:14:56.000Z",
@@ -851,7 +842,7 @@
     },
     {
      "id": "2113583522883747944",
-     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion",
+     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion relationships, spatial occupancy, and task progress change, linking decisions to real-robot execution.  \n\n📖 Explore the project: \n🤗 Access the dataset:  \n\n#AGIBOT #EmbodiedAI #PhysicalAI #Robotics #AGIBOTWORLD",
      "date": "2026-10-23T10:49:14.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113582427176382464/img/TFDtw28ks8xloikY.jpg",
@@ -859,13 +850,22 @@
      "url": "https://x.com/AGIBOTofficial/status/2113583522883747944"
     },
     {
-     "id": "2111030893058076711",
-     "text": "AGIBOT welcomed a Thai delegation led by Mr. Songsak Thongsri, Deputy Prime Minister of Thailand and Chairman of the Board of Executives of the National Sports Development Fund (NSDF), to our Shanghai headquarters.  \n\nThe delegation watched humanoid robot demonstrations",
-     "date": "2026-10-16T09:46:00.000Z",
+     "id": "2110995951439769843",
+     "text": "Something new is coming. \n\nOctober 29. Shanghai World Expo Center. \n\nAt AGIBOT Innovation Day 2026, we’re unveiling what’s next in embodied AI. \nNew robots. New models. And a bold new vision for how robots create value. \n\nThe next chapter of embodied AI is about to begin.\nStay tuned.\n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "date": "2026-10-16T07:27:09.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUvHtgoaEAAkS8d.jpg",
+     "image": "https://pbs.twimg.com/media/HUvDKYzaIAAQ8Z6.jpg",
      "video": null,
-     "url": "https://x.com/AGIBOTofficial/status/2111030893058076711"
+     "url": "https://x.com/AGIBOTofficial/status/2110995951439769843"
+    },
+    {
+     "id": "2106202828444143907",
+     "text": "AGIBOT A3 Ultra is taking on guest-facing service at Shangri-La Shanghai Pudong.\n\nWorking in the hotel lobby, A3 Ultra welcomes guests, provides information and handles routine guest service tasks.\n\nBy taking on everyday guest-facing tasks, A3 Ultra supports hotel staff while becoming part of the daily hospitality experience.\n\n#AGIBOT #EmbodiedAI",
+     "date": "2026-10-03T02:01:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2105956269433696256/img/pSWXecnO7_qR1ubL.jpg",
+     "video": "https://video.twimg.com/amplify_video/2105956269433696256/vid/avc1/1920x1080/boR8KdvIbME2m2i9.mp4",
+     "url": "https://x.com/AGIBOTofficial/status/2106202828444143907"
     }
    ]
   },
@@ -1035,7 +1035,7 @@
     },
     {
      "id": "2113776971603689874",
-     "text": "We are not slowing down. 🚀\n\nOur Artemis III mission will send four astronauts to low Earth orbit next year to test critical systems needed for future lunar landings and we’re accelerating efforts to ensure the success of Artemis IV, the first Artemis",
+     "text": "We are not slowing down. 🚀\n\nOur Artemis III mission will send four astronauts to low Earth orbit next year to test critical systems needed for future lunar landings and we’re accelerating efforts to ensure the success of Artemis IV, the first Artemis mission on the lunar surface.",
      "date": "2026-10-23T23:37:56.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVWk812WIAAg_hz.jpg",
@@ -1095,8 +1095,17 @@
    "avatar": "img/x-isro.jpg",
    "posts": [
     {
+     "id": "2115961436484817011",
+     "text": "Launch Day!\n\nThe GSLV-F18/NVS-03 Mission is scheduled for launch today, 30 October 2026, at 23:51 hrs IST from Satish Dhawan Space Centre (SDSC SHAR), Sriharikota.\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:",
+     "date": "2026-10-30T00:18:13.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/isro/status/2115961436484817011"
+    },
+    {
      "id": "2115757885506642087",
-     "text": "Meet NVS-03 - the third satellite of the second-generation NVS series, intended to augment the NavIC constellation and support continuity of navigation services.\n\nLaunch: 30th October 2026, 23:51 hours IST\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "text": "Meet NVS-03 - the third satellite of the second-generation NVS series, intended to augment the NavIC constellation and support continuity of navigation services.\n\nLaunch: 30th October 2026, 23:51 hours IST\n\nWatch live:  30th October 2026, 23:20 hours IST onwards",
      "date": "2026-10-29T10:49:23.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVyujkhaUAA2_mT.jpg",
@@ -1105,7 +1114,7 @@
     },
     {
      "id": "2115504423460061675",
-     "text": "GSLV-F18, India’s Geosynchronous Satellite Launch Vehicle mission, will carry the NVS-03 navigation satellite.\n\nLaunch: 30th October 2026, 23:51 hours IST\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "text": "GSLV-F18, India’s Geosynchronous Satellite Launch Vehicle mission, will carry the NVS-03 navigation satellite.\n\nLaunch: 30th October 2026, 23:51 hours IST\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:",
      "date": "2026-10-28T18:02:13.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVvIDufbQAA0deW.jpg",
@@ -1114,21 +1123,12 @@
     },
     {
      "id": "2115388445023441046",
-     "text": "GSLV-F18/NVS-03 Mission is scheduled for launch on 30th October 2026, at 23:51 hours IST from Satish Dhawan Space Centre (SDSC-SHAR), Sriharikota.\nNVS-03 is a navigation satellite in the second-generation NavIC series.\n\nWatch live:\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "text": "GSLV-F18/NVS-03 Mission is scheduled for launch on 30th October 2026, at 23:51 hours IST from Satish Dhawan Space Centre (SDSC-SHAR), Sriharikota.\nNVS-03 is a navigation satellite in the second-generation NavIC series.\n\nWatch live:\n\nMission details:",
      "date": "2026-10-28T10:21:21.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVtejjvaoAATljZ.jpg",
      "video": null,
      "url": "https://x.com/isro/status/2115388445023441046"
-    },
-    {
-     "id": "2114724692955459716",
-     "text": "As part of #SpecialCampaign6, DoS/ISRO shares glimpses of #SwachhataHiSeva2026: plogging drives, mass pledges, sanitation kit distribution and school awareness activities. 🌿🇮🇳\n\n@DARPG_GoI @MoHUA_India @MoJSDDWS\n#SHS2026 #SwachhBharat",
-     "date": "2026-10-26T14:23:51.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVkCwc7aMAAY7pC.jpg",
-     "video": null,
-     "url": "https://x.com/isro/status/2114724692955459716"
     }
    ]
   },
@@ -1271,22 +1271,22 @@
      "url": "https://x.com/RocketLab/status/2115619258579529929"
     },
     {
-     "id": "2115595193768661408",
-     "text": "Rocket Lab hardware featured in @NASA’s Image of the Day.\n\nOur Albuquerque team manufactured the PVA panels that were populated with our high-efficiency, quad-junction Z4J+ solar cells that were integrated onto NASA NEO Surveyor’s 20-ft long sunshade structure.\n\nThe array",
-     "date": "2026-10-29T00:02:54.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/RocketLab/status/2115595193768661408"
-    },
-    {
      "id": "2115550147862257868",
-     "text": "Neutron’s Stage 2 and Thrust Module have arrived to Virginia. After a short barge ride from the Neutron Factory, these major assemblies have now been offloaded on Wallops Island and are going through arrival checkouts.\n\nNext up: integrated fluids testing and launch mount",
+     "text": "Neutron’s Stage 2 and Thrust Module have arrived to Virginia. After a short barge ride from the Neutron Factory, these major assemblies have now been offloaded on Wallops Island and are going through arrival checkouts.\n\nNext up: integrated fluids testing and launch mount interface checkouts for the Thrust Module, with Stage 2 to follow on the test stand beside it soon after.",
      "date": "2026-10-28T21:03:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVvwhpIa4AAODaj.jpg",
      "video": null,
      "url": "https://x.com/RocketLab/status/2115550147862257868"
+    },
+    {
+     "id": "2115209678921838783",
+     "text": "Enjoy the sights and sounds of shipping Neutron's Stage 2 and Thrust Module to Launch Complex 3.",
+     "date": "2026-10-27T22:31:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2115207910607446016/img/N9mTVyhETo00rlz7.jpg",
+     "video": "https://video.twimg.com/amplify_video/2115207910607446016/vid/avc1/1920x1080/dytsfYhwh6zwgmEx.mp4",
+     "url": "https://x.com/RocketLab/status/2115209678921838783"
     }
    ]
   },
@@ -1304,6 +1304,15 @@
      "image": "https://pbs.twimg.com/media/HVuebn4XcAA-BYq.jpg",
      "video": null,
      "url": "https://x.com/ulalaunch/status/2115458654333702570"
+    },
+    {
+     "id": "2108573330659803566",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
+     "date": "2026-10-09T15:00:32.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
+     "video": null,
+     "url": "https://x.com/ulalaunch/status/2108573330659803566"
     },
     {
      "id": "2106036797805310329",
@@ -1324,7 +1333,7 @@
    "posts": [
     {
      "id": "2115503855194534267",
-     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation",
+     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation satellites into their exact orbital slots, with multiple powered phases, coast phases and a highly accurate upper stage re-ignition sequence.\n\nA powerful demonstration of Ariane 6's ability to carry out complex orbital deployments.\n\nFor Galileo, precision is essential.\n\nAnd it starts at launch.\n\n#LaunchingAmbitions\n@ArianeGroup @ESA @CNES @EuropeSpacePort\n@esa_transport @esaoperations @EU4Space",
      "date": "2026-10-28T17:59:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVvHipQW0AAVr-G.jpg",
@@ -1342,7 +1351,7 @@
     },
     {
      "id": "2113676900883218684",
-     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the",
+     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the spacecraft and Ariane 6. It keeps the spacecraft securely attached during launch and enables its separation once the intended orbit has been reached.\n\nDuring the fit check, teams verify that the spacecraft and its adapter match perfectly, which is a key step before moving forward with the launch campaign.\n\nOnce these checks are complete, the spacecraft can move on to the next stage of its preparation for launch.\n\n#LaunchingAmbitions",
      "date": "2026-10-23T17:00:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVVJ31CWcAAr-2K.jpg",
@@ -1351,7 +1360,7 @@
     },
     {
      "id": "2113314438816170244",
-     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through",
+     "text": "27 minutes with Ariane 5. 8 years to reach Mercury. 🚀\n\nOn 20 October 2018, BepiColombo lifted off from Europe’s Spaceport aboard Ariane 5.\n\nAround 27 minutes later, the spacecraft separated from the launcher and began the next stage of its journey: an eight-year voyage through the inner Solar System to reach Mercury.\n\nA few minutes with Ariane 5 were the first step in a journey lasting billions of kilometres.\n\nFrom launch to separation, every minute was about putting BepiColombo on the right path for what came next.\n\n#LaunchingAmbitions\n@esa @JAXA_jp @CNES",
      "date": "2026-10-22T17:00:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVQARrrXYAAF3pm.jpg",

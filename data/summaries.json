@@ -155,9 +155,6 @@
  "https://x.ai/news/incident-sweep": {
   "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
  },
- "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
-  "s": "A mobile robot slows for someone in a hallway based on its input data. But if the input is wrong, the robot may still act as designed, potentially causing a safety issue. This matters because researchers are discovering how manipulated inputs can alter robot behavior, posing a risk to safety."
- },
  "https://www.sciencedaily.com/releases/2026/10/261027063814.htm": {
   "s": "Researchers have identified a small group of brain cells that help maintain steady blood pressure, even when average readings appear normal. Loss of these cells can lead to unstable blood pressure, increasing the risk of heart disease, stroke, and brain injury. The findings suggest that maintaining stable blood pressure from moment to moment is as important as keeping average levels within normal range. Understanding this mechanism could lead to new treatments to protect against the potential consequences of unstable blood pressure."
  },
@@ -194,10 +191,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261028234238.htm": {
   "s": "A study found that people who consumed the most sugar substitutes showed a faster decline in memory and thinking skills, equivalent to 1.6 extra years of brain aging. This suggests that while sweeteners are marketed as healthier alternatives, they might not be as beneficial for long-term brain health as previously thought."
- },
- "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
   "s": "",
@@ -245,9 +238,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/": {
-  "s": "When companies started approaching NASA’s Langley Research Center for inclusion in the ISAM State of Play, the team recognized it marked a shift. The document, now 368 pages long, serves as both an encyclopedia and roadmap for technologies enabling space servicing, assembly, and manufacturing, expanding more than linearly since its inception. This rigor matters, as ISAM capabilities will be crucial for missions that require larger telescopes, mobile national security assets, and systems that can upgrade without full replacement."
- },
  "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva": {
   "s": "Astronauts Anil Menon and Joshua Kutryk deployed a new solar array on the International Space Station during a spacewalk. This matters as it increases power supply, enabling more scientific experiments and crew activities on the station."
  },
@@ -286,9 +276,6 @@
  },
  "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html": {
   "s": "Graphene, a single layer of carbon atoms, has high electron mobility but is inefficient at converting light into electricity. Researchers propose using magnetic fields and electrical voltages to guide electrons and holes, creating potential barriers that force them to move in opposite directions. This approach aims to overcome graphene's lack of a bandgap, enabling it to convert light energy more effectively."
- },
- "https://openai.com/index/how-we-detect-frontier-model-misalignment": {
-  "s": "OpenAI monitors AI agents for misaligned behavior across different surfaces to prevent incidents. A recent incident showed gaps in monitoring, prompting OpenAI to expand its system to cover more types of use, including training, evaluation, and deployment. The expanded system detected a breach 30 hours before the actual breach, giving responders time to interrupt the activity."
  },
  "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": {
   "s": "Crew members aboard the International Space Station still celebrate Halloween by dressing up in costumes, sometimes spooky, sometimes scary. This tradition shows how astronauts maintain a sense of normalcy and fun in space."
@@ -329,20 +316,11 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-10-gene-genes-roles-species.html": {
-  "s": "The team at Kyoto University developed a method called Species-OT to compare gene expression patterns across different species. They reasoned that shared gene expression shapes might indicate genes that play similar roles in cell fate specification processes. This approach helps identify genes that have correspondences across species, even when the underlying genes differ."
- },
- "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html": {
-  "s": "For the first time, researchers have captured detailed images of ribosome assembly inside human cells. This breakthrough matters because it provides a clearer picture of how ribosomes, crucial for protein synthesis, are assembled within cells, revealing steps and interactions that were previously unseen."
- },
  "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
   "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
  },
  "https://www.marktechpost.com/2026/10/29/prime-intellect-prime-mega-moe-fused-moe-kernel-training/": {
   "s": "Prime Intellect released Prime Mega MoE, a kernel that speeds up the training of DeepSeek’s MoE models. This kernel is faster by up to 34% in prime-rl, reducing communication bottlenecks by fusing and overlapping operations. Why it matters: MoE training is slow due to waiting times for data transfer. Prime Mega MoE tackles this by overlapping computations and using scratch buffers, making the forward pass significantly faster."
- },
- "https://openai.com/index/grupo-boticario": {
-  "s": "Grupo Boticário has developed an AI platform that handles up to 80% of resellers' operational issues, freeing sales staff to focus on building human connections with customers. This matters because it allows the company to maintain strong customer relationships while reducing administrative burdens."
  },
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
@@ -355,8 +333,25 @@
   "s": "",
   "why": "too little source text"
  },
- "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/": {
+ "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": {
+  "s": "The map identifies 13 locations on Mars that have mineralogy and chemistry matching that of Teghaza 001, a very old Martian meteorite. This helps scientists deduce that the meteorite likely originated in the southern highlands of Mars."
+ },
+ "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity and long-term capabilities. This new model shows significant improvements in identifying and patching vulnerabilities, demonstrating its effectiveness in complex engineering tasks. Launching this week, Carbon will be made available to a limited group of cyber defenders, with broader access expected through a Fairwind Program."
+ },
+ "https://phys.org/news/2026-10-evolutionary-key-enzyme-bacteria-proteins.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new world simulation model that enhances realism and interactive capabilities. It matters because it advances AGI by enabling safer, infinitely variable simulations for training robots and agents, and creating new interactive experiences."
  }
 }

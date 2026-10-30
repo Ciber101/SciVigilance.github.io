@@ -71,20 +71,6 @@
    "rank": 1
   },
   {
-   "id": "rb-your-robot-s-safety-functions-already-work-what-if-the-i",
-   "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
-   "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass.",
-   "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
-   "source": "IEEE Spectrum",
-   "image": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-27",
-   "ts": "2026-10-27T16:14:39+00:00",
-   "rank": 1
-  },
-  {
    "id": "rb-robots-in-society-business-and-culture-september-2026",
    "title": "Robots in Society, Business and Culture: September 2026",
    "summary": "A walking robotic hand, from Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand, Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann.",
@@ -377,26 +363,65 @@
    "date": "2026-09-23",
    "ts": "2026-09-23T13:59:17+00:00",
    "rank": 1
-  },
-  {
-   "id": "rb-the-missing-piece-of-your-ai-stack",
-   "title": "The Missing Piece of Your AI Stack",
-   "summary": "The 5.2 release for Boston Dynamics Spot robot connects enterprise systems with autonomous robots to unlock more value from AI investments.",
-   "url": "https://bostondynamics.com/blog/the-missing-piece-of-your-ai-stack/",
-   "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/08/spot-orbit-52.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-09-10",
-   "ts": "2026-09-10T13:00:00+00:00",
-   "rank": 1
   }
  ],
  "date": "2026-10-29",
- "updated": "2026-10-29T23:30+00:00",
+ "updated": "2026-10-30T02:30+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
+  {
+   "id": "map-showing-potential-origins-of-martian-meteorite-teghaza-0",
+   "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+   "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth.",
+   "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&#038;h=770&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T00:07:39+00:00"
+  },
+  {
+   "id": "patrick-stewart-renowned-actor-and-star-trek-s-captain-picar",
+   "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+   "summary": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
+   "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/QqqJuNTwQKzgKzGHhzWhuZ-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T23:49:50+00:00"
+  },
+  {
+   "id": "ai-gemini-4-carbon-our-next-frontier-model",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:00:58+00:00",
+   "rank": 0
+  },
+  {
+   "id": "evolutionary-changes-in-key-enzyme-may-help-bacteria-make-pr",
+   "title": "Evolutionary changes in key enzyme may help bacteria make proteins faster",
+   "summary": "Evolutionary changes in a key protein synthesis enzyme, isoleucyl-tRNA synthetase (IleRS), may help bacteria fine-tune how quickly proteins are made, report researchers from Institute of Science Tokyo, Japan; the…",
+   "url": "https://phys.org/news/2026-10-evolutionary-key-enzyme-bacteria-proteins.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-evolutionary-chang.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T23:40:05+00:00"
+  },
   {
    "id": "it-s-a-ghost-no-it-s-a-stellar-cr-che",
    "title": "It's a Ghost! No, It's a Stellar Crèche!",
@@ -409,59 +434,6 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T23:25:37+00:00"
-  },
-  {
-   "id": "electrical-guardrails-for-charge-carriers-a-new-approach-to",
-   "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
-   "summary": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity.",
-   "url": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hzdr-team-proposes-a-n.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T23:20:01+00:00"
-  },
-  {
-   "id": "ai-how-we-detect-frontier-model-misalignment",
-   "title": "How we detect frontier model misalignment",
-   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T09:00:00+00:00",
-   "rank": 0
-  },
-  {
-   "id": "halloween-aboard-the-international-space-station",
-   "title": "Halloween Aboard the International Space Station",
-   "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit.",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg?w=524",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T21:44:23+00:00"
-  },
-  {
-   "id": "on-this-day-in-space-oct-29-1991-nasa-s-galileo-spacecraft-f",
-   "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
-   "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/s9xRrSr9vGL7naKG9VhkcG-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T21:28:58+00:00"
   },
   {
    "id": "bright-object-beyond-pluto-may-be-the-solar-system-s-sixth-d",
@@ -490,18 +462,18 @@
    "ts": "2026-10-29T20:00:00+00:00"
   },
   {
-   "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
-   "title": "AI for Science expands to foundations and institutions",
-   "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+   "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
+   "title": "Granite Switch 4.1.1 — Update models like you update software",
+   "summary": "A Blog post by IBM Granite on Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+   "source": "Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T00:00:00+00:00",
-   "rank": 0
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:37:07+00:00",
+   "rank": 1
   },
   {
    "id": "seabirds-get-jet-lag-too-and-it-can-throw-them-a-bit-off-cou",
@@ -556,17 +528,17 @@
    "ts": "2026-10-29T13:14:52+00:00"
   },
   {
-   "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
-   "title": "Granite Switch 4.1.1 — Update models like you update software",
-   "summary": "A Blog post by IBM Granite on Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/az6afuuoAkyiMImufSePe.png",
+   "id": "ai-mistral-large-4-le-chonk-is-now-open-weight",
+   "title": "Mistral Large 4 (Le Chonk) is now open weight",
+   "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "source": "Mistral AI",
+   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
    "tags": [
     "AI"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T13:37:07+00:00",
+   "ts": "2026-10-29T12:00:07+00:00",
    "rank": 1
   },
   {
@@ -596,17 +568,17 @@
    "ts": "2026-10-27T18:12:53+00:00"
   },
   {
-   "id": "simplified-ancestral-enzyme-makes-atp-without-amino-acid-nee",
-   "title": "Simplified ancestral enzyme makes ATP without amino acid needed for its usual reaction",
-   "summary": "Proteins perform essential functions in living organisms, from catalyzing biochemical reactions to supporting cellular energy metabolism.",
-   "url": "https://phys.org/news/2026-10-ancestral-enzyme-atp-amino-acid.html",
+   "id": "rare-4-1-billion-year-old-martian-meteorite-reveals-clues-to",
+   "title": "Rare 4.1-billion-year-old Martian meteorite reveals clues to planet's ancient past",
+   "summary": "Scientists at the University of New Mexico have played a key role in identifying a rare, 4.1-billion-year-old Martian meteorite that provides new evidence that the red planet may have once had a wetter, Earth-like…",
+   "url": "https://phys.org/news/2026-10-rare-billion-year-martian-meteorite.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ancestral-enzyme-redes.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/unm-scientists-help-un.jpg",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T23:00:06+00:00"
+   "ts": "2026-10-29T23:30:05+00:00"
   },
   {
    "id": "examining-the-cat-s-head-nebula-with-the-hubble-and-jwst",
@@ -622,30 +594,30 @@
    "ts": "2026-10-29T22:38:52+00:00"
   },
   {
-   "id": "artemis-ii-commander-reid-wiseman-named-deputy-director-for",
-   "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
-   "summary": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
-   "url": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/2mYvy2KuahYGHkMXQdnVMe-1920-80.jpg",
+   "id": "halloween-aboard-the-international-space-station",
+   "title": "Halloween Aboard the International Space Station",
+   "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit.",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg?w=524",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T21:00:00+00:00"
+   "ts": "2026-10-29T21:44:23+00:00"
   },
   {
-   "id": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever",
-   "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-   "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound…",
-   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
+   "id": "on-this-day-in-space-oct-29-1991-nasa-s-galileo-spacecraft-f",
+   "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+   "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/s9xRrSr9vGL7naKG9VhkcG-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T18:18:09+00:00"
+   "ts": "2026-10-29T21:28:58+00:00"
   },
   {
    "id": "decapitated-man-buried-near-fort-in-roman-era-scotland-gets",
@@ -726,30 +698,30 @@
    "ts": "2026-10-22T08:00:00+00:00"
   },
   {
-   "id": "asteroids-venturing-near-white-dwarfs-don-t-break-directly-i",
-   "title": "Asteroids venturing near white dwarfs don't break directly into dust, study reveals",
-   "summary": "When asteroids travel too close to white dwarfs, the dense remnants of stars that have exhausted their nuclear fuel, powerful gravitational forces can tear them apart.",
-   "url": "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html",
+   "id": "electrical-guardrails-for-charge-carriers-a-new-approach-to",
+   "title": "Electrical guardrails for charge carriers: A new approach to harness graphene for solar cells",
+   "summary": "Graphene is a single layer of carbon atoms in which electrons can move with high mobility, making it promising for high-speed electronic components. Yet it is not very efficient at converting light into electricity.",
+   "url": "https://phys.org/news/2026-10-electrical-guardrails-carriers-approach-harness.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-study-reveals-that.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hzdr-team-proposes-a-n.jpg",
    "tags": [
-    "Space"
+    "Biology"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T22:50:01+00:00"
+   "ts": "2026-10-29T23:20:01+00:00"
   },
   {
-   "id": "astronauts-deploy-solar-array-on-100th-us-spacewalk-by-inter",
-   "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
-   "summary": "NASA astronaut Anil Menon and Joshua Kutryk of the Canadian Space Agency deployed a new solar array on Thursday (Oct. 29) during a seven-hour spacewalk outside the International Space Station.",
-   "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+   "id": "artemis-ii-commander-reid-wiseman-named-deputy-director-for",
+   "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
+   "summary": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
+   "url": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/2mYvy2KuahYGHkMXQdnVMe-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T20:01:52+00:00"
+   "ts": "2026-10-29T21:00:00+00:00"
   },
   {
    "id": "no-comets-required-how-the-growing-earth-may-have-created-it",
@@ -765,17 +737,17 @@
    "ts": "2026-10-29T18:25:52+00:00"
   },
   {
-   "id": "nasa-names-troy-asher-armstrong-flight-research-center-direc",
-   "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-   "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California.",
-   "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
+   "id": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever",
+   "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+   "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound…",
+   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T18:00:35+00:00"
+   "ts": "2026-10-29T18:18:09+00:00"
   },
   {
    "id": "neanderthal-dna-still-survives-in-our-human-family-tree-what",
@@ -843,43 +815,43 @@
    "ts": "2026-10-23T14:54:10+00:00"
   },
   {
-   "id": "a-protein-that-regulates-mrna-decoding-can-itself-be-regulat",
-   "title": "A protein that regulates mRNA decoding can itself be regulated with implications for understanding cancer",
-   "summary": "Decoding of messenger RNA (mRNA) occurs during translation, the vital cellular process that builds proteins. Errors in this process are known to lead to cancer growth. Scientists at St.",
-   "url": "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html",
+   "id": "simplified-ancestral-enzyme-makes-atp-without-amino-acid-nee",
+   "title": "Simplified ancestral enzyme makes ATP without amino acid needed for its usual reaction",
+   "summary": "Proteins perform essential functions in living organisms, from catalyzing biochemical reactions to supporting cellular energy metabolism.",
+   "url": "https://phys.org/news/2026-10-ancestral-enzyme-atp-amino-acid.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-identifies-trans-1.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/ancestral-enzyme-redes.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T22:30:06+00:00"
+   "ts": "2026-10-29T23:00:06+00:00"
   },
   {
-   "id": "see-nasa-s-artemis-iii-astronauts-meet-trump-at-the-white-ho",
-   "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
-   "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
-   "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
+   "id": "astronauts-deploy-solar-array-on-100th-us-spacewalk-by-inter",
+   "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
+   "summary": "NASA astronaut Anil Menon and Joshua Kutryk of the Canadian Space Agency deployed a new solar array on Thursday (Oct. 29) during a seven-hour spacewalk outside the International Space Station.",
+   "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/54fSmWhNnaSojscHCvLYrh-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T18:55:22+00:00"
+   "ts": "2026-10-29T20:01:52+00:00"
   },
   {
-   "id": "nih-nasa-qusafe-challenge",
-   "title": "NIH–NASA QuSAFE Challenge",
-   "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs…",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+   "id": "nasa-names-troy-asher-armstrong-flight-research-center-direc",
+   "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
+   "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California.",
+   "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T17:44:37+00:00"
+   "ts": "2026-10-29T18:00:35+00:00"
   },
   {
    "id": "colliding-dwarf-planets-created-a-cat-s-tail-1-000-astronomi",
@@ -947,43 +919,43 @@
    "ts": "2026-10-26T15:00:00+00:00"
   },
   {
-   "id": "qinghai-tibet-plateau-study-traces-evolution-of-terrestrial",
-   "title": "Qinghai–Tibet Plateau study traces evolution of terrestrial animals across three distinct regions",
-   "summary": "A new study has pieced together the evolutionary history of terrestrial animals on the Qinghai–Tibet Plateau (QTP), offering a comprehensive picture of how the distinctive fauna of the \"Third Pole\" took shape over…",
-   "url": "https://phys.org/news/2026-10-qinghaitibet-plateau-evolution-terrestrial-animals.html",
+   "id": "asteroids-venturing-near-white-dwarfs-don-t-break-directly-i",
+   "title": "Asteroids venturing near white dwarfs don't break directly into dust, study reveals",
+   "summary": "When asteroids travel too close to white dwarfs, the dense remnants of stars that have exhausted their nuclear fuel, powerful gravitational forces can tear them apart.",
+   "url": "https://phys.org/news/2026-10-asteroids-venturing-white-dwarfs-dont.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-traces-the-evolu.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-study-reveals-that.jpg",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T22:00:01+00:00"
+   "ts": "2026-10-29T22:50:01+00:00"
   },
   {
-   "id": "cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-a",
-   "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
-   "summary": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
-   "url": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
+   "id": "see-nasa-s-artemis-iii-astronauts-meet-trump-at-the-white-ho",
+   "title": "See NASA's Artemis III astronauts meet Trump at the White House as they train for a critical 2027 moon lander test flight (photos)",
+   "summary": "The astronauts of NASA's Artemis III mission met with President Trump at the White House on Wednesday (Oct. 28), just as the Artemis II spaceflyers did six months ago.",
+   "url": "https://www.space.com/space-exploration/artemis/see-nasas-artemis-iii-astronauts-meet-trump-at-the-white-house-as-they-train-for-a-critical-2027-moon-lander-test-flight-photos",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/Kja7G4PLLXQSasLn3kGfrg-1920-80.png",
+   "image": "https://cdn.mos.cms.futurecdn.net/54fSmWhNnaSojscHCvLYrh-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T18:00:00+00:00"
+   "ts": "2026-10-29T18:55:22+00:00"
   },
   {
-   "id": "env-a-tu-nombre-a-tit-n-a-bordo-de-la-misi-n-dragonfly-de-la",
-   "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
-   "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a…",
-   "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+   "id": "nih-nasa-qusafe-challenge",
+   "title": "NIH–NASA QuSAFE Challenge",
+   "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs…",
+   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T15:21:23+00:00"
+   "ts": "2026-10-29T17:44:37+00:00"
   },
   {
    "id": "astronomers-solve-the-mystery-of-the-sun-s-spinning-plasma-j",
@@ -1051,43 +1023,43 @@
    "ts": "2026-10-26T04:00:00+00:00"
   },
   {
-   "id": "the-shape-of-gene-expression-identifying-genes-that-may-shar",
-   "title": "The 'shape' of gene expression: Identifying genes that may share roles across species",
-   "summary": "Much of what we know about biology comes from animal models, particularly mice. Applying these insights to humans, however, is not always straightforward.",
-   "url": "https://phys.org/news/2026-10-gene-genes-roles-species.html",
+   "id": "a-protein-that-regulates-mrna-decoding-can-itself-be-regulat",
+   "title": "A protein that regulates mRNA decoding can itself be regulated with implications for understanding cancer",
+   "summary": "Decoding of messenger RNA (mRNA) occurs during translation, the vital cellular process that builds proteins. Errors in this process are known to lead to cancer growth. Scientists at St.",
+   "url": "https://phys.org/news/2026-10-protein-mrna-decoding-implications-cancer.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-shape-of-gene-expr-1.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-identifies-trans-1.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T21:40:16+00:00"
+   "ts": "2026-10-29T22:30:06+00:00"
   },
   {
-   "id": "send-your-name-to-titan-aboard-nasa-s-dragonfly-mission",
-   "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
-   "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first…",
-   "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T15:10:18+00:00"
-  },
-  {
-   "id": "the-universe-in-the-eye-of-a-telescope-space-photo-of-the-da",
-   "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
-   "summary": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
-   "url": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
+   "id": "cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-a",
+   "title": "Cosmic graveyard of zombie planets offers a grisly warning about our own solar system's fate",
+   "summary": "Two zombie exoplanets that rose from the grave to shuffle through the gory remains of their fellow planets may just agree with these immortal words from horror maestro Stephen King.",
+   "url": "https://www.space.com/astronomy/stars/cosmic-graveyard-of-zombie-planets-offers-a-grisly-warning-about-our-own-solar-systems-fate",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/UpMr87sa6uEgZdexZhTV5f-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/Kja7G4PLLXQSasLn3kGfrg-1920-80.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T14:00:00+00:00"
+   "ts": "2026-10-29T18:00:00+00:00"
+  },
+  {
+   "id": "env-a-tu-nombre-a-tit-n-a-bordo-de-la-misi-n-dragonfly-de-la",
+   "title": "Envía tu nombre a Titán a bordo de la misión Dragonfly de la NASA",
+   "summary": "Read this release in English here. Puede que nunca llegues a surcar los cielos bajo las nubes o sobre las arenas orgánicas de la luna Titán de Saturno, ¡pero tu nombre sí puede hacerlo! La NASA invita al público a…",
+   "url": "https://www.nasa.gov/news-release/envia-tu-nombre-a-titan-a-bordo-de-la-mision-dragonfly-de-la-nasa/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01j-hero-image-16-9-spanish-v01.jpg?w=2048",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T15:21:23+00:00"
   },
   {
    "id": "128-000-year-old-ice-in-tibet-could-rewrite-climate-history",
@@ -1142,43 +1114,43 @@
    "ts": "2026-10-27T13:00:00+00:00"
   },
   {
-   "id": "detailed-images-reveal-ribosome-assembly-inside-human-cells",
-   "title": "Detailed images reveal ribosome assembly inside human cells for the first time",
-   "summary": "For decades, ribosomes have been under the lens of many scientists. Ribosomes are highly sophisticated and complex molecular machines that allow cells to synthesize proteins.",
-   "url": "https://phys.org/news/2026-10-images-reveal-ribosome-human-cells.html",
+   "id": "qinghai-tibet-plateau-study-traces-evolution-of-terrestrial",
+   "title": "Qinghai–Tibet Plateau study traces evolution of terrestrial animals across three distinct regions",
+   "summary": "A new study has pieced together the evolutionary history of terrestrial animals on the Qinghai–Tibet Plateau (QTP), offering a comprehensive picture of how the distinctive fauna of the \"Third Pole\" took shape over…",
+   "url": "https://phys.org/news/2026-10-qinghaitibet-plateau-evolution-terrestrial-animals.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/watching-ribosomes-in.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/study-traces-the-evolu.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T21:30:01+00:00"
+   "ts": "2026-10-29T22:00:01+00:00"
   },
   {
-   "id": "nasa-s-isam-state-of-play-the-industry-standard-for-space-se",
-   "title": "NASA’s ISAM State of Play: The Industry Standard for Space Servicing, Assembly, and Manufacturing",
-   "summary": "When companies began approaching NASA’s Langley Research Center, asking to be included in the In-Space Servicing, Assembly, and Manufacturing (ISAM) State of Play for access to competitive intelligence, the team knew…",
-   "url": "https://www.nasa.gov/humans-in-space/commercial-space/nasas-isam-state-of-play-the-industry-standard-for-space-servicing-assembly-and-manufacturing/",
+   "id": "send-your-name-to-titan-aboard-nasa-s-dragonfly-mission",
+   "title": "Send Your Name to Titan Aboard NASA’s Dragonfly Mission",
+   "summary": "You may never soar under the clouds or over the organic sands of Saturn’s moon Titan, but your name can. NASA is inviting the public to send their names aboard the agency’s Dragonfly rotorcraft and be part of the first…",
+   "url": "https://www.nasa.gov/news-release/send-your-name-to-titan-aboard-nasas-dragonfly-mission/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/03/isam-state-of-play.jpg?w=872",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/27-10097-01a-hero-image-16-9-v02.jpg?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T15:06:40+00:00"
+   "ts": "2026-10-29T15:10:18+00:00"
   },
   {
-   "id": "stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterio",
-   "title": "Stunning solar eclipse photos reveal giant hole and mysterious 'smoke rings' in the sun's atmosphere",
-   "summary": "Solar eclipse photography provides a unique vista into the processes taking place in the sun's upper atmosphere.",
-   "url": "https://www.space.com/stargazing/solar-eclipses/stunning-solar-eclipse-photos-reveal-giant-hole-and-mysterious-smoke-rings-in-the-suns-atmosphere",
+   "id": "the-universe-in-the-eye-of-a-telescope-space-photo-of-the-da",
+   "title": "The universe in the eye of a telescope | Space photo of the day for Oct. 29, 2026",
+   "summary": "The Swedish-ESO Submillimetre Telescope (SEST) keeps its eye on the cosmos decades after being decommissioned.",
+   "url": "https://www.space.com/stargazing/astrophotography/the-universe-in-the-eye-of-a-telescope-space-photo-of-the-day-for-oct-29-2026",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/BxpA68cGECBXzZaMLvKNbU-1920-80.png",
+   "image": "https://cdn.mos.cms.futurecdn.net/UpMr87sa6uEgZdexZhTV5f-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T12:00:00+00:00"
+   "ts": "2026-10-29T14:00:00+00:00"
   },
   {
    "id": "your-blood-pressure-could-be-dangerous-even-when-your-number",
@@ -1222,31 +1194,17 @@
  ],
  "ai": [
   {
-   "id": "ai-how-we-detect-frontier-model-misalignment",
-   "title": "How we detect frontier model misalignment",
-   "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/5gtjUYZjCpVMAAv0AbX0Cs/510ae35e592775228a8ef7b7f0911237/how-we-detect-frontier-model-misalignment-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T09:00:00+00:00",
-   "rank": 0
-  },
-  {
-   "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
-   "title": "AI for Science expands to foundations and institutions",
-   "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "source": "Anthropic",
-   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+   "id": "ai-gemini-4-carbon-our-next-frontier-model",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
    "tags": [
     "AI"
    ],
    "date": "2026-10-28",
-   "ts": "2026-10-28T00:00:00+00:00",
+   "ts": "2026-10-28T17:00:58+00:00",
    "rank": 0
   },
   {
@@ -1320,20 +1278,6 @@
    "rank": 1
   },
   {
-   "id": "ai-gpt-6-1-terra",
-   "title": "GPT-6.1 Terra",
-   "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing…",
-   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-   "source": "Simon Willison",
-   "image": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-26",
-   "ts": "2026-10-26T23:53:07+00:00",
-   "rank": 1
-  },
-  {
    "id": "ai-baseten-releases-joey-1-a-2b-decision-model-at-0-01-per",
    "title": "Baseten Releases joey-1, a 2B Decision Model at $0.01 per 1M Tokens",
    "summary": "Baseten has released joey-1, a 2B open-weight decision model that returns calibrated probabilities instead of text. It runs at 20 ms P50 latency and costs $0.01 per million input tokens.",
@@ -1404,6 +1348,34 @@
    "rank": 2
   },
   {
+   "id": "ai-ai-for-science-expands-to-foundations-and-institutions",
+   "title": "AI for Science expands to foundations and institutions",
+   "summary": "We’re highlighting 20 scientific foundations, institutions, and research groups from around the world that we’ve partnered with in an expansion of our AI for Science program.",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "source": "Anthropic",
+   "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/2c317246f4ac7eaf0667d90a76ac05a7a7b601fc-1200x630.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-28",
+   "ts": "2026-10-28T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-genie-4-a-new-generation-of-world-simulation",
+   "title": "Genie 4: A new generation of world simulation",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-your-next-sales-teammate-should-be-a-grok-bot",
    "title": "Your next sales teammate should be a Grok Bot",
    "summary": "The SpaceXSI Sales team built Shared Bots for prospecting, quoting, and deal review so every rep works from the same up-to-date expertise.",
@@ -1415,6 +1387,20 @@
    ],
    "date": "2026-10-27",
    "ts": "2026-10-27T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gpt-6-1-terra",
+   "title": "GPT-6.1 Terra",
+   "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing…",
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "source": "Simon Willison",
+   "image": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-26",
+   "ts": "2026-10-26T23:53:07+00:00",
    "rank": 2
   },
   {
@@ -1541,20 +1527,6 @@
    ],
    "date": "2026-10-18",
    "ts": "2026-10-18T00:00:00+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-how-grupo-botic-rio-uses-ai-to-strengthen-human-connecti",
-   "title": "How Grupo Boticário uses AI to strengthen human connections",
-   "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to…",
-   "url": "https://openai.com/index/grupo-boticario",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/626geK6h5EKqCFSWg0YLPk/f8dd261042306e6eb8a87f543103d381/grupo-boticario-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-16",
-   "ts": "2026-10-16T00:00:00+00:00",
    "rank": 2
   },
   {
