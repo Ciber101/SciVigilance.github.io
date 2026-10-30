@@ -1,7 +1,4 @@
 {
- "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015": {
-  "s": "A new AI model uncovers how cells communicate to form tissues. This could help in making stem cells more useful and could lead to better disease models and therapies. Understanding these cell conversations could help scientists fix problems in how organs grow and develop, which is important for treating diseases."
- },
  "https://www.anthropic.com/news/public-benefit-fund": {
   "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
  },
@@ -28,12 +25,6 @@
  },
  "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/": {
   "s": "Laplace Intelligence uses AI to test robots and self-driving cars in simulations before they are deployed. This matters because AI can behave unpredictably in the real world, and testing in simulations helps ensure physical AI is safe."
- },
- "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/": {
-  "s": "The MIT engineers created a paper-thin robot that swims through water using muscle cells. This innovation shows muscle cells can power a small robot, suggesting muscle-powered robots could be made thinner and more efficient."
- },
- "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/": {
-  "s": "Rika Antonova from Cambridge University discussed how artificial intelligence can enhance robot hardware and algorithms. This research is important as it advances the capabilities of robots, making them more efficient and adaptable."
  },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
@@ -67,9 +58,6 @@
  },
  "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026": {
   "s": "The new simulation called Lumina tracks the universe’s first 2 billion years with greater detail and volume, including dark matter, galaxies, stars, and cosmic structures. This helps researchers better understand how the universe developed after the dark ages."
- },
- "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
-  "s": "A robotic hand capable of walking has been developed, showcasing progress in anthropomorphic robotics. This development matters as it advances the field from specialized industrial machines to more versatile and adaptable systems. Meanwhile, the global robotics market is growing, with China leading in installations, and the United States catching up. Toyota estimates a potential investment of $6.4 billion annually in robot modernization, indicating the increasing importance of robotics in manufacturing."
  },
  "https://www.anthropic.com/news/s1-sec": {
   "s": "Anthropic, an AI safety company, filed paperwork with the SEC for an initial public offering. This filing means the company plans to sell shares of its stock to the public, raising capital for its operations."
@@ -144,15 +132,9 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.universetoday.com/articles/colliding-dwarf-planets-created-a-cats-tail-1000-astronomical-units-long": {
-  "s": "The Beta Pictoris system, about 63 light years away and 23 million years old, has a debris disk with a clump of carbon monoxide, a warp, and an asymmetry. Researchers using JWST found an unusual feature called a \"cat's tail\" extending 1,000 astronomical units. They concluded that colliding dwarf planets created this feature, revealing insights into the early stages of planetary systems."
- },
  "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.universetoday.com/articles/no-comets-required-how-the-growing-earth-may-have-created-its-own-water": {
-  "s": "No comets or asteroids were needed to deliver Earth's water, as the planet may have formed with substantial amounts of hydrogen and needed only oxygen to create water. This finding challenges the prevailing theory that comets and asteroids delivered Earth's water, offering a new perspective on the planet's habitability."
  },
  "https://www.livescience.com/archaeology/romans/decapitated-man-buried-near-fort-in-roman-era-scotland-gets-a-new-virtual-face": {
   "s": "",
@@ -191,10 +173,6 @@
  "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": {
   "s": "The map identifies 13 locations on Mars that have mineralogy and chemistry matching that of Teghaza 001, a very old Martian meteorite. This helps scientists deduce that the meteorite likely originated in the southern highlands of Mars."
  },
- "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
@@ -213,9 +191,6 @@
  },
  "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/": {
   "s": "Samaya AI released Sterling, a 3B-active finance research model that outperforms Claude Fable 5.1 on financial research tasks. This matters because it demonstrates how a large model can be adapted for more efficient financial research, reducing costs significantly."
- },
- "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story": {
-  "s": "A distant planet discovered by the JWST would be extremely uncomfortable if Halloween occurred every 11 hours, as it's so hot that no life could exist on its surface. This research highlights how inhospitable some alien worlds can be."
  },
  "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026": {
   "s": "",
@@ -249,9 +224,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261029072119.htm": {
   "s": "Scientists have identified three deep-sea fish that resemble seahorses but are actually a separate species. This discovery reveals that nature has independently evolved the same seahorse-like body shape multiple times, challenging previous classifications."
  },
- "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
-  "s": "Zlatka Stoeva from DZP Technologies discussed flexible, stretchable and soft printed electronics for dexterous robots. Her company, DZP Technologies, specializes in advanced materials and novel electronics, and she developed the materials which are the basis for their current portfolio. DZP Technologies entered the robotics field through a project funded by ARIA, focusing on printed electronics components for dexterous robots."
- },
  "https://www.therobotreport.com/robobusiness-2026-recap/": {
   "s": "The RoboBusiness 2026 event concluded with a recap by The Robot Report editorial team. The event featured notable panels and sessions, including discussions on AI in production robotics and best practices for autonomous robot operation. The 20th anniversary event marked the end of the RoboBusiness brand, with the summit renaming to Robotics Summit West for future editions."
  },
@@ -270,9 +242,6 @@
  },
  "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst": {
   "s": "NASA’s Swift telescope, launched in 2004, has been studying gamma-ray bursts, the most powerful cosmic events. Swift’s ability to respond quickly to bursts has made it a cornerstone of modern astronomy, lasting far longer than expected. Now, the spacecraft is running out of altitude and will burn up in Earth’s atmosphere soon."
- },
- "https://www.sciencealert.com/the-worlds-largest-known-sponge-is-the-size-of-a-minivan-and-its-species-is-a-mystery": {
-  "s": "The largest sponge ever found, about the size of a minivan, was discovered by NOAA scientists in the Pacific Ocean. Its species remains unidentified, despite the researchers encountering only two apparent representatives during their expedition."
  },
  "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
   "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
@@ -339,9 +308,6 @@
  "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html": {
   "s": "Every day, two NASA space instruments continuously monitor sunlight reflecting off Earth's surface, generating more than a million observations. New algorithms have enhanced these instruments' ability to measure atmospheric carbon dioxide concentrations, improving the accuracy of global CO₂ records since 2014. The updated data helps scientists better understand carbon cycles, track CO₂ accumulation, and compare with ground-based measurements."
  },
- "https://phys.org/news/2026-10-global-wildlife-previous-species-major.html": {
-  "s": "More than 107,000 species are used and traded globally, more than double previous estimates, according to new research. This suggests the true scale of wildlife trade may be even larger due to major data gaps. Researchers say information on extent and sustainability of trade is incomplete and fragmented. They highlight a need for better data to assess risks to biodiversity and identify species in decline."
- },
  "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
   "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
  },
@@ -349,6 +315,32 @@
   "s": "Percepto introduced Axion, an AI platform that integrates inspection data from various sources. This move signifies Percepto's transition from focusing on hardware to developing software, enhancing operational intelligence for critical infrastructure."
  },
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/chernobyls-dogs-are-genetically-different-and-we-may-finally-know-why": {
+  "s": "The dogs that survived in the Chernobyl Exclusion Zone are genetically distinct from those living elsewhere. This study suggests the genetic differences are not due to mutations but rather to other factors influenced by the long-term radiation exposure."
+ },
+ "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two": {
+  "s": "The scientists found a way that a black hole could split into two black holes under specific conditions. This is unusual because black holes have strong gravity and are thought to be indestructible. The researchers calculated that for such a split to occur, the two resulting black holes must stay apart and not immediately merge."
+ },
+ "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
+  "s": "The VS Code extension on Cursor, an AI-assisted developer tool, was compromised for nearly 12 hours, affecting at most 5,000 users. The malicious version, 2.1.313, was installed by default when users updated or auto-updated the extension. The attackers gained access through Anthropic's official account, which was a supply-chain compromise. The extension installed a persistent SSH backdoor, allowing remote access and data theft."
+ },
+ "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station": {
+  "s": "An aquanaut named Dr. Musilova, along with her team, has completed a five-day underwater mission, returning to Earth. This experience matters as it simulates life in space, offering insights into how humans might adapt to high-pressure environments and the psychological effects of prolonged separation from loved ones."
+ },
+ "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955": {
+  "s": "Some parasites can manipulate the behavior of living hosts, causing them to move to a location that benefits the parasite. This manipulation, while not bringing the dead back to life, is a close parallel to fictional zombie narratives. Such behavior changes do not transform a dead body but alter living organisms to enhance the parasite's survival."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket": {
+  "s": "India launched the next-generation navigation satellite NVS-03 to orbit today. This matters as it represents progress in India's space technology, adding to its growing fleet of satellites."
+ },
+ "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
   "s": "",
   "why": "too little source text"
  }

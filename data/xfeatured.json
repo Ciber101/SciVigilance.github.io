@@ -17,7 +17,7 @@
     },
     {
      "id": "2115896329645723836",
-     "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity",
+     "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity investigation where we weren’t running our misalignment monitors—we’ve substantially expanded our monitoring of frontier agents. We now monitor all frontier reinforcement learning runs and evaluations, as well as all internal Codex use. When our system finds evidence of a problem that might require intervention, it rapidly alerts human responders who can investigate and take action.\n\nTo detect when a model’s behavior departs from what we intended, we use several layers of monitoring. Activation probes look for patterns in a model’s internal activity. Reviewer models examine its reasoning and tool use, and investigative agents can read back through the model’s entire transcript to understand how a sequence of actions fits together and whether it warrants human review.\n\nTo test whether our current system would have detected the Hugging Face incident, we replayed the recorded activity with our new monitors in place. In the replay, our monitors alerted our security team about 30 minutes after the agents escaped their sandbox. That was more than 30 hours before the point at which the agents breached Hugging Face’s systems in the original incident.\n\nIn September, a model exploited a DNS misconfiguration to reach the live internet. Our monitors flagged the breach within 15 minutes, and a responder began reviewing the alert three minutes later. The alert enabled responders to investigate while the run was still underway.\n\nAs we give models more autonomy, we need to know when they cross a boundary we expected to hold. We believe that monitoring is essential to catching those failures in time for people to intervene.",
      "date": "2026-10-29T19:59:31.000Z",
      "quoted": false,
      "image": null,
@@ -26,7 +26,7 @@
     },
     {
      "id": "2113766354386084338",
-     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
+     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.\n\nThis root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.\n\nMore details on the patch and mitigations below:",
      "date": "2026-10-23T22:55:45.000Z",
      "quoted": true,
      "image": null,
@@ -34,13 +34,13 @@
      "url": "https://x.com/OpenAI/status/2113766354386084338"
     },
     {
-     "id": "2113718797505036665",
-     "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
-     "date": "2026-10-23T19:46:46.000Z",
-     "quoted": false,
+     "id": "2113298833392496746",
+     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
+     "date": "2026-10-22T15:57:59.000Z",
+     "quoted": true,
      "image": null,
      "video": null,
-     "url": "https://x.com/OpenAI/status/2113718797505036665"
+     "url": "https://x.com/OpenAI/status/2113298833392496746"
     }
    ]
   },
@@ -61,7 +61,7 @@
     },
     {
      "id": "2115178675050307942",
-     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of drug development.\n\nIn this blog post, we share some early results from these efforts, and describe how this work fits in with our wider ambitions in the life sciences.",
      "date": "2026-10-27T20:27:48.000Z",
      "quoted": false,
      "image": null,
@@ -79,7 +79,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -237,7 +237,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -298,7 +298,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +307,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -333,21 +333,12 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
-    },
-    {
-     "id": "2108549075218120949",
-     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
-     "date": "2026-10-09T13:24:09.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -377,7 +368,7 @@
     },
     {
      "id": "2115811242556137820",
-     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on",
+     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on @artificialanalysis.\n\n🛡 Built to defend: State-of-the-art in cyberdefense, put through the paces by the world's leading cyber vendors, including @CrowdStrike, @cloudflare, @rubrik, @zscaler, and others.\n\nBuilt for sovereignty: Make it yours. Download the weights on @huggingface , customize it with Mistral Forge, and deploy it wherever you need it.\n\nRead more from our team and customers 👇:",
      "date": "2026-10-29T14:21:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVzNm_7W4AAQsZV.jpg",
@@ -386,7 +377,7 @@
     },
     {
      "id": "2115443720371814478",
-     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works",
+     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works with all chat models hosted by Mistral, including Large 4.",
      "date": "2026-10-28T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVtfR8WXEAAXYbh.jpg",
@@ -543,6 +534,15 @@
    "avatar": "img/x-geminiapp.png",
    "posts": [
     {
+     "id": "2116304609383710988",
+     "text": "Whether you're tackling complex projects with Gemini 4 Argon, connecting your favorite apps to Gemini, or creating a custom skill for repetitive prompts, our latest Gemini Drops put more power and personalization at your fingertips. Here’s what’s new 🧵",
+     "date": "2026-10-30T23:01:52.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/GeminiApp/status/2116304609383710988"
+    },
+    {
      "id": "2115885244805251519",
      "text": "You can now create and share your avatar in Gemini to star in images and videos with friends.\n\nShare your personal avatars, tag each other in prompts, and maintain character and voice consistency. Plus, you're in control and can add or remove anyone's access whenever you want.",
      "date": "2026-10-29T19:15:28.000Z",
@@ -568,15 +568,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/GeminiApp/status/2115507092660289631"
-    },
-    {
-     "id": "2115171788812669225",
-     "text": "With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.\n\nJust ask Gemini, “Is this AI generated?,\" so you can navigate the web with more confidence.",
-     "date": "2026-10-27T20:00:27.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2115171418719883264/img/-RHGa5f3YkVZ1tq6.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115171418719883264/vid/avc1/1920x1080/pFmrthGOzeMg8qa-.mp4",
-     "url": "https://x.com/GeminiApp/status/2115171788812669225"
     }
    ]
   },
@@ -823,17 +814,8 @@
    "avatar": "img/x-robots-agibotofficial.jpg",
    "posts": [
     {
-     "id": "2116168495570333734",
-     "text": "🏆 AGIBOT Wins the Best Use of AI Award!\n\nWe’re honored to receive the Best Use of AI  from @HumanoidRTech!\n\nThis recognition highlights AGIBOT’s work in:\n🔹AI model development: Advancing models such as GO-3 and GE-2.\n🔹Open research: Making AGIBOT WORLD openly available to the",
-     "date": "2026-10-30T14:01:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2116155402190790656/img/QE9hcQb7jPoWyTQ0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2116155402190790656/vid/avc1/2160x2160/2bWrxOMcu3jjITL-.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2116168495570333734"
-    },
-    {
      "id": "2116145595668627804",
-     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.",
+     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.\n\nDifferent tasks require different benchmarks. Now, Worken offers a framework for exploring how to measure the productive work robots actually perform.\n\n#AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
      "date": "2026-10-30T12:30:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2116111851528609792/img/cmo31H_0-w9YgIgI.jpg",
@@ -841,22 +823,31 @@
      "url": "https://x.com/AGIBOTofficial/status/2116145595668627804"
     },
     {
-     "id": "2116109226850517056",
-     "text": "At AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring robot productivity through “Effective Intelligent Work Hours.”  \n\nWorken = Number of Active Robots × Autonomous Working Hours × Output Efficiency Ratio  \n\nBy bringing together deployment",
-     "date": "2026-10-30T10:05:29.000Z",
-     "quoted": true,
-     "image": "https://pbs.twimg.com/media/HV3uEh6aEAA9yy2.jpg",
+     "id": "2115326431194661301",
+     "text": "⏰Tomorrow, it begins. \n\nOne day until AGIBOT Innovation Day 2026.\nA new chapter for embodied AI is about to unfold. \n\n📅 October 29 | Shanghai World Expo Center \n\nSee you tomorrow.  \n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "date": "2026-10-28T06:14:56.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVslPZyagAAvOq0.jpg",
      "video": null,
-     "url": "https://x.com/AGIBOTofficial/status/2116109226850517056"
+     "url": "https://x.com/AGIBOTofficial/status/2115326431194661301"
     },
     {
-     "id": "2115694835579666505",
-     "text": "AGIBOT Innovation Day 2026: Embodied AI, From Innovation to Real Work. 🤖\n\nWhat does it take to turn embodied AI into real-world productivity?\n\nAt AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring the productive work robots perform in real-world",
-     "date": "2026-10-29T06:38:51.000Z",
+     "id": "2113583522883747944",
+     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion relationships, spatial occupancy, and task progress change, linking decisions to real-robot execution.  \n\n📖 Explore the project: \n🤗 Access the dataset:  \n\n#AGIBOT #EmbodiedAI #PhysicalAI #Robotics #AGIBOTWORLD",
+     "date": "2026-10-23T10:49:14.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2115691538881884160/img/6uuBUA3vwWb9qGyU.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115691538881884160/vid/avc1/1920x1080/ta_jGkhIZr1oXj3s.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2115694835579666505"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2113582427176382464/img/TFDtw28ks8xloikY.jpg",
+     "video": "https://video.twimg.com/amplify_video/2113582427176382464/vid/avc1/1920x1080/HTFKP_Ux_4P_GnB1.mp4",
+     "url": "https://x.com/AGIBOTofficial/status/2113583522883747944"
+    },
+    {
+     "id": "2110995951439769843",
+     "text": "Something new is coming. \n\nOctober 29. Shanghai World Expo Center. \n\nAt AGIBOT Innovation Day 2026, we’re unveiling what’s next in embodied AI. \nNew robots. New models. And a bold new vision for how robots create value. \n\nThe next chapter of embodied AI is about to begin.\nStay tuned.\n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "date": "2026-10-16T07:27:09.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUvDKYzaIAAQ8Z6.jpg",
+     "video": null,
+     "url": "https://x.com/AGIBOTofficial/status/2110995951439769843"
     }
    ]
   },
@@ -1280,6 +1271,15 @@
      "url": "https://x.com/ulalaunch/status/2115458654333702570"
     },
     {
+     "id": "2108573330659803566",
+     "text": "Rockets are the foundation of our journey into space. 🚀 \n\nRockets carry the diverse missions that connect our world, expand our knowledge and inspire us to explore farther. At United Launch Alliance, we launch critical missions that shape our future — from national security and",
+     "date": "2026-10-09T15:00:32.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUMoRHdXsAAkUqg.jpg",
+     "video": null,
+     "url": "https://x.com/ulalaunch/status/2108573330659803566"
+    },
+    {
      "id": "2106036797805310329",
      "text": "If you haven’t seen our #SpaceSimplified series yet, now’s your chance! Check out the full playlist on YouTube:",
      "date": "2026-10-02T15:01:15.000Z",
@@ -1386,7 +1386,7 @@
    "posts": [
     {
      "id": "2112885441305215014",
-     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and",
+     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and collaboration across our joint teams in just a matter of months.\n\nNext step: Critical design review!",
      "date": "2026-10-21T12:35:19.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVJ6HKUW8AAK0_I.jpg",
@@ -1403,17 +1403,8 @@
      "url": "https://x.com/FireflySpace/status/2111189395206533402"
     },
     {
-     "id": "2110110342042796119",
-     "text": "Peep our Elytra orbiter being assembled in the cleanroom 👀.\n\nThis spacecraft is part of our Riders 2 the Dark mission — America's first mission to land on the Moon's far side. \n\nWithout direct line-of-sight to Earth, communication on the far side is impossible without a relay.",
-     "date": "2026-10-13T20:48:04.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUieKtlWkAEX_b9.jpg",
-     "video": null,
-     "url": "https://x.com/FireflySpace/status/2110110342042796119"
-    },
-    {
      "id": "2108173401235816859",
-     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization",
+     "text": "Modernizing defense technologies that keep our homeland safe.\n \nFirefly’s SciTec expanded our contract with the @usairforce to add counter UAS data to the Advanced Battle Management System. These enhancements enable warfighters to improve detection, tracking, and characterization of unmanned aerial threats.\n \nRead more here:",
      "date": "2026-10-08T12:31:21.000Z",
      "quoted": false,
      "image": null,
@@ -1430,7 +1421,7 @@
    "posts": [
     {
      "id": "2116066270307135550",
-     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF)",
+     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF) events.\n\nispace is excited to be exhibiting and connecting with members of the global space community to exchange ideas and explore opportunities for collaboration! 🌏\n\nWe are also proud to share that ispace received the MVA Moon Market Annual Award 2026! 🏆\n\nThroughout the week, our crew members have also participated in panel discussions exploring lunar exploration in the Asia-Pacific region and opportunities for international collaboration in lunar activities.\n\n#ispace #MVA #ThailandSpaceExpo #APRSAF #Moon",
      "date": "2026-10-30T07:14:48.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HV3HDXUW4AExESt.jpg",
@@ -1439,21 +1430,12 @@
     },
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
      "video": null,
      "url": "https://x.com/ispace_inc/status/2113186386564002027"
-    },
-    {
-     "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
-     "date": "2026-10-16T09:46:30.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
-     "video": null,
-     "url": "https://x.com/ispace_inc/status/2111031017452581162"
     },
     {
      "id": "2108545633158389925",
@@ -1463,6 +1445,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/ispace_inc/status/2108545633158389925"
+    },
+    {
+     "id": "2108289174977585579",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
+     "date": "2026-10-08T20:11:24.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2108286605316276225/vid/avc1/3840x2160/U3C8UcEV-oFetWO5.mp4",
+     "url": "https://x.com/ispace_inc/status/2108289174977585579"
     }
    ]
   },
@@ -1480,15 +1471,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
-    },
-    {
-     "id": "2110344436643230019",
-     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
-     "date": "2026-10-14T12:18:16.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
-     "video": null,
-     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }
