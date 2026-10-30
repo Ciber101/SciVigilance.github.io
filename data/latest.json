@@ -1,6 +1,20 @@
 {
  "robots": [
   {
+   "id": "rb-humanoid-developer-agility-now-expects-to-raise-465m-in",
+   "title": "Humanoid developer Agility now expects to raise $465M in SPAC deal",
+   "summary": "Agility said it expects to raise $465 million in its combination with Churchill Capital Corp XI, $155 million less than it had estimated.",
+   "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Agility_Digit_5.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:19:16+00:00",
+   "rank": 0
+  },
+  {
    "id": "rb-2026-robotics-handbook-looks-at-humanoids-rb-and-design",
    "title": "2026 Robotics Handbook looks at humanoids, AI, and design choices",
    "summary": "The 2026 Robotics Handbook examines design choices behind dexterous manipulation, humanoid robots, and construction automation.",
@@ -27,6 +41,20 @@
    "date": "2026-10-29",
    "ts": "2026-10-29T04:01:46+00:00",
    "rank": 0
+  },
+  {
+   "id": "rb-video-friday-spot-plays-to-show-its-whole-body-manipulat",
+   "title": "Video Friday: Spot Plays to Show Its Whole Body Manipulation",
+   "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months.",
+   "url": "https://spectrum.ieee.org/video-friday-whole-body-manipulation",
+   "source": "IEEE Spectrum",
+   "image": "https://spectrum.ieee.org/media-library/colorful-boston-dynamics-robot-dog-plays-with-a-tire-on-an-outdoor-basketball-court-while-someone-with-a-hockey-stick-interferes.webp?id=68558917&width=980",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:30:03+00:00",
+   "rank": 1
   },
   {
    "id": "rb-robot-talk-episode-168-advancing-robotics-with-novel-ele",
@@ -85,6 +113,20 @@
    "rank": 1
   },
   {
+   "id": "rb-your-robot-s-safety-functions-already-work-what-if-the-i",
+   "title": "Your Robot’s Safety Functions Already Work. What If the Input Lies?",
+   "summary": "This article is brought to you by VicOne . A mobile robot slows for someone in a hallway. A collaborative arm eases its movement as a worker approaches. A humanoid pauses to let a person pass.",
+   "url": "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone",
+   "source": "IEEE Spectrum",
+   "image": "https://spectrum.ieee.org/media-library/humanoid-robot-and-robot-dog-meet-a-woman-on-a-sunny-terrace-at-sunset.jpg?id=68002098&width=980",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:14:39+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-robots-in-society-business-and-culture-september-2026",
    "title": "Robots in Society, Business and Culture: September 2026",
    "summary": "A walking robotic hand, from Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand, Amirhossein Kazemipour, Hehui Zheng, Robert Katzschmann.",
@@ -124,20 +166,6 @@
    ],
    "date": "2026-10-25",
    "ts": "2026-10-25T02:03:00+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-video-friday-quadruped-robot-solves-giant-rubik-s-cube-b",
-   "title": "Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself",
-   "summary": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months.",
-   "url": "https://spectrum.ieee.org/video-friday-rubiks-cube-robot",
-   "source": "IEEE Spectrum",
-   "image": "https://spectrum.ieee.org/media-library/red-quadruped-robot-facing-a-large-rubik-s-cube-on-an-outdoor-tiled-surface.png?id=68512950&width=980",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-23",
-   "ts": "2026-10-23T15:30:02+00:00",
    "rank": 1
   },
   {
@@ -309,20 +337,6 @@
    "rank": 1
   },
   {
-   "id": "rb-robot-hands-for-modern-ai-and-real-work",
-   "title": "Robot Hands for Modern AI and Real Work",
-   "summary": "Boston Dynamics new robot hands have 13 degrees of freedom and direct actuation, built for high fidelity simulation and dexterous physical work.",
-   "url": "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/",
-   "source": "Boston Dynamics",
-   "image": "https://bostondynamics.com/wp-content/uploads/2026/09/atlas-mts-drill-1440x1016-1.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-01",
-   "ts": "2026-10-01T13:10:02+00:00",
-   "rank": 1
-  },
-  {
    "id": "rb-ask-a-roboticist-meet-diane",
    "title": "Ask a Roboticist: Meet Diane",
    "summary": "A mechanical engineer answers questions about endurance testing at Boston Dynamics and how we simulate years of robot use in just weeks.",
@@ -338,34 +352,34 @@
   }
  ],
  "date": "2026-10-30",
- "updated": "2026-10-30T14:24+00:00",
+ "updated": "2026-10-30T17:27+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
-   "id": "the-genetic-cost-of-being-a-lazy-parent-if-you-re-a-cuckoo-f",
-   "title": "The genetic cost of being a lazy parent ... if you're a cuckoo finch",
-   "summary": "African cuckoo finches (Anomalospiza imberbis) are very deceptive birds, or at least the mothers are. They sneak into the nests of other birds, such as prinias and cisticolas, to lay their eggs, then slip away and leave…",
-   "url": "https://phys.org/news/2026-10-genetic-lazy-parent-youre-cuckoo.html",
+   "id": "a-gamma-ray-powerhouse-s-smoking-gun-gas-trail-points-to-mic",
+   "title": "A gamma-ray powerhouse's smoking gun? Gas trail points to microquasar jets",
+   "summary": "In 2016, a binary star system emitting unusually strong gamma rays was discovered in our galactic neighborhood. Now, astronomers have found the smoking gun, or rather, a smoking trail of cool molecular gas that suggests…",
+   "url": "https://phys.org/news/2026-10-gamma-ray-powerhouse-gun-gas.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-genetic-cost-of-be.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:20:05+00:00"
-  },
-  {
-   "id": "ghostly-cat-s-head-nebula-haunts-the-cosmos-space-photo-of-t",
-   "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
-   "summary": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos.",
-   "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/gas-trail-beyond-milky.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T14:00:00+00:00"
+   "ts": "2026-10-30T17:20:18+00:00"
+  },
+  {
+   "id": "this-gamma-ray-burst-wasn-t-dim-it-was-just-misunderstood",
+   "title": "This Gamma-Ray Burst Wasn't Dim, It Was Just Misunderstood",
+   "summary": "In March 2026, NASA's Fermi Gamma-ray Space Telescope detected a GRB with an unusual light signature. Its initial gamma radiation was dim, and the afterglow exhibited unusual, delayed peaks.",
+   "url": "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Low-Res_Fortuna_Yang_BHianca_press_release_2026_w_LBTlos_20261030_161957.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T16:20:24+00:00"
   },
   {
    "id": "ai-samaya-ai-releases-sterling-a-3b-active-finance-research",
@@ -382,30 +396,96 @@
    "rank": 0
   },
   {
-   "id": "a-proof-of-concept-test-can-spot-bladder-cancer-in-urine",
-   "title": "A proof-of-concept test can spot bladder cancer in urine",
-   "summary": "Using a proof-of-concept test to analyze fragments of RNA in urine, researchers can detect cases of bladder cancer.",
-   "url": "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102326_MR_urinetest_main.jpg?w=800",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T13:00:00+00:00"
-  },
-  {
-   "id": "two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-ap",
-   "title": "Two Different Kinds of Gamma-Ray Bursts Erupted 4 Minutes Apart. Astronomers Have Never Seen This Before.",
-   "summary": "\"This is so far the only event with such a strange property\". ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-   "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7-1200x675.png",
+   "id": "jupiter-saturn-uranus-and-neptune-could-destroy-each-other-s",
+   "title": "Jupiter, Saturn, Uranus and Neptune could destroy each other sooner than we thought, simulations hint",
+   "summary": "The outer solar system will descend into chaos just a few billion years after the sun exhausts its fuel ‪—‬ much sooner than scientists previously thought, a new study suggests.",
+   "url": "https://www.livescience.com/space/astronomy/jupiter-saturn-uranus-and-neptune-will-probably-destroy-each-other-after-the-sun-runs-out-of-fuel-new-simulations-hint",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/pwBQRFBTwmPW66uzRcFakR-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T13:00:00+00:00"
+   "ts": "2026-10-30T16:10:14+00:00"
+  },
+  {
+   "id": "nasa-s-james-webb-space-telescope-captures-eerie-cat-s-head",
+   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
+   "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
+   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:56:26+00:00"
+  },
+  {
+   "id": "star-trek-s-william-shatner-and-george-takei-honor-the-deat",
+   "title": "'Star Trek's' William Shatner and George Takei honor the death of Walter Koenig",
+   "summary": "'Rest well, my dear friend. Keep navigating a steady course.'",
+   "url": "https://www.space.com/entertainment/star-treks-william-shatner-and-george-takei-honor-the-death-of-walter-koenig",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/z4xEW3F3mcd2rwCKwzzC6M-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "nasa-s-swift-telescope-will-face-a-fiery-demise-after-a-fail",
+   "title": "NASA’s Swift telescope will face a fiery demise after a failed rescue",
+   "summary": "Designed to study the powerful outbursts, the Swift Observatory quickly contributed to a wide range of discoveries. Now, it's about to meet a fiery fate.",
+   "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102926_MB_RIPSwift_main.jpg?w=800",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "ai-an-updated-model-spec-for-more-capable-and-beneficial-ai",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&h=900&fit=fill",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:00:00+00:00",
+   "rank": 0
+  },
+  {
+   "id": "the-world-s-largest-known-sponge-is-the-size-of-a-minivan-an",
+   "title": "The World's Largest Known Sponge Is The Size of a Minivan – And Its Species Is a Mystery",
+   "summary": "Ancient and deep. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+   "url": "https://www.sciencealert.com/the-worlds-largest-known-sponge-is-the-size-of-a-minivan-and-its-species-is-a-mystery",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/10/sponge-1200x675.png",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T15:00:00+00:00"
+  },
+  {
+   "id": "a-new-map-of-empty-space-challenges-a-tranquil-picture-of-th",
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
+   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:52:05+00:00"
   },
   {
    "id": "figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radi",
@@ -448,19 +528,6 @@
    "rank": 1
   },
   {
-   "id": "november-s-night-sky-notes-light-day-away",
-   "title": "November’s Night Sky Notes: Light-Day Away",
-   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
-   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-   "source": "NASA",
-   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:00:00+00:00"
-  },
-  {
    "id": "mit-engineers-create-nanoparticles-for-delivering-personaliz",
    "title": "MIT engineers create nanoparticles for delivering personalized cancer vaccines",
    "summary": "The particles carry a customized dose of cancer antigens that can provoke a strong immune response against tumors.",
@@ -472,6 +539,84 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T04:30:00+00:00"
+  },
+  {
+   "id": "different-transcription-systems-shape-chromatin-behavior-in",
+   "title": "Different transcription systems shape chromatin behavior in distinct nuclear regions",
+   "summary": "Inside the cell nucleus, DNA is wrapped around histone proteins to form nucleosomes, which are further organized into chromatin.",
+   "url": "https://phys.org/news/2026-10-transcription-chromatin-behavior-distinct-nuclear.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/different-transcriptio.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T17:00:11+00:00"
+  },
+  {
+   "id": "nasa-explores-potential-commercial-servicing-for-hubble-tele",
+   "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+   "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
+   "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&#038;h=1020&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:51:21+00:00"
+  },
+  {
+   "id": "on-this-day-in-space-oct-30-1964-nasa-s-weird-lunar-landing",
+   "title": "On this day in space! Oct. 30, 1964: NASA's weird Lunar Landing Research Vehicle takes 1st test flight to help Apollo astronauts land on the moon",
+   "summary": "On October 30, 1964, NASA's Lunar Landing Research Vehicle, or LLRV, took to the skies for the first time. Here's why it mattered.",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/33Eu2D5iJNn8qSM2AmiBsh-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:46:35+00:00"
+  },
+  {
+   "id": "a-proof-of-concept-test-can-spot-bladder-cancer-in-urine",
+   "title": "A proof-of-concept test can spot bladder cancer in urine",
+   "summary": "Using a proof-of-concept test to analyze fragments of RNA in urine, researchers can detect cases of bladder cancer.",
+   "url": "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna",
+   "source": "Science News",
+   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102326_MR_urinetest_main.jpg?w=800",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T13:00:00+00:00"
+  },
+  {
+   "id": "philadelphia-s-academy-of-natural-sciences-just-closed-a-blo",
+   "title": "Philadelphia’s Academy of Natural Sciences just closed – a blow for budding young scientists like me",
+   "summary": "Generations of young Philadelphians experienced science firsthand by wandering through Dinosaur Hall, examining dozens of wildlife dioramas or visiting the butterfly garden.",
+   "url": "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/767081/original/file-20261019-60-pd79xz.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T12:08:59+00:00"
+  },
+  {
+   "id": "the-asteroid-killed-the-dinosaurs-why-did-crocodiles-survive",
+   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
+   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T11:34:16+00:00"
   },
   {
    "id": "how-you-squeeze-planetary-minerals-changes-everything",
@@ -500,20 +645,6 @@
    "ts": "2026-10-29T21:05:05+00:00"
   },
   {
-   "id": "ai-mistral-large-4-le-chonk-is-now-open-weight",
-   "title": "Mistral Large 4 (Le Chonk) is now open weight",
-   "summary": "The weights of Mistral Large 4 (Le Chonk) are now open. A 1T parameter multimodal model, and best open-weight model for coding, trained in Europe.",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "source": "Mistral AI",
-   "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T12:00:07+00:00",
-   "rank": 1
-  },
-  {
    "id": "how-do-you-take-a-picture-of-a-black-hole",
    "title": "How Do You Take a Picture of a Black Hole?",
    "summary": "Astrophysicist Shep Doeleman explains how capturing the first image of a black hole required a telescope the size of the world, and why the next goal is to create a movie.",
@@ -527,82 +658,69 @@
    "ts": "2026-10-29T15:11:57+00:00"
   },
   {
-   "id": "ghostly-cat-s-head-nebula-lurks-within-sight-of-hubble-and-w",
-   "title": "Ghostly Cat’s Head Nebula lurks within sight of Hubble and Webb",
-   "summary": "The NASA/ESA Hubble and the NASA/ESA/CSA James Webb Space Telescopes recently stared at an eerie star-forming scene within the Carina Nebula, a massive gas and dust cloud located approximately 7500 light-years away from…",
-   "url": "https://www.esa.int/Science_Exploration/Space_Science/Webb/Ghostly_Cat_s_Head_Nebula_lurks_within_sight_of_Hubble_and_Webb",
-   "source": "ESA",
-   "image": "https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2026/10/cat_s_head_nebula_hubble_wfc3_webb_nircam_and_webb_miri_images/27592599-1-eng-GB/Cat_s_Head_Nebula_Hubble_WFC3_Webb_NIRCam_and_Webb_MIRI_images_card_full.jpg",
+   "id": "magnetic-sensors-track-muscle-movement-for-better-prosthetic",
+   "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
+   "summary": "Researchers hope to use these sensors to help people with amputation achieve more natural movements with their prosthetic limbs.",
+   "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Magnetic-Tracking-01-press.jpg?itok=2gCA_g8R",
    "tags": [
-    "Space"
+    "Physics"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T14:00:00+00:00"
+   "ts": "2026-10-29T10:00:00+00:00"
   },
   {
-   "id": "marine-fossils-in-colombia-reveal-possible-evolutionary-tran",
-   "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction",
-   "summary": "A remarkably diverse fossil ecosystem in central Colombia that preserves an unusual overlap between survivors of older Jurassic groups and newer Cretaceous lineages has led researchers at McGill University and the…",
-   "url": "https://phys.org/news/2026-10-marine-fossils-colombia-reveal-evolutionary.html",
+   "id": "supercharged-molecule-highway-membrane-that-speeds-water-tra",
+   "title": "Supercharged 'molecule highway' membrane that speeds water transport could transform industrial processing",
+   "summary": "New membrane technology delivering faster and more precise molecule separation could improve the efficiency and sustainability of energy-intensive industrial processes—from purifying chemicals and recovering valuable…",
+   "url": "https://phys.org/news/2026-10-supercharged-molecule-highway-membrane-industrial.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/fossils-reveal-a-previ.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/professor-xiwang-zhang.jpg",
    "tags": [
-    "Biology"
+    "Physics"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T14:00:05+00:00"
+   "ts": "2026-10-30T16:40:08+00:00"
   },
   {
-   "id": "philadelphia-s-academy-of-natural-sciences-just-closed-a-blo",
-   "title": "Philadelphia’s Academy of Natural Sciences just closed – a blow for budding young scientists like me",
-   "summary": "Generations of young Philadelphians experienced science firsthand by wandering through Dinosaur Hall, examining dozens of wildlife dioramas or visiting the butterfly garden.",
-   "url": "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/767081/original/file-20261019-60-pd79xz.jpg?ixlib=rb-4.1.1&amp;q=45&amp;auto=format&amp;w=754&amp;fit=clip",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T12:08:59+00:00"
-  },
-  {
-   "id": "china-s-secretive-space-plane-is-flying-over-the-us-this-wee",
-   "title": "China's secretive space plane is flying over the US this week — here's how to see it for yourself",
-   "summary": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
-   "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
+   "id": "ghostly-cat-s-head-nebula-haunts-the-cosmos-space-photo-of-t",
+   "title": "Ghostly Cat's Head Nebula haunts the cosmos | Space photo of the day for Oct. 30, 2026",
+   "summary": "Just in time for Halloween, we have new, ghostly views of the Cat's Eye Nebula haunting the outer reaches of the cosmos.",
+   "url": "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/amqKDMCMR4gvvfHM2ovuGS-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/VERqbGL74diN5Z37HipquF-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T11:45:42+00:00"
+   "ts": "2026-10-30T14:00:00+00:00"
   },
   {
-   "id": "the-asteroid-killed-the-dinosaurs-why-did-crocodiles-survive",
-   "title": "The asteroid killed the dinosaurs. Why did crocodiles survive?",
-   "summary": "Scientists may have solved a 66-million-year-old mystery: how crocodiles survived the asteroid that wiped out the dinosaurs.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261030002922.htm",
+   "id": "hubble-reveals-a-stunning-twist-in-how-the-universe-emerged",
+   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
+   "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
    "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/crocodilian-surviving-dinosaur-extinction.webp",
+   "image": "https://www.sciencedaily.com/images/1920/winds-after-light.webp",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T11:34:16+00:00"
+   "ts": "2026-10-30T10:50:22+00:00"
   },
   {
-   "id": "apod-2026-october-30-haunting-the-cepheus-flare",
-   "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
-   "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+   "id": "november-s-night-sky-notes-light-day-away",
+   "title": "November’s Night Sky Notes: Light-Day Away",
+   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
+   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
    "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&#038;h=1391&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T04:05:00+00:00"
+   "ts": "2026-10-30T10:00:00+00:00"
   },
   {
    "id": "it-s-a-ghost-no-it-s-a-stellar-cr-che",
@@ -644,22 +762,22 @@
    "ts": "2026-10-29T18:00:00+00:00"
   },
   {
-   "id": "magnetic-sensors-track-muscle-movement-for-better-prosthetic",
-   "title": "Magnetic sensors track muscle movement, for better prosthetic limb control",
-   "summary": "Researchers hope to use these sensors to help people with amputation achieve more natural movements with their prosthetic limbs.",
-   "url": "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029",
+   "id": "capturing-the-complete-process-of-embryonic-development",
+   "title": "Capturing the complete process of embryonic development",
+   "summary": "By tracking over 1 million cells, researchers created a detailed map of embryonic development in mice. It could provide development and disease insights.",
+   "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
    "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-Magnetic-Tracking-01-press.jpg?itok=2gCA_g8R",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-whitehead-lineage-trees.jpg?itok=T3xPv0Ff",
    "tags": [
-    "Physics"
+    "Biology"
    ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T10:00:00+00:00"
+   "date": "2026-10-28",
+   "ts": "2026-10-28T20:30:00+00:00"
   },
   {
    "id": "how-spiders-spin-silk-dope-into-nature-s-toughest-material",
    "title": "How Spiders Spin ‘Silk Dope’ Into Nature’s Toughest Material",
-   "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a tough, flexible thread.",
+   "summary": "By probing its molecular structure, biologists are uncovering how a tangle of unstructured proteins turns into a strong, flexible fiber.",
    "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
    "source": "Quanta Magazine",
    "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SpiderSilkCondensates-crKonradWothe_NaturePL_ScienceSource-Default.webp",
@@ -670,56 +788,69 @@
    "ts": "2026-10-28T16:04:18+00:00"
   },
   {
-   "id": "jwst-reveals-a-distant-galaxy-that-may-let-most-of-its-ioniz",
-   "title": "JWST reveals a distant galaxy that may let most of its ionizing radiation escape",
-   "summary": "Astronomers using the James Webb Space Telescope (JWST) have found evidence that a distant, exceptionally blue galaxy may allow most of its ionizing radiation to escape into space.",
-   "url": "https://phys.org/news/2026-10-jwst-reveals-distant-galaxy-ionizing.html",
+   "id": "earwax-is-both-slippery-and-sticky-this-weird-combo-might-le",
+   "title": "Earwax is both slippery and sticky – this weird combo might lead to safer insect repellents",
+   "summary": "Earwax’s unusual physical properties help it repel insects in the lab. Is this a job it evolved to do in animal ears?",
+   "url": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
+   "source": "The Conversation",
+   "image": "https://images.theconversation.com/files/766829/original/file-20261016-50-wq8tun.jpg?ixlib=rb-4.1.1&amp;rect=193%2C472%2C4381%2C2920&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T18:12:53+00:00"
+  },
+  {
+   "id": "researchers-create-light-activated-cages-for-protein-killer",
+   "title": "Researchers create light-activated cages for 'protein killer' molecules",
+   "summary": "Researchers have created a molecular \"cage\" that keeps protein-degrading drug molecules inactive until they are exposed to low-energy red light.",
+   "url": "https://phys.org/news/2026-10-cages-protein-killer-molecules.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/jwst-finds-a-distant-g.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/researchers-create-lig.jpg",
    "tags": [
-    "Space"
+    "Physics"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T13:40:14+00:00"
+   "ts": "2026-10-30T16:00:01+00:00"
   },
   {
-   "id": "hubble-reveals-a-stunning-twist-in-how-the-universe-emerged",
-   "title": "Hubble reveals a stunning twist in how the universe emerged from darkness",
-   "summary": "A surprising discovery by astronomers using the Hubble Space Telescope is challenging a leading explanation for how the early universe emerged from a dense fog of hydrogen roughly 13 billion years ago.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/winds-after-light.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:50:22+00:00"
-  },
-  {
-   "id": "think-halloween-is-scary-this-scorched-alien-world-is-a-real",
-   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
-   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
-   "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+   "id": "look-up-china-s-mysterious-space-plane-is-visible-over-the-u",
+   "title": "Look up! China's mysterious space plane is visible over the US this week",
+   "summary": "Early risers across the U.S. could catch a glimpse of China's mysterious Shenlong spacecraft with the naked eye.",
+   "url": "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
+   "image": "https://cdn.mos.cms.futurecdn.net/amqKDMCMR4gvvfHM2ovuGS-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T10:00:00+00:00"
+   "ts": "2026-10-30T11:45:42+00:00"
   },
   {
-   "id": "map-showing-potential-origins-of-martian-meteorite-teghaza-0",
-   "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
-   "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth.",
-   "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&#038;h=770&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "id": "astronauts-just-gave-the-international-space-station-a-power",
+   "title": "Astronauts just gave the International Space Station a powerful upgrade",
+   "summary": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/spacewalkers-install-iss-roll-out-solar-array-for-power-generation.webp",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T00:07:39+00:00"
+   "ts": "2026-10-30T06:12:55+00:00"
+  },
+  {
+   "id": "apod-2026-october-30-haunting-the-cepheus-flare",
+   "title": "APOD: 2026 October 30 – Haunting the Cepheus Flare",
+   "summary": "APOD Science APOD APOD: 2026 October 30 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/october/CepheusFlare_Tondinelli.jpg?w=2048&#038;h=1391&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T04:05:00+00:00"
   },
   {
    "id": "examining-the-cat-s-head-nebula-with-the-hubble-and-jwst",
@@ -761,30 +892,17 @@
    "ts": "2026-10-29T12:00:00+00:00"
   },
   {
-   "id": "capturing-the-complete-process-of-embryonic-development",
-   "title": "Capturing the complete process of embryonic development",
-   "summary": "By tracking over 1 million cells, researchers created a detailed map of embryonic development in mice. It could provide development and disease insights.",
-   "url": "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028",
+   "id": "how-the-biggest-alzheimer-s-risk-gene-disrupts-the-process-o",
+   "title": "How the biggest Alzheimer’s risk gene disrupts the process of insulating neurons",
+   "summary": "MIT researchers showed that the APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons and also demonstrated a proof-of-concept fix.",
+   "url": "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028",
    "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-whitehead-lineage-trees.jpg?itok=T3xPv0Ff",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-picower-alzheimers-00.png?itok=qYdBI5Av",
    "tags": [
     "Biology"
    ],
    "date": "2026-10-28",
-   "ts": "2026-10-28T20:30:00+00:00"
-  },
-  {
-   "id": "earwax-is-both-slippery-and-sticky-this-weird-combo-might-le",
-   "title": "Earwax is both slippery and sticky – this weird combo might lead to safer insect repellents",
-   "summary": "Earwax’s unusual physical properties help it repel insects in the lab. Is this a job it evolved to do in animal ears?",
-   "url": "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324",
-   "source": "The Conversation",
-   "image": "https://images.theconversation.com/files/766829/original/file-20261016-50-wq8tun.jpg?ixlib=rb-4.1.1&amp;rect=193%2C472%2C4381%2C2920&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-27",
-   "ts": "2026-10-27T18:12:53+00:00"
+   "ts": "2026-10-28T18:25:00+00:00"
   },
   {
    "id": "malaria-parasite-caught-in-the-act-of-breaking-and-entering",
@@ -800,56 +918,56 @@
    "ts": "2026-10-23T14:54:10+00:00"
   },
   {
-   "id": "waterpuzzle-uses-magnets-to-model-water-s-hydrogen-bonds-for",
-   "title": "WaterPuzzle uses magnets to model water's hydrogen bonds for hands-on classroom exploration",
-   "summary": "Water is one of the most essential components of life, and many of its unique properties arise from interactions between its molecules.",
-   "url": "https://phys.org/news/2026-10-waterpuzzle-magnets-hydrogen-bonds-classroom.html",
+   "id": "quantum-skyrmions-outlast-entanglement-hinting-at-more-resil",
+   "title": "Quantum skyrmions outlast entanglement, hinting at more resilient networks",
+   "summary": "Quantum networks could one day connect quantum computers into more powerful systems and enable new forms of secure communication.",
+   "url": "https://phys.org/news/2026-10-quantum-skyrmions-outlast-entanglement-hinting.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/bringing-molecular-int.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/quantum-skyrmions-coul.jpg",
    "tags": [
     "Physics"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T13:20:04+00:00"
+   "ts": "2026-10-30T15:40:01+00:00"
   },
   {
-   "id": "astronauts-just-gave-the-international-space-station-a-power",
-   "title": "Astronauts just gave the International Space Station a powerful upgrade",
-   "summary": "Two astronauts completed a 7-hour, 11-minute spacewalk to install a new solar array on the International Space Station, bringing NASA one step closer to a major power upgrade.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261030002931.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/spacewalkers-install-iss-roll-out-solar-array-for-power-generation.webp",
+   "id": "think-halloween-is-scary-this-scorched-alien-world-is-a-real",
+   "title": "Think Halloween is scary? This scorched alien world is a real-life cosmic horror story",
+   "summary": "Earth would be terrifying if we celebrated Halloween every 11 hours, a possibility on a super-Earth investigated by the JWST, if it wasn't so hellishly hot that no life could survive on its surface.",
+   "url": "https://www.space.com/astronomy/exoplanets/think-halloween-is-scary-this-scorched-alien-world-is-a-real-life-cosmic-horror-story",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/5vhKTkFtd7iTUyQcTE46oj-1920-80.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T06:12:55+00:00"
+   "ts": "2026-10-30T10:00:00+00:00"
   },
   {
-   "id": "patrick-stewart-renowned-actor-and-star-trek-s-captain-picar",
-   "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
-   "summary": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
-   "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/QqqJuNTwQKzgKzGHhzWhuZ-1920-80.png",
+   "id": "scientists-discover-mysterious-seahorse-lookalikes-that-no-o",
+   "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
+   "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/australyichthys-aegis.webp",
    "tags": [
-    "Space"
+    "Biology"
    ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T23:49:50+00:00"
+   "date": "2026-10-30",
+   "ts": "2026-10-30T02:07:19+00:00"
   },
   {
-   "id": "halloween-aboard-the-international-space-station",
-   "title": "Halloween Aboard the International Space Station",
-   "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit.",
-   "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
+   "id": "map-showing-potential-origins-of-martian-meteorite-teghaza-0",
+   "title": "Map Showing Potential Origins of Martian Meteorite Teghaza 001",
+   "summary": "Description This global map of Mars shows 13 locations that match the mineralogy and chemistry of Teghaza 001, one of the most ancient Martian meteorites ever found on Earth.",
+   "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/halloween-on-iss-2026-3-exp-37-parmitano-as-superman.jpg?w=524",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26802/PIA26802.jpg?w=1536&#038;h=770&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T21:44:23+00:00"
+   "date": "2026-10-30",
+   "ts": "2026-10-30T00:07:39+00:00"
   },
   {
    "id": "no-comets-required-how-the-growing-earth-may-have-created-it",
@@ -878,19 +996,6 @@
    "ts": "2026-10-29T10:41:03+00:00"
   },
   {
-   "id": "how-the-biggest-alzheimer-s-risk-gene-disrupts-the-process-o",
-   "title": "How the biggest Alzheimer’s risk gene disrupts the process of insulating neurons",
-   "summary": "MIT researchers showed that the APOE4 gene variant suppresses molecular signaling needed for oligodendrocytes to myelinate neurons and also demonstrated a proof-of-concept fix.",
-   "url": "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-picower-alzheimers-00.png?itok=qYdBI5Av",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T18:25:00+00:00"
-  },
-  {
    "id": "why-do-flamingos-dance-while-they-eat-this-scientist-found-o",
    "title": "Why do flamingos dance while they eat? This scientist found out",
    "summary": "Beautiful ripples drew Víctor Ortega Jiménez to feeding flamingos. Unraveling their secret could inspire new ways to filter water.",
@@ -904,56 +1009,56 @@
    "ts": "2026-10-28T12:29:30+00:00"
   },
   {
-   "id": "extraterrestrial-detection-inspired-by-firefly-communication",
-   "title": "Extraterrestrial detection inspired by firefly communications could distinguish alien signals from pulsars",
-   "summary": "When we think of extraterrestrial intelligence that might be out there among the stars, we tend to think of creatures not too unlike us, though maybe with gray skin, probably bald and with big black eyes.",
-   "url": "https://phys.org/news/2026-10-extraterrestrial-firefly-communications-distinguish-alien.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/extraterrestrial-detec.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T12:50:02+00:00"
-  },
-  {
-   "id": "scientists-discover-mysterious-seahorse-lookalikes-that-no-o",
-   "title": "Scientists discover mysterious seahorse lookalikes that no one has ever seen alive",
-   "summary": "Scientists have discovered that three bizarre deep-sea fish that look exactly like seahorses actually belong to a separate evolutionary group, proving that nature created the same unusual body shape more than once.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261029072119.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/australyichthys-aegis.webp",
+   "id": "implantable-device-uses-ultrasound-to-improve-drug-delivery",
+   "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
+   "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
+   "url": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
+   "source": "MIT News",
+   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_Brain-Ultrasound-01-press.jpg?itok=ahcXTK0H",
    "tags": [
     "Biology"
    ],
+   "date": "2026-10-26",
+   "ts": "2026-10-26T15:00:00+00:00"
+  },
+  {
+   "id": "scientists-find-that-a-10-millisecond-flash-could-help-build",
+   "title": "Scientists find that a 10-millisecond flash could help build more sensitive gas sensors",
+   "summary": "Nitrogen dioxide is a harmful gas that requires sensitive detection. Researchers used intense light pulses lasting 10 milliseconds to make molybdenum disulfide flakes and anchor isolated metal atoms in one step.",
+   "url": "https://phys.org/news/2026-10-scientists-millisecond-sensitive-gas-sensors.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hanyang-university-eri-4.jpg",
+   "tags": [
+    "Physics"
+   ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T02:07:19+00:00"
+   "ts": "2026-10-30T15:20:15+00:00"
   },
   {
-   "id": "on-this-day-in-space-oct-29-1991-nasa-s-galileo-spacecraft-f",
-   "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
-   "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
+   "id": "patrick-stewart-renowned-actor-and-star-trek-s-captain-picar",
+   "title": "Patrick Stewart, renowned actor and ‘Star Trek’s’ Captain Picard, dies at 86",
+   "summary": "Patrick Stewart, the distinguished British actor of stage and screen, passed away Wednesday (Oct. 28) in Los Angeles at the age of 86.",
+   "url": "https://www.space.com/entertainment/patrick-stewart-renowned-actor-and-star-treks-captain-picard-dies-at-86",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/s9xRrSr9vGL7naKG9VhkcG-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/QqqJuNTwQKzgKzGHhzWhuZ-1920-80.png",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T21:28:58+00:00"
+   "ts": "2026-10-29T23:49:50+00:00"
   },
   {
-   "id": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever",
-   "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
-   "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound…",
-   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+   "id": "halloween-aboard-the-international-space-station",
+   "title": "Halloween Aboard the International Space Station",
+   "summary": "Although no ghouls, goblins, or trick-or-treaters come knocking at the International Space Station’s front hatch, crew members aboard the orbiting laboratory still like to get in the Halloween spirit.",
+   "url": "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/luca-parmitano.jpg?w=1024",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T18:18:09+00:00"
+   "ts": "2026-10-29T21:44:23+00:00"
   },
   {
    "id": "colliding-dwarf-planets-created-a-cat-s-tail-1-000-astronomi",
@@ -967,6 +1072,19 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T15:46:02+00:00"
+  },
+  {
+   "id": "six-popular-sugar-substitutes-linked-to-faster-brain-aging",
+   "title": "Six popular sugar substitutes linked to faster brain aging",
+   "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T13:04:04+00:00"
   },
   {
    "id": "study-reveals-new-clues-to-why-colorectal-cancer-in-young-pe",
@@ -995,110 +1113,6 @@
    "ts": "2026-10-28T10:00:00+00:00"
   },
   {
-   "id": "implantable-device-uses-ultrasound-to-improve-drug-delivery",
-   "title": "Implantable device uses ultrasound to improve drug delivery to the brain",
-   "summary": "This targeted approach could offer a way to prevent the recurrence of aggressive brain tumors.",
-   "url": "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT_Brain-Ultrasound-01-press.jpg?itok=ahcXTK0H",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-26",
-   "ts": "2026-10-26T15:00:00+00:00"
-  },
-  {
-   "id": "confirming-altermagnetism-a-geometric-twist-offers-experimen",
-   "title": "Confirming altermagnetism: A geometric twist offers experimental proof",
-   "summary": "For decades, physicists recognized only two types of magnetism that occur in materials without external influence: ferromagnetism and antiferromagnetism. In findings published in Science, a team led by the U.S.",
-   "url": "https://phys.org/news/2026-10-altermagnetism-geometric-experimental-proof.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/slac-researchers-find.jpg",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T12:20:01+00:00"
-  },
-  {
-   "id": "artemis-ii-commander-reid-wiseman-named-deputy-director-for",
-   "title": "Artemis II commander Reid Wiseman named deputy director for NASA's Jet Propulsion Laboratory",
-   "summary": "The leader of NASA's first mission around the moon in half a century is the last to announce what's next for him after retiring from active astronaut duty.",
-   "url": "https://www.space.com/space-exploration/artemis/artemis-ii-commander-reid-wiseman-named-deputy-director-for-nasas-jet-propulsion-laboratory",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/2mYvy2KuahYGHkMXQdnVMe-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T21:00:00+00:00"
-  },
-  {
-   "id": "nasa-names-troy-asher-armstrong-flight-research-center-direc",
-   "title": "NASA Names Troy Asher Armstrong Flight Research Center Director",
-   "summary": "NASA Administrator Jared Isaacman has named Troy Asher director of the agency’s Armstrong Flight Research Center in Edwards, California.",
-   "url": "https://www.nasa.gov/news-release/nasa-names-troy-asher-armstrong-flight-research-center-director/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/troyasher.jpg?w=1638",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T18:00:35+00:00"
-  },
-  {
-   "id": "six-popular-sugar-substitutes-linked-to-faster-brain-aging",
-   "title": "Six popular sugar substitutes linked to faster brain aging",
-   "summary": "A study of nearly 13,000 adults found that people consuming the most artificial sweeteners experienced a 62% faster decline in memory and thinking skills, equivalent to approximately 1.6 additional years of brain aging.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261028234238.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/brain-fire-inflammation-dementia-alzheimers.webp",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T13:04:04+00:00"
-  },
-  {
-   "id": "astronomers-solve-the-mystery-of-the-sun-s-spinning-plasma-j",
-   "title": "Astronomers Solve the Mystery of the Sun’s Spinning Plasma Jets",
-   "summary": "The torrent of corona related discoveries keeps coming. Lately we’ve covered a variety of potential solutions to the “coronal heating problem” - why the Sun’s corona is so much hotter than its surface.",
-   "url": "https://www.universetoday.com/articles/astronomers-solve-the-mystery-of-the-suns-spinning-plasma-jets",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/171879main_LimbFlareJan12_lg_20261029_115346.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-29",
-   "ts": "2026-10-29T11:53:48+00:00"
-  },
-  {
-   "id": "bronze-age-sword-discovered-in-an-italian-lake-is-still-shar",
-   "title": "Bronze Age sword discovered in an Italian lake is still sharp after 3,300 years",
-   "summary": "Archaeologists found several ancient weapons, intact vases and a bronze razor in the volcanic crater lake.",
-   "url": "https://www.livescience.com/archaeology/bronze-age-sword-discovered-in-an-italian-lake-is-still-sharp-after-3-300-years",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/Pqq36mgnjfiEtT6jvfKf84-1920-80.png",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-28",
-   "ts": "2026-10-28T21:27:58+00:00"
-  },
-  {
-   "id": "how-brain-implants-turn-thoughts-into-speech",
-   "title": "How brain implants turn thoughts into speech",
-   "summary": "New brain-computer interfaces turn attempted speech into words and can speak them in a voice resembling the user’s own.",
-   "url": "https://www.sciencenews.org/article/brain-implants-thoughts-speech-podcast",
-   "source": "Science News",
-   "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102026_LS_TDE_S2E4_main.jpg?w=800",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-27",
-   "ts": "2026-10-27T18:35:43+00:00"
-  },
-  {
    "id": "watch-the-universe-emerge-from-the-dark-ages-with-lumina",
    "title": "Watch the universe emerge from the dark ages, with Lumina",
    "summary": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first 2 billion years, in greater detail and volume than ever before.",
@@ -1112,43 +1126,43 @@
    "ts": "2026-10-26T04:00:00+00:00"
   },
   {
-   "id": "long-standing-indigenous-practice-of-adding-shells-to-sand-h",
-   "title": "Long-standing Indigenous practice of adding shells to sand helps young clams withstand ocean acidification",
-   "summary": "New research from the University of California, Davis, reveals why adding crushed shells to beach sand helps protect shell-making animals—such as clams, oysters and mussels—from the detrimental effects of ocean…",
-   "url": "https://phys.org/news/2026-10-indigenous-adding-shells-sand-young.html",
+   "id": "customizable-nanoparticles-show-potential-for-delivering-per",
+   "title": "Customizable nanoparticles show potential for delivering personalized cancer vaccines",
+   "summary": "A nanoscale particle with a unique structure, developed at MIT, holds potential as a customizable delivery vehicle for personalized cancer vaccines.",
+   "url": "https://phys.org/news/2026-10-customizable-nanoparticles-potential-personalized-cancer.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-crushed-shells-pro.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/mit-engineers-create-n.jpg",
    "tags": [
-    "Earth"
+    "Health"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T12:00:11+00:00"
+   "ts": "2026-10-30T15:00:43+00:00"
   },
   {
-   "id": "astronauts-deploy-solar-array-on-100th-us-spacewalk-by-inter",
-   "title": "Astronauts deploy solar array on 100th US spacewalk by International Space Station crew members",
-   "summary": "NASA astronaut Anil Menon and Joshua Kutryk of the Canadian Space Agency deployed a new solar array on Thursday (Oct. 29) during a seven-hour spacewalk outside the International Space Station.",
-   "url": "https://www.space.com/space-exploration/international-space-station/100-us-spacewalks-from-the-iss-astronauts-deploy-new-solar-array-on-landmark-eva",
+   "id": "on-this-day-in-space-oct-29-1991-nasa-s-galileo-spacecraft-f",
+   "title": "On this day in space! Oct. 29, 1991: NASA's Galileo spacecraft flies by asteroid Gaspra and snaps amazing photos while flying at 18,000 mph",
+   "summary": "On Oct. 29, 1991, the Galileo spacecraft flew by the asteroid Gaspra on its way to Jupiter. Here's why it mattered.",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-29-2026",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/PAeFKw3vxMHCwygVPDMZbe-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/s9xRrSr9vGL7naKG9VhkcG-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T20:01:52+00:00"
+   "ts": "2026-10-29T21:28:58+00:00"
   },
   {
-   "id": "nih-nasa-qusafe-challenge",
-   "title": "NIH–NASA QuSAFE Challenge",
-   "summary": "The Quantum-Enabled Predictive Preclinical NAMs for Toxicity and Safety (QuSAFE) Challenge, a collaboration between the National Institutes of Health (NIH) and NASA, advances quantum-enabled sensing for in vitro NAMs…",
-   "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nih-nasa-qusafe-challenge/",
+   "id": "nasa-funded-study-details-one-of-oldest-mars-meteorites-ever",
+   "title": "NASA-funded Study Details One of Oldest Mars Meteorites Ever Found",
+   "summary": "When a rose-colored meteorite was found in the Sahara Desert in 2022, no one knew how old it was or where it came from. Not until NASA-funded scientists age-dated its minerals did they realize the nearly 2-pound…",
+   "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/07/bps-goals-landscape-ppt-no-text.jpg?w=2000",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-10-29",
-   "ts": "2026-10-29T17:44:37+00:00"
+   "ts": "2026-10-29T18:18:09+00:00"
   },
   {
    "id": "nasa-discovers-jupiter-s-invisible-shield-is-more-complex-th",
@@ -1177,6 +1191,20 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T07:26:12+00:00",
+   "rank": 0
+  },
+  {
+   "id": "ai-an-updated-model-spec-for-more-capable-and-beneficial-ai",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+   "url": "https://openai.com/index/updated-model-spec",
+   "source": "OpenAI",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&h=900&fit=fill",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-29",
+   "ts": "2026-10-29T17:00:00+00:00",
    "rank": 0
   },
   {
@@ -1292,6 +1320,20 @@
    "rank": 2
   },
   {
+   "id": "ai-gemini-4-carbon-our-next-frontier-model",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:00:58+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-thin-light-and-built-for-everything-nvidia-rtx-spark-win",
    "title": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
    "summary": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI.",
@@ -1317,6 +1359,20 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-genie-4-a-new-generation-of-world-simulation",
+   "title": "Genie 4: A new generation of world simulation",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
    "rank": 2
   },
   {
