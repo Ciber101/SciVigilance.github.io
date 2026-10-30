@@ -1,7 +1,63 @@
 {
-  "updated": "2026-10-29T13:38:04-07:00",
-  "updated_pt": "Oct 29, 2026, 1:38 PM PT",
+  "updated": "2026-10-29T19:37:53-07:00",
+  "updated_pt": "Oct 29, 2026, 7:37 PM PT",
   "stories": [
+    {
+      "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
+      "tag": "Space",
+      "date": "2026-10-29",
+      "paragraphs": [
+        "The Vera C. Rubin Observatory has found what may be a new dwarf planet in the outer solar system, Live Science and ScienceAlert reported Oct. 29, 2026. The object, designated 2026 ED138, is a large body in the Kuiper Belt beyond Neptune. ScienceAlert describes it as the telescope's first dwarf planet candidate, and Live Science reports that, if confirmed, it would raise the number of dwarf planets officially recognized by the International Astronomical Union from five (Pluto, Ceres, Eris, Haumea and Makemake) to six.",
+        "According to ScienceAlert, Matthew Holman of the Harvard-Smithsonian Center for Astrophysics spotted the object on Oct. 13, 2026, while analyzing Rubin data with software he developed with colleague Kevin Napier. The team traced it through 30 detections across 20 nights of Rubin observations from March 4 to July 11, 2026, then found it in archival Dark Energy Camera images going back to February 2016. \"My first reaction was one of excited disbelief,\" Holman said in a statement quoted by both outlets. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"",
+        "ScienceAlert, citing the Minor Planet Center, reports that ED138 takes about 281 years to orbit the Sun, ranging from 36.86 to 49.04 astronomical units away, which lies within Pluto's range of distances. Both outlets say its tilted orbit placed it against the crowded star fields of the Milky Way, which helped it escape earlier searches.",
+        "The object's size is still uncertain. Because its reflectivity is unknown, researchers estimate a diameter between 600 and 1,500 kilometers (about 370 to 930 miles), Live Science reports; Pluto is 2,377 kilometers across and Ceres 958 kilometers. Both outlets say further observations are needed to determine whether it is round enough to qualify as a dwarf planet. \"Rubin will image the whole southern sky again and again for ten years, so any others hiding in the places earlier surveys skipped are now within reach,\" Holman said."
+      ],
+      "sources": [
+        {
+          "name": "Live Science",
+          "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
+          "date": "2026-10-29"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
+        "credit": "NSF–DOE Vera C. Rubin Observatory, via Live Science",
+        "alt": "Mosaic of Rubin Observatory images showing the dwarf planet candidate 2026 ED138 on several dates in 2026"
+      }
+    },
+    {
+      "title": "Teghaza 001, a meteorite found in the Sahara, is a piece of Mars more than 4.1 billion years old",
+      "tag": "Space",
+      "date": "2026-10-29",
+      "paragraphs": [
+        "A rose-colored meteorite found in the Sahara Desert in 2022 is a piece of Mars that formed more than 4.1 billion years ago, making it one of the oldest Martian meteorites ever found, NASA announced Oct. 29, 2026. Named Teghaza 001 after the salt plain in Mali where it was discovered, the nearly 2-pound (800-gram) rock is one of roughly 435 known meteorites from Mars, according to NASA. Researchers described it in a paper published Thursday in the journal Science.",
+        "Lead author Yang Liu of NASA's Jet Propulsion Laboratory and her colleagues found zircon crystals in the rock, which can be used to precisely date a sample. Caltech coauthor Francois Tissot's team used an in-situ rubidium-strontium dating method on a piece smaller than a fingernail. According to NASA, the results showed the rock had been altered by Martian water around 4.1 billion years ago, suggesting it formed even earlier. \"One of the paper's reviewers called it a Rosetta Stone for Mars,\" Liu said.",
+        "NASA says Teghaza 001 is one of the three most ancient Martian meteorites found on Earth, alongside ALH84001 and the meteorite nicknamed \"Black Beauty,\" but unlike them it holds a mix of volcanic minerals that records how the planet's crust formed from cooling magma before being altered by underground water. Its mineralogy matches what NASA's Mars Reconnaissance Orbiter has observed in the planet's cratered southern highlands.",
+        "A NASA map released with the study shows 13 locations on Mars that match the meteorite's mineralogy and chemistry, though NASA notes no one will ever know exactly where it came from. \"This is really our first piece of Martian crust from a part of Mars we've never had a sample of before,\" said second author Lee Saper, now at NASA's Ames Research Center."
+      ],
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-funded-study-details-one-of-oldest-mars-meteorites-ever-found/",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "NASA Photojournal",
+          "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+          "date": "2026-10-29"
+        }
+      ],
+      "image": {
+        "url": "https://www.nasa.gov/wp-content/uploads/2026/10/1-closeup-of-teghaza-001-mars-meteorite.jpg",
+        "credit": "Darryl Pitt / Maine Mineral & Gem Museum, via NASA",
+        "alt": "Close-up of the rose-colored Martian meteorite Teghaza 001"
+      }
+    },
     {
       "title": "Astronauts install and unroll a new ISS solar array on the 100th U.S. spacewalk from the station",
       "tag": "Space",
@@ -50,33 +106,6 @@
         "url": "https://www.sciencedaily.com/images/1920/nasa-orion-capsule-in-lunar-orbit.webp",
         "credit": "NASA, via ScienceDaily",
         "alt": "NASA's Orion capsule in lunar orbit"
-      }
-    },
-    {
-      "title": "Comets probably didn't deliver life's chemical building blocks to Earth, simulations suggest",
-      "tag": "Space",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "A study published Oct. 28 in Scientific Reports argues that comets were an unlikely source of the chemicals that led to life on Earth, Science News and Universe Today report. Comets do carry carbon- and nitrogen-bearing molecules, and the idea that impacts seeded the young Earth with them has been around for a long time.",
-        "Richard Anslow and colleagues simulated whether hydrogen cyanide, a key starting molecule for prebiotic chemistry and one of the more robust ones, would survive a comet's trip through the atmosphere and its impact. On average, only one impact in more than a billion years would have delivered a meaningful amount. A comet would need to be larger than 100 meters, slow and arriving at a shallow angle, and it would have to hit land, since the ocean would dilute the molecules too quickly.",
-        "The authors also found that Earth's comet bombardment fell off quickly and that the atmosphere preferentially destroys small and oblique comets. Delivery may have been somewhat more likely on Mars, with its thinner atmosphere. Planetary geologist Gordon Osinski, who was not involved, told Science News that carbon-rich asteroids, volcanoes and hydrothermal vents are other possible sources and that he hopes others try to reproduce the results."
-      ],
-      "sources": [
-        {
-          "name": "Science News",
-          "url": "https://www.sciencenews.org/article/comet-chemistry-life-earth-speed-sharp",
-          "date": "2026-10-28"
-        },
-        {
-          "name": "Universe Today",
-          "url": "https://www.universetoday.com/articles/ancient-comets-carried-organic-compounds-but-they-didnt-survive-crashing-into-earth",
-          "date": "2026-10-28"
-        }
-      ],
-      "image": {
-        "url": "https://www.universetoday.com/article_images/illustration_dp_20261028_153808.jpg",
-        "credit": "Artist's illustration by Scarlett White, via Universe Today",
-        "alt": "Illustration of a comet hitting the early Earth"
       }
     }
   ]
