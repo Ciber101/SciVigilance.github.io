@@ -227,12 +227,6 @@
  "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html": {
   "s": "Four new frog species have been discovered near Peru's Cordillera Azul National Park, thanks to efforts by biologist Alessandro Catenazzi. Naming a species matters because it helps biologists understand and potentially harness the unique characteristics of each organism, which could lead to medical advancements."
  },
- "https://phys.org/news/2026-10-tropical-shortcut-particle-collider.html": {
-  "s": "Some researchers have found a shortcut to make predictions for particle collider experiments more efficiently. This shortcut, called tropical QFT, simplifies the complex calculations needed to predict outcomes, potentially making expensive simulations more feasible."
- },
- "https://phys.org/news/2026-10-chemical-reaction-options-dna-encoded.html": {
-  "s": "Researchers have developed a new chemical reaction that enables the coupling of carbonyl compounds with other molecules, including those containing double bonds. This reaction preserves DNA sequences, expanding the types of compounds that can be included in DNA-encoded libraries, thus aiding in the identification of compounds that interact with biological targets."
- },
  "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
   "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
  },
@@ -268,9 +262,6 @@
  "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
-  "s": "Researchers used advanced imaging techniques to capture the moment malaria parasites invade red blood cells. This discovery reveals the structure of the temporary molecular portal the parasites use to slip inside, providing new insights into how the disease progresses."
  },
  "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
   "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
@@ -339,11 +330,22 @@
  "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/": {
   "s": "Droid 1.0, a new coding agent from Factory, allows programmatic tool calling by writing a program instead of using tool outputs directly. This feature cuts costs by 15% compared to direct tool calling, making programmatic tool calling the default."
  },
- "https://openai.com/index/openai-models-google-cloud": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/": {
   "s": "Robotic animals designed to be helpful are being developed, showing promise in disaster recovery, utility inspection, and companionship. These devices mimic real or imaginary creatures with sensors, speakers, motors, and processors that analyze external signals. They matter because they offer practical solutions, like cockroaches aiding in rescue operations, potentially saving lives."
+ },
+ "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html": {
+  "s": "Ultracold atoms trapped in an optical lattice simulated the rare process of particle-antiparticle pair production, predicted by quantum electrodynamics. Researchers created a controllable laboratory model with cold atoms to study this effect, which is difficult to observe in natural settings."
+ },
+ "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints": {
+  "s": "Astronomers may have misidentified the cosmic event that cleared the universe's hydrogen fog, transforming darkness into light. This finding challenges previous theories about how the universe evolved."
+ },
+ "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html": {
+  "s": "Researchers at IBM have successfully linked two large quantum processors using four superconducting cables. This achievement matters because it demonstrates how to reliably connect quantum processors, enabling them to work together as a single machine. Previously, quantum links were mostly between small experimental processors, but this new method is crucial for building larger, more powerful quantum computers."
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the organization's new model boasting advanced cybersecurity features and long-term capabilities. It outperforms in artificial intelligence tasks and has received high ratings in cybersecurity benchmarks. The announcement highlights the model's potential to tackle complex engineering problems, with internal testing showing it can work for extended periods. The organization is gradually making it available to a select group of users, planning to release it to a broader audience soon."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4, a new world simulation model, enables real-time interactive and realistic simulations. This advancement matters as it enhances photorealism, fluid movement, and audio, aiding in training robots and creating new interactive experiences."
  }
 }
