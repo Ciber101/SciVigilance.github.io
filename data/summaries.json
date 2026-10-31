@@ -140,10 +140,6 @@
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
  },
- "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": {
   "s": "The map identifies 13 locations on Mars that have mineralogy and chemistry matching that of Teghaza 001, a very old Martian meteorite. This helps scientists deduce that the meteorite likely originated in the southern highlands of Mars."
  },
@@ -306,9 +302,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/interstellar-visitor-3i-atlas-just-got-even-weirder-and-may-contain-10-billion-year-old-material": {
-  "s": "This matters because the comet's chemical composition suggests it formed before the Sun ignited, potentially offering insights into the earliest days of the universe."
- },
  "https://www.sciencedaily.com/releases/2026/10/261029072126.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -342,10 +335,7 @@
  "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html": {
   "s": "Researchers at IBM have successfully linked two large quantum processors using four superconducting cables. This achievement matters because it demonstrates how to reliably connect quantum processors, enabling them to work together as a single machine. Previously, quantum links were mostly between small experimental processors, but this new method is crucial for building larger, more powerful quantum computers."
  },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the organization's new model boasting advanced cybersecurity features and long-term capabilities. It outperforms in artificial intelligence tasks and has received high ratings in cybersecurity benchmarks. The announcement highlights the model's potential to tackle complex engineering problems, with internal testing showing it can work for extended periods. The organization is gradually making it available to a select group of users, planning to release it to a broader audience soon."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4, a new world simulation model, enables real-time interactive and realistic simulations. This advancement matters as it enhances photorealism, fluid movement, and audio, aiding in training robots and creating new interactive experiences."
+ "https://www.sciencealert.com/scientists-recovered-22000-year-old-human-dna-from-cave-dirt": {
+  "s": "Scientists recovered ancient human DNA from cave dirt, even though no bones or teeth were present. This discovery matters because it shows how DNA can be extracted from very small samples of sediment, potentially allowing archaeologists to learn more about human genetic identities without needing physical remains."
  }
 }
