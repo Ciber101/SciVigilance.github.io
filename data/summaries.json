@@ -199,18 +199,11 @@
  "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
   "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
  },
- "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408": {
-  "s": "A researcher just won a Nobel Prize for detecting cosmic neutrinos, tiny particles that pass through Earth without interacting. Scientists now want to know where these neutrinos originate, as understanding their sources can reveal much about the universe. To find this information, researchers suggest using radio telescopes to match up IceCube's neutrino detections with their potential sources in space."
- },
  "https://www.sciencedaily.com/releases/2026/10/261028234703.htm": {
   "s": "Physicists created a tiny universe in the lab where time emerged naturally without an external clock. This discovery suggests time might not be a fundamental part of reality, but rather a result of changes within the universe."
  },
  "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504": {
   "s": "This closure matters because the museum had offered a unique educational experience, inspiring generations of scientists and providing hands-on science exploration beyond textbooks."
- },
- "https://www.space.com/stargazing/chinas-secretive-space-plane-is-flying-over-the-us-this-week-heres-how-to-spot-it": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
   "s": "Scientists found that crocodiles survived the asteroid impact that wiped out the dinosaurs because they preferred warm climates. Their analysis of fossils and climate models showed crocodiles could move to new regions when temperatures rose and return to the tropics when temperatures fell, allowing them to survive in areas that remained suitable after the impact."
@@ -253,13 +246,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the next model from the organization, boasting advanced cybersecurity and long-term capabilities. It ranks highest in artificial intelligence analysis and excels in tasks like finding vulnerabilities, exploiting weaknesses, and patching security flaws. The announcement follows the release of Gemini 4 Argon, indicating the organization's commitment to advancing model capabilities and strengthening security."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/": {
   "s": "Humanoid robotics developer Agility Robotics Inc. expects to raise $465 million in a SPAC deal, less than initially estimated. This move aims to support commercial expansion and meet growing customer demand, aligning with the company's goal to become the first U.S. publicly traded humanoid supplier."
  },
@@ -278,10 +264,6 @@
  },
  "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/": {
   "s": "All four security AI agents compare similar processes: finding bugs, disproving them independently, and applying patches. The key finding is they all converge on a similar design. This convergence is significant because it suggests a common solution to a problem: excessive false positives in AI-driven code scanning, which can waste time and resources."
- },
- "https://www.quantamagazine.org/is-there-more-to-cold-fusion-than-failure-and-fraud-20261030/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past": {
   "s": "A meteorite named Teghaza 001, found in Mali, is extremely ancient, about 4.1 billion years old. Such a young meteorite provides unique insights into Mars' early crust and mantle, suggesting conditions more Earth-like than previously thought."
@@ -305,9 +287,6 @@
  "https://phys.org/news/2026-10-ute-reveals-flavors-superconductivity-extreme.html": {
   "s": "Researchers are searching for a topological superconductor that could revolutionize quantum computing. Uranium ditelluride has been found to exhibit two distinct flavors of superconductivity, setting it apart as a promising candidate. However, it remains to be proven that these flavors can combine to form a topological superconductor."
  },
- "https://phys.org/news/2026-10-decade-carbon-dioxide-space.html": {
-  "s": "Every day, two NASA space instruments continuously monitor sunlight reflecting off Earth's surface, generating more than a million observations. New algorithms have enhanced these instruments' ability to measure atmospheric carbon dioxide concentrations, improving the accuracy of global CO₂ records since 2014. The updated data helps scientists better understand carbon cycles, track CO₂ accumulation, and compare with ground-based measurements."
- },
  "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
   "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
  },
@@ -317,9 +296,6 @@
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.sciencealert.com/chernobyls-dogs-are-genetically-different-and-we-may-finally-know-why": {
-  "s": "The dogs that survived in the Chernobyl Exclusion Zone are genetically distinct from those living elsewhere. This study suggests the genetic differences are not due to mutations but rather to other factors influenced by the long-term radiation exposure."
  },
  "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two": {
   "s": "The scientists found a way that a black hole could split into two black holes under specific conditions. This is unusual because black holes have strong gravity and are thought to be indestructible. The researchers calculated that for such a split to occur, the two resulting black holes must stay apart and not immediately merge."
@@ -340,8 +316,43 @@
  "https://www.space.com/space-exploration/launches-spacecraft/india-launches-nvs-03-navigation-satellite-gslv-rocket": {
   "s": "India launched the next-generation navigation satellite NVS-03 to orbit today. This matters as it represents progress in India's space technology, adding to its growing fleet of satellites."
  },
- "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities": {
+ "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time": {
+  "s": "The Hera probe recently captured the first clear images of the binary asteroid Didymos and Dimorphos, distinguishing them for the first time. This achievement matters as it provides crucial data for assessing the feasibility of planetary defense missions, helping scientists understand how to deflect asteroids and protect Earth from potential threats."
+ },
+ "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html": {
+  "s": "Scientists detect neutrinos, but they are hard to trace because these particles rarely interact with other matter. A new study suggests using radio telescopes to help find where these \"ghost particles\" originate. Knowing their sources can teach astronomers about the physics inside those objects."
+ },
+ "https://www.sciencealert.com/traditional-chinese-medicine-formula-kills-drug-resistant-cancer-cells-in-the-lab": {
+  "s": "The traditional Chinese medicine formula Huayu Wan suppressed the growth of esophageal cancer cells that were resistant to cisplatin, a common chemotherapy drug. Researchers found that Huayu Wan induced a form of programmed cell death called ferroptosis, which damages cancer cells' membranes and weakens their ability to neutralize oxidative damage. This suggests Huayu Wan could be a novel intervention to treat drug-resistant esophageal cancer."
+ },
+ "https://www.space.com/entertainment/the-world-mourns-the-passing-of-star-treks-patrick-stewart-with-a-galaxy-of-tearful-tributes": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
+  "s": "Researchers used advanced imaging techniques to capture the moment malaria parasites invade red blood cells. This discovery reveals the structure of the temporary molecular portal the parasites use to slip inside, providing new insights into how the disease progresses."
+ },
+ "https://openai.com/index/oracle-apps-in-chatgpt": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/anima": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://openai.com/index/terminal-x": {
+  "s": "This suggests GPT-6.1 performs well in aligning with investment goals, as Terminal X found it deviated from mandate criteria less often."
+ },
+ "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
+  "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
+ },
+ "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
+  "s": "Robots are increasingly seen in factories worldwide, with China leading in installations, according to a report. Toyota predicts a significant increase in robot installations, potentially reaching 806,000 units by 2029."
+ },
+ "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/": {
+  "s": "The MIT engineers created a paper-thin swimming robot that uses muscle cells to flap through water. This innovation shows that even a thin layer of muscle can generate enough force to move in water, potentially paving the way for more efficient biohybrid robots."
+ },
+ "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/": {
+  "s": "Rika Antonova from Cambridge University discussed how artificial intelligence can be used to design complementary robot hardware and algorithms. This research is important as it advances the field of robotics by improving the integration of hardware and software, enhancing robot capabilities."
  }
 }

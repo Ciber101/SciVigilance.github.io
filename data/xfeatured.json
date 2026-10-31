@@ -17,7 +17,7 @@
     },
     {
      "id": "2115896329645723836",
-     "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity investigation where we weren’t running our misalignment monitors—we’ve substantially expanded our monitoring of frontier agents. We now monitor all frontier reinforcement learning runs and evaluations, as well as all internal Codex use. When our system finds evidence of a problem that might require intervention, it rapidly alerts human responders who can investigate and take action.\n\nTo detect when a model’s behavior departs from what we intended, we use several layers of monitoring. Activation probes look for patterns in a model’s internal activity. Reviewer models examine its reasoning and tool use, and investigative agents can read back through the model’s entire transcript to understand how a sequence of actions fits together and whether it warrants human review.\n\nTo test whether our current system would have detected the Hugging Face incident, we replayed the recorded activity with our new monitors in place. In the replay, our monitors alerted our security team about 30 minutes after the agents escaped their sandbox. That was more than 30 hours before the point at which the agents breached Hugging Face’s systems in the original incident.\n\nIn September, a model exploited a DNS misconfiguration to reach the live internet. Our monitors flagged the breach within 15 minutes, and a responder began reviewing the alert three minutes later. The alert enabled responders to investigate while the run was still underway.\n\nAs we give models more autonomy, we need to know when they cross a boundary we expected to hold. We believe that monitoring is essential to catching those failures in time for people to intervene.",
+     "text": "Today, we’re sharing a look at our expanded system for monitoring frontier models at OpenAI, which in September helped us catch a model’s attempt to access the live internet during training.\n\nSince the Hugging Face incident—when models broke out of an internal cybersecurity",
      "date": "2026-10-29T19:59:31.000Z",
      "quoted": false,
      "image": null,
@@ -26,7 +26,7 @@
     },
     {
      "id": "2113766354386084338",
-     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their own code on affected systems by sending or replying with malicious compressed data, without any need to create a user account. That is, an unpatched server that accepts compressed input could be taken over by a malicious client, and an unpatched client that accepts compressed input (such as “curl --compressed”) could be taken over by a malicious server.\n\nThis root cause issue was actually fixed in the Brotli source code in February, but it wasn’t known at the time that it gave rise to a security vulnerability and there was no more recent release of Brotli. Since Brotli is built into other software, any software which includes this library needs to take the update too, followed by the users of that software. We disclosed the vulnerability to Brotli and other downstream projects such as Node.js, which released or are currently releasing security updates, and Brotli cut new release versions and published a CVE.\n\nMore details on the patch and mitigations below:",
+     "text": "During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely-deployed compression library included in many pieces of software such as Node.js, Bun, and Envoy.\n\nThe flaw could let an attacker run their",
      "date": "2026-10-23T22:55:45.000Z",
      "quoted": true,
      "image": null,
@@ -34,13 +34,13 @@
      "url": "https://x.com/OpenAI/status/2113766354386084338"
     },
     {
-     "id": "2113298833392496746",
-     "text": "This summer, we invited METR and Redwood Research to pilot an embedded evaluation of our internal monitoring system, providing deep access to our infrastructure over three weeks. \n\nTheir findings helped strengthen safeguards as we expanded the system and will help shape future research collaborations with METR and other third party evaluators.",
-     "date": "2026-10-22T15:57:59.000Z",
-     "quoted": true,
+     "id": "2113718797505036665",
+     "text": "Over the past several months, we have substantially hardened the security of our research training environment. We’ve removed live internet access for all frontier models during training and built an offline world for them to use instead—a cached version of the web where they can",
+     "date": "2026-10-23T19:46:46.000Z",
+     "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/OpenAI/status/2113298833392496746"
+     "url": "https://x.com/OpenAI/status/2113718797505036665"
     }
    ]
   },
@@ -263,7 +263,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -281,7 +281,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -298,7 +298,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +307,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -333,12 +333,21 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
+    },
+    {
+     "id": "2108549075218120949",
+     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
+     "date": "2026-10-09T13:24:09.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -446,6 +455,15 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
+     "id": "2114827978748383342",
+     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
+     "date": "2026-10-26T21:14:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
+     "url": "https://x.com/nvidia/status/2114827978748383342"
+    },
+    {
      "id": "2114377680715980950",
      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
      "date": "2026-10-25T15:24:56.000Z",
@@ -471,15 +489,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
      "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
      "url": "https://x.com/nvidia/status/2113604477261398148"
-    },
-    {
-     "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
-     "date": "2026-10-21T14:54:03.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112920354230296993"
     }
    ]
   },
@@ -665,6 +674,15 @@
    "avatar": "img/x-robots-bostondynamics.jpg",
    "posts": [
     {
+     "id": "2116194957190893687",
+     "text": "We're proud to announce that Orbit AIVI-Learning won a LEAP Award in industrial automation!\n\nThe @DesignWorld LEAP Awards (Leadership in Engineering Achievement Program) celebrates the most innovative and forward-thinking products serving the design engineering space, selected by",
+     "date": "2026-10-30T15:46:09.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HV43uTnWAAA3Ji2.jpg",
+     "video": null,
+     "url": "https://x.com/BostonDynamics/status/2116194957190893687"
+    },
+    {
      "id": "2115815524051362095",
      "text": "We're building the foundational blocks for a fully connected smart factory, turning isolated data into genuine site-wide intelligence. Discover the latest enhancements in Spot and Orbit turning AI insight into autonomous action:",
      "date": "2026-10-29T14:38:25.000Z",
@@ -690,15 +708,6 @@
      "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
      "video": "https://video.twimg.com/amplify_video/2110755331244544000/vid/avc1/1920x1080/sO9X5hOWssL1mJbA.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2110755540401827986"
-    },
-    {
-     "id": "2108232456784498990",
-     "text": "With 5 routes and hundreds of assets inspected, Spot is helping @Kirin_Brewery Chitose Plant save free up hundreds of hours a year for their maintenance and operations teams. See how they deployed Spot and Orbit with the help of @teco_enterprise:",
-     "date": "2026-10-08T16:26:01.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/BostonDynamics/status/2108232456784498990"
     }
    ]
   },
@@ -709,6 +718,15 @@
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
     {
+     "id": "2115526516947956133",
+     "text": "Majority staff from the @EdWorkforceCmte visited RoboFab, our factory in Salem, Oregon, for a firsthand look at what it takes to build an American humanoid robot that is Made for Work®.\n\nWe discussed our engineering, how customers are using Digit to address workforce challenges,",
+     "date": "2026-10-28T19:30:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVvHUqGbgAA3QS_.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2115526516947956133"
+    },
+    {
      "id": "2114786439737262138",
      "text": "GXO was the first company to put Digit to work. Now it’s expanding to two more U.S. warehouses, starting in early 2027.\n\n@johnkoetsier @Forbes covers why repeat customers are the signal that matters in humanoid robotics:",
      "date": "2026-10-26T18:29:12.000Z",
@@ -718,31 +736,22 @@
      "url": "https://x.com/agilityrobotics/status/2114786439737262138"
     },
     {
+     "id": "2114703340474896639",
+     "text": "Today, we announced an expanded partnership with GXO and detailed three previously unannounced enterprise manufacturing customers. This builds on our active pipeline of more than 30 prospective customers in manufacturing, automotive, aerospace, defense, logistics, and consumer",
+     "date": "2026-10-26T12:59:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVhUQlHasAE3Xxc.png",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2114703340474896639"
+    },
+    {
      "id": "2114673401235181690",
-     "text": "GXO announces an expanded partnership with Agility. Digit is headed to @GXOLogistics sites in Statesville, NC, and Lebanon, TN, with deployments expected to begin in early 2027 — building on more than 100,000 totes moved at Flowery Branch, GA.\n\n#Agility #Digit #MadeToWork",
+     "text": "GXO announces an expanded partnership with Agility. Digit is headed to @GXOLogistics sites in Statesville, NC, and Lebanon, TN, with deployments expected to begin in early 2027 — building on more than 100,000 totes moved at Flowery Branch, GA.\n\n#Agility",
      "date": "2026-10-26T11:00:02.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVhmPyIaEAAFPgr.jpg",
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2114673401235181690"
-    },
-    {
-     "id": "2113691564094755034",
-     "text": "Our co-founder and Chief Robot Officer Jonathan Hurst answered your questions about the engineering behind Digit 5.\n\nRead the AMA exactly as posted:\n\n#Agility #MadeForWork #AMA",
-     "date": "2026-10-23T17:58:34.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVVXP68aoAABytj.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2113691564094755034"
-    },
-    {
-     "id": "2113396938368536825",
-     "text": ".@Damion Shelton, our co-founder and Chairman, will speak on robotics performance at the Foxconn Investment Summit in Taipei on Oct. 31.\n\nFoxconn is leading the PIPE for our proposed business combination with Churchill Capital Corp XI. #HHTD26\n\n#HHTD26 #Agility #MadeForWork",
-     "date": "2026-10-22T22:27:49.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVRLT9TbQAAVBAD.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2113396938368536825"
     }
    ]
   },
@@ -1051,6 +1060,15 @@
    "avatar": "img/x-isro.jpg",
    "posts": [
     {
+     "id": "2116354957180019079",
+     "text": "GSLV-F18/NVS-03 Mission: \n\nWatch highlights of the journey from lift-off to spacecraft separation.\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "date": "2026-10-31T02:21:56.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2116354850548224000/img/s1nSlIhAZkEGJk1M.jpg",
+     "video": "https://video.twimg.com/amplify_video/2116354850548224000/vid/avc1/848x478/me3sfb1ggQGg-sF2.mp4",
+     "url": "https://x.com/isro/status/2116354957180019079"
+    },
+    {
      "id": "2116233984367886641",
      "text": "LIFT-OFF! \nGSLV-F18 carrying NVS-03 lifts off from Satish Dhawan Space Centre, SHAR, Sriharikota.\n\nWatch live:\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
      "date": "2026-10-30T18:21:14.000Z",
@@ -1076,15 +1094,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/isro/status/2115961436484817011"
-    },
-    {
-     "id": "2115757885506642087",
-     "text": "Meet NVS-03 - the third satellite of the second-generation NVS series, intended to augment the NavIC constellation and support continuity of navigation services.\n\nLaunch: 30th October 2026, 23:51 hours IST\n\nWatch live:  30th October 2026, 23:20 hours IST onwards",
-     "date": "2026-10-29T10:49:23.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVyujkhaUAA2_mT.jpg",
-     "video": null,
-     "url": "https://x.com/isro/status/2115757885506642087"
     }
    ]
   },
@@ -1193,21 +1202,12 @@
     },
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
      "video": null,
      "url": "https://x.com/blueorigin/status/2111034919140946229"
-    },
-    {
-     "id": "2110115705894904067",
-     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
-     "date": "2026-10-13T21:09:22.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110115567394791424/vid/avc1/1920x1080/EdwbgQUrnUrrqLtG.mp4?tag=16",
-     "url": "https://x.com/blueorigin/status/2110115705894904067"
     }
    ]
   },
@@ -1471,6 +1471,15 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
+    },
+    {
+     "id": "2110344436643230019",
+     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
+     "date": "2026-10-14T12:18:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
+     "video": null,
+     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   }
