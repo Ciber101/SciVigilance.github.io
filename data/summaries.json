@@ -149,9 +149,6 @@
  "https://www.universetoday.com/articles/its-a-ghost-no-its-a-stellar-crche": {
   "s": "Astronomers observed a region of the Carina Nebula, finding a cloud of gas and dust seemingly isolated. This ghostly cloud, however, is actually a region where new stars are being formed. Studying this region helps astronomers understand the Carina Nebula's structure and star birth processes. It also provides insight into Eta Carinae's future supernova, which could reshape the nebula."
  },
- "https://www.nasa.gov/centers-and-facilities/johnson/halloween-aboard-the-international-space-station/": {
-  "s": "Crew members aboard the International Space Station still celebrate Halloween by dressing up in costumes, sometimes spooky, sometimes scary. This tradition shows how astronauts maintain a sense of normalcy and fun in space."
- },
  "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -176,9 +173,6 @@
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
- "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/": {
-  "s": "Spooky shapes in cosmic dust clouds drift through the night in the Cepheus constellation, visible in a distant molecular cloud complex. These shapes, like the Ghost Nebula, are signs of early star formation and provide insights into the universe's formation."
- },
  "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything": {
   "s": "The researchers conducted experiments to simulate the extreme conditions inside planets, using lasers to compress magnesium oxide crystals to pressures and temperatures similar to those found in planetary interiors. Their findings could help solve mysteries about how magnesium oxide forms deep within planets, potentially providing insights into the composition and evolution of other worlds."
  },
@@ -191,10 +185,6 @@
  },
  "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/": {
   "s": "Samaya AI released Sterling, a 3B-active finance research model that outperforms Claude Fable 5.1 on financial research tasks. This matters because it demonstrates how a large model can be adapted for more efficient financial research, reducing costs significantly."
- },
- "https://www.space.com/astronomy/ghostly-cats-head-nebula-haunts-the-cosmos-space-photo-of-the-day-for-oct-30-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
   "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
@@ -332,17 +322,6 @@
  "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/": {
   "s": "Researchers used advanced imaging techniques to capture the moment malaria parasites invade red blood cells. This discovery reveals the structure of the temporary molecular portal the parasites use to slip inside, providing new insights into how the disease progresses."
  },
- "https://openai.com/index/oracle-apps-in-chatgpt": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://openai.com/index/anima": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://openai.com/index/terminal-x": {
-  "s": "This suggests GPT-6.1 performs well in aligning with investment goals, as Terminal X found it deviated from mandate criteria less often."
- },
  "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
   "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
  },
@@ -354,5 +333,16 @@
  },
  "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/": {
   "s": "Rika Antonova from Cambridge University discussed how artificial intelligence can be used to design complementary robot hardware and algorithms. This research is important as it advances the field of robotics by improving the integration of hardware and software, enhancing robot capabilities."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-launch-falcon-9-group-15-18-landing-ocisly": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/": {
+  "s": "Ghostly towers of steam and gas are seen dancing against eerie northern lights at Hverir, a geothermally active area in Iceland. Solar activity triggers geomagnetic storms, creating auroras that appear ghostly and spooky."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  }
 }
