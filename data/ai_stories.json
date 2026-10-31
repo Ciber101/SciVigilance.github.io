@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T16:42:16-07:00",
-  "updated_pt": "Oct 30, 2026, 4:42 PM PT",
+  "updated": "2026-10-31T01:40:57-07:00",
+  "updated_pt": "Oct 31, 2026, 1:40 AM PT",
   "stories": [
     {
       "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
@@ -28,33 +28,6 @@
         "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
         "credit": "Getty Images, via Ars Technica",
         "alt": "Yellow caution tape"
-      }
-    },
-    {
-      "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model, starting with cyber defenders",
-      "tag": "Models",
-      "date": "2026-10-28",
-      "paragraphs": [
-        "Google DeepMind announced Gemini 4 Carbon on Oct. 28, calling it its strongest model, with state-of-the-art cybersecurity and long-horizon capabilities. It arrives two weeks after Gemini 4 Argon. Google says Carbon ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59 and reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym and 71.0% on CWE-bench for patching.",
-        "According to Google, internal teams have seen Carbon work for days on multi-step engineering tasks, and its success rate at generating secure code is more than double Argon's. MarkTechPost notes these are Google's own or self-run figures, with most rival scores self-reported and no independent replication yet.",
-        "Access is limited for now. Google is taking part in the U.S. government's voluntary pre-release testing, is giving Carbon to a subset of cyber defenders this week, and will widen access through its Fairwind Program before a later release to developers, businesses and consumers. Introductory pricing matches Argon: $2 per million input tokens and $10 per million output tokens."
-      ],
-      "sources": [
-        {
-          "name": "Google DeepMind",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "date": "2026-10-28"
-        },
-        {
-          "name": "MarkTechPost",
-          "url": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
-          "date": "2026-10-28"
-        }
-      ],
-      "image": {
-        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
-        "credit": "Google DeepMind",
-        "alt": "Gemini 4 Carbon announcement graphic"
       }
     },
     {
