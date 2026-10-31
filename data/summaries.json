@@ -220,9 +220,6 @@
  "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
   "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
  },
- "https://phys.org/news/2026-10-frog-species-reveal-peru-biodiversity.html": {
-  "s": "Four new frog species have been discovered near Peru's Cordillera Azul National Park, thanks to efforts by biologist Alessandro Catenazzi. Naming a species matters because it helps biologists understand and potentially harness the unique characteristics of each organism, which could lead to medical advancements."
- },
  "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
   "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
  },
@@ -337,5 +334,18 @@
  },
  "https://www.sciencealert.com/scientists-recovered-22000-year-old-human-dna-from-cave-dirt": {
   "s": "Scientists recovered ancient human DNA from cave dirt, even though no bones or teeth were present. This discovery matters because it shows how DNA can be extracted from very small samples of sediment, potentially allowing archaeologists to learn more about human genetic identities without needing physical remains."
+ },
+ "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity features and long-term capabilities. Its introduction highlights the organization's commitment to advancing AI capabilities and strengthening cybersecurity defenses."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new model that enhances world simulation, enabling realistic audio, movement, and dialogue in real-time. This matters as it advances AGI by creating safe, infinitely variable simulations for training and interactive experiences."
+ },
+ "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
+  "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure it works reliably in warehouses. She simulates years of wear and tear on robot parts in weeks by accelerating the testing process, using more aggressive forces than a robot would face in real conditions. Her work helps design a robot that can handle the dynamic environments of warehouses without breaking down."
  }
 }
