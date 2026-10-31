@@ -98,14 +98,8 @@
  "https://x.ai/news/incident-sweep": {
   "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
  },
- "https://www.livescience.com/space/cosmology/new-simulation-of-the-universe-shows-the-first-2-billion-years-after-the-big-bang-play-out-in-stunning-detail": {
-  "s": "The new simulation aims to reveal how the universe's initial ingredients formed into galaxies, illuminating the period when the cosmos was lit up after a dark age. This helps scientists understand the early stages of the universe's development."
- },
  "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
   "s": "Researchers have developed magnetic sensors that track muscle movement. This could help people with amputation use prosthetic limbs more naturally, by providing detailed muscle signals."
- },
- "https://www.livescience.com/health/cancer/study-reveals-new-clues-to-why-colorectal-cancer-in-young-people-is-so-deadly": {
-  "s": "The study finds that colorectal cancer in younger people has genetic and structural differences compared to cancer in older people. These differences may make the cancer more aggressive and harder to treat."
  },
  "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation": {
   "s": "A striking cloud on Mars, resembling a ribbon as long as four Grand Canyons, may form without any starting material, contrary to typical cloud formation on Earth. Tiny particles like dust or salt are usually needed to seed typical clouds, but this Martian cloud shows a new, unseeded way of forming."
@@ -157,9 +151,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.marktechpost.com/2026/10/29/baseten-joey-1-2b-decision-model/": {
-  "s": "Baseten released joey-1, a 2B decision model that provides probability answers instead of text. This matters because it offers faster and more efficient processing, with 20 ms latency and costs $0.01 per million tokens, compared to other models like mammoth-1 and elephant-1."
- },
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
  },
@@ -175,9 +166,6 @@
  },
  "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything": {
   "s": "The researchers conducted experiments to simulate the extreme conditions inside planets, using lasers to compress magnesium oxide crystals to pressures and temperatures similar to those found in planetary interiors. Their findings could help solve mysteries about how magnesium oxide forms deep within planets, potentially providing insights into the composition and evolution of other worlds."
- },
- "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/": {
-  "s": "Edge0 released Audio8-TTS-Realistic, a 0.6B TTS model. It adds realism to voice cloning, supporting 23 languages and learning from matched human recordings. This model matters because it addresses synthetic speech's shortcomings, improving both speech quality and speaker similarity."
  },
  "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": {
   "s": "",
@@ -231,10 +219,6 @@
  },
  "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/": {
   "s": "NASA seeks industry proposals to boost Hubble to a higher orbit to extend its science lifetime. The telescope is at risk of re-entry in 2033, and extending its life would mean more discoveries and expanded understanding of the universe."
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-30-2026": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/": {
   "s": "Humanoid robotics developer Agility Robotics Inc. expects to raise $465 million in a SPAC deal, less than initially estimated. This move aims to support commercial expansion and meet growing customer demand, aligning with the company's goal to become the first U.S. publicly traded humanoid supplier."
@@ -341,18 +325,26 @@
  "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/": {
   "s": "Ghostly towers of steam and gas are seen dancing against eerie northern lights at Hverir, a geothermally active area in Iceland. Solar activity triggers geomagnetic storms, creating auroras that appear ghostly and spooky."
  },
- "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
   "s": "Gemini 4 Carbon is the next model announced by the organization, boasting advanced cybersecurity and long-term capabilities. Its release shows the organization's commitment to pushing technological boundaries in cybersecurity, as evidenced by its high scores in AI intelligence benchmarks."
  },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "Genie 4 is a new model for creating simulations of the world that behaves more realistically. It matters because it enables more lifelike interactions and scenarios, useful for training robots and agents, and for developing new interactive experiences."
  },
- "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+ "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series": {
+  "s": "To watch \"Blue Planet III\" online, one can stream Sir David Attenborough's new series featuring ocean exploration with advanced camera technology. This matters as it offers viewers a unique opportunity to see the world's oceans through cutting-edge technology, potentially revealing new insights and beauty."
+ },
+ "https://www.space.com/stargazing/halloween-night-sky-2026-saturn-shooting-stars-and-a-space-station-await-us-stargazers": {
+  "s": "This Halloween, skywatchers can enjoy Saturn's rings, shooting stars, and a space station flyover. These celestial events offer ample opportunities for stargazers to see the night sky's beauty."
+ },
+ "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof": {
+  "s": "This sneaky bird might be proof that some animals can lie. Researchers are studying how it deceives others to gain advantage."
+ },
+ "https://www.livescience.com/animals/you-start-painting-pictures-of-squirrels-twirling-their-mustaches-a-biologist-on-whether-animals-can-lie": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://www.marktechpost.com/2026/10/31/vercel-labs-agent-desktop-computer-use/": {
+  "s": "agent-desktop enables AI agents to interact with desktop applications on macOS, Windows, and Linux by reading accessibility trees and acting on stable references. This tool matters because it allows AI to perform tasks on a computer without needing a graphical user interface, making it useful for automation and accessibility purposes."
  }
 }

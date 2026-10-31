@@ -61,7 +61,7 @@
     },
     {
      "id": "2115178675050307942",
-     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of",
+     "text": "Over the past few months, Anthropic scientists have engaged in deep research partnerships with six organizations developing new medicines. We've also begun drug discovery efforts of our own.\n\nIn doing so, we’ve learned much more about how Claude can support the many stages of drug development.\n\nIn this blog post, we share some early results from these efforts, and describe how this work fits in with our wider ambitions in the life sciences.",
      "date": "2026-10-27T20:27:48.000Z",
      "quoted": false,
      "image": null,
@@ -79,7 +79,7 @@
     },
     {
      "id": "2113390212911083894",
-     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models,",
+     "text": "New on our Frontier Red Team blog: using Claude to formally verify software at large scale.\n\nFormal verification can prove that code is free of certain bugs, but historically it has only been feasible for small codebases (or required a lot of expert time).\n\nWith AI models, however, this is beginning to change. In collaboration with @theoremlabs, we used Claude to prove security properties in over one hundred real-world open-source libraries over the span of a few weeks.\n\nRead our research in full here:",
      "date": "2026-10-22T22:01:06.000Z",
      "quoted": false,
      "image": null,
@@ -237,7 +237,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -263,7 +263,7 @@
    "posts": [
     {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -281,7 +281,7 @@
     },
     {
      "id": "2105819303471976479",
-     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips &amp; tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for",
+     "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
      "date": "2026-10-02T00:37:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png",
@@ -298,7 +298,7 @@
    "posts": [
     {
      "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more affordable.\n\n🔗\n\n1/4",
+     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
      "date": "2026-10-20T09:30:19.000Z",
      "quoted": false,
      "image": null,
@@ -307,7 +307,7 @@
     },
     {
      "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy, WorkBuddy, and more. Upgrade to DeepSeek Harness v0.2.1-rc.1 or later for the best experience with the new model.\n\n1/4",
+     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
      "date": "2026-10-17T08:35:54.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
@@ -368,7 +368,7 @@
     },
     {
      "id": "2115811242556137820",
-     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on @artificialanalysis.\n\n🛡 Built to defend: State-of-the-art in cyberdefense, put through the paces by the world's leading cyber vendors, including @CrowdStrike, @cloudflare, @rubrik, @zscaler, and others.\n\nBuilt for sovereignty: Make it yours. Download the weights on @huggingface , customize it with Mistral Forge, and deploy it wherever you need it.\n\nRead more from our team and customers 👇:",
+     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on",
      "date": "2026-10-29T14:21:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVzNm_7W4AAQsZV.jpg",
@@ -377,7 +377,7 @@
     },
     {
      "id": "2115443720371814478",
-     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works with all chat models hosted by Mistral, including Large 4.",
+     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works",
      "date": "2026-10-28T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVtfR8WXEAAXYbh.jpg",
@@ -403,7 +403,7 @@
    "posts": [
     {
      "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse",
+     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
      "date": "2026-10-28T17:08:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
@@ -412,7 +412,7 @@
     },
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -421,7 +421,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -430,7 +430,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -445,6 +445,15 @@
    "group": "ai",
    "avatar": "img/x-nvidia.jpg",
    "posts": [
+    {
+     "id": "2114827978748383342",
+     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
+     "date": "2026-10-26T21:14:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
+     "url": "https://x.com/nvidia/status/2114827978748383342"
+    },
     {
      "id": "2114377680715980950",
      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
@@ -471,15 +480,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
      "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
      "url": "https://x.com/nvidia/status/2113604477261398148"
-    },
-    {
-     "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
-     "date": "2026-10-21T14:54:03.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112920354230296993"
     }
    ]
   },
@@ -780,7 +780,7 @@
     },
     {
      "id": "2107452595883446304",
-     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH",
+     "text": "2,000+ screws. 50–60 specs. One smart tightening system. 🔩\n\nIt automatically matches the right screw and the right torque for every position, checks in real time, and records the data for every single screw.\n\nEP.5 of our factory tour series — down to the last screw. 👀\n\n#UBTECH #HumanoidRobot #SmartManufacturing #IndustrialAutomation #AI",
      "date": "2026-10-06T12:47:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2107452189866405888/img/IBL0s2pwdJauo80Y.jpg",
@@ -798,7 +798,7 @@
     },
     {
      "id": "2106350586232991745",
-     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH",
+     "text": "We built this factory twice — once in the digital world, once for real. 💻➡️🏭\n\nOur industrial simulation system verified everything before construction: layout, logistics, production rhythm.\n\nEP.3 of our factory tour series — the smartest part is still ahead. 👀\n\n#UBTECH #HumanoidRobot #DigitalTwin #SmartManufacturing #AI",
      "date": "2026-10-03T11:48:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2106349982387490816/img/tv_Iv6Nx8T4BpyKI.jpg",
@@ -1079,7 +1079,7 @@
     },
     {
      "id": "2115961436484817011",
-     "text": "Launch Day!\n\nThe GSLV-F18/NVS-03 Mission is scheduled for launch today, 30 October 2026, at 23:51 hrs IST from Satish Dhawan Space Centre (SDSC SHAR), Sriharikota.\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "text": "Launch Day!\n\nThe GSLV-F18/NVS-03 Mission is scheduled for launch today, 30 October 2026, at 23:51 hrs IST from Satish Dhawan Space Centre (SDSC SHAR), Sriharikota.\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:",
      "date": "2026-10-30T00:18:13.000Z",
      "quoted": false,
      "image": null,
@@ -1193,12 +1193,21 @@
     },
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
      "video": null,
      "url": "https://x.com/blueorigin/status/2111034919140946229"
+    },
+    {
+     "id": "2110115705894904067",
+     "text": "One week until the launch window opens for @JAXA_en's Martian Moons eXploration (MMX) mission. \n\nOur Pneumatic Sampler, or P-Sampler, will soon be heading to Phobos aboard the MMX spacecraft. Designed to use high-pressure nitrogen gas to collect Phobos regolith, it will support",
+     "date": "2026-10-13T21:09:22.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUijDTUXwAAGbPu.jpg",
+     "video": "https://video.twimg.com/amplify_video/2110115567394791424/vid/avc1/1920x1080/EdwbgQUrnUrrqLtG.mp4?tag=16",
+     "url": "https://x.com/blueorigin/status/2110115705894904067"
     }
    ]
   },
@@ -1324,7 +1333,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1333,7 +1342,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1342,7 +1351,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1351,7 +1360,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1411,17 +1420,8 @@
    "avatar": "img/x-ispace_inc.jpg",
    "posts": [
     {
-     "id": "2116334394805796981",
-     "text": "There's something spooky about the Moon tonight! 🌕🎃👻\n\nDid you know that the Moon has its own mysterious shadows? Some graves (craters) near the lunar poles are so deep that sunlight never reaches the bottom, leaving them in permanent darkness. These shadowy regions may even",
-     "date": "2026-10-31T01:00:13.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HV666r1WMAAI1XL.jpg",
-     "video": null,
-     "url": "https://x.com/ispace_inc/status/2116334394805796981"
-    },
-    {
      "id": "2116066270307135550",
-     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF)",
+     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF) events.\n\nispace is excited to be exhibiting and connecting with members of the global space community to exchange ideas and explore opportunities for collaboration! 🌏\n\nWe are also proud to share that ispace received the MVA Moon Market Annual Award 2026! 🏆\n\nThroughout the week, our crew members have also participated in panel discussions exploring lunar exploration in the Asia-Pacific region and opportunities for international collaboration in lunar activities.\n\n#ispace #MVA #ThailandSpaceExpo #APRSAF #Moon",
      "date": "2026-10-30T07:14:48.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HV3HDXUW4AExESt.jpg",
@@ -1430,7 +1430,7 @@
     },
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
@@ -1438,13 +1438,22 @@
      "url": "https://x.com/ispace_inc/status/2113186386564002027"
     },
     {
-     "id": "2111031017452581162",
-     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
-     "date": "2026-10-16T09:46:30.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
+     "id": "2108545633158389925",
+     "text": "As we close out the week at #IAC2026, we hear from @ispace_us_inc CEO Elizabeth Kryst about our activities this at the conference and our excitement for what lies ahead.",
+     "date": "2026-10-09T13:10:28.000Z",
+     "quoted": true,
+     "image": null,
      "video": null,
-     "url": "https://x.com/ispace_inc/status/2111031017452581162"
+     "url": "https://x.com/ispace_inc/status/2108545633158389925"
+    },
+    {
+     "id": "2108289174977585579",
+     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
+     "date": "2026-10-08T20:11:24.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2108286605316276225/vid/avc1/3840x2160/U3C8UcEV-oFetWO5.mp4",
+     "url": "https://x.com/ispace_inc/status/2108289174977585579"
     }
    ]
   },
