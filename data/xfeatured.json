@@ -237,7 +237,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -333,21 +333,12 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
-    },
-    {
-     "id": "2108549075218120949",
-     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
-     "date": "2026-10-09T13:24:09.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -377,7 +368,7 @@
     },
     {
      "id": "2115811242556137820",
-     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on",
+     "text": "Today, we release the weights of a new and improved Le Chonk, advancing the open frontier for agentic coding and cybersecurity.\n\n💻 Built to build: Le Chonk ranks #1 on @cognition’s FrontierCode among open models, and sets a new benchmark for Pareto efficiency on @artificialanalysis.\n\n🛡 Built to defend: State-of-the-art in cyberdefense, put through the paces by the world's leading cyber vendors, including @CrowdStrike, @cloudflare, @rubrik, @zscaler, and others.\n\nBuilt for sovereignty: Make it yours. Download the weights on @huggingface , customize it with Mistral Forge, and deploy it wherever you need it.\n\nRead more from our team and customers 👇:",
      "date": "2026-10-29T14:21:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVzNm_7W4AAQsZV.jpg",
@@ -386,7 +377,7 @@
     },
     {
      "id": "2115443720371814478",
-     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works",
+     "text": "Today, we’re introducing the Responses API in public preview, made for building agents on Mistral. \n\nEach response returns the model’s answer, its reasoning and its tool calls as separate items, so your app can handle every step more easily than with Chat Completions. \n\nIt works with all chat models hosted by Mistral, including Large 4.",
      "date": "2026-10-28T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVtfR8WXEAAXYbh.jpg",
@@ -412,7 +403,7 @@
    "posts": [
     {
      "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
+     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse",
      "date": "2026-10-28T17:08:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
@@ -421,7 +412,7 @@
     },
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -430,7 +421,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -439,7 +430,7 @@
     },
     {
      "id": "2110861420321759269",
-     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before served by any ASR system.\n\nWhile most ASR systems focus on a limited set of languages that are well-represented on the internet, this release marked a major step toward building a truly universal transcription system.\n\nLearn more about it here:",
+     "text": "We’re proud to share that Meta Omnilingual Automatic Speech Recognition (ASR) has been named one of @TIME’s Best Inventions of 2026!\n\nMeta Omnilingual ASR is a suite of models providing ASR capabilities for over 1,600 languages, including 500 low-coverage languages never before",
      "date": "2026-10-15T22:32:35.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110859813307760640/img/J0aCwZPDF5bedz6S.jpg",
@@ -674,6 +665,15 @@
    "avatar": "img/x-robots-bostondynamics.jpg",
    "posts": [
     {
+     "id": "2116194957190893687",
+     "text": "We're proud to announce that Orbit AIVI-Learning won a LEAP Award in industrial automation!\n\nThe @DesignWorld LEAP Awards (Leadership in Engineering Achievement Program) celebrates the most innovative and forward-thinking products serving the design engineering space, selected by",
+     "date": "2026-10-30T15:46:09.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HV43uTnWAAA3Ji2.jpg",
+     "video": null,
+     "url": "https://x.com/BostonDynamics/status/2116194957190893687"
+    },
+    {
      "id": "2115815524051362095",
      "text": "We're building the foundational blocks for a fully connected smart factory, turning isolated data into genuine site-wide intelligence. Discover the latest enhancements in Spot and Orbit turning AI insight into autonomous action:",
      "date": "2026-10-29T14:38:25.000Z",
@@ -699,15 +699,6 @@
      "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
      "video": "https://video.twimg.com/amplify_video/2110755331244544000/vid/avc1/1920x1080/sO9X5hOWssL1mJbA.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2110755540401827986"
-    },
-    {
-     "id": "2108232456784498990",
-     "text": "With 5 routes and hundreds of assets inspected, Spot is helping @Kirin_Brewery Chitose Plant save free up hundreds of hours a year for their maintenance and operations teams. See how they deployed Spot and Orbit with the help of @teco_enterprise:",
-     "date": "2026-10-08T16:26:01.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/BostonDynamics/status/2108232456784498990"
     }
    ]
   },
@@ -823,17 +814,8 @@
    "avatar": "img/x-robots-agibotofficial.jpg",
    "posts": [
     {
-     "id": "2116168495570333734",
-     "text": "🏆 AGIBOT Wins the Best Use of AI Award!\n\nWe’re honored to receive the Best Use of AI  from @HumanoidRTech!\n\nThis recognition highlights AGIBOT’s work in:\n🔹AI model development: Advancing models such as GO-3 and GE-2.\n🔹Open research: Making AGIBOT WORLD openly available to the",
-     "date": "2026-10-30T14:01:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2116155402190790656/img/QE9hcQb7jPoWyTQ0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2116155402190790656/vid/avc1/2160x2160/2bWrxOMcu3jjITL-.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2116168495570333734"
-    },
-    {
      "id": "2116145595668627804",
-     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.",
+     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.\n\nDifferent tasks require different benchmarks. Now, Worken offers a framework for exploring how to measure the productive work robots actually perform.\n\n#AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
      "date": "2026-10-30T12:30:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2116111851528609792/img/cmo31H_0-w9YgIgI.jpg",
@@ -841,22 +823,31 @@
      "url": "https://x.com/AGIBOTofficial/status/2116145595668627804"
     },
     {
-     "id": "2116109226850517056",
-     "text": "At AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring robot productivity through “Effective Intelligent Work Hours.”  \n\nWorken = Number of Active Robots × Autonomous Working Hours × Output Efficiency Ratio  \n\nBy bringing together deployment",
-     "date": "2026-10-30T10:05:29.000Z",
-     "quoted": true,
-     "image": "https://pbs.twimg.com/media/HV3uEh6aEAA9yy2.jpg",
+     "id": "2115326431194661301",
+     "text": "⏰Tomorrow, it begins. \n\nOne day until AGIBOT Innovation Day 2026.\nA new chapter for embodied AI is about to unfold. \n\n📅 October 29 | Shanghai World Expo Center \n\nSee you tomorrow.  \n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "date": "2026-10-28T06:14:56.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HVslPZyagAAvOq0.jpg",
      "video": null,
-     "url": "https://x.com/AGIBOTofficial/status/2116109226850517056"
+     "url": "https://x.com/AGIBOTofficial/status/2115326431194661301"
     },
     {
-     "id": "2115694835579666505",
-     "text": "AGIBOT Innovation Day 2026: Embodied AI, From Innovation to Real Work. 🤖\n\nWhat does it take to turn embodied AI into real-world productivity?\n\nAt AGIBOT Innovation Day 2026, we introduced Worken, a proposed framework for measuring the productive work robots perform in real-world",
-     "date": "2026-10-29T06:38:51.000Z",
+     "id": "2113583522883747944",
+     "text": "AGIBOT officially open-sourced AGIBOT WORLD 2026 Release 4: Physical Reasoning, a real-world dataset that helps robots reason before acting.  \n\nSame task, different states, different actions. The dataset captures how robots decide what to do as object quantity, occlusion relationships, spatial occupancy, and task progress change, linking decisions to real-robot execution.  \n\n📖 Explore the project: \n🤗 Access the dataset:  \n\n#AGIBOT #EmbodiedAI #PhysicalAI #Robotics #AGIBOTWORLD",
+     "date": "2026-10-23T10:49:14.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2115691538881884160/img/6uuBUA3vwWb9qGyU.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115691538881884160/vid/avc1/1920x1080/ta_jGkhIZr1oXj3s.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2115694835579666505"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2113582427176382464/img/TFDtw28ks8xloikY.jpg",
+     "video": "https://video.twimg.com/amplify_video/2113582427176382464/vid/avc1/1920x1080/HTFKP_Ux_4P_GnB1.mp4",
+     "url": "https://x.com/AGIBOTofficial/status/2113583522883747944"
+    },
+    {
+     "id": "2110995951439769843",
+     "text": "Something new is coming. \n\nOctober 29. Shanghai World Expo Center. \n\nAt AGIBOT Innovation Day 2026, we’re unveiling what’s next in embodied AI. \nNew robots. New models. And a bold new vision for how robots create value. \n\nThe next chapter of embodied AI is about to begin.\nStay tuned.\n\n#AGIBOT #AGIBOTInnovationDay #EmbodiedAI",
+     "date": "2026-10-16T07:27:09.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUvDKYzaIAAQ8Z6.jpg",
+     "video": null,
+     "url": "https://x.com/AGIBOTofficial/status/2110995951439769843"
     }
    ]
   },
@@ -1289,7 +1280,7 @@
    "posts": [
     {
      "id": "2116228604744847393",
-     "text": "Same constellation. Two generations of Ariane. 🚀\n\nThen: Ariane 5 launched four Galileo satellites at once in 2016.\n\nNow: Ariane 6 continues the journey, helping build Europe's navigation constellation.\n\nTwo generations of launchers. One mission: bringing Galileo satellites into orbit. 🛰️\n\n#LaunchingAmbitions\n@ArianeGroup  @esa  @CNES @EuropeSpacePort @ESA_transport @EU4Space",
+     "text": "Same constellation. Two generations of Ariane. 🚀\n\nThen: Ariane 5 launched four Galileo satellites at once in 2016.\n\nNow: Ariane 6 continues the journey, helping build Europe's navigation constellation.\n\nTwo generations of launchers. One mission: bringing Galileo satellites into",
      "date": "2026-10-30T17:59:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HV5asp8XkAAK6oS.jpg",
@@ -1298,7 +1289,7 @@
     },
     {
      "id": "2115503855194534267",
-     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation satellites into their exact orbital slots, with multiple powered phases, coast phases and a highly accurate upper stage re-ignition sequence.\n\nA powerful demonstration of Ariane 6's ability to carry out complex orbital deployments.\n\nFor Galileo, precision is essential.\n\nAnd it starts at launch.\n\n#LaunchingAmbitions\n@ArianeGroup @ESA @CNES @EuropeSpacePort\n@esa_transport @esaoperations @EU4Space",
+     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation",
      "date": "2026-10-28T17:59:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVvHipQW0AAVr-G.jpg",
@@ -1316,7 +1307,7 @@
     },
     {
      "id": "2113676900883218684",
-     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the spacecraft and Ariane 6. It keeps the spacecraft securely attached during launch and enables its separation once the intended orbit has been reached.\n\nDuring the fit check, teams verify that the spacecraft and its adapter match perfectly, which is a key step before moving forward with the launch campaign.\n\nOnce these checks are complete, the spacecraft can move on to the next stage of its preparation for launch.\n\n#LaunchingAmbitions",
+     "text": "🚀 How do we make sure a spacecraft will fit perfectly with Ariane 6?\n\nBefore integration with the launcher in French Guiana, teams check the interface between the spacecraft and its launch adapter.\n\nThe adapter forms the mechanical and electrical connection between the",
      "date": "2026-10-23T17:00:18.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVVJ31CWcAAr-2K.jpg",
@@ -1333,7 +1324,7 @@
    "posts": [
     {
      "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
+     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine testing and development.\n\nThe last Saturn V Stage test occurred October 30, 1970 on A2. It has been 55 years, 11 months, and 17 days since A2 supported stage testing capability.\n\nAs of this morning, it is now 0 days.",
      "date": "2026-10-16T22:24:01.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
@@ -1342,7 +1333,7 @@
     },
     {
      "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
+     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is complete. \n✔️ Permanent 480-volt power infrastructure energized at the pad.",
      "date": "2026-10-15T17:41:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
@@ -1351,7 +1342,7 @@
     },
     {
      "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
+     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline, building toward its first integrated hot fire.\n\n📍 Long Beach, CA\nAll 13 Aeon R engines are installed on the thrust structure and are moving through integrated gimbal testing, validating their ability to pivot precisely to steer and stabilize the vehicle during flight.",
      "date": "2026-10-14T16:52:29.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
@@ -1360,7 +1351,7 @@
     },
     {
      "id": "2110071949921759657",
-     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading",
+     "text": "From tank integration to engine production, September builds kept the team busy.\n\n✓ Installed the downcomer into the stage 1 flight tank  \n✓ All primary hardware on the stage 1 aft dome is complete, closing in on final integration \n✓ Interstage drilling finished, now heading to the Tender Loving Crusher for structural testing \n✓ First 2 ground station controllers stood up\n✓ First welds complete for the Aeon V vacuum engine nozzle extension \n✓ Flights 2 and 3 engines well into manufacturing with production ramping",
      "date": "2026-10-13T18:15:30.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110071229617262593/img/eGUeu-f_J7rkZ6nM.jpg",
@@ -1420,8 +1411,17 @@
    "avatar": "img/x-ispace_inc.jpg",
    "posts": [
     {
+     "id": "2116334394805796981",
+     "text": "There's something spooky about the Moon tonight! 🌕🎃👻\n\nDid you know that the Moon has its own mysterious shadows? Some graves (craters) near the lunar poles are so deep that sunlight never reaches the bottom, leaving them in permanent darkness. These shadowy regions may even",
+     "date": "2026-10-31T01:00:13.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HV666r1WMAAI1XL.jpg",
+     "video": null,
+     "url": "https://x.com/ispace_inc/status/2116334394805796981"
+    },
+    {
      "id": "2116066270307135550",
-     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF) events.\n\nispace is excited to be exhibiting and connecting with members of the global space community to exchange ideas and explore opportunities for collaboration! 🌏\n\nWe are also proud to share that ispace received the MVA Moon Market Annual Award 2026! 🏆\n\nThroughout the week, our crew members have also participated in panel discussions exploring lunar exploration in the Asia-Pacific region and opportunities for international collaboration in lunar activities.\n\n#ispace #MVA #ThailandSpaceExpo #APRSAF #Moon",
+     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF)",
      "date": "2026-10-30T07:14:48.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HV3HDXUW4AExESt.jpg",
@@ -1430,7 +1430,7 @@
     },
     {
      "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
+     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical",
      "date": "2026-10-22T08:31:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
@@ -1438,22 +1438,13 @@
      "url": "https://x.com/ispace_inc/status/2113186386564002027"
     },
     {
-     "id": "2108545633158389925",
-     "text": "As we close out the week at #IAC2026, we hear from @ispace_us_inc CEO Elizabeth Kryst about our activities this at the conference and our excitement for what lies ahead.",
-     "date": "2026-10-09T13:10:28.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/ispace_inc/status/2108545633158389925"
-    },
-    {
-     "id": "2108289174977585579",
-     "text": "It’s been a busy week at #IAC2026!\n \nispace-EUROPE CEO Julien Lamamy recaps on the two MoU signings with @ArianeGroup and both @LDO_Space and @telespazio.\n \nAt the very core both MoUs are about combining ispace lunar solutions with leading European capabilities - demonstrating we can accelerate the development of the lunar ecosystem through collaboration 🇪🇺🌙",
-     "date": "2026-10-08T20:11:24.000Z",
+     "id": "2111031017452581162",
+     "text": "🌙 We were pleased to welcome representatives from the Japan Aerospace Exploration Agency (JAXA) Space Strategy Fund Secretariat to our Earth Base Tokyo headquarters!\n\nispace has been selected for the second phase of JAXA’s Space Strategy Fund initiative, under the project",
+     "date": "2026-10-16T09:46:30.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2108286605316276225/img/38jpwBdU5H__Hpa3.jpg",
-     "video": "https://video.twimg.com/amplify_video/2108286605316276225/vid/avc1/3840x2160/U3C8UcEV-oFetWO5.mp4",
-     "url": "https://x.com/ispace_inc/status/2108289174977585579"
+     "image": "https://pbs.twimg.com/media/HUvjhWNXQAAGE3R.jpg",
+     "video": null,
+     "url": "https://x.com/ispace_inc/status/2111031017452581162"
     }
    ]
   },

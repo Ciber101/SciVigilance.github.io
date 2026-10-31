@@ -344,5 +344,15 @@
  "https://www.sciencedaily.com/releases/2026/10/261028232715.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the next model announced by the organization, boasting advanced cybersecurity and long-term capabilities. Its release shows the organization's commitment to pushing technological boundaries in cybersecurity, as evidenced by its high scores in AI intelligence benchmarks."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new model for creating simulations of the world that behaves more realistically. It matters because it enables more lifelike interactions and scenarios, useful for training robots and agents, and for developing new interactive experiences."
+ },
+ "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security": {
+  "s": "",
+  "why": "too little source text"
  }
 }
