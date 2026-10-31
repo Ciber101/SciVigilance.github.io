@@ -1,145 +1,145 @@
 {
- "updated": "2026-10-30T16:42:16-07:00",
- "updated_pt": "Oct 30, 2026, 4:42 PM PT",
- "stories": [
-  {
-   "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
-   "tag": "AI",
-   "date": "2026-10-28",
-   "paragraphs": [
-    "Google DeepMind announced Gemini 4 Carbon on Oct. 28, 2026, calling it its next frontier model and its strongest yet, with state-of-the-art cybersecurity and long-horizon capabilities. In a blog post by Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google, the company says Carbon builds on Gemini 4 Argon, which launched two weeks earlier, and ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59.",
-    "DeepMind says Carbon is built for sustained agentic work on hard, long-horizon engineering problems, and that internally its teams have seen it run for days to root-cause and patch subtle bugs across large codebases and low-level systems. On cybersecurity benchmarks evaluated without guardrails, the company reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation and 71.0% on CWE-bench for patching. It also says Carbon more than doubles Argon's success rate at generating secure code on internal benchmarks, and gained 89 Elo points to reach fourth place (1769) on WebDev Arena.",
-    "On safety, DeepMind says Carbon uses the same layered safety stack as Argon and was trained to avoid shortcuts: it reports that successful cheating on Terminal-Bench 4.0 fell to 0.0%, high-severity misalignment alerts in live internal coding dropped by almost 80%, unsupported claims fell by about half compared with Argon, and the attack success rate on Gray Swan's indirect prompt injection benchmark was 0.0%.",
-    "The rollout is deliberately limited. DeepMind says it is taking part in the U.S. government's voluntary pre-release testing process, and that starting this week Carbon will go to a subset of cyber defenders, with access phased in to more trusted partners through its Fairwind Program before it reaches developers, businesses and consumers. Introductory pricing matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period, according to the post."
-   ],
-   "sources": [
+  "updated": "2026-10-31T13:40:49-07:00",
+  "updated_pt": "Oct 31, 2026, 1:40 PM PT",
+  "stories": [
     {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-     "date": "2026-10-28"
-    }
-   ]
-  },
-  {
-   "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
-   "tag": "Open models",
-   "date": "2026-10-29",
-   "paragraphs": [
-    "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
-    "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
-    "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
-    "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
-   ],
-   "sources": [
-    {
-     "name": "Mistral AI",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/",
-     "date": "2026-10-29"
+      "title": "Google DeepMind announces Gemini 4 Carbon, its strongest model yet, with a cautious rollout that starts with cyber defenders",
+      "tag": "AI",
+      "date": "2026-10-28",
+      "paragraphs": [
+        "Google DeepMind announced Gemini 4 Carbon on Oct. 28, 2026, calling it its next frontier model and its strongest yet, with state-of-the-art cybersecurity and long-horizon capabilities. In a blog post by Koray Kavukcuoglu, SVP at Google DeepMind and Chief AI Architect at Google, the company says Carbon builds on Gemini 4 Argon, which launched two weeks earlier, and ranks first on version 5.0 of the Artificial Analysis Intelligence Index with a score of 59.",
+        "DeepMind says Carbon is built for sustained agentic work on hard, long-horizon engineering problems, and that internally its teams have seen it run for days to root-cause and patch subtle bugs across large codebases and low-level systems. On cybersecurity benchmarks evaluated without guardrails, the company reports 88.2% on SEC-bench Pro for finding vulnerabilities, 54.8% on ExploitGym for exploitation and 71.0% on CWE-bench for patching. It also says Carbon more than doubles Argon's success rate at generating secure code on internal benchmarks, and gained 89 Elo points to reach fourth place (1769) on WebDev Arena.",
+        "On safety, DeepMind says Carbon uses the same layered safety stack as Argon and was trained to avoid shortcuts: it reports that successful cheating on Terminal-Bench 4.0 fell to 0.0%, high-severity misalignment alerts in live internal coding dropped by almost 80%, unsupported claims fell by about half compared with Argon, and the attack success rate on Gray Swan's indirect prompt injection benchmark was 0.0%.",
+        "The rollout is deliberately limited. DeepMind says it is taking part in the U.S. government's voluntary pre-release testing process, and that starting this week Carbon will go to a subset of cyber defenders, with access phased in to more trusted partners through its Fairwind Program before it reaches developers, businesses and consumers. Introductory pricing matches Argon at $2 per million input tokens and $10 per million output tokens, rising to $4 and $20 after the introductory period, according to the post."
+      ],
+      "sources": [
+        {
+          "name": "Google DeepMind",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "date": "2026-10-28"
+        }
+      ]
     },
     {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/mistral-large4",
-     "date": "2026-10-29"
-    }
-   ]
-  },
-  {
-   "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
-   "tag": "AI security",
-   "date": "2026-10-30",
-   "paragraphs": [
-    "Cursor, which makes AI-assisted coding tools, published a security notice saying that maliciously modified versions of Anthropic's Claude Code extension, Anthropic.claude-code versions 2.1.312 and 2.1.313 for Windows and macOS, were available in the Cursor VS Code Extension Marketplace between about 2:27 a.m. and 1:35 p.m. PT on Oct. 29, 2026. Cursor said these versions were not developed by Anthropic and that the incident does not affect other extensions in its marketplace. Ars Technica reported on Oct. 30 that the compromise affected at most 5,000 users, according to Cursor, and that the malicious version was distributed through Anthropic's official account on Cursor.",
-    "According to Cursor, the extension collected host and user details such as hostname, username, operating system, environment variable names, configured Git email and public IP address, added an attacker-controlled SSH key, tried to enable the local SSH service and open a reverse SSH tunnel, and set up persistence through a LaunchAgent on macOS or a scheduled task on Windows. Cursor said that, because of errors in the malicious code and because turning on SSH needs administrator rights, the tunnel step would fail on most machines, but that the key, the persistence and the host-detail report still went through.",
-    "Cursor said it removed the malicious version as soon as it was detected, shut down the whole marketplace as a precaution, audited access and found no other tampered extensions, rotated its keys, rebuilt the marketplace and brought it back online. It also said it worked with the hosting provider to take the attacker's server offline. Ars Technica reported that, as of its story, neither Cursor nor Anthropic had explained how the attackers got control of the account, and that Anthropic had not yet issued a public notice to customers.",
-    "Cursor's notice tells anyone who installed or updated to those versions in that window to check their SSH authorized_keys file for a key labeled svc-telemetry, and gives remediation scripts for macOS and Windows. It warns that uninstalling the extension may not be enough, because the payload leaves standalone persistence scripts, and advises rotating credentials and sessions reachable from affected machines. Ars Technica's report described the affected version as 2.1.313 and said the code was written for Windows, macOS and Linux; Cursor's notice, updated Oct. 30 at 11:30 a.m. PT, lists versions 2.1.312 and 2.1.313 for Windows and macOS."
-   ],
-   "sources": [
-    {
-     "name": "Cursor",
-     "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-     "date": "2026-10-30"
+      "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
+      "tag": "Open models",
+      "date": "2026-10-29",
+      "paragraphs": [
+        "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
+        "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
+        "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
+        "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
+      ],
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "date": "2026-10-29"
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "date": "2026-10-29"
+        }
+      ]
     },
     {
-     "name": "Ars Technica",
-     "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-     "date": "2026-10-30"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-    "credit": "Getty Images, via Ars Technica",
-    "alt": "Yellow caution tape"
-   }
-  },
-  {
-   "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
-   "tag": "Space",
-   "date": "2026-10-30",
-   "paragraphs": [
-    "NASA issued a Request for Information on Oct. 29 to learn what industry can offer for in-space servicing of the Hubble Space Telescope, the agency announced on Oct. 30. According to NASA, it wants to hear from companies interested in boosting Hubble to a higher altitude to extend its science lifetime, servicing the telescope to enhance its capabilities, or carrying out a safe, controlled re-entry or orbital disposal at the end of its mission. Responses are due by 3 p.m. EST on Monday, Nov. 30.",
-    "\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,\" NASA Administrator Jared Isaacman said in the announcement. NASA science chief Nicky Fox said commercial industry has rapidly developed new capabilities for capturing and servicing satellites in space, and that the agency wants to explore ways to boost Hubble to a higher orbit while it develops the flagship mission to follow.",
-    "NASA says Hubble's altitude is slowly dropping because of atmospheric drag, the telescope has no propulsion system of its own, and analysis predicts it is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As a result, the agency expects that any mission would need to take place by 2032.",
-    "Another NASA observatory shows what happens when a boost doesn't work out. Science News reported on Oct. 30 that the Neil Gehrels Swift Observatory, launched in 2004 to study gamma-ray bursts, is falling uncontrollably and is destined to burn up in Earth's atmosphere within days. A spacecraft NASA commissioned to lift Swift out of danger launched in early July, but by late August technical issues made a boost attempt impossible, according to Science News. Swift has lost about half its original altitude, a decline sped up by high solar activity, and Science News says nothing is lined up to replace its combination of instruments."
-   ],
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-     "date": "2026-10-30"
+      "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
+      "tag": "AI security",
+      "date": "2026-10-30",
+      "paragraphs": [
+        "Cursor, which makes AI-assisted coding tools, published a security notice saying that maliciously modified versions of Anthropic's Claude Code extension, Anthropic.claude-code versions 2.1.312 and 2.1.313 for Windows and macOS, were available in the Cursor VS Code Extension Marketplace between about 2:27 a.m. and 1:35 p.m. PT on Oct. 29, 2026. Cursor said these versions were not developed by Anthropic and that the incident does not affect other extensions in its marketplace. Ars Technica reported on Oct. 30 that the compromise affected at most 5,000 users, according to Cursor, and that the malicious version was distributed through Anthropic's official account on Cursor.",
+        "According to Cursor, the extension collected host and user details such as hostname, username, operating system, environment variable names, configured Git email and public IP address, added an attacker-controlled SSH key, tried to enable the local SSH service and open a reverse SSH tunnel, and set up persistence through a LaunchAgent on macOS or a scheduled task on Windows. Cursor said that, because of errors in the malicious code and because turning on SSH needs administrator rights, the tunnel step would fail on most machines, but that the key, the persistence and the host-detail report still went through.",
+        "Cursor said it removed the malicious version as soon as it was detected, shut down the whole marketplace as a precaution, audited access and found no other tampered extensions, rotated its keys, rebuilt the marketplace and brought it back online. It also said it worked with the hosting provider to take the attacker's server offline. Ars Technica reported that, as of its story, neither Cursor nor Anthropic had explained how the attackers got control of the account, and that Anthropic had not yet issued a public notice to customers.",
+        "Cursor's notice tells anyone who installed or updated to those versions in that window to check their SSH authorized_keys file for a key labeled svc-telemetry, and gives remediation scripts for macOS and Windows. It warns that uninstalling the extension may not be enough, because the payload leaves standalone persistence scripts, and advises rotating credentials and sessions reachable from affected machines. Ars Technica's report described the affected version as 2.1.313 and said the code was written for Windows, macOS and Linux; Cursor's notice, updated Oct. 30 at 11:30 a.m. PT, lists versions 2.1.312 and 2.1.313 for Windows and macOS."
+      ],
+      "sources": [
+        {
+          "name": "Cursor",
+          "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+          "date": "2026-10-30"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+        "credit": "Getty Images, via Ars Technica",
+        "alt": "Yellow caution tape"
+      }
     },
     {
-     "name": "Science News",
-     "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
-     "date": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
-   "tag": "Space",
-   "date": "2026-10-30",
-   "paragraphs": [
-    "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
-    "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
-    "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
-    "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-     "date": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
-   "tag": "Space",
-   "date": "2026-10-29",
-   "paragraphs": [
-    "The Vera C. Rubin Observatory has found what may be a new dwarf planet in the outer solar system, Live Science and ScienceAlert reported Oct. 29, 2026. The object, designated 2026 ED138, is a large body in the Kuiper Belt beyond Neptune. ScienceAlert describes it as the telescope's first dwarf planet candidate, and Live Science reports that, if confirmed, it would raise the number of dwarf planets officially recognized by the International Astronomical Union from five (Pluto, Ceres, Eris, Haumea and Makemake) to six.",
-    "According to ScienceAlert, Matthew Holman of the Harvard-Smithsonian Center for Astrophysics spotted the object on Oct. 13, 2026, while analyzing Rubin data with software he developed with colleague Kevin Napier. The team traced it through 30 detections across 20 nights of Rubin observations from March 4 to July 11, 2026, then found it in archival Dark Energy Camera images going back to February 2016. \"My first reaction was one of excited disbelief,\" Holman said in a statement quoted by both outlets. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"",
-    "ScienceAlert, citing the Minor Planet Center, reports that ED138 takes about 281 years to orbit the Sun, ranging from 36.86 to 49.04 astronomical units away, which lies within Pluto's range of distances. Both outlets say its tilted orbit placed it against the crowded star fields of the Milky Way, which helped it escape earlier searches.",
-    "The object's size is still uncertain. Because its reflectivity is unknown, researchers estimate a diameter between 600 and 1,500 kilometers (about 370 to 930 miles), Live Science reports; Pluto is 2,377 kilometers across and Ceres 958 kilometers. Both outlets say further observations are needed to determine whether it is round enough to qualify as a dwarf planet. \"Rubin will image the whole southern sky again and again for ten years, so any others hiding in the places earlier surveys skipped are now within reach,\" Holman said."
-   ],
-   "sources": [
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
-     "date": "2026-10-29"
+      "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
+      "tag": "Space",
+      "date": "2026-10-30",
+      "paragraphs": [
+        "NASA issued a Request for Information on Oct. 29 to learn what industry can offer for in-space servicing of the Hubble Space Telescope, the agency announced on Oct. 30. According to NASA, it wants to hear from companies interested in boosting Hubble to a higher altitude to extend its science lifetime, servicing the telescope to enhance its capabilities, or carrying out a safe, controlled re-entry or orbital disposal at the end of its mission. Responses are due by 3 p.m. EST on Monday, Nov. 30.",
+        "\"Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,\" NASA Administrator Jared Isaacman said in the announcement. NASA science chief Nicky Fox said commercial industry has rapidly developed new capabilities for capturing and servicing satellites in space, and that the agency wants to explore ways to boost Hubble to a higher orbit while it develops the flagship mission to follow.",
+        "NASA says Hubble's altitude is slowly dropping because of atmospheric drag, the telescope has no propulsion system of its own, and analysis predicts it is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As a result, the agency expects that any mission would need to take place by 2032.",
+        "Another NASA observatory shows what happens when a boost doesn't work out. Science News reported on Oct. 30 that the Neil Gehrels Swift Observatory, launched in 2004 to study gamma-ray bursts, is falling uncontrollably and is destined to burn up in Earth's atmosphere within days. A spacecraft NASA commissioned to lift Swift out of danger launched in early July, but by late August technical issues made a boost attempt impossible, according to Science News. Swift has lost about half its original altitude, a decline sped up by high solar activity, and Science News says nothing is lined up to replace its combination of instruments."
+      ],
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "Science News",
+          "url": "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst",
+          "date": "2026-10-30"
+        }
+      ]
     },
     {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
-     "date": "2026-10-29"
+      "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
+      "tag": "Space",
+      "date": "2026-10-30",
+      "paragraphs": [
+        "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
+        "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
+        "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
+        "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
+      ],
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
+          "date": "2026-10-30"
+        }
+      ]
+    },
+    {
+      "title": "Hubble observations suggest exploding stars held back, rather than helped, the light that cleared the early universe's fog",
+      "tag": "Space",
+      "date": "2026-10-30",
+      "paragraphs": [
+        "A study published in Nature Astronomy challenges a leading explanation for how the early universe became transparent, according to a University of Michigan release published by ScienceDaily on Oct. 30, 2026. Using NASA's Hubble Space Telescope, an international team found that powerful winds from exploding stars, or supernovae, appear to stop ultraviolet radiation from escaping galaxies, the opposite of what a widely accepted theory predicted. Live Science, which also covered the study on Oct. 31, reports the paper was published Oct. 15.",
+        "During the first billion years after the Big Bang, neutral hydrogen filled the space between galaxies and absorbed ultraviolet light, the release explains. Starting about 13 billion years ago, radiation from early galaxies stripped electrons from that hydrogen, letting the light travel freely, a period called reionization. Lead author Cody Carr, now a postdoctoral researcher at the University of Michigan, calls it \"the last major phase transition of the universe\" and says astronomers still don't know exactly which objects caused it.",
+        "The team used Hubble to study the spectra of nearby starburst galaxies, which are modern examples of the kind of galaxies thought to have driven reionization, and compared their wind speeds with how much ionizing radiation escaped. According to the release, the galaxies with the fastest winds let the smallest fraction of that radiation out. \"The most interesting thing about our paper is the observation that the strongest LyC emitters do not have fast galactic winds,\" Carr told Live Science, referring to the Lyman continuum photons that ionize hydrogen.",
+        "Senior author Stephan McCandliss of Johns Hopkins University said supernova energy appears to have \"stirred up the surroundings\" and increased the gas and dust that blocks the radiation. The release says the results support the idea that radiation from young, massive stars escapes before those stars explode, though the finding does not settle what caused reionization. Carr's team is seeking more Hubble time to check whether the pattern holds in other galaxies."
+      ],
+      "sources": [
+        {
+          "name": "ScienceDaily (University of Michigan)",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
+          "date": "2026-10-30"
+        },
+        {
+          "name": "Live Science",
+          "url": "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints",
+          "date": "2026-10-31"
+        }
+      ]
     }
-   ]
+  ],
+  "audio": {
+    "src": "audio/top_stories-1dfe19918e.mp3",
+    "hash": "1dfe19918e38a72e0abff283ef1767fc3ee608a2",
+    "duration": 948.0,
+    "voice": "Kokoro (af_heart)"
   }
- ],
- "audio": {
-  "src": "audio/top_stories-1dfe19918e.mp3",
-  "hash": "1dfe19918e38a72e0abff283ef1767fc3ee608a2",
-  "duration": 948.0,
-  "voice": "Kokoro (af_heart)"
- }
 }
