@@ -14,9 +14,6 @@
  "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/": {
   "s": "PhoneBot, developed by UCLA researchers, uses a smartphone as its brain, torso, and eyes. This innovative design skips costly extras, making it cheaper and more accessible. The phone's IMU and touchscreen serve as the robot's inner ear and control interface, while its camera handles vision."
  },
- "https://newatlas.com/robotics/worma-weight-shifting-worm-robot/": {
-  "s": "The NYU Tandon researchers developed WorMa, a water-pumping robot designed to navigate complex terrains including land, water, and slopes. This innovation mimics a worm's ability to shift its weight, allowing the robot to climb inclines and swim faster. The robot's unique water-balloon mechanism, shifting its center of mass, enables versatile movement."
- },
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
  },
@@ -223,9 +220,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://phys.org/news/2026-10-rare-fossil-discovery-reveals-dinosaur.html": {
-  "s": "The discovery of a new dinosaur species, Infernogallus jamesi, reveals that some dinosaurs evolved to eat fruit, a specialization not previously known. This finding challenges previous assumptions about dinosaur diets, showing that even small dinosaurs could have specialized tastes."
- },
  "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan": {
   "s": "",
   "why": "too little source text"
@@ -338,10 +332,16 @@
  "https://phys.org/news/2026-10-trees-home-carbon.html": {
   "s": "In a study of 192 sites across four continents, researchers found conifers planted in the Southern Hemisphere grow much faster and are more resistant to drought compared to those in their native regions. This discovery could make conifers a valuable tool for carbon storage, but also raises concerns about potential drawbacks of planting trees outside their natural habitats."
  },
- "https://www.sciencealert.com/beehives-have-built-in-immune-systems-that-protect-the-colony-with-layers-of-defense": {
-  "s": "Beehives have immune systems that protect their colonies from pathogens through layers of defense, from the hive entrance to the brood comb and each bee's body. This new study reveals how the spatial organization of these components, along with antimicrobial properties in honey, beeswax, and propolis, creates a complex defense network."
+ "https://www.sciencealert.com/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability": {
+  "s": "Humans in the Andes have evolved a genetic ability to metabolize arsenic more safely, according to a DNA analysis. This adaptation likely developed over thousands of years as they relied on arsenic-contaminated water."
  },
- "https://www.sciencealert.com/seeing-your-pain-through-an-evolutionary-lens-may-ease-depression-early-trial-finds": {
-  "s": "Two days of therapy helped ease depression symptoms in adults. This therapy considers how separation pain relates to needs shaped by human evolution, helping people see their distress in a broader context."
+ "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html": {
+  "s": "NASA's Mars rover Perseverance is wearing swatches of spacesuit material to assess how dust interacts with equipment. This research suggests Martian dust may be less abrasive than lunar dust, which could be beneficial for future Mars missions."
+ },
+ "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408": {
+  "s": "A researcher won a Nobel Prize for detecting cosmic neutrinos, tiny particles that pass through Earth without interacting. Now, scientists aim to pinpoint where these neutrinos originate, as understanding their sources can reveal more about the universe. Radio telescopes could help by matching neutrino detections with potential sources, providing clues about the physics occurring in those sources."
+ },
+ "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/": {
+  "s": "The Chinese company NeodraDynamics presented Neo1, a 13-foot tall humanoid robot designed for heavy, precise work. It avoids risky jobs humans typically avoid, showcasing a new approach to giant robots beyond anime and sci-fi."
  }
 }
