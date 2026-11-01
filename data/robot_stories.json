@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-01T01:39:03-07:00",
-  "updated_pt": "Nov 1, 2026, 1:39 AM PT",
+  "updated": "2026-11-01T13:37:59-08:00",
+  "updated_pt": "Nov 1, 2026, 1:37 PM PT",
   "stories": [
+    {
+      "title": "Beijing's NeodraDynamics shows Neo1, a 13-foot hydraulic humanoid pitched for dangerous industrial jobs",
+      "tag": "Humanoids",
+      "date": "2026-11-01",
+      "paragraphs": [
+        "Beijing-based NeodraDynamics has presented Neo1, a hydraulic-electric humanoid robot that the company says stands roughly 13 feet (4 meters) tall and weighs 1.2 metric tons, New Atlas reported on Nov. 1, 2026. According to New Atlas, the robot first appeared at the World Robot Conference in Beijing and was then unveiled with JD Industrial, the industrial-supplies arm of JD.com, at the China International Industry Fair in Shanghai, which ran Oct. 12 to 16.",
+        "The company describes Neo1 as having 41 controllable joints, 39 of them driven by small hydraulic actuators and two electric ones that rotate the forearms, New Atlas reports. NeodraDynamics says each actuator weighs about 1 kg and produces \"ton-level\" continuous thrust, and gives the robot's payload as 500 kg with both arms working together. The company pitches it for heavy assembly, mining, rescue and nuclear maintenance.",
+        "New Atlas reports that Neo1 has not yet worked on a real site. NeodraDynamics' Cui Dalong told the outlet that a computer running a set program controls the robot remotely and a cable supplies its power, that its motion control for walking isn't finished, and that \"walking on legs is not the priority for industrial applications.\" According to New Atlas, the company plans to fit the heavy-duty arms onto a wheeled base rather than send the full humanoid to industrial sites, and has pitched it to ports, offshore oil and gas rigs, nuclear refueling and power grid tower construction."
+      ],
+      "sources": [
+        {
+          "name": "New Atlas",
+          "url": "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/",
+          "date": "2026-11-01"
+        }
+      ],
+      "image": {
+        "url": "https://assets.newatlas.com/dims4/default/2450fe3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F7a%2F67%2Fbbe11c8b47b39b998f1ff9581cf2%2Fneodradynamics-robot.jpeg&na.image_optimisation=0",
+        "credit": "NeodraDynamics, via New Atlas",
+        "alt": "NeodraDynamics' 13-foot Neo1 hydraulic humanoid robot"
+      }
+    },
     {
       "title": "Agility Robotics now expects to raise about $465 million as it goes public through a SPAC merger",
       "tag": "Humanoids",
