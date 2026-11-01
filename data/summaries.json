@@ -129,9 +129,6 @@
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
- "https://www.universetoday.com/articles/how-you-squeeze-planetary-minerals-changes-everything": {
-  "s": "The researchers conducted experiments to simulate the extreme conditions inside planets, using lasers to compress magnesium oxide crystals to pressures and temperatures similar to those found in planetary interiors. Their findings could help solve mysteries about how magnesium oxide forms deep within planets, potentially providing insights into the composition and evolution of other worlds."
- },
  "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -199,9 +196,6 @@
  },
  "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time": {
   "s": "The Hera probe recently captured the first clear images of the binary asteroid Didymos and Dimorphos, distinguishing them for the first time. This achievement matters as it provides crucial data for assessing the feasibility of planetary defense missions, helping scientists understand how to deflect asteroids and protect Earth from potential threats."
- },
- "https://phys.org/news/2026-10-figuring-cosmic-neutrinos-tricky-radio.html": {
-  "s": "Scientists detect neutrinos, but they are hard to trace because these particles rarely interact with other matter. A new study suggests using radio telescopes to help find where these \"ghost particles\" originate. Knowing their sources can teach astronomers about the physics inside those objects."
  },
  "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
   "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
@@ -305,9 +299,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/just-30-minutes-in-a-sauna-triggers-an-immediate-immune-response": {
-  "s": "A sauna session for just 30 minutes triggered an immediate increase in circulating white blood cells in a small experiment. These cells are crucial for defending the body against pathogens and help build immune memory. The researchers speculate that the sauna session may mobilize white blood cells from storage sites, making them more active."
- },
  "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html": {
   "s": "The interstellar comet 3I/ATLAS contains unusually high levels of heavy hydrogen in its methane, indicating its formation in a very cold environment. This finding gives scientists a unique chance to study the chemistry of another planetary system, challenging current models of how comets form."
  },
@@ -343,5 +334,14 @@
  },
  "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/": {
   "s": "As robotics systems become more advanced, the interconnects that connect sensors and motors to the main control unit are under greater strain. These interconnects must handle the mechanical stress of continuous motion, which can lead to failure or downtime. 3M has developed specialized cable assemblies and IDC connectors to withstand this stress, offering more durable and efficient solutions for robotics. This innovation allows engineers to better design systems that can operate without frequent maintenance, improving overall system reliability and performance."
+ },
+ "https://phys.org/news/2026-10-trees-home-carbon.html": {
+  "s": "In a study of 192 sites across four continents, researchers found conifers planted in the Southern Hemisphere grow much faster and are more resistant to drought compared to those in their native regions. This discovery could make conifers a valuable tool for carbon storage, but also raises concerns about potential drawbacks of planting trees outside their natural habitats."
+ },
+ "https://www.sciencealert.com/beehives-have-built-in-immune-systems-that-protect-the-colony-with-layers-of-defense": {
+  "s": "Beehives have immune systems that protect their colonies from pathogens through layers of defense, from the hive entrance to the brood comb and each bee's body. This new study reveals how the spatial organization of these components, along with antimicrobial properties in honey, beeswax, and propolis, creates a complex defense network."
+ },
+ "https://www.sciencealert.com/seeing-your-pain-through-an-evolutionary-lens-may-ease-depression-early-trial-finds": {
+  "s": "Two days of therapy helped ease depression symptoms in adults. This therapy considers how separation pain relates to needs shaped by human evolution, helping people see their distress in a broader context."
  }
 }
