@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-31T19:44:55-07:00",
- "updated_pt": "Oct 31, 2026, 7:44 PM PT",
+ "updated": "2026-11-01T01:37:21-08:00",
+ "updated_pt": "Nov 1, 2026, 1:37 AM PT",
  "stories": [
   {
    "title": "A study in Science finds the next glacial period had already begun about 2,000 years ago, until warming reversed it in the 1960s",
@@ -77,6 +77,34 @@
    }
   },
   {
+   "title": "DeepSeek open-sources dsh-superagent, a research prototype of a coding agent that waits to be asked and splits work into parallel sessions",
+   "tag": "AI agents",
+   "date": "2026-10-31",
+   "paragraphs": [
+    "DeepSeek published a public GitHub repository, deepseek-ai/dsh-superagent-prototype, on Oct. 31, 2026, under the MIT license. The README describes dsh-superagent as a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It listens to GitHub and, optionally, the Feishu chat app, and when someone who is allowed asks it for work, it opens a work item, works on it in its own agent session and directory, and answers in the original conversation, for example with a pull request. A web panel shows what needs a person.",
+    "The README labels the code a research prototype for reference only and not an official DeepSeek product. It says much of the engineering was done by coding agents, that it may still contain bugs, and that it differs from DeepSeek's internal version and from the design described in its post Exploring Super-agent Design: Towards a More Autonomous Agent System, some of which is not implemented. The stated principle is to take as little human attention as possible and give as much value as possible, so the agent acts only when asked or when a rule the team wrote allows it.",
+    "MarkTechPost reported on Nov. 1 that the design uses two layers: a long-running Router that handles interaction and dispatch, and isolated Worker sessions that do the work, one per work item, which the project calls a Ticket. It reported that unrequested work is gated by three modes, off, observe and auto, with observe as the default, in which the agent only records what it would have accepted. MarkTechPost listed the requirements as Node.js 22.19 or newer, git, Python, tmux and the GitHub command-line tool, and noted that the agent runs with full access as the operating-system user, so it advised isolating it before use.",
+    "Citing a Chinese tech outlet's account of DeepSeek's report, MarkTechPost said that in a simulation with about 300 messages per run, about 20 of them real work requests, the super-agent reached a 95th-percentile task completion time of 15.7 minutes, against 29.5 minutes for a single-session agent with subagents. MarkTechPost noted that these figures are self-reported, came from tests with synthetic messages and simulated tools, and that real coding quality was not measured."
+   ],
+   "sources": [
+    {
+     "name": "DeepSeek (GitHub)",
+     "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+     "date": "2026-10-31"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+     "date": "2026-11-01"
+    }
+   ],
+   "image": {
+    "url": "https://opengraph.githubassets.com/058e67920f36c6ac6fc3aaa53a72fb63967740c0afefeed80ec761de53357d9c/deepseek-ai/dsh-superagent-prototype",
+    "credit": "DeepSeek, via GitHub",
+    "alt": "GitHub preview card for the deepseek-ai/dsh-superagent-prototype repository"
+   }
+  },
+  {
    "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
    "tag": "Space",
    "date": "2026-10-30",
@@ -114,29 +142,6 @@
      "name": "ScienceAlert",
      "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
      "date": "2026-10-30"
-    }
-   ]
-  },
-  {
-   "title": "Hubble observations suggest exploding stars held back, rather than helped, the light that cleared the early universe's fog",
-   "tag": "Space",
-   "date": "2026-10-30",
-   "paragraphs": [
-    "A study published in Nature Astronomy challenges a leading explanation for how the early universe became transparent, according to a University of Michigan release published by ScienceDaily on Oct. 30, 2026. Using NASA's Hubble Space Telescope, an international team found that powerful winds from exploding stars, or supernovae, appear to stop ultraviolet radiation from escaping galaxies, the opposite of what a widely accepted theory predicted. Live Science, which also covered the study on Oct. 31, reports the paper was published Oct. 15.",
-    "During the first billion years after the Big Bang, neutral hydrogen filled the space between galaxies and absorbed ultraviolet light, the release explains. Starting about 13 billion years ago, radiation from early galaxies stripped electrons from that hydrogen, letting the light travel freely, a period called reionization. Lead author Cody Carr, now a postdoctoral researcher at the University of Michigan, calls it \"the last major phase transition of the universe\" and says astronomers still don't know exactly which objects caused it.",
-    "The team used Hubble to study the spectra of nearby starburst galaxies, which are modern examples of the kind of galaxies thought to have driven reionization, and compared their wind speeds with how much ionizing radiation escaped. According to the release, the galaxies with the fastest winds let the smallest fraction of that radiation out. \"The most interesting thing about our paper is the observation that the strongest LyC emitters do not have fast galactic winds,\" Carr told Live Science, referring to the Lyman continuum photons that ionize hydrogen.",
-    "Senior author Stephan McCandliss of Johns Hopkins University said supernova energy appears to have \"stirred up the surroundings\" and increased the gas and dust that blocks the radiation. The release says the results support the idea that radiation from young, massive stars escapes before those stars explode, though the finding does not settle what caused reionization. Carr's team is seeking more Hubble time to check whether the pattern holds in other galaxies."
-   ],
-   "sources": [
-    {
-     "name": "ScienceDaily (University of Michigan)",
-     "url": "https://www.sciencedaily.com/releases/2026/10/261029072113.htm",
-     "date": "2026-10-30"
-    },
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints",
-     "date": "2026-10-31"
     }
    ]
   }
