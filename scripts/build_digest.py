@@ -24,9 +24,11 @@ BREAK = re.compile(r"\b(first|discover|breakthrough|record|launch|new|reveals?|f
 MODEL = re.compile(r"\b(model|release[sd]?|introduc|launch|open|weights|LLM|Gemini|Claude|GPT|Qwen|Llama|Mistral|GLM|Muse|Kimi|DeepSeek)", re.I)
 STOP = {"AI", "The", "A", "An", "New", "How", "Introducing", "Meet", "What", "Why", "Our", "Its",
         "Google", "Meta", "OpenAI", "Anthropic", "Alibaba", "Says", "Model", "Models"}
-BAD_X = re.compile(r"(seeks|hiring|job|careers|New Short|#shorts|join our)", re.I)
+BAD_X = re.compile(r"(seeks|hiring|job|careers|New Short|#shorts|join our|#APOD)", re.I)
+# Weak items that are not real stories: media advisories, event logistics, game-streaming promos
+WEAK = re.compile(r"(for Media|Media Accreditation|Media Invited|Key Events|media advisory|GFN Thursday|GeForce NOW|Launches on GeForce|Game Pass|aerospace expo|air show)", re.I)
 SCI_X = re.compile(r"(star|planet|galax|quantum|gravity|cell|gene|climate|moon|mars|nasa|esa|telescope|"
-                   r"physic|particle|black hole|dwarf|asteroid|lander|rover|ai\b|immun|brain|ocean)", re.I)
+                   r"physic|particle|black hole|dwarf|asteroid|lander|rover|ai\b|immun|brain|ocean|ceres|cancer|volcan|bird|fossil|species)", re.I)
 
 def load(name, default):
     try:
@@ -130,7 +132,9 @@ def build():
 
     # 1. Top stories: ranked, deduped, max 2 from one source
     top, seen, per = [], [], {}
-    arts = [a for a in arts if not re.match(r"APOD:", a.get("title", "")) and "APODArchive" not in a.get("summary", "")]
+    arts = [a for a in arts if not re.match(r"APOD:", a.get("title", "")) and "APODArchive" not in a.get("summary", "")
+            and not WEAK.search(a.get("title", ""))]
+    ai = [a for a in ai if not WEAK.search(a.get("title", ""))]
     for a in sorted(arts, key=score, reverse=True):
         k = keys(a["title"])
         if any(len(k & s) >= 2 for s in seen) or per.get(a["source"], 0) >= 2: continue
@@ -151,10 +155,13 @@ def build():
     space = [a for a in sorted(arts, key=score, reverse=True) if "Space" in a.get("tags", []) and a["url"] not in used][:2]
 
     # 4. Voices: Elon + one other agency/rocket company post
-    elon = ((accts.get("elonmusk") or {}).get("posts") or [None])[0]
+    top_keys = [keys(a["title"]) for a in top]
+    elon = next((p for p in (accts.get("elonmusk") or {}).get("posts", []) if len(x_text(p["text"])) >= 40), None)
     other = None  # (handle, display_name, post)
     for h in ["NASA", "blueorigin", "esa", "RocketLab", "ulalaunch", "isro", "Arianespace", "FireflySpace", "relativityspace"]:
         ps = [p for p in (accts.get(h) or {}).get("posts", []) if len(x_text(p["text"])) >= 50
+              and not any(len(keys(x_text(p["text"])) & k) >= 2 for k in top_keys)
+              and not WEAK.search(p["text"])
               and not (spx and "Space_Station" in p["text"] and "Space_Station" in spx[0]["text"])]
         if ps:
             other = (h, accts[h]["name"] if accts[h].get("name") else h, ps[0])
