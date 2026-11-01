@@ -133,10 +133,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.universetoday.com/articles/examining-the-cats-head-nebula-with-the-hubble-and-jwst": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
  },
@@ -332,20 +328,17 @@
  "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html": {
   "s": "Researchers at IBM have successfully linked two large quantum processors using four superconducting cables. This achievement matters because it demonstrates how to reliably connect quantum processors, enabling them to work together as a single machine. Previously, quantum links were mostly between small experimental processors, but this new method is crucial for building larger, more powerful quantum computers."
  },
- "https://www.sciencealert.com/scientists-recovered-22000-year-old-human-dna-from-cave-dirt": {
-  "s": "Scientists recovered ancient human DNA from cave dirt, even though no bones or teeth were present. This discovery matters because it shows how DNA can be extracted from very small samples of sediment, potentially allowing archaeologists to learn more about human genetic identities without needing physical remains."
- },
  "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity features and long-term capabilities. Its introduction highlights the organization's commitment to advancing AI capabilities and strengthening cybersecurity defenses."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4 is a new model that enhances world simulation, enabling realistic audio, movement, and dialogue in real-time. This matters as it advances AGI by creating safe, infinitely variable simulations for training and interactive experiences."
- },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure it works reliably in warehouses. She simulates years of wear and tear on robot parts in weeks by accelerating the testing process, using more aggressive forces than a robot would face in real conditions. Her work helps design a robot that can handle the dynamic environments of warehouses without breaking down."
+ },
+ "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests": {
+  "s": "The study suggests Earth was about to enter a new ice age, but human-driven climate change stopped it. Ice ages have naturally occurred in Earth's history, but this one was just beginning when human activity intervened."
+ },
+ "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits": {
+  "s": "Researchers from Caltech found that salt deposits on Ceres might be hidden by water ice deposits, suggesting these deposits could be larger than previously thought. This finding matters because it challenges existing data and provides new insights into Ceres' surface evolution and water activity."
  }
 }
