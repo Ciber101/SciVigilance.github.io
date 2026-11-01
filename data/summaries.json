@@ -126,10 +126,6 @@
  "https://www.therobotreport.com/2026-robotics-handbook-looks-at-humanoids/": {
   "s": "The 2026 Robotics Handbook explores design choices for dexterous manipulation, humanoid robots, and construction automation. It matters because advances in AI and technology are driving increased interest and adoption of robotics, especially in construction where automation is still in its early stages."
  },
- "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/": {
   "s": "The U.S. government found that imports of robotics and machinery pose a threat to national security and economic competitiveness. The president directed the secretary to restrict imports of these technologies, citing cybersecurity risks and the need for domestic production capacity."
  },
@@ -191,10 +187,6 @@
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A robot designed to slow for someone in a hallway can still respond as programmed if someone is in the way. This matters because robots designed to ensure safety can be misled by manipulated information, altering their intended actions."
  },
- "https://phys.org/news/2026-10-tiny-photonic-chip-links-telescopes.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/": {
   "s": "NASA will display its X-59 quiet supersonic plane at MAX POWER, an aerospace expo and air show. The event showcases future technologies and features, including Moon rovers and spacecraft, and offers opportunities to meet NASA leaders and experts."
  },
@@ -216,9 +208,6 @@
  },
  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
   "s": "The VS Code extension on Cursor, an AI-assisted developer tool, was compromised for nearly 12 hours, affecting at most 5,000 users. The malicious version, 2.1.313, was installed by default when users updated or auto-updated the extension. The attackers gained access through Anthropic's official account, which was a supply-chain compromise. The extension installed a persistent SSH backdoor, allowing remote access and data theft."
- },
- "https://www.space.com/space-exploration/human-spaceflight/an-aquanaut-comes-home-returning-to-earth-from-an-undersea-space-station": {
-  "s": "An aquanaut named Dr. Musilova, along with her team, has completed a five-day underwater mission, returning to Earth. This experience matters as it simulates life in space, offering insights into how humans might adapt to high-pressure environments and the psychological effects of prolonged separation from loved ones."
  },
  "https://phys.org/news/2026-10-hidden-erosion-reveals-soft-mountain.html": {
   "s": "",
@@ -317,9 +306,6 @@
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure it works reliably in warehouses. She simulates years of wear and tear on robot parts in weeks by accelerating the testing process, using more aggressive forces than a robot would face in real conditions. Her work helps design a robot that can handle the dynamic environments of warehouses without breaking down."
  },
- "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests": {
-  "s": "The study suggests Earth was about to enter a new ice age, but human-driven climate change stopped it. Ice ages have naturally occurred in Earth's history, but this one was just beginning when human activity intervened."
- },
  "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits": {
   "s": "Researchers from Caltech found that salt deposits on Ceres might be hidden by water ice deposits, suggesting these deposits could be larger than previously thought. This finding matters because it challenges existing data and provides new insights into Ceres' surface evolution and water activity."
  },
@@ -345,5 +331,18 @@
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "",
   "why": "too little source text"
+ },
+ "https://phys.org/news/2026-10-ice-scientists-particles-anti.html": {
+  "s": "In a recent study, scientists have created an anti-spin ice, a system that reverses the usual behavior of spin ices by breaking the ice rule. This discovery matters because it shows that changing the interaction between particles from repulsive to attractive can dramatically alter how geometric frustration manifests in physical systems."
+ },
+ "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them": {
+  "s": "On November, observers can spot close encounters between Mars and Jupiter, and the bright planets Venus and Mercury. These events are noteworthy as they provide opportunities to see several planets in close proximity in the night sky, which is not often seen."
+ },
+ "https://www.livescience.com/space/astronomy/webb-and-hubble-telescopes-watch-ghostly-objects-appear-in-the-cats-head-nebula-space-photo-of-the-week": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/just-30-minutes-in-a-sauna-triggers-an-immediate-immune-response": {
+  "s": "A sauna session for just 30 minutes triggered an immediate increase in circulating white blood cells in a small experiment. These cells are crucial for defending the body against pathogens and help build immune memory. The researchers speculate that the sauna session may mobilize white blood cells from storage sites, making them more active."
  }
 }
