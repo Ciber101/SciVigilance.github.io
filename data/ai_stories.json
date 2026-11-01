@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-31T01:40:57-07:00",
-  "updated_pt": "Oct 31, 2026, 1:40 AM PT",
+  "updated": "2026-11-01T01:39:03-07:00",
+  "updated_pt": "Nov 1, 2026, 1:39 AM PT",
   "stories": [
+    {
+      "title": "DeepSeek open-sources dsh-superagent, a research prototype of a coding agent that waits to be asked and splits work into parallel sessions",
+      "tag": "AI agents",
+      "date": "2026-10-31",
+      "paragraphs": [
+        "DeepSeek published a public GitHub repository, deepseek-ai/dsh-superagent-prototype, on Oct. 31, 2026, under the MIT license. The README describes dsh-superagent as a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It listens to GitHub and, optionally, the Feishu chat app, and when someone who is allowed asks it for work, it opens a work item, works on it in its own agent session and directory, and answers in the original conversation, for example with a pull request. A web panel shows what needs a person.",
+        "The README labels the code a research prototype for reference only and not an official DeepSeek product. It says much of the engineering was done by coding agents, that it may still contain bugs, and that it differs from DeepSeek's internal version and from the design described in its post Exploring Super-agent Design: Towards a More Autonomous Agent System, some of which is not implemented. The stated principle is to take as little human attention as possible and give as much value as possible, so the agent acts only when asked or when a rule the team wrote allows it.",
+        "MarkTechPost reported on Nov. 1 that the design uses two layers: a long-running Router that handles interaction and dispatch, and isolated Worker sessions that do the work, one per work item, which the project calls a Ticket. It reported that unrequested work is gated by three modes, off, observe and auto, with observe as the default, in which the agent only records what it would have accepted. MarkTechPost listed the requirements as Node.js 22.19 or newer, git, Python, tmux and the GitHub command-line tool, and noted that the agent runs with full access as the operating-system user, so it advised isolating it before use.",
+        "Citing a Chinese tech outlet's account of DeepSeek's report, MarkTechPost said that in a simulation with about 300 messages per run, about 20 of them real work requests, the super-agent reached a 95th-percentile task completion time of 15.7 minutes, against 29.5 minutes for a single-session agent with subagents. MarkTechPost noted that these figures are self-reported, came from tests with synthetic messages and simulated tools, and that real coding quality was not measured."
+      ],
+      "sources": [
+        {
+          "name": "DeepSeek (GitHub)",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "date": "2026-10-31"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+          "date": "2026-11-01"
+        }
+      ],
+      "image": {
+        "url": "https://opengraph.githubassets.com/058e67920f36c6ac6fc3aaa53a72fb63967740c0afefeed80ec761de53357d9c/deepseek-ai/dsh-superagent-prototype",
+        "credit": "DeepSeek, via GitHub",
+        "alt": "GitHub preview card for the deepseek-ai/dsh-superagent-prototype repository"
+      }
+    },
     {
       "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
       "tag": "AI security",
@@ -28,57 +56,6 @@
         "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
         "credit": "Getty Images, via Ars Technica",
         "alt": "Yellow caution tape"
-      }
-    },
-    {
-      "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
-      "tag": "Open models",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
-        "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
-        "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
-        "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
-      ],
-      "sources": [
-        {
-          "name": "Mistral AI",
-          "url": "https://mistral.ai/news/mistral-large-4-oss/",
-          "date": "2026-10-29"
-        },
-        {
-          "name": "Hugging Face",
-          "url": "https://huggingface.co/blog/mistral-large4",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
-        "credit": "Mistral AI",
-        "alt": "Mistral Large 4 announcement cover image"
-      }
-    },
-    {
-      "title": "OpenAI updates its Model Spec, reorganizing how its models should behave around five core values",
-      "tag": "OpenAI",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "OpenAI published an update to its Model Spec on Oct. 29, 2026, the public document describing how it wants its models to behave. According to OpenAI, the revision reorganizes the Spec's guidance around five underlying values: faithfulness to human intent, harm minimization, honesty and transparency, human agency, and care. The company says the update also adds guidance on context, oversight and agency, adjusts some behavioral defaults, and retires much of the detailed style guidance.",
-        "OpenAI describes faithfulness to human intent as the foundation of the approach, meaning going beyond following instructions literally to understanding what OpenAI, developers and users intend and value. The new section includes an updated chain of command, which explains which instructions apply and how conflicts are resolved, and a new subsection on how conversations, memories and other context should inform the model's understanding of people's intentions and preferences. OpenAI says it has also added defaults on supporting human agency and following social norms, and expanded guidance on controlling and communicating side effects.",
-        "OpenAI says it is retiring most of the Spec's detailed style guidance because style should adapt to what people prefer, while keeping stronger defaults such as approaching questions objectively. The Spec now refers to the model as \"GPT\" rather than \"the assistant.\" OpenAI also says it has been exploring new training methods to help its models learn these values, with results to be shared in future updates.",
-        "The company states that the Model Spec describes the behavior it is working toward and that its models do not yet fully reflect it. OpenAI invites public feedback on the values, trade-offs and specific language in the document."
-      ],
-      "sources": [
-        {
-          "name": "OpenAI",
-          "url": "https://openai.com/index/updated-model-spec",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://images.ctfassets.net/kftzwdyauwt9/75veJvi069XNefheZKrGT3/524e301a9565289e83b5a666d47b3da5/model-spec-update-more-capable-beneficial-ai-seo.png?w=1600&h=900&fit=fill",
-        "credit": "OpenAI",
-        "alt": "OpenAI's header image for the updated Model Spec announcement"
       }
     }
   ]
