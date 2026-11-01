@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T01:37:21-08:00",
- "updated_pt": "Nov 1, 2026, 1:37 AM PT",
+ "updated": "2026-11-01T07:38:04-08:00",
+ "updated_pt": "Nov 1, 2026, 7:38 AM PT",
  "stories": [
   {
    "title": "A study in Science finds the next glacial period had already begun about 2,000 years ago, until warming reversed it in the 1960s",
@@ -26,27 +26,27 @@
    ]
   },
   {
-   "title": "Mistral releases the open weights of Mistral Large 4, a 1-trillion-parameter model it calls the best open model for coding",
-   "tag": "Open models",
-   "date": "2026-10-29",
+   "title": "Webb finds unusually heavy hydrogen in the methane of interstellar comet 3I/ATLAS, pointing to a very cold birthplace",
+   "tag": "Space",
+   "date": "2026-11-01",
    "paragraphs": [
-    "Mistral AI released the weights of Mistral Large 4, nicknamed Le Chonk, on Oct. 29, 2026, the company announced. Mistral describes it as its flagship 1-trillion-parameter, natively multimodal model, first released in public preview earlier in October, and says it was trained from scratch on European infrastructure. The model is free to use, modify, fine-tune and commercialize under a modified MIT license, except that companies offering it as a hosted model service need a separate commercial license.",
-    "Mistral says three more weeks of reinforcement learning since the preview made Mistral Large 4 the best open-weight model for coding. It reports a lead score of 19.7% on Cognition's private FrontierCode 2.0 benchmark and 41% on Terminal-Bench 4.0, up 13 percentage points from the preview. On the Artificial Analysis Coding Agent Index, Mistral reports a 48% score, effectively tied with GLM-5.3 while using 47% fewer tokens per task; a Hugging Face post on the release lists 49.8% for the same index.",
-    "Mistral is pitching the model for defensive cybersecurity. The company reports a 51% score on the Artificial Analysis Cyber Index and an average 96.6% refusal rate on malicious cyber requests, the highest it measured among open models. Hugging Face's post says the model scores 82% on that index's task of reproducing and then patching a real vulnerability. Mistral also wrote that, after watching live traffic since the preview, it sees a potential for the model to help with real attacks and is changing its guardrails.",
-    "According to Hugging Face, the model is a mixture-of-experts design with a 1-million-token context window, released in FP8 and NVFP4 versions with day-one support in Transformers, vLLM and llama.cpp. Mistral lists API pricing of $0.70 per million input tokens and $2.10 per million output tokens, and says the model is also available through Microsoft Foundry and NVIDIA-hosted endpoints."
+    "The interstellar comet 3I/ATLAS carries methane that is unusually rich in heavy hydrogen, according to a study published in Nature Astronomy and reported by Phys.org on Nov. 1. Using the James Webb Space Telescope, Nathan Roth of American University and NASA's Goddard Space Flight Center and colleagues measured a ratio of heavy to ordinary hydrogen in the comet's methane of about 3.2%, roughly 13 times as high as in comet 67P/Churyumov-Gerasimenko, which likely formed in our own solar system. \"This D/H ratio exceeds any other value for methane measured in the solar system,\" the authors write.",
+    "Heavy hydrogen, or deuterium, has an extra neutron in its nucleus, and swapping it into a methane molecule changes the molecule's infrared signature, Phys.org explains. Webb observed the gas cloud around the comet's icy nucleus on Dec. 22 and 23, 2025, when 3I/ATLAS was about 2.4 times as far from the sun as Earth is. The team modeled and subtracted light from other gases, then picked out the much fainter traces of the deuterium-bearing methane. Comet 67P is the only other comet in which that form of methane has been detected, and that measurement needed a close-up visit by the Rosetta spacecraft.",
+    "According to the report, extremely cold gas, around 10 degrees above absolute zero, favors chemistry that builds deuterium-rich ice on interstellar dust grains. The methane's ratio was about three times the ratio previously measured in the comet's water, and the researchers suggest the methane may have formed later, after the chemistry had more time to concentrate heavy hydrogen. The team argues the result fits a proposed origin in a cold cloud or the surroundings of a forming star, with relatively few elements heavier than helium and heavy cosmic-ray bombardment.",
+    "Phys.org notes that this is a plausible history rather than a pinpointed birthplace. Direct measurements of methane's deuterium ratio in distant star-forming regions are lacking for comparison, and the few chemical models that estimate it fall short of the value measured in 3I/ATLAS, so the comet now gives those models a demanding test."
    ],
    "sources": [
     {
-     "name": "Mistral AI",
-     "url": "https://mistral.ai/news/mistral-large-4-oss/",
-     "date": "2026-10-29"
-    },
-    {
-     "name": "Hugging Face",
-     "url": "https://huggingface.co/blog/mistral-large4",
-     "date": "2026-10-29"
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html",
+     "date": "2026-11-01"
     }
-   ]
+   ],
+   "image": {
+    "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/heavy-hydrogen-in-3iat.jpg",
+    "credit": "Nature Astronomy (2026), via Phys.org",
+    "alt": "Chart comparing deuterium-to-hydrogen ratios in solar system and extrasolar sources, including 3I/ATLAS"
+   }
   },
   {
    "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
