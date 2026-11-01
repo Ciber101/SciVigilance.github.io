@@ -146,9 +146,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/": {
-  "s": "Samaya AI released Sterling, a 3B-active finance research model that outperforms Claude Fable 5.1 on financial research tasks. This matters because it demonstrates how a large model can be adapted for more efficient financial research, reducing costs significantly."
- },
  "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
   "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
  },
@@ -201,17 +198,11 @@
  "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/": {
   "s": "NASA will display its X-59 quiet supersonic plane at MAX POWER, an aerospace expo and air show. The event showcases future technologies and features, including Moon rovers and spacecraft, and offers opportunities to meet NASA leaders and experts."
  },
- "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/": {
-  "s": "All four security AI agents compare similar processes: finding bugs, disproving them independently, and applying patches. The key finding is they all converge on a similar design. This convergence is significant because it suggests a common solution to a problem: excessive false positives in AI-driven code scanning, which can waste time and resources."
- },
  "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past": {
   "s": "A meteorite named Teghaza 001, found in Mali, is extremely ancient, about 4.1 billion years old. Such a young meteorite provides unique insights into Mars' early crust and mantle, suggesting conditions more Earth-like than previously thought."
  },
  "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
   "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
- },
- "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/": {
-  "s": "TokenEconomizer, a new open-source plugin, reduces coding agent costs by up to 30.9% on SWE-Bench, a coding benchmark, by learning from past sessions. This matters because it suggests ways to optimize the use of coding tools and schemas, potentially saving significant resources without altering the coding agent itself."
  },
  "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/": {
   "s": "Percepto introduced Axion, an AI platform that integrates inspection data from various sources. This move signifies Percepto's transition from focusing on hardware to developing software, enhancing operational intelligence for critical infrastructure."
@@ -341,5 +332,18 @@
  },
  "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost": {
   "s": "The north polar ice cap of Mars, composed of water ice, shifts in size with the seasons, as observed by researchers. This seasonal change in ice deposits could help scientists understand Mars' climate history, offering insights into how the planet's climate has evolved over time."
+ },
+ "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/": {
+  "s": "DeepSeek released dsh-superagent, a GitHub agent that turns requests into parallel work sessions. This matters because it optimizes human attention by allowing users to focus on fewer, more critical tasks, suggesting that multitasking is often limited by human capacity rather than computational power."
+ },
+ "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/": {
+  "s": "Nace AI released Drex Max v1, a 27 billion parameter decision model that processes typed questions about provided contexts. This model is significant as it can run locally on Apple Silicon hardware, offering flexibility and privacy benefits."
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the next model announced by the organization, featuring advanced cybersecurity and long-term capabilities. It ranks first in a cybersecurity intelligence index and shows significant gains in vulnerability detection and patching. The model's release aims to help cyber defenders with complex, long-term engineering tasks, with early access available through a Fairwind Program."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "",
+  "why": "too little source text"
  }
 }

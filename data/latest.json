@@ -365,8 +365,8 @@
    "rank": 1
   }
  ],
- "date": "2026-10-31",
- "updated": "2026-11-01T05:26+00:00",
+ "date": "2026-11-01",
+ "updated": "2026-11-01T08:24+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
@@ -396,17 +396,17 @@
    "ts": "2026-11-01T04:05:00+00:00"
   },
   {
-   "id": "ai-anthropic-vs-code-extension-on-cursor-backdoored-for-nea",
-   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-   "source": "Ars Technica",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
+   "id": "ai-deepseek-open-sources-dsh-superagent-a-router-worker-cod",
+   "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+   "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions.",
+   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T21:09:54+00:00",
+   "date": "2026-11-01",
+   "ts": "2026-11-01T07:47:17+00:00",
    "rank": 0
   },
   {
@@ -462,17 +462,17 @@
    "ts": "2026-10-31T15:00:00+00:00"
   },
   {
-   "id": "ai-ai-security-agents-compared-claude-codex-mantis-cloudfla",
-   "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-   "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.",
-   "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-scaled.png",
+   "id": "ai-anthropic-vs-code-extension-on-cursor-backdoored-for-nea",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
    "tags": [
     "AI"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T17:34:15+00:00",
+   "ts": "2026-10-30T21:09:54+00:00",
    "rank": 0
   },
   {
@@ -528,18 +528,18 @@
    "ts": "2026-10-30T14:52:05+00:00"
   },
   {
-   "id": "ai-samaya-ai-releases-sterling-a-3b-active-finance-research",
-   "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-   "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89.",
-   "url": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
+   "id": "ai-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-th",
+   "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+   "summary": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared…",
+   "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-1-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T07:26:12+00:00",
-   "rank": 0
+   "date": "2026-11-01",
+   "ts": "2026-11-01T08:10:07+00:00",
+   "rank": 1
   },
   {
    "id": "mit-engineers-create-nanoparticles-for-delivering-personaliz",
@@ -1194,6 +1194,20 @@
  ],
  "ai": [
   {
+   "id": "ai-deepseek-open-sources-dsh-superagent-a-router-worker-cod",
+   "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
+   "summary": "DeepSeek released dsh-superagent, an MIT-licensed research prototype that turns GitHub and Feishu requests into parallel worker sessions.",
+   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-01",
+   "ts": "2026-11-01T07:47:17+00:00",
+   "rank": 0
+  },
+  {
    "id": "ai-anthropic-vs-code-extension-on-cursor-backdoored-for-nea",
    "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
    "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
@@ -1208,32 +1222,18 @@
    "rank": 0
   },
   {
-   "id": "ai-ai-security-agents-compared-claude-codex-mantis-cloudfla",
-   "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
-   "summary": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then patch loop. Here is how they differ, plus 12 more tools.",
-   "url": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+   "id": "ai-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-th",
+   "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
+   "summary": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared…",
+   "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-1-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-1-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T17:34:15+00:00",
-   "rank": 0
-  },
-  {
-   "id": "ai-samaya-ai-releases-sterling-a-3b-active-finance-research",
-   "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-   "summary": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question, beating Claude Fable 5.1’s 55.9% at $6.89.",
-   "url": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-1898-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T07:26:12+00:00",
-   "rank": 0
+   "date": "2026-11-01",
+   "ts": "2026-11-01T08:10:07+00:00",
+   "rank": 1
   },
   {
    "id": "ai-granite-switch-4-1-1-update-models-like-you-update-softw",
@@ -1278,20 +1278,6 @@
    "rank": 2
   },
   {
-   "id": "ai-meet-tokeneconomizer-microsoft-s-plugin-that-cuts-coding",
-   "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
-   "summary": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 18.4% to 30.9% on SWE-Bench, with no change to the agent.",
-   "url": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/10/WP-BLOG-BANNER-88881-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T17:53:37+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-slice-into-gfn-thursday-phantom-blade-zero-launches-on-g",
    "title": "Slice Into GFN Thursday: ‘Phantom Blade Zero’ Launches on GeForce NOW",
    "summary": "This Halloween week, GFN Thursday is delivering a fresh batch of gaming treats. Something wicked this blade comes. S-GAME’s Phantom Blade Zero launches on GeForce NOW today, bringing a scarily good blend of martial arts…",
@@ -1317,6 +1303,20 @@
    ],
    "date": "2026-10-29",
    "ts": "2026-10-29T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-gemini-4-carbon-our-next-frontier-model",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "summary": "Gemini 4 Carbon is our strongest model with state-of-the-art cybersecurity and long horizon capabilities.",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "source": "Google DeepMind",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-28",
+   "ts": "2026-10-28T17:00:58+00:00",
    "rank": 2
   },
   {
@@ -1359,6 +1359,20 @@
    ],
    "date": "2026-10-28",
    "ts": "2026-10-28T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-genie-4-a-new-generation-of-world-simulation",
+   "title": "Genie 4: A new generation of world simulation",
+   "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Google DeepMind",
+   "image": "https://lh3.googleusercontent.com/i7iotPkcMbMubxRzAdriO5wsIsowROonBvjLNnmPbOaRgEb1k4LKTBqay5VrcPpZi0R4il_bYCCsPYQ0Gy_-XbAw66azAGEfE-E6_9Izz5apP0BMJVE=w528-h297-n-nu-rw-lo",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-10-27",
+   "ts": "2026-10-27T16:01:38+00:00",
    "rank": 2
   },
   {
