@@ -1,7 +1,35 @@
 {
-  "updated": "2026-10-31T13:40:49-07:00",
-  "updated_pt": "Oct 31, 2026, 1:40 PM PT",
+  "updated": "2026-10-31T19:44:55-07:00",
+  "updated_pt": "Oct 31, 2026, 7:44 PM PT",
   "stories": [
+    {
+      "title": "A study in Science finds the next glacial period had already begun about 2,000 years ago, until warming reversed it in the 1960s",
+      "tag": "Earth",
+      "date": "2026-10-31",
+      "paragraphs": [
+        "Two thousand years ago, the last Arctic remnant of North America's once-vast Laurentide Ice Sheet started to grow again, marking the start of a new glacial period, according to a study published in the journal Science and described by Columbia University's Climate School on Oct. 22. By the 1960s, summer temperatures had risen enough that the ice began to shrink. \"It was just getting started, everything was normal, the next glaciation was about to happen, and yet it stopped,\" said Nicolás Young, a geochemist at Columbia's Lamont-Doherty Earth Observatory and the study's first author.",
+        "The Laurentide covered much of Canada and the northern United States from about 95,000 to 20,000 years ago, stretching at its largest from above the Arctic Circle to Illinois. Its last vestige survives as the Barnes Ice Cap, a Delaware-sized ice cap on central Baffin Island in Nunavut, Canada. Columbia notes that we technically still live in an ice age that began about 34 million years ago, and that what people casually call an \"ice age\" is a colder glacial period; the last one ended about 11,700 years ago.",
+        "The Barnes Ice Cap is frozen to its bedrock and does not slide, so it preserves plants that grew when it was small and were later buried as it expanded. Dating that vegetation with carbon-14, and, as ScienceAlert reported on Oct. 31, measuring beryllium-10 in exposed rock, the team found the ice reached its smallest size about 3,000 years ago and began re-expanding about 2,000 years ago. Columbia says previous model-based studies had suggested the next glaciation would not begin for thousands or even tens of thousands of years.",
+        "Since about 1960 the ice cap has lost more ice each summer than it gains in winter, and ScienceAlert reports the researchers found those losses \"can be almost entirely explained by rising summer temperatures.\" According to models of its future, the ice cap will melt completely within the next few centuries. \"That will be the true very last remains of the Laurentide, disappearing for good,\" Young said."
+      ],
+      "sources": [
+        {
+          "name": "Columbia Climate School",
+          "url": "https://news.climate.columbia.edu/2026/10/22/climate-change-stopped-the-next-ice-age/",
+          "date": "2026-10-22"
+        },
+        {
+          "name": "ScienceAlert",
+          "url": "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests",
+          "date": "2026-10-31"
+        }
+      ],
+      "image": {
+        "url": "https://media.news.climate.columbia.edu/wp-content/uploads/2026/10/Barnes_margin_fresh-1300x975.jpeg",
+        "credit": "Nicolás Young, via Columbia Climate School",
+        "alt": "The margin of the Barnes Ice Cap on Baffin Island, where bedrock has only recently been exposed"
+      }
+    },
     {
       "title": "NASA asks companies how they could boost, upgrade or safely retire Hubble, as Swift falls toward re-entry after a failed boost",
       "tag": "Space",
@@ -79,34 +107,6 @@
         "url": "https://cdn.mos.cms.futurecdn.net/jX8FNSuupiTtPkLLRAAUqT-1920-80.jpg",
         "credit": "ESA/Webb, NASA & CSA, G. Gozaliasl, A. Koekemoer, M. Franco and the COSMOS-Web team, via Live Science",
         "alt": "James Webb Space Telescope deep field showing some of the most distant galaxies ever seen"
-      }
-    },
-    {
-      "title": "Vera C. Rubin Observatory finds 2026 ED138, a possible sixth dwarf planet orbiting beyond Neptune",
-      "tag": "Space",
-      "date": "2026-10-29",
-      "paragraphs": [
-        "The Vera C. Rubin Observatory has found what may be a new dwarf planet in the outer solar system, Live Science and ScienceAlert reported Oct. 29, 2026. The object, designated 2026 ED138, is a large body in the Kuiper Belt beyond Neptune. ScienceAlert describes it as the telescope's first dwarf planet candidate, and Live Science reports that, if confirmed, it would raise the number of dwarf planets officially recognized by the International Astronomical Union from five (Pluto, Ceres, Eris, Haumea and Makemake) to six.",
-        "According to ScienceAlert, Matthew Holman of the Harvard-Smithsonian Center for Astrophysics spotted the object on Oct. 13, 2026, while analyzing Rubin data with software he developed with colleague Kevin Napier. The team traced it through 30 detections across 20 nights of Rubin observations from March 4 to July 11, 2026, then found it in archival Dark Energy Camera images going back to February 2016. \"My first reaction was one of excited disbelief,\" Holman said in a statement quoted by both outlets. \"Objects like this are very rare, so I immediately started checking whether I or the code had done something wrong.\"",
-        "ScienceAlert, citing the Minor Planet Center, reports that ED138 takes about 281 years to orbit the Sun, ranging from 36.86 to 49.04 astronomical units away, which lies within Pluto's range of distances. Both outlets say its tilted orbit placed it against the crowded star fields of the Milky Way, which helped it escape earlier searches.",
-        "The object's size is still uncertain. Because its reflectivity is unknown, researchers estimate a diameter between 600 and 1,500 kilometers (about 370 to 930 miles), Live Science reports; Pluto is 2,377 kilometers across and Ceres 958 kilometers. Both outlets say further observations are needed to determine whether it is round enough to qualify as a dwarf planet. \"Rubin will image the whole southern sky again and again for ten years, so any others hiding in the places earlier surveys skipped are now within reach,\" Holman said."
-      ],
-      "sources": [
-        {
-          "name": "Live Science",
-          "url": "https://www.livescience.com/space/planets/bright-object-beyond-pluto-may-be-the-solar-systems-sixth-dwarf-planet",
-          "date": "2026-10-29"
-        },
-        {
-          "name": "ScienceAlert",
-          "url": "https://www.sciencealert.com/astronomers-discover-giant-new-dwarf-planet-candidate-hiding-beyond-pluto",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/bzsmU2sUc38RK3CBVReQrk-1920-80.jpg",
-        "credit": "NSF–DOE Vera C. Rubin Observatory, via Live Science",
-        "alt": "Mosaic of Rubin Observatory images showing the dwarf planet candidate 2026 ED138 on several dates in 2026"
       }
     }
   ]
