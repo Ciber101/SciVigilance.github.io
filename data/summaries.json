@@ -1,7 +1,4 @@
 {
- "https://www.anthropic.com/news/public-benefit-fund": {
-  "s": "Investing in the public benefit, the organization is committing a portion of its shares to a new fund. This fund will grow as the company does, enabling the organization to pursue its mission in innovative ways such as large donations to nonprofits or direct distributions. The fund’s structure also allows for a larger share of the company’s equity to be dedicated to the public good as the organization grows."
- },
  "https://spectrum.ieee.org/agility-robotics-digit-5-redesign": {
   "s": "Digit 5, the humanoid robot launched by Agility Robotics, is designed to perform heavy tasks in warehouses. This robot differs from Jonathan Hurst's initial vision, which aimed for graceful motion and mastery of motion through elegant devices. The shift in focus reflects the challenges and constraints of creating a practical commercial product."
  },
@@ -247,9 +244,6 @@
  "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints": {
   "s": "Astronomers may have misidentified the cosmic event that cleared the universe's hydrogen fog, transforming darkness into light. This finding challenges previous theories about how the universe evolved."
  },
- "https://phys.org/news/2026-10-superconducting-cables-link-large-quantum.html": {
-  "s": "Researchers at IBM have successfully linked two large quantum processors using four superconducting cables. This achievement matters because it demonstrates how to reliably connect quantum processors, enabling them to work together as a single machine. Previously, quantum links were mostly between small experimental processors, but this new method is crucial for building larger, more powerful quantum computers."
- },
  "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -275,13 +269,6 @@
  },
  "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/": {
   "s": "Nace AI released Drex Max v1, a 27 billion parameter decision model that processes typed questions about provided contexts. This model is significant as it can run locally on Apple Silicon hardware, offering flexibility and privacy benefits."
- },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the next model announced by the organization, featuring advanced cybersecurity and long-term capabilities. It ranks first in a cybersecurity intelligence index and shows significant gains in vulnerability detection and patching. The model's release aims to help cyber defenders with complex, long-term engineering tasks, with early access available through a Fairwind Program."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://phys.org/news/2026-10-ice-scientists-particles-anti.html": {
   "s": "In a recent study, scientists have created an anti-spin ice, a system that reverses the usual behavior of spin ices by breaking the ice rule. This discovery matters because it shows that changing the interaction between particles from repulsive to attractive can dramatically alter how geometric frustration manifests in physical systems."
@@ -343,5 +330,8 @@
  },
  "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/": {
   "s": "The Chinese company NeodraDynamics presented Neo1, a 13-foot tall humanoid robot designed for heavy, precise work. It avoids risky jobs humans typically avoid, showcasing a new approach to giant robots beyond anime and sci-fi."
+ },
+ "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html": {
+  "s": "A University of Bath-led study has estimated that humans produce 2.05 billion metric tons of CO₂ annually, a 74% increase from 1985 to 2015. This matter matters because it provides a clearer understanding of carbon sources and helps predict the effectiveness of carbon reduction strategies."
  }
 }
