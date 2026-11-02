@@ -133,9 +133,6 @@
  "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504": {
   "s": "This closure matters because the museum had offered a unique educational experience, inspiring generations of scientists and providing hands-on science exploration beyond textbooks."
  },
- "https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
-  "s": "Scientists found that crocodiles survived the asteroid impact that wiped out the dinosaurs because they preferred warm climates. Their analysis of fossils and climate models showed crocodiles could move to new regions when temperatures rose and return to the tropics when temperatures fell, allowing them to survive in areas that remained suitable after the impact."
- },
  "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood": {
   "s": "NASA's Fermi Gamma-ray Space Telescope observed a gamma-ray burst (GRB) on March 10, 2026, that emitted a gamma-ray flash lasting nearly one minute, significantly longer than usual. This unusual behavior of the burst suggests its source may be more complex or distant, requiring further study to fully understand its nature and origin."
  },
@@ -319,9 +316,6 @@
  "https://phys.org/news/2026-10-trees-home-carbon.html": {
   "s": "In a study of 192 sites across four continents, researchers found conifers planted in the Southern Hemisphere grow much faster and are more resistant to drought compared to those in their native regions. This discovery could make conifers a valuable tool for carbon storage, but also raises concerns about potential drawbacks of planting trees outside their natural habitats."
  },
- "https://www.sciencealert.com/humans-in-the-andes-seem-to-have-evolved-an-unusual-genetic-ability": {
-  "s": "Humans in the Andes have evolved a genetic ability to metabolize arsenic more safely, according to a DNA analysis. This adaptation likely developed over thousands of years as they relied on arsenic-contaminated water."
- },
  "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html": {
   "s": "NASA's Mars rover Perseverance is wearing swatches of spacesuit material to assess how dust interacts with equipment. This research suggests Martian dust may be less abrasive than lunar dust, which could be beneficial for future Mars missions."
  },
@@ -333,5 +327,18 @@
  },
  "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html": {
   "s": "A University of Bath-led study has estimated that humans produce 2.05 billion metric tons of CO₂ annually, a 74% increase from 1985 to 2015. This matter matters because it provides a clearer understanding of carbon sources and helps predict the effectiveness of carbon reduction strategies."
+ },
+ "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.sciencealert.com/scientists-asked-50-people-to-map-their-near-death-experiences-an-eerie-pattern-emerged": {
+  "s": "Scientists solicited 50 individuals to depict visually their near-death experiences. Their findings showed a common geometry in these experiences, regardless of individual differences."
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the next model announced by the organization, featuring advanced cybersecurity and long-term capabilities. It ranks first in a cybersecurity intelligence index and shows significant gains in vulnerability detection and patching. The model's release aims to help cyber defenders with complex, long-term engineering tasks, with early access available through a Fairwind Program."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new model for simulating worlds in real-time, offering unprecedented realism and interactive features. This advancement matters because it enhances AGI development by enabling safe, variable simulations for training robots and creating new interactive experiences."
  }
 }
