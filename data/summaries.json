@@ -86,9 +86,6 @@
  "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
   "s": "Researchers have developed magnetic sensors that track muscle movement. This could help people with amputation use prosthetic limbs more naturally, by providing detailed muscle signals."
  },
- "https://www.sciencenews.org/article/mars-cloud-homogenous-nucleation": {
-  "s": "A striking cloud on Mars, resembling a ribbon as long as four Grand Canyons, may form without any starting material, contrary to typical cloud formation on Earth. Tiny particles like dust or salt are usually needed to seed typical clouds, but this Martian cloud shows a new, unseeded way of forming."
- },
  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
   "s": "Over a week ago, IBM Granite updated its language model configuration system, allowing users to add specialized expertise through cache-efficient adapters without needing to retrain the base model. This update demonstrates how efficiently the team can release new features, showing developers how to update and improve models like they do with software."
  },
@@ -133,9 +130,6 @@
  "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/": {
   "s": "NASA seeks industry proposals to boost Hubble to a higher orbit to extend its science lifetime. The telescope is at risk of re-entry in 2033, and extending its life would mean more discoveries and expanded understanding of the universe."
  },
- "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/": {
-  "s": "Humanoid robotics developer Agility Robotics Inc. expects to raise $465 million in a SPAC deal, less than initially estimated. This move aims to support commercial expansion and meet growing customer demand, aligning with the company's goal to become the first U.S. publicly traded humanoid supplier."
- },
  "https://spectrum.ieee.org/video-friday-whole-body-manipulation": {
   "s": "The robot Spot demonstrated whole-body manipulation, including handling objects like a tire, which is a significant step in its ability to interact with the environment. This capability is important for future robotic applications that require safe and compliant handling of various objects."
  },
@@ -144,9 +138,6 @@
  },
  "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/": {
   "s": "NASA will display its X-59 quiet supersonic plane at MAX POWER, an aerospace expo and air show. The event showcases future technologies and features, including Moon rovers and spacecraft, and offers opportunities to meet NASA leaders and experts."
- },
- "https://www.universetoday.com/articles/this-ancient-meteorite-hints-at-mars-warm-wet-past": {
-  "s": "A meteorite named Teghaza 001, found in Mali, is extremely ancient, about 4.1 billion years old. Such a young meteorite provides unique insights into Mars' early crust and mantle, suggesting conditions more Earth-like than previously thought."
  },
  "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
   "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
@@ -185,10 +176,6 @@
  "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof": {
   "s": "This sneaky bird might be proof that some animals can lie. Researchers are studying how it deceives others to gain advantage."
  },
- "https://www.space.com/space-exploration/on-this-day-in-space-october-31-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan": {
   "s": "",
   "why": "too little source text"
@@ -217,15 +204,9 @@
  "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/": {
   "s": "Nace AI released Drex Max v1, a 27 billion parameter decision model that processes typed questions about provided contexts. This model is significant as it can run locally on Apple Silicon hardware, offering flexibility and privacy benefits."
  },
- "https://www.space.com/stargazing/5-bright-planets-to-spot-in-november-when-and-where-to-see-them": {
-  "s": "On November, observers can spot close encounters between Mars and Jupiter, and the bright planets Venus and Mercury. These events are noteworthy as they provide opportunities to see several planets in close proximity in the night sky, which is not often seen."
- },
  "https://www.livescience.com/space/astronomy/webb-and-hubble-telescopes-watch-ghostly-objects-appear-in-the-cats-head-nebula-space-photo-of-the-week": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-10-heavy-hydrogen-3iatlas-methane-frigid.html": {
-  "s": "The interstellar comet 3I/ATLAS contains unusually high levels of heavy hydrogen in its methane, indicating its formation in a very cold environment. This finding gives scientists a unique chance to study the chemistry of another planetary system, challenging current models of how comets form."
  },
  "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks": {
   "s": "",
@@ -245,9 +226,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261030003017.htm": {
   "s": "Scientists at the University of Virginia have devised a novel method to combat glioblastoma, a deadly brain cancer, by using sound waves to deliver tiny genetic molecules into the brain. This approach aims to overcome the brain's protective barrier and target multiple cancer-promoting genes, potentially offering better therapies for patients."
  },
- "https://www.sciencedaily.com/releases/2026/10/261031011638.htm": {
-  "s": "A 17- to 18-million-year-old ape fossil found in Egypt is challenging long-held beliefs about where early human and ape ancestors evolved. The discovery suggests that northern Africa and the Middle East might have been central to the emergence of the evolutionary lineage that led to all living apes, including humans."
- },
  "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/": {
   "s": "These findings matter because they expose risks in software used for robot training, testing, and operation, potentially affecting models and instructions sent to robots. Teams need to respond quickly and assess each vulnerability's impact on robot safety and operations."
  },
@@ -257,20 +235,11 @@
  "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/": {
   "s": "As robotics systems become more advanced, the interconnects that connect sensors and motors to the main control unit are under greater strain. These interconnects must handle the mechanical stress of continuous motion, which can lead to failure or downtime. 3M has developed specialized cable assemblies and IDC connectors to withstand this stress, offering more durable and efficient solutions for robotics. This innovation allows engineers to better design systems that can operate without frequent maintenance, improving overall system reliability and performance."
  },
- "https://phys.org/news/2026-10-trees-home-carbon.html": {
-  "s": "In a study of 192 sites across four continents, researchers found conifers planted in the Southern Hemisphere grow much faster and are more resistant to drought compared to those in their native regions. This discovery could make conifers a valuable tool for carbon storage, but also raises concerns about potential drawbacks of planting trees outside their natural habitats."
- },
- "https://phys.org/news/2026-10-mars-abrasive-lunar-spacesuit-samples.html": {
-  "s": "NASA's Mars rover Perseverance is wearing swatches of spacesuit material to assess how dust interacts with equipment. This research suggests Martian dust may be less abrasive than lunar dust, which could be beneficial for future Mars missions."
- },
  "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408": {
   "s": "A researcher won a Nobel Prize for detecting cosmic neutrinos, tiny particles that pass through Earth without interacting. Now, scientists aim to pinpoint where these neutrinos originate, as understanding their sources can reveal more about the universe. Radio telescopes could help by matching neutrino detections with potential sources, providing clues about the physics occurring in those sources."
  },
  "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/": {
   "s": "The Chinese company NeodraDynamics presented Neo1, a 13-foot tall humanoid robot designed for heavy, precise work. It avoids risky jobs humans typically avoid, showcasing a new approach to giant robots beyond anime and sci-fi."
- },
- "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html": {
-  "s": "A University of Bath-led study has estimated that humans produce 2.05 billion metric tons of CO₂ annually, a 74% increase from 1985 to 2015. This matter matters because it provides a clearer understanding of carbon sources and helps predict the effectiveness of carbon reduction strategies."
  },
  "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night": {
   "s": "",
@@ -291,18 +260,11 @@
  "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/": {
   "s": "qwenGPU compiles a 4-lane SIMT GPU into a 45 untrained layers model named Qwen3.5-2B. This model writes every CUDA launch step itself, using Gated DeltaNet state as registers and memory. The technique matters because it demonstrates how a GPU can be integrated into model weights, potentially enabling more efficient and specialized computations within AI models."
  },
- "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health": {
   "s": "The next version of the DSM will incorporate biological factors such as genetics in diagnosing mental health conditions. This upgrade matters because it aims to use more scientific evidence in mental health diagnoses, potentially improving accuracy and treatment options."
  },
  "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102": {
   "s": "Researchers at MIT developed a new method to control how nanoparticles link together, creating materials for various applications. This advance is important because it solves a long-standing challenge in making nanoparticle-based materials, allowing for more precise control over their performance."
- },
- "https://phys.org/news/2026-10-enzyme-role-earliest-infant-gut.html": {
-  "s": "Microbiologists discovered that an enzyme typically used in other processes is crucial for bacteria to access specific sugars in breast milk. This finding, published in Nature Communications, highlights the complexity of infant gut microbiota and the importance of certain nutrients found in breast milk."
  },
  "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026": {
   "s": "",
@@ -320,9 +282,6 @@
  "https://theconversation.com/why-do-galaxies-rotate-291508": {
   "s": "Galaxies rotate like figure skaters do, spinning on their axes. Why galaxies rotate is understood through the law of conservation of angular momentum, which states that an object's spinning speed remains constant unless acted upon by an outside force. This law applies to all spinning objects, including galaxies, which are made of regular matter and dark matter."
  },
- "https://phys.org/news/2026-10-ultrathin-kagome-material-route-unusual.html": {
-  "s": "Researchers at Seoul National University and other institutions recently created a two-dimensional kagome material. This material, described in a Nature Physics paper, retains nearly identical electron energy states in a single layer, akin to a flat electronic band. This discovery is significant because it offers a clean platform to study quantum physics phenomena, including unconventional superconductivity and fractional quantum states, which are hard to observe in complex, three-dimensional materials."
- },
  "https://theconversation.com/how-to-prepare-your-online-life-for-your-death-293502": {
   "s": "Researchers studied challenges older adults face when planning for their online accounts after death. Most people haven't planned for this, leading to confusion and difficulty for heirs. They need help understanding how to access and manage digital assets like emails, social media, and online bills."
  },
@@ -337,5 +296,57 @@
  },
  "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/": {
   "s": "Coordination in muscles happens naturally, without conscious effort, allowing smooth force production. Researchers mimicked this by electric motors, showing coordination can emerge from setup, not programmed. This could lead to better robot design, as muscle coordination is efficient and reliable."
+ },
+ "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html": {
+  "s": "Some genetic diseases cause cells to lack crucial proteins. Researchers developed a new CRISPR system that can boost gene activity without cutting DNA, fitting multiple guides and activators into a single viral delivery package. This approach could be more effective for treating diseases by influencing gene activity rather than fixing mutations."
+ },
+ "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample": {
+  "s": "Samples from asteroid Ryugu and carbonaceous chondrites show clay-like minerals with varied compositions. This contradiction arises because asteroids have remained largely unchanged since their formation, unlike Earth's rocks which have been altered by billions of years of geological processes. Understanding these differences helps researchers learn about the early Solar System and the conditions that existed when it formed."
+ },
+ "https://www.sciencenews.org/article/newborn-cash-support-survival": {
+  "s": "Newborn survival improved in Flint, Michigan, thanks to financial support given to pregnant residents and their infants. This support likely helps families manage the financial stress and health risks that can arise around a birth, improving baby health outcomes."
+ },
+ "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/scientists-witness-a-mysterious-sexual-bond-between-a-bull-and-a-male-donkey": {
+  "s": "Scientists unexpectedly observed a bull and a male donkey engaging in sexual behavior several times, documenting mounting activities and intromission. This unusual sexual bond between animals of different species suggests animal behavior can be more complex than previously thought."
+ },
+ "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/": {
+  "s": "Isolated cold fusion experiments have reappeared in recent years, attracting researchers who are not risk-averse. This matters because while cold fusion does not provide a practical solution to the energy crisis, it pushes the limits of physics, offering a tantalizing glimpse into possible new energy sources."
+ },
+ "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/": {
+  "s": "NASA’s Hubble Space Telescope observed 37 nearby dwarf galaxies and discovered that these galaxies lack much of the expected oxygen, a key element produced by stars. This finding challenges current models, suggesting that the oxygen in dwarf galaxies is more effectively removed by galactic winds driven by supernovae than previously thought."
+ },
+ "https://phys.org/news/2026-11-year-fossilized-termite-karoo-town.html": {
+  "s": "University of Cape Town researchers named fossilized termite nests after a town near where they were found, providing a connection between local communities and the region's fossil heritage. The discovery offers insights into ancient ecosystems, helping scientists understand past environmental conditions."
+ },
+ "https://phys.org/news/2026-11-volcanic-eruptions-tropics-major-factor.html": {
+  "s": "Volcanic eruptions, known for their dramatic effects on the environment, also contribute to global cooling by releasing sulfur dioxide into the stratosphere, which forms aerosols that reflect sunlight. This research suggests that while eruptions in the middle latitudes can cause more cooling, the location of the volcano does not significantly affect the extent of cooling in the Northern Hemisphere."
+ },
+ "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html": {
+  "s": "Scientists have developed a new way to use molecules as qubits for quantum networks. This is important because it solves a major problem with current methods, which are unstable and cause fluctuations in light frequency, making it hard to establish reliable quantum connections."
+ },
+ "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-11-birds-physics.html": {
+  "s": "Birds do not always land at the safest and lowest speed, contrary to what physics suggests. New research reveals that flapping wings is crucial for birds to land safely, as it allows them to reduce speed while still maintaining control."
+ },
+ "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity and long-term capabilities. It ranks highest in artificial intelligence benchmarks, demonstrating superior performance in identifying and patching vulnerabilities. The announcement follows the launch of Gemini 4 Argon, showing the organization's rapid advancement in model development."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.therobotreport.com/top-10-robotics-developments-october-2026/": {
+  "s": "Last month, the robotics industry celebrated the 20th anniversary of RoboBusiness and announced it would be rebranded to Robotics Summit & Expo West. Prominent humanoid robot companies like Agility Robotics and Boston Dynamics made major updates, including a commercial agreement between AGCO and Agility Robotics to deploy the Digit humanoid in AGCO's manufacturing facility. These developments matter because they showcase the advancement of embodied AI, moving beyond science fiction into practical applications."
  }
 }
