@@ -365,8 +365,8 @@
    "rank": 1
   }
  ],
- "date": "2026-11-01",
- "updated": "2026-11-02T06:30+00:00",
+ "date": "2026-11-02",
+ "updated": "2026-11-02T09:34+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
@@ -528,17 +528,17 @@
    "ts": "2026-10-30T17:39:47+00:00"
   },
   {
-   "id": "ai-meet-factory-droid-1-0-a-model-independent-coding-agent",
-   "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-   "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed…",
-   "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+   "id": "ai-nvidia-releases-auto-ontology-an-open-semantic-layer-tha",
+   "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+   "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.",
+   "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
    "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-3-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T10:38:14+00:00",
+   "date": "2026-11-02",
+   "ts": "2026-11-02T07:47:12+00:00",
    "rank": 2
   },
   {
@@ -1220,6 +1220,34 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T08:10:07+00:00",
    "rank": 1
+  },
+  {
+   "id": "ai-nvidia-releases-auto-ontology-an-open-semantic-layer-tha",
+   "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
+   "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.",
+   "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-3-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T07:47:12+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-meet-qwengpu-qwen3-5-2b-with-45-compiled-gpu-layers-that",
+   "title": "Meet qwenGPU: Qwen3.5-2B With 45 Compiled GPU Layers That Run CUDA",
+   "summary": "qwenGPU compiles a 4-lane SIMT GPU into Qwen3.5-2B as 45 untrained layers. The model writes every step of real CUDA launches itself, using Gated DeltaNet state as registers and memory.",
+   "url": "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-2-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T07:28:29+00:00",
+   "rank": 2
   },
   {
    "id": "ai-meet-factory-droid-1-0-a-model-independent-coding-agent",

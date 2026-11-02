@@ -339,5 +339,11 @@
  },
  "https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
   "s": "Scientists found that crocodiles survived the asteroid impact by thriving in warm climates. Their research suggests that crocodiles, which have lived in tropical regions for millions of years, were able to move to new areas when temperatures rose, and return to the tropics when they fell. This allowed them to survive a mass extinction event that wiped out many dinosaurs."
+ },
+ "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/": {
+  "s": "NVIDIA released Auto Ontology, a library that automatically generates semantic definitions from enterprise metadata. This tool helps AI agents understand and use data more effectively by providing certified definitions and context. It matters because it bridges the gap between metadata and actionable data, making AI more contextually aware and efficient."
+ },
+ "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/": {
+  "s": "qwenGPU compiles a 4-lane SIMT GPU into a 45 untrained layers model named Qwen3.5-2B. This model writes every CUDA launch step itself, using Gated DeltaNet state as registers and memory. The technique matters because it demonstrates how a GPU can be integrated into model weights, potentially enabling more efficient and specialized computations within AI models."
  }
 }
