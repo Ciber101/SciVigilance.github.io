@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-01T07:38:04-08:00",
- "updated_pt": "Nov 1, 2026, 7:38 AM PT",
+ "updated": "2026-11-01T16:40:31-08:00",
+ "updated_pt": "Nov 1, 2026, 4:40 PM PT",
  "stories": [
   {
    "title": "Webb finds unusually heavy hydrogen in the methane of interstellar comet 3I/ATLAS, pointing to a very cold birthplace",
@@ -23,6 +23,34 @@
     "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/heavy-hydrogen-in-3iat.jpg",
     "credit": "Nature Astronomy (2026), via Phys.org",
     "alt": "Chart comparing deuterium-to-hydrogen ratios in solar system and extrasolar sources, including 3I/ATLAS"
+   }
+  },
+  {
+   "title": "People's bodies now produce about 2 billion metric tons of CO2 a year just by turning food into energy, a global study estimates",
+   "tag": "Earth",
+   "date": "2026-11-01",
+   "paragraphs": [
+    "The carbon dioxide that humans produce as their bodies turn food into energy rose by 74% between 1985 and 2015, reaching 2.05 billion metric tons a year, according to a University of Bath-led study published in The Lancet Planetary Health. The university announced the findings on Oct. 28, and Phys.org reported them on Nov. 1. The study found the global total grew from 1.18 billion metric tons in 1985, and that population growth accounted for more than 60% of the increase.",
+    "The researchers used thousands of real-world measurements of how much CO2 people's bodies produced during everyday life, from infancy to old age, and combined them with global population and body-weight data, the University of Bath says. They found that population growth, rather than a major rise in the amount each person produces, was the main reason the worldwide total went up.",
+    "The researchers stress that the CO2 people breathe out is not the same as emissions from burning fossil fuels. The carbon we exhale comes from the food we eat and is largely carbon that plants recently took from the atmosphere, while fossil fuels release carbon stored underground for millions of years. \"We're not saying that breathing is driving climate change,\" said lead author Javier Gonzalez of the university's Centre for Exercise, Nutrition and Metabolism.",
+    "According to the university, the findings are about improving carbon accounting, not suggesting people should exercise less or change what they eat. Gonzalez said the work gives scientists \"one more piece of the puzzle when working out where carbon comes from and where it goes,\" which can help them more accurately predict how effective carbon reduction strategies may be. The university notes that human metabolism is a sizeable part of that carbon movement, particularly in heavily populated towns and cities."
+   ],
+   "sources": [
+    {
+     "name": "University of Bath",
+     "url": "https://www.bath.ac.uk/announcements/human-metabolism-produces-two-billion-tonnes-of-co2-a-year-global-study-finds/",
+     "date": "2026-10-28"
+    },
+    {
+     "name": "Phys.org",
+     "url": "https://phys.org/news/2026-10-human-metabolism-billion-metric-tons.html",
+     "date": "2026-11-01"
+    }
+   ],
+   "image": {
+    "url": "https://scx2.b-cdn.net/gfx/news/2026/human-metabolism-produ.jpg",
+    "credit": "The Lancet Planetary Health (2026), via Phys.org",
+    "alt": "Chart of metabolic CO2 contributions from neonates, juveniles and adults"
    }
   },
   {
@@ -79,29 +107,6 @@
     "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
     "credit": "NASA",
     "alt": "The Hubble Space Telescope returning to orbit after its second servicing mission in February 1997"
-   }
-  },
-  {
-   "title": "Two different kinds of gamma-ray bursts erupted four minutes apart, a pairing astronomers had never seen",
-   "tag": "Space",
-   "date": "2026-10-30",
-   "paragraphs": [
-    "Astronomers have described a gamma-ray burst event unlike any other yet observed or predicted, ScienceAlert reported Oct. 30, 2026: a short burst and a long burst arriving only about four minutes apart. The event, named GRB 160425A, is described in a paper published in Nature Astronomy. According to ScienceAlert, short gamma-ray bursts last under two seconds and are thought to come from mergers of compact objects such as neutron stars and black holes, while long bursts last more than two seconds and are typically associated with the core-collapse supernovae of very massive dying stars.",
-    "The bursts were detected on April 25, 2016, by NASA's Neil Gehrels Swift Observatory, and ground-based telescopes then followed the fading afterglow, ScienceAlert reports. The host galaxy, possibly a pair of merging galaxies, is so distant that the light took roughly 5.5 billion years to reach Earth. The first burst, called G1, lasted 1.7 seconds and is associated with a merger origin; the second, G2, lasted 51.2 seconds and is associated with a collapsing-star origin. Setting aside the fact that such bursts release energy in focused beams, ScienceAlert says the second burst released roughly three times as much energy as the first.",
-    "\"This is so far the only event with such a strange property,\" corresponding author Bing Zhang, an astrophysicist at the University of Hong Kong, told ScienceAlert. \"I'd think that these are two independent GRBs, but the chance of having them happen together (in the same direction and around the same time) is so low [that] we have to admit that the pair has the same origin.\"",
-    "According to ScienceAlert, the researchers lay out five possible explanations and call each of them challenging. Two unrelated bursts lining up by chance has odds of about 2 in a trillion for any one moment and patch of sky, or roughly 1 in 100,000 to 1 in 10 million across all of Swift's years of observing, and two bursts from different spots in the same galaxy is even less likely. A single merger burst with a tail, or a single collapsing star with a weaker precursor, both fit poorly with the long quiet gap and the energies involved. The fifth option is a single system of undetermined makeup that produced both. \"All the scenarios have severe difficulties,\" Zhang said."
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/two-different-kinds-of-gamma-ray-bursts-erupted-4-minutes-apart-astronomers-have-never-seen-this-before",
-     "date": "2026-10-30"
-    }
-   ],
-   "image": {
-    "url": "https://www.sciencealert.com/images/2026/10/Untitled-Design-7.png",
-    "credit": "NASA/Swift/Cruz deWilde, via ScienceAlert",
-    "alt": "Artist's illustration of a gamma-ray burst"
    }
   }
  ]
