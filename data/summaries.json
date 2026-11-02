@@ -80,9 +80,6 @@
  "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028": {
   "s": "Researchers at MIT, tracking over a million cells, created a detailed map of embryonic development in mice. This could provide insights into development and diseases, offering a comprehensive view of how cells form tissues and organs."
  },
- "https://x.ai/news/incident-sweep": {
-  "s": "Using Grok Bot, IncidentWatch monitors the support queue for sudden spikes in similar tickets, alerting the team when it detects one. IncidentSweep then clears the related backlog in a batch, reducing the workload for support engineers."
- },
  "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
   "s": "Researchers have developed magnetic sensors that track muscle movement. This could help people with amputation use prosthetic limbs more naturally, by providing detailed muscle signals."
  },
@@ -108,27 +105,17 @@
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
- "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
   "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
  },
  "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504": {
   "s": "This closure matters because the museum had offered a unique educational experience, inspiring generations of scientists and providing hands-on science exploration beyond textbooks."
  },
- "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/": {
-  "s": "NASA's James Webb Space Telescope captured an eerie mid-infrared image of structures within the Cat's Head Nebula, revealing intricate details sculpted by massive stars. The nebula's distinctive shape is a result of stellar feedback eroding surrounding gas and dust, leaving denser material intact."
- },
  "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst": {
   "s": "NASA’s Swift telescope, launched in 2004, has been studying gamma-ray bursts, the most powerful cosmic events. Swift’s ability to respond quickly to bursts has made it a cornerstone of modern astronomy, lasting far longer than expected. Now, the spacecraft is running out of altitude and will burn up in Earth’s atmosphere soon."
  },
  "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
   "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
- },
- "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/": {
-  "s": "NASA seeks industry proposals to boost Hubble to a higher orbit to extend its science lifetime. The telescope is at risk of re-entry in 2033, and extending its life would mean more discoveries and expanded understanding of the universe."
  },
  "https://spectrum.ieee.org/video-friday-whole-body-manipulation": {
   "s": "The robot Spot demonstrated whole-body manipulation, including handling objects like a tire, which is a significant step in its ability to interact with the environment. This capability is important for future robotic applications that require safe and compliant handling of various objects."
@@ -142,15 +129,9 @@
  "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
   "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
  },
- "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/": {
-  "s": "Percepto introduced Axion, an AI platform that integrates inspection data from various sources. This move signifies Percepto's transition from focusing on hardware to developing software, enhancing operational intelligence for critical infrastructure."
- },
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two": {
-  "s": "The scientists found a way that a black hole could split into two black holes under specific conditions. This is unusual because black holes have strong gravity and are thought to be indestructible. The researchers calculated that for such a split to occur, the two resulting black holes must stay apart and not immediately merge."
  },
  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
   "s": "The VS Code extension on Cursor, an AI-assisted developer tool, was compromised for nearly 12 hours, affecting at most 5,000 users. The malicious version, 2.1.313, was installed by default when users updated or auto-updated the extension. The attackers gained access through Anthropic's official account, which was a supply-chain compromise. The extension installed a persistent SSH backdoor, allowing remote access and data theft."
@@ -173,18 +154,9 @@
  "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series": {
   "s": "To watch \"Blue Planet III\" online, one can stream Sir David Attenborough's new series featuring ocean exploration with advanced camera technology. This matters as it offers viewers a unique opportunity to see the world's oceans through cutting-edge technology, potentially revealing new insights and beauty."
  },
- "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof": {
-  "s": "This sneaky bird might be proof that some animals can lie. Researchers are studying how it deceives others to gain advantage."
- },
  "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/": {
-  "s": "Droid 1.0, a new coding agent from Factory, allows programmatic tool calling by writing a program instead of using tool outputs directly. This feature cuts costs by 15% compared to direct tool calling, making programmatic tool calling the default."
- },
- "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/": {
-  "s": "Robotic animals designed to be helpful are being developed, showing promise in disaster recovery, utility inspection, and companionship. These devices mimic real or imaginary creatures with sensors, speakers, motors, and processors that analyze external signals. They matter because they offer practical solutions, like cockroaches aiding in rescue operations, potentially saving lives."
  },
  "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints": {
   "s": "Astronomers may have misidentified the cosmic event that cleared the universe's hydrogen fog, transforming darkness into light. This finding challenges previous theories about how the universe evolved."
@@ -273,9 +245,6 @@
  "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide": {
   "s": "A new type of large landslide occurred in Canada, triggered by thawing permafrost. This event challenges scientists' understanding of permafrost behavior, suggesting slides can mobilize large frozen layers suddenly."
  },
- "https://www.sciencealert.com/a-strange-new-theory-helps-explain-why-our-universe-has-only-one-dimension-of-time": {
-  "s": "A new mathematical theory proposes that the Universe's structure, with three spatial and one temporal dimension, might be due to the arrangement of fundamental building blocks, much like assembling LEGO pieces. This theory, though not yet peer-reviewed, suggests that the cosmos is built from a hierarchy of geometric shapes, each composed of smaller shapes, down to the smallest scale."
- },
  "https://www.sciencedaily.com/releases/2026/11/261101010533.htm": {
   "s": "IceCube, a massive observatory buried in Antarctic ice, detects neutrinos, ghost particles with energy 10 billion times that of solar neutrinos. Scientists are studying these particles to investigate the cosmos, contributing to five Nobel Prizes in Physics."
  },
@@ -297,9 +266,6 @@
  "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/": {
   "s": "Coordination in muscles happens naturally, without conscious effort, allowing smooth force production. Researchers mimicked this by electric motors, showing coordination can emerge from setup, not programmed. This could lead to better robot design, as muscle coordination is efficient and reliable."
  },
- "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html": {
-  "s": "Some genetic diseases cause cells to lack crucial proteins. Researchers developed a new CRISPR system that can boost gene activity without cutting DNA, fitting multiple guides and activators into a single viral delivery package. This approach could be more effective for treating diseases by influencing gene activity rather than fixing mutations."
- },
  "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample": {
   "s": "Samples from asteroid Ryugu and carbonaceous chondrites show clay-like minerals with varied compositions. This contradiction arises because asteroids have remained largely unchanged since their formation, unlike Earth's rocks which have been altered by billions of years of geological processes. Understanding these differences helps researchers learn about the early Solar System and the conditions that existed when it formed."
  },
@@ -316,25 +282,6 @@
  "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/": {
   "s": "Isolated cold fusion experiments have reappeared in recent years, attracting researchers who are not risk-averse. This matters because while cold fusion does not provide a practical solution to the energy crisis, it pushes the limits of physics, offering a tantalizing glimpse into possible new energy sources."
  },
- "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/": {
-  "s": "NASA’s Hubble Space Telescope observed 37 nearby dwarf galaxies and discovered that these galaxies lack much of the expected oxygen, a key element produced by stars. This finding challenges current models, suggesting that the oxygen in dwarf galaxies is more effectively removed by galactic winds driven by supernovae than previously thought."
- },
- "https://phys.org/news/2026-11-year-fossilized-termite-karoo-town.html": {
-  "s": "University of Cape Town researchers named fossilized termite nests after a town near where they were found, providing a connection between local communities and the region's fossil heritage. The discovery offers insights into ancient ecosystems, helping scientists understand past environmental conditions."
- },
- "https://phys.org/news/2026-11-volcanic-eruptions-tropics-major-factor.html": {
-  "s": "Volcanic eruptions, known for their dramatic effects on the environment, also contribute to global cooling by releasing sulfur dioxide into the stratosphere, which forms aerosols that reflect sunlight. This research suggests that while eruptions in the middle latitudes can cause more cooling, the location of the volcano does not significantly affect the extent of cooling in the Northern Hemisphere."
- },
- "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html": {
-  "s": "Scientists have developed a new way to use molecules as qubits for quantum networks. This is important because it solves a major problem with current methods, which are unstable and cause fluctuations in light frequency, making it hard to establish reliable quantum connections."
- },
- "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://phys.org/news/2026-11-birds-physics.html": {
-  "s": "Birds do not always land at the safest and lowest speed, contrary to what physics suggests. New research reveals that flapping wings is crucial for birds to land safely, as it allows them to reduce speed while still maintaining control."
- },
  "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
   "s": "",
   "why": "too little source text"
@@ -348,5 +295,60 @@
  },
  "https://www.therobotreport.com/top-10-robotics-developments-october-2026/": {
   "s": "Last month, the robotics industry celebrated the 20th anniversary of RoboBusiness and announced it would be rebranded to Robotics Summit & Expo West. Prominent humanoid robot companies like Agility Robotics and Boston Dynamics made major updates, including a commercial agreement between AGCO and Agility Robotics to deploy the Digit humanoid in AGCO's manufacturing facility. These developments matter because they showcase the advancement of embodied AI, moving beyond science fiction into practical applications."
+ },
+ "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://x.ai/news/data-bot": {
+  "s": "Data Bot, a tool developed by SpaceXSI, enables every team to query data warehouses and run analyses, mimicking a data scientist's work. This innovation is important because it addresses the bottleneck created by a small data science team, providing around-the-clock support and shared expertise across the company."
+ },
+ "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencealert.com/dinosaur-blood-cells-detected-in-115-million-year-old-fossil": {
+  "s": "Dinosaur blood cells were identified inside a 115-million-year-old fossil leg bone. The discovery was confirmed through chemical analysis, providing strong evidence the cells belonged to the dinosaur, not contamination."
+ },
+ "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed": {
+  "s": "The James Webb Space Telescope (JWST) may have found where the seeds of intermediate mass black holes form in the early Universe. This discovery could help explain how the first supermassive black holes in the modern Universe grew to such vast sizes."
+ },
+ "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/": {
+  "s": "The CHAPEA crew, comprising four members, returned to Earth after a year-long simulated Mars mission. Their experiences will aid NASA in designing future Moon bases and planning missions to Mars."
+ },
+ "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/": {
+  "s": "Hydrogen-1.0, an open-weight model from Deep Principle, was released as a scientific research assistant for chemistry, materials science, and life sciences. It aims to solve scientific problems by framing questions, planning experiments, analyzing results, and making open-ended discoveries. The model's training combines supervised fine-tuning with reinforcement learning using data from four sources. Its performance on public benchmarks is reported to outperform other models, particularly in experiment planning and discovery tasks."
+ },
+ "https://phys.org/news/2026-11-wild-mild-friendly-foxes-brain.html": {
+  "s": "Scientists observed changes in a brain region linked to aggression in tame foxes compared to aggressive and wild foxes. This study, published in Current Biology, suggests rapid environmental pressures can alter brain structure, highlighting how domestication can affect brain function."
+ },
+ "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html": {
+  "s": "Scientists have developed a new method to produce ruthenium single-atom catalysts, which can better utilize this valuable metal. This innovation allows for higher concentrations of ruthenium atoms in a catalyst, potentially improving efficiency and reducing costs in industrial processes."
+ },
+ "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html": {
+  "s": "A study led by a University of California, Riverside, scientist has identified new targets for coronavirus antiviral drugs. The research, using advanced techniques, found specific sites in the virus's RNA and proteins that, if disrupted, significantly reduced viral replication. This offers a strategy to develop treatments less susceptible to viral evolution."
+ },
+ "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html": {
+  "s": "Researchers reviewed old records from Transylvania to understand the climate in the 17th century. By analyzing weather mentions, crop references, and food prices, they found 55 extremely cold winters, mostly between 1645 and 1700. This helps show how communities experienced and responded to environmental stress during the Little Ice Age."
+ },
+ "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html": {
+  "s": "Scientists discovered that small galaxies contain less oxygen than stars estimate they produced. Tracking oxygen helps understand how galaxies change over time and spread elements through the universe. The findings suggest galactic winds remove oxygen more effectively than models predict."
+ },
+ "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html": {
+  "s": "Research by Brookhaven National Laboratory scientists reveals that marine stratocumulus clouds can produce drizzle even when they contain only a small amount of liquid water. This finding challenges current weather models, which often assume clouds need to be saturated before rain forms."
+ },
+ "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/": {
+  "s": "Tutor Intelligence raised $75 million to improve its picking robots and expand their capabilities. This matters because it aims to make robots more affordable and capable of performing tasks humans can't, offering businesses a new, cheaper way to handle tasks."
+ },
+ "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/": {
+  "s": "The challenge that ThermAffyx addresses is maintaining normothermia and reducing patient movement during robotic surgeries. Conventionally, patient warming and secure positioning have been handled separately, often using forced-air warming and a securement pad. ThermAffyx combines both into one solution, addressing the unique challenges of robotic surgery where patients are often in head-down positions for extended periods."
  }
 }

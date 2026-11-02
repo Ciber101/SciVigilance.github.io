@@ -1,6 +1,34 @@
 {
  "robots": [
   {
+   "id": "rb-tutor-intelligence-raises-series-b-to-scale-model-traini",
+   "title": "Tutor Intelligence raises Series B to scale model training, robot deployments",
+   "summary": "Tutor Intelligence has raised funding to further develop its picking robots, networked intelligence, and commercial deployments.",
+   "url": "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/Tutor_Sonny.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:25:59+00:00",
+   "rank": 1
+  },
+  {
+   "id": "rb-gentherm-designs-thermaffyx-to-protect-move-patients-dur",
+   "title": "Gentherm designs ThermAffyx to protect, move patients during robotic surgeries",
+   "summary": "ThermAffyx addresses secure positioning and heating of patients for robot-assisted surgical procedures with a minimal OR footprint.",
+   "url": "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/",
+   "source": "The Robot Report",
+   "image": "https://www.therobotreport.com/wp-content/uploads/2026/11/ThermAffyx.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:06:36+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-top-10-robotics-developments-of-october-2026",
    "title": "Top 10 robotics developments of October 2026",
    "summary": "Last month, we celebrated the 20th anniversary of RoboBusiness, whic is being rebranded to Robotics Summit & Expo West. The post Top 10 robotics developments of October 2026 appeared first on The Robot Report .",
@@ -82,34 +110,6 @@
    ],
    "date": "2026-11-01",
    "ts": "2026-11-01T13:00:31+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-unusual-robotic-animals-can-prove-their-utility",
-   "title": "Unusual robotic animals can prove their utility",
-   "summary": "Robotic animals are designed to be helpful rather than scary, showing promise in disaster recovery, utility inspection, and companionship.",
-   "url": "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/",
-   "source": "The Robot Report",
-   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Beetle_robot.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T12:30:46+00:00",
-   "rank": 1
-  },
-  {
-   "id": "rb-percepto-launches-axion-rb-platform-to-unify-inspection",
-   "title": "Percepto launches Axion AI platform to unify inspection data analysis",
-   "summary": "Percepto has launched Axion, a hardware-agnostic physical AI platform delivering visibility across mission-critical infrastructure.",
-   "url": "https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/",
-   "source": "The Robot Report",
-   "image": "https://www.therobotreport.com/wp-content/uploads/2026/10/Percepto-Axion-featured.jpg",
-   "tags": [
-    "Robots"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T19:05:34+00:00",
    "rank": 1
   },
   {
@@ -366,34 +366,100 @@
   }
  ],
  "date": "2026-11-02",
- "updated": "2026-11-02T18:24+00:00",
+ "updated": "2026-11-02T21:26+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
-   "id": "a-crispr-gene-boost-reduces-seizures-and-strengthens-muscles",
-   "title": "A CRISPR gene boost reduces seizures and strengthens muscles in mice",
-   "summary": "Some genetic diseases leave cells without a crucial protein. One possible treatment is to persuade genes already inside those cells to work harder, but the necessary machinery can be difficult to deliver, especially…",
-   "url": "https://phys.org/news/2026-11-crispr-gene-boost-seizures-muscles.html",
+   "id": "molecular-dinitrogen-anions-pave-the-way-for-low-temperature",
+   "title": "Molecular dinitrogen anions pave the way for low-temperature ammonia synthesis",
+   "summary": "While ammonia (NH₃) is best known for its role in fertilizer production, it is attracting attention as a carbon-free hydrogen carrier, potentially offering a practical way to store and transport clean fuel.",
+   "url": "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-crispr-gene-boost-re.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/molecular-dinitrogen-a.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T21:20:08+00:00"
+  },
+  {
+   "id": "traces-of-ancient-blood-found-in-115-million-year-old-dinosa",
+   "title": "Traces of ancient blood found in 115 million-year-old dinosaur fossil, new study claims",
+   "summary": "Chemical signatures found in a Brazilian dinosaur bone may be preserved red blood cells, a new study suggests, but not all experts agree.",
+   "url": "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/tP8biqLnSXU7zcSy7hMKFB-1920-80.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T18:20:01+00:00"
+   "ts": "2026-11-02T21:01:07+00:00"
   },
   {
-   "id": "researchers-may-have-solved-a-puzzling-contradiction-in-the",
-   "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
-   "summary": "Samples from the asteroid Ryugu, and from carbonaceous chondrites that have crashed on Earth, present an apparent contradiction. Their fine-grained matrices have widely varied compositions of their clay-like minerals.",
-   "url": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/162173_Ryugu_brightened_20261102_170333.jpg",
+   "id": "ai-giving-every-team-a-data-scientist-with-grok-bot",
+   "title": "Giving every team a data scientist with Grok Bot",
+   "summary": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+   "url": "https://x.ai/news/data-bot",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "rank": 0
+  },
+  {
+   "id": "new-star-trek-the-original-voyages-book-traces-the-stellar-l",
+   "title": "New 'Star Trek: The Original Voyages' book traces the stellar legacy of the bold sci-fi brand",
+   "summary": "Keep the 60th anniversary party going with this visual salute to the series that launched a legacy",
+   "url": "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/tNaLrqsTubRcYeZhvZeqyk-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T18:08:23+00:00"
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "id": "dinosaur-blood-cells-detected-in-115-million-year-old-fossil",
+   "title": "Dinosaur Blood Cells Detected in 115-Million-Year-Old Fossil",
+   "summary": "Don't pack your bags for Jurassic Park just yet though. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+   "url": "https://www.sciencealert.com/dinosaur-blood-cells-detected-in-115-million-year-old-fossil",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/11/DinoRedBlood-1-1200x675.png",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T20:00:00+00:00"
+  },
+  {
+   "id": "the-jwst-may-have-found-where-heavy-black-hole-seeds-formed",
+   "title": "The JWST May Have Found Where Heavy Black Hole Seeds Formed",
+   "summary": "Astrophysicists think that black holes grow through a hierarchical merger framework. But the elusive Intermediate Mass Black Holes are the missing link between stellar mass black holes, and the gargantuan supermassive…",
+   "url": "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/Star_clusters_in_the_Cosmic_Gems_arc_annotated_20261030_221231.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:28:28+00:00"
+  },
+  {
+   "id": "nasa-s-chapea-crew-returns-to-earth",
+   "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+   "summary": "The four-member Crew Health and Performance Exploration Analog (CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026.",
+   "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2026e424293orig.jpg?w=2048",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:50:42+00:00"
   },
   {
    "id": "ai-deepseek-open-sources-dsh-superagent-a-router-worker-cod",
@@ -423,32 +489,6 @@
    "ts": "2026-11-02T17:19:12+00:00"
   },
   {
-   "id": "james-webb-space-telescope-uncovers-new-clues-about-the-orig",
-   "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
-   "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
-   "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T17:00:00+00:00"
-  },
-  {
-   "id": "scientists-witness-a-mysterious-sexual-bond-between-a-bull-a",
-   "title": "Scientists Witness a Mysterious Sexual Bond Between a Bull And a Male Donkey",
-   "summary": "\"Animal behavior is not a picture painted in black and white: It uses the whole palette, with all the colors of the rainbow.\" ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI.",
-   "url": "https://www.sciencealert.com/scientists-witness-a-mysterious-sexual-bond-between-a-bull-and-a-male-donkey",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/11/Achille-with-Patroclo-CREDIT-Andre-B.-da-Cruz-2560x1440-1-1200x675.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T16:00:00+00:00"
-  },
-  {
    "id": "is-there-anything-left-in-the-dream-of-cold-fusion",
    "title": "Is There Anything Left in the Dream of Cold Fusion?",
    "summary": "Dig a little deeper and you’ll find a thriving research program with exotic atoms that won’t solve the energy crisis but stretches the boundaries of physics.",
@@ -460,33 +500,6 @@
    ],
    "date": "2026-11-02",
    "ts": "2026-11-02T15:48:57+00:00"
-  },
-  {
-   "id": "ai-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-th",
-   "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
-   "summary": "Nace AI open-sources Drex Max v1, a 27B multimodal decision model scoring 67.52 that runs on Apple Silicon. The post Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon appeared…",
-   "url": "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-1-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-01",
-   "ts": "2026-11-01T08:10:07+00:00",
-   "rank": 1
-  },
-  {
-   "id": "nasa-s-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwar",
-   "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
-   "summary": "NASA’s Hubble studied 37 nearby dwarf galaxies and found that much of the oxygen they expected to see is missing.",
-   "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/releases/2026/11/STScI-01M4RST3TGWT2T53FVXQBSP75D.jpg?w=1536&#038;h=990&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T15:00:39+00:00"
   },
   {
    "id": "icecube-detects-ghost-particles-with-10-billion-times-the-en",
@@ -515,31 +528,18 @@
    "ts": "2026-11-02T13:01:50+00:00"
   },
   {
-   "id": "now-you-actually-have-a-blood-test-psychiatry-s-bible-the-d",
-   "title": "'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health.",
-   "summary": "The next edition of the \"Diagnostic and Statistical Manual Of Mental Disorders\" will include biological factors like genetics in studying and diagnosing psychiatric conditions, according to psychiatrist Anand Kumar .",
-   "url": "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/6geMfLL8DXcA7Hdx6MvxAM-1920-80.jpg",
-   "tags": [
-    "Health"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T11:00:00+00:00"
-  },
-  {
-   "id": "ai-nvidia-releases-auto-ontology-an-open-semantic-layer-tha",
-   "title": "NVIDIA Releases Auto Ontology: An Open Semantic Layer That Grounds AI Agent SQL",
-   "summary": "NVIDIA released Auto Ontology, an Apache 2.0 library that generates a semantic layer from enterprise metadata. It grounds agent SQL in certified definitions and serves context through MCP, CLI and API.",
-   "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+   "id": "ai-deep-principle-releases-hydrogen-1-0-a-753b-open-weight",
+   "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+   "summary": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences.",
+   "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-3-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-4-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T07:47:12+00:00",
-   "rank": 2
+   "ts": "2026-11-02T18:41:41+00:00",
+   "rank": 1
   },
   {
    "id": "a-flexible-new-route-to-designer-materials-built-from-nanopa",
@@ -555,30 +555,69 @@
    "ts": "2026-11-02T10:00:00+00:00"
   },
   {
-   "id": "400-000-year-old-fossilized-termite-nests-named-after-little",
-   "title": "400,000-year-old fossilized termite nests named after Little Karoo town",
-   "summary": "University of Cape Town (UCT) researchers recently named a series of approximately 400,000-year-old fossilized underground nests of an extinct termite species after Calitzdorp, the Little Karoo town near which they were…",
-   "url": "https://phys.org/news/2026-11-year-fossilized-termite-karoo-town.html",
+   "id": "from-wild-to-mild-friendly-foxes-show-changes-in-brain-regio",
+   "title": "From wild to mild: Friendly foxes show changes in brain region",
+   "summary": "Scientists studying the neurology of tame foxes identified changes in a part of the brain that has previously been associated with aggression, according to a new paper that compared the brains of domesticated…",
+   "url": "https://phys.org/news/2026-11-wild-mild-friendly-foxes-brain.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/uct-researchers-name-4-2.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-wild-to-mild-frie.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T18:00:01+00:00"
+   "ts": "2026-11-02T21:00:06+00:00"
   },
   {
-   "id": "a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-fo",
-   "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
-   "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
-   "url": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
+   "id": "what-s-up-november-2026-skywatching-tips-from-nasa",
+   "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+   "summary": "Meteor Showers, a Spacecraft Milestone, and a Supermoon Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1’s light-day milestone, and watch November’s supermoon.",
+   "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+   "source": "NASA",
+   "image": "https://science.nasa.gov/wp-content/uploads/2023/07/moonrise-at-vasquez-rocks-credit-nasa-preston-dyches-cc-by-nc-2.0.jpg?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T15:00:00+00:00"
+   "ts": "2026-11-02T18:19:58+00:00"
+  },
+  {
+   "id": "researchers-may-have-solved-a-puzzling-contradiction-in-the",
+   "title": "Researchers May Have Solved a Puzzling Contradiction in the Ryugu Sample",
+   "summary": "Samples from the asteroid Ryugu, and from carbonaceous chondrites that have crashed on Earth, present an apparent contradiction. Their fine-grained matrices have widely varied compositions of their clay-like minerals.",
+   "url": "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/162173_Ryugu_brightened_20261102_170333.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:08:23+00:00"
+  },
+  {
+   "id": "james-webb-space-telescope-uncovers-new-clues-about-the-orig",
+   "title": "James Webb Space Telescope uncovers new clues about the origins of 'interstellar invader' comet 3I/ATLAS",
+   "summary": "The findings are another clue towards understanding the origins of 3I/ATLAS and the planet-forming conditions around other stars.",
+   "url": "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/9mA3zrpui3mS5HYJHvw4fD-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T17:00:00+00:00"
+  },
+  {
+   "id": "scientists-witness-a-mysterious-sexual-bond-between-a-bull-a",
+   "title": "Scientists Witness a Mysterious Sexual Bond Between a Bull And a Male Donkey",
+   "summary": "\"Animal behavior is not a picture painted in black and white: It uses the whole palette, with all the colors of the rainbow.\" ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI.",
+   "url": "https://www.sciencealert.com/scientists-witness-a-mysterious-sexual-bond-between-a-bull-and-a-male-donkey",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/11/Achille-with-Patroclo-CREDIT-Andre-B.-da-Cruz-2560x1440-1-1200x675.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T16:00:00+00:00"
   },
   {
    "id": "melting-permafrost-has-birthed-a-new-type-of-large-landslide",
@@ -589,19 +628,6 @@
    "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102626_NO_frozenlandslides_main.jpg?w=800",
    "tags": [
     "Earth"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T14:00:00+00:00"
-  },
-  {
-   "id": "a-strange-new-theory-helps-explain-why-our-universe-has-only",
-   "title": "A Strange New Theory Helps Explain Why Our Universe Has Only One Dimension of Time",
-   "summary": "Why does time only move in one direction? ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-   "url": "https://www.sciencealert.com/a-strange-new-theory-helps-explain-why-our-universe-has-only-one-dimension-of-time",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/11/TimeDimension-1200x675.png",
-   "tags": [
-    "Space"
    ],
    "date": "2026-11-02",
    "ts": "2026-11-02T14:00:00+00:00"
@@ -620,6 +646,19 @@
    "ts": "2026-11-02T13:01:26+00:00"
   },
   {
+   "id": "now-you-actually-have-a-blood-test-psychiatry-s-bible-the-d",
+   "title": "'Now you actually have a blood test': Psychiatry's bible, the DSM, is getting upgraded to include biological markers. A psychiatrist explains what that means for mental health.",
+   "summary": "The next edition of the \"Diagnostic and Statistical Manual Of Mental Disorders\" will include biological factors like genetics in studying and diagnosing psychiatric conditions, according to psychiatrist Anand Kumar .",
+   "url": "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/6geMfLL8DXcA7Hdx6MvxAM-1920-80.jpg",
+   "tags": [
+    "Health"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T11:00:00+00:00"
+  },
+  {
    "id": "nasa-reveals-a-haunting-skull-hidden-in-antarctica-s-ice",
    "title": "NASA reveals a haunting skull hidden in Antarctica’s ice",
    "summary": "NASA satellites have captured an eerie, skull-shaped formation on a remote Antarctic island, but its haunting appearance conceals a troubling warning about melting glaciers.",
@@ -633,19 +672,6 @@
    "ts": "2026-11-02T09:50:36+00:00"
   },
   {
-   "id": "apod-2026-november-2-a-long-cloud-on-mars",
-   "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
-   "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T05:05:00+00:00"
-  },
-  {
    "id": "mit-engineers-design-a-safer-more-efficient-vaccination-syst",
    "title": "MIT engineers design a safer, more efficient vaccination system for farmed fish",
    "summary": "Water-resistant microneedles made from food-grade silk could deliver vaccines to help prevent the spread of disease in aquaculture.",
@@ -657,6 +683,71 @@
    ],
    "date": "2026-11-02",
    "ts": "2026-11-02T05:00:00+00:00"
+  },
+  {
+   "id": "a-new-map-of-empty-space-challenges-a-tranquil-picture-of-th",
+   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
+   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
+   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
+   "source": "Quanta Magazine",
+   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-10-30",
+   "ts": "2026-10-30T14:52:05+00:00"
+  },
+  {
+   "id": "a-new-way-to-make-better-use-of-ruthenium-in-single-atom-cat",
+   "title": "A new way to make better use of ruthenium in single-atom catalysts",
+   "summary": "Ruthenium (Ru) is a valuable metal used in catalysts to speed up chemical reactions in many industrial processes. It can help improve efficiency and reduce the energy needed for chemical production.",
+   "url": "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-way-to-make-bett.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T20:40:08+00:00"
+  },
+  {
+   "id": "a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-fo",
+   "title": "A rainbow of ancient rocks on Mars | Space photo of the day for Nov. 2, 2026",
+   "summary": "In this image, we can see a colorful view of an ancient, rocky Martian hill.",
+   "url": "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/qrVGgKSEJE8WP8FDPfjT3h-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T15:00:00+00:00"
+  },
+  {
+   "id": "30-000-year-old-dna-reveals-ice-age-europeans-were-far-more",
+   "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
+   "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated.",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
+   "source": "ScienceDaily",
+   "image": "https://www.sciencedaily.com/images/1920/primeval-caveman-family-around-fire.webp",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T07:30:31+00:00"
+  },
+  {
+   "id": "apod-2026-november-2-a-long-cloud-on-mars",
+   "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+   "summary": "APOD Science APOD APOD: 2026 November 2 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg?w=1920&#038;h=1200&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T05:05:00+00:00"
   },
   {
    "id": "new-research-resolves-the-mystery-behind-van-gogh-s-the-star",
@@ -685,84 +776,6 @@
    "ts": "2026-11-01T11:00:00+00:00"
   },
   {
-   "id": "a-new-map-of-empty-space-challenges-a-tranquil-picture-of-th",
-   "title": "A New Map of ‘Empty’ Space Challenges a Tranquil Picture of the Galaxy",
-   "summary": "For decades, astronomers treated the interstellar medium as a static backdrop to the goings-on of the universe. Now, a wave of 3D mapping is bringing the interstellar medium’s dynamic nature into focus.",
-   "url": "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/",
-   "source": "Quanta Magazine",
-   "image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Mapping-ISM-cr.NASA-Default.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:52:05+00:00"
-  },
-  {
-   "id": "volcanic-eruptions-in-the-tropics-are-a-major-factor-in-eart",
-   "title": "Volcanic eruptions in the tropics are a major factor in Earth's thermostat",
-   "summary": "Volcanic eruptions are known for their spectacular visual displays of vivid lava, as well as the devastating impacts they can have on the environment and the communities who live nearby.",
-   "url": "https://phys.org/news/2026-11-volcanic-eruptions-tropics-major-factor.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/volcanic-eruptions-in.jpg",
-   "tags": [
-    "Earth"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T17:40:06+00:00"
-  },
-  {
-   "id": "30-000-year-old-dna-reveals-ice-age-europeans-were-far-more",
-   "title": "30,000-year-old DNA reveals Ice Age Europeans were far more connected than we thought",
-   "summary": "Scientists have uncovered surprising DNA evidence that Europeans living more than 30,000 years ago were connected across vast distances, challenging the idea that ancient populations remained largely isolated.",
-   "url": "https://www.sciencedaily.com/releases/2026/10/261031221153.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/primeval-caveman-family-around-fire.webp",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T07:30:31+00:00"
-  },
-  {
-   "id": "rocket-lab-launches-japanese-earth-observing-satellite-on-99",
-   "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
-   "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-02",
-   "ts": "2026-11-02T06:20:05+00:00"
-  },
-  {
-   "id": "martian-polar-crater-ice-shifts-with-seasonal-frost",
-   "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
-   "summary": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice.",
-   "url": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/7061_Mars-Crater-North-Layered-Deposits-MRO-HIRISE-full2.jpg_750_20261101_030553.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-01",
-   "ts": "2026-11-01T03:06:40+00:00"
-  },
-  {
-   "id": "astronomers-may-have-been-wrong-about-what-ended-the-cosmic",
-   "title": "Astronomers may have been wrong about what ended the 'Cosmic Dark Age'",
-   "summary": "How did the universe transition from an impenetrable fog of hydrogen into the bright and starlit cosmos we see today? Astronomers think they're onto the answer.",
-   "url": "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/jX8FNSuupiTtPkLLRAAUqT-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T15:00:00+00:00"
-  },
-  {
    "id": "zombies-are-real-just-ask-the-parasites-taking-over-the-bodi",
    "title": "Zombies are real – just ask the parasites taking over the bodies and brains of insects and rodents, leading them to their doom",
    "summary": "Parasitic fungi, wasps, worms and amoeba can control the behavior of their hosts in various horrifying ways.",
@@ -774,19 +787,6 @@
    ],
    "date": "2026-10-30",
    "ts": "2026-10-30T20:13:37+00:00"
-  },
-  {
-   "id": "nasa-releases-max-power-key-events-for-media-participants",
-   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-   "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov.",
-   "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T19:31:02+00:00"
   },
   {
    "id": "this-halloween-amateur-astronomers-may-be-in-for-a-dwarf-pla",
@@ -828,17 +828,30 @@
    "ts": "2026-10-29T15:11:57+00:00"
   },
   {
-   "id": "single-molecules-could-provide-the-building-blocks-for-futur",
-   "title": "Single molecules could provide the building blocks for future quantum networks",
-   "summary": "Quantum computers rely on qubits as their units of information. To connect them into a larger network across long distances, they need to transmit quantum information using light.",
-   "url": "https://phys.org/news/2026-11-molecules-blocks-future-quantum-networks.html",
+   "id": "rna-protein-interactions-could-lead-to-new-coronavirus-drug",
+   "title": "RNA-protein interactions could lead to new coronavirus drug targets",
+   "summary": "A study co-led by a University of California, Riverside, biomedical scientist has identified new targets for coronavirus antiviral drugs, including treatments that may be less vulnerable to the rapid evolution of these…",
+   "url": "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/single-molecules-could.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/sars-cov-2-1.jpg",
    "tags": [
-    "Physics"
+    "Biology"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T17:00:05+00:00"
+   "ts": "2026-11-02T20:20:03+00:00"
+  },
+  {
+   "id": "rocket-lab-launches-japanese-earth-observing-satellite-on-99",
+   "title": "Rocket Lab launches Japanese Earth-observing satellite on 99th mission to date (video)",
+   "summary": "Rocket Lab launched its 99th mission to date today (Nov. 2), sending a private Japanese Earth-observing satellite toward orbit.",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/szkgT2bv2ViuYuz35aGhGZ-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T06:20:05+00:00"
   },
   {
    "id": "nasa-s-hubble-and-webb-discover-ancient-worlds-that-remember",
@@ -854,56 +867,43 @@
    "ts": "2026-11-02T03:07:01+00:00"
   },
   {
-   "id": "planetary-defense-how-military-and-civil-satellites-are-watc",
-   "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
-   "summary": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
-   "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/drwYrYiYJJqmLo4dZ34YaM-1920-80.jpg",
+   "id": "martian-polar-crater-ice-shifts-with-seasonal-frost",
+   "title": "Martian Polar Crater Ice Shifts with Seasonal Frost",
+   "summary": "The planet Mars shares many landforms and weather patterns with the Earth, including changing seasons, volcanoes, canyons, dust storms and dust devils, and water ice.",
+   "url": "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/7061_Mars-Crater-North-Layered-Deposits-MRO-HIRISE-full2.jpg_750_20261101_030553.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-01",
-   "ts": "2026-11-01T15:00:00+00:00"
+   "ts": "2026-11-01T03:06:40+00:00"
   },
   {
-   "id": "ceres-water-ice-can-mask-massive-surface-salt-deposits",
-   "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
-   "summary": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system.",
-   "url": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/ceres_bright_spots_750_20261031_233536.jpg",
+   "id": "astronomers-may-have-been-wrong-about-what-ended-the-cosmic",
+   "title": "Astronomers may have been wrong about what ended the 'Cosmic Dark Age'",
+   "summary": "How did the universe transition from an impenetrable fog of hydrogen into the bright and starlit cosmos we see today? Astronomers think they're onto the answer.",
+   "url": "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/jX8FNSuupiTtPkLLRAAUqT-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-31",
-   "ts": "2026-10-31T23:35:52+00:00"
+   "ts": "2026-10-31T15:00:00+00:00"
   },
   {
-   "id": "ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old",
-   "title": "Ghostly statue of 'shrine maiden' discovered at 1,500-year-old burial mound in Japan",
-   "summary": "Archaeologists have unearthed a human-shaped funeral offering that may represent an ancient Japanese priestess.",
-   "url": "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/miiUsh97UmHy7w3RvGGQ9o-1920-80.png",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T13:00:00+00:00"
-  },
-  {
-   "id": "nasa-s-james-webb-space-telescope-captures-eerie-cat-s-head",
-   "title": "NASA’s James Webb Space Telescope Captures Eerie Cat’s Head",
-   "summary": "Intricate structures within the Cat’s Head Nebula are illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026.",
-   "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+   "id": "nasa-releases-max-power-key-events-for-media-participants",
+   "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+   "summary": "America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov.",
+   "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
    "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/full-res-for-display.png?w=2048",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/10/grc-2026-c-06389large.jpg?w=1920",
    "tags": [
     "Space"
    ],
    "date": "2026-10-30",
-   "ts": "2026-10-30T15:56:26+00:00"
+   "ts": "2026-10-30T19:31:02+00:00"
   },
   {
    "id": "nasa-s-swift-telescope-will-face-a-fiery-demise-after-a-fail",
@@ -958,30 +958,30 @@
    "ts": "2026-10-28T16:04:18+00:00"
   },
   {
-   "id": "overlooked-material-in-ryugu-and-meteorites-may-explain-how",
-   "title": "Overlooked material in Ryugu and meteorites may explain how water spared ancient chemistry",
-   "summary": "Asteroid Ryugu and some carbonaceous meteorites, which are thought to have similar origins in the early solar system, are known as chemically \"primitive\" materials because they preserve the chemical composition of the…",
-   "url": "https://phys.org/news/2026-11-overlooked-material-ryugu-meteorites-ancient.html",
+   "id": "historical-records-reveal-the-bitter-truth-about-17th-centur",
+   "title": "Historical records reveal the bitter truth about 17th-century Transylvania's climate",
+   "summary": "For roughly five centuries from about 1300, Europe experienced periods of unusually cold weather and extreme conditions collectively known as the Little Ice Age.",
+   "url": "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/hidden-in-plain-sight-4.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/historical-records-rev.jpg",
    "tags": [
-    "Tech"
+    "Earth"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T16:40:13+00:00"
+   "ts": "2026-11-02T20:17:08+00:00"
   },
   {
-   "id": "on-this-day-in-space-nov-1-1962-the-soviet-union-launches-ma",
-   "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
-   "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
-   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
+   "id": "planetary-defense-how-military-and-civil-satellites-are-watc",
+   "title": "Planetary defense: How military and civil satellites are watching fireballs to help keep Earth safe from space rocks",
+   "summary": "Satellites are watching fireballs blaze through Earth's atmosphere, strengthening planetary defense knowhow and helping scientists learn more about space debris impacts.",
+   "url": "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/drwYrYiYJJqmLo4dZ34YaM-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-01",
-   "ts": "2026-11-01T14:50:15+00:00"
+   "ts": "2026-11-01T15:00:00+00:00"
   },
   {
    "id": "common-pesticide-linked-to-2-5-times-the-risk-of-parkinson-s",
@@ -997,43 +997,30 @@
    "ts": "2026-11-01T12:33:13+00:00"
   },
   {
-   "id": "how-to-watch-blue-planet-iii-online-stream-david-attenboroug",
-   "title": "How to watch 'Blue Planet III' online: Stream David Attenborough's spectacular new series",
-   "summary": "How to watch \"Blue Planet III\" online as Sir David Attenborough returns with a brand new six-part series exploring the world's oceans with new camera tech.",
-   "url": "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/uZ4Kv9Ns5E8BCQDBUMrPe-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T11:00:00+00:00"
-  },
-  {
-   "id": "hera-probe-sees-asteroid-pair-separately-for-first-time",
-   "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
-   "summary": "Planetary defense is a growing concern among the scientific community, as efforts have been made to design and implement missions meant to deflect incoming threats to the Earth well in advance.",
-   "url": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
+   "id": "ceres-water-ice-can-mask-massive-surface-salt-deposits",
+   "title": "Ceres' Water Ice Can Mask Massive Surface Salt Deposits",
+   "summary": "The dwarf planet Ceres is arguably one of the most overlooked and underappreciated planetary objects in the entire solar system.",
+   "url": "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_pillars.png_750_20261031_014749.png",
+   "image": "https://www.universetoday.com/article_images/ceres_bright_spots_750_20261031_233536.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-10-31",
-   "ts": "2026-10-31T01:52:53+00:00"
+   "ts": "2026-10-31T23:35:52+00:00"
   },
   {
-   "id": "nasa-explores-potential-commercial-servicing-for-hubble-tele",
-   "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-   "summary": "NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.",
-   "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/2/27946391011_d40ff10573_h.jpg?w=1536&#038;h=1020&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "id": "ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old",
+   "title": "Ghostly statue of 'shrine maiden' discovered at 1,500-year-old burial mound in Japan",
+   "summary": "Archaeologists have unearthed a human-shaped funeral offering that may represent an ancient Japanese priestess.",
+   "url": "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/miiUsh97UmHy7w3RvGGQ9o-1920-80.png",
    "tags": [
-    "Space"
+    "Biology"
    ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T14:51:21+00:00"
+   "date": "2026-10-31",
+   "ts": "2026-10-31T13:00:00+00:00"
   },
   {
    "id": "a-proof-of-concept-test-can-spot-bladder-cancer-in-urine",
@@ -1075,30 +1062,30 @@
    "ts": "2026-10-28T20:30:00+00:00"
   },
   {
-   "id": "why-birds-speed-up-to-slow-down-the-physics-of-landing",
-   "title": "Why birds speed up to slow down: The physics of landing",
-   "summary": "Birds may not always take the flight path that physics suggests is the perfect landing, at the safest and lowest possible speed, using the least energy, according to new research.",
-   "url": "https://phys.org/news/2026-11-birds-physics.html",
+   "id": "stars-make-oxygen-for-small-galaxies-but-they-lose-most-of-i",
+   "title": "Stars make oxygen for small galaxies, but they lose most of it",
+   "summary": "Scientists examining data collected by NASA's Hubble Space Telescope have found that dozens of small galaxies contain far less oxygen than their stars are estimated to have produced.",
+   "url": "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/why-birds-speed-up-to.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-view-of-a-dwarf-gala.jpg",
    "tags": [
-    "Physics"
+    "Space"
    ],
    "date": "2026-11-02",
-   "ts": "2026-11-02T16:20:09+00:00"
+   "ts": "2026-11-02T20:00:02+00:00"
   },
   {
-   "id": "nasa-s-swift-space-telescope-is-about-to-crash-to-earth-wher",
-   "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
-   "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
-   "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+   "id": "on-this-day-in-space-nov-1-1962-the-soviet-union-launches-ma",
+   "title": "On this day in space! Nov. 1, 1962: The Soviet Union Launches Mars 1 spacecraft to Red Planet during the Space Race",
+   "summary": "On Nov. 1, 1962, the Soviet Union launched the Mars 1 spacecraft on a mission to fly by the Red Planet. Here's why it mattered.",
+   "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/ww8Hh6uwQSpHvZyBpY5qPJ-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-01",
-   "ts": "2026-11-01T13:00:00+00:00"
+   "ts": "2026-11-01T14:50:15+00:00"
   },
   {
    "id": "scientists-use-sound-waves-to-deliver-a-new-attack-on-deadly",
@@ -1114,43 +1101,30 @@
    "ts": "2026-11-01T10:49:13+00:00"
   },
   {
-   "id": "can-animals-lie-this-sneaky-bird-might-be-proof",
-   "title": "Can animals lie? This sneaky bird might be proof.",
-   "summary": "In his new book, \"Liars, Cheats and Copycats,\" biologist James O'Hanlon surveys deception across the animal kingdom and asks whether any of it adds up to lying.",
-   "url": "https://www.livescience.com/animals/birds/can-animals-lie-this-sneaky-bird-might-be-proof",
+   "id": "how-to-watch-blue-planet-iii-online-stream-david-attenboroug",
+   "title": "How to watch 'Blue Planet III' online: Stream David Attenborough's spectacular new series",
+   "summary": "How to watch \"Blue Planet III\" online as Sir David Attenborough returns with a brand new six-part series exploring the world's oceans with new camera tech.",
+   "url": "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/jJW5SnHPToEdwg2X57wxBk-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/uZ4Kv9Ns5E8BCQDBUMrPe-1920-80.jpg",
    "tags": [
-    "Biology"
+    "Space"
    ],
    "date": "2026-10-31",
-   "ts": "2026-10-31T10:00:00+00:00"
+   "ts": "2026-10-31T11:00:00+00:00"
   },
   {
-   "id": "what-could-split-a-black-hole-in-two",
-   "title": "What Could Split a Black Hole in Two?",
-   "summary": "We all know that black holes can collide. It has happened since black holes began to form, early in cosmic time. The result is always a clash that gives off gravitational waves and a giant bang.",
-   "url": "https://www.universetoday.com/articles/what-could-split-a-black-hole-in-two",
+   "id": "hera-probe-sees-asteroid-pair-separately-for-first-time",
+   "title": "Hera Probe Sees Asteroid Pair Separately for First Time",
+   "summary": "Planetary defense is a growing concern among the scientific community, as efforts have been made to design and implement missions meant to deflect incoming threats to the Earth well in advance.",
+   "url": "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time",
    "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/BH_STScI-01JTK6HX9T8G99AVRVYR22P7FX_20261030_034133.png",
+   "image": "https://www.universetoday.com/article_images/Hera_s_first_view_of_the_separate_Didymos_and_Dimorphos_asteroids_pillars.png_750_20261031_014749.png",
    "tags": [
     "Space"
    ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T21:30:00+00:00"
-  },
-  {
-   "id": "november-s-night-sky-notes-light-day-away",
-   "title": "November’s Night Sky Notes: Light-Day Away",
-   "summary": "Twin Travelers In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune.",
-   "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-   "source": "NASA",
-   "image": "https://science.nasa.gov/wp-content/uploads/2024/04/grand-tour.jpg?w=1200",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-10-30",
-   "ts": "2026-10-30T10:00:00+00:00"
+   "date": "2026-10-31",
+   "ts": "2026-10-31T01:52:53+00:00"
   },
   {
    "id": "seabirds-get-jet-lag-too-and-it-can-throw-them-a-bit-off-cou",
@@ -1190,9 +1164,49 @@
    ],
    "date": "2026-10-27",
    "ts": "2026-10-27T18:12:53+00:00"
+  },
+  {
+   "id": "long-term-observations-of-marine-clouds-reveal-how-in-cloud",
+   "title": "Long-term observations of marine clouds reveal how in-cloud motions shape rain",
+   "summary": "Research led by atmospheric scientists at the U.S. Department of Energy's (DOE) Brookhaven National Laboratory sheds new light on one of the fundamental challenges of weather forecasting: determining the conditions…",
+   "url": "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-journey-of-water-d.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T19:40:15+00:00"
+  },
+  {
+   "id": "nasa-s-swift-space-telescope-is-about-to-crash-to-earth-wher",
+   "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+   "summary": "It's unclear at the moment exactly when and where the Swift observatory will plunge to Earth. But researchers definitely have their eyes peeled.",
+   "url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/vrXD6fnzi9tqspZvKaeFBi-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-01",
+   "ts": "2026-11-01T13:00:00+00:00"
   }
  ],
  "ai": [
+  {
+   "id": "ai-giving-every-team-a-data-scientist-with-grok-bot",
+   "title": "Giving every team a data scientist with Grok Bot",
+   "summary": "Data Bot is a Team Bot in Grok Bot that the data science team teaches, so every team can query the warehouse, run analyses, and get answers the way a data scientist would.",
+   "url": "https://x.ai/news/data-bot",
+   "source": "xAI",
+   "image": "https://media.x.ai/v1/website/heres-your-og-image-i-used-the-grok-bot-og-template-in-pink-b3fd12e9.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T00:00:00+00:00",
+   "rank": 0
+  },
   {
    "id": "ai-deepseek-open-sources-dsh-superagent-a-router-worker-cod",
    "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
@@ -1206,6 +1220,20 @@
    "date": "2026-11-01",
    "ts": "2026-11-01T07:47:17+00:00",
    "rank": 0
+  },
+  {
+   "id": "ai-deep-principle-releases-hydrogen-1-0-a-753b-open-weight",
+   "title": "Deep Principle Releases Hydrogen-1.0: A 753B Open-Weight Model for Scientific Discovery",
+   "summary": "Deep Principle has released Hydrogen-1.0, an open-weight scientific model for chemistry, materials science and life sciences.",
+   "url": "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-88881-4-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-02",
+   "ts": "2026-11-02T18:41:41+00:00",
+   "rank": 1
   },
   {
    "id": "ai-nace-ai-open-sources-drex-max-v1-a-27b-decision-model-th",
@@ -1247,20 +1275,6 @@
    ],
    "date": "2026-11-02",
    "ts": "2026-11-02T07:28:29+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-meet-factory-droid-1-0-a-model-independent-coding-agent",
-   "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
-   "summary": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench 4 runs, Droid scores 65.2% with Claude Opus 5.5 at $4.73 per passed…",
-   "url": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
-   "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-31",
-   "ts": "2026-10-31T10:38:14+00:00",
    "rank": 2
   },
   {
@@ -1541,20 +1555,6 @@
    ],
    "date": "2026-10-22",
    "ts": "2026-10-22T00:00:00+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-using-grok-bot-to-detect-and-respond-to-incidents",
-   "title": "Using Grok Bot to detect and respond to incidents",
-   "summary": "IncidentWatch spots ticket spikes before internal alerts fire. IncidentSweep clears the related backlog in an approved batch.",
-   "url": "https://x.ai/news/incident-sweep",
-   "source": "xAI",
-   "image": "https://media.x.ai/v1/website/ksh-incident-og-0069bc57.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-10-20",
-   "ts": "2026-10-20T00:00:00+00:00",
    "rank": 2
   }
  ]
