@@ -53,9 +53,6 @@
  "https://www.anthropic.com/news/s1-sec": {
   "s": "Anthropic, an AI safety company, filed paperwork with the SEC for an initial public offering. This filing means the company plans to sell shares of its stock to the public, raising capital for its operations."
  },
- "https://news.mit.edu/2026/implantable-device-uses-ultrasound-improve-drug-delivery-brain-1026": {
-  "s": "An implantable device combining ultrasound and fluid delivery has been developed. This could help deliver drugs directly to the brain, potentially preventing the recurrence of aggressive brain tumors."
- },
  "https://simonwillison.net/2026/Oct/26/gpt-61-terra/": {
   "s": "GPT-6.1 Terra, a new model from OpenAI, emphasizes visual reasoning and computer use, promising to excel in tasks like drafting proposals, interpreting technical drawings, and editing videos. This model is priced at a fraction of the cost of its predecessor, making it more accessible for repetitive tasks."
  },
@@ -129,9 +126,6 @@
  },
  "https://www.universetoday.com/articles/this-gamma-ray-burst-wasnt-dim-it-was-just-misunderstood": {
   "s": "NASA's Fermi Gamma-ray Space Telescope observed a gamma-ray burst (GRB) on March 10, 2026, that emitted a gamma-ray flash lasting nearly one minute, significantly longer than usual. This unusual behavior of the burst suggests its source may be more complex or distant, requiring further study to fully understand its nature and origin."
- },
- "https://www.livescience.com/space/astronomy/jupiter-saturn-uranus-and-neptune-will-probably-destroy-each-other-after-the-sun-runs-out-of-fuel-new-simulations-hint": {
-  "s": "Jupiter, Saturn, Uranus and Neptune could collide sooner than experts expected, simulations indicate. This means the outer solar system will become chaotic much faster than previously thought."
  },
  "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/": {
   "s": "NASA's James Webb Space Telescope captured an eerie mid-infrared image of structures within the Cat's Head Nebula, revealing intricate details sculpted by massive stars. The nebula's distinctive shape is a result of stellar feedback eroding surrounding gas and dust, leaving denser material intact."
@@ -225,15 +219,8 @@
  "https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/": {
   "s": "Robotic animals designed to be helpful are being developed, showing promise in disaster recovery, utility inspection, and companionship. These devices mimic real or imaginary creatures with sensors, speakers, motors, and processors that analyze external signals. They matter because they offer practical solutions, like cockroaches aiding in rescue operations, potentially saving lives."
  },
- "https://phys.org/news/2026-10-ultracold-atoms-simulate-hard-antimatter.html": {
-  "s": "Ultracold atoms trapped in an optical lattice simulated the rare process of particle-antiparticle pair production, predicted by quantum electrodynamics. Researchers created a controllable laboratory model with cold atoms to study this effect, which is difficult to observe in natural settings."
- },
  "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints": {
   "s": "Astronomers may have misidentified the cosmic event that cleared the universe's hydrogen fog, transforming darkness into light. This finding challenges previous theories about how the universe evolved."
- },
- "https://phys.org/news/2026-10-giant-virus-yields-potassium-channel.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure it works reliably in warehouses. She simulates years of wear and tear on robot parts in weeks by accelerating the testing process, using more aggressive forces than a robot would face in real conditions. Her work helps design a robot that can handle the dynamic environments of warehouses without breaking down."
@@ -319,15 +306,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.sciencealert.com/scientists-asked-50-people-to-map-their-near-death-experiences-an-eerie-pattern-emerged": {
-  "s": "Scientists solicited 50 individuals to depict visually their near-death experiences. Their findings showed a common geometry in these experiences, regardless of individual differences."
- },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the next model announced by the organization, featuring advanced cybersecurity and long-term capabilities. It ranks first in a cybersecurity intelligence index and shows significant gains in vulnerability detection and patching. The model's release aims to help cyber defenders with complex, long-term engineering tasks, with early access available through a Fairwind Program."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4 is a new model for simulating worlds in real-time, offering unprecedented realism and interactive features. This advancement matters because it enhances AGI development by enabling safe, variable simulations for training robots and creating new interactive experiences."
- },
  "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite": {
   "s": "Rocket Lab will launch a Japanese satellite today. This matters as it showcases the company's capability to deliver private Earth observation satellites into orbit."
  },
@@ -345,5 +323,21 @@
  },
  "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/": {
   "s": "qwenGPU compiles a 4-lane SIMT GPU into a 45 untrained layers model named Qwen3.5-2B. This model writes every CUDA launch step itself, using Gated DeltaNet state as registers and memory. The technique matters because it demonstrates how a GPU can be integrated into model weights, potentially enabling more efficient and specialized computations within AI models."
+ },
+ "https://www.sciencealert.com/scientists-separated-psilocybins-brain-benefits-from-its-hallucinogenic-trip": {
+  "s": "Scientists have developed a way to use psilocybin for treating mental disorders without the hallucinogenic effects. This study shows how psilocybin can improve brain connectivity without causing the trip-like sensations, which could lead to safer treatments for depression and PTSD."
+ },
+ "https://phys.org/news/2026-10-shrouded-milky-star-cluster-universe.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health": {
+  "s": "The next version of the DSM will incorporate biological factors such as genetics in diagnosing mental health conditions. This upgrade matters because it aims to use more scientific evidence in mental health diagnoses, potentially improving accuracy and treatment options."
+ },
+ "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102": {
+  "s": "Researchers at MIT developed a new method to control how nanoparticles link together, creating materials for various applications. This advance is important because it solves a long-standing challenge in making nanoparticle-based materials, allowing for more precise control over their performance."
+ },
+ "https://phys.org/news/2026-10-enzyme-role-earliest-infant-gut.html": {
+  "s": "Microbiologists discovered that an enzyme typically used in other processes is crucial for bacteria to access specific sugars in breast milk. This finding, published in Nature Communications, highlights the complexity of infant gut microbiota and the importance of certain nutrients found in breast milk."
  }
 }
