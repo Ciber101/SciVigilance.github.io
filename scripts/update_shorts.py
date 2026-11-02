@@ -204,6 +204,24 @@ def merge(primary, old_list):
     return out
 
 
+def drop_blocked(shorts):
+    """Remove Shorts marc ruled off-topic (data/blocklist.json ids and terms)."""
+    try:
+        b = json.load(open(os.path.join(ROOT, 'data', 'blocklist.json'), encoding='utf-8'))
+    except Exception:
+        return shorts
+    ids = set(b.get('youtube_ids') or [])
+    terms = [t.lower() for t in (b.get('terms') or [])]
+    out = []
+    for s in shorts:
+        blob = (str(s.get('title', '')) + ' ' + str(s.get('description', ''))).lower()
+        if s.get('id') in ids or any(t in blob for t in terms):
+            print('blocklisted short dropped:', s.get('id'), s.get('title', '')[:60])
+            continue
+        out.append(s)
+    return out
+
+
 def main():
     old = load_old()
     shorts = None
@@ -246,6 +264,7 @@ def main():
         # RSS only covers the newest ~15 uploads; keep older known Shorts.
         shorts = merge(shorts, old.get('shorts', []))
 
+    shorts = drop_blocked(shorts)
     payload = {'channel': CHANNEL_URL, 'shorts': shorts}
     json.dump(payload, open(OUT, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     print('wrote', OUT, 'source=', source, 'shorts=', len(shorts))
