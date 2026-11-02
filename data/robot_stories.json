@@ -1,7 +1,29 @@
 {
-  "updated": "2026-11-01T13:37:59-08:00",
-  "updated_pt": "Nov 1, 2026, 1:37 PM PT",
+  "updated": "2026-11-02T01:45:59-08:00",
+  "updated_pt": "Nov 2, 2026, 1:45 AM PT",
   "stories": [
+    {
+      "title": "AGIBOT says 110 of its A3 humanoid robots danced in unison to set a Guinness World Records title",
+      "tag": "Humanoids",
+      "date": "2026-11-01",
+      "paragraphs": [
+        "Chinese humanoid robot maker AGIBOT said in a post on X late on Nov. 1, 2026 (PT) that 110 of its A3 humanoid robots danced in unison, setting the Guinness World Records title for the most humanoid robots dancing simultaneously. The post included a video of the performance about one minute long.",
+        "According to AGIBOT, the robots were coordinated using UWB (ultra-wideband) positioning with centimeter-level accuracy and the company's LinkBots multi-robot control system, and all 110 performed in sync, completing the challenge \"without a single error.\" The company said the performance showcased the coordination capabilities behind large-scale robot deployments.",
+        "The record claim comes from AGIBOT's own post, which does not say where or when the attempt took place."
+      ],
+      "sources": [
+        {
+          "name": "AGIBOT on X",
+          "url": "https://x.com/AGIBOTofficial/status/2117158349448139116",
+          "date": "2026-11-01"
+        }
+      ],
+      "image": {
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2117156796381229056/img/7QmgbXu3n8BVsgSJ.jpg",
+        "credit": "AGIBOT, via X",
+        "alt": "Rows of AGIBOT A3 humanoid robots performing a synchronized dance"
+      }
+    },
     {
       "title": "Beijing's NeodraDynamics shows Neo1, a 13-foot hydraulic humanoid pitched for dangerous industrial jobs",
       "tag": "Humanoids",
@@ -22,33 +44,6 @@
         "url": "https://assets.newatlas.com/dims4/default/2450fe3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F7a%2F67%2Fbbe11c8b47b39b998f1ff9581cf2%2Fneodradynamics-robot.jpeg&na.image_optimisation=0",
         "credit": "NeodraDynamics, via New Atlas",
         "alt": "NeodraDynamics' 13-foot Neo1 hydraulic humanoid robot"
-      }
-    },
-    {
-      "title": "Agility Robotics now expects to raise about $465 million as it goes public through a SPAC merger",
-      "tag": "Humanoids",
-      "date": "2026-10-30",
-      "paragraphs": [
-        "Humanoid robot maker Agility Robotics and Churchill Capital Corp XI said on Oct. 30, 2026 that they expect Agility to raise about $465 million through its proposed merger with the special-purpose acquisition company, The Robot Report reports. According to Agility, that total includes about $164 million from Churchill XI's trust account, about $201 million from a common stock private investment led by Foxconn at $10 per share, and $100 million in equity funding already received after the deal was announced.",
-        "The Robot Report notes that the total is less than the $620 million Agility predicted, at a $2.5 billion valuation, when it first announced the planned combination in June. Agility expects the deal to close on Nov. 4, subject to shareholder approval and customary conditions, and said on X that it expects to begin trading on Nasdaq under the ticker AGLT on Nov. 5. The Salem, Oregon company has said it will be the first U.S. publicly traded, pure-play humanoid supplier with commercial deployments.",
-        "According to The Robot Report, Agility unveiled its Digit 5 humanoid last month and says it is on track to begin deliveries to early-access customers in the first half of 2027, with general availability targeted for the end of 2027. The company says it has more than $300 million in committed multi-year orders for Digit 5. In a September filing with the U.S. Securities and Exchange Commission, Agility reported $1.8 million in net sales in 2025, with customers across nine sites including Toyota, Mercado Libre and Schaeffler."
-      ],
-      "sources": [
-        {
-          "name": "The Robot Report",
-          "url": "https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/",
-          "date": "2026-10-30"
-        },
-        {
-          "name": "Agility Robotics on X",
-          "url": "https://x.com/agilityrobotics/status/2116174803258458468",
-          "date": "2026-10-30"
-        }
-      ],
-      "image": {
-        "url": "https://www.therobotreport.com/wp-content/uploads/2026/10/Agility_Digit_5.jpg",
-        "credit": "Agility Robotics, via The Robot Report",
-        "alt": "Agility Robotics' Digit 5 humanoid robot"
       }
     }
   ]

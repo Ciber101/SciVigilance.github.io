@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-01T01:39:03-07:00",
-  "updated_pt": "Nov 1, 2026, 1:39 AM PT",
+  "updated": "2026-11-02T01:45:59-08:00",
+  "updated_pt": "Nov 2, 2026, 1:45 AM PT",
   "stories": [
     {
       "title": "DeepSeek open-sources dsh-superagent, a research prototype of a coding agent that waits to be asked and splits work into parallel sessions",
@@ -31,31 +31,30 @@
       }
     },
     {
-      "title": "A hijacked version of Anthropic's Claude Code extension was served through Cursor's extension marketplace for about 11 hours",
-      "tag": "AI security",
-      "date": "2026-10-30",
+      "title": "NVIDIA releases Auto Ontology, an open-source layer meant to help AI agents query company data using trusted business definitions",
+      "tag": "AI",
+      "date": "2026-11-01",
       "paragraphs": [
-        "Cursor, which makes AI-assisted coding tools, published a security notice saying that maliciously modified versions of Anthropic's Claude Code extension, Anthropic.claude-code versions 2.1.312 and 2.1.313 for Windows and macOS, were available in the Cursor VS Code Extension Marketplace between about 2:27 a.m. and 1:35 p.m. PT on Oct. 29, 2026. Cursor said these versions were not developed by Anthropic and that the incident does not affect other extensions in its marketplace. Ars Technica reported on Oct. 30 that the compromise affected at most 5,000 users, according to Cursor, and that the malicious version was distributed through Anthropic's official account on Cursor.",
-        "According to Cursor, the extension collected host and user details such as hostname, username, operating system, environment variable names, configured Git email and public IP address, added an attacker-controlled SSH key, tried to enable the local SSH service and open a reverse SSH tunnel, and set up persistence through a LaunchAgent on macOS or a scheduled task on Windows. Cursor said that, because of errors in the malicious code and because turning on SSH needs administrator rights, the tunnel step would fail on most machines, but that the key, the persistence and the host-detail report still went through.",
-        "Cursor said it removed the malicious version as soon as it was detected, shut down the whole marketplace as a precaution, audited access and found no other tampered extensions, rotated its keys, rebuilt the marketplace and brought it back online. It also said it worked with the hosting provider to take the attacker's server offline. Ars Technica reported that, as of its story, neither Cursor nor Anthropic had explained how the attackers got control of the account, and that Anthropic had not yet issued a public notice to customers.",
-        "Cursor's notice tells anyone who installed or updated to those versions in that window to check their SSH authorized_keys file for a key labeled svc-telemetry, and gives remediation scripts for macOS and Windows. It warns that uninstalling the extension may not be enough, because the payload leaves standalone persistence scripts, and advises rotating credentials and sessions reachable from affected machines. Ars Technica's report described the affected version as 2.1.313 and said the code was written for Windows, macOS and Linux; Cursor's notice, updated Oct. 30 at 11:30 a.m. PT, lists versions 2.1.312 and 2.1.313 for Windows and macOS."
+        "MarkTechPost reported on Nov. 1, 2026 that NVIDIA has released Auto Ontology, an open library under the Apache 2.0 license. NVIDIA's GitHub page describes it as a library that builds a context layer from enterprise metadata, telling AI agents where data lives, what it means, whether and how to use it, and where it came from, and that serves this layer to any agent harness through MCP, a command-line tool and an API.",
+        "NVIDIA's repository states the motivation directly: \"a revenue metric answered faster is worth nothing if the number is wrong.\" According to the repository, the library generates ontologies from metadata, reconciles inconsistent definitions across systems, checks generated queries against certified definitions and returns provenance with every answer. MarkTechPost reports that NVIDIA's developer page frames the output as a starting ontology that business experts still test, refine and certify.",
+        "The repository lists four core services: a Next.js web front end, a FastAPI back end using LangChain, an ingestion worker that writes embeddings, and Postgres with pgvector. MarkTechPost reports that source databases can be Databricks, Postgres, Snowflake or DuckDB, and that the MCP server offers nine read-only tools with no tool for browsing raw schemas, which the outlet says NVIDIA chose on purpose so agents reach data through the semantic layer. By default it uses NVIDIA NIM endpoints with Nemotron models, according to the repository.",
+        "NVIDIA also publishes a separate evaluation harness, auto-ontology-eval, which compares a schema-only model against the ontology-grounded agent on benchmarks including BIRD, MarkTechPost reports. The outlet notes that the harness repository lists limitations, including that optional examples are given only to the ontology arm, so a gain measured with them reflects those inputs and not grounding alone."
       ],
       "sources": [
         {
-          "name": "Cursor",
-          "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-          "date": "2026-10-30"
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
+          "date": "2026-11-01"
         },
         {
-          "name": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-          "date": "2026-10-30"
+          "name": "NVIDIA on GitHub",
+          "url": "https://github.com/NVIDIA/auto-ontology"
         }
       ],
       "image": {
-        "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-1000x648.jpeg",
-        "credit": "Getty Images, via Ars Technica",
-        "alt": "Yellow caution tape"
+        "url": "https://raw.githubusercontent.com/NVIDIA/auto-ontology/main/docs/assets/arch.png",
+        "credit": "NVIDIA, via GitHub",
+        "alt": "NVIDIA Auto Ontology architecture diagram"
       }
     }
   ]
