@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-02T01:45:59-08:00",
- "updated_pt": "Nov 2, 2026, 1:45 AM PT",
+ "updated": "2026-11-02T07:39:14-08:00",
+ "updated_pt": "Nov 2, 2026, 7:39 AM PT",
  "stories": [
   {
    "title": "A ribbon-shaped cloud on Mars may form without any dust to seed it, a modeling study suggests",
@@ -28,6 +28,29 @@
     "url": "https://assets.science.nasa.gov/content/dam/science/cds/apod/apod/2026/november/MonsCloud_MarsExpress_1920.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
     "credit": "ESA, DLR, FU Berlin; processing by J. Cowart, via NASA APOD",
     "alt": "Mars Express view of the long, thin Arsia Mons Elongated Cloud stretching across the Martian surface"
+   }
+  },
+  {
+   "title": "Melting permafrost has produced a new type of large landslide, in which whole slabs of still-frozen ground thaw from below and slide downhill",
+   "tag": "Earth",
+   "date": "2026-11-02",
+   "paragraphs": [
+    "A huge 2018 landslide in Canada's Northwest Territories represents a new class of catastrophic landslide that researchers call a permafrost detachment slide, Science News reported on Nov. 2, describing a study published Sept. 28 in Geophysical Research Letters. According to Science News, a slab of earth roughly equal in volume to seven Great Pyramids of Giza suddenly slid downhill, even though it began in frozen ground that had been held in place for years. The slide dammed the Redstone River in the Mackenzie Valley and created a 3.5-kilometer-long lake.",
+    "Permafrost geologist Joseph Young, who was based at the University of Alberta at the time, told Science News that permafrost traditionally melts from the top down and releases a muddy slurry, but at some sites in the region large blocks of still-frozen ground seemed to have moved hundreds of meters. His team studied the two largest such slides: the 2018 event, which moved 18 million cubic meters of earth, and a 2017 event that moved 4.5 million cubic meters. Field observations showed that both began along flat sliding surfaces about 20 meters underground, at the base of the permafrost layer, and satellite data showed the ground at both sites had been creeping meters each year for decades.",
+    "The team tracked ground temperatures from 2020 to 2022 at undisturbed forest sites and at sites burned by wildfire about 25 years earlier, then ran computer simulations of how the ground changes after a fire. According to Science News, the researchers concluded that wildfire and extreme summer heat can warm and weaken the frozen surface so it starts creeping and forms tension cracks. Water can then seep down through those cracks to beneath the permafrost, thawing it from below until it detaches.",
+    "Young said more than 150 other slides in the region, identified from satellite observations, may also have been permafrost detachment slides, and that they could happen wherever there is a relatively thin, warm permafrost layer and a rapid warming event. \"This is a direct reality of a changing climate,\" he told Science News. Dmitry Nicolsky, a permafrost geophysicist at the University of Alaska Fairbanks who was not involved in the study, said the work shows scientists need to study what is happening beneath the surface, because \"we don't know how [the ground] will move — it might go slowly or it might go catastrophically.\""
+   ],
+   "sources": [
+    {
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide",
+     "date": "2026-11-02"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/10/102626_NO_frozenlandslides_main.jpg",
+    "credit": "Duane Froese, via Science News",
+    "alt": "The 2018 permafrost detachment slide that dammed the Redstone River in Canada's Mackenzie Valley"
    }
   },
   {
@@ -125,29 +148,6 @@
     "credit": "NVIDIA, via GitHub",
     "alt": "NVIDIA Auto Ontology architecture diagram"
    }
-  },
-  {
-   "title": "A study in Science finds the next glacial period had already begun about 2,000 years ago, until warming reversed it in the 1960s",
-   "tag": "Earth",
-   "date": "2026-10-31",
-   "paragraphs": [
-    "Two thousand years ago, the last Arctic remnant of North America's once-vast Laurentide Ice Sheet started to grow again, marking the start of a new glacial period, according to a study published in the journal Science and described by Columbia University's Climate School on Oct. 22. By the 1960s, summer temperatures had risen enough that the ice began to shrink. \"It was just getting started, everything was normal, the next glaciation was about to happen, and yet it stopped,\" said Nicolás Young, a geochemist at Columbia's Lamont-Doherty Earth Observatory and the study's first author.",
-    "The Laurentide covered much of Canada and the northern United States from about 95,000 to 20,000 years ago, stretching at its largest from above the Arctic Circle to Illinois. Its last vestige survives as the Barnes Ice Cap, a Delaware-sized ice cap on central Baffin Island in Nunavut, Canada. Columbia notes that we technically still live in an ice age that began about 34 million years ago, and that what people casually call an \"ice age\" is a colder glacial period; the last one ended about 11,700 years ago.",
-    "The Barnes Ice Cap is frozen to its bedrock and does not slide, so it preserves plants that grew when it was small and were later buried as it expanded. Dating that vegetation with carbon-14, and, as ScienceAlert reported on Oct. 31, measuring beryllium-10 in exposed rock, the team found the ice reached its smallest size about 3,000 years ago and began re-expanding about 2,000 years ago. Columbia says previous model-based studies had suggested the next glaciation would not begin for thousands or even tens of thousands of years.",
-    "Since about 1960 the ice cap has lost more ice each summer than it gains in winter, and ScienceAlert reports the researchers found those losses \"can be almost entirely explained by rising summer temperatures.\" According to models of its future, the ice cap will melt completely within the next few centuries. \"That will be the true very last remains of the Laurentide, disappearing for good,\" Young said."
-   ],
-   "sources": [
-    {
-     "name": "Columbia Climate School",
-     "url": "https://news.climate.columbia.edu/2026/10/22/climate-change-stopped-the-next-ice-age/",
-     "date": "2026-10-22"
-    },
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/wed-be-entering-an-ice-age-right-now-if-climate-change-hadnt-terminated-it-study-suggests",
-     "date": "2026-10-31"
-    }
-   ]
   }
  ],
  "audio": {
