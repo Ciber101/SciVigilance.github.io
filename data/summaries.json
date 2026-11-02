@@ -50,9 +50,6 @@
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
  },
- "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026": {
-  "s": "The new simulation called Lumina tracks the universe’s first 2 billion years with greater detail and volume, including dark matter, galaxies, stars, and cosmic structures. This helps researchers better understand how the universe developed after the dark ages."
- },
  "https://www.anthropic.com/news/s1-sec": {
   "s": "Anthropic, an AI safety company, filed paperwork with the SEC for an initial public offering. This filing means the company plans to sell shares of its stock to the public, raising capital for its operations."
  },
@@ -116,9 +113,6 @@
  },
  "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course": {
   "s": "Seabirds like Manx shearwaters can experience jet lag from rapid east-west flights, leading to a mismatch between their internal time and the sun's position, which can misdirect their flight path. This discovery challenges the birds' sun-based navigation system, which relies on an internal clock synchronized with local time."
- },
- "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/": {
-  "s": "The map identifies 13 locations on Mars that have mineralogy and chemistry matching that of Teghaza 001, a very old Martian meteorite. This helps scientists deduce that the meteorite likely originated in the southern highlands of Mars."
  },
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
@@ -222,10 +216,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.space.com/astronomy/stars/betelgeuse-is-haunted-by-a-cosmic-poltergeist-tormenting-the-doomed-stars-atmosphere": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencedaily.com/releases/2026/10/261030002935.htm": {
   "s": "Scientists have smashed oxygen nuclei to recreate a primordial state of matter from the Big Bang. This helps narrow down the conditions needed to create matter similar to that of the infant universe. The findings, published in a physics journal, reveal a new lower boundary for creating quark-gluon plasma, a state of matter thought to have existed at the universe's birth."
  },
@@ -254,9 +244,6 @@
  "https://www.sciencedaily.com/releases/2026/10/261031221201.htm": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/": {
-  "s": "What happened: A collection of colors of the full moon were documented by an astrophotographer over 10 years from different locations across Italy. Why it matters: The colors of the Moon vary depending on the time and location, with the Moon appearing brown-tinged gray outside Earth's atmosphere and red or yellow near the horizon due to atmospheric scattering. Purple moon is less common and its creation is unclear, possibly due to a combination of effects."
  },
  "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost": {
   "s": "The north polar ice cap of Mars, composed of water ice, shifts in size with the seasons, as observed by researchers. This seasonal change in ice deposits could help scientists understand Mars' climate history, offering insights into how the planet's climate has evolved over time."
@@ -340,5 +327,17 @@
  },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "Genie 4 is a new model for simulating worlds in real-time, offering unprecedented realism and interactive features. This advancement matters because it enhances AGI development by enabling safe, variable simulations for training robots and creating new interactive experiences."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite": {
+  "s": "Rocket Lab will launch a Japanese satellite today. This matters as it showcases the company's capability to deliver private Earth observation satellites into orbit."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/": {
+  "s": "What happened: A long cloud on Mars, named Arsia Mons Elongated Cloud, was first observed in 1977 by NASA's Viking Orbiter and has been imaged more recently by ESA's Mars Express spacecraft. Why it matters: The cloud forms only during spring and summer in the morning and is made of water-ice. Speculation suggests dust is not involved in cloud formation, leading to ongoing efforts to better understand how these clouds form on Mars, which could provide insights into cloud formation on Earth."
+ },
+ "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102": {
+  "s": "MIT engineers have designed microneedles made from food-grade silk to safely deliver vaccines to farmed fish, addressing the challenges of vaccinating fish. This approach could improve fish health and help prevent disease outbreaks in aquaculture, a major source of protein."
+ },
+ "https://www.sciencedaily.com/releases/2026/10/261030002922.htm": {
+  "s": "Scientists found that crocodiles survived the asteroid impact by thriving in warm climates. Their research suggests that crocodiles, which have lived in tropical regions for millions of years, were able to move to new areas when temperatures rose, and return to the tropics when they fell. This allowed them to survive a mass extinction event that wiped out many dinosaurs."
  }
 }
