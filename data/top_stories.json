@@ -1,154 +1,160 @@
 {
-  "updated": "2026-11-05T13:44:15-08:00",
-  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
-  "stories": [
+ "updated": "2026-11-05T13:44:15-08:00",
+ "updated_pt": "Nov 5, 2026, 1:44 PM PT",
+ "stories": [
+  {
+   "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
+   "tag": "Space",
+   "date": "2026-11-04",
+   "paragraphs": [
+    "According to NASA, the Neil Gehrels Swift Observatory reentered Earth's atmosphere at 7:39 a.m. EST on Wednesday, Nov. 4, 2026, over the North Sumatra region of Indonesia, at about 3.4 degrees north latitude and 98.6 degrees east longitude. Live Science reports that NASA expected most of the roughly 3,200-pound (1,450-kilogram) spacecraft to burn up, estimated a 1-in-2,100 chance of surviving debris reaching a populated area, and said no damage or injuries have been reported.",
+    "The Conversation notes that Swift launched into low Earth orbit in 2004 as a rapid-response telescope for gamma-ray bursts and other short-lived events. Its Burst Alert Telescope searched for gamma rays while its X-ray and ultraviolet-optical telescopes studied afterglows, and it could slew about 50 degrees in less than 75 seconds—far faster than Hubble, which takes about 15 minutes to turn 90 degrees. By 2015 it had detected its 1,000th gamma-ray burst, and NASA estimates its observations have contributed to about 7,000 research papers.",
+    "Both The Conversation and Live Science say the observatory's orbit decayed after stronger solar activity during solar maximum pushed the spacecraft down from roughly 373 miles (600 kilometers) altitude. NASA partnered with Katalyst Space Technologies on a July 3, 2026 boost mission that failed, leaving Swift on a path to reentry. Astronomers had hoped to use it with the Vera C. Rubin Observatory.",
+    "Beyond gamma-ray bursts, The Conversation says Swift also caught early X-ray rises before supernovas, helped localize high-energy neutrinos detected by IceCube, and in 2025 reported hydroxyl—an indicator of water—on interstellar object 3I/ATLAS."
+   ],
+   "sources": [
     {
-      "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
-      "tag": "Space",
-      "date": "2026-11-04",
-      "paragraphs": [
-        "According to NASA, the Neil Gehrels Swift Observatory reentered Earth's atmosphere at 7:39 a.m. EST on Wednesday, Nov. 4, 2026, over the North Sumatra region of Indonesia, at about 3.4 degrees north latitude and 98.6 degrees east longitude. Live Science reports that NASA expected most of the roughly 3,200-pound (1,450-kilogram) spacecraft to burn up, estimated a 1-in-2,100 chance of surviving debris reaching a populated area, and said no damage or injuries have been reported.",
-        "The Conversation notes that Swift launched into low Earth orbit in 2004 as a rapid-response telescope for gamma-ray bursts and other short-lived events. Its Burst Alert Telescope searched for gamma rays while its X-ray and ultraviolet-optical telescopes studied afterglows, and it could slew about 50 degrees in less than 75 seconds—far faster than Hubble, which takes about 15 minutes to turn 90 degrees. By 2015 it had detected its 1,000th gamma-ray burst, and NASA estimates its observations have contributed to about 7,000 research papers.",
-        "Both The Conversation and Live Science say the observatory's orbit decayed after stronger solar activity during solar maximum pushed the spacecraft down from roughly 373 miles (600 kilometers) altitude. NASA partnered with Katalyst Space Technologies on a July 3, 2026 boost mission that failed, leaving Swift on a path to reentry. Astronomers had hoped to use it with the Vera C. Rubin Observatory.",
-        "Beyond gamma-ray bursts, The Conversation says Swift also caught early X-ray rises before supernovas, helped localize high-energy neutrinos detected by IceCube, and in 2025 reported hydroxyl—an indicator of water—on interstellar object 3I/ATLAS."
-      ],
-      "sources": [
-        {
-          "name": "The Conversation",
-          "url": "https://theconversation.com/nasas-swift-observatory-has-burned-up-in-the-atmosphere-the-indispensable-telescope-helped-astronomers-track-fast-moving-events-in-space-293320",
-          "date": "2026-11-04"
-        },
-        {
-          "name": "Live Science",
-          "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra",
-          "date": "2026-11-04"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/mVDW5MbGvYDYoj4pH3Wshm-2143-80.jpg",
-        "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab, via Live Science",
-        "alt": "Illustration of NASA's Swift Observatory above Earth"
-      }
+     "name": "The Conversation",
+     "url": "https://theconversation.com/nasas-swift-observatory-has-burned-up-in-the-atmosphere-the-indispensable-telescope-helped-astronomers-track-fast-moving-events-in-space-293320",
+     "date": "2026-11-04"
     },
     {
-      "title": "SLAC-led team confirms altermagnetism, a third class of magnetism, in manganese telluride",
-      "tag": "Physics",
-      "date": "2026-11-04",
-      "paragraphs": [
-        "ScienceDaily and SLAC report that a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory published experimental evidence in Science for altermagnetism, a magnetic phase distinct from ferromagnetism and antiferromagnetism. Lead author Daniel Jost said the results provide \"robust experimental confirmation that this third phase—altermagnetism—is real.\" The paper, \"Chiral altermagnon in MnTe,\" is dated Oct. 29, 2026.",
-        "According to SLAC and Phys.org, the researchers studied manganese telluride (MnTe), long classified as an antiferromagnet. Altermagnets are described as having alternating electron spins like antiferromagnets, but with crystal structures around opposite spins rotated relative to each other—a symmetry break proposed when the term was introduced in 2022.",
-        "The team used circularly polarized X-rays at the European Synchrotron Radiation Facility's ID32 beamline. SLAC says chiral materials scatter left- and right-handed polarized beams differently; MnTe showed that chiral signature, which conventional antiferromagnets should not. The measurements were first made in 2024 and repeated in early 2025.",
-        "Jost told SLAC that ferromagnets are easily disturbed by stray magnetic fields, while antiferromagnets are hard to read or drive with spin currents. \"Altermagnets combine the best of both,\" he said: zero net magnetization with the ability to generate spin-polarized currents. The work received partial DOE Office of Science support."
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-          "date": "2026-11-04"
-        },
-        {
-          "name": "SLAC",
-          "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
-        "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
-        "alt": "Graphic comparing ferromagnetism, altermagnetism, and antiferromagnetism"
-      }
-    },
-    {
-      "title": "China's Tiangong space station sets a record-low temperature with ultracold atoms",
-      "tag": "Physics",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "Science News reports that researchers cooled about 20,000 rubidium atoms aboard China's Tiangong space station to roughly 10 picokelvins—about 10 trillionths of a kelvin above absolute zero (−273.15°C)—forming a Bose-Einstein condensate colder than any previously reported. The results appear in Science on Nov. 5, 2026.",
-        "According to Science News, the team used laser-based traps to slow the atoms' motion. Temperature in these systems is defined by how slowly the atom cloud spreads when released. Microgravity on the station avoids the sagging that gravity causes in Earth-bound cold-atom clouds.",
-        "Science News says earlier spacefaring Bose-Einstein condensates on the International Space Station reached effective temperatures as low as 52 picokelvins, and an Earth drop-tower experiment reached 38 picokelvins. Drop-tower free fall is brief; orbital microgravity is not, which is why space experiments can push colder.",
-        "The magazine notes that ultracold atoms let researchers study exotic quantum states of matter and test ideas such as the equivalence principle—the notion that objects of different masses fall at the same rate in a vacuum."
-      ],
-      "sources": [
-        {
-          "name": "Science News",
-          "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
-        "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
-        "alt": "Rendering of China's Tiangong space station"
-      }
-    },
-    {
-      "title": "Voyager 1 restored contact after a brief communications pause in interstellar space",
-      "tag": "Space",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "NASA's Jet Propulsion Laboratory said that Deep Space Network antennas failed to hear Voyager 1 on Oct. 18 and 19, 2026, then regained the signal on Oct. 20 after about 48 hours—before engineers could send troubleshooting commands. Space.com's Nov. 5 coverage notes the probe is almost one light-day from Earth and will reach that milestone on Nov. 18 at 16.09 billion miles (25.89 billion kilometers).",
-        "According to JPL, engineers determined that one thruster group went offline and backups turned on automatically. That fault-protection response puts the spacecraft in a safe configuration and pauses normal operations. Mission manager Kareem Badaruddin said, \"This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected.\" The cause is still under investigation.",
-        "JPL also reports that in early September engineers finished the \"Big Bang\" power save on Voyager 1, turning off three devices and substituting lower-power alternatives—about six weeks after the same swap on Voyager 2. Each Voyager loses about 4 watts of radioisotope power per year; without the swap, another Voyager 1 science instrument might have needed shutting off as early as summer 2027.",
-        "Both Voyagers launched in 1977, studied the outer planets, and now operate in interstellar space. Space.com notes Suzanne Dodd has previously hoped the missions could run into the 2030s."
-      ],
-      "sources": [
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-        "credit": "JPL-Caltech/NASA, via Space.com",
-        "alt": "Illustration of NASA's Voyager 1 probe"
-      }
-    },
-    {
-      "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
-      "tag": "AI",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
-        "According to the Google DeepMind post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
-        "Google says the model holds character, product, and style references—including faces, garments, packaging type, and brand colors—more consistently across camera moves, and supports short motion clips up to three seconds plus audio cues. Multi-turn edits can swap backgrounds, lighting, weather, or aspect ratio without restarting from scratch.",
-        "The company also cites more natural multi-speaker dialogue and lip-sync, steadier cinematic camera moves with fewer jump cuts, and an imperceptible SynthID watermark on outputs. Provisioned Throughput is available for enterprise use on Google Cloud."
-      ],
-      "sources": [
-        {
-          "name": "Google",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-        "credit": "Google",
-        "alt": "Gemini Omni 1.2 Flash announcement graphic"
-      }
-    },
-    {
-      "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst, plus GIF and SVG output",
-      "tag": "AI",
-      "date": "2026-11-04",
-      "paragraphs": [
-        "OpenAI announced Images 2.6 on Nov. 4, 2026, for ChatGPT, Codex, and the API. The company says image generation is 50% faster than before and that people now create about 4 billion images per week across ChatGPT, Codex, and the API—more than half a billion per day on average.",
-        "In the API, OpenAI offers GPT-Image-2.6 Flare for fast iteration and GPT-Image-2.6 Sunburst for higher detail and stronger edit consistency. When quality is set to low, Flare can return an image in as little as six seconds; Sunburst targets medium or high quality work. ChatGPT users can turn prompts or photos into animated GIFs, adjust animation speed, edit frames, and save reusable reference images of people, pets, and characters.",
-        "According to OpenAI, the API gains markup-guided edits, SVG export, animated GIF output, and a new complexity parameter (low, medium, or high; default high) that controls how much planning the model does before rendering. Complexity is separate from the quality setting and has no separate fee.",
-        "OpenAI says Images 2.6 is available globally in ChatGPT and Codex on all subscription tiers, with Flare and Sunburst available through the Image API."
-      ],
-      "sources": [
-        {
-          "name": "OpenAI",
-          "url": "https://openai.com/index/introducing-images-2-6/",
-          "date": "2026-11-04"
-        }
-      ],
-      "image": {
-        "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-        "credit": "OpenAI",
-        "alt": "OpenAI Images 2.6 announcement graphic"
-      }
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra",
+     "date": "2026-11-04"
     }
-  ]
+   ],
+   "image": {
+    "url": "https://cdn.mos.cms.futurecdn.net/mVDW5MbGvYDYoj4pH3Wshm-2143-80.jpg",
+    "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab, via Live Science",
+    "alt": "Illustration of NASA's Swift Observatory above Earth"
+   }
+  },
+  {
+   "title": "SLAC-led team confirms altermagnetism, a third class of magnetism, in manganese telluride",
+   "tag": "Physics",
+   "date": "2026-11-04",
+   "paragraphs": [
+    "ScienceDaily and SLAC report that a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory published experimental evidence in Science for altermagnetism, a magnetic phase distinct from ferromagnetism and antiferromagnetism. Lead author Daniel Jost said the results provide \"robust experimental confirmation that this third phase—altermagnetism—is real.\" The paper, \"Chiral altermagnon in MnTe,\" is dated Oct. 29, 2026.",
+    "According to SLAC and Phys.org, the researchers studied manganese telluride (MnTe), long classified as an antiferromagnet. Altermagnets are described as having alternating electron spins like antiferromagnets, but with crystal structures around opposite spins rotated relative to each other—a symmetry break proposed when the term was introduced in 2022.",
+    "The team used circularly polarized X-rays at the European Synchrotron Radiation Facility's ID32 beamline. SLAC says chiral materials scatter left- and right-handed polarized beams differently; MnTe showed that chiral signature, which conventional antiferromagnets should not. The measurements were first made in 2024 and repeated in early 2025.",
+    "Jost told SLAC that ferromagnets are easily disturbed by stray magnetic fields, while antiferromagnets are hard to read or drive with spin currents. \"Altermagnets combine the best of both,\" he said: zero net magnetization with the ability to generate spin-polarized currents. The work received partial DOE Office of Science support."
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "SLAC",
+     "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+     "date": "2026-10-29"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+    "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
+    "alt": "Graphic comparing ferromagnetism, altermagnetism, and antiferromagnetism"
+   }
+  },
+  {
+   "title": "China's Tiangong space station sets a record-low temperature with ultracold atoms",
+   "tag": "Physics",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "Science News reports that researchers cooled about 20,000 rubidium atoms aboard China's Tiangong space station to roughly 10 picokelvins—about 10 trillionths of a kelvin above absolute zero (−273.15°C)—forming a Bose-Einstein condensate colder than any previously reported. The results appear in Science on Nov. 5, 2026.",
+    "According to Science News, the team used laser-based traps to slow the atoms' motion. Temperature in these systems is defined by how slowly the atom cloud spreads when released. Microgravity on the station avoids the sagging that gravity causes in Earth-bound cold-atom clouds.",
+    "Science News says earlier spacefaring Bose-Einstein condensates on the International Space Station reached effective temperatures as low as 52 picokelvins, and an Earth drop-tower experiment reached 38 picokelvins. Drop-tower free fall is brief; orbital microgravity is not, which is why space experiments can push colder.",
+    "The magazine notes that ultracold atoms let researchers study exotic quantum states of matter and test ideas such as the equivalence principle—the notion that objects of different masses fall at the same rate in a vacuum."
+   ],
+   "sources": [
+    {
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
+    "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
+    "alt": "Rendering of China's Tiangong space station"
+   }
+  },
+  {
+   "title": "Voyager 1 restored contact after a brief communications pause in interstellar space",
+   "tag": "Space",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "NASA's Jet Propulsion Laboratory said that Deep Space Network antennas failed to hear Voyager 1 on Oct. 18 and 19, 2026, then regained the signal on Oct. 20 after about 48 hours—before engineers could send troubleshooting commands. Space.com's Nov. 5 coverage notes the probe is almost one light-day from Earth and will reach that milestone on Nov. 18 at 16.09 billion miles (25.89 billion kilometers).",
+    "According to JPL, engineers determined that one thruster group went offline and backups turned on automatically. That fault-protection response puts the spacecraft in a safe configuration and pauses normal operations. Mission manager Kareem Badaruddin said, \"This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected.\" The cause is still under investigation.",
+    "JPL also reports that in early September engineers finished the \"Big Bang\" power save on Voyager 1, turning off three devices and substituting lower-power alternatives—about six weeks after the same swap on Voyager 2. Each Voyager loses about 4 watts of radioisotope power per year; without the swap, another Voyager 1 science instrument might have needed shutting off as early as summer 2027.",
+    "Both Voyagers launched in 1977, studied the outer planets, and now operate in interstellar space. Space.com notes Suzanne Dodd has previously hoped the missions could run into the 2030s."
+   ],
+   "sources": [
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
+    "credit": "JPL-Caltech/NASA, via Space.com",
+    "alt": "Illustration of NASA's Voyager 1 probe"
+   }
+  },
+  {
+   "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
+   "tag": "AI",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
+    "According to the Google DeepMind post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
+    "Google says the model holds character, product, and style references—including faces, garments, packaging type, and brand colors—more consistently across camera moves, and supports short motion clips up to three seconds plus audio cues. Multi-turn edits can swap backgrounds, lighting, weather, or aspect ratio without restarting from scratch.",
+    "The company also cites more natural multi-speaker dialogue and lip-sync, steadier cinematic camera moves with fewer jump cuts, and an imperceptible SynthID watermark on outputs. Provisioned Throughput is available for enterprise use on Google Cloud."
+   ],
+   "sources": [
+    {
+     "name": "Google",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+    "credit": "Google",
+    "alt": "Gemini Omni 1.2 Flash announcement graphic"
+   }
+  },
+  {
+   "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst, plus GIF and SVG output",
+   "tag": "AI",
+   "date": "2026-11-04",
+   "paragraphs": [
+    "OpenAI announced Images 2.6 on Nov. 4, 2026, for ChatGPT, Codex, and the API. The company says image generation is 50% faster than before and that people now create about 4 billion images per week across ChatGPT, Codex, and the API—more than half a billion per day on average.",
+    "In the API, OpenAI offers GPT-Image-2.6 Flare for fast iteration and GPT-Image-2.6 Sunburst for higher detail and stronger edit consistency. When quality is set to low, Flare can return an image in as little as six seconds; Sunburst targets medium or high quality work. ChatGPT users can turn prompts or photos into animated GIFs, adjust animation speed, edit frames, and save reusable reference images of people, pets, and characters.",
+    "According to OpenAI, the API gains markup-guided edits, SVG export, animated GIF output, and a new complexity parameter (low, medium, or high; default high) that controls how much planning the model does before rendering. Complexity is separate from the quality setting and has no separate fee.",
+    "OpenAI says Images 2.6 is available globally in ChatGPT and Codex on all subscription tiers, with Flare and Sunburst available through the Image API."
+   ],
+   "sources": [
+    {
+     "name": "OpenAI",
+     "url": "https://openai.com/index/introducing-images-2-6/",
+     "date": "2026-11-04"
+    }
+   ],
+   "image": {
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
+    "credit": "OpenAI",
+    "alt": "OpenAI Images 2.6 announcement graphic"
+   }
+  }
+ ],
+ "audio": {
+  "src": "audio/top_stories-5180328d20.mp3",
+  "hash": "5180328d20bbe7aadc9d601908399d87fa20e2ba",
+  "duration": 634.9,
+  "voice": "Kokoro (af_heart)"
+ }
 }
