@@ -5,12 +5,6 @@
  "https://newatlas.com/robotics/albatross-robot-sail-seed-boat/": {
   "s": "The bioinspired robot ALBATROSS, developed by researchers at SUTD, can be deployed from an aircraft over remote waters. It can sail autonomously using wind energy after landing, offering a solution for long-term monitoring of environmental conditions. This platform combines the speed of aerial deployment with the endurance of sailing, addressing the limitations of both surface systems and aircraft."
  },
- "https://newatlas.com/robotics/tiny-snapping-robot/": {
-  "s": "The researchers created a robot that moves using flexible rods that snap between shapes, powered by small motors. This design allows the robot to jump over obstacles, but the motors can't produce the quick bursts needed for a jump. The team solved this by mapping how elastic rods respond to different shapes and loading, and then designed limbs that snap sharply."
- },
- "https://newatlas.com/robotics/ucla-scientists-android-phone-walking-robot-companion/": {
-  "s": "PhoneBot, developed by UCLA researchers, uses a smartphone as its brain, torso, and eyes. This innovative design skips costly extras, making it cheaper and more accessible. The phone's IMU and touchscreen serve as the robot's inner ear and control interface, while its camera handles vision."
- },
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
  },
@@ -22,15 +16,6 @@
  },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
- },
- "https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/": {
-  "s": "At GTC Berlin, financial services organizations are demonstrating how to build and scale intelligent systems using open models, powered by NVIDIA technology. This approach allows them to create proprietary intelligence using their own data, at lower costs."
- },
- "https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/": {
-  "s": "NVIDIA Cosmos, a platform for developing world models that help AI systems simulate the real world, has been expanded with new tools for training, simulation checkpoints, and data factory blueprints. This expansion aims to accelerate physical AI development by providing developers with the latest open models and tools to optimize performance before deployment. Companies like Porsche and ANYbotics are already using these tools to speed up their development workflows and reduce testing time."
- },
- "https://blogs.nvidia.com/blog/european-retail-open-models-robotics/": {
-  "s": "European retailers are leveraging NVIDIA technology to enhance their digital platforms and physical operations. This includes using open models and physical intelligence for tasks like improving product discovery and optimizing fulfillment centers, leading to faster and more accurate responses. Such advancements matter as they help retailers improve customer experience and operational efficiency, potentially increasing sales and market share."
  },
  "https://x.ai/news/partnernetworkannouncement": {
   "s": "The organization launched a new program called the SpaceX Super Intelligence Partner Network to support companies developing products with Grok for joint prospects and customers. This network provides partners with training, tools, and support to engage with customers, with over 130 companies participating in its early phase."
@@ -59,38 +44,20 @@
  "https://x.ai/news/grok-bot-sales": {
   "s": "The SpaceXSI Sales team created Shared Bots to assist reps in prospecting, quoting, and deal review, ensuring everyone works from the same up-to-date expertise. This innovation brought together individual reps' expertise, allowing the whole team to benefit without needing to update their own setup."
  },
- "https://theconversation.com/earwax-is-both-slippery-and-sticky-this-weird-combo-might-lead-to-safer-insect-repellents-293324": {
-  "s": "The earwax used in experiments to repel insects is both slippery and sticky, absorbing twice its weight in water. This unique consistency might explain why it naturally repels insects, leading to safer insect repellents."
- },
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
- },
- "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/": {
-  "s": "Probing spider silk's molecular structure, biologists are discovering how proteins transform into a tough, flexible thread. This knowledge is crucial for developing spider silk-based materials that could be used in various applications, from seat belts to medical scaffolds."
  },
  "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
   "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
- "https://news.mit.edu/2026/how-biggest-alzheimers-risk-gene-disrupts-process-insulating-neurons-1028": {
-  "s": "MIT researchers found that the APOE4 gene variant suppresses a pathway crucial for oligodendrocytes to wrap neurons in a protective fatty sheath. This discovery explains why APOE4 increases Alzheimer's risk and provides a potential fix for the problem in lab experiments."
- },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
- },
- "https://news.mit.edu/2026/capturing-complete-process-of-embryonic-development-1028": {
-  "s": "Researchers at MIT, tracking over a million cells, created a detailed map of embryonic development in mice. This could provide insights into development and diseases, offering a comprehensive view of how cells form tissues and organs."
- },
- "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
-  "s": "Researchers have developed magnetic sensors that track muscle movement. This could help people with amputation use prosthetic limbs more naturally, by providing detailed muscle signals."
  },
  "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1": {
   "s": "Over a week ago, IBM Granite updated its language model configuration system, allowing users to add specialized expertise through cache-efficient adapters without needing to retrain the base model. This update demonstrates how efficiently the team can release new features, showing developers how to update and improve models like they do with software."
  },
  "https://mistral.ai/news/mistral-large-4-oss/": {
   "s": "Mistral Large 4 (Le Chonk) now has its weights released, a 1-trillion-parameter model trained in Europe. This matters as it offers improved coding and cybersecurity with three reasoning modes, making it a significant advancement in open models."
- },
- "https://huggingface.co/blog/mistral-large4": {
-  "s": "Mistral Large 4, a multimodal model from Mistral, integrates text and images as input and outputs text. Its strength lies in cybersecurity and coding tasks, as shown by its high score on a vulnerability reproduction test. The model's architecture combines a large number of experts with sparse attention, allowing it to focus on relevant parts of earlier input tokens."
  },
  "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
   "s": "S-GAME’s Phantom Blade Zero launches today on GeForce NOW, offering a blend of martial arts and punk fantasy. This game, powered by Unreal Engine 5, features a warrior named Soul with a 66-day clock to solve a conspiracy. The launch also includes World of Warcraft: Forever, arriving Nov 4, with a launch-week access reward for GeForce NOW members."
@@ -99,20 +66,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.sciencenews.org/article/seabird-jet-lag-navigation-off-course": {
-  "s": "Seabirds like Manx shearwaters can experience jet lag from rapid east-west flights, leading to a mismatch between their internal time and the sun's position, which can misdirect their flight path. This discovery challenges the birds' sun-based navigation system, which relies on an internal clock synchronized with local time."
- },
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
- },
- "https://www.sciencenews.org/article/urine-test-bladder-cancer-analyze-rna": {
-  "s": "A proof-of-concept test analyzing RNA fragments in urine can detect bladder cancer. This method is promising because urine is in contact with bladder tumors, offering a direct way to screen for the disease. The test, still in development, could provide more detailed information about cancer biology, aiding in treatment decisions. Future research will determine if this RNA-based urine test can be used in clinical cancer screening."
- },
- "https://theconversation.com/philadelphias-academy-of-natural-sciences-just-closed-a-blow-for-budding-young-scientists-like-me-293504": {
-  "s": "This closure matters because the museum had offered a unique educational experience, inspiring generations of scientists and providing hands-on science exploration beyond textbooks."
- },
- "https://www.sciencenews.org/article/nasa-swift-telescope-gamma-ray-burst": {
-  "s": "NASA’s Swift telescope, launched in 2004, has been studying gamma-ray bursts, the most powerful cosmic events. Swift’s ability to respond quickly to bursts has made it a cornerstone of modern astronomy, lasting far longer than expected. Now, the spacecraft is running out of altitude and will burn up in Earth’s atmosphere soon."
  },
  "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
   "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
@@ -122,12 +77,6 @@
  },
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A robot designed to slow for someone in a hallway can still respond as programmed if someone is in the way. This matters because robots designed to ensure safety can be misled by manipulated information, altering their intended actions."
- },
- "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/": {
-  "s": "NASA will display its X-59 quiet supersonic plane at MAX POWER, an aerospace expo and air show. The event showcases future technologies and features, including Moon rovers and spacecraft, and offers opportunities to meet NASA leaders and experts."
- },
- "https://www.sciencenews.org/article/halloween-astronomers-dwarf-planet": {
-  "s": "The Vera Rubin Observatory, mapping the southern sky, has detected a potential new dwarf planet. This discovery fills in the picture of the Kuiper Belt, revealing more about the solar system's faraway regions. Sam Deen, an amateur astronomer, describes it as replicating early solar system discoveries, finding what makes up most of the Kuiper Belt."
  },
  "https://bostondynamics.com/blog/robot-hands-for-modern-ai-and-real-work/": {
   "s": "",
@@ -139,114 +88,26 @@
  "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955": {
   "s": "Some parasites can manipulate the behavior of living hosts, causing them to move to a location that benefits the parasite. This manipulation, while not bringing the dead back to life, is a close parallel to fictional zombie narratives. Such behavior changes do not transform a dead body but alter living organisms to enhance the parasite's survival."
  },
- "https://www.universetoday.com/articles/hera-probe-sees-asteroid-pair-separately-for-first-time": {
-  "s": "The Hera probe recently captured the first clear images of the binary asteroid Didymos and Dimorphos, distinguishing them for the first time. This achievement matters as it provides crucial data for assessing the feasibility of planetary defense missions, helping scientists understand how to deflect asteroids and protect Earth from potential threats."
- },
  "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
   "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
  },
  "https://robohub.org/robots-in-society-business-and-culture-september-2026/": {
   "s": "Robots are increasingly seen in factories worldwide, with China leading in installations, according to a report. Toyota predicts a significant increase in robot installations, potentially reaching 806,000 units by 2029."
  },
- "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/": {
-  "s": "The MIT engineers created a paper-thin swimming robot that uses muscle cells to flap through water. This innovation shows that even a thin layer of muscle can generate enough force to move in water, potentially paving the way for more efficient biohybrid robots."
- },
- "https://www.livescience.com/planet-earth/rivers-oceans/how-to-watch-blue-planet-iii-online-stream-david-attenboroughs-spectacular-new-series": {
-  "s": "To watch \"Blue Planet III\" online, one can stream Sir David Attenborough's new series featuring ocean exploration with advanced camera technology. This matters as it offers viewers a unique opportunity to see the world's oceans through cutting-edge technology, potentially revealing new insights and beauty."
- },
- "https://www.livescience.com/archaeology/ghostly-statue-of-shrine-maiden-discovered-at-1-500-year-old-burial-mound-in-japan": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.livescience.com/space/astronomy/astronomers-may-have-been-wrong-about-what-ended-the-cosmic-dark-age-new-study-hints": {
-  "s": "Astronomers may have misidentified the cosmic event that cleared the universe's hydrogen fog, transforming darkness into light. This finding challenges previous theories about how the universe evolved."
- },
  "https://bostondynamics.com/blog/ask-a-roboticist-meet-diane/": {
   "s": "Diane Heinle, a mechanical engineer, conducts endurance testing for Boston Dynamics' Stretch robot to ensure it works reliably in warehouses. She simulates years of wear and tear on robot parts in weeks by accelerating the testing process, using more aggressive forces than a robot would face in real conditions. Her work helps design a robot that can handle the dynamic environments of warehouses without breaking down."
- },
- "https://www.universetoday.com/articles/ceres-water-ice-can-mask-massive-surface-salt-deposits": {
-  "s": "Researchers from Caltech found that salt deposits on Ceres might be hidden by water ice deposits, suggesting these deposits could be larger than previously thought. This finding matters because it challenges existing data and provides new insights into Ceres' surface evolution and water activity."
- },
- "https://www.universetoday.com/articles/martian-polar-crater-ice-shifts-with-seasonal-frost": {
-  "s": "The north polar ice cap of Mars, composed of water ice, shifts in size with the seasons, as observed by researchers. This seasonal change in ice deposits could help scientists understand Mars' climate history, offering insights into how the planet's climate has evolved over time."
- },
- "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/": {
-  "s": "DeepSeek released dsh-superagent, a GitHub agent that turns requests into parallel work sessions. This matters because it optimizes human attention by allowing users to focus on fewer, more critical tasks, suggesting that multitasking is often limited by human capacity rather than computational power."
- },
- "https://www.marktechpost.com/2026/11/01/nace-ai-open-sources-drex-max-v1-local-inference/": {
-  "s": "Nace AI released Drex Max v1, a 27 billion parameter decision model that processes typed questions about provided contexts. This model is significant as it can run locally on Apple Silicon hardware, offering flexibility and privacy benefits."
- },
- "https://www.livescience.com/space/astronomy/webb-and-hubble-telescopes-watch-ghostly-objects-appear-in-the-cats-head-nebula-space-photo-of-the-week": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/stargazing/meteor-showers/planetary-defense-how-military-and-civil-satellites-are-watching-fireballs-to-help-keep-earth-safe-from-space-rocks": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.sciencedaily.com/releases/2026/10/261031013035.htm": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-november-1-2026": {
-  "s": "The launch marked the Soviet Union's first attempt to send a spacecraft to Mars, a significant step in the Space Race. It demonstrated technological capabilities and spurred international interest in space exploration."
- },
- "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.sciencedaily.com/releases/2026/10/261030003017.htm": {
-  "s": "Scientists at the University of Virginia have devised a novel method to combat glioblastoma, a deadly brain cancer, by using sound waves to deliver tiny genetic molecules into the brain. This approach aims to overcome the brain's protective barrier and target multiple cancer-promoting genes, potentially offering better therapies for patients."
- },
- "https://www.therobotreport.com/28-zero-day-findings-in-less-than-two-days-what-ai-speed-discovery-means-for-robotics/": {
-  "s": "These findings matter because they expose risks in software used for robot training, testing, and operation, potentially affecting models and instructions sent to robots. Teams need to respond quickly and assess each vulnerability's impact on robot safety and operations."
- },
- "https://www.therobotreport.com/why-physical-ai-next-lucrative-frontier/": {
-  "s": "Physical AI systems, which blend robotics and advanced AI, are gaining traction. This trend is following a pattern seen with fintech and cloud computing, indicating the next market for hypergrowth."
- },
- "https://www.therobotreport.com/solving-the-interconnect-challenge-in-modern-robotics-how-3m-is-engineering-for-motion-density-and-uptime/": {
-  "s": "As robotics systems become more advanced, the interconnects that connect sensors and motors to the main control unit are under greater strain. These interconnects must handle the mechanical stress of continuous motion, which can lead to failure or downtime. 3M has developed specialized cable assemblies and IDC connectors to withstand this stress, offering more durable and efficient solutions for robotics. This innovation allows engineers to better design systems that can operate without frequent maintenance, improving overall system reliability and performance."
- },
- "https://theconversation.com/figuring-out-where-cosmic-neutrinos-come-from-is-tricky-radio-telescopes-could-help-find-where-these-ghost-particles-originate-294408": {
-  "s": "A researcher won a Nobel Prize for detecting cosmic neutrinos, tiny particles that pass through Earth without interacting. Now, scientists aim to pinpoint where these neutrinos originate, as understanding their sources can reveal more about the universe. Radio telescopes could help by matching neutrino detections with potential sources, providing clues about the physics occurring in those sources."
  },
  "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/": {
   "s": "The Chinese company NeodraDynamics presented Neo1, a 13-foot tall humanoid robot designed for heavy, precise work. It avoids risky jobs humans typically avoid, showcasing a new approach to giant robots beyond anime and sci-fi."
  },
- "https://www.universetoday.com/articles/new-research-resolves-the-mystery-behind-van-goghs-the-starry-night": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-electron-launch-sea-god-surveys-iqps-radar-satellite": {
-  "s": "Rocket Lab will launch a Japanese satellite today. This matters as it showcases the company's capability to deliver private Earth observation satellites into orbit."
- },
- "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/": {
-  "s": "What happened: A long cloud on Mars, named Arsia Mons Elongated Cloud, was first observed in 1977 by NASA's Viking Orbiter and has been imaged more recently by ESA's Mars Express spacecraft. Why it matters: The cloud forms only during spring and summer in the morning and is made of water-ice. Speculation suggests dust is not involved in cloud formation, leading to ongoing efforts to better understand how these clouds form on Mars, which could provide insights into cloud formation on Earth."
- },
  "https://news.mit.edu/2026/mit-engineers-design-safer-more-efficient-vaccination-system-farmed-fish-1102": {
   "s": "MIT engineers have designed microneedles made from food-grade silk to safely deliver vaccines to farmed fish, addressing the challenges of vaccinating fish. This approach could improve fish health and help prevent disease outbreaks in aquaculture, a major source of protein."
- },
- "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/": {
-  "s": "NVIDIA released Auto Ontology, a library that automatically generates semantic definitions from enterprise metadata. This tool helps AI agents understand and use data more effectively by providing certified definitions and context. It matters because it bridges the gap between metadata and actionable data, making AI more contextually aware and efficient."
- },
- "https://www.marktechpost.com/2026/11/01/qwengpu-simt-gpu-compiled-into-qwen3-5-2b-weights-runs-cuda/": {
-  "s": "qwenGPU compiles a 4-lane SIMT GPU into a 45 untrained layers model named Qwen3.5-2B. This model writes every CUDA launch step itself, using Gated DeltaNet state as registers and memory. The technique matters because it demonstrates how a GPU can be integrated into model weights, potentially enabling more efficient and specialized computations within AI models."
- },
- "https://www.livescience.com/health/neuroscience/now-you-actually-have-a-blood-test-psychiatrys-bible-the-dsm-is-getting-upgraded-to-include-biological-markers-a-psychiatrist-explains-what-that-means-for-mental-health": {
-  "s": "The next version of the DSM will incorporate biological factors such as genetics in diagnosing mental health conditions. This upgrade matters because it aims to use more scientific evidence in mental health diagnoses, potentially improving accuracy and treatment options."
  },
  "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102": {
   "s": "Researchers at MIT developed a new method to control how nanoparticles link together, creating materials for various applications. This advance is important because it solves a long-standing challenge in making nanoparticle-based materials, allowing for more precise control over their performance."
  },
- "https://www.space.com/astronomy/mars/a-rainbow-of-ancient-rocks-on-mars-space-photo-of-the-day-for-nov-2-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide": {
   "s": "A new type of large landslide occurred in Canada, triggered by thawing permafrost. This event challenges scientists' understanding of permafrost behavior, suggesting slides can mobilize large frozen layers suddenly."
- },
- "https://www.sciencedaily.com/releases/2026/11/261101010533.htm": {
-  "s": "IceCube, a massive observatory buried in Antarctic ice, detects neutrinos, ghost particles with energy 10 billion times that of solar neutrinos. Scientists are studying these particles to investigate the cosmos, contributing to five Nobel Prizes in Physics."
  },
  "https://theconversation.com/why-do-galaxies-rotate-291508": {
   "s": "Galaxies rotate like figure skaters do, spinning on their axes. Why galaxies rotate is understood through the law of conservation of angular momentum, which states that an object's spinning speed remains constant unless acted upon by an outside force. This law applies to all spinning objects, including galaxies, which are made of regular matter and dark matter."
@@ -254,101 +115,250 @@
  "https://theconversation.com/how-to-prepare-your-online-life-for-your-death-293502": {
   "s": "Researchers studied challenges older adults face when planning for their online accounts after death. Most people haven't planned for this, leading to confusion and difficulty for heirs. They need help understanding how to access and manage digital assets like emails, social media, and online bills."
  },
- "https://www.sciencedaily.com/releases/2026/11/261101010538.htm": {
-  "s": "NASA has photographed a skull-shaped formation on Vega Island in Antarctica, where ice is melting faster than snow is accumulating, revealing a darker, ice-covered landscape. This phenomenon warns of a potential increase in glacier melting as the region warms."
- },
- "https://www.sciencedaily.com/releases/2026/10/261031221153.htm": {
-  "s": "Scientists have discovered through ancient DNA that Ice Age Europeans were far more connected than previously thought. By analyzing remains and sediment traces, an international team led by the University of Vienna found unexpected genetic links between eastern and western European groups, challenging the idea of isolated populations."
- },
- "https://www.sciencedaily.com/releases/2026/10/261031221209.htm": {
-  "s": "NASA's Hubble and Webb Space Telescopes found 27 tiny, distant objects beyond Neptune, challenging previous theories about planet formation. These frozen bodies, extremely faint and hard to see, provide a unique glimpse into the solar system's earliest days, revealing that many smaller bodies remained instead of growing into full planets."
- },
  "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/": {
   "s": "Coordination in muscles happens naturally, without conscious effort, allowing smooth force production. Researchers mimicked this by electric motors, showing coordination can emerge from setup, not programmed. This could lead to better robot design, as muscle coordination is efficient and reliable."
- },
- "https://www.universetoday.com/articles/researchers-may-have-solved-a-puzzling-contradiction-in-the-ryugu-sample": {
-  "s": "Samples from asteroid Ryugu and carbonaceous chondrites show clay-like minerals with varied compositions. This contradiction arises because asteroids have remained largely unchanged since their formation, unlike Earth's rocks which have been altered by billions of years of geological processes. Understanding these differences helps researchers learn about the early Solar System and the conditions that existed when it formed."
  },
  "https://www.sciencenews.org/article/newborn-cash-support-survival": {
   "s": "Newborn survival improved in Flint, Michigan, thanks to financial support given to pregnant residents and their infants. This support likely helps families manage the financial stress and health risks that can arise around a birth, improving baby health outcomes."
  },
- "https://www.space.com/astronomy/asteroids/james-webb-space-telescope-uncovers-new-clues-about-the-origins-of-interstellar-invader-comet-3i-atlas": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.sciencealert.com/scientists-witness-a-mysterious-sexual-bond-between-a-bull-and-a-male-donkey": {
-  "s": "Scientists unexpectedly observed a bull and a male donkey engaging in sexual behavior several times, documenting mounting activities and intromission. This unusual sexual bond between animals of different species suggests animal behavior can be more complex than previously thought."
- },
  "https://www.quantamagazine.org/is-there-anything-left-in-the-dream-of-cold-fusion-20261102/": {
   "s": "Isolated cold fusion experiments have reappeared in recent years, attracting researchers who are not risk-averse. This matters because while cold fusion does not provide a practical solution to the energy crisis, it pushes the limits of physics, offering a tantalizing glimpse into possible new energy sources."
- },
- "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the latest model from the organization, boasting advanced cybersecurity and long-term capabilities. It ranks highest in artificial intelligence benchmarks, demonstrating superior performance in identifying and patching vulnerabilities. The announcement follows the launch of Gemini 4 Argon, showing the organization's rapid advancement in model development."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.therobotreport.com/top-10-robotics-developments-october-2026/": {
-  "s": "Last month, the robotics industry celebrated the 20th anniversary of RoboBusiness and announced it would be rebranded to Robotics Summit & Expo West. Prominent humanoid robot companies like Agility Robotics and Boston Dynamics made major updates, including a commercial agreement between AGCO and Agility Robotics to deploy the Digit humanoid in AGCO's manufacturing facility. These developments matter because they showcase the advancement of embodied AI, moving beyond science fiction into practical applications."
- },
- "https://phys.org/news/2026-11-molecular-dinitrogen-anions-pave-temperature.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.livescience.com/animals/dinosaurs/traces-of-ancient-blood-found-in-115-million-year-old-dinosaur-fossil-new-study-claims": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://x.ai/news/data-bot": {
   "s": "Data Bot, a tool developed by SpaceXSI, enables every team to query data warehouses and run analyses, mimicking a data scientist's work. This innovation is important because it addresses the bottleneck created by a small data science team, providing around-the-clock support and shared expertise across the company."
  },
- "https://www.space.com/entertainment/space-books/new-star-trek-the-original-voyages-book-traces-the-stellar-legacy-of-the-bold-sci-fi-brand": {
+ "https://phys.org/news/2026-11-physicist-detector-capable-photons-quantum.html": {
+  "s": "Detecting a single photon is hard; knowing exactly how many photons arrive at once is even harder. Physicist Erik Baalbergen is developing light detectors capable of counting multiple photons simultaneously. This advancement is crucial for building an optical quantum computer, which requires precise photon counting for complex calculations."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine": {
+  "s": "Blue Origin has created a third stage for its New Glenn rocket, making the launch vehicle more versatile and powerful. This new engine, named Northstar, is expected to enhance the rocket's capabilities."
+ },
+ "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
+  "s": "Gemini Omni 1.2 Flash introduces 15-second clips with enhanced consistency and cost-effectiveness. This update makes video creation faster and cheaper, allowing for higher-quality content at scale."
+ },
+ "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging": {
+  "s": "Asteroids vary greatly in shape, not just in composition. Scientists are studying various methods to redirect asteroids, including nuclear weapons, but predicting their impact on irregularly shaped asteroids remains challenging."
+ },
+ "https://www.sciencenews.org/article/lowest-temperature-china-space-station": {
+  "s": "Scientists cooled a collection of atoms to record-low temperatures of about 10 picokelvins in China's space station. This achievement matters as it demonstrates how microgravity can effectively reduce atomic motion, potentially leading to new insights in quantum physics and exotic states of matter."
+ },
+ "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105": {
+  "s": "A new method has been developed to predict how particles move through quark-gluon plasma, a fluid formed in the early universe. This method builds on insights from Einstein's theories to better understand the behavior of matter under extreme conditions."
+ },
+ "https://www.livescience.com/archaeology/1-600-year-old-burial-holds-remains-of-man-infected-with-a-very-rare-strain-of-leprosy-in-germany": {
   "s": "",
   "why": "too little source text"
  },
- "https://www.sciencealert.com/dinosaur-blood-cells-detected-in-115-million-year-old-fossil": {
-  "s": "Dinosaur blood cells were identified inside a 115-million-year-old fossil leg bone. The discovery was confirmed through chemical analysis, providing strong evidence the cells belonged to the dinosaur, not contamination."
+ "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/": {
+  "s": "OpenAI launched GPT-Image-2.6 Flare and Sunburst, adding GIFs and SVG export to its image generation API. This update speeds up image creation and offers more editing tools, benefiting users who need quick iterations or detailed compositions. Users can now turn prompts into animated GIFs, edit frames, and reuse reference images, making the process more efficient and flexible."
  },
- "https://www.universetoday.com/articles/the-jwst-may-have-found-where-heavy-black-hole-seeds-formed": {
-  "s": "The James Webb Space Telescope (JWST) may have found where the seeds of intermediate mass black holes form in the early Universe. This discovery could help explain how the first supermassive black holes in the modern Universe grew to such vast sizes."
+ "https://www.sciencealert.com/the-great-pacific-garbage-patch-may-be-changing-the-color-of-the-ocean": {
+  "s": "The Great Pacific Garbage Patch, a vast accumulation of plastic debris, may have changed the color of the ocean. Researchers observed a shift in ocean color after analyzing satellite data, indicating that microplastics within the patch absorb and scatter light differently than pure seawater."
  },
- "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/": {
-  "s": "The CHAPEA crew, comprising four members, returned to Earth after a year-long simulated Mars mission. Their experiences will aid NASA in designing future Moon bases and planning missions to Mars."
+ "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114": {
+  "s": "Blind people and musicians hear pitch better because their auditory systems process sounds more consistently, reducing internal noise. This consistency allows them to more reliably distinguish between similar sounds."
  },
- "https://www.marktechpost.com/2026/11/02/deep-principle-hydrogen-1-0-open-weight-scientific-model/": {
-  "s": "Hydrogen-1.0, an open-weight model from Deep Principle, was released as a scientific research assistant for chemistry, materials science, and life sciences. It aims to solve scientific problems by framing questions, planning experiments, analyzing results, and making open-ended discoveries. The model's training combines supervised fine-tuning with reinforcement learning using data from four sources. Its performance on public benchmarks is reported to outperform other models, particularly in experiment planning and discovery tasks."
+ "https://www.sciencedaily.com/releases/2026/11/261102202836.htm": {
+  "s": "A study reveals that ancient human species Homo erectus, thought to be an evolutionary dead end, may have interbred with Denisovans and passed genetic traces to people alive today. This challenges the long-held view of human evolution as a neat tree-like structure, suggesting interbreeding and genetic exchanges between different species."
  },
- "https://phys.org/news/2026-11-wild-mild-friendly-foxes-brain.html": {
-  "s": "Scientists observed changes in a brain region linked to aggression in tame foxes compared to aggressive and wild foxes. This study, published in Current Biology, suggests rapid environmental pressures can alter brain structure, highlighting how domestication can affect brain function."
- },
- "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/": {
+ "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-11-ruthenium-atom-catalysts.html": {
-  "s": "Scientists have developed a new method to produce ruthenium single-atom catalysts, which can better utilize this valuable metal. This innovation allows for higher concentrations of ruthenium atoms in a catalyst, potentially improving efficiency and reducing costs in industrial processes."
+ "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/": {
+  "s": "Google AI Research developed Agile Deliberation, a framework to define subjective visual concepts by involving experts in labeling borderline images. This tool helps in creating structured definitions for image classifiers, aiding in automated content moderation."
  },
- "https://phys.org/news/2026-11-rna-protein-interactions-coronavirus-drug.html": {
-  "s": "A study led by a University of California, Riverside, scientist has identified new targets for coronavirus antiviral drugs. The research, using advanced techniques, found specific sites in the virus's RNA and proteins that, if disrupted, significantly reduced viral replication. This offers a strategy to develop treatments less susceptible to viral evolution."
+ "https://phys.org/news/2026-11-born-queen-ant-hierarchy.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-11-historical-reveal-bitter-truth-17th.html": {
-  "s": "Researchers reviewed old records from Transylvania to understand the climate in the 17th century. By analyzing weather mentions, crop references, and food prices, they found 55 extremely cold winters, mostly between 1645 and 1700. This helps show how communities experienced and responded to environmental stress during the Little Ice Age."
+ "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long": {
+  "s": "",
+  "why": "too little source text"
  },
- "https://phys.org/news/2026-11-stars-oxygen-small-galaxies.html": {
-  "s": "Scientists discovered that small galaxies contain less oxygen than stars estimate they produced. Tracking oxygen helps understand how galaxies change over time and spread elements through the universe. The findings suggest galactic winds remove oxygen more effectively than models predict."
+ "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter": {
+  "s": "When astronomers used the James Webb Space Telescope, they observed many bright galaxies in the early universe just 400 to 500 million years after the Big Bang. These galaxies formed very dense clusters of stars. Why this happened remains a mystery. The research suggests that Lyman-Alpha radiation, which pushes low-density gas and dust away quickly, may have cleared the way for star formation at that time."
  },
- "https://phys.org/news/2026-11-term-marine-clouds-reveal-cloud.html": {
-  "s": "Research by Brookhaven National Laboratory scientists reveals that marine stratocumulus clouds can produce drizzle even when they contain only a small amount of liquid water. This finding challenges current weather models, which often assume clouds need to be saturated before rain forms."
+ "https://www.livescience.com/animals/bears/were-looking-at-how-a-bear-sees-the-world-scientists-are-decoding-grizzly-bears-behavior-to-help-wildlife-and-people-coexist": {
+  "s": "Scientists are studying how grizzly bears behave in areas where forests have been fragmented by human development. Their findings could help create habitats that are safer for both bears and humans."
  },
- "https://www.therobotreport.com/tutor-intelligence-raises-series-b-to-scale-model-training-robot-deployments/": {
-  "s": "Tutor Intelligence raised $75 million to improve its picking robots and expand their capabilities. This matters because it aims to make robots more affordable and capable of performing tasks humans can't, offering businesses a new, cheaper way to handle tasks."
+ "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/": {
+  "s": "Enceladus, a moon of Saturn, is captured in a silhouette by the Sun in this Cassini image. The plumes of ice from its south pole are visible, suggesting an ocean beneath the ice shell."
  },
- "https://www.therobotreport.com/gentherm-designs-thermaffyx-protect-move-patients-during-robotic-surgeries/": {
-  "s": "The challenge that ThermAffyx addresses is maintaining normothermia and reducing patient movement during robotic surgeries. Conventionally, patient warming and secure positioning have been handled separately, often using forced-air warming and a securement pad. ThermAffyx combines both into one solution, addressing the unique challenges of robotic surgery where patients are often in head-down positions for extended periods."
+ "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets": {
+  "s": "The Little Ice Age, a period of unusually cold weather, may have reduced children's exposure to sunlight, leading to vitamin D deficiencies. Researchers found evidence of rickets in the bones of people buried in England during this time, suggesting that cold climate conditions made it harder for people to get enough vitamin D."
+ },
+ "https://theconversation.com/nasas-swift-observatory-has-burned-up-in-the-atmosphere-the-indispensable-telescope-helped-astronomers-track-fast-moving-events-in-space-293320": {
+  "s": "The Swift Observatory, a 22-year-old space telescope, burned up in Earth's atmosphere in 2026. It helped astronomers track fast-moving events in space, such as stars exploding."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261103003146.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104": {
+  "s": "MIT-led researchers received up to $38 million in funding from ARPA-H to develop a wearable sensor patch. This patch aims to measure biomarkers of heart failure and sepsis in real-time, potentially enabling early disease detection."
+ },
+ "https://phys.org/news/2026-11-newly-protein-mechanism-cells-physical.html": {
+  "s": "A newly published study is revealing how the protein talin interacts with mechanical forces at cell attachment sites. Researchers found that under load, talin's structure changes, exposing a region that enables talin molecules to bind to one another. This new mechanism may help cells reinforce their adhesion to their surroundings, adapt to changing conditions, and control the balance between adhesion assembly and disassembly."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/planet-earth/weather/7-stunning-weather-photographer-of-the-year-photos-that-capture-the-beauty-and-power-of-our-planet": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems": {
+  "s": "When the third interstellar visitor, 3I/ATLAS, was discovered in 2025, astronomers had a unique opportunity to study it with the upgraded James Webb Space Telescope. The telescope revealed that 3I/ATLAS contained water ice, but in a mixed form with dark rocky minerals, which explained the unusual spectral lines observed."
+ },
+ "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": {
+  "s": "Cyprus, an island with a unique geological history, is composed of ophiolite, an ancient piece of the ocean floor, and is home to a colony of cats. This geological formation, visible in the Troodos Mountains, is a result of tectonic forces pushing oceanic crust upwards, creating a rugged island. The island's southernmost tip, the Akrotiri Peninsula, is a recent development, formed by sediment accumulation and river deltas."
+ },
+ "https://www.sciencenews.org/article/earwax-slippery-sticky-deters-insects": {
+  "s": "The study found earwax has both slippery and sticky properties that help keep insects out of ears. This may protect against bugs flying into ears, a common annoyance. Understanding earwax better could help improve hearing aids and ear care products."
+ },
+ "https://theconversation.com/how-space-weather-powers-auroras-in-the-sky-and-threatens-power-grids-on-the-ground-291841": {
+  "s": "When auroras light up the sky, they also create electric currents that flow through the ground. This connection shows that space weather, caused by solar activity, can have direct effects on Earth’s infrastructure, including power grids. Space physicists study how space weather can damage technology on the ground, noting that even a single event can cause disruptions within minutes."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261104012254.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103": {
+  "s": "Documentary highlights the pain and misunderstanding of endometriosis affecting millions of women, showcasing personal stories and scientific research. It aims to change the narrative by bringing attention to the disease, encouraging more research and understanding."
+ },
+ "https://phys.org/news/2026-11-microscopy-method-reveals-tiny-cell.html": {
+  "s": "A new microscopy method allows researchers to see tiny cell structures and their molecular surroundings. This technique could help in understanding how drugs affect cells, potentially improving cancer treatments."
+ },
+ "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin": {
+  "s": "Finding exoplanets has been difficult due to their proximity to bright stars, making them hard to see. The James Webb Space Telescope (JWST) uses coronagraphs to block starlight, but it still faces a stability limit that makes imaging some planets challenging. Researchers have developed a method to subtract more starlight from JWST observations, allowing them to image exoplanets that were previously hidden. This advancement is crucial for detailed exoplanet characterization beyond 1 astronomical unit."
+ },
+ "https://www.livescience.com/physics-mathematics/physicists-sank-a-telescope-1-5-miles-under-the-sea-to-put-einsteins-relativity-to-the-test": {
+  "s": "Despite its limitations, this deep-sea telescope's findings are as significant as those from much larger detectors."
+ },
+ "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/": {
+  "s": "NASA announced the X-70 Fractal, a crewed, adaptable research platform, at a summit. This aircraft aims to test new aviation technologies in real flight, offering rapid payload changes and high performance. Its modular design and advanced flight-control technology will help NASA explore and develop new aviation technologies."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261104012256.htm": {
+  "s": "Scientists at SLAC National Accelerator Laboratory have found conclusive proof of a mysterious third type of magnetism called altermagnetism. This discovery, detailed in a study published in Science, could lead to significant advancements in computing and electronics by revealing new properties of magnetic materials."
+ },
+ "https://www.sciencenews.org/article/diabetes-device-experiment-blood-sugar": {
+  "s": "The wireless implant in mice clears excess sugar from their blood on demand, helping them lose weight. It could offer a drug-free treatment for diabetes and obesity, as conventional treatments require careful dosing."
+ },
+ "https://phys.org/news/2026-11-chilean-rodent-population-collapse-reveals.html": {
+  "s": "The common degus population in central Chile managed to survive for nearly a decade of drought, but in 2019, severe and prolonged drought led to a sharp decline in food availability, causing the local extinction of the rodent population. This study highlights how wildlife's resilience can be overwhelmed by climatic events exceeding ecosystem limits."
+ },
+ "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/planet-earth/plants/a-tiny-chunk-of-australia-seeded-southeast-asias-tropical-forests-150-million-years-ago-plant-fossils-preserved-in-amber-reveal": {
+  "s": "Plant fossils found in amber there show this chunk brought tropical forest species to the region."
+ },
+ "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing": {
+  "s": "China unveiled plans for a crewed mission to the Moon, proposing two launches using the Long March 10 rocket to send a lander and a crewed spaceship to the Moon. This plan aims to conduct science operations on the lunar surface, echoing previous statements made in July 2023. The plans highlight China's advancement in space technology and its commitment to manned lunar exploration."
+ },
+ "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/": {
+  "s": "NASA shared plans to accelerate its Artemis program, aiming for the first American moon landing in 2028. The agency highlighted significant progress in testing critical capabilities and reducing mission risks, emphasizing urgency to achieve a world-changing outcome."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261103003149.htm": {
+  "s": "A hidden companion star called Siwarha is moving through Betelgeuse's atmosphere, causing subtle changes in the star's shape. This discovery helps explain the mysterious changes in Betelgeuse's brightness and shape observed in 2019 and 2020."
+ },
+ "https://phys.org/news/2026-11-ice-age-abrupt-climate-shifts.html": {
+  "s": "Abrupt climate shifts during ice ages took centuries, not decades, according to a new study using speleothem records from China and India. This finding challenges previous assumptions and has implications for assessing future climate changes."
+ },
+ "https://www.space.com/space-exploration/human-spaceflight/earth-photobombs-spacewalking-canadian-astronaut-space-photo-of-the-day-for-nov-5-2026": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/": {
+  "s": "NASA selected three companies to develop Ka-band space relay concepts compatible with existing missions, ensuring service continuity for spacecraft without needing modifications. This work aims to provide end-to-end solutions and support NASA's decision to retire its current satellite fleet and adopt commercial services for future missions."
+ },
+ "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres": {
+  "s": "Giant impacts during Earth's formation helped retain its atmosphere instead of driving it away. This new research challenges the long-held belief that these impacts would have heated Earth to the point of losing its primordial atmosphere. The study shows that the energy from giant impacts could have actually prevented atmospheric escape, allowing young rocky planets to retain their atmospheres near the end of their accretion process."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261102202833.htm": {
+  "s": "A new discovery suggests the brain's fear mechanism may not help distinguish between danger and safety, but rather blur the lines. This finding could explain intense fear responses seen in anxiety and PTSD, challenging previous beliefs."
+ },
+ "https://phys.org/news/2026-11-hooved-mammals-migrate-greater-extinction.html": {
+  "s": "Hooved mammals that migrate have faced a higher risk of extinction over the past 100,000 years, according to a study. This may be due to their reliance on accurate resource predictions, which can be disrupted by environmental changes and human activities."
+ },
+ "https://www.space.com/technology/aerospace/nasa-announces-experimental-x-70-fractal-aircraft-a-new-beginning-for-aeronautics": {
+  "s": "NASA has unveiled the X-70 Fractal, an experimental aircraft aiming to explore new aerodynamic capabilities. Its unique reconfigurable design could pave the way for more agile and maneuverable aircraft in the future."
+ },
+ "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": {
+  "s": "Chris Alexiuk advocates for open source AI, believing it should be widely promoted. He believes transparency is crucial for AI to be accessible and useful, advocating for full access to model weights and training data. Alexiuk teaches developers how to build and use AI models on platforms like YouTube, aiming to make AI more accessible to a broader audience."
+ },
+ "https://mistral.ai/news/build-with-studio/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.marktechpost.com/2026/11/04/ricursive-ripple-65b-preview-open-weight-model/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://simonwillison.net/2026/Nov/3/datasette-agent/": {
+  "s": "This release of Datasette Agent introduces a new feature called the panel, which allows the agent to chat and sit next to pages from Datasette, such as tables or query pages. This feature, combined with datasette-apps, enables users to create and modify database-backed apps directly from a chat interface next to the app."
+ },
+ "https://huggingface.co/blog/ibm-research/palette-deck-building": {
+  "s": "Decks are hard for small models because they struggle with laying out slides without seeing them, drawing elements correctly, and fitting text and shapes within the slide boundaries. This difficulty leads to issues like overlapping shapes and text running off the slide. The research aims to train a small open model to overcome these challenges, allowing it to produce decks that look like a designer's work."
+ },
+ "https://huggingface.co/blog/transformers-mic": {
+  "s": "On July, a small model called UMT5 was created for testing purposes. This model was used to catch bugs in Transformers, which is a large AI system. By testing with a smaller version, researchers can find issues before they affect the main system."
+ },
+ "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/": {
+  "s": "AI agents can now write entire web apps in a single session, covering tens of thousands of lines of code. This scale makes manual review impractical, so teams rely on descriptions of what they want, tested against the code. However, agents may implement something slightly different, leading to hidden gaps between the intended code and what ships. Proofs can help close these gaps by showing code meets its specification for every possible input, offering stronger assurance than testing alone."
+ },
+ "https://blogs.nvidia.com/blog/memory-full-stack-codesign/": {
+  "s": "More performance from every byte comes from full-stack codesign, a strategy where NVIDIA designs all parts of AI systems, including GPUs, CPUs, and software, to optimize memory use. This matters because an AI system's memory hierarchy, from fastest to slowest, limits how much useful work each byte can do. Optimizing this hierarchy, from reducing what needs to be stored to placing data on the right tier, improves overall efficiency and speed."
+ },
+ "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/": {
+  "s": "Inference processing needs continual compilation because traffic patterns and input lengths are dynamic and unpredictable. Different data can lead to significant performance differences, affecting how well models handle real-world data."
+ },
+ "https://www.marktechpost.com/2026/11/04/webai-twil-8b-reasoning-model/": {
+  "s": "webAI released TwIL-8B, a reasoning model with 8.8 billion parameters trained from IBM's Granite 4.2. It scores 98.2 on MATH-500 but lags behind similar-sized models on knowledge benchmarks. The model uses English text only and writes a <think> block before each answer."
+ },
+ "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
+  "s": "Moonshot AI (Kimi) released Kimi-K3.1-Pro, a new image text to text model, on Hugging Face. This model offers significant improvements in coding, financial research, and other agentic capabilities, thanks to its large context window and advanced attention mechanisms."
+ },
+ "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/": {
+  "s": "Agility Robotics became the first U.S.-based legged humanoid company to go public, listing its stock on Nasdaq. This move matters as it opens new financial resources for the company, accelerating the development and deployment of intelligent robots in various workplaces."
+ },
+ "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/": {
+  "s": "Before peak season, Ambi Robotics installs eight new systems at customer sites. This helps prepare for a 9% to 10% increase in throughput compared to last year. The company's systems streamline final-mile deliveries, and McKinley says volume continues to rise, putting pressure on logistics providers."
+ },
+ "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/": {
+  "s": "A robot moth has been created that can grow new sensors using its own artificial blood. This innovation is significant because it allows robots to dynamically adapt their hardware, fitting them for unpredictable environments, from collapsed buildings to other planets."
+ },
+ "https://newatlas.com/robotics/hopcopter-hopping-robot-flexible-foot-pad/": {
+  "s": "The Hopcopter, a drone with a spring-loaded leg, was designed to overcome the limitations of existing robots. It can hop from place to place without wasting energy, making it suitable for uneven terrain. This innovation could enable robots to reach places otherwise inaccessible by air or ground alone."
+ },
+ "https://spectrum.ieee.org/drone-delivery-noise": {
+  "s": "Rick and Marcia LeCompte noticed Cooper's hawks were gone from their yard in October. They believe the hawks were scared away by flying robots, Amazon's MK30 delivery drones, which began flying near their home in September. The constant buzzing and noise made them feel harassed, spending less time outside and inside their home."
+ },
+ "https://www.therobotreport.com/robotics-startup-radar-2026/": {
+  "s": "The 2026 Startup Radar highlighted young robotics companies working on new technologies and business models. Such startups promise to make robots more autonomous, combining perception, understanding, and action. What matters is a strong technical foundation, visionary teams, business acumen, and partnerships. Understanding the target market is crucial, even if not every startup will succeed or be acquired."
+ },
+ "https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/": {
+  "s": "When designing the robot, GlobalLogic aimed to create a versatile system adaptable to various environments and use cases. This approach matters because it ensures the robot can be used in multiple settings, enhancing its effectiveness and reducing the need for frequent redesigns."
+ },
+ "https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/": {
+  "s": "LiberAI unveiled Liber-0, a model trained on 2.2 million hours of human experience to enable robots to perform tasks without needing specific demonstrations. This innovation matters because it allows robots to generalize from human experience, potentially speeding up the development of new robotic capabilities and reducing the need for expensive and time-consuming demonstrations."
+ },
+ "https://robohub.org/robots-in-society-business-and-culture-october-2026/": {
+  "s": "A biohybrid robot, stimulated by an electrical impulse, pushes off from the ground. The researchers tested whether the robot's approach direction affects how fast it seems to move, finding that participants perceived it as faster when approaching from behind. This study matters as it explores visual factors influencing human perception of robots, potentially impacting how people interact with and perceive AI in society."
  }
 }
