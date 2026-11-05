@@ -1,49 +1,66 @@
 {
-  "updated": "2026-11-02T01:45:59-08:00",
-  "updated_pt": "Nov 2, 2026, 1:45 AM PT",
+  "updated": "2026-11-05T13:44:52-08:00",
+  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
   "stories": [
     {
-      "title": "AGIBOT says 110 of its A3 humanoid robots danced in unison to set a Guinness World Records title",
+      "title": "Agility Robotics begins trading on Nasdaq after SPAC merger",
       "tag": "Humanoids",
-      "date": "2026-11-01",
+      "date": "2026-11-05",
       "paragraphs": [
-        "Chinese humanoid robot maker AGIBOT said in a post on X late on Nov. 1, 2026 (PT) that 110 of its A3 humanoid robots danced in unison, setting the Guinness World Records title for the most humanoid robots dancing simultaneously. The post included a video of the performance about one minute long.",
-        "According to AGIBOT, the robots were coordinated using UWB (ultra-wideband) positioning with centimeter-level accuracy and the company's LinkBots multi-robot control system, and all 110 performed in sync, completing the challenge \"without a single error.\" The company said the performance showcased the coordination capabilities behind large-scale robot deployments.",
-        "The record claim comes from AGIBOT's own post, which does not say where or when the attempt took place."
+        "The Robot Report says Agility Robotics began trading on Nasdaq on Nov. 5, 2026, under the ticker AGLT after completing its merger with Churchill Capital Corp XI. Shares opened at $11.26, above the $10 SPAC deal price, and were at $10.30 as of the article's press time.",
+        "According to the report, Churchill XI shareholders approved the deal on Nov. 2 with more than 84% of votes cast in favor, and the transaction closed Nov. 4. Gross proceeds were about $465 million before expenses, including roughly $164 million from the trust after redemptions, $201 million from a Foxconn-led PIPE, and a $100 million funding round closed after the SPAC announcement.",
+        "Agility says Digit has logged more than 65,000 operating hours across nine customer facilities, including AGCO, GXO Logistics, Schaeffler, Mercado Libre, and Toyota Motor Manufacturing Canada. The company reported $1.78 million in 2025 revenue and more than $300 million in committed multiyear orders for next-generation Digit 5, with early-access deliveries expected in 2027. CEO Peggy Johnson called the listing a way to accelerate putting robots into more workplaces."
       ],
       "sources": [
         {
-          "name": "AGIBOT on X",
-          "url": "https://x.com/AGIBOTofficial/status/2117158349448139116",
-          "date": "2026-11-01"
+          "name": "The Robot Report",
+          "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+          "date": "2026-11-05"
         }
       ],
       "image": {
-        "url": "https://pbs.twimg.com/amplify_video_thumb/2117156796381229056/img/7QmgbXu3n8BVsgSJ.jpg",
-        "credit": "AGIBOT, via X",
-        "alt": "Rows of AGIBOT A3 humanoid robots performing a synchronized dance"
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
+        "credit": "Agility Robotics, via The Robot Report",
+        "alt": "Agility Robotics Digit humanoid"
       }
     },
     {
-      "title": "Beijing's NeodraDynamics shows Neo1, a 13-foot hydraulic humanoid pitched for dangerous industrial jobs",
-      "tag": "Humanoids",
-      "date": "2026-11-01",
+      "title": "Boston Dynamics unveils Stretch Gen 2 for faster trailer unloading and repairs",
+      "tag": "Logistics robots",
+      "date": "2026-11-03",
       "paragraphs": [
-        "Beijing-based NeodraDynamics has presented Neo1, a hydraulic-electric humanoid robot that the company says stands roughly 13 feet (4 meters) tall and weighs 1.2 metric tons, New Atlas reported on Nov. 1, 2026. According to New Atlas, the robot first appeared at the World Robot Conference in Beijing and was then unveiled with JD Industrial, the industrial-supplies arm of JD.com, at the China International Industry Fair in Shanghai, which ran Oct. 12 to 16.",
-        "The company describes Neo1 as having 41 controllable joints, 39 of them driven by small hydraulic actuators and two electric ones that rotate the forearms, New Atlas reports. NeodraDynamics says each actuator weighs about 1 kg and produces \"ton-level\" continuous thrust, and gives the robot's payload as 500 kg with both arms working together. The company pitches it for heavy assembly, mining, rescue and nuclear maintenance.",
-        "New Atlas reports that Neo1 has not yet worked on a real site. NeodraDynamics' Cui Dalong told the outlet that a computer running a set program controls the robot remotely and a cable supplies its power, that its motion control for walking isn't finished, and that \"walking on legs is not the priority for industrial applications.\" According to New Atlas, the company plans to fit the heavy-duty arms onto a wheeled base rather than send the full humanoid to industrial sites, and has pitched it to ports, offshore oil and gas rigs, nuclear refueling and power grid tower construction."
+        "Boston Dynamics announced Stretch Gen 2 on Nov. 3, 2026, as the next generation of its autonomous mobile trailer-unloading robot. RoboticsTomorrow reports the redesign draws on more than 100,000 operating hours and tens of millions of boxes unloaded by first-generation Stretch to cut unplanned downtime.",
+        "According to the company release carried by RoboticsTomorrow, Gen 2 uses automotive-grade connectors, an upgraded gripper with finer sensing, continuous-rotation joints that no longer hit hard stops, and about 81% less internal cabling—removing a major source of electrical faults. Exterior panels and a recessed emergency stop are meant to reduce accidental stoppages from falling boxes.",
+        "Boston Dynamics says a full swerve-drive swap now takes about one hour instead of a full day, and onboard diagnostics aim to let customer teams handle more routine service. Stretch Gen 2 can unload up to 1,000 cases per hour depending on case weight and stacking, runs about two shifts per charge, and fast-charges to 90% in about 75 minutes."
+      ],
+      "sources": [
+        {
+          "name": "RoboticsTomorrow",
+          "url": "https://www.roboticstomorrow.com/news/2026/11/03/boston-dynamics-launches-next-generation-stretch-robot/27335",
+          "date": "2026-11-03"
+        }
+      ]
+    },
+    {
+      "title": "Robot moth grows a new UV sensor from chemicals in its artificial blood",
+      "tag": "Research robots",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "New Atlas reports that engineers at the University of Tartu and the Italian Institute of Technology built a moth-shaped robot that forms a new ultraviolet sensor in its 3D-printed body when ultraviolet light triggers chemicals in about 3 ml of artificial blood circulating through tiny veins.",
+        "According to first author Kadri-Ann Pankratov, pyrrole in the fluid turns into conductive polypyrrole where UV hits a stenciled wing patch, and gold wires printed into the body read the resistance drop so the robot can blink an LED or flap its wings. The sensor still worked after four months in storage.",
+        "New Atlas notes the prototype cannot fly, uses an external power supply for nitinol wing actuators, and relies on researchers—not the robot—to decide when and where to grow the sensor. The study appears in Advanced Science; the team says future circulatory systems might flush and reuse different chemistries."
       ],
       "sources": [
         {
           "name": "New Atlas",
-          "url": "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/",
-          "date": "2026-11-01"
+          "url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/",
+          "date": "2026-11-05"
         }
       ],
       "image": {
-        "url": "https://assets.newatlas.com/dims4/default/2450fe3/2147483647/strip/true/crop/1920x1008+0+36/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F7a%2F67%2Fbbe11c8b47b39b998f1ff9581cf2%2Fneodradynamics-robot.jpeg&na.image_optimisation=0",
-        "credit": "NeodraDynamics, via New Atlas",
-        "alt": "NeodraDynamics' 13-foot Neo1 hydraulic humanoid robot"
+        "url": "https://assets.newatlas.com/dims4/default/ab2597d/2147483647/strip/true/crop/2417x1269+231+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcc%2F4a%2F4acd235442af8a74baa0b5d94f47%2Frobot-moth-gained-an-e-2.jpg&na.image_optimisation=0",
+        "credit": "Kadri-Ann Pankratov et al., via New Atlas",
+        "alt": "Robot moth with artificial blood channels in its wings"
       }
     }
   ]

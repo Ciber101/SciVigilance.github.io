@@ -1,60 +1,71 @@
 {
-  "updated": "2026-11-02T01:45:59-08:00",
-  "updated_pt": "Nov 2, 2026, 1:45 AM PT",
+  "updated": "2026-11-05T13:44:52-08:00",
+  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
   "stories": [
     {
-      "title": "DeepSeek open-sources dsh-superagent, a research prototype of a coding agent that waits to be asked and splits work into parallel sessions",
-      "tag": "AI agents",
-      "date": "2026-10-31",
+      "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video",
+      "tag": "AI video",
+      "date": "2026-11-05",
       "paragraphs": [
-        "DeepSeek published a public GitHub repository, deepseek-ai/dsh-superagent-prototype, on Oct. 31, 2026, under the MIT license. The README describes dsh-superagent as a proactive coding agent for one GitHub repository, packaged as a bundle for DeepSeek Harness. It listens to GitHub and, optionally, the Feishu chat app, and when someone who is allowed asks it for work, it opens a work item, works on it in its own agent session and directory, and answers in the original conversation, for example with a pull request. A web panel shows what needs a person.",
-        "The README labels the code a research prototype for reference only and not an official DeepSeek product. It says much of the engineering was done by coding agents, that it may still contain bugs, and that it differs from DeepSeek's internal version and from the design described in its post Exploring Super-agent Design: Towards a More Autonomous Agent System, some of which is not implemented. The stated principle is to take as little human attention as possible and give as much value as possible, so the agent acts only when asked or when a rule the team wrote allows it.",
-        "MarkTechPost reported on Nov. 1 that the design uses two layers: a long-running Router that handles interaction and dispatch, and isolated Worker sessions that do the work, one per work item, which the project calls a Ticket. It reported that unrequested work is gated by three modes, off, observe and auto, with observe as the default, in which the agent only records what it would have accepted. MarkTechPost listed the requirements as Node.js 22.19 or newer, git, Python, tmux and the GitHub command-line tool, and noted that the agent runs with full access as the operating-system user, so it advised isolating it before use.",
-        "Citing a Chinese tech outlet's account of DeepSeek's report, MarkTechPost said that in a simulation with about 300 messages per run, about 20 of them real work requests, the super-agent reached a 95th-percentile task completion time of 15.7 minutes, against 29.5 minutes for a single-session agent with subagents. MarkTechPost noted that these figures are self-reported, came from tests with synthetic messages and simulated tools, and that real coding quality was not measured."
+        "Google said on Nov. 5, 2026, that Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. The update adds native clips up to 15 seconds (up from 10 on Omni 1.1), multi-turn conversational editing, stronger reference adherence, and a 30% price cut to $0.07 per second for 720p.",
+        "According to Google DeepMind product manager Anish Nangia, users can draft at 360p or 720p, refine with follow-up edits instead of full regenerations, then upscale selected clips to 1080p or 4K, and set duration in one-second steps from 3 to 15 seconds.",
+        "Google says the model keeps character and product details more consistent across camera moves, supports short motion references up to three seconds plus audio cues, improves multi-speaker lip-sync, and watermarks outputs with SynthID. Provisioned Throughput is available for enterprise customers."
       ],
       "sources": [
         {
-          "name": "DeepSeek (GitHub)",
-          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-          "date": "2026-10-31"
-        },
-        {
-          "name": "MarkTechPost",
-          "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-          "date": "2026-11-01"
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "date": "2026-11-05"
         }
       ],
       "image": {
-        "url": "https://opengraph.githubassets.com/058e67920f36c6ac6fc3aaa53a72fb63967740c0afefeed80ec761de53357d9c/deepseek-ai/dsh-superagent-prototype",
-        "credit": "DeepSeek, via GitHub",
-        "alt": "GitHub preview card for the deepseek-ai/dsh-superagent-prototype repository"
+        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+        "credit": "Google",
+        "alt": "Gemini Omni 1.2 Flash announcement graphic"
       }
     },
     {
-      "title": "NVIDIA releases Auto Ontology, an open-source layer meant to help AI agents query company data using trusted business definitions",
-      "tag": "AI",
-      "date": "2026-11-01",
+      "title": "OpenAI introduces Images 2.6 with Flare, Sunburst, GIFs, and SVG export",
+      "tag": "AI image",
+      "date": "2026-11-04",
       "paragraphs": [
-        "MarkTechPost reported on Nov. 1, 2026 that NVIDIA has released Auto Ontology, an open library under the Apache 2.0 license. NVIDIA's GitHub page describes it as a library that builds a context layer from enterprise metadata, telling AI agents where data lives, what it means, whether and how to use it, and where it came from, and that serves this layer to any agent harness through MCP, a command-line tool and an API.",
-        "NVIDIA's repository states the motivation directly: \"a revenue metric answered faster is worth nothing if the number is wrong.\" According to the repository, the library generates ontologies from metadata, reconciles inconsistent definitions across systems, checks generated queries against certified definitions and returns provenance with every answer. MarkTechPost reports that NVIDIA's developer page frames the output as a starting ontology that business experts still test, refine and certify.",
-        "The repository lists four core services: a Next.js web front end, a FastAPI back end using LangChain, an ingestion worker that writes embeddings, and Postgres with pgvector. MarkTechPost reports that source databases can be Databricks, Postgres, Snowflake or DuckDB, and that the MCP server offers nine read-only tools with no tool for browsing raw schemas, which the outlet says NVIDIA chose on purpose so agents reach data through the semantic layer. By default it uses NVIDIA NIM endpoints with Nemotron models, according to the repository.",
-        "NVIDIA also publishes a separate evaluation harness, auto-ontology-eval, which compares a schema-only model against the ontology-grounded agent on benchmarks including BIRD, MarkTechPost reports. The outlet notes that the harness repository lists limitations, including that optional examples are given only to the ontology arm, so a gain measured with them reflects those inputs and not grounding alone."
+        "MarkTechPost reports that OpenAI shipped Images 2.6 on Nov. 4, 2026, across ChatGPT, Codex, and the API, saying generation is 50% faster than before and that users now create more than 4 billion images per week across ChatGPT and the API.",
+        "According to MarkTechPost's summary of the launch, the API adds GPT-Image-2.6 Flare for fast iteration—returning images in as little as six seconds at low quality—and GPT-Image-2.6 Sunburst for higher detail and stronger edit consistency. ChatGPT users can create animated GIFs, edit frames, and save reusable reference images.",
+        "MarkTechPost also lists markup-guided edits, SVG export, GIF output, and a complexity parameter (low, medium, or high; default high) separate from quality, with token pricing matching the prior image release."
       ],
       "sources": [
         {
           "name": "MarkTechPost",
-          "url": "https://www.marktechpost.com/2026/11/01/nvidia-auto-ontology-open-source-semantic-layer-ai-agents/",
-          "date": "2026-11-01"
-        },
-        {
-          "name": "NVIDIA on GitHub",
-          "url": "https://github.com/NVIDIA/auto-ontology"
+          "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+          "date": "2026-11-04"
         }
       ],
       "image": {
-        "url": "https://raw.githubusercontent.com/NVIDIA/auto-ontology/main/docs/assets/arch.png",
-        "credit": "NVIDIA, via GitHub",
-        "alt": "NVIDIA Auto Ontology architecture diagram"
+        "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
+        "credit": "OpenAI",
+        "alt": "OpenAI Images 2.6 announcement graphic"
+      }
+    },
+    {
+      "title": "Mistral expands Studio for enterprise agents, workflows, and apps alongside Le Chonk",
+      "tag": "AI agents",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "Mistral AI said it is expanding Mistral Studio with managed agents and apps, plus updates for workflows, enterprise context, observability, and evaluations. The company positions Studio as the platform for putting Mistral Large 4 (Le Chonk) to work on coding, defensive cybersecurity, and document reasoning tasks.",
+        "According to Mistral, Studio can run in the cloud, a customer's VPC, on-premises, or mixed environments. Developers can build agents with skills, code sandboxes, subagents, and approval hooks; define workflows with event triggers and a visual graph; and host apps with authentication and access controls. A Mistral MCP server lets developers test locally and deploy with one command.",
+        "Mistral cites production customers including ABANCA, Accenture, Alten, BNP Paribas, Capgemini, CMA CGM, and Tata Consultancy Services. Internal examples include an incident-investigation agent that follows runbooks and posts findings in Slack, and a product-ops workflow that Mistral says saves about 35 hours a week routing feedback."
+      ],
+      "sources": [
+        {
+          "name": "Mistral AI",
+          "url": "https://mistral.ai/news/build-with-studio/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
+        "credit": "Mistral AI",
+        "alt": "Mistral Studio announcement graphic"
       }
     }
   ]
