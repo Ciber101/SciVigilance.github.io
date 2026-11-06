@@ -1,29 +1,7 @@
 {
-  "updated": "2026-11-05T13:44:52-08:00",
-  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
+  "updated": "2026-11-05T16:50:00-08:00",
+  "updated_pt": "Nov 5, 2026, 4:50 PM PT",
   "stories": [
-    {
-      "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video",
-      "tag": "AI video",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "Google said on Nov. 5, 2026, that Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. The update adds native clips up to 15 seconds (up from 10 on Omni 1.1), multi-turn conversational editing, stronger reference adherence, and a 30% price cut to $0.07 per second for 720p.",
-        "According to Google DeepMind product manager Anish Nangia, users can draft at 360p or 720p, refine with follow-up edits instead of full regenerations, then upscale selected clips to 1080p or 4K, and set duration in one-second steps from 3 to 15 seconds.",
-        "Google says the model keeps character and product details more consistent across camera moves, supports short motion references up to three seconds plus audio cues, improves multi-speaker lip-sync, and watermarks outputs with SynthID. Provisioned Throughput is available for enterprise customers."
-      ],
-      "sources": [
-        {
-          "name": "Google",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-        "credit": "Google",
-        "alt": "Gemini Omni 1.2 Flash announcement graphic"
-      }
-    },
     {
       "title": "OpenAI introduces Images 2.6 with Flare, Sunburst, GIFs, and SVG export",
       "tag": "AI image",
@@ -42,18 +20,72 @@
       ],
       "image": {
         "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-        "credit": "OpenAI",
+        "credit": "OpenAI, via MarkTechPost coverage",
         "alt": "OpenAI Images 2.6 announcement graphic"
       }
     },
     {
-      "title": "Mistral expands Studio for enterprise agents, workflows, and apps alongside Le Chonk",
+      "title": "Together AI's Compiler uses agents to re-optimize inference as traffic changes",
+      "tag": "AI systems",
+      "date": "2026-11-04",
+      "paragraphs": [
+        "Together AI said on Nov. 4, 2026, that Together Compiler (TKCC) is a continual compilation loop in which coding agents rewrite a model's forward pass while a persistent serving engine hot-reloads candidates instead of restarting for every trial. The company says the system already runs on several of its serverless endpoints.",
+        "According to Together's research post, the loop takes a launch command, traffic profile, and hardware config, then measures candidates with fast few-layer and slower many-layer engine tiers. Together reports up to 2.6× higher tokens per second than the best published InferenceX configurations in under 24 hours per setting, and about 252× higher experiment throughput than an engine-restart baseline.",
+        "MarkTechPost notes self-reported batch-size-1 gains such as 1,111 versus 633 P90 TPS per user on MiniMax M3.1 Flash on NVIDIA B200 hardware, with smaller gains on some AMD MI355X runs. Together says agents work across NVIDIA B200/B300/GB300/H100, AMD MI355X, and AWS Trainium2."
+      ],
+      "sources": [
+        {
+          "name": "Together AI",
+          "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aead6f8d7e2304104f29687_TKCC_OG_1200x630-dark.jpg",
+        "credit": "Together AI",
+        "alt": "Together Compiler continual compilation announcement graphic"
+      }
+    },
+    {
+      "title": "Baidu releases ERNIE 5.5 Flash Base as a 280B MoE pre-training checkpoint",
+      "tag": "Frontier models",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "Baidu said on Nov. 5, 2026, that ERNIE-5.5-Flash-Base is a sparse mixture-of-experts text model with 280 billion total parameters and 14 billion activated per token. The released weights stop at the end of pre-training, with no mid- or post-training, as a baseline for fine-tuning and research.",
+        "According to Baidu, the model was pre-trained on 33.5 trillion tokens with a 128K training context and up to 1M tokens for fine-tuning and inference. Architecture highlights include hybrid Heavily Compressed Attention and Multi-head Latent Attention layers, Multi-Router Latent MoE with 512 routed experts (top-10) plus one shared expert, and an ECHO multi-token prediction head.",
+        "MarkTechPost notes Baidu's unified-pipeline scores of 78.4 on MMLU-Pro and 82.3 on HumanEval+, with FP8 and BF16 weights on Hugging Face and ModelScope under the ERNIE 5.5 Flash Base Model License Agreement v1.0. Benchmark figures are self-reported by Baidu."
+      ],
+      "sources": [
+        {
+          "name": "Baidu ERNIE",
+          "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-10-scaled.png",
+        "credit": "MarkTechPost (covering Baidu ERNIE release)",
+        "alt": "Baidu ERNIE 5.5 Flash Base announcement graphic"
+      }
+    },
+    {
+      "title": "Mistral expands Studio for enterprise agents, workflows, and apps",
       "tag": "AI agents",
       "date": "2026-11-05",
       "paragraphs": [
         "Mistral AI said it is expanding Mistral Studio with managed agents and apps, plus updates for workflows, enterprise context, observability, and evaluations. The company positions Studio as the platform for putting Mistral Large 4 (Le Chonk) to work on coding, defensive cybersecurity, and document reasoning tasks.",
-        "According to Mistral, Studio can run in the cloud, a customer's VPC, on-premises, or mixed environments. Developers can build agents with skills, code sandboxes, subagents, and approval hooks; define workflows with event triggers and a visual graph; and host apps with authentication and access controls. A Mistral MCP server lets developers test locally and deploy with one command.",
-        "Mistral cites production customers including ABANCA, Accenture, Alten, BNP Paribas, Capgemini, CMA CGM, and Tata Consultancy Services. Internal examples include an incident-investigation agent that follows runbooks and posts findings in Slack, and a product-ops workflow that Mistral says saves about 35 hours a week routing feedback."
+        "According to Mistral, Studio can run in the cloud, a customer's VPC, on-premises, or mixed environments. Developers can build agents with skills, code sandboxes, subagents, and approval hooks; define workflows with event triggers and a visual graph; and host apps with authentication and access controls.",
+        "Mistral cites production customers including ABANCA, Accenture, Alten, BNP Paribas, Capgemini, CMA CGM, and Tata Consultancy Services, and gives internal examples such as an incident-investigation agent and a product-ops workflow it says saves about 35 hours a week routing feedback."
       ],
       "sources": [
         {

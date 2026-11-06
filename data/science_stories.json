@@ -1,104 +1,94 @@
 {
-  "updated": "2026-11-05T13:44:52-08:00",
-  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
-  "stories": [
+ "updated": "2026-11-05T16:50:00-08:00",
+ "updated_pt": "Nov 5, 2026, 4:50 PM PT",
+ "stories": [
+  {
+   "title": "Voyager 1 resumes contact after a 48-hour communications pause",
+   "tag": "Space",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "JPL said NASA's Deep Space Network lost Voyager 1's signal on Oct. 18–19, 2026, then regained it on Oct. 20 after about 48 hours, before troubleshooting commands could arrive. Space.com notes the probe is nearly one light-day from Earth and will hit that distance on Nov. 18.",
+    "Engineers found one thruster group went offline and backups engaged automatically under fault protection. Mission manager Kareem Badaruddin called it the first time the spacecraft has behaved this way. The root cause remains under investigation.",
+    "In early September, JPL finished Voyager 1's \"Big Bang\" power swap—replacing three devices with lower-power alternatives—after a similar change on Voyager 2 about six weeks earlier, aiming to keep remaining science instruments running longer as each craft loses about 4 watts of power per year."
+   ],
+   "sources": [
     {
-      "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
-      "tag": "Space",
-      "date": "2026-11-04",
-      "paragraphs": [
-        "NASA said the Neil Gehrels Swift Observatory reentered at 7:39 a.m. EST on Nov. 4, 2026, over North Sumatra, Indonesia. Live Science reports the roughly 3,200-pound spacecraft was expected mostly to burn up, with a 1-in-2,100 chance of debris reaching a populated area, and no damage or injuries reported.",
-        "The Conversation says Swift launched in 2004 to chase gamma-ray bursts and other fast events with three telescopes, and could slew about 50 degrees in under 75 seconds. By 2015 it had logged its 1,000th gamma-ray burst; NASA estimates about 7,000 related research papers.",
-        "Solar-maximum drag and a failed July 2026 Katalyst Space Technologies boost mission left Swift on a path to reentry, according to both outlets. Swift also aided supernova alerts, IceCube neutrino localization, and a 2025 hydroxyl detection on 3I/ATLAS."
-      ],
-      "sources": [
-        {
-          "name": "The Conversation",
-          "url": "https://theconversation.com/nasas-swift-observatory-has-burned-up-in-the-atmosphere-the-indispensable-telescope-helped-astronomers-track-fast-moving-events-in-space-293320",
-          "date": "2026-11-04"
-        },
-        {
-          "name": "Live Science",
-          "url": "https://www.livescience.com/space/astronomy/swift-has-fallen-nasas-22-year-old-space-telescope-burns-up-over-sumatra",
-          "date": "2026-11-04"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/mVDW5MbGvYDYoj4pH3Wshm-2143-80.jpg",
-        "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab, via Live Science",
-        "alt": "Illustration of NASA's Swift Observatory above Earth"
-      }
-    },
-    {
-      "title": "SLAC-led team confirms altermagnetism as a third magnetic phase",
-      "tag": "Physics",
-      "date": "2026-11-04",
-      "paragraphs": [
-        "ScienceDaily reports that a SLAC-led team published in Science experimental confirmation of altermagnetism in manganese telluride (MnTe). Lead author Daniel Jost said the results provide robust confirmation that this third phase is real. The Science paper is dated Oct. 29, 2026.",
-        "According to SLAC, altermagnets combine antiferromagnet-like alternating spins with a rotated crystal environment around opposite spins—a symmetry break proposed in 2022. Using circularly polarized X-rays at ESRF's ID32 beamline, the team measured a chiral scattering difference between left- and right-handed light that conventional antiferromagnets should not show.",
-        "Jost said altermagnets offer zero net magnetization for stability plus spin-polarized currents that are useful for reading information in spintronic devices. The DOE Office of Science partly funded the work."
-      ],
-      "sources": [
-        {
-          "name": "ScienceDaily",
-          "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-          "date": "2026-11-04"
-        },
-        {
-          "name": "SLAC",
-          "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-          "date": "2026-10-29"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
-        "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
-        "alt": "Graphic comparing three forms of magnetism"
-      }
-    },
-    {
-      "title": "Record-low temperature created with ultracold atoms on China's Tiangong station",
-      "tag": "Physics",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "Science News reports that researchers cooled about 20,000 rubidium atoms on China's Tiangong space station to roughly 10 picokelvins, forming a Bose-Einstein condensate colder than any previously reported. The study appears in Science on Nov. 5, 2026.",
-        "Laser traps slowed the atoms in microgravity, avoiding the sagging gravity causes on Earth. Earlier ISS condensates reached about 52 picokelvins, and a drop-tower experiment reached 38 picokelvins; orbital free fall lasts far longer than a tower drop.",
-        "Science News says such ultracold atoms help probe exotic quantum states and tests of the equivalence principle."
-      ],
-      "sources": [
-        {
-          "name": "Science News",
-          "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
-        "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
-        "alt": "Rendering of China's Tiangong space station"
-      }
-    },
-    {
-      "title": "Voyager 1 resumes contact after a 48-hour communications pause",
-      "tag": "Space",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "JPL said NASA's Deep Space Network lost Voyager 1's signal on Oct. 18–19, 2026, then regained it on Oct. 20 after about 48 hours, before troubleshooting commands could arrive. Space.com notes the probe is nearly one light-day from Earth and will hit that distance on Nov. 18.",
-        "Engineers found one thruster group went offline and backups engaged automatically under fault protection. Mission manager Kareem Badaruddin called it the first time the spacecraft has behaved this way. The root cause remains under investigation.",
-        "In early September, JPL finished Voyager 1's \"Big Bang\" power swap—replacing three devices with lower-power alternatives—after a similar change on Voyager 2 about six weeks earlier, aiming to keep remaining science instruments running longer as each craft loses about 4 watts of power per year."
-      ],
-      "sources": [
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-        "credit": "JPL-Caltech/NASA, via Space.com",
-        "alt": "Illustration of NASA's Voyager 1 probe"
-      }
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+     "date": "2026-11-05"
     }
-  ]
+   ],
+   "image": {
+    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
+    "credit": "JPL-Caltech/NASA, via Space.com",
+    "alt": "Illustration of NASA's Voyager 1 probe"
+   }
+  },
+  {
+   "title": "Underwater volcano generator briefly makes net-positive electricity off Oregon",
+   "tag": "Earth science",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "ScienceAlert reports that Seattle-based Endurance Energy ran its Adélie seafloor generator at Axial Seamount, about 480 kilometers (300 miles) off Oregon and roughly 1,500 meters (5,000 feet) deep, and said the system produced more electricity than it consumed for 8.7 seconds during a Sept. 27 test announced Oct. 19.",
+    "According to ScienceAlert's summary of the company release, hot vent water near 281°C (538°F) drove a turbine to about 26,000 revolutions per minute. After subtracting pump and other loads, Endurance reported a median surplus of about 2 kilowatts during that interval, with a peak of 16.5 kilowatts. The run stopped when a battery safety system tripped; a pump power cable later failed on restart.",
+    "ScienceAlert notes the measurements come from Endurance with no peer-reviewed paper yet, and that energy used for shipping, drilling, and installation is not included. CEO Andrew Redd said the next 100-kilowatt Gentoo unit targets longer runs this winter, with first commercial power aimed at Tonga in 2027."
+   ],
+   "sources": [
+    {
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/world-first-underwater-volcano-off-us-coast-generates-net-positive-electricity",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencealert.com/images/2026/11/UnderwaterVolcanoNetElectricity.png",
+    "credit": "Endurance Energy, via ScienceAlert",
+    "alt": "Endurance Energy seafloor geothermal generator prototype"
+   }
+  },
+  {
+   "title": "Blind listeners and musicians show less internal noise in pitch hearing",
+   "tag": "Neuroscience",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "In The Conversation, Georgia Tech psychologist Woon Ju Park summarizes a Journal of Neuroscience study comparing nine people blind before age 2 with 18 sighted participants who had varied musical training on tone-in-noise detection and pitch discrimination tasks.",
+    "Park writes that early-blind participants outperformed sighted peers only on pitch discrimination, pointing to brain-level processing rather than cochlear frequency selectivity. A mathematical model attributed the advantage to lower internal noise—more consistent responses to the same sound over time.",
+    "The same analysis found that musical training similarly reduced internal noise in sighted musicians compared with people who were neither early-blind nor extensively trained. Park says how much training is needed, and whether gains extend to everyday complex listening, remains open."
+   ],
+   "sources": [
+    {
+     "name": "The Conversation",
+     "url": "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://images.theconversation.com/files/769873/original/file-20261103-78-edp029.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
+    "credit": "Szepy/iStock via Getty Images Plus, via The Conversation",
+    "alt": "Person listening intently, illustrating pitch perception research"
+   }
+  },
+  {
+   "title": "Lyman-alpha radiation may clear fog around early bright galaxies",
+   "tag": "Astronomy",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "Universe Today reports that Flatiron Institute researcher Shyam H. Menon and University of Texas at Dallas physicist Aaron Smith argue in The Astrophysical Journal that Lyman-alpha radiation pressure can help explain why JWST sees unexpectedly bright, dense star clusters only a few hundred million years after the Big Bang.",
+    "According to Universe Today, the team post-processed radiation-hydrodynamic simulation snapshots with Smith's COLT Monte Carlo code rather than simulating Lyα self-consistently from scratch. They conclude Lyα is unlikely to stop dense filament star formation, but once star formation saturates it can eject volume-filling gas and dust.",
+    "Menon told Universe Today that clearing that diffuse \"fog\" lets observers see early stars more clearly and can launch fast winds. The paper is titled \"Lyα Radiation Pressure in Dense Star Clusters: Implications for Star Formation and Winds at Cosmic Dawn.\""
+   ],
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://www.universetoday.com/article_images/Lede_LymanAlpha_c.Matt-Twombly_Simons-Foundation.jpg-1024x576_20261105_133649.jpg",
+    "credit": "Matt Twombly for Simons Foundation, via Universe Today",
+    "alt": "Artist illustration of bright early galaxies at Cosmic Dawn"
+   }
+  }
+ ]
 }

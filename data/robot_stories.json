@@ -1,67 +1,94 @@
 {
-  "updated": "2026-11-05T13:44:52-08:00",
-  "updated_pt": "Nov 5, 2026, 1:44 PM PT",
-  "stories": [
+ "updated": "2026-11-05T16:50:00-08:00",
+ "updated_pt": "Nov 5, 2026, 4:50 PM PT",
+ "stories": [
+  {
+   "title": "Agility Robotics closes first Nasdaq day up after SPAC debut",
+   "tag": "Humanoids",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "The Robot Report says Agility Robotics began trading on Nasdaq on Nov. 5, 2026, under ticker AGLT after completing its merger with Churchill Capital Corp XI, calling itself the first pure-play legged humanoid company to go public. Shares opened at $11.26 versus the $10 SPAC deal price.",
+    "According to the report's day-one wrap, AGLT traded as low as $8.40 and as high as $12.15 before closing at $11.49, about 2% above the open, while the Nasdaq Composite fell 5.52%. The earlier listing story said gross proceeds were about $465 million before expenses.",
+    "Agility says Digit has logged more than 65,000 operating hours across customer sites and claims more than $300 million in committed multiyear orders for Digit 5, with early-access deliveries expected in 2027. CEO Peggy Johnson has discussed possible additional form factors beyond the current Digit lineup."
+   ],
+   "sources": [
     {
-      "title": "Agility Robotics begins trading on Nasdaq after SPAC merger",
-      "tag": "Humanoids",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "The Robot Report says Agility Robotics began trading on Nasdaq on Nov. 5, 2026, under the ticker AGLT after completing its merger with Churchill Capital Corp XI. Shares opened at $11.26, above the $10 SPAC deal price, and were at $10.30 as of the article's press time.",
-        "According to the report, Churchill XI shareholders approved the deal on Nov. 2 with more than 84% of votes cast in favor, and the transaction closed Nov. 4. Gross proceeds were about $465 million before expenses, including roughly $164 million from the trust after redemptions, $201 million from a Foxconn-led PIPE, and a $100 million funding round closed after the SPAC announcement.",
-        "Agility says Digit has logged more than 65,000 operating hours across nine customer facilities, including AGCO, GXO Logistics, Schaeffler, Mercado Libre, and Toyota Motor Manufacturing Canada. The company reported $1.78 million in 2025 revenue and more than $300 million in committed multiyear orders for next-generation Digit 5, with early-access deliveries expected in 2027. CEO Peggy Johnson called the listing a way to accelerate putting robots into more workplaces."
-      ],
-      "sources": [
-        {
-          "name": "The Robot Report",
-          "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://www.therobotreport.com/wp-content/uploads/2026/09/Agility_Digit5_06-featured.jpg",
-        "credit": "Agility Robotics, via The Robot Report",
-        "alt": "Agility Robotics Digit humanoid"
-      }
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+     "date": "2026-11-05"
     },
     {
-      "title": "Boston Dynamics unveils Stretch Gen 2 for faster trailer unloading and repairs",
-      "tag": "Logistics robots",
-      "date": "2026-11-03",
-      "paragraphs": [
-        "Boston Dynamics announced Stretch Gen 2 on Nov. 3, 2026, as the next generation of its autonomous mobile trailer-unloading robot. RoboticsTomorrow reports the redesign draws on more than 100,000 operating hours and tens of millions of boxes unloaded by first-generation Stretch to cut unplanned downtime.",
-        "According to the company release carried by RoboticsTomorrow, Gen 2 uses automotive-grade connectors, an upgraded gripper with finer sensing, continuous-rotation joints that no longer hit hard stops, and about 81% less internal cabling—removing a major source of electrical faults. Exterior panels and a recessed emergency stop are meant to reduce accidental stoppages from falling boxes.",
-        "Boston Dynamics says a full swerve-drive swap now takes about one hour instead of a full day, and onboard diagnostics aim to let customer teams handle more routine service. Stretch Gen 2 can unload up to 1,000 cases per hour depending on case weight and stacking, runs about two shifts per charge, and fast-charges to 90% in about 75 minutes."
-      ],
-      "sources": [
-        {
-          "name": "RoboticsTomorrow",
-          "url": "https://www.roboticstomorrow.com/news/2026/11/03/boston-dynamics-launches-next-generation-stretch-robot/27335",
-          "date": "2026-11-03"
-        }
-      ]
-    },
-    {
-      "title": "Robot moth grows a new UV sensor from chemicals in its artificial blood",
-      "tag": "Research robots",
-      "date": "2026-11-05",
-      "paragraphs": [
-        "New Atlas reports that engineers at the University of Tartu and the Italian Institute of Technology built a moth-shaped robot that forms a new ultraviolet sensor in its 3D-printed body when ultraviolet light triggers chemicals in about 3 ml of artificial blood circulating through tiny veins.",
-        "According to first author Kadri-Ann Pankratov, pyrrole in the fluid turns into conductive polypyrrole where UV hits a stenciled wing patch, and gold wires printed into the body read the resistance drop so the robot can blink an LED or flap its wings. The sensor still worked after four months in storage.",
-        "New Atlas notes the prototype cannot fly, uses an external power supply for nitinol wing actuators, and relies on researchers—not the robot—to decide when and where to grow the sensor. The study appears in Advanced Science; the team says future circulatory systems might flush and reuse different chemistries."
-      ],
-      "sources": [
-        {
-          "name": "New Atlas",
-          "url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/",
-          "date": "2026-11-05"
-        }
-      ],
-      "image": {
-        "url": "https://assets.newatlas.com/dims4/default/ab2597d/2147483647/strip/true/crop/2417x1269+231+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcc%2F4a%2F4acd235442af8a74baa0b5d94f47%2Frobot-moth-gained-an-e-2.jpg&na.image_optimisation=0",
-        "credit": "Kadri-Ann Pankratov et al., via New Atlas",
-        "alt": "Robot moth with artificial blood channels in its wings"
-      }
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+     "date": "2026-11-05"
     }
-  ]
+   ],
+   "image": {
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Agility_Digit5_04-featured.jpg",
+    "credit": "Agility Robotics, via The Robot Report",
+    "alt": "Agility Robotics Digit 5 humanoid"
+   }
+  },
+  {
+   "title": "Serve Robotics launches Physical AI Services to sell robot connectivity and data tools",
+   "tag": "Delivery robots",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "TechCrunch reports that Serve Robotics, the public sidewalk-delivery robot maker that spun out of Uber's Postmates acquisition, announced a new Physical AI Services business on Nov. 5, 2026, alongside third-quarter earnings, aiming to sell technology it built for its own fleets to other robot developers.",
+    "According to CEO Ali Kashani, the line includes Serve Link for connecting field robots to data-center AI over unreliable networks, a data curator for finding edge cases in robot logs, and a foundation-model data catalog drawn from Serve's sidewalk robots. Bedrock Robotics is named as a customer, and Serve is also working with T-Mobile on bringing AI compute closer to robots.",
+    "Kashani told TechCrunch the company is keeping its delivery and hospital-robot businesses while opening the stack so others can build on it, comparing the move to Amazon's AWS moment after running the technology end-to-end itself first."
+   ],
+   "sources": [
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+    "credit": "Serve Robotics, via TechCrunch",
+    "alt": "Serve Robotics sidewalk delivery robot"
+   }
+  },
+  {
+   "title": "Boston Dynamics unveils Stretch Gen 2 for faster trailer unloading and repairs",
+   "tag": "Logistics robots",
+   "date": "2026-11-03",
+   "paragraphs": [
+    "Boston Dynamics announced Stretch Gen 2 on Nov. 3, 2026, as the next generation of its autonomous mobile trailer-unloading robot. RoboticsTomorrow reports the redesign draws on more than 100,000 operating hours and tens of millions of boxes unloaded by first-generation Stretch to cut unplanned downtime.",
+    "According to the company release carried by RoboticsTomorrow, Gen 2 uses automotive-grade connectors, an upgraded gripper with finer sensing, continuous-rotation joints that no longer hit hard stops, and about 81% less internal cabling—removing a major source of electrical faults. Exterior panels and a recessed emergency stop are meant to reduce accidental stoppages from falling boxes.",
+    "Boston Dynamics says a full swerve-drive swap now takes about one hour instead of a full day, and onboard diagnostics aim to let customer teams handle more routine service. Stretch Gen 2 can unload up to 1,000 cases per hour depending on case weight and stacking, runs about two shifts per charge, and fast-charges to 90% in about 75 minutes."
+   ],
+   "sources": [
+    {
+     "name": "RoboticsTomorrow",
+     "url": "https://www.roboticstomorrow.com/news/2026/11/03/boston-dynamics-launches-next-generation-stretch-robot/27335",
+     "date": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "title": "Hopcopter's flexible foot pad steadies hopping landings across rough terrain",
+   "tag": "Research robots",
+   "date": "2026-11-04",
+   "paragraphs": [
+    "New Atlas reports that researchers at City University of Hong Kong, the Hong Kong University of Science and Technology, and the University of Toronto upgraded the bird-inspired Hopcopter—a quadcopter with one spring-loaded hopping leg—with a flexible foot pad for ice, sand, rocks, and slopes.",
+    "According to New Atlas, the wider pad spreads weight to limit sinking, rubber bands help the foot recenter after impact, and short spikes improve grip on slippery surfaces. The team says the pad cut performance variation across terrains by 84% compared with the earlier flat-surface prototype.",
+    "New Atlas notes hopping uses brief rotor bursts after free-fall and can use about one-tenth the energy of continuous flight for the same-size drone. A paper appears in Advanced Intelligent Systems; partners are commercializing a Hop-1 version and exploring AI obstacle avoidance for search-and-rescue and inspection roles."
+   ],
+   "sources": [
+    {
+     "name": "New Atlas",
+     "url": "https://newatlas.com/robotics/hopcopter-hopping-robot-flexible-foot-pad/",
+     "date": "2026-11-04"
+    }
+   ],
+   "image": {
+    "url": "https://assets.newatlas.com/dims4/default/1ffa053/2147483647/strip/true/crop/1310x688+0+93/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2F77%2Fb2%2F83fdf180445aa8c1210047983576%2Fhopcopter-6-1500x1000.jpeg&na.image_optimisation=0",
+    "credit": "Aaron Demeter, via New Atlas",
+    "alt": "Close view of the Hopcopter flexible foot pad"
+   }
+  }
+ ]
 }

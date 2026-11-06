@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T13:44:15-08:00",
- "updated_pt": "Nov 5, 2026, 1:44 PM PT",
+ "updated": "2026-11-05T16:50:00-08:00",
+ "updated_pt": "Nov 5, 2026, 4:50 PM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
@@ -82,26 +82,26 @@
    }
   },
   {
-   "title": "Voyager 1 restored contact after a brief communications pause in interstellar space",
+   "title": "Spacewalkers finish installing the ISS's eighth and final roll-out solar array",
    "tag": "Space",
    "date": "2026-11-05",
    "paragraphs": [
-    "NASA's Jet Propulsion Laboratory said that Deep Space Network antennas failed to hear Voyager 1 on Oct. 18 and 19, 2026, then regained the signal on Oct. 20 after about 48 hours—before engineers could send troubleshooting commands. Space.com's Nov. 5 coverage notes the probe is almost one light-day from Earth and will reach that milestone on Nov. 18 at 16.09 billion miles (25.89 billion kilometers).",
-    "According to JPL, engineers determined that one thruster group went offline and backups turned on automatically. That fault-protection response puts the spacecraft in a safe configuration and pauses normal operations. Mission manager Kareem Badaruddin said, \"This is the first time we've seen the spacecraft do something like this, but we are also at a point in the mission where we have to expect the unexpected.\" The cause is still under investigation.",
-    "JPL also reports that in early September engineers finished the \"Big Bang\" power save on Voyager 1, turning off three devices and substituting lower-power alternatives—about six weeks after the same swap on Voyager 2. Each Voyager loses about 4 watts of radioisotope power per year; without the swap, another Voyager 1 science instrument might have needed shutting off as early as summer 2027.",
-    "Both Voyagers launched in 1977, studied the outer planets, and now operate in interstellar space. Space.com notes Suzanne Dodd has previously hoped the missions could run into the 2030s."
+    "Space.com reports that Expedition 75 flight engineers Anil Menon of NASA and Joshua Kutryk of the Canadian Space Agency completed a 6-hour, 59-minute spacewalk on Nov. 5, 2026, installing and deploying the eighth and final International Space Station Roll-Out Solar Array (iROSA). The EVA began at 8:36 a.m. EST and ended at 3:35 p.m. EST.",
+    "According to Space.com, the crew worked on the starboard 3B power channel, moving the roughly 750-pound (340-kilogram) array from a temporary stowage platform with Canadarm2 and mounting it on a previously assembled bracket kit. After an initial low shunt-current reading forced a wait for orbital night so connectors could be inspected, Mission Control cleared deployment once shunt currents looked good.",
+    "Space.com says each iROSA unfurls to about 63 feet (19 meters) using stored energy in carbon-composite booms, with no motor required; the final deploy took about 10 minutes. Menon said the new arrays are about half the size of the original wings while bringing about 40% more power, and NASA notes the full set of eight can raise station electricity by as much as about 30%.",
+    "The first iROSAs launched in 2021 after the station's original arrays aged past their 15-year design life. Space.com reports all eight arrays and mounts arrived on SpaceX Dragon cargo flights, and the upgrades are meant to support ISS operations through planned retirement and controlled deorbit in late 2030."
    ],
    "sources": [
     {
      "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+     "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-    "credit": "JPL-Caltech/NASA, via Space.com",
-    "alt": "Illustration of NASA's Voyager 1 probe"
+    "url": "https://cdn.mos.cms.futurecdn.net/sa2iwygZCxx9riUZGsrX6J-1920-80.jpg",
+    "credit": "NASA, via Space.com",
+    "alt": "Astronauts install the final ISS roll-out solar array during a spacewalk"
    }
   },
   {
@@ -128,26 +128,31 @@
    }
   },
   {
-   "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst, plus GIF and SVG output",
+   "title": "Baidu releases ERNIE 5.5 Flash Base, a 280B MoE checkpoint with 14B active parameters",
    "tag": "AI",
-   "date": "2026-11-04",
+   "date": "2026-11-05",
    "paragraphs": [
-    "OpenAI announced Images 2.6 on Nov. 4, 2026, for ChatGPT, Codex, and the API. The company says image generation is 50% faster than before and that people now create about 4 billion images per week across ChatGPT, Codex, and the API—more than half a billion per day on average.",
-    "In the API, OpenAI offers GPT-Image-2.6 Flare for fast iteration and GPT-Image-2.6 Sunburst for higher detail and stronger edit consistency. When quality is set to low, Flare can return an image in as little as six seconds; Sunburst targets medium or high quality work. ChatGPT users can turn prompts or photos into animated GIFs, adjust animation speed, edit frames, and save reusable reference images of people, pets, and characters.",
-    "According to OpenAI, the API gains markup-guided edits, SVG export, animated GIF output, and a new complexity parameter (low, medium, or high; default high) that controls how much planning the model does before rendering. Complexity is separate from the quality setting and has no separate fee.",
-    "OpenAI says Images 2.6 is available globally in ChatGPT and Codex on all subscription tiers, with Flare and Sunburst available through the Image API."
+    "On Nov. 5, 2026, Baidu said it released ERNIE-5.5-Flash-Base, a sparse mixture-of-experts language model with 280 billion total parameters and about 14 billion activated per token. The company describes the weights as the end-of-pre-training checkpoint, with no mid- or post-training applied, intended as a starting point for fine-tuning, instruction tuning, and reinforcement-learning research.",
+    "According to Baidu's release notes, the model was pre-trained from scratch on 33.5 trillion tokens with the Muon optimizer and FP8 mixed precision, using a training context up to 128K tokens and supporting up to 1M tokens for fine-tuning and inference. It has 43 Transformer layers, a 4096 hidden size, and hybrid attention that pairs Heavily Compressed Attention in most layers with Multi-head Latent Attention plus sparse attention in six layers.",
+    "Baidu reports that under its unified evaluation pipeline the base model scored 78.4 on MMLU-Pro and 82.3 on HumanEval+, ahead of DeepSeek-V4-Flash-Base figures of 69.2 and 69.5 in the same setup. MarkTechPost notes FP8 and BF16 weights are on Hugging Face and ModelScope, with serving examples for SGLang and vLLM.",
+    "Baidu says the release is under the ERNIE 5.5 Flash Base Model License Agreement v1.0 and that a post-trained ERNIE 5.5 Flash model is planned to follow. Benchmark numbers above are self-reported by Baidu."
    ],
    "sources": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/introducing-images-2-6/",
-     "date": "2026-11-04"
+     "name": "Baidu ERNIE",
+     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+     "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI Images 2.6 announcement graphic"
+    "url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-10-scaled.png",
+    "credit": "MarkTechPost (covering Baidu ERNIE release)",
+    "alt": "Baidu ERNIE 5.5 Flash Base announcement graphic"
    }
   }
  ],
