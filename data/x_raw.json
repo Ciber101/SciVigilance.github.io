@@ -1,6 +1,15 @@
 {
   "data": [
     {
+      "created_at": "2026-11-06T08:01:26.000Z",
+      "edit_history_tweet_ids": [
+        "2118614720672579767"
+      ],
+      "id": "2118614720672579767",
+      "text": "Genomic selection boosts disease resilience in endangered species, offering new hope for conservation.\n\nhttps://t.co/tgNabudirw\n\n#GenomicSelection #ConservationScience",
+      "url": "https://x.com/i/status/2118614720672579767"
+    },
+    {
       "created_at": "2026-11-06T05:01:44.000Z",
       "edit_history_tweet_ids": [
         "2118569499473608970"
@@ -116,6 +125,21 @@
       "id": "2118026011325628650",
       "text": "NASA and NOAA track 2026 Antarctic ozone hole's growth due to ideal weather conditions. Enhanced ozone depletion highlights climate-weather links.\n\nhttps://t.co/a4cjsH9Srd\n\n#OzoneDepletion #AntarcticScience",
       "url": "https://x.com/i/status/2118026011325628650"
+    },
+    {
+      "created_at": "2026-11-04T16:45:27.000Z",
+      "edit_history_tweet_ids": [
+        "2118021819055878436"
+      ],
+      "id": "2118021819055878436",
+      "text": "RT @Warcraft: Good morning to Forever 🌅 https://t.co/WWZYVhSE14",
+      "url": "https://x.com/i/status/2118021819055878436",
+      "referenced_tweets": [
+        {
+          "type": "retweeted",
+          "id": "2118018391646552180"
+        }
+      ]
     },
     {
       "created_at": "2026-11-04T14:01:15.000Z",
@@ -615,45 +639,11 @@
       },
       "text": "New 'tropical' shortcut cuts costs for particle collider experiments by improving prediction accuracy.\n\nhttps://t.co/RtO5ysbOdN\n\n#ParticlePhysics #ColliderTech",
       "url": "https://x.com/i/status/2116470511404507331"
-    },
-    {
-      "created_at": "2026-10-31T07:01:17.000Z",
-      "edit_history_tweet_ids": [
-        "2116425256256897218"
-      ],
-      "id": "2116425256256897218",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Hera probe reveals asteroid pair separately for first time, advancing planetary defense after DART's impact.\n\nhttps://t.co/FifBgpVLsK\n\n#PlanetaryDefense #AsteroidMission",
-      "url": "https://x.com/i/status/2116425256256897218"
-    },
-    {
-      "created_at": "2026-10-31T04:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2116379950890864923"
-      ],
-      "id": "2116379950890864923",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 13,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "MIT faculty and alumni named Schmidt AI2050 Fellows to drive beneficial AI research.\n\nhttps://t.co/0WhQcUP3VB\n\n#AIResearch #MITInnovation",
-      "url": "https://x.com/i/status/2116379950890864923"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2118569499473608970",
-    "oldest_id": "2116379950890864923"
+    "newest_id": "2118614720672579767",
+    "oldest_id": "2116470511404507331"
   }
 }
