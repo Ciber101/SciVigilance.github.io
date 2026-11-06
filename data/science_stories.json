@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T19:45:00-08:00",
- "updated_pt": "Nov 5, 2026, 7:45 PM PT",
+ "updated": "2026-11-05T22:40:00-08:00",
+ "updated_pt": "Nov 5, 2026, 10:40 PM PT",
  "stories": [
   {
    "title": "LOFAR delivers an ultra-deep sub-arcsecond image of the ELAIS-N1 radio sky",
@@ -9,7 +9,7 @@
    "paragraphs": [
     "In an arXiv preprint accepted for Astronomy & Astrophysics, J.M.G.H.J. de Jong (Leiden Observatory/ASTRON) and collaborators present ultra-deep sub-arcsecond radio images of the ELAIS-N1 field from 200 hours of LOFAR High-Band Antenna observations at 115–168 MHz over a 2.5×2.5 square-degree area.",
     "According to the paper, the highest-resolution mosaic reaches a central point-source sensitivity of 5.3 μJy beam−1 at 0.33″×0.39″ (area-weighted 7.4 μJy beam−1 at 0.36″×0.45″). Combining the new data with prior deep 6″ LOFAR images yields a catalogue of 62,916 unique radio sources. The authors call these among the deepest radio images below 1.28 GHz and among the deepest at any radio frequency.",
-    "The preprint says recent long-baseline calibration and imaging advances made processing this volume feasible, with astrometric alignment to Gaia quasars giving milliarcsecond-level offsets. The team frames the release as a benchmark for wider LOFAR2.0 and Square Kilometre Array–era deep surveys. An ADASS 2026 talk abstract by the same effort notes the 200-hour set corresponds to about 400 TB of visibility data."
+    "The preprint says recent long-baseline calibration and imaging advances made processing this volume feasible, with astrometric alignment to Gaia quasars giving milliarcsecond-level offsets. An ADASS 2026 talk abstract by the same effort notes the 200-hour set corresponds to about 400 TB of visibility data and frames the release as a benchmark for wider LOFAR2.0 and Square Kilometre Array–era deep surveys."
    ],
    "sources": [
     {
@@ -27,6 +27,50 @@
     "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-galaxies-with-ra.jpg",
     "credit": "De Jong et al., via Phys.org coverage",
     "alt": "Three galaxies with low-frequency radio emission in the LOFAR ELAIS-N1 image"
+   }
+  },
+  {
+   "title": "Asteroid shape and aim can change nuclear deflection thrust by up to 5x",
+   "tag": "Space",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "Universe Today reports new Icarus research led by Sandia National Laboratories physicist Nathan Moore on stand-off pulsed X-ray deflection of near-Earth objects—detonating a pulsed energy device near an asteroid so surface vaporization provides thrust without relying on a kinetic impactor alone.",
+    "According to the paper as summarized by Universe Today, the team built an algorithm more than 1,600 times faster than earlier models so it can include real three-dimensional topography. Demonstrations on Bennu, Itokawa, and Golevka found orientation at intercept can raise deflection velocity by up to nearly 2x, 4x, and 5x respectively versus each body's minimum response.",
+    "The authors warn that an incoming NEO's shape and uncontrolled orientation may be unknown, so aim matters strongly, and the current model still cannot accurately predict breakup of the entire asteroid body—only surface rock vaporization and related effects."
+   ],
+   "sources": [
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://www.universetoday.com/article_images/PIA25329large_20261105_190026.jpg",
+    "credit": "NASA/Johns Hopkins APL/Steve Gribben, via Universe Today",
+    "alt": "Illustration of NASA's DART spacecraft approaching Dimorphos"
+   }
+  },
+  {
+   "title": "Hubble's Messier 30 image shows how globular clusters record galactic history",
+   "tag": "Astronomy",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "NASA says a new Hubble Space Telescope image of globular cluster Messier 30 (NGC 7099), about 27,500 light-years away in Capricornus, combines ultraviolet, visible, and near-infrared data from multiple observing programs spanning more than 15 years.",
+    "According to NASA, globular clusters hold tens of thousands to millions of stars, typically orbit in a galaxy's halo, and are estimated at roughly 11.5 to 13.5 billion years old. Historically, Harlow Shapley's cluster distance work showed the Sun is not at the galactic center.",
+    "NASA notes researchers have found that M30 and many other clusters orbit opposite the Milky Way's spin, which may mean they were captured rather than formed in place. Repeat Hubble visits track how different stellar populations move and help study blue stragglers and multiple populations inside a single cluster."
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "credit": "ESA/Hubble & NASA, M. Libralato, G. Piotto, A. Sarajedini",
+    "alt": "Hubble image of globular cluster Messier 30"
    }
   },
   {
@@ -48,57 +92,7 @@
    "image": {
     "url": "https://images.theconversation.com/files/769873/original/file-20261103-78-edp029.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
     "credit": "Szepy/iStock via Getty Images Plus, via The Conversation",
-    "alt": "Person listening intently, illustrating pitch perception research"
-   }
-  },
-  {
-   "title": "SLAC-led team confirms altermagnetism, a third class of magnetism, in manganese telluride",
-   "tag": "Physics",
-   "date": "2026-11-04",
-   "paragraphs": [
-    "ScienceDaily and SLAC report that a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory published experimental evidence in Science for altermagnetism, a magnetic phase distinct from ferromagnetism and antiferromagnetism. Lead author Daniel Jost said the results provide \"robust experimental confirmation that this third phase—altermagnetism—is real.\" The paper, \"Chiral altermagnon in MnTe,\" is dated Oct. 29, 2026.",
-    "According to SLAC and Phys.org, the researchers studied manganese telluride (MnTe), long classified as an antiferromagnet. Altermagnets are described as having alternating electron spins like antiferromagnets, but with crystal structures around opposite spins rotated relative to each other—a symmetry break proposed when the term was introduced in 2022.",
-    "The team used circularly polarized X-rays at the European Synchrotron Radiation Facility's ID32 beamline. SLAC says chiral materials scatter left- and right-handed polarized beams differently; MnTe showed that chiral signature, which conventional antiferromagnets should not. The measurements were first made in 2024 and repeated in early 2025.",
-    "Jost told SLAC that ferromagnets are easily disturbed by stray magnetic fields, while antiferromagnets are hard to read or drive with spin currents. \"Altermagnets combine the best of both,\" he said: zero net magnetization with the ability to generate spin-polarized currents. The work received partial DOE Office of Science support."
-   ],
-   "sources": [
-    {
-     "name": "ScienceDaily",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-     "date": "2026-11-04"
-    },
-    {
-     "name": "SLAC",
-     "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-     "date": "2026-10-29"
-    }
-   ],
-   "image": {
-    "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
-    "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
-    "alt": "Graphic comparing ferromagnetism, altermagnetism, and antiferromagnetism"
-   }
-  },
-  {
-   "title": "Voyager 1 resumes contact after a 48-hour communications pause",
-   "tag": "Space",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "JPL said NASA's Deep Space Network lost Voyager 1's signal on Oct. 18–19, 2026, then regained it on Oct. 20 after about 48 hours, before troubleshooting commands could arrive. Space.com notes the probe is nearly one light-day from Earth and will hit that distance on Nov. 18.",
-    "Engineers found one thruster group went offline and backups engaged automatically under fault protection. Mission manager Kareem Badaruddin called it the first time the spacecraft has behaved this way. The root cause remains under investigation.",
-    "In early September, JPL finished Voyager 1's \"Big Bang\" power swap—replacing three devices with lower-power alternatives—after a similar change on Voyager 2 about six weeks earlier, aiming to keep remaining science instruments running longer as each craft loses about 4 watts of power per year."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-    "credit": "JPL-Caltech/NASA, via Space.com",
-    "alt": "Illustration of NASA's Voyager 1 probe"
+    "alt": "Illustration related to hearing and listening"
    }
   }
  ]

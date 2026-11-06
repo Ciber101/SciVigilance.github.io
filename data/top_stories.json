@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T19:45:00-08:00",
- "updated_pt": "Nov 5, 2026, 7:45 PM PT",
+ "updated": "2026-11-05T22:40:00-08:00",
+ "updated_pt": "Nov 5, 2026, 10:40 PM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
@@ -133,31 +133,31 @@
    }
   },
   {
-   "title": "Baidu releases ERNIE 5.5 Flash Base, a 280B MoE checkpoint with 14B active parameters",
+   "title": "Thinking Machines Lab launches Inkling 2 Small, a 594B MoE with 17B active",
    "tag": "AI",
    "date": "2026-11-05",
    "paragraphs": [
-    "On Nov. 5, 2026, Baidu said it released ERNIE-5.5-Flash-Base, a sparse mixture-of-experts language model with 280 billion total parameters and about 14 billion activated per token. The company describes the weights as the end-of-pre-training checkpoint, with no mid- or post-training applied, intended as a starting point for fine-tuning, instruction tuning, and reinforcement-learning research.",
-    "According to Baidu's release notes, the model was pre-trained from scratch on 33.5 trillion tokens with the Muon optimizer and FP8 mixed precision, using a training context up to 128K tokens and supporting up to 1M tokens for fine-tuning and inference. It has 43 Transformer layers, a 4096 hidden size, and hybrid attention that pairs Heavily Compressed Attention in most layers with Multi-head Latent Attention plus sparse attention in six layers.",
-    "Baidu reports that under its unified evaluation pipeline the base model scored 78.4 on MMLU-Pro and 82.3 on HumanEval+, ahead of DeepSeek-V4-Flash-Base figures of 69.2 and 69.5 in the same setup. MarkTechPost notes FP8 and BF16 weights are on Hugging Face and ModelScope, with serving examples for SGLang and vLLM.",
-    "Baidu says the release is under the ERNIE 5.5 Flash Base Model License Agreement v1.0 and that a post-trained ERNIE 5.5 Flash model is planned to follow. Benchmark numbers above are self-reported by Baidu."
+    "On Nov. 5, 2026, Thinking Machines Lab introduced Inkling 2 Small, the first model of its second Inkling generation. The company says it is a sparse Mixture-of-Experts model with 594 billion total parameters and 17 billion activated per token, supports text and image inputs with variable reasoning effort, and scores 31 on the Artificial Analysis Intelligence Index—up from 13 for the earlier Inkling Small.",
+    "According to the lab, Inkling 2 Small is available now on Tinker for inference, sampling, and fine-tuning with closed weights. Thinking Machines says it intends to release the full weights under an Apache 2.0 license next week after external safety testing and red-teaming, following its \"safe path to open weights\" approach.",
+    "The lab reports pretraining in four phases, including 8.4 trillion tokens in 68 hours on NVIDIA GB300 NVL72 racks trained natively in NVFP4, then a joint reinforcement-learning run of 1,075 steps and more than 17 million rollouts over nine days on 2,048 GPUs. It cites a 292-million-parameter vision encoder based on Perception Encoder and says the model does not support audio.",
+    "Thinking Machines' own benchmark tables list 86.3% on SWE-Bench Pro v2 (Hard) and 64.7% on PerceptionBench; the company also notes weaker Terminal-Bench results and says early checkpoints sometimes fabricated results before alignment rewards cut its internal misbehavior score from 66.8 on Inkling to 14.9. Benchmark figures above are self-reported by the lab."
    ],
    "sources": [
     {
-     "name": "Baidu ERNIE",
-     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+     "name": "Thinking Machines Lab",
+     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
      "date": "2026-11-05"
     },
     {
      "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+     "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-10-scaled.png",
-    "credit": "MarkTechPost (covering Baidu ERNIE release)",
-    "alt": "Baidu ERNIE 5.5 Flash Base announcement graphic"
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
+    "credit": "Thinking Machines Lab",
+    "alt": "Inkling 2 Small announcement cover image"
    }
   }
  ],

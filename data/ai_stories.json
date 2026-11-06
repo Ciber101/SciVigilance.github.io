@@ -1,16 +1,42 @@
 {
- "updated": "2026-11-05T19:45:00-08:00",
- "updated_pt": "Nov 5, 2026, 7:45 PM PT",
+ "updated": "2026-11-05T22:40:00-08:00",
+ "updated_pt": "Nov 5, 2026, 10:40 PM PT",
  "stories": [
+  {
+   "title": "Thinking Machines Lab launches Inkling 2 Small on Tinker with closed weights first",
+   "tag": "Frontier models",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "Thinking Machines Lab said on Nov. 5, 2026, that Inkling 2 Small is a 594B-total / 17B-active MoE with image input, variable effort, and a score of 31 on the Artificial Analysis Intelligence Index, available on Tinker Playground for fine-tuning and sampling.",
+    "The lab says full weights will follow under Apache 2.0 after external safety testing, and that the model does not support audio. Training notes include native NVFP4 pretraining on GB300 racks and a single joint RL run with more than 17 million rollouts.",
+    "Company tables highlight coding and vision scores such as 86.3% on SWE-Bench Pro v2 (Hard) and 64.7% on PerceptionBench, while also listing weaker Terminal-Bench results; those figures are self-reported."
+   ],
+   "sources": [
+    {
+     "name": "Thinking Machines Lab",
+     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
+    "credit": "Thinking Machines Lab",
+    "alt": "Inkling 2 Small announcement graphic"
+   }
+  },
   {
    "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
    "tag": "AI video",
    "date": "2026-11-05",
    "paragraphs": [
     "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
-    "According to the Google DeepMind post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
-    "Google says the model holds character, product, and style references—including faces, garments, packaging type, and brand colors—more consistently across camera moves, and supports short motion clips up to three seconds plus audio cues. Multi-turn edits can swap backgrounds, lighting, weather, or aspect ratio without restarting from scratch.",
-    "The company also cites more natural multi-speaker dialogue and lip-sync, steadier cinematic camera moves with fewer jump cuts, and an imperceptible SynthID watermark on outputs. Provisioned Throughput is available for enterprise use on Google Cloud."
+    "According to the Google post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
+    "Google says the model holds character, product, and style references more consistently across camera moves, supports short motion clips up to three seconds plus audio cues, and applies an imperceptible SynthID watermark, with Provisioned Throughput available on Google Cloud."
    ],
    "sources": [
     {
@@ -30,48 +56,26 @@
    "tag": "AI image",
    "date": "2026-11-04",
    "paragraphs": [
-    "MarkTechPost reports that OpenAI shipped Images 2.6 on Nov. 4, 2026, across ChatGPT, Codex, and the API, saying generation is 50% faster than before and that users now create more than 4 billion images per week across ChatGPT and the API.",
-    "According to MarkTechPost's summary of the launch, the API adds GPT-Image-2.6 Flare for fast iteration—returning images in as little as six seconds at low quality—and GPT-Image-2.6 Sunburst for higher detail and stronger edit consistency. ChatGPT users can create animated GIFs, edit frames, and save reusable reference images.",
-    "MarkTechPost also lists markup-guided edits, SVG export, GIF output, and a complexity parameter (low, medium, or high; default high) separate from quality, with token pricing matching the prior image release."
+    "On Nov. 4, 2026, OpenAI launched Images 2.6 in ChatGPT, Codex, and the API. MarkTechPost reports OpenAI says generation is about 50% faster than before and that people now create more than 4 billion images per week across those products.",
+    "For the API, OpenAI offers GPT-Image-2.6 Flare for fast iteration—as little as six seconds at low quality, according to OpenAI's launch coverage and model docs—and GPT-Image-2.6 Sunburst for higher detail and edit consistency at medium or high quality. New options include GIF output, SVG export, markup-guided edits, and a complexity parameter separate from quality.",
+    "OpenAI's Flare model card lists token pricing of $5 per 1M text-input tokens, $8 per 1M image-input tokens, and $30 per 1M image-output tokens, matching MarkTechPost's summary that Flare and Sunburst share the same token rates."
    ],
    "sources": [
     {
      "name": "MarkTechPost",
      "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
      "date": "2026-11-04"
-    }
-   ],
-   "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI, via MarkTechPost coverage",
-    "alt": "OpenAI Images 2.6 announcement graphic"
-   }
-  },
-  {
-   "title": "Together AI's Compiler uses agents to re-optimize inference as traffic changes",
-   "tag": "AI systems",
-   "date": "2026-11-04",
-   "paragraphs": [
-    "Together AI said on Nov. 4, 2026, that Together Compiler (TKCC) is a continual compilation loop in which coding agents rewrite a model's forward pass while a persistent serving engine hot-reloads candidates instead of restarting for every trial. The company says the system already runs on several of its serverless endpoints.",
-    "According to Together's research post, the loop takes a launch command, traffic profile, and hardware config, then measures candidates with fast few-layer and slower many-layer engine tiers. Together reports up to 2.6× higher tokens per second than the best published InferenceX configurations in under 24 hours per setting, and about 252× higher experiment throughput than an engine-restart baseline.",
-    "MarkTechPost notes self-reported batch-size-1 gains such as 1,111 versus 633 P90 TPS per user on MiniMax M3.1 Flash on NVIDIA B200 hardware, with smaller gains on some AMD MI355X runs. Together says agents work across NVIDIA B200/B300/GB300/H100, AMD MI355X, and AWS Trainium2."
-   ],
-   "sources": [
-    {
-     "name": "Together AI",
-     "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
-     "date": "2026-11-04"
     },
     {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/",
-     "date": "2026-11-05"
+     "name": "OpenAI Developers",
+     "url": "https://developers.openai.com/api/docs/models/gpt-image-2.6-flare",
+     "date": "2026-11-04"
     }
    ],
    "image": {
-    "url": "https://cdn.prod.website-files.com/69654e88dce9154b5f12070c/6aead6f8d7e2304104f29687_TKCC_OG_1200x630-dark.jpg",
-    "credit": "Together AI",
-    "alt": "Together Compiler continual compilation announcement graphic"
+    "url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-8-scaled.png",
+    "credit": "MarkTechPost (covering OpenAI Images 2.6)",
+    "alt": "OpenAI GPT-Image-2.6 Flare and Sunburst announcement graphic"
    }
   },
   {
@@ -79,9 +83,9 @@
    "tag": "Frontier models",
    "date": "2026-11-05",
    "paragraphs": [
-    "Baidu said on Nov. 5, 2026, that ERNIE-5.5-Flash-Base is a sparse mixture-of-experts text model with 280 billion total parameters and 14 billion activated per token. The released weights stop at the end of pre-training, with no mid- or post-training, as a baseline for fine-tuning and research.",
-    "According to Baidu, the model was pre-trained on 33.5 trillion tokens with a 128K training context and up to 1M tokens for fine-tuning and inference. Architecture highlights include hybrid Heavily Compressed Attention and Multi-head Latent Attention layers, Multi-Router Latent MoE with 512 routed experts (top-10) plus one shared expert, and an ECHO multi-token prediction head.",
-    "MarkTechPost notes Baidu's unified-pipeline scores of 78.4 on MMLU-Pro and 82.3 on HumanEval+, with FP8 and BF16 weights on Hugging Face and ModelScope under the ERNIE 5.5 Flash Base Model License Agreement v1.0. Benchmark figures are self-reported by Baidu."
+    "On Nov. 5, 2026, Baidu released ERNIE-5.5-Flash-Base, a sparse MoE language model with 280 billion total parameters and about 14 billion activated per token. The company describes the weights as the end-of-pre-training checkpoint with no mid- or post-training applied.",
+    "According to Baidu, the model was pre-trained from scratch on 33.5 trillion tokens with the Muon optimizer and FP8 mixed precision, using training context up to 128K tokens and supporting up to 1M tokens for fine-tuning and inference, with 43 Transformer layers and hybrid Heavily Compressed Attention plus Multi-head Latent Attention.",
+    "Baidu reports 78.4 on MMLU-Pro and 82.3 on HumanEval+ under its unified evaluation pipeline versus DeepSeek-V4-Flash-Base figures of 69.2 and 69.5 in the same setup. Weights are on Hugging Face and ModelScope under the ERNIE 5.5 Flash Base Model License Agreement v1.0; benchmark numbers are self-reported."
    ],
    "sources": [
     {
@@ -96,9 +100,9 @@
     }
    ],
    "image": {
-    "url": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-10-scaled.png",
-    "credit": "MarkTechPost (covering Baidu ERNIE release)",
-    "alt": "Baidu ERNIE 5.5 Flash Base announcement graphic"
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png",
+    "credit": "Baidu ERNIE",
+    "alt": "ERNIE 5.5 Flash Base release banner"
    }
   }
  ]
