@@ -1,659 +1,748 @@
 {
-  "data": [
-    {
-      "created_at": "2026-11-06T08:01:26.000Z",
-      "edit_history_tweet_ids": [
-        "2118614720672579767"
+ "data": [
+  {
+   "created_at": "2026-11-06T11:01:33.000Z",
+   "edit_history_tweet_ids": [
+    "2118660051804270804"
+   ],
+   "id": "2118660051804270804",
+   "text": "New software boosts Webb Telescope's exoplanet imaging by cutting noise, revealing faint worlds.\n\nhttps://t.co/h3aiAXityX\n\n#ExoplanetImaging #SpaceSoftware",
+   "url": "https://x.com/i/status/2118660051804270804",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "entities": {
+    "hashtags": [
+     {
+      "end": 140,
+      "start": 123,
+      "tag": "ExoplanetImaging"
+     },
+     {
+      "end": 155,
+      "start": 141,
+      "tag": "SpaceSoftware"
+     }
+    ],
+    "urls": [
+     {
+      "description": "Software optimizes a physical model of the telescope to reduce noise.",
+      "display_url": "arstechnica.com/science/2026/1…",
+      "end": 121,
+      "expanded_url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "images": [
+       {
+        "height": 648,
+        "url": "https://pbs.twimg.com/news_img/2118434443711193088/xEVFy3BB?format=jpg&name=orig",
+        "width": 1152
+       },
+       {
+        "height": 150,
+        "url": "https://pbs.twimg.com/news_img/2118434443711193088/xEVFy3BB?format=jpg&name=150x150",
+        "width": 150
+       }
       ],
-      "id": "2118614720672579767",
-      "text": "Genomic selection boosts disease resilience in endangered species, offering new hope for conservation.\n\nhttps://t.co/tgNabudirw\n\n#GenomicSelection #ConservationScience",
-      "url": "https://x.com/i/status/2118614720672579767"
-    },
+      "start": 98,
+      "status": 200,
+      "title": "Getting software to help block out a star so we can see exoplanets",
+      "unwound_url": "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+      "url": "https://t.co/h3aiAXityX"
+     }
+    ]
+   },
+   "lang": "en",
+   "author_id": "1974272513917267972",
+   "conversation_id": "2118660051804270804"
+  },
+  {
+   "created_at": "2026-11-06T08:01:26.000Z",
+   "edit_history_tweet_ids": [
+    "2118614720672579767"
+   ],
+   "id": "2118614720672579767",
+   "text": "Genomic selection boosts disease resilience in endangered species, offering new hope for conservation.\n\nhttps://t.co/tgNabudirw\n\n#GenomicSelection #ConservationScience",
+   "url": "https://x.com/i/status/2118614720672579767"
+  },
+  {
+   "created_at": "2026-11-06T05:01:44.000Z",
+   "edit_history_tweet_ids": [
+    "2118569499473608970"
+   ],
+   "id": "2118569499473608970",
+   "text": "Odd asteroid shapes complicate deflection plans—even nuclear blasts may struggle to redirect these space rocks.\n\nhttps://t.co/jSAEdAdonq\n\n#AsteroidDeflection #SpaceSafety",
+   "url": "https://x.com/i/status/2118569499473608970"
+  },
+  {
+   "created_at": "2026-11-06T02:01:41.000Z",
+   "edit_history_tweet_ids": [
+    "2118524189372211208"
+   ],
+   "id": "2118524189372211208",
+   "text": "Breakthrough: Laser-plasma accelerators could produce high-quality, water-window X-rays for detailed biological imaging, overcoming previous technical barriers.\n\nhttps://t.co/tM895cEEyJ\n\n#XrayImaging #PlasmaPhysics",
+   "url": "https://x.com/i/status/2118524189372211208"
+  },
+  {
+   "created_at": "2026-11-05T23:01:40.000Z",
+   "edit_history_tweet_ids": [
+    "2118478885801394587"
+   ],
+   "id": "2118478885801394587",
+   "text": "Stunning night view of Midwestern and East Coast city lights, captured by the ISS 259 miles above Earth on Oct 18, 2026.\n\nhttps://t.co/K1BbcI73df\n\n#CityLights #SpaceStation",
+   "url": "https://x.com/i/status/2118478885801394587"
+  },
+  {
+   "created_at": "2026-11-05T20:01:26.000Z",
+   "edit_history_tweet_ids": [
+    "2118433527092101419"
+   ],
+   "id": "2118433527092101419",
+   "text": "After 40 years, physicists detect rare meson decay (B⁰→µ⁺µ⁻), confirming Standard Model predictions!\n\nhttps://t.co/mycgRKtjh6\n\n#ParticlePhysics #StandardModel",
+   "url": "https://x.com/i/status/2118433527092101419"
+  },
+  {
+   "created_at": "2026-11-05T17:01:29.000Z",
+   "edit_history_tweet_ids": [
+    "2118388242936660108"
+   ],
+   "id": "2118388242936660108",
+   "text": "Could Einstein's relativity leave a trace in Earth's tides? A new study proposes a method to detect relativistic effects hidden in tidal patterns.\n\nhttps://t.co/U0eOjx6nZ7\n\n#GeneralRelativity #TidalPhysics",
+   "url": "https://x.com/i/status/2118388242936660108"
+  },
+  {
+   "created_at": "2026-11-05T14:01:20.000Z",
+   "edit_history_tweet_ids": [
+    "2118342904934814034"
+   ],
+   "id": "2118342904934814034",
+   "text": "Hubble uncovers galactic secrets in star cluster Messier 30 (NGC 7099)!\n\nhttps://t.co/Q417yYN7f5\n\n#Hubble #GalacticHistory",
+   "url": "https://x.com/i/status/2118342904934814034"
+  },
+  {
+   "created_at": "2026-11-05T11:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2118297586176287129"
+   ],
+   "id": "2118297586176287129",
+   "text": "Uranium cubes reveal Heisenberg's miscalculation doomed Germany's nuclear ambitions.\n\nhttps://t.co/F3oWJa5bm5\n\n#NuclearHistory #ColdWarScience",
+   "url": "https://x.com/i/status/2118297586176287129"
+  },
+  {
+   "created_at": "2026-11-05T08:01:22.000Z",
+   "edit_history_tweet_ids": [
+    "2118252318370173308"
+   ],
+   "id": "2118252318370173308",
+   "text": "Game-changer! New system sharpens robot memories, boosting accuracy in real-world tasks.\n\nhttps://t.co/YorcSkS2Gw\n\n#Robotics #AIInnovation",
+   "url": "https://x.com/i/status/2118252318370173308"
+  },
+  {
+   "created_at": "2026-11-05T05:01:31.000Z",
+   "edit_history_tweet_ids": [
+    "2118207056528433604"
+   ],
+   "id": "2118207056528433604",
+   "text": "NASA unveils X-70 Fractal, a crewed experimental aircraft set to revolutionize flight research with adaptable tech.\n\nhttps://t.co/s0PgFIfcUM\n\n#AerospaceInnovation #FlightResearch",
+   "url": "https://x.com/i/status/2118207056528433604"
+  },
+  {
+   "created_at": "2026-11-05T02:01:18.000Z",
+   "edit_history_tweet_ids": [
+    "2118161702651072996"
+   ],
+   "id": "2118161702651072996",
+   "text": "Finally revealed: IC 342, the galaxy once thought hidden, shines in stunning new images.\n\nhttps://t.co/bpK11Dp6Dm\n\n#Galaxy #APOD",
+   "url": "https://x.com/i/status/2118161702651072996"
+  },
+  {
+   "created_at": "2026-11-04T23:01:32.000Z",
+   "edit_history_tweet_ids": [
+    "2118116466583290296"
+   ],
+   "id": "2118116466583290296",
+   "text": "China unveils plans for crewed moon mission! Deputy chief designer Wang Xiang outlines official lunar exploration goals.\n\nhttps://t.co/BVwShFO3oN\n\n#MoonMission #ChinaSpaceProgram",
+   "url": "https://x.com/i/status/2118116466583290296"
+  },
+  {
+   "created_at": "2026-11-04T20:08:09.000Z",
+   "edit_history_tweet_ids": [
+    "2118072832387395705"
+   ],
+   "id": "2118072832387395705",
+   "text": "NASA awards 3 companies to boost Ka-band satellite relays, ensuring seamless communication for current missions without hardware changes.\n\nhttps://t.co/wecidIrxCH\n\n#SpaceTech #NASACommunications",
+   "url": "https://x.com/i/status/2118072832387395705"
+  },
+  {
+   "created_at": "2026-11-04T17:02:06.000Z",
+   "edit_history_tweet_ids": [
+    "2118026011325628650"
+   ],
+   "id": "2118026011325628650",
+   "text": "NASA and NOAA track 2026 Antarctic ozone hole's growth due to ideal weather conditions. Enhanced ozone depletion highlights climate-weather links.\n\nhttps://t.co/a4cjsH9Srd\n\n#OzoneDepletion #AntarcticScience",
+   "url": "https://x.com/i/status/2118026011325628650"
+  },
+  {
+   "created_at": "2026-11-04T16:45:27.000Z",
+   "edit_history_tweet_ids": [
+    "2118021819055878436"
+   ],
+   "id": "2118021819055878436",
+   "text": "RT @Warcraft: Good morning to Forever 🌅 https://t.co/WWZYVhSE14",
+   "url": "https://x.com/i/status/2118021819055878436",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 1,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 738
+   },
+   "referenced_tweets": [
     {
-      "created_at": "2026-11-06T05:01:44.000Z",
-      "edit_history_tweet_ids": [
-        "2118569499473608970"
-      ],
-      "id": "2118569499473608970",
-      "text": "Odd asteroid shapes complicate deflection plans—even nuclear blasts may struggle to redirect these space rocks.\n\nhttps://t.co/jSAEdAdonq\n\n#AsteroidDeflection #SpaceSafety",
-      "url": "https://x.com/i/status/2118569499473608970"
-    },
-    {
-      "created_at": "2026-11-06T02:01:41.000Z",
-      "edit_history_tweet_ids": [
-        "2118524189372211208"
-      ],
-      "id": "2118524189372211208",
-      "text": "Breakthrough: Laser-plasma accelerators could produce high-quality, water-window X-rays for detailed biological imaging, overcoming previous technical barriers.\n\nhttps://t.co/tM895cEEyJ\n\n#XrayImaging #PlasmaPhysics",
-      "url": "https://x.com/i/status/2118524189372211208"
-    },
-    {
-      "created_at": "2026-11-05T23:01:40.000Z",
-      "edit_history_tweet_ids": [
-        "2118478885801394587"
-      ],
-      "id": "2118478885801394587",
-      "text": "Stunning night view of Midwestern and East Coast city lights, captured by the ISS 259 miles above Earth on Oct 18, 2026.\n\nhttps://t.co/K1BbcI73df\n\n#CityLights #SpaceStation",
-      "url": "https://x.com/i/status/2118478885801394587"
-    },
-    {
-      "created_at": "2026-11-05T20:01:26.000Z",
-      "edit_history_tweet_ids": [
-        "2118433527092101419"
-      ],
-      "id": "2118433527092101419",
-      "text": "After 40 years, physicists detect rare meson decay (B⁰→µ⁺µ⁻), confirming Standard Model predictions!\n\nhttps://t.co/mycgRKtjh6\n\n#ParticlePhysics #StandardModel",
-      "url": "https://x.com/i/status/2118433527092101419"
-    },
-    {
-      "created_at": "2026-11-05T17:01:29.000Z",
-      "edit_history_tweet_ids": [
-        "2118388242936660108"
-      ],
-      "id": "2118388242936660108",
-      "text": "Could Einstein's relativity leave a trace in Earth's tides? A new study proposes a method to detect relativistic effects hidden in tidal patterns.\n\nhttps://t.co/U0eOjx6nZ7\n\n#GeneralRelativity #TidalPhysics",
-      "url": "https://x.com/i/status/2118388242936660108"
-    },
-    {
-      "created_at": "2026-11-05T14:01:20.000Z",
-      "edit_history_tweet_ids": [
-        "2118342904934814034"
-      ],
-      "id": "2118342904934814034",
-      "text": "Hubble uncovers galactic secrets in star cluster Messier 30 (NGC 7099)!\n\nhttps://t.co/Q417yYN7f5\n\n#Hubble #GalacticHistory",
-      "url": "https://x.com/i/status/2118342904934814034"
-    },
-    {
-      "created_at": "2026-11-05T11:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2118297586176287129"
-      ],
-      "id": "2118297586176287129",
-      "text": "Uranium cubes reveal Heisenberg's miscalculation doomed Germany's nuclear ambitions.\n\nhttps://t.co/F3oWJa5bm5\n\n#NuclearHistory #ColdWarScience",
-      "url": "https://x.com/i/status/2118297586176287129"
-    },
-    {
-      "created_at": "2026-11-05T08:01:22.000Z",
-      "edit_history_tweet_ids": [
-        "2118252318370173308"
-      ],
-      "id": "2118252318370173308",
-      "text": "Game-changer! New system sharpens robot memories, boosting accuracy in real-world tasks.\n\nhttps://t.co/YorcSkS2Gw\n\n#Robotics #AIInnovation",
-      "url": "https://x.com/i/status/2118252318370173308"
-    },
-    {
-      "created_at": "2026-11-05T05:01:31.000Z",
-      "edit_history_tweet_ids": [
-        "2118207056528433604"
-      ],
-      "id": "2118207056528433604",
-      "text": "NASA unveils X-70 Fractal, a crewed experimental aircraft set to revolutionize flight research with adaptable tech.\n\nhttps://t.co/s0PgFIfcUM\n\n#AerospaceInnovation #FlightResearch",
-      "url": "https://x.com/i/status/2118207056528433604"
-    },
-    {
-      "created_at": "2026-11-05T02:01:18.000Z",
-      "edit_history_tweet_ids": [
-        "2118161702651072996"
-      ],
-      "id": "2118161702651072996",
-      "text": "Finally revealed: IC 342, the galaxy once thought hidden, shines in stunning new images.\n\nhttps://t.co/bpK11Dp6Dm\n\n#Galaxy #APOD",
-      "url": "https://x.com/i/status/2118161702651072996"
-    },
-    {
-      "created_at": "2026-11-04T23:01:32.000Z",
-      "edit_history_tweet_ids": [
-        "2118116466583290296"
-      ],
-      "id": "2118116466583290296",
-      "text": "China unveils plans for crewed moon mission! Deputy chief designer Wang Xiang outlines official lunar exploration goals.\n\nhttps://t.co/BVwShFO3oN\n\n#MoonMission #ChinaSpaceProgram",
-      "url": "https://x.com/i/status/2118116466583290296"
-    },
-    {
-      "created_at": "2026-11-04T20:08:09.000Z",
-      "edit_history_tweet_ids": [
-        "2118072832387395705"
-      ],
-      "id": "2118072832387395705",
-      "text": "NASA awards 3 companies to boost Ka-band satellite relays, ensuring seamless communication for current missions without hardware changes.\n\nhttps://t.co/wecidIrxCH\n\n#SpaceTech #NASACommunications",
-      "url": "https://x.com/i/status/2118072832387395705"
-    },
-    {
-      "created_at": "2026-11-04T17:02:06.000Z",
-      "edit_history_tweet_ids": [
-        "2118026011325628650"
-      ],
-      "id": "2118026011325628650",
-      "text": "NASA and NOAA track 2026 Antarctic ozone hole's growth due to ideal weather conditions. Enhanced ozone depletion highlights climate-weather links.\n\nhttps://t.co/a4cjsH9Srd\n\n#OzoneDepletion #AntarcticScience",
-      "url": "https://x.com/i/status/2118026011325628650"
-    },
-    {
-      "created_at": "2026-11-04T14:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2117980498178064707"
-      ],
-      "id": "2117980498178064707",
-      "text": "Scientists create a virtual lifeless Earth model to help spot false positives in exoplanet habitability searches.\n\nhttps://t.co/efSDo4WtjO\n\n#ExoplanetSearch #Astrobiology",
-      "url": "https://x.com/i/status/2117980498178064707"
-    },
-    {
-      "created_at": "2026-11-04T11:01:11.000Z",
-      "edit_history_tweet_ids": [
-        "2117935182749802567"
-      ],
-      "id": "2117935182749802567",
-      "text": "Breakthrough! A GPCR restores phosphoinositide balance and kidney function in Lowe syndrome.\n\nhttps://t.co/TKU3oMqeny\n\n#LoweSyndrome #GPCRResearch",
-      "url": "https://x.com/i/status/2117935182749802567"
-    },
-    {
-      "created_at": "2026-11-04T05:01:33.000Z",
-      "edit_history_tweet_ids": [
-        "2117844676799766648"
-      ],
-      "id": "2117844676799766648",
-      "text": "Bringing together MIT.nano and the Northeast Microelectronics Coalition to explore ways to connect shared-access facilities nationwide.\n\nhttps://t.co/FtLymwDh8o\n\n#ResearchInfrastructure #Collaboration",
-      "url": "https://x.com/i/status/2117844676799766648"
-    },
-    {
-      "created_at": "2026-11-04T02:01:12.000Z",
-      "edit_history_tweet_ids": [
-        "2117799289992913013"
-      ],
-      "id": "2117799289992913013",
-      "text": "Melatonin's receptor PCDR-1 regulates LIN-42/PERIOD to enhance dark adaptation in C. elegans.\n\nhttps://t.co/PxYmfdDtOy\n\n#CircadianRhythms #C elegans",
-      "url": "https://x.com/i/status/2117799289992913013"
-    },
-    {
-      "created_at": "2026-11-03T23:01:22.000Z",
-      "edit_history_tweet_ids": [
-        "2117754034534928414"
-      ],
-      "id": "2117754034534928414",
-      "text": "Astronauts install solar array on ISS during spacewalk 267 miles above South Atlantic!\n\nhttps://t.co/AxIAhMDlaD\n\n#Spacewalk #SolarArray",
-      "url": "https://x.com/i/status/2117754034534928414"
-    },
-    {
-      "created_at": "2026-11-03T20:01:23.000Z",
-      "edit_history_tweet_ids": [
-        "2117708740812313012"
-      ],
-      "id": "2117708740812313012",
-      "text": "Will alien politics be a mix of emperors, rebels, and billionaires? Astrobiologist Jacob Haqq Misra explores governance on other worlds.\n\nhttps://t.co/qI573cXCKE\n\n#ExtraterrestrialGovernance #SpacePolitics",
-      "url": "https://x.com/i/status/2117708740812313012"
-    },
-    {
-      "created_at": "2026-11-03T17:01:29.000Z",
-      "edit_history_tweet_ids": [
-        "2117663468157612364"
-      ],
-      "id": "2117663468157612364",
-      "text": "Catch a cosmic show: Comet PanSTARRs and a rainbow meteor light up the sky on Nov 3, 2026!\n\nhttps://t.co/pfVRQayUOK\n\n#CometPanSTARRS #MeteorShow",
-      "url": "https://x.com/i/status/2117663468157612364"
-    },
-    {
-      "created_at": "2026-11-03T14:01:09.000Z",
-      "edit_history_tweet_ids": [
-        "2117618084370641092"
-      ],
-      "id": "2117618084370641092",
-      "text": "MIT's conference bridges nuclear revival and qubits, pointing to tomorrow's energy breakthroughs.\n\nhttps://t.co/Qr1f3WLN3Q\n\n#EnergyInnovation #QuantumTech",
-      "url": "https://x.com/i/status/2117618084370641092"
-    },
-    {
-      "created_at": "2026-11-03T11:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2117572813276196950"
-      ],
-      "id": "2117572813276196950",
-      "text": "Breakthrough! Scientists successfully cryopreserve human hair follicles, enabling long-term organ culture and advancing regenerative medicine.\n\nhttps://t.co/2nKay4UMy8\n\n#HairRegeneration #Cryopreservation",
-      "url": "https://x.com/i/status/2117572813276196950"
-    },
-    {
-      "created_at": "2026-11-03T08:01:22.000Z",
-      "edit_history_tweet_ids": [
-        "2117527542920073283"
-      ],
-      "id": "2117527542920073283",
-      "text": "Exactly solvable model shows trapped light can create magnetic order in 1D spin chains, driving phase transitions.\n\nhttps://t.co/Dyrsmxhw51\n\n#QuantumPhysics #MagneticMaterials",
-      "url": "https://x.com/i/status/2117527542920073283"
-    },
-    {
-      "created_at": "2026-11-03T05:01:26.000Z",
-      "edit_history_tweet_ids": [
-        "2117482260870111573"
-      ],
-      "id": "2117482260870111573",
-      "text": "Large dogs age faster than small ones, plus invisible tattoos, medieval skeletons, and antimatter breakthroughs in October's science highlights!\n\nhttps://t.co/XZF8zjhN5T\n\n#ScienceNews #ResearchHighlights",
-      "url": "https://x.com/i/status/2117482260870111573"
-    },
-    {
-      "created_at": "2026-11-03T02:01:20.000Z",
-      "edit_history_tweet_ids": [
-        "2117436936508105194"
-      ],
-      "id": "2117436936508105194",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 25,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Vera Rubin Observatory spots two new Milky Way satellites: an ultra-faint dwarf galaxy and a globular cluster, shedding light on galaxy mergers and dark matter's role.\n\nhttps://t.co/krbiomnl0T\n\n#DarkMatter #GalaxyMergers",
-      "url": "https://x.com/i/status/2117436936508105194"
-    },
-    {
-      "created_at": "2026-11-02T23:01:17.000Z",
-      "edit_history_tweet_ids": [
-        "2117391626255650969"
-      ],
-      "id": "2117391626255650969",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Celebrating 65 years! NASA's Johnson Space Center has guided human spaceflight from Mercury to Artemis, now leading as a Center of Excellence.\n\nhttps://t.co/zTAnvFM9rT\n\n#NASA65 #HumanSpaceflight",
-      "url": "https://x.com/i/status/2117391626255650969"
-    },
-    {
-      "created_at": "2026-11-02T20:01:11.000Z",
-      "edit_history_tweet_ids": [
-        "2117346301667078419"
-      ],
-      "id": "2117346301667078419",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 7,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Catch Taurid/Leonid meteors, Mars-Jupiter close-up, and a supermoon in Nov 2026!\n\nhttps://t.co/E0FkMbJkiq\n\n#Skywatching #NASA",
-      "url": "https://x.com/i/status/2117346301667078419"
-    },
-    {
-      "created_at": "2026-11-02T17:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2117301021471060120"
-      ],
-      "id": "2117301021471060120",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 3,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Global plan to save nature by 2030 launched, but funding gaps remain a critical hurdle.\n\nhttps://t.co/VqeEbwu2en\n\n#NatureConservation #ClimateFunding",
-      "url": "https://x.com/i/status/2117301021471060120"
-    },
-    {
-      "created_at": "2026-11-02T14:01:11.000Z",
-      "edit_history_tweet_ids": [
-        "2117255707204735094"
-      ],
-      "id": "2117255707204735094",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 16,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Ultrathin kagome materials reveal new paths to explore exotic quantum states, driven by unique atomic arrangements.\n\nhttps://t.co/Gvu5A2Y47x\n\n#QuantumPhysics #MaterialScience",
-      "url": "https://x.com/i/status/2117255707204735094"
-    },
-    {
-      "created_at": "2026-11-02T11:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2117210422017491080"
-      ],
-      "id": "2117210422017491080",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 11,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Van Gogh's \"Starry Night\" matches 1889's pre-dawn sky—moon, Venus, Hyades—revealing his cosmic inspiration!\n\nhttps://t.co/EzBKAkXkXb\n\n#ArtAndScience #VanGogh",
-      "url": "https://x.com/i/status/2117210422017491080"
-    },
-    {
-      "created_at": "2026-11-02T08:01:26.000Z",
-      "edit_history_tweet_ids": [
-        "2117165172989255771"
-      ],
-      "id": "2117165172989255771",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Mars' mysterious long cloud in today's APOD—scientists study its weather impact!\n\nhttps://t.co/lJaXUVoKwt\n\n#MarsClouds #APOD",
-      "url": "https://x.com/i/status/2117165172989255771"
-    },
-    {
-      "created_at": "2026-11-02T05:01:13.000Z",
-      "edit_history_tweet_ids": [
-        "2117119819460100434"
-      ],
-      "id": "2117119819460100434",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Discover genetic clues in beef cattle that enhance heat resilience through transcriptomic adaptations. #Agriculture #ClimateResilience\n\nhttps://t.co/3hjSbW6oG1\n\n#HeatStress #Genomics",
-      "url": "https://x.com/i/status/2117119819460100434"
-    },
-    {
-      "created_at": "2026-11-02T02:01:13.000Z",
-      "edit_history_tweet_ids": [
-        "2117074518841979122"
-      ],
-      "id": "2117074518841979122",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Ultracold atoms simulate antimatter pair production, revealing insights into quantum phenomena.\n\nhttps://t.co/kzgN1Kv9xm\n\n#QuantumPhysics #Antimatter",
-      "url": "https://x.com/i/status/2117074518841979122"
-    },
-    {
-      "created_at": "2026-11-02T00:53:04.000Z",
-      "edit_history_tweet_ids": [
-        "2117057368542544224"
-      ],
-      "id": "2117057368542544224",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "My @bot usage is actively going up when im and its not doing anything. Why? @elonmusk",
-      "url": "https://x.com/i/status/2117057368542544224"
-    },
-    {
-      "created_at": "2026-11-01T23:01:25.000Z",
-      "edit_history_tweet_ids": [
-        "2117029271097299099"
-      ],
-      "id": "2117029271097299099",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 60,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "FDA seeks to revoke Tavneos approval over manipulated data, sparking debate over patient access.\n\nhttps://t.co/sZfeYy75xP\n\n#FDARegulation #DrugApproval",
-      "url": "https://x.com/i/status/2117029271097299099"
-    },
-    {
-      "created_at": "2026-11-01T20:01:17.000Z",
-      "edit_history_tweet_ids": [
-        "2116983940968067126"
-      ],
-      "id": "2116983940968067126",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "No BK/JC polyomavirus DNA found in laryngeal cancer specimens—study suggests no role in disease progression.\n\nhttps://t.co/sH8Qt41uZq\n\n#Polyomavirus #CancerResearch",
-      "url": "https://x.com/i/status/2116983940968067126"
-    },
-    {
-      "created_at": "2026-11-01T17:01:09.000Z",
-      "edit_history_tweet_ids": [
-        "2116938609123356738"
-      ],
-      "id": "2116938609123356738",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 16,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "New study reveals excess type I interferon disrupts lung development in trisomy 21, causing premature distalization.\n\nhttps://t.co/zWFp6K95UJ\n\n#Trisomy21 #LungDevelopment",
-      "url": "https://x.com/i/status/2116938609123356738"
-    },
-    {
-      "created_at": "2026-11-01T14:01:05.000Z",
-      "edit_history_tweet_ids": [
-        "2116893292470423697"
-      ],
-      "id": "2116893292470423697",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Scientists create anti-spin ice using attracting particles, breaking traditional ice rules.\n\nhttps://t.co/2GCaUmigLc\n\n#AntiSpinIce #SpinIcePhysics",
-      "url": "https://x.com/i/status/2116893292470423697"
-    },
-    {
-      "created_at": "2026-11-01T11:01:19.000Z",
-      "edit_history_tweet_ids": [
-        "2116848052040597874"
-      ],
-      "id": "2116848052040597874",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 12,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Stunning Moon colors revealed! APOD explains how sunlight and minerals paint its surface in striking hues.\n\nhttps://t.co/7UZiEHYV9J\n\n#MoonColors #APOD",
-      "url": "https://x.com/i/status/2116848052040597874"
-    },
-    {
-      "created_at": "2026-11-01T07:01:21.000Z",
-      "edit_history_tweet_ids": [
-        "2116787663558873329"
-      ],
-      "id": "2116787663558873329",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "AI-powered system enhances detection of brain aneurysms via imaging, improving clinical outcomes.\n\nhttps://t.co/cE2a42EyNb\n\n#MedicalAI #NeuroImaging",
-      "url": "https://x.com/i/status/2116787663558873329"
-    },
-    {
-      "created_at": "2026-11-01T04:01:05.000Z",
-      "edit_history_tweet_ids": [
-        "2116742298851762534"
-      ],
-      "id": "2116742298851762534",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Martian polar ice shifts with seasons, revealing clues about Mars' climate history.\n\nhttps://t.co/T5F8Bgqpy0\n\n#MarsClimate #PolarIce",
-      "url": "https://x.com/i/status/2116742298851762534"
-    },
-    {
-      "created_at": "2026-11-01T01:01:11.000Z",
-      "edit_history_tweet_ids": [
-        "2116697022304862275"
-      ],
-      "id": "2116697022304862275",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 17,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Ceres' water ice may hide massive salt deposits, offering clues about its icy past and volcanic activity.\n\nhttps://t.co/WRd01X0ZN3\n\n#Ceres #SpaceGeology",
-      "url": "https://x.com/i/status/2116697022304862275"
-    },
-    {
-      "created_at": "2026-11-01T00:01:20.000Z",
-      "edit_history_tweet_ids": [
-        "2116681960978522355"
-      ],
-      "id": "2116681960978522355",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 13,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "🎬 New Short: Hubble and Webb Just Found a Ghostly Cat Hiding in Space #shorts\nhttps://t.co/pPaKwdvbSX\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
-      "url": "https://x.com/i/status/2116681960978522355"
-    },
-    {
-      "created_at": "2026-10-31T22:01:07.000Z",
-      "edit_history_tweet_ids": [
-        "2116651708038418495"
-      ],
-      "id": "2116651708038418495",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Scientists develop novel compounds with strong cytotoxicity, hinting at new anticancer treatments.\n\nhttps://t.co/pjDW7g4ZAO\n\n#DrugDiscovery #CancerResearch",
-      "url": "https://x.com/i/status/2116651708038418495"
-    },
-    {
-      "created_at": "2026-10-31T19:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2116606444502163645"
-      ],
-      "id": "2116606444502163645",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 19,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Seabirds' long flights home disrupt their internal clocks, causing jet-lag-like effects.\n\nhttps://t.co/7dsh59trp3\n\n#Seabirds #JetLag",
-      "url": "https://x.com/i/status/2116606444502163645"
-    },
-    {
-      "created_at": "2026-10-31T16:01:10.000Z",
-      "edit_history_tweet_ids": [
-        "2116561122853859704"
-      ],
-      "id": "2116561122853859704",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 9,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Discover a hauntingly beautiful planet where eerie shadows dance under a blood-red moon—perfect for a cosmic Halloween!\n\nhttps://t.co/PdypNByJqf\n\n#APOD #SpaceHalloween",
-      "url": "https://x.com/i/status/2116561122853859704"
-    },
-    {
-      "created_at": "2026-10-31T13:01:09.000Z",
-      "edit_history_tweet_ids": [
-        "2116515820998430725"
-      ],
-      "id": "2116515820998430725",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 23,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "TGF-β unlocks GD2's dynamic role in glioblastoma, pointing to new treatment targets.\n\nhttps://t.co/9Kw8lOt7rq\n\n#Glioblastoma #CancerTherapy",
-      "url": "https://x.com/i/status/2116515820998430725"
-    },
-    {
-      "created_at": "2026-10-31T10:01:06.000Z",
-      "edit_history_tweet_ids": [
-        "2116470511404507331"
-      ],
-      "id": "2116470511404507331",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 6,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "New 'tropical' shortcut cuts costs for particle collider experiments by improving prediction accuracy.\n\nhttps://t.co/RtO5ysbOdN\n\n#ParticlePhysics #ColliderTech",
-      "url": "https://x.com/i/status/2116470511404507331"
-    },
-    {
-      "created_at": "2026-10-31T07:01:17.000Z",
-      "edit_history_tweet_ids": [
-        "2116425256256897218"
-      ],
-      "id": "2116425256256897218",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 18,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Hera probe reveals asteroid pair separately for first time, advancing planetary defense after DART's impact.\n\nhttps://t.co/FifBgpVLsK\n\n#PlanetaryDefense #AsteroidMission",
-      "url": "https://x.com/i/status/2116425256256897218"
+     "id": "2118018391646552180",
+     "type": "retweeted"
     }
-  ],
-  "meta": {
-    "result_count": 50,
-    "newest_id": "2118614720672579767",
-    "oldest_id": "2116425256256897218"
+   ],
+   "entities": {
+    "mentions": [
+     {
+      "end": 12,
+      "id": "61033129",
+      "start": 3,
+      "username": "Warcraft"
+     }
+    ],
+    "urls": [
+     {
+      "display_url": "pic.x.com/WWZYVhSE14",
+      "end": 63,
+      "expanded_url": "https://x.com/Warcraft/status/2118018391646552180/photo/1",
+      "media_key": "3_2118018386567352320",
+      "start": 40,
+      "url": "https://t.co/WWZYVhSE14"
+     }
+    ]
+   },
+   "attachments": {
+    "media_keys": [
+     "3_2118018386567352320"
+    ],
+    "media_source_tweet_id": [
+     "2118018391646552180"
+    ]
+   },
+   "lang": "en",
+   "author_id": "1974272513917267972",
+   "conversation_id": "2118021819055878436"
+  },
+  {
+   "created_at": "2026-11-04T14:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2117980498178064707"
+   ],
+   "id": "2117980498178064707",
+   "text": "Scientists create a virtual lifeless Earth model to help spot false positives in exoplanet habitability searches.\n\nhttps://t.co/efSDo4WtjO\n\n#ExoplanetSearch #Astrobiology",
+   "url": "https://x.com/i/status/2117980498178064707"
+  },
+  {
+   "created_at": "2026-11-04T11:01:11.000Z",
+   "edit_history_tweet_ids": [
+    "2117935182749802567"
+   ],
+   "id": "2117935182749802567",
+   "text": "Breakthrough! A GPCR restores phosphoinositide balance and kidney function in Lowe syndrome.\n\nhttps://t.co/TKU3oMqeny\n\n#LoweSyndrome #GPCRResearch",
+   "url": "https://x.com/i/status/2117935182749802567"
+  },
+  {
+   "created_at": "2026-11-04T05:01:33.000Z",
+   "edit_history_tweet_ids": [
+    "2117844676799766648"
+   ],
+   "id": "2117844676799766648",
+   "text": "Bringing together MIT.nano and the Northeast Microelectronics Coalition to explore ways to connect shared-access facilities nationwide.\n\nhttps://t.co/FtLymwDh8o\n\n#ResearchInfrastructure #Collaboration",
+   "url": "https://x.com/i/status/2117844676799766648"
+  },
+  {
+   "created_at": "2026-11-04T02:01:12.000Z",
+   "edit_history_tweet_ids": [
+    "2117799289992913013"
+   ],
+   "id": "2117799289992913013",
+   "text": "Melatonin's receptor PCDR-1 regulates LIN-42/PERIOD to enhance dark adaptation in C. elegans.\n\nhttps://t.co/PxYmfdDtOy\n\n#CircadianRhythms #C elegans",
+   "url": "https://x.com/i/status/2117799289992913013"
+  },
+  {
+   "created_at": "2026-11-03T23:01:22.000Z",
+   "edit_history_tweet_ids": [
+    "2117754034534928414"
+   ],
+   "id": "2117754034534928414",
+   "text": "Astronauts install solar array on ISS during spacewalk 267 miles above South Atlantic!\n\nhttps://t.co/AxIAhMDlaD\n\n#Spacewalk #SolarArray",
+   "url": "https://x.com/i/status/2117754034534928414"
+  },
+  {
+   "created_at": "2026-11-03T20:01:23.000Z",
+   "edit_history_tweet_ids": [
+    "2117708740812313012"
+   ],
+   "id": "2117708740812313012",
+   "text": "Will alien politics be a mix of emperors, rebels, and billionaires? Astrobiologist Jacob Haqq Misra explores governance on other worlds.\n\nhttps://t.co/qI573cXCKE\n\n#ExtraterrestrialGovernance #SpacePolitics",
+   "url": "https://x.com/i/status/2117708740812313012"
+  },
+  {
+   "created_at": "2026-11-03T17:01:29.000Z",
+   "edit_history_tweet_ids": [
+    "2117663468157612364"
+   ],
+   "id": "2117663468157612364",
+   "text": "Catch a cosmic show: Comet PanSTARRs and a rainbow meteor light up the sky on Nov 3, 2026!\n\nhttps://t.co/pfVRQayUOK\n\n#CometPanSTARRS #MeteorShow",
+   "url": "https://x.com/i/status/2117663468157612364"
+  },
+  {
+   "created_at": "2026-11-03T14:01:09.000Z",
+   "edit_history_tweet_ids": [
+    "2117618084370641092"
+   ],
+   "id": "2117618084370641092",
+   "text": "MIT's conference bridges nuclear revival and qubits, pointing to tomorrow's energy breakthroughs.\n\nhttps://t.co/Qr1f3WLN3Q\n\n#EnergyInnovation #QuantumTech",
+   "url": "https://x.com/i/status/2117618084370641092"
+  },
+  {
+   "created_at": "2026-11-03T11:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2117572813276196950"
+   ],
+   "id": "2117572813276196950",
+   "text": "Breakthrough! Scientists successfully cryopreserve human hair follicles, enabling long-term organ culture and advancing regenerative medicine.\n\nhttps://t.co/2nKay4UMy8\n\n#HairRegeneration #Cryopreservation",
+   "url": "https://x.com/i/status/2117572813276196950"
+  },
+  {
+   "created_at": "2026-11-03T08:01:22.000Z",
+   "edit_history_tweet_ids": [
+    "2117527542920073283"
+   ],
+   "id": "2117527542920073283",
+   "text": "Exactly solvable model shows trapped light can create magnetic order in 1D spin chains, driving phase transitions.\n\nhttps://t.co/Dyrsmxhw51\n\n#QuantumPhysics #MagneticMaterials",
+   "url": "https://x.com/i/status/2117527542920073283"
+  },
+  {
+   "created_at": "2026-11-03T05:01:26.000Z",
+   "edit_history_tweet_ids": [
+    "2117482260870111573"
+   ],
+   "id": "2117482260870111573",
+   "text": "Large dogs age faster than small ones, plus invisible tattoos, medieval skeletons, and antimatter breakthroughs in October's science highlights!\n\nhttps://t.co/XZF8zjhN5T\n\n#ScienceNews #ResearchHighlights",
+   "url": "https://x.com/i/status/2117482260870111573"
+  },
+  {
+   "created_at": "2026-11-03T02:01:20.000Z",
+   "edit_history_tweet_ids": [
+    "2117436936508105194"
+   ],
+   "id": "2117436936508105194",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 25,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Vera Rubin Observatory spots two new Milky Way satellites: an ultra-faint dwarf galaxy and a globular cluster, shedding light on galaxy mergers and dark matter's role.\n\nhttps://t.co/krbiomnl0T\n\n#DarkMatter #GalaxyMergers",
+   "url": "https://x.com/i/status/2117436936508105194"
+  },
+  {
+   "created_at": "2026-11-02T23:01:17.000Z",
+   "edit_history_tweet_ids": [
+    "2117391626255650969"
+   ],
+   "id": "2117391626255650969",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Celebrating 65 years! NASA's Johnson Space Center has guided human spaceflight from Mercury to Artemis, now leading as a Center of Excellence.\n\nhttps://t.co/zTAnvFM9rT\n\n#NASA65 #HumanSpaceflight",
+   "url": "https://x.com/i/status/2117391626255650969"
+  },
+  {
+   "created_at": "2026-11-02T20:01:11.000Z",
+   "edit_history_tweet_ids": [
+    "2117346301667078419"
+   ],
+   "id": "2117346301667078419",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 7,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Catch Taurid/Leonid meteors, Mars-Jupiter close-up, and a supermoon in Nov 2026!\n\nhttps://t.co/E0FkMbJkiq\n\n#Skywatching #NASA",
+   "url": "https://x.com/i/status/2117346301667078419"
+  },
+  {
+   "created_at": "2026-11-02T17:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2117301021471060120"
+   ],
+   "id": "2117301021471060120",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 3,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Global plan to save nature by 2030 launched, but funding gaps remain a critical hurdle.\n\nhttps://t.co/VqeEbwu2en\n\n#NatureConservation #ClimateFunding",
+   "url": "https://x.com/i/status/2117301021471060120"
+  },
+  {
+   "created_at": "2026-11-02T14:01:11.000Z",
+   "edit_history_tweet_ids": [
+    "2117255707204735094"
+   ],
+   "id": "2117255707204735094",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 16,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Ultrathin kagome materials reveal new paths to explore exotic quantum states, driven by unique atomic arrangements.\n\nhttps://t.co/Gvu5A2Y47x\n\n#QuantumPhysics #MaterialScience",
+   "url": "https://x.com/i/status/2117255707204735094"
+  },
+  {
+   "created_at": "2026-11-02T11:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2117210422017491080"
+   ],
+   "id": "2117210422017491080",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 11,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Van Gogh's \"Starry Night\" matches 1889's pre-dawn sky—moon, Venus, Hyades—revealing his cosmic inspiration!\n\nhttps://t.co/EzBKAkXkXb\n\n#ArtAndScience #VanGogh",
+   "url": "https://x.com/i/status/2117210422017491080"
+  },
+  {
+   "created_at": "2026-11-02T08:01:26.000Z",
+   "edit_history_tweet_ids": [
+    "2117165172989255771"
+   ],
+   "id": "2117165172989255771",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Mars' mysterious long cloud in today's APOD—scientists study its weather impact!\n\nhttps://t.co/lJaXUVoKwt\n\n#MarsClouds #APOD",
+   "url": "https://x.com/i/status/2117165172989255771"
+  },
+  {
+   "created_at": "2026-11-02T05:01:13.000Z",
+   "edit_history_tweet_ids": [
+    "2117119819460100434"
+   ],
+   "id": "2117119819460100434",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Discover genetic clues in beef cattle that enhance heat resilience through transcriptomic adaptations. #Agriculture #ClimateResilience\n\nhttps://t.co/3hjSbW6oG1\n\n#HeatStress #Genomics",
+   "url": "https://x.com/i/status/2117119819460100434"
+  },
+  {
+   "created_at": "2026-11-02T02:01:13.000Z",
+   "edit_history_tweet_ids": [
+    "2117074518841979122"
+   ],
+   "id": "2117074518841979122",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 18,
+    "like_count": 1,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Ultracold atoms simulate antimatter pair production, revealing insights into quantum phenomena.\n\nhttps://t.co/kzgN1Kv9xm\n\n#QuantumPhysics #Antimatter",
+   "url": "https://x.com/i/status/2117074518841979122"
+  },
+  {
+   "created_at": "2026-11-02T00:53:04.000Z",
+   "edit_history_tweet_ids": [
+    "2117057368542544224"
+   ],
+   "id": "2117057368542544224",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "My @bot usage is actively going up when im and its not doing anything. Why? @elonmusk",
+   "url": "https://x.com/i/status/2117057368542544224"
+  },
+  {
+   "created_at": "2026-11-01T23:01:25.000Z",
+   "edit_history_tweet_ids": [
+    "2117029271097299099"
+   ],
+   "id": "2117029271097299099",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 60,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "FDA seeks to revoke Tavneos approval over manipulated data, sparking debate over patient access.\n\nhttps://t.co/sZfeYy75xP\n\n#FDARegulation #DrugApproval",
+   "url": "https://x.com/i/status/2117029271097299099"
+  },
+  {
+   "created_at": "2026-11-01T20:01:17.000Z",
+   "edit_history_tweet_ids": [
+    "2116983940968067126"
+   ],
+   "id": "2116983940968067126",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 6,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "No BK/JC polyomavirus DNA found in laryngeal cancer specimens—study suggests no role in disease progression.\n\nhttps://t.co/sH8Qt41uZq\n\n#Polyomavirus #CancerResearch",
+   "url": "https://x.com/i/status/2116983940968067126"
+  },
+  {
+   "created_at": "2026-11-01T17:01:09.000Z",
+   "edit_history_tweet_ids": [
+    "2116938609123356738"
+   ],
+   "id": "2116938609123356738",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 16,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "New study reveals excess type I interferon disrupts lung development in trisomy 21, causing premature distalization.\n\nhttps://t.co/zWFp6K95UJ\n\n#Trisomy21 #LungDevelopment",
+   "url": "https://x.com/i/status/2116938609123356738"
+  },
+  {
+   "created_at": "2026-11-01T14:01:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116893292470423697"
+   ],
+   "id": "2116893292470423697",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Scientists create anti-spin ice using attracting particles, breaking traditional ice rules.\n\nhttps://t.co/2GCaUmigLc\n\n#AntiSpinIce #SpinIcePhysics",
+   "url": "https://x.com/i/status/2116893292470423697"
+  },
+  {
+   "created_at": "2026-11-01T11:01:19.000Z",
+   "edit_history_tweet_ids": [
+    "2116848052040597874"
+   ],
+   "id": "2116848052040597874",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 12,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Stunning Moon colors revealed! APOD explains how sunlight and minerals paint its surface in striking hues.\n\nhttps://t.co/7UZiEHYV9J\n\n#MoonColors #APOD",
+   "url": "https://x.com/i/status/2116848052040597874"
+  },
+  {
+   "created_at": "2026-11-01T07:01:21.000Z",
+   "edit_history_tweet_ids": [
+    "2116787663558873329"
+   ],
+   "id": "2116787663558873329",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "AI-powered system enhances detection of brain aneurysms via imaging, improving clinical outcomes.\n\nhttps://t.co/cE2a42EyNb\n\n#MedicalAI #NeuroImaging",
+   "url": "https://x.com/i/status/2116787663558873329"
+  },
+  {
+   "created_at": "2026-11-01T04:01:05.000Z",
+   "edit_history_tweet_ids": [
+    "2116742298851762534"
+   ],
+   "id": "2116742298851762534",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 8,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Martian polar ice shifts with seasons, revealing clues about Mars' climate history.\n\nhttps://t.co/T5F8Bgqpy0\n\n#MarsClimate #PolarIce",
+   "url": "https://x.com/i/status/2116742298851762534"
+  },
+  {
+   "created_at": "2026-11-01T01:01:11.000Z",
+   "edit_history_tweet_ids": [
+    "2116697022304862275"
+   ],
+   "id": "2116697022304862275",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 17,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Ceres' water ice may hide massive salt deposits, offering clues about its icy past and volcanic activity.\n\nhttps://t.co/WRd01X0ZN3\n\n#Ceres #SpaceGeology",
+   "url": "https://x.com/i/status/2116697022304862275"
+  },
+  {
+   "created_at": "2026-11-01T00:01:20.000Z",
+   "edit_history_tweet_ids": [
+    "2116681960978522355"
+   ],
+   "id": "2116681960978522355",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 13,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "🎬 New Short: Hubble and Webb Just Found a Ghostly Cat Hiding in Space #shorts\nhttps://t.co/pPaKwdvbSX\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
+   "url": "https://x.com/i/status/2116681960978522355"
+  },
+  {
+   "created_at": "2026-10-31T22:01:07.000Z",
+   "edit_history_tweet_ids": [
+    "2116651708038418495"
+   ],
+   "id": "2116651708038418495",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Scientists develop novel compounds with strong cytotoxicity, hinting at new anticancer treatments.\n\nhttps://t.co/pjDW7g4ZAO\n\n#DrugDiscovery #CancerResearch",
+   "url": "https://x.com/i/status/2116651708038418495"
+  },
+  {
+   "created_at": "2026-10-31T19:01:15.000Z",
+   "edit_history_tweet_ids": [
+    "2116606444502163645"
+   ],
+   "id": "2116606444502163645",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 19,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Seabirds' long flights home disrupt their internal clocks, causing jet-lag-like effects.\n\nhttps://t.co/7dsh59trp3\n\n#Seabirds #JetLag",
+   "url": "https://x.com/i/status/2116606444502163645"
+  },
+  {
+   "created_at": "2026-10-31T16:01:10.000Z",
+   "edit_history_tweet_ids": [
+    "2116561122853859704"
+   ],
+   "id": "2116561122853859704",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 9,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "Discover a hauntingly beautiful planet where eerie shadows dance under a blood-red moon—perfect for a cosmic Halloween!\n\nhttps://t.co/PdypNByJqf\n\n#APOD #SpaceHalloween",
+   "url": "https://x.com/i/status/2116561122853859704"
+  },
+  {
+   "created_at": "2026-10-31T13:01:09.000Z",
+   "edit_history_tweet_ids": [
+    "2116515820998430725"
+   ],
+   "id": "2116515820998430725",
+   "public_metrics": {
+    "bookmark_count": 0,
+    "impression_count": 23,
+    "like_count": 0,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 0
+   },
+   "text": "TGF-β unlocks GD2's dynamic role in glioblastoma, pointing to new treatment targets.\n\nhttps://t.co/9Kw8lOt7rq\n\n#Glioblastoma #CancerTherapy",
+   "url": "https://x.com/i/status/2116515820998430725"
   }
+ ],
+ "meta": {
+  "result_count": 50,
+  "newest_id": "2118660051804270804",
+  "oldest_id": "2116515820998430725"
+ },
+ "includes": {
+  "media": [
+   {
+    "alt_text": "An image of scenic Azeroth; wish you were here!",
+    "media_key": "3_2118018386567352320",
+    "type": "photo",
+    "url": "https://pbs.twimg.com/media/HWS2gDcX0AAvlqS.jpg"
+   }
+  ]
+ }
 }
