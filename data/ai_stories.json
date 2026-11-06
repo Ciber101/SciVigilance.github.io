@@ -1,77 +1,82 @@
 {
- "updated": "2026-11-06T04:50:00-08:00",
- "updated_pt": "Nov 6, 2026, 4:50 AM PT",
- "stories": [
-  {
-   "title": "Thinking Machines Lab launches Inkling 2 Small on Tinker with closed weights first",
-   "tag": "Frontier models",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "Thinking Machines Lab said on Nov. 5, 2026, that Inkling 2 Small is a 594B-total / 17B-active MoE with image input, variable effort, and a score of 31 on the Artificial Analysis Intelligence Index, available on Tinker Playground for fine-tuning and sampling.",
-    "The lab says full weights will follow under Apache 2.0 after external safety testing, and that the model does not support audio. Training notes include native NVFP4 pretraining on GB300 racks and a single joint RL run with more than 17 million rollouts.",
-    "Company tables highlight coding and vision scores such as 86.3% on SWE-Bench Pro v2 (Hard) and 64.7% on PerceptionBench, while also listing weaker Terminal-Bench results; those figures are self-reported."
-   ],
-   "sources": [
+  "updated": "2026-11-06T07:50:00-08:00",
+  "updated_pt": "Nov 6, 2026, 7:50 AM PT",
+  "stories": [
     {
-     "name": "Thinking Machines Lab",
-     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-     "date": "2026-11-05"
+      "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst",
+      "tag": "Frontier models",
+      "date": "2026-11-04",
+      "paragraphs": [
+        "OpenAI's Nov. 4, 2026 community announcement introduced ChatGPT Images 2.6 and API models GPT-Image-2.6 Flare and Sunburst, stating 50% faster image generation plus GIFs, reference images, markup edits, and SVG exports.",
+        "The post says Flare can generate images in as little as six seconds, while Sunburst brings higher-quality generation and greater consistency across edits. MarkTechPost's coverage matches those roles and adds that a complexity parameter (low/medium/high, default high) controls planning effort.",
+        "MarkTechPost reports OpenAI's claim of more than 4 billion images created per week across ChatGPT and the API and says Flare and Sunburst share the same token prices on OpenAI's model pages."
+      ],
+      "sources": [
+        {
+          "name": "OpenAI Community",
+          "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
+          "date": "2026-11-04"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+          "date": "2026-11-04"
+        }
+      ],
+      "image": {
+        "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
+        "credit": "OpenAI",
+        "alt": "OpenAI Images 2.6 announcement graphic"
+      }
     },
     {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
-    "credit": "Thinking Machines Lab",
-    "alt": "Inkling 2 Small announcement graphic"
-   }
-  },
-  {
-   "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
-   "tag": "AI video",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
-    "According to the Google post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
-    "Google says the model holds character, product, and style references more consistently across camera moves, supports short motion clips up to three seconds plus audio cues, and applies an imperceptible SynthID watermark, with Provisioned Throughput available on Google Cloud."
-   ],
-   "sources": [
+      "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
+      "tag": "AI video",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
+        "According to the Google post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
+        "Google says the model holds character, product, and style references more consistently across camera moves, supports short motion clips up to three seconds plus audio cues, and applies an imperceptible SynthID watermark, with Provisioned Throughput available on Google Cloud."
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
+        "credit": "Google",
+        "alt": "Gemini Omni 1.2 Flash announcement graphic"
+      }
+    },
     {
-     "name": "Google",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "date": "2026-11-05"
+      "title": "Thinking Machines Lab launches Inkling 2 Small on Tinker with closed weights first",
+      "tag": "Frontier models",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "Thinking Machines Lab said on Nov. 5, 2026, that Inkling 2 Small is a 594B-total / 17B-active MoE with image input, variable effort, and a score of 31 on the Artificial Analysis Intelligence Index, available on Tinker Playground for fine-tuning and sampling.",
+        "The lab says full weights will follow under Apache 2.0 after external safety testing, and that the model does not support audio. Training notes include native NVFP4 pretraining on GB300 racks and a single joint RL run with more than 17 million rollouts.",
+        "Company tables highlight coding and vision scores such as 86.3% on SWE-Bench Pro v2 (Hard) and 64.7% on PerceptionBench, while also listing weaker Terminal-Bench results; those figures are self-reported."
+      ],
+      "sources": [
+        {
+          "name": "Thinking Machines Lab",
+          "url": "https://thinkingmachines.ai/news/inkling-2-small/",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "MarkTechPost",
+          "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
+        "credit": "Thinking Machines Lab",
+        "alt": "Inkling 2 Small announcement graphic"
+      }
     }
-   ],
-   "image": {
-    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-    "credit": "Google",
-    "alt": "Gemini Omni 1.2 Flash announcement graphic"
-   }
-  },
-  {
-   "title": "Mistral expands Studio with managed agents, workflows, and apps around Large 4",
-   "tag": "Enterprise AI",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "Mistral AI said it is expanding Mistral Studio so teams can build managed agents, workflows, and apps connected to enterprise data, deployable in cloud, VPC, on-premises, or mixed environments, with Mistral Large 4 (Le Chonk) as a flagship open model for coding, defensive cybersecurity, and document reasoning.",
-    "According to the company post, Studio adds managed agents with skills, sandboxes, subagents, and hooks; workflows with event triggers and a visual graph; and hosted apps with authentication and access controls. A Mistral MCP server is described as letting developers build with Mistral Vibe or another coding agent, test locally, and deploy with one command.",
-    "Mistral cites production customers and partners including ABANCA, Accenture, Alten, BNP Paribas, Capgemini, CMA CGM, and TCS, and says OpenTelemetry traces plus evaluations keep operational knowledge with the customer. Internal examples include an incident-investigation agent and a product-ops workflow said to save about 35 hours a week."
-   ],
-   "sources": [
-    {
-     "name": "Mistral AI",
-     "url": "https://mistral.ai/news/build-with-studio/",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
-    "credit": "Mistral AI",
-    "alt": "Mistral Studio announcement graphic"
-   }
-  }
- ]
+  ]
 }

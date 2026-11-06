@@ -1,77 +1,99 @@
 {
- "updated": "2026-11-06T04:50:00-08:00",
- "updated_pt": "Nov 6, 2026, 4:50 AM PT",
- "stories": [
-  {
-   "title": "Agility Robotics closes first Nasdaq day up after SPAC debut",
-   "tag": "Humanoids",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "The Robot Report says Agility Robotics began trading on Nasdaq on Nov. 5, 2026, under ticker AGLT after completing its merger with Churchill Capital Corp XI, calling itself the first pure-play legged humanoid company to go public. Shares opened at $11.26 versus the $10 SPAC deal price.",
-    "According to the report's day-one wrap, AGLT traded as low as $8.40 and as high as $12.15 before closing at $11.49, about 2% above the open, while the Nasdaq Composite fell 5.52%. The listing story said the deal provides about $465 million in gross proceeds before expenses.",
-    "Agility says Digit has logged more than 65,000 operating hours across customer sites and claims more than $300 million in committed multiyear orders for Digit 5, with early-access deliveries expected in 2027. CEO Peggy Johnson has discussed possible additional form factors beyond the current Digit lineup."
-   ],
-   "sources": [
+  "updated": "2026-11-06T07:50:00-08:00",
+  "updated_pt": "Nov 6, 2026, 7:50 AM PT",
+  "stories": [
     {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
-     "date": "2026-11-05"
+      "title": "Agility Robotics closes first Nasdaq day up after SPAC debut",
+      "tag": "Humanoids",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "The Robot Report says Agility Robotics began trading on Nasdaq on Nov. 5, 2026, under ticker AGLT after completing its merger with Churchill Capital Corp XI, calling itself the first pure-play legged humanoid company to go public. Shares opened at $11.26 versus the $10 SPAC deal price.",
+        "According to the report's day-one wrap, AGLT traded as low as $8.40 and as high as $12.15 before closing at $11.49, about 2% above the open, while the Nasdaq Composite fell 5.52%. The listing story said the deal provides about $465 million in gross proceeds before expenses.",
+        "Agility says Digit has logged more than 65,000 operating hours across customer sites and claims more than $300 million in committed multiyear orders for Digit 5, with early-access deliveries expected in 2027. CEO Peggy Johnson has discussed possible additional form factors beyond the current Digit lineup."
+      ],
+      "sources": [
+        {
+          "name": "The Robot Report",
+          "url": "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/",
+          "date": "2026-11-05"
+        },
+        {
+          "name": "The Robot Report",
+          "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Agility_Digit5_04-featured.jpg",
+        "credit": "Agility Robotics, via The Robot Report",
+        "alt": "Agility Robotics Digit 5 humanoid"
+      }
     },
     {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Agility_Digit5_04-featured.jpg",
-    "credit": "Agility Robotics, via The Robot Report",
-    "alt": "Agility Robotics Digit 5 humanoid"
-   }
-  },
-  {
-   "title": "Serve Robotics launches Physical AI Services to sell robot connectivity and data tools",
-   "tag": "Delivery robots",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "TechCrunch reports that Serve Robotics, the public sidewalk-delivery robot maker that spun out of Uber's Postmates acquisition, announced a new Physical AI Services business on Nov. 5, 2026, alongside third-quarter earnings, aiming to sell technology it built for its own fleets to other robot developers.",
-    "According to CEO Ali Kashani, the line includes Serve Link for connecting field robots to data-center AI over unreliable networks, a data curator for finding edge cases in robot logs, and a foundation-model data catalog drawn from Serve's sidewalk robots. Bedrock Robotics is named as a customer, and Serve is also working with T-Mobile on bringing AI compute closer to robots.",
-    "Kashani told TechCrunch the company is keeping its delivery and hospital-robot businesses while opening the stack so others can build on it, comparing the move to Amazon's AWS moment after running the technology end-to-end itself first."
-   ],
-   "sources": [
+      "title": "Serve Robotics launches Physical AI Services to sell robot connectivity and data tools",
+      "tag": "Delivery robots",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "TechCrunch reports that Serve Robotics, the public sidewalk-delivery robot maker that spun out of Uber's Postmates acquisition, announced a new Physical AI Services business on Nov. 5, 2026, alongside third-quarter earnings, aiming to sell technology it built for its own fleets to other robot developers.",
+        "According to CEO Ali Kashani, the line includes Serve Link for connecting field robots to data-center AI over unreliable networks, a data curator for finding edge cases in robot logs, and a foundation-model data catalog drawn from Serve's sidewalk robots. Bedrock Robotics is named as a customer, and Serve is also working with T-Mobile on bringing AI compute closer to robots.",
+        "Kashani told TechCrunch the company is keeping its delivery and hospital-robot businesses while opening the stack so others can build on it, comparing the move to Amazon's AWS moment after running the technology end-to-end itself first."
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
+        "credit": "Serve Robotics, via TechCrunch",
+        "alt": "Serve Robotics sidewalk delivery robot"
+      }
+    },
     {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://techcrunch.com/wp-content/uploads/2023/08/Serve_robot_05.jpg?resize=1200,800",
-    "credit": "Serve Robotics, via TechCrunch",
-    "alt": "Serve Robotics sidewalk delivery robot"
-   }
-  },
-  {
-   "title": "University of Tartu robot moth grows a UV sensor from artificial blood",
-   "tag": "Research robots",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "New Atlas reports that engineers at the University of Tartu and the Italian Institute of Technology built a moth-shaped robot whose 3D-printed body carries artificial blood that can form a new ultraviolet sensor when a chosen patch is lit with UV, according to a study in Advanced Science.",
-    "According to New Atlas and first author Kadri-Ann Pankratov, a pump moves about 3 ml of fluid laced with pyrrole through tiny veins; UV plus a light-activated additive turns the soaked plastic into conductive polypyrrole, detected by gold wires printed into the body. The patch's resistance drops under UV, and an onboard chip can blink an LED or flap the wings.",
-    "New Atlas notes the prototype cannot fly, wings are bent by externally powered nitinol wire, researchers—not the robot—chose when and where to grow the sensor, and the reaction is not reversible. The sensor still worked after four months in storage and grew more sensitive with repeated exposures as leftover pyrrole kept reacting."
-   ],
-   "sources": [
+      "title": "Physicl raises $10M seed to build high-fidelity 3D worlds for robot training",
+      "tag": "Simulation",
+      "date": "2026-11-06",
+      "paragraphs": [
+        "TechCrunch reports that Physicl raised $10 million in seed funding led by Inovia Capital to help world-model designers and robot builders train on more realistic simulations. Founder and CEO Alex de Vigan previously built nfinite for e-commerce 3D product renderings.",
+        "According to TechCrunch, Physicl is releasing Studio with 10,000 3D environments and 100,000 assets so users can build scenes that generate synthetic data for edge cases such as a cup on a cluttered or shadowed counter. Early customer SpAItial used the data to improve fidelity for its Echo-3 world-model product.",
+        "de Vigan told TechCrunch the company aims to turn unstructured real-world inputs into high-fidelity geometry, materials, and physics for ongoing synthetic-data generation, not only one-off datasets. SpAItial CEO Matthias Niessner described on-the-fly data generation during training as especially attractive."
+      ],
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+          "date": "2026-11-06"
+        }
+      ],
+      "image": {
+        "url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
+        "credit": "Physicl, via TechCrunch",
+        "alt": "Physicl Studio kitchen simulation environment for robot training"
+      }
+    },
     {
-     "name": "New Atlas",
-     "url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/",
-     "date": "2026-11-05"
+      "title": "University of Tartu robot moth grows a UV sensor from artificial blood",
+      "tag": "Research robots",
+      "date": "2026-11-05",
+      "paragraphs": [
+        "New Atlas reports that engineers at the University of Tartu and the Italian Institute of Technology built a moth-shaped robot whose 3D-printed body carries artificial blood that can form a new ultraviolet sensor when a chosen patch is lit with UV, according to a study in Advanced Science.",
+        "According to New Atlas and first author Kadri-Ann Pankratov, a pump moves about 3 ml of fluid laced with pyrrole through tiny veins; UV plus a light-activated additive turns the soaked plastic into conductive polypyrrole, detected by gold wires printed into the body. The patch's resistance drops under UV, and an onboard chip can blink an LED or flap the wings.",
+        "New Atlas notes the prototype cannot fly, wings are bent by externally powered nitinol wire, researchers—not the robot—chose when and where to grow the sensor, and the reaction is not reversible. The sensor still worked after four months in storage and grew more sensitive with repeated exposures as leftover pyrrole kept reacting."
+      ],
+      "sources": [
+        {
+          "name": "New Atlas",
+          "url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/",
+          "date": "2026-11-05"
+        }
+      ],
+      "image": {
+        "url": "https://assets.newatlas.com/dims4/default/ab2597d/2147483647/strip/true/crop/2417x1269+231+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcc%2F4a%2F4acd235442af8a74baa0b5d94f47%2Frobot-moth-gained-an-e-2.jpg&na.image_optimisation=0",
+        "credit": "Kadri-Ann Pankratov et al., via New Atlas",
+        "alt": "Robot moth with artificial circulatory system"
+      }
     }
-   ],
-   "image": {
-    "url": "https://assets.newatlas.com/dims4/default/ab2597d/2147483647/strip/true/crop/2417x1269+231+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcc%2F4a%2F4acd235442af8a74baa0b5d94f47%2Frobot-moth-gained-an-e-2.jpg&na.image_optimisation=0",
-    "credit": "Kadri-Ann Pankratov et al., via New Atlas",
-    "alt": "Robot moth with artificial circulatory system"
-   }
-  }
- ]
+  ]
 }
