@@ -1,6 +1,23 @@
 {
   "data": [
     {
+      "created_at": "2026-11-06T05:01:44.000Z",
+      "edit_history_tweet_ids": [
+        "2118569499473608970"
+      ],
+      "id": "2118569499473608970",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Odd asteroid shapes complicate deflection plans—even nuclear blasts may struggle to redirect these space rocks.\n\nhttps://t.co/jSAEdAdonq\n\n#AsteroidDeflection #SpaceSafety",
+      "url": "https://x.com/i/status/2118569499473608970"
+    },
+    {
       "created_at": "2026-11-06T02:01:41.000Z",
       "edit_history_tweet_ids": [
         "2118524189372211208"
@@ -640,20 +657,11 @@
       "id": "2116379950890864923",
       "text": "MIT faculty and alumni named Schmidt AI2050 Fellows to drive beneficial AI research.\n\nhttps://t.co/0WhQcUP3VB\n\n#AIResearch #MITInnovation",
       "url": "https://x.com/i/status/2116379950890864923"
-    },
-    {
-      "created_at": "2026-10-31T01:01:12.000Z",
-      "edit_history_tweet_ids": [
-        "2116334641410142437"
-      ],
-      "id": "2116334641410142437",
-      "text": "Rare Mars meteorite offers glimpse into its ancient crust! Discovered in Sahara, it reveals Mars' hidden geological history.\n\nhttps://t.co/BGRAmq2q8x\n\n#MarsGeology #MeteoriteDiscovery",
-      "url": "https://x.com/i/status/2116334641410142437"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2118524189372211208",
-    "oldest_id": "2116334641410142437"
+    "newest_id": "2118569499473608970",
+    "oldest_id": "2116379950890864923"
   }
 }
