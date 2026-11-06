@@ -20,9 +20,6 @@
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
- "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/": {
-  "s": "Introducing Kimi K3.1 Pro, a new model available on the Kimi API. Moonshot promises to release full model weights by November 2026, currently offering a \"Highspeed\" version at twice the price. This model is benchmarked as approximately at par with Claude Opus 5.5 and GPT-6 Astra, with some advantages on certain tasks."
- },
  "https://newatlas.com/robotics/beetlebot-robotic-beetle/": {
   "s": "The Korea Advanced Institute of Science and Technology (KAIST) developed BeetleBot, a robot inspired by the Mecynorrhina torquata beetle. It uses 3D-printed artificial muscles made from liquid crystal elastomer (LCE) that contract when heated. The robot can move and grasp objects, and its finger-controlled operator receives feedback from the robot. Energy efficiency remains a challenge for the project."
  },
@@ -37,9 +34,6 @@
  },
  "https://simonwillison.net/2026/Oct/28/vibe-game-development/": {
   "s": "The organization has reached a new inflection point in October 2026 for vibe coding computer games, specifically with Claude Opus 5.5 showing meaningful improvements in game design. This new capability challenges traditional game design, as the models can now create games that are fun to play, which was previously a difficult task."
- },
- "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/": {
-  "s": "NVIDIA RTX Spark powers new laptops that are thin and light, designed for developers, creators, and gamers. This technology combines a powerful GPU and CPU in a single chip, making it ideal for AI tasks. A new tool, NVIDIA Nemotron 3.5 Transcribe, simplifies speech-to-text conversion, supporting multiple languages and handling various prompts. This makes transcription more efficient and accessible on local hardware."
  },
  "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions": {
   "s": "The AI for Science program is expanding to include scientific foundations and institutions, offering free AI credits to researchers. This initiative aims to increase access to AI tools, enabling deeper and broader scientific work."
@@ -58,9 +52,6 @@
  },
  "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
   "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
- },
- "https://spectrum.ieee.org/video-friday-whole-body-manipulation": {
-  "s": "The robot Spot demonstrated whole-body manipulation, including handling objects like a tire, which is a significant step in its ability to interact with the environment. This capability is important for future robotic applications that require safe and compliant handling of various objects."
  },
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A robot designed to slow for someone in a hallway can still respond as programmed if someone is in the way. This matters because robots designed to ensure safety can be misled by manipulated information, altering their intended actions."
@@ -90,9 +81,6 @@
  "https://news.mit.edu/2026/flexible-new-route-designer-materials-from-nanoparticles-1102": {
   "s": "Researchers at MIT developed a new method to control how nanoparticles link together, creating materials for various applications. This advance is important because it solves a long-standing challenge in making nanoparticle-based materials, allowing for more precise control over their performance."
  },
- "https://www.sciencenews.org/article/melting-permafrost-new-type-landslide": {
-  "s": "A new type of large landslide occurred in Canada, triggered by thawing permafrost. This event challenges scientists' understanding of permafrost behavior, suggesting slides can mobilize large frozen layers suddenly."
- },
  "https://theconversation.com/why-do-galaxies-rotate-291508": {
   "s": "Galaxies rotate like figure skaters do, spinning on their axes. Why galaxies rotate is understood through the law of conservation of angular momentum, which states that an object's spinning speed remains constant unless acted upon by an outside force. This law applies to all spinning objects, including galaxies, which are made of regular matter and dark matter."
  },
@@ -108,9 +96,6 @@
  "https://x.ai/news/data-bot": {
   "s": "Data Bot, a tool developed by SpaceXSI, enables every team to query data warehouses and run analyses, mimicking a data scientist's work. This innovation is important because it addresses the bottleneck created by a small data science team, providing around-the-clock support and shared expertise across the company."
  },
- "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine": {
-  "s": "Blue Origin has created a third stage for its New Glenn rocket, making the launch vehicle more versatile and powerful. This new engine, named Northstar, is expected to enhance the rocket's capabilities."
- },
  "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging": {
   "s": "Asteroids vary greatly in shape, not just in composition. Scientists are studying various methods to redirect asteroids, including nuclear weapons, but predicting their impact on irregularly shaped asteroids remains challenging."
  },
@@ -121,19 +106,8 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/": {
-  "s": "OpenAI launched GPT-Image-2.6 Flare and Sunburst, adding GIFs and SVG export to its image generation API. This update speeds up image creation and offers more editing tools, benefiting users who need quick iterations or detailed compositions. Users can now turn prompts into animated GIFs, edit frames, and reuse reference images, making the process more efficient and flexible."
- },
  "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114": {
   "s": "Blind people and musicians hear pitch better because their auditory systems process sounds more consistently, reducing internal noise. This consistency allows them to more reliably distinguish between similar sounds."
- },
- "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter": {
   "s": "When astronomers used the James Webb Space Telescope, they observed many bright galaxies in the early universe just 400 to 500 million years after the Big Bang. These galaxies formed very dense clusters of stars. Why this happened remains a mystery. The research suggests that Lyman-Alpha radiation, which pushes low-density gas and dust away quickly, may have cleared the way for star formation at that time."
@@ -173,23 +147,11 @@
  "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103": {
   "s": "Documentary highlights the pain and misunderstanding of endometriosis affecting millions of women, showcasing personal stories and scientific research. It aims to change the narrative by bringing attention to the disease, encouraging more research and understanding."
  },
- "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin": {
-  "s": "Finding exoplanets has been difficult due to their proximity to bright stars, making them hard to see. The James Webb Space Telescope (JWST) uses coronagraphs to block starlight, but it still faces a stability limit that makes imaging some planets challenging. Researchers have developed a method to subtract more starlight from JWST observations, allowing them to image exoplanets that were previously hidden. This advancement is crucial for detailed exoplanet characterization beyond 1 astronomical unit."
- },
- "https://www.livescience.com/physics-mathematics/physicists-sank-a-telescope-1-5-miles-under-the-sea-to-put-einsteins-relativity-to-the-test": {
-  "s": "Despite its limitations, this deep-sea telescope's findings are as significant as those from much larger detectors."
- },
  "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/": {
   "s": "NASA announced the X-70 Fractal, a crewed, adaptable research platform, at a summit. This aircraft aims to test new aviation technologies in real flight, offering rapid payload changes and high performance. Its modular design and advanced flight-control technology will help NASA explore and develop new aviation technologies."
  },
  "https://www.sciencenews.org/article/diabetes-device-experiment-blood-sugar": {
   "s": "The wireless implant in mice clears excess sugar from their blood on demand, helping them lose weight. It could offer a drug-free treatment for diabetes and obesity, as conventional treatments require careful dosing."
- },
- "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/": {
-  "s": "NASA shared plans to accelerate its Artemis program, aiming for the first American moon landing in 2028. The agency highlighted significant progress in testing critical capabilities and reducing mission risks, emphasizing urgency to achieve a world-changing outcome."
- },
- "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/": {
-  "s": "NASA selected three companies to develop Ka-band space relay concepts compatible with existing missions, ensuring service continuity for spacecraft without needing modifications. This work aims to provide end-to-end solutions and support NASA's decision to retire its current satellite fleet and adopt commercial services for future missions."
  },
  "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": {
   "s": "Chris Alexiuk advocates for open source AI, believing it should be widely promoted. He believes transparency is crucial for AI to be accessible and useful, advocating for full access to model weights and training data. Alexiuk teaches developers how to build and use AI models on platforms like YouTube, aiming to make AI more accessible to a broader audience."
@@ -279,14 +241,8 @@
  "https://www.sciencedaily.com/releases/2026/11/261105224542.htm": {
   "s": "Scientists found chemically confirmed traces of ancient dinosaur blood inside bones dating back 115 million years. This discovery transforms how researchers study prehistoric animals, challenging previous assumptions about the longevity of biological molecules. It also potentially influences the search for ancient life beyond Earth, as the findings indicate some biological materials can remain detectable for millions of years under exceptional conditions."
  },
- "https://phys.org/news/2026-11-forests-underground-storage-metric-carbon.html": {
-  "s": "This metric helps various stakeholders like regulators, buyers, insurers, and investors to build more diversified portfolios and secure investments for climate change mitigation."
- },
  "https://www.livescience.com/space/mars/gigantic-chasm-on-mars-10-times-longer-than-the-grand-canyon-is-still-tectonically-active-surprising-marsquake-reveals": {
   "s": "A powerful quake in Mars's largest canyon was caused by movement in a hidden fault line. This discovery matters as it suggests the canyon is still geologically active, contrary to previous beliefs."
- },
- "https://phys.org/news/2026-11-cancer-linked-gene-shortcut-trigger.html": {
-  "s": "Researchers at the University of California, Santa Cruz, found a gene linked to cancer, E2F1, can bypass normal cell division rules. This shortcut allows cells to divide without following the usual genetic unpacking process, potentially contributing to cancer growth. Understanding this mechanism may help in designing more targeted cancer treatments."
  },
  "https://www.sciencedaily.com/releases/2026/11/261103003200.htm": {
   "s": "Scientists have identified a beetle species, Prionus imbricornus, whose larvae grow up to five inches long and feed on blueberry roots, causing significant damage. This discovery is important as it allows blueberry growers to develop targeted pest control strategies, addressing a previously unidentified threat to their crops."
@@ -299,9 +255,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/11/261104084017.htm": {
   "s": "A study shows that a drug used to prevent organ rejection could help protect people genetically predisposed to Alzheimer's. The drug improves brain blood flow in middle-aged adults with Alzheimer's risk genes, suggesting an early warning sign of Alzheimer's."
- },
- "https://phys.org/news/2026-11-microplastic-pollution-pacific-ocean.html": {
-  "s": "The researchers found that the waters near the Great Pacific Garbage Patch have become brighter in blue and green light over time. This suggests microplastics might be affecting the ocean's color, but they could not definitively link the color change to microplastics alone."
  },
  "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026": {
   "s": "The Hera probe has captured its first detailed image of Didymos, an asteroid system that NASA's DART mission intentionally hit. This matters as it provides the first close-up view of an asteroid after it has been deliberately altered by human intervention."
@@ -322,9 +275,6 @@
  "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105": {
   "s": "A new method has been developed to predict how particles move through quark-gluon plasma, the universe's first fluid, under extreme conditions. This method builds upon Einstein's theories, offering insights into the behavior of matter in its earliest state."
  },
- "https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html": {
-  "s": "Technetium-99, a radioactive byproduct of nuclear fuel, moves easily through water and soil, posing a significant environmental threat. Researchers at The University of Manchester developed a method to remove this contaminant from liquid waste by incorporating it into minerals. This technique effectively removes more than 99% of technetium, even at high concentrations, by transforming it into a less mobile form. This innovation could help in treating radioactive effluents and managing contaminated sites."
- },
  "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth": {
   "s": "",
   "why": "too little source text"
@@ -335,23 +285,71 @@
  "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark": {
   "s": "The Voyager 1 spacecraft, launched in 1977, experienced a brief loss of communications in October. A fix called the 'Big Bang' was implemented to restore power and functionality, involving swapping out older, less efficient components with newer, more reliable ones."
  },
- "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast": {
   "s": "NASA will host its first air show on Florida's Space Coast this weekend, an event that brings together aerospace enthusiasts. This show shares its name with a character's alias from the popular cartoon."
  },
- "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html": {
-  "s": "Scientists have identified a key requirement for achieving superconductivity at room temperature. Their research, published in Science, suggests that electron pairing alone is not sufficient for room-temperature superconductivity. This finding brings scientists closer to understanding how to achieve superconductivity at higher temperatures, which could lead to more efficient energy storage and other technological advancements."
- },
- "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html": {
-  "s": "Using gravitational lensing, astronomers have spotted a galaxy nicknamed Misty Moons, which was present when the universe was still very young, less than 500 million years old. This galaxy's magnified appearance due to a foreground galaxy cluster's gravity has helped researchers reconstruct its internal structure, revealing insights into early star formation."
- },
- "https://www.livescience.com/planet-earth/plants/a-tiny-chunk-of-australia-seeded-southeast-asias-tropical-forests-150-million-years-ago-plant-fossils-preserved-in-amber-reveal": {
-  "s": "This discovery, revealed by plant fossils in amber, provides insight into how continents interacted to shape ecosystems."
- },
  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
   "s": "Physicl raised $10 million to develop digital simulations that better mimic real-world physics, aiming to improve how robots interact with objects. This matters as current methods of training robots on video footage or gathering data are expensive and inaccurate, hindering their effectiveness."
+ },
+ "https://phys.org/news/2026-11-noise-pollution-biology-behavior-animal.html": {
+  "s": "Noise pollution affects 80% of animal species studied, altering body functions, development, and behavior. This study highlights the broader impact of noise on entire populations and ecosystems, potentially reshaping how species survive and interact."
+ },
+ "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it": {
+  "s": "Finding the Andromeda galaxy is easy with the naked eye, but believing it's a separate galaxy from ours is challenging. The text suggests the galaxy is very distant, making it hard to grasp its true nature."
+ },
+ "https://www.livescience.com/health/viruses-infections-disease/50-percent-of-long-covid-patients-show-improvement-in-3-years-but-the-condition-tends-to-linger-in-those-with-this-subtype": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.universetoday.com/articles/nasas-twin-spacecraft-will-execute-powered-slingshot-maneuvers-on-their-way-to-mars": {
+  "s": "NASA's twin spacecraft will execute a slingshot maneuver to boost their speed, reaching Mars later than usual. This maneuver is crucial to gather data about Mars' ancient atmosphere, helping scientists understand how it may have been lost."
+ },
+ "https://www.nasa.gov/image-article/m30s-sparkling-stars/": {
+  "s": "The image shows Messier 30, named after Charles Messier, a French astronomer who cataloged stars and nebulae to avoid mistaking them for comets. This collection of stars provides insight into galactic history, as Messier's cataloging helped distinguish celestial bodies from Earth-bound phenomena."
+ },
+ "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize": {
+  "s": "Tiny structures resembling red blood cells were found in a 115-million-year-old dinosaur fossil. These structures are the oldest of their kind ever identified and chemically proven. The discovery could offer insights into the physiology of extinct animals. Some experts are not convinced of the findings, questioning the preservation of blood cells over such a long period."
+ },
+ "https://www.quantamagazine.org/a-strange-quantum-theorem-has-killed-einsteins-reality-20261106/": {
+  "s": "Albert Einstein struggled to reconcile the strange predictions of quantum mechanics with his belief in a reality that is objective and independent of observation. However, John Stewart Bell's 1964 theorem showed that Einstein's assumptions about reality were incorrect, proving that quantum mechanics does not support the idea of a single, objective reality."
+ },
+ "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/": {
+  "s": "A year ago, NVIDIA released its Aerial software, joining other open-source tools to help researchers develop next-generation 6G networks. Today, these tools are being used to build networks that improve robot and autonomous system connectivity and adapt to real-world changes."
+ },
+ "https://phys.org/news/2026-11-synfit-enzyme-traits.html": {
+  "s": "Researchers have long used enzymes to make useful chemicals in the lab. But enzymes can't always do the tasks scientists want them to do. A new tool called SynFit helps by predicting enzyme variants that work well across multiple desired traits. This saves time by balancing several traits at once, rather than focusing on just one at a time as traditional methods do."
+ },
+ "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery": {
+  "s": "An owl fossil found in Germany, including what it had eaten, helped researchers to better understand when these nocturnal birds became dominant. This finding could solve a long-standing mystery in bird evolution."
+ },
+ "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://phys.org/news/2026-11-vibrating-mirrors-analog-black-hole.html": {
+  "s": "Researchers at the University of California, Santa Barbara, have confirmed a theoretical prediction: when a mirror inside an optical cavity is rapidly vibrated, the light waves inside it bunch together into intense pulses. This experiment mimics the behavior near the event horizon of a black hole, showing how light and matter waves behave differently in curved spacetime."
+ },
+ "https://phys.org/news/2026-11-atom-scale-material-growth-advanced.html": {
+  "s": "Penn State researchers have improved a model of how silicon carbide changes from a solid to vapor during crystal growth. This refinement could help manufacturers produce higher-quality silicon carbide for advanced electronics, reducing the need for costly trial-and-error experiments. Silicon carbide is used in high-power devices like those in electric vehicles and clean-energy systems."
+ },
+ "https://phys.org/news/2026-11-scientists-temperature-china-space-station.html": {
+  "s": "Scientists from China have achieved a new record-breaking low temperature on their space station, reaching 52 picokelvin. This achievement allows for better measurements in quantum physics and new states of matter."
+ },
+ "https://phys.org/news/2026-11-technique-trnas-action-drug-inherited.html": {
+  "s": "The technique developed by researchers spots tRNAs in action, focusing on those actually making proteins. It reveals differences between tRNAs in cells and those on the ribosome, especially under stress. This could accelerate the development of drugs for genetic diseases."
+ },
+ "https://phys.org/news/2026-11-3d-microscope-imaging-tools.html": {
+  "s": "A new light-sheet microscope has been developed by researchers. Designed to be versatile, it allows detailed imaging of biological samples more easily and quickly, potentially saving researchers money by reducing the need for multiple specialized instruments."
+ },
+ "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://spectrum.ieee.org/video-friday-home-cable-robot": {
+  "s": "The video showcases a home robot that can navigate through a room to tidy up, driven by cables instead of wheels. This form factor is new and useful, as it can safely navigate obstacles multiple times without crashing. Evan Ackerman, a robotics editor, is enthusiastic about its novel design and durability."
  }
 }
