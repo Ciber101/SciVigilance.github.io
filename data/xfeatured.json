@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2118390190246879554",
-     "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and",
+     "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.\n\nGPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.",
      "date": "2026-11-05T17:09:13.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg",
@@ -26,7 +26,7 @@
     },
     {
      "id": "2118119451401048497",
-     "text": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.\n\nIn a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API",
+     "text": "Our security researchers built an autonomous cyber vulnerability discovery, exploitation, and patching pipeline.\n\nIn a single run with an upcoming cyber model, it validated and generated patches for 948 local privilege escalation vulnerabilities in the Linux kernel at a total API cost of $1.2 million.",
      "date": "2026-11-04T23:13:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWUQl7QbwAAkznq.png",
@@ -244,8 +244,17 @@
    "avatar": "img/x-karpathy.jpg",
    "posts": [
     {
+     "id": "2116957135661945283",
+     "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n- Excellent",
+     "date": "2026-11-01T18:14:46.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HWDnuuCaIAA__wa.jpg",
+     "video": null,
+     "url": "https://x.com/karpathy/status/2116957135661945283"
+    },
+    {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -288,12 +297,21 @@
    "posts": [
     {
      "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout & training as demand shifts—live executions never interrupted. Up to 1.85× speedup over Colocate, 1.78× over Async.\n- Trajectory Processor: turns branching executions (compaction, sub-agents, retries) into prefix-shared trajectory trees with bounded, deduplicated training samples. Partial progress after timeout still gets scored.\n\nScaled to Qwen3.8-2.4T-A95B with ~700K tokens per rollout, QwenGyre lifts NL2RepoBench from 52.5% to 58.5% in 48 steps, cutting end-to-end training time by ~44% vs Async.\n\n🔗 Read the paper:",
+     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
      "date": "2026-10-12T13:11:37.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
+    },
+    {
+     "id": "2108549075218120949",
+     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
+     "date": "2026-10-09T13:24:09.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     },
     {
      "id": "2108401307577090259",
@@ -358,7 +376,7 @@
    "posts": [
     {
      "id": "2118412135340572850",
-     "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal",
+     "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents.\n\nLearn more about Muse Realtime Avatar on our research blog:",
      "date": "2026-11-05T18:36:25.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118411815852056576/img/6UaZfCrU4eOkGNWu.jpg",
@@ -367,7 +385,7 @@
     },
     {
      "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse",
+     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
      "date": "2026-10-28T17:08:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
@@ -376,7 +394,7 @@
     },
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -385,7 +403,7 @@
     },
     {
      "id": "2112245968750145561",
-     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus",
+     "text": "We trained our Muse foundational models, including Muse Wonder, at Prometheus, our gigawatt-scale supercluster in New Albany, Ohio.\n\nAcross a supercluster with hundreds of thousands of GPUs, even one underperforming host can slow an entire training run. We engineered Prometheus for resilience at scale, achieving 85%+ goodput on pretraining, 90%+ on reinforcement learning and ~47K GPU hours mean time between interruptions during Muse Wonder training.\n\nTake a look at the tech powering Prometheus:",
      "date": "2026-10-19T18:14:17.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2112245058472906752/img/Ql2HvTqHqzURK5DP.jpg",
@@ -400,6 +418,15 @@
    "group": "ai",
    "avatar": "img/x-nvidia.jpg",
    "posts": [
+    {
+     "id": "2114827978748383342",
+     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
+     "date": "2026-10-26T21:14:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
+     "url": "https://x.com/nvidia/status/2114827978748383342"
+    },
     {
      "id": "2114377680715980950",
      "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
@@ -426,15 +453,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
      "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
      "url": "https://x.com/nvidia/status/2113604477261398148"
-    },
-    {
-     "id": "2112920354230296993",
-     "text": "Demand for compute is extraordinary. NVIDIA and our partners are building new capacity to meet it.\n\nWe’re working with Amkor, IBIDEN, KYEC, Samsung Mechanics, SPIL, and Unimicron to expand our supply around the world, from essential components to advanced packaging and testing.",
-     "date": "2026-10-21T14:54:03.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVKZ2_gWEAARj_t.jpg",
-     "video": null,
-     "url": "https://x.com/nvidia/status/2112920354230296993"
     }
    ]
   },
@@ -630,21 +648,12 @@
    "posts": [
     {
      "id": "2117663862564573240",
-     "text": "We're thrilled to announce Stretch Gen 2, the next generation of our autonomous mobile trailer unloading robot!\n\n\"Our customers count on Stretch to keep freight moving, and every hour a robot sits idle is an hour of work that piles up on the dock. With Gen 2, we focused on the",
+     "text": "We're thrilled to announce Stretch Gen 2, the next generation of our autonomous mobile trailer unloading robot!\n\n\"Our customers count on Stretch to keep freight moving, and every hour a robot sits idle is an hour of work that piles up on the dock. With Gen 2, we focused on the things that actually took robots offline in the real world. We made it tougher, we made it simpler to service, and we made sure it keeps getting better long after it's deployed.\" - Brian Donnelly, VP & GM - Logistics Robotics\n\nLearn more:",
      "date": "2026-11-03T17:03:03.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWN0D2IWcAASzvX.jpg",
      "video": null,
      "url": "https://x.com/BostonDynamics/status/2117663862564573240"
-    },
-    {
-     "id": "2116194957190893687",
-     "text": "We're proud to announce that Orbit AIVI-Learning won a LEAP Award in industrial automation!\n\nThe @DesignWorld LEAP Awards (Leadership in Engineering Achievement Program) celebrates the most innovative and forward-thinking products serving the design engineering space, selected by",
-     "date": "2026-10-30T15:46:09.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HV43uTnWAAA3Ji2.jpg",
-     "video": null,
-     "url": "https://x.com/BostonDynamics/status/2116194957190893687"
     },
     {
      "id": "2115815524051362095",
@@ -663,6 +672,15 @@
      "image": "https://pbs.twimg.com/media/HVuW54tXQAAtCF1.jpg",
      "video": "https://video.twimg.com/amplify_video/2115450267038613504/vid/avc1/1920x1080/Fr5d9kWw7sX-xJ3a.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2115450377004826743"
+    },
+    {
+     "id": "2110755540401827986",
+     "text": "After an ongoing deployment in Barcelona, @CocaColaEP is scaling Spot globally. Spot is already up and running in East Kilbride, Scotland, locating air leaks and automating condition monitoring rounds.",
+     "date": "2026-10-15T15:31:51.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
+     "video": "https://video.twimg.com/amplify_video/2110755331244544000/vid/avc1/1920x1080/sO9X5hOWssL1mJbA.mp4?tag=16",
+     "url": "https://x.com/BostonDynamics/status/2110755540401827986"
     }
    ]
   },
@@ -778,7 +796,7 @@
    "posts": [
     {
      "id": "2117914213188239559",
-     "text": "Robots built for real workplaces need more than capable AI models. They need a seamless path from data to deployment and reliable performance amid changing materials, equipment constraints, and exceptions.  \n\nGenie Studio 2.0 brings the full embodied AI lifecycle together in one",
+     "text": "Robots built for real workplaces need more than capable AI models. They need a seamless path from data to deployment and reliable performance amid changing materials, equipment constraints, and exceptions.  \n\nGenie Studio 2.0 brings the full embodied AI lifecycle together in one platform.From data collection and model training to simulation, evaluation, deployment, task orchestration, and fleet operations, new tasks can reach deployment validation in as little as seven days.  \n\nDiscover more：   \n\n#AGIBOT #GenieStudio #EmbodiedAI #Robotics",
      "date": "2026-11-04T09:37:52.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117904335657160704/img/-aCUn-80x5hlk7K_.jpg",
@@ -787,7 +805,7 @@
     },
     {
      "id": "2117255659024470527",
-     "text": "It's one thing for a robot to perform a single action. It's another to complete an entire task on its own.  \n\nAt AGIBOT Innovation Day 2026, AGIBOT A3 Ultra demonstrated autonomous cross-floor navigation and extended autonomous room tidying, showcasing its ability to navigate",
+     "text": "It's one thing for a robot to perform a single action. It's another to complete an entire task on its own.  \n\nAt AGIBOT Innovation Day 2026, AGIBOT A3 Ultra demonstrated autonomous cross-floor navigation and extended autonomous room tidying, showcasing its ability to navigate complex indoor environments, recognize surroundings, make decisions, and carry out tasks over time with minimal human intervention.  \n\nThese demos go beyond individual movements, showing how humanoid robots are moving toward more autonomous and sustained work in real-world environments. \n\n #AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
      "date": "2026-11-02T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117191765782634496/img/86DNUZ5AX0IlAsRl.jpg",
@@ -796,7 +814,7 @@
     },
     {
      "id": "2117158349448139116",
-     "text": "110 humanoid robots. One synchronized performance. A GUINNESS WORLD RECORDS.  \n\n110 AGIBOT A3 humanoid robots danced in unison, setting the GUINNESS WORLD RECORDS for the most humanoid robots dancing simultaneously.  \n\nBeyond the spectacular light show, the performance showcased",
+     "text": "110 humanoid robots. One synchronized performance. A GUINNESS WORLD RECORDS.  \n\n110 AGIBOT A3 humanoid robots danced in unison, setting the GUINNESS WORLD RECORDS for the most humanoid robots dancing simultaneously.  \n\nBeyond the spectacular light show, the performance showcased the coordination capabilities behind large-scale robot deployments. Powered by UWB centimeter-level positioning and the LinkBots multi-robot control system, all 110 robots performed in precise synchronization, completing the challenge without a single error.  \n\nA new milestone in multi-robot coordination — where engineering precision meets the art of motion.  \n#AGIBOT #AGIBOTA3 #GuinnessWorldRecords #EmbodiedAI",
      "date": "2026-11-02T07:34:20.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117156796381229056/img/7QmgbXu3n8BVsgSJ.jpg",
@@ -804,13 +822,13 @@
      "url": "https://x.com/AGIBOTofficial/status/2117158349448139116"
     },
     {
-     "id": "2116168495570333734",
-     "text": "🏆 AGIBOT Wins the Best Use of AI Award!\n\nWe’re honored to receive the Best Use of AI  from @HumanoidRTech!\n\nThis recognition highlights AGIBOT’s work in:\n🔹AI model development: Advancing models such as GO-3 and GE-2.\n🔹Open research: Making AGIBOT WORLD openly available to the",
-     "date": "2026-10-30T14:01:00.000Z",
+     "id": "2116145595668627804",
+     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.\n\nDifferent tasks require different benchmarks. Now, Worken offers a framework for exploring how to measure the productive work robots actually perform.\n\n#AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
+     "date": "2026-10-30T12:30:00.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2116155402190790656/img/QE9hcQb7jPoWyTQ0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2116155402190790656/vid/avc1/2160x2160/2bWrxOMcu3jjITL-.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2116168495570333734"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2116111851528609792/img/cmo31H_0-w9YgIgI.jpg",
+     "video": "https://video.twimg.com/amplify_video/2116111851528609792/vid/avc1/1920x1080/BEF_Q1k6h5Rs0pAv.mp4",
+     "url": "https://x.com/AGIBOTofficial/status/2116145595668627804"
     }
    ]
   },
@@ -953,7 +971,7 @@
    "posts": [
     {
      "id": "2118449337814352016",
-     "text": "Flying high!\n\nToday, our X-59 quiet supersonic X-59 aircraft traveled from Birmingham, Alabama, to Daytona Beach, Florida. The aircraft aims to fly faster than sound with just a gentle thump rather than a sonic boom — helping usher in a new era of faster air travel.\n\nWe're",
+     "text": "Flying high!\n\nToday, our X-59 quiet supersonic X-59 aircraft traveled from Birmingham, Alabama, to Daytona Beach, Florida. The aircraft aims to fly faster than sound with just a gentle thump rather than a sonic boom — helping usher in a new era of faster air travel.\n\nWe're prepping to feature X-59 at MAX POWER and will provide updates soon!",
      "date": "2026-11-05T21:04:15.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWY9OvvWoAA7DBr.jpg",
@@ -1068,7 +1086,7 @@
     },
     {
      "id": "2115961436484817011",
-     "text": "Launch Day!\n\nThe GSLV-F18/NVS-03 Mission is scheduled for launch today, 30 October 2026, at 23:51 hrs IST from Satish Dhawan Space Centre (SDSC SHAR), Sriharikota.\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:\n\n#GSLVF18 #NVS03 #ISRO #NavIC",
+     "text": "Launch Day!\n\nThe GSLV-F18/NVS-03 Mission is scheduled for launch today, 30 October 2026, at 23:51 hrs IST from Satish Dhawan Space Centre (SDSC SHAR), Sriharikota.\n\nWatch live:  30th October 2026, 23:20 hours IST onwards\n\nMission details:",
      "date": "2026-10-30T00:18:13.000Z",
      "quoted": false,
      "image": null,
@@ -1182,7 +1200,7 @@
     },
     {
      "id": "2117633498085310863",
-     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new",
+     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new episode of Ascending Node is out now:",
      "date": "2026-11-03T15:02:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWNYcXEWEAAhL4C.jpg",
@@ -1200,7 +1218,7 @@
     },
     {
      "id": "2111034919140946229",
-     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read",
+     "text": "\"Launching at a high cadence requires a connected system - one that manufactures vehicles at scale, prepares customer payloads efficiently, supports reliable launch operations, and quickly returns reusable boosters to service. We are building that system here in Florida.\" Read more from our Senior Vice President of Operations Ian Richardson.",
      "date": "2026-10-16T10:02:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HUvnEFkXEAIiMlZ.jpg",
@@ -1216,6 +1234,15 @@
    "avatar": "img/x-rocketlab.jpg",
    "posts": [
     {
+     "id": "2118521208639746494",
+     "text": "Electron's 100th mission. It's almost time.\n\n\"The Mountain God Rises\" will carry a QPS-SAR satellite for @QPS_Inc to a 575km LEO from Launch Complex 1 no earlier than Saturday Nov 14.\n\nLaunch window opens:\n🚀6:30pm NZDT\n🚀05:30 UTC\n🚀2:30pm JST\n🚀12:30am Eastern\n🚀9:30pm Pacific (Nov 13)",
+     "date": "2026-11-06T01:49:51.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HWZ-todaIAAHsoO.jpg",
+     "video": null,
+     "url": "https://x.com/RocketLab/status/2118521208639746494"
+    },
+    {
      "id": "2117715361714016621",
      "text": "Hello from orbit!\n\nOne of the first images from Maxwell, the spacecraft we built for @Viasat, featuring our solar array.\n \nMaxwell is healthy and moving through commissioning ahead of schedule.",
      "date": "2026-11-03T20:27:42.000Z",
@@ -1226,7 +1253,7 @@
     },
     {
      "id": "2117448175271501907",
-     "text": "Get ready: Trans-Mars Injection incoming.\n\nOur two spacecraft - Blue &amp; Gold - will slingshot Earth and shoot for Mars in four days.\n\nThe @escapade_mars mission for @NASA &amp; @ucbssl is preparing for TMI – a critical maneuver in this epic interplanetary mission.\n\nBlue’s engine burn",
+     "text": "Get ready: Trans-Mars Injection incoming.\n\nOur two spacecraft - Blue & Gold - will slingshot Earth and shoot for Mars in four days.\n\nThe @escapade_mars mission for @NASA & @ucbssl is preparing for TMI – a critical maneuver in this epic interplanetary mission.\n\nBlue’s engine burn scheduled:  Saturday 7th November\nGold’s engine burn scheduled: Monday 9th November\n\nLearn more about ESCAPADE here:",
      "date": "2026-11-03T02:45:59.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117448088596185088/img/3bDZcWUAQP9BwI6K.jpg",
@@ -1234,17 +1261,8 @@
      "url": "https://x.com/RocketLab/status/2117448175271501907"
     },
     {
-     "id": "2117342418723069984",
-     "text": "Strengthening national security in space relies on responsive launch and reliable spacecraft. We're proud to deliver both.🛰️🚀\n\nLooking forward to Brad Clevenger, who leads Space Systems work at Rocket Lab, joining @SenKevinCramer at this year’s Space Operations Summit in Grand",
-     "date": "2026-11-02T19:45:45.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/RocketLab/status/2117342418723069984"
-    },
-    {
      "id": "2117338248901247470",
-     "text": "We've officially launched Electron 99 times.\n\nIt took us seven years to reach 50. Now, just two years later, we're closing in on 100.\n\nHighlights from today's mission for @QPS_Inc :\n✅Launched on 1st attempt\n✅20th mission of the year\n✅99th Electron mission overall\n✅10th launch",
+     "text": "We've officially launched Electron 99 times.\n\nIt took us seven years to reach 50. Now, just two years later, we're closing in on 100.\n\nHighlights from today's mission for @QPS_Inc :\n✅Launched on 1st attempt\n✅20th mission of the year\n✅99th Electron mission overall\n✅10th launch for iQPS with 100% mission success",
      "date": "2026-11-02T19:29:11.000Z",
      "quoted": true,
      "image": null,
@@ -1287,7 +1305,7 @@
    "posts": [
     {
      "id": "2117329564313489525",
-     "text": "Every day, billions of people rely on satellite navigation, often without even thinking about it.\n\nFinding the fastest route, locating a delivery, guiding aircraft and ships or helping emergency services reach the right place all depend on signals transmitted from satellites",
+     "text": "Every day, billions of people rely on satellite navigation, often without even thinking about it.\n\nFinding the fastest route, locating a delivery, guiding aircraft and ships or helping emergency services reach the right place all depend on signals transmitted from satellites orbiting thousands of kilometres above Earth.\n\nNavigation satellites provide precise positioning and timing information that supports countless services across transportation, logistics, agriculture, telecommunications and many other sectors.",
      "date": "2026-11-02T18:54:40.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWJD_52XUAAye2o.jpg",
@@ -1296,7 +1314,7 @@
     },
     {
      "id": "2116228604744847393",
-     "text": "Same constellation. Two generations of Ariane. 🚀\n\nThen: Ariane 5 launched four Galileo satellites at once in 2016.\n\nNow: Ariane 6 continues the journey, helping build Europe's navigation constellation.\n\nTwo generations of launchers. One mission: bringing Galileo satellites into",
+     "text": "Same constellation. Two generations of Ariane. 🚀\n\nThen: Ariane 5 launched four Galileo satellites at once in 2016.\n\nNow: Ariane 6 continues the journey, helping build Europe's navigation constellation.\n\nTwo generations of launchers. One mission: bringing Galileo satellites into orbit. 🛰️\n\n#LaunchingAmbitions\n@ArianeGroup  @esa  @CNES @EuropeSpacePort @ESA_transport @EU4Space",
      "date": "2026-10-30T17:59:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HV5asp8XkAAK6oS.jpg",
@@ -1305,7 +1323,7 @@
     },
     {
      "id": "2115503855194534267",
-     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation",
+     "text": "⏱ 3 hours and 55 minutes.\n\nThat was the duration of Ariane 6’s longest mission to date, the launch of Galileo satellites 33 and 34 in December 2025.\n\nA mission stretching nearly four hours is not just a number. It reflects the precision required to deliver two navigation satellites into their exact orbital slots, with multiple powered phases, coast phases and a highly accurate upper stage re-ignition sequence.\n\nA powerful demonstration of Ariane 6's ability to carry out complex orbital deployments.\n\nFor Galileo, precision is essential.\n\nAnd it starts at launch.\n\n#LaunchingAmbitions\n@ArianeGroup @ESA @CNES @EuropeSpacePort\n@esa_transport @esaoperations @EU4Space",
      "date": "2026-10-28T17:59:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVvHipQW0AAVr-G.jpg",

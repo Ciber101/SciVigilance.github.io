@@ -124,9 +124,6 @@
  "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-announces-3rd-stage-for-its-powerful-new-glenn-rocket-and-a-new-engine": {
   "s": "Blue Origin has created a third stage for its New Glenn rocket, making the launch vehicle more versatile and powerful. This new engine, named Northstar, is expected to enhance the rocket's capabilities."
  },
- "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
-  "s": "Gemini Omni 1.2 Flash introduces 15-second clips with enhanced consistency and cost-effectiveness. This update makes video creation faster and cheaper, allowing for higher-quality content at scale."
- },
  "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging": {
   "s": "Asteroids vary greatly in shape, not just in composition. Scientists are studying various methods to redirect asteroids, including nuclear weapons, but predicting their impact on irregularly shaped asteroids remains challenging."
  },
@@ -313,9 +310,6 @@
  "https://phys.org/news/2026-11-atomic-layers-spontaneously-room-temperature.html": {
   "s": "Researchers discovered that twisted atomic layers of MoS₂ can slide spontaneously at room temperature, even with a low concentration of defects. This finding challenges conventional models of material behavior and opens new avenues for understanding and manipulating two-dimensional materials."
  },
- "https://www.sciencealert.com/world-first-underwater-volcano-off-us-coast-generates-net-positive-electricity": {
-  "s": "An engineering team generated electricity by using heat from an underwater volcano. This method shows promise for sustainable energy, as it doesn't rely on sunlight or wind."
- },
  "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/": {
   "s": "Google released Gemini Omni 1.2 Flash, a video editing model offering 15-second clips at $0.07 per second, 30% cheaper than its predecessor. This matters because the new model reduces costs and offers more flexible editing options, appealing to creators and advertisers looking to produce quick content at lower prices."
  },
@@ -344,9 +338,6 @@
  "https://news.mit.edu/2026/magnetic-sensors-track-muscle-movement-better-prosthetic-limb-control-1029": {
   "s": "Researchers have developed magnetic sensors that track muscle movement, aiming to improve control of prosthetic limbs for amputees. This technology could allow for more natural limb movements, benefiting people with amputation."
  },
- "https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html": {
-  "s": "Researchers at Tohoku University and JAEA have demonstrated for the first time that electric current can control a unique quantum phenomenon called the quantum-geometric nonlinear Hall (QgNLH) state. This achievement offers a new approach to developing electrically tunable devices that use quantum-geometric effects for nonlinear signal processing."
- },
  "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/": {
   "s": "Baidu released ERNIE 5.5 Flash Base, a large text-only model with 280B parameters trained on 33.5T tokens. This matters because it is the largest sparse MoE base model yet, potentially offering faster inference speeds on GPUs, though it loses on some tasks."
  },
@@ -355,5 +346,25 @@
  },
  "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/": {
   "s": "Serve Robotics launches a new business offering connectivity and data tools to other companies building robots. This move aims to capitalize on the technology the company has developed for its own robots, expanding the reach of its AI technology beyond its autonomous delivery operations."
+ },
+ "https://www.sciencealert.com/after-42-years-of-searching-physicists-find-evidence-of-a-one-in-10-billion-particle-decay": {
+  "s": "After more than 40 years of searching, physicists have found evidence of a particle decay that occurs only once in ten billion events. This discovery, reported at the Large Hadron Collider, offers a new test of the Standard Model and hints at potential new physics in the very structure of reality."
+ },
+ "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html": {
+  "s": "Astronomers have created the clearest and most detailed radio sky image ever made, showing over 63,000 celestial objects. This groundbreaking image helps astronomers better understand distant galaxies and their properties, including their distance and mass."
+ },
+ "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
+  "s": "Gemini 4 Carbon is the organization's next model, boasting state-of-the-art cybersecurity and long-term capabilities. This advancement matters as it ranks first in AI intelligence benchmarks, excelling in tasks crucial for cybersecurity defense, and shows significant gains in coding and exploitation."
+ },
+ "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
+  "s": "Genie 4 is a new world simulation model that enhances realism and real-time interaction, capable of generating sounds and dialogue simultaneously. This advancement matters because it improves the creation of safe, variable simulations for training robots and agents, and for developing new interactive experiences."
  }
 }
