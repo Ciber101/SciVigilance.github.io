@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T01:55:00-08:00",
- "updated_pt": "Nov 6, 2026, 1:55 AM PT",
+ "updated": "2026-11-06T04:50:00-08:00",
+ "updated_pt": "Nov 6, 2026, 4:50 AM PT",
  "stories": [
   {
    "title": "Thinking Machines Lab launches Inkling 2 Small on Tinker with closed weights first",
@@ -52,30 +52,25 @@
    }
   },
   {
-   "title": "OpenAI introduces Images 2.6 with Flare, Sunburst, GIFs, and SVG export",
-   "tag": "AI image",
-   "date": "2026-11-04",
+   "title": "Mistral expands Studio with managed agents, workflows, and apps around Large 4",
+   "tag": "Enterprise AI",
+   "date": "2026-11-05",
    "paragraphs": [
-    "On Nov. 4, 2026, OpenAI launched Images 2.6 in ChatGPT, Codex, and the API. OpenAI says generation is about 50% faster than before and that people now create about 4 billion images per week across those products—more than half a billion per day on average.",
-    "For the API, OpenAI offers GPT-Image-2.6 Flare for fast iteration—as little as six seconds when quality is set to low—and GPT-Image-2.6 Sunburst for higher detail and edit consistency at medium or high quality. New options include animated GIF output, SVG export, markup-guided edits, and a complexity parameter separate from quality.",
-    "According to OpenAI, Images 2.6 is available globally in ChatGPT and Codex across subscription tiers, with Flare and Sunburst available in the API. MarkTechPost separately summarizes shared token pricing of $5 per 1M text-input tokens, $8 per 1M image-input tokens, and $30 per 1M image-output tokens for both models."
+    "Mistral AI said it is expanding Mistral Studio so teams can build managed agents, workflows, and apps connected to enterprise data, deployable in cloud, VPC, on-premises, or mixed environments, with Mistral Large 4 (Le Chonk) as a flagship open model for coding, defensive cybersecurity, and document reasoning.",
+    "According to the company post, Studio adds managed agents with skills, sandboxes, subagents, and hooks; workflows with event triggers and a visual graph; and hosted apps with authentication and access controls. A Mistral MCP server is described as letting developers build with Mistral Vibe or another coding agent, test locally, and deploy with one command.",
+    "Mistral cites production customers and partners including ABANCA, Accenture, Alten, BNP Paribas, Capgemini, CMA CGM, and TCS, and says OpenTelemetry traces plus evaluations keep operational knowledge with the customer. Internal examples include an incident-investigation agent and a product-ops workflow said to save about 35 hours a week."
    ],
    "sources": [
     {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-     "date": "2026-11-04"
-    },
-    {
-     "name": "OpenAI Developers",
-     "url": "https://developers.openai.com/api/docs/models/gpt-image-2.6-flare",
-     "date": "2026-11-04"
+     "name": "Mistral AI",
+     "url": "https://mistral.ai/news/build-with-studio/",
+     "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI Images 2.6 announcement graphic"
+    "url": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
+    "credit": "Mistral AI",
+    "alt": "Mistral Studio announcement graphic"
    }
   }
  ]

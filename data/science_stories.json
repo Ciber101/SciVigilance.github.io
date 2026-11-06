@@ -1,93 +1,98 @@
 {
- "updated": "2026-11-06T01:55:00-08:00",
- "updated_pt": "Nov 6, 2026, 1:55 AM PT",
+ "updated": "2026-11-06T04:50:00-08:00",
+ "updated_pt": "Nov 6, 2026, 4:50 AM PT",
  "stories": [
   {
-   "title": "LOFAR delivers an ultra-deep sub-arcsecond image of the ELAIS-N1 radio sky",
-   "tag": "Astronomy",
-   "date": "2026-11-05",
+   "title": "Chemically confirmed heme found in 115-million-year-old dinosaur red blood cells",
+   "tag": "Paleontology",
+   "date": "2026-11-06",
    "paragraphs": [
-    "Phys.org reports a Leiden University–led LOFAR team produced what it calls the sharpest and most sensitive low-frequency radio image yet of ELAIS-N1, covering about 25 full-Moon areas of sky and revealing nearly 63,000 radio sources.",
-    "In an arXiv preprint accepted for Astronomy & Astrophysics, J.M.G.H.J. de Jong and collaborators present 200 hours of High-Band Antenna data at 115–168 MHz over 2.5×2.5 deg². The highest-resolution mosaic reaches 5.3 μJy beam−1 at 0.33″×0.39″ centrally (area-weighted 7.4 μJy beam−1 at 0.36″×0.45″); combining with prior deep 6″ LOFAR images yields 62,916 unique sources.",
-    "According to Phys.org, the image is about 20 times sharper than the previous deepest LOFAR map of this field, contains about 8 billion pixels, and drew on roughly 400 terabytes of data processed on SURF's Spider platform after calibration advances cut costs by more than a factor of 10. The authors release the data publicly for multi-wavelength follow-up and frame it as a benchmark for LOFAR2.0 and SKA-era surveys."
+    "ScienceDaily summarizes a Curtin University–led PNAS study reporting mineralized red blood cells and heme signatures—hemoglobin components—inside bones of the Brazilian theropod Aratasaurus museunacionali, about 115 million years old.",
+    "According to the Curtin materials, the team also detected collagen-associated amino acids and links the preservation to hausmannite plus rapid, low-oxygen burial. Lead author Kliti Grice called intact heme-derived molecules in cells that old a landmark extension of the fossil blood record.",
+    "Partners included JAMSTEC, Brazil's National Museum, the Regional University of Cariri, and Johns Hopkins. The release frames the result as challenging assumptions about biomolecule survival and as relevant to astrobiology searches for ancient life."
    ],
    "sources": [
     {
-     "name": "arXiv",
-     "url": "https://arxiv.org/abs/2611.06152",
-     "date": "2026-11-05"
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+     "date": "2026-11-06"
     }
    ],
    "image": {
-    "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-galaxies-with-ra.jpg",
-    "credit": "De Jong et al., via Phys.org coverage",
-    "alt": "Three galaxies with low-frequency radio emission in the LOFAR ELAIS-N1 image"
+    "url": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
+    "credit": "Curtin University, via ScienceDaily",
+    "alt": "Illustration related to dinosaur blood preserved in fossil bone"
    }
   },
   {
-   "title": "Asteroid shape and aim can change nuclear deflection thrust by up to 5x",
-   "tag": "Space",
-   "date": "2026-11-05",
+   "title": "FLIP processing recovers JWST detection of exoplanet 51 Eridani b",
+   "tag": "Astronomy",
+   "date": "2026-11-06",
    "paragraphs": [
-    "Universe Today reports new Icarus research led by Sandia National Laboratories physicist Nathan Moore on stand-off pulsed X-ray deflection of near-Earth objects—detonating a pulsed energy device near an asteroid so surface vaporization provides thrust without relying on a kinetic impactor alone.",
-    "According to the paper as summarized by Universe Today, the team built an algorithm more than 1,600 times faster than earlier models so it can include real three-dimensional topography. Demonstrations on Bennu, Itokawa, and Golevka found orientation at intercept can raise deflection velocity by up to nearly 2x, 4x, and 5x respectively versus each body's minimum response.",
-    "The authors warn that an incoming NEO's shape and uncontrolled orientation may be unknown, so aim matters strongly, and the current model still cannot accurately predict breakup of the entire asteroid body—only surface rock vaporization and related effects."
+    "Live Science and Universe Today report a Northwestern-led Nature paper (Nov. 4, 2026) introducing FLIP, a physics-based \"digital twin\" of JWST that subtracts starlight more precisely than reference-star methods.",
+    "The outlets say the team recovered 51 Eridani b at 4.3 μm in NIRCam F430M data where standard KLIP processing had not, with claimed sensitivity gains of 2–15× and a >5-sigma detection at the planet's expected location.",
+    "Authors Ferrer-Chavez and Wang describe modeling nanometer-scale telescope shifts without treating FLIP as a generative AI inventing planets. They frame the work as a step toward imaging fainter worlds with JWST and future Habitable Worlds Observatory designs."
    ],
    "sources": [
+    {
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world",
+     "date": "2026-11-06"
+    },
     {
      "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/asteroids-oddball-shapes-make-deflecting-them-challenging",
+     "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://www.universetoday.com/article_images/PIA25329large_20261105_190026.jpg",
-    "credit": "NASA/Johns Hopkins APL/Steve Gribben, via Universe Today",
-    "alt": "Illustration of NASA's DART spacecraft approaching Dimorphos"
+    "url": "https://cdn.mos.cms.futurecdn.net/qBrcn9ade875H3eVScZNcC-2000-80.jpg",
+    "credit": "Rodrigo Ferrer-Chavez, via Live Science",
+    "alt": "JWST 51 Eridani images before and after FLIP processing"
    }
   },
   {
-   "title": "Hubble's Messier 30 image shows how globular clusters record galactic history",
-   "tag": "Astronomy",
-   "date": "2026-11-05",
+   "title": "2021 marsquake points to still-active faults under Valles Marineris",
+   "tag": "Planetary science",
+   "date": "2026-11-06",
    "paragraphs": [
-    "NASA says a new Hubble Space Telescope image of globular cluster Messier 30 (NGC 7099), about 27,500 light-years away in Capricornus, combines ultraviolet, visible, and near-infrared data from multiple observing programs spanning more than 15 years.",
-    "According to NASA, globular clusters hold tens of thousands to millions of stars, typically orbit in a galaxy's halo, and are estimated at roughly 11.5 to 13.5 billion years old. Historically, Harlow Shapley's cluster distance work showed the Sun is not at the galactic center.",
-    "NASA notes researchers have found that M30 and many other clusters orbit opposite the Milky Way's spin, which may mean they were captured rather than formed in place. Repeat Hubble visits track how different stellar populations move and help study blue stragglers and multiple populations inside a single cluster."
+    "Live Science reports that a Nature Communications study reanalyzing InSight's Aug. 25, 2021, magnitude-4.2 marsquake S0976a traces it to a deep strike-slip fault beneath western Valles Marineris—the solar system's largest canyon, about 2,500 miles (4,000 km) long.",
+    "First author Jung-Hun Song of Imperial College London said the result shows faults under the canyon can still slip long after the processes that formed them stopped. The team places the source roughly 12–25 miles (20–40 km) deep and says impact or landslide scenarios do not fit the waveforms.",
+    "Live Science notes S0976a was the second-largest marsquake InSight recorded and that the lander's mission ended in December 2022, so new quakes cannot currently be detected—but archived data continue to yield findings about Martian tectonics."
    ],
    "sources": [
     {
-     "name": "NASA",
-     "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
-     "date": "2026-11-05"
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/mars/gigantic-chasm-on-mars-10-times-longer-than-the-grand-canyon-is-still-tectonically-active-surprising-marsquake-reveals",
+     "date": "2026-11-06"
     }
    ],
    "image": {
-    "url": "https://assets.science.nasa.gov/content/dam/science/missions/hubble/stars/globular-clusters/Hubble_M30_potm2610a.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "credit": "ESA/Hubble & NASA, M. Libralato, G. Piotto, A. Sarajedini",
-    "alt": "Hubble image of globular cluster Messier 30"
+    "url": "https://cdn.mos.cms.futurecdn.net/xEw3WF8og776v3zyfCBJRV-1920-80.jpg",
+    "credit": "NASA/USGS, via Live Science",
+    "alt": "Valles Marineris canyon system on Mars seen from space"
    }
   },
   {
-   "title": "Blind listeners and musicians show less internal noise in pitch hearing",
-   "tag": "Neuroscience",
+   "title": "Tiangong experiment cools rubidium atoms to about 10 picokelvins",
+   "tag": "Physics",
    "date": "2026-11-05",
    "paragraphs": [
-    "In The Conversation, Georgia Tech psychologist Woon Ju Park summarizes a Journal of Neuroscience study comparing nine people blind before age 2 with 18 sighted participants who had varied musical training on tone-in-noise detection and pitch discrimination tasks.",
-    "Park writes that early-blind participants outperformed sighted peers only on pitch discrimination, pointing to brain-level processing rather than cochlear frequency selectivity. A mathematical model attributed the advantage to lower internal noise—more consistent responses to the same sound over time.",
-    "The same analysis found that musical training similarly reduced internal noise in sighted musicians compared with people who were neither early-blind nor extensively trained. Park says how much training is needed, and whether gains extend to everyday complex listening, remains open."
+    "Science News reports that researchers cooled about 20,000 rubidium atoms aboard China's Tiangong space station to roughly 10 picokelvins, forming a Bose-Einstein condensate colder than any previously reported, in results published Nov. 5, 2026, in Science.",
+    "According to Science News, laser traps slowed the atoms' motion, with effective temperature defined by how slowly the cloud spreads when released, and microgravity avoided the sagging that gravity causes in Earth laboratories.",
+    "Earlier space BECs on the ISS reached as low as 52 picokelvins, and an Earth drop-tower experiment reached 38 picokelvins; the magazine notes orbital free fall lasts far longer than drop-tower falls, enabling colder work and tests of ideas such as the equivalence principle."
    ],
    "sources": [
     {
-     "name": "The Conversation",
-     "url": "https://theconversation.com/why-do-blind-people-and-musicians-hear-pitch-better-new-research-suggests-they-have-less-internal-noise-294114",
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://images.theconversation.com/files/769873/original/file-20261103-78-edp029.jpg?ixlib=rb-4.1.1&q=45&auto=format&w=1356&h=668&fit=crop",
-    "credit": "Szepy/iStock via Getty Images Plus, via The Conversation",
-    "alt": "Illustration related to hearing and listening"
+    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
+    "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
+    "alt": "Rendering of China's Tiangong space station"
    }
   }
  ]
