@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T10:45:00-08:00",
- "updated_pt": "Nov 6, 2026, 10:45 AM PT",
+ "updated": "2026-11-06T13:39:00-08:00",
+ "updated_pt": "Nov 6, 2026, 1:39 PM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory re-enters after nearly 22 years of transient astronomy",
@@ -89,25 +89,35 @@
    }
   },
   {
-   "title": "Tiangong experiment cools rubidium atoms to about 10 picokelvins",
-   "tag": "Physics",
-   "date": "2026-11-05",
+   "title": "FLIP processing recovers 51 Eridani b in archival JWST coronagraph data",
+   "tag": "Astronomy",
+   "date": "2026-11-06",
    "paragraphs": [
-    "Science News reports that researchers cooled about 20,000 rubidium atoms aboard China's Tiangong space station to roughly 10 picokelvins, forming a Bose-Einstein condensate colder than any previously reported, in results published Nov. 5, 2026, in Science.",
-    "According to Science News, laser traps slowed the atoms' motion, with effective temperature defined by how slowly the cloud spreads when released, and microgravity avoided the sagging that gravity causes in Earth laboratories.",
-    "Earlier space BECs on the ISS reached as low as 52 picokelvins, and an Earth drop-tower experiment reached 38 picokelvins; the magazine notes orbital free fall lasts far longer than drop-tower falls, enabling colder work and tests of ideas such as the equivalence principle."
+    "Northwestern University says a Nature paper published Nov. 4, 2026, introduces Physics-based Learning for Imaging Planets (FLIP), a digital-twin model of JWST that subtracts starlight after accounting for tiny telescope imperfections. Live Science and Space.com report Nov. 6 coverage of the same result.",
+    "According to Northwestern, FLIP improved faint-planet sensitivity by about 2 to 15 times versus standard methods on archival JWST observations of HIP 65426, 51 Eridani, and TYC 5899. The team reports a detection of giant exoplanet 51 Eridani b at 4.3 micrometers in data where conventional processing had not recovered it; Space.com notes the world was first found from the ground in 2015 and has roughly 11 Jupiter masses.",
+    "Lead author Rodrigo Ferrer-Chavez and co-author Jason Wang stress that FLIP uses optimization tools common in machine learning but is not an AI planet finder, because it embeds known telescope physics. Northwestern and Space.com say the approach could help reanalyze existing coronagraph data and support future missions such as the Habitable Worlds Observatory."
    ],
    "sources": [
     {
-     "name": "Science News",
-     "url": "https://www.sciencenews.org/article/lowest-temperature-china-space-station",
-     "date": "2026-11-05"
+     "name": "Northwestern University",
+     "url": "https://news.northwestern.edu/stories/2026/11/hidden-planet-emerges-from-the-glare?fj=1",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
+     "date": "2026-11-06"
     }
    ],
    "image": {
-    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
-    "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
-    "alt": "Rendering of China's Tiangong space station"
+    "url": "https://news.northwestern.edu/assets/Stories/2026/11/hidden-planet970__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg",
+    "credit": "Rodrigo Ferrer-Chavez, via Northwestern University",
+    "alt": "JWST image comparison showing 51 Eridani b after FLIP starlight subtraction"
    }
   }
  ]

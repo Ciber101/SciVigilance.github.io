@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-06T10:45:00-08:00",
- "updated_pt": "Nov 6, 2026, 10:45 AM PT",
+ "updated": "2026-11-06T13:39:00-08:00",
+ "updated_pt": "Nov 6, 2026, 1:39 PM PT",
  "stories": [
   {
    "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
@@ -22,33 +22,6 @@
     "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
     "credit": "Google",
     "alt": "Gemini Omni 1.2 Flash announcement graphic"
-   }
-  },
-  {
-   "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst",
-   "tag": "Frontier models",
-   "date": "2026-11-04",
-   "paragraphs": [
-    "OpenAI's Nov. 4, 2026 community announcement introduced ChatGPT Images 2.6 and API models GPT-Image-2.6 Flare and Sunburst, stating 50% faster image generation plus GIFs, reference images, markup edits, and SVG exports.",
-    "The post says Flare can generate images in as little as six seconds, while Sunburst brings higher-quality generation and greater consistency across edits. MarkTechPost's coverage matches those roles and adds that a complexity parameter (low/medium/high, default high) controls planning effort.",
-    "MarkTechPost reports OpenAI's claim of more than 4 billion images created per week across ChatGPT and the API and says Flare and Sunburst share the same token prices on OpenAI's model pages."
-   ],
-   "sources": [
-    {
-     "name": "OpenAI Community",
-     "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
-     "date": "2026-11-04"
-    },
-    {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-     "date": "2026-11-04"
-    }
-   ],
-   "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI Images 2.6 announcement graphic"
    }
   },
   {
@@ -76,6 +49,60 @@
     "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
     "credit": "Thinking Machines Lab",
     "alt": "Inkling 2 Small announcement graphic"
+   }
+  },
+  {
+   "title": "Baidu releases ERNIE 5.5 Flash Base, a 280B MoE with 14B active",
+   "tag": "Frontier models",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "Baidu's Nov. 5, 2026 ERNIE blog says ERNIE-5.5-Flash-Base is a sparse MoE language model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens with up to 128K training context and 1M-token fine-tuning and inference context. The released checkpoint stops at the end of pre-training, before mid- or post-training.",
+    "According to Baidu, the model has 43 layers and a 4096 hidden size, mixes Heavily Compressed Attention with Multi-head Latent Attention plus sparse attention, and uses Multi-Router Latent MoE with 512 routed experts (top-10) plus one shared expert. Weights are posted on Hugging Face and ModelScope in FP8 and BF16 under Baidu's ERNIE 5.5 Flash Base license.",
+    "In Baidu's unified evaluation against DeepSeek-V4-Flash-Base, Hy3-preview-Base, and MiMo-V2.5-Base, the company reports leading scores such as MMLU-Pro 78.4 and HumanEval+ 82.3, while trailing on some long-context tasks such as HELMET-Rerank; MarkTechPost's coverage matches those self-reported figures and notes serving via SGLang and vLLM."
+   ],
+   "sources": [
+    {
+     "name": "Baidu ERNIE",
+     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png",
+    "credit": "Baidu ERNIE",
+    "alt": "ERNIE 5.5 Flash Base announcement banner"
+   }
+  },
+  {
+   "title": "OpenAI ships Images 2.6 with GPT-Image-2.6 Flare and Sunburst",
+   "tag": "Frontier models",
+   "date": "2026-11-04",
+   "paragraphs": [
+    "OpenAI's Nov. 4, 2026 community announcement introduced ChatGPT Images 2.6 and API models GPT-Image-2.6 Flare and Sunburst, stating 50% faster image generation plus GIFs, reference images, markup edits, and SVG exports.",
+    "The post says Flare can generate images in as little as six seconds, while Sunburst brings higher-quality generation and greater consistency across edits. MarkTechPost's coverage matches those roles and adds that a complexity parameter (low/medium/high, default high) controls planning effort.",
+    "MarkTechPost reports OpenAI's claim of more than 4 billion images created per week across ChatGPT and the API and says Flare and Sunburst share the same token prices on OpenAI's model pages."
+   ],
+   "sources": [
+    {
+     "name": "OpenAI Community",
+     "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "MarkTechPost",
+     "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
+     "date": "2026-11-04"
+    }
+   ],
+   "image": {
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
+    "credit": "OpenAI",
+    "alt": "OpenAI Images 2.6 announcement graphic"
    }
   }
  ]
