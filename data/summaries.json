@@ -147,9 +147,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://www.marktechpost.com/2026/11/04/google-agile-deliberation-subjective-image-classifiers/": {
-  "s": "Google AI Research developed Agile Deliberation, a framework to define subjective visual concepts by involving experts in labeling borderline images. This tool helps in creating structured definitions for image classifiers, aiding in automated content moderation."
- },
  "https://www.space.com/astronomy/earth/earth-has-captured-a-new-mini-moon-but-it-wont-stick-around-for-long": {
   "s": "",
   "why": "too little source text"
@@ -159,9 +156,6 @@
  },
  "https://www.livescience.com/animals/bears/were-looking-at-how-a-bear-sees-the-world-scientists-are-decoding-grizzly-bears-behavior-to-help-wildlife-and-people-coexist": {
   "s": "Scientists are studying how grizzly bears behave in areas where forests have been fragmented by human development. Their findings could help create habitats that are safer for both bears and humans."
- },
- "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/": {
-  "s": "Enceladus, a moon of Saturn, is captured in a silhouette by the Sun in this Cassini image. The plumes of ice from its south pole are visible, suggesting an ocean beneath the ice shell."
  },
  "https://www.sciencenews.org/article/little-ice-age-climate-europe-rickets": {
   "s": "The Little Ice Age, a period of unusually cold weather, may have reduced children's exposure to sunlight, leading to vitamin D deficiencies. Researchers found evidence of rickets in the bones of people buried in England during this time, suggesting that cold climate conditions made it harder for people to get enough vitamin D."
@@ -366,5 +360,12 @@
  },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "Genie 4 is a new world simulation model that enhances realism and real-time interaction, capable of generating sounds and dialogue simultaneously. This advancement matters because it improves the creation of safe, variable simulations for training robots and agents, and for developing new interactive experiences."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/": {
+  "s": "Neil Gehrels Swift Observatory, a satellite that served for nearly 22 years, ceased operations after re-entering Earth's atmosphere. The satellite, equipped with various telescopes, provided unprecedented insights into the universe's most energetic phenomena. Its end marks the end of a valuable resource for cosmic research, but its data will continue to illuminate the cosmos."
+ },
+ "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
  }
 }
