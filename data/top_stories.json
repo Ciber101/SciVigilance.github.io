@@ -1,7 +1,40 @@
 {
- "updated": "2026-11-06T07:50:00-08:00",
- "updated_pt": "Nov 6, 2026, 7:50 AM PT",
+ "updated": "2026-11-06T10:45:00-08:00",
+ "updated_pt": "Nov 6, 2026, 10:45 AM PT",
  "stories": [
+  {
+   "title": "NASA's Swift Observatory burns up after nearly 22 years tracking cosmic explosions",
+   "tag": "Space",
+   "date": "2026-11-06",
+   "paragraphs": [
+    "NASA materials summarized by ScienceDaily report that the Neil Gehrels Swift Observatory re-entered Earth's atmosphere after nearly 22 years in space. NASA's APOD for Nov. 6, 2026, and The Conversation both place the re-entry at 7:39 a.m. EST on Nov. 4, 2026, over North Sumatra, Indonesia. ScienceDaily cites the U.S. Space Force confirmation of that time and location (about 3.4°N, 98.6°E).",
+    "According to ScienceDaily and The Conversation, Swift launched in 2004 to study gamma-ray bursts with three telescopes spanning gamma rays, X-rays, and ultraviolet/optical light. NASA originally planned a two-year mission; the observatory kept working more than ten times longer. The Conversation notes it could slew about 50 degrees in under 75 seconds—far faster than Hubble's roughly 15 minutes to turn 90 degrees—and by 2015 had logged its 1,000th gamma-ray burst.",
+    "The Conversation and NASA APOD say recent solar-maximum drag lowered Swift's low-Earth orbit (about 600 kilometers / 373 miles), and a July 3, 2026 orbit-boost attempt with Katalyst Space Technologies failed. NASA expected most of the craft to burn up; APOD credits the featured mosaic to NASA/Swift and AndreaMosaic from the UVOT's first million images.",
+    "Beyond bursts, outlets credit Swift with work on supernovae, active galaxies, X-ray flares, gravitational-wave counterparts, IceCube neutrino follow-up, and a 2025 hydroxyl detection on interstellar object 3I/ATLAS. ScienceDaily and The Conversation frame the re-entry as ending a mission that reshaped how astronomers catch short-lived high-energy events."
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224545.htm",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "The Conversation",
+     "url": "https://theconversation.com/nasas-swift-observatory-has-burned-up-in-the-atmosphere-the-indispensable-telescope-helped-astronomers-track-fast-moving-events-in-space-293320",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "NASA APOD",
+     "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+     "date": "2026-11-06"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencedaily.com/images/1920/nasa-neil-gehrels-swift-observatory-orbits-above-earth.webp",
+    "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab, via ScienceDaily",
+    "alt": "Artist concept of NASA's Neil Gehrels Swift Observatory in orbit above Earth"
+   }
+  },
   {
    "title": "ESA's Hera spacecraft returns first close-up of the Didymos asteroid system after DART",
    "tag": "Space",
@@ -31,54 +64,31 @@
    }
   },
   {
-   "title": "Scientists find chemically confirmed dinosaur blood molecules in 115-million-year-old bones",
+   "title": "Researchers report heme signatures in 115-million-year-old dinosaur bone cells",
    "tag": "Paleontology",
    "date": "2026-11-06",
    "paragraphs": [
-    "ScienceDaily reports that a Curtin University–led team found fossilized red blood cells and chemical evidence of blood molecules inside 115-million-year-old bones of Aratasaurus museunacionali, a meat-eating theropod from northeastern Brazil. The findings appear in the Proceedings of the National Academy of Sciences.",
-    "According to the ScienceDaily release of Curtin University materials, researchers identified mineralized red blood cells in vascular canals and detected preserved heme molecules—components of hemoglobin—calling it the first definitive chemical confirmation of hemoglobin-derived molecules inside fossilized dinosaur red blood cells. The work also reports amino acids associated with collagen.",
-    "Curtin's Kliti Grice, quoted in the release, said detecting intact heme-derived molecules in cells that old is a landmark result. The release links the preservation to the mineral hausmannite and to rapid burial in a low-oxygen setting with abundant microbial activity.",
-    "The international team included researchers from Curtin University, Japan's Agency for Marine-Earth Science and Technology, Brazil's National Museum, the Regional University of Cariri, and Johns Hopkins University. The release says the work challenges assumptions that hemoglobin-related molecules cannot survive deep time and may inform searches for ancient life beyond Earth."
+    "ScienceDaily summarizes a Curtin University-led study in the Proceedings of the National Academy of Sciences reporting mineralized structures interpreted as red blood cells, plus chemical evidence of heme, inside about 115-million-year-old limb bone of the Brazilian theropod Aratasaurus museunacionali. Science News covers the same paper and says the team also reports collagen-associated amino acids.",
+    "According to the Curtin materials on ScienceDaily, researchers imaged ellipse-shaped microstructures in vascular canals and detected iron, carbon, and nitrogen consistent with heme, plus porphyrin signatures. Lead author Kliti Grice called intact heme-derived molecules in cells that old a landmark result. Both outlets link preservation to the manganese oxide hausmannite and to rapid, low-oxygen burial.",
+    "Science News notes independent paleontologist Mary Schweitzer is unconvinced the team fully met earlier criteria for identifying fossil blood cells, arguing heme signals were not clearly localized only to the round structures and that the structures differ in size and shape from living bird and reptile red blood cells. Grice, quoted there, says the case rests on converging anatomy, mineralogy, elemental maps, and molecular chemistry.",
+    "Partners listed by ScienceDaily include Japan's Agency for Marine-Earth Science and Technology, Brazil's National Museum, the Regional University of Cariri, and Johns Hopkins University. Curtin materials frame the work as challenging assumptions that hemoglobin-related molecules cannot survive deep time and as relevant to searches for ancient life beyond Earth."
    ],
    "sources": [
     {
      "name": "ScienceDaily",
      "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
      "date": "2026-11-06"
-    }
-   ],
-   "image": {
-    "url": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
-    "credit": "Curtin University, via ScienceDaily",
-    "alt": "Illustration related to dinosaur blood preserved in fossil bone"
-   }
-  },
-  {
-   "title": "JWST 'digital twin' unmasks exoplanet 51 Eridani b below the telescope's stability limit",
-   "tag": "Astronomy",
-   "date": "2026-11-06",
-   "paragraphs": [
-    "Live Science reports that Northwestern University astronomers used a physics-based method called FLIP (Physics-based Learning for Imaging Planets) on James Webb Space Telescope data to reveal giant exoplanet 51 Eridani b, previously drowned out by stellar glare in JWST observations. The results were published Nov. 4, 2026, in Nature.",
-    "According to Live Science and Universe Today, FLIP builds a \"digital twin\" of how light travels through JWST, accounting for tiny shifts and vibrations that standard reference-star subtraction misses. First author Rodrigo Ferrer-Chavez said planets can be a million times fainter than their stars, so glare removal is essential. Co-author Jason Wang stressed the approach uses physics-informed modeling with machine-learning techniques and is not an AI model that invents the planet.",
-    "Universe Today notes the team tested FLIP on 51 Eridani, about 97 light-years away, at the 4.3 μm wavelength used for carbon dioxide studies. The Nature paper, as summarized there, reports sensitivity 2–15 times better than standard techniques and the first detection of 51 Eridani b at 4.3 μm—more than 5 sigma in the processed JWST/NIRCam F430M data.",
-    "Both outlets say the method could help future observatories such as the Habitable Worlds Observatory image fainter planets by easing ultrastability requirements. Ferrer-Chavez said solar-system-like planets likely exist but remain hard to see until techniques improve."
-   ],
-   "sources": [
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world",
-     "date": "2026-11-06"
     },
     {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
-     "date": "2026-11-05"
+     "name": "Science News",
+     "url": "https://www.sciencenews.org/article/evidence-dinosaur-blood-fossilize",
+     "date": "2026-11-06"
     }
    ],
    "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/qBrcn9ade875H3eVScZNcC-2000-80.jpg",
-    "credit": "Rodrigo Ferrer-Chavez, via Live Science",
-    "alt": "JWST views of 51 Eridani before and after FLIP starlight removal"
+    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_CG_oldestfossil_mainsocial.jpg",
+    "credit": "Victor O. Leshyk, via Science News",
+    "alt": "Illustration of microstructures interpreted as fossilized dinosaur red blood cells"
    }
   },
   {
@@ -155,11 +165,5 @@
     "alt": "OpenAI Images 2.6 announcement graphic"
    }
   }
- ],
- "audio": {
-  "src": "audio/top_stories-fed26f0089.mp3",
-  "hash": "fed26f008981759a90d0a81b8b4d820193bd1da5",
-  "duration": 599.8,
-  "voice": "Kokoro (af_heart)"
- }
+ ]
 }
