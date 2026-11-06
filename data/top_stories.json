@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T16:50:00-08:00",
- "updated_pt": "Nov 5, 2026, 4:50 PM PT",
+ "updated": "2026-11-05T19:45:00-08:00",
+ "updated_pt": "Nov 5, 2026, 7:45 PM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
@@ -31,31 +31,36 @@
    }
   },
   {
-   "title": "SLAC-led team confirms altermagnetism, a third class of magnetism, in manganese telluride",
+   "title": "LHCb finds evidence of a one-in-ten-billion beauty-particle decay",
    "tag": "Physics",
-   "date": "2026-11-04",
+   "date": "2026-11-03",
    "paragraphs": [
-    "ScienceDaily and SLAC report that a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory published experimental evidence in Science for altermagnetism, a magnetic phase distinct from ferromagnetism and antiferromagnetism. Lead author Daniel Jost said the results provide \"robust experimental confirmation that this third phase—altermagnetism—is real.\" The paper, \"Chiral altermagnon in MnTe,\" is dated Oct. 29, 2026.",
-    "According to SLAC and Phys.org, the researchers studied manganese telluride (MnTe), long classified as an antiferromagnet. Altermagnets are described as having alternating electron spins like antiferromagnets, but with crystal structures around opposite spins rotated relative to each other—a symmetry break proposed when the term was introduced in 2022.",
-    "The team used circularly polarized X-rays at the European Synchrotron Radiation Facility's ID32 beamline. SLAC says chiral materials scatter left- and right-handed polarized beams differently; MnTe showed that chiral signature, which conventional antiferromagnets should not. The measurements were first made in 2024 and repeated in early 2025.",
-    "Jost told SLAC that ferromagnets are easily disturbed by stray magnetic fields, while antiferromagnets are hard to read or drive with spin currents. \"Altermagnets combine the best of both,\" he said: zero net magnetization with the ability to generate spin-polarized currents. The work received partial DOE Office of Science support."
+    "CERN reported on Nov. 3, 2026, that the LHCb Collaboration announced evidence for the decay of a Bd meson—a particle with a beauty quark and a down antiquark—into a muon–antimuon pair (Bd → μ+μ−). CERN says the process is predicted to occur only about once in ten billion beauty-particle decays, rarer than the previously observed Bs → μ+μ− channel by roughly a factor of thirty, and that this is the first time a single experiment has reported solid evidence for it.",
+    "According to CERN, 2024–2025 data alone reached about 3.0 standard deviations, and combining that with 2011–2018 data raised the significance to 3.2 sigma—above the conventional 3-sigma evidence threshold but short of the 5-sigma discovery standard. ScienceAlert and the University of Manchester note the same 3.2-sigma figure and that a 2015 LHCb–CMS claim of evidence was not confirmed in later updates through 2018.",
+    "CERN and Manchester say a 2024 LHCb upgrade raised the data-collection rate about fivefold and improved particle identification; machine-learning methods helped suppress backgrounds. The same analysis also produced the most precise measurements yet of Bs → μ+μ−. CERN states the new Bd result is consistent with Standard Model expectations and constrains some scenarios with particles too heavy to produce directly at the LHC.",
+    "Further data aim for 5-sigma confirmation, which CERN says would make Bd → μ+μ− the rarest beauty-particle decay observed. Hi-Lumi LHC running from about 2030 and a later LHCb upgrade could raise the data rate by another order of magnitude, according to CERN and Manchester researchers quoted in the releases."
    ],
    "sources": [
     {
-     "name": "ScienceDaily",
-     "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
-     "date": "2026-11-04"
+     "name": "CERN",
+     "url": "https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/",
+     "date": "2026-11-03"
     },
     {
-     "name": "SLAC",
-     "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-     "date": "2026-10-29"
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/after-42-years-of-searching-physicists-find-evidence-of-a-one-in-10-billion-particle-decay",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "University of Manchester",
+     "url": "https://www.manchester.ac.uk/about/news/manchester-physicists-step-closer-to-the-zeptoverse-after-42-year-particle-search/",
+     "date": "2026-11-03"
     }
    ],
    "image": {
-    "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
-    "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
-    "alt": "Graphic comparing ferromagnetism, altermagnetism, and antiferromagnetism"
+    "url": "https://home.cern/wp-content/uploads/2026/11/LHCb-image-768x512.jpg",
+    "credit": "CERN",
+    "alt": "View of the LHCb experiment at CERN"
    }
   },
   {
@@ -155,11 +160,5 @@
     "alt": "Baidu ERNIE 5.5 Flash Base announcement graphic"
    }
   }
- ],
- "audio": {
-  "src": "audio/top_stories-6e205b7b0d.mp3",
-  "hash": "6e205b7b0d5e15931a2de55542a4c2517ac3e157",
-  "duration": 646.9,
-  "voice": "Kokoro (af_heart)"
- }
+ ]
 }
