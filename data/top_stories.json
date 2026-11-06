@@ -1,15 +1,66 @@
 {
- "updated": "2026-11-06T01:55:00-08:00",
- "updated_pt": "Nov 6, 2026, 1:55 AM PT",
+ "updated": "2026-11-06T04:50:00-08:00",
+ "updated_pt": "Nov 6, 2026, 4:50 AM PT",
  "stories": [
+  {
+   "title": "Scientists find chemically confirmed dinosaur blood molecules in 115-million-year-old bones",
+   "tag": "Paleontology",
+   "date": "2026-11-06",
+   "paragraphs": [
+    "ScienceDaily reports that a Curtin University–led team found fossilized red blood cells and chemical evidence of blood molecules inside 115-million-year-old bones of Aratasaurus museunacionali, a meat-eating theropod from northeastern Brazil. The findings appear in the Proceedings of the National Academy of Sciences.",
+    "According to the ScienceDaily release of Curtin University materials, researchers identified mineralized red blood cells in vascular canals and detected preserved heme molecules—components of hemoglobin—calling it the first definitive chemical confirmation of hemoglobin-derived molecules inside fossilized dinosaur red blood cells. The work also reports amino acids associated with collagen.",
+    "Curtin's Kliti Grice, quoted in the release, said detecting intact heme-derived molecules in cells that old is a landmark result. The release links the preservation to the mineral hausmannite and to rapid burial in a low-oxygen setting with abundant microbial activity.",
+    "The international team included researchers from Curtin University, Japan's Agency for Marine-Earth Science and Technology, Brazil's National Museum, the Regional University of Cariri, and Johns Hopkins University. The release says the work challenges assumptions that hemoglobin-related molecules cannot survive deep time and may inform searches for ancient life beyond Earth."
+   ],
+   "sources": [
+    {
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm",
+     "date": "2026-11-06"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencedaily.com/images/1920/dinosaur-bone-blood.webp",
+    "credit": "Curtin University, via ScienceDaily",
+    "alt": "Illustration related to dinosaur blood preserved in fossil bone"
+   }
+  },
+  {
+   "title": "JWST 'digital twin' unmasks exoplanet 51 Eridani b below the telescope's stability limit",
+   "tag": "Astronomy",
+   "date": "2026-11-06",
+   "paragraphs": [
+    "Live Science reports that Northwestern University astronomers used a physics-based method called FLIP (Physics-based Learning for Imaging Planets) on James Webb Space Telescope data to reveal giant exoplanet 51 Eridani b, previously drowned out by stellar glare in JWST observations. The results were published Nov. 4, 2026, in Nature.",
+    "According to Live Science and Universe Today, FLIP builds a \"digital twin\" of how light travels through JWST, accounting for tiny shifts and vibrations that standard reference-star subtraction misses. First author Rodrigo Ferrer-Chavez said planets can be a million times fainter than their stars, so glare removal is essential. Co-author Jason Wang stressed the approach uses physics-informed modeling with machine-learning techniques and is not an AI model that invents the planet.",
+    "Universe Today notes the team tested FLIP on 51 Eridani, about 97 light-years away, at the 4.3 μm wavelength used for carbon dioxide studies. The Nature paper, as summarized there, reports sensitivity 2–15 times better than standard techniques and the first detection of 51 Eridani b at 4.3 μm—more than 5 sigma in the processed JWST/NIRCam F430M data.",
+    "Both outlets say the method could help future observatories such as the Habitable Worlds Observatory image fainter planets by easing ultrastability requirements. Ferrer-Chavez said solar-system-like planets likely exist but remain hard to see until techniques improve."
+   ],
+   "sources": [
+    {
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "Universe Today",
+     "url": "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin",
+     "date": "2026-11-05"
+    }
+   ],
+   "image": {
+    "url": "https://cdn.mos.cms.futurecdn.net/qBrcn9ade875H3eVScZNcC-2000-80.jpg",
+    "credit": "Rodrigo Ferrer-Chavez, via Live Science",
+    "alt": "JWST views of 51 Eridani before and after FLIP starlight removal"
+   }
+  },
   {
    "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
    "tag": "Space",
    "date": "2026-11-04",
    "paragraphs": [
-    "According to NASA, the Neil Gehrels Swift Observatory reentered Earth's atmosphere at 7:39 a.m. EST on Wednesday, Nov. 4, 2026, over the North Sumatra region of Indonesia, at about 3.4 degrees north latitude and 98.6 degrees east longitude. Live Science reports that NASA expected most of the roughly 3,200-pound (1,450-kilogram) spacecraft to burn up, estimated a 1-in-2,100 chance of surviving debris reaching a populated area, and said no damage or injuries have been reported.",
+    "According to NASA, as reported by Live Science, the Neil Gehrels Swift Observatory reentered Earth's atmosphere at 7:39 a.m. EST on Wednesday, Nov. 4, 2026, over the North Sumatra region of Indonesia, at about 3.4 degrees north latitude and 98.6 degrees east longitude. Live Science reports that NASA expected most of the roughly 3,200-pound (1,450-kilogram) spacecraft to burn up, estimated a 1-in-2,100 chance of surviving debris reaching a populated area, and said no damage or injuries have been reported.",
     "The Conversation notes that Swift launched into low Earth orbit in 2004 as a rapid-response telescope for gamma-ray bursts and other short-lived events. Its Burst Alert Telescope searched for gamma rays while its X-ray and ultraviolet-optical telescopes studied afterglows, and it could slew about 50 degrees in less than 75 seconds—far faster than Hubble, which takes about 15 minutes to turn 90 degrees. By 2015 it had detected its 1,000th gamma-ray burst, and NASA estimates its observations have contributed to about 7,000 research papers.",
-    "Both The Conversation and Live Science say the observatory's orbit decayed after stronger solar activity during solar maximum pushed the spacecraft down from roughly 373 miles (600 kilometers) altitude. NASA partnered with Katalyst Space Technologies on a July 3, 2026 boost mission that failed, leaving Swift on a path to reentry. Astronomers had hoped to use it with the Vera C. Rubin Observatory.",
+    "Both The Conversation and Live Science say the observatory's orbit decayed after stronger solar activity during solar maximum pushed the spacecraft down from roughly 373 miles (600 kilometers) altitude. The Conversation says NASA partnered with Katalyst Space Technologies on a July 3, 2026 boost mission that failed, leaving Swift on a path to reentry. Astronomers had hoped to use it with the Vera C. Rubin Observatory.",
     "Beyond gamma-ray bursts, The Conversation says Swift also caught early X-ray rises before supernovas, helped localize high-energy neutrinos detected by IceCube, and in 2025 reported hydroxyl—an indicator of water—on interstellar object 3I/ATLAS."
    ],
    "sources": [
@@ -28,29 +79,6 @@
     "url": "https://cdn.mos.cms.futurecdn.net/mVDW5MbGvYDYoj4pH3Wshm-2143-80.jpg",
     "credit": "NASA's Goddard Space Flight Center Conceptual Image Lab, via Live Science",
     "alt": "Illustration of NASA's Swift Observatory above Earth"
-   }
-  },
-  {
-   "title": "LOFAR delivers the sharpest deep view yet of the low-frequency radio sky",
-   "tag": "Astronomy",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "Phys.org reports that an international team led by Leiden University used the Low Frequency Array (LOFAR) to produce what the researchers call the sharpest and most sensitive low-frequency radio image of the sky yet, covering the ELAIS-N1 field—about 25 times the area of the full Moon—and revealing nearly 63,000 radio sources such as active galactic nuclei and star-forming galaxies.",
-    "According to an arXiv paper accepted for Astronomy & Astrophysics by J.M.G.H.J. de Jong and collaborators, the images come from 200 hours of LOFAR High-Band Antenna observations at 115–168 MHz over 2.5×2.5 square degrees. The highest-resolution mosaic reaches a central point-source sensitivity of 5.3 μJy beam−1 at 0.33″×0.39″, with an area-weighted sensitivity of 7.4 μJy beam−1 at 0.36″×0.45″; combining the new data with prior deep 6″ LOFAR images yields a catalogue of 62,916 unique radio sources.",
-    "Phys.org says the image is about 20 times sharper than the previous most sensitive LOFAR map of this field, that the full image contains about 8 billion pixels, and that the 200-hour data set amounted to about 400 terabytes. Lead author Jurjen de Jong said the full set could be processed on SURF's Spider platform in a few months after calibration advances cut computational cost by more than a factor of 10.",
-    "The Phys.org release and paper note the data are public so astronomers can combine them with optical, infrared, and X-ray maps. Co-author Reinout van Weeren said the view opens a window on how radio jets interact with their surroundings over cosmic time, and the team frames the release as a benchmark for LOFAR2.0 and Square Kilometre Array–era surveys."
-   ],
-   "sources": [
-    {
-     "name": "arXiv",
-     "url": "https://arxiv.org/abs/2611.06152",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-galaxies-with-ra.jpg",
-    "credit": "De Jong et al., via Phys.org",
-    "alt": "Three galaxies with low-frequency radio emission in the LOFAR ELAIS-N1 image"
    }
   },
   {
@@ -74,29 +102,6 @@
     "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/110426_EC_coldest-temp_main.jpg",
     "credit": "Shujianyang/Wikimedia Commons (CC BY-SA 4.0), via Science News",
     "alt": "Rendering of China's Tiangong space station"
-   }
-  },
-  {
-   "title": "Spacewalkers finish installing the ISS's eighth and final roll-out solar array",
-   "tag": "Space",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "Space.com reports that Expedition 75 flight engineers Anil Menon of NASA and Joshua Kutryk of the Canadian Space Agency completed a 6-hour, 59-minute spacewalk on Nov. 5, 2026, installing and deploying the eighth and final International Space Station Roll-Out Solar Array (iROSA). The EVA began at 8:36 a.m. EST and ended at 3:35 p.m. EST.",
-    "According to Space.com, the crew worked on the starboard 3B power channel, moving the roughly 750-pound (340-kilogram) array from a temporary stowage platform with Canadarm2 and mounting it on a previously assembled bracket kit. After an initial low shunt-current reading forced a wait for orbital night so connectors could be inspected, Mission Control cleared deployment once shunt currents looked good.",
-    "Space.com says each iROSA unfurls to about 63 feet (19 meters) using stored energy in carbon-composite booms, with no motor required; the final deploy took about 10 minutes. Menon said the new arrays are about half the size of the original wings while bringing about 40% more power, and NASA notes the full set of eight can raise station electricity by as much as about 30%.",
-    "The first iROSAs launched in 2021 after the station's original arrays aged past their 15-year design life. Space.com reports all eight arrays and mounts arrived on SpaceX Dragon cargo flights, and the upgrades are meant to support ISS operations through planned retirement and controlled deorbit in late 2030."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/sa2iwygZCxx9riUZGsrX6J-1920-80.jpg",
-    "credit": "NASA, via Space.com",
-    "alt": "Astronauts install the final ISS roll-out solar array during a spacewalk"
    }
   },
   {
@@ -150,11 +155,5 @@
     "alt": "Inkling 2 Small announcement cover image"
    }
   }
- ],
- "audio": {
-  "src": "audio/top_stories-ea465bf545.mp3",
-  "hash": "ea465bf5458232c6f36505ba64e5487f2875659f",
-  "duration": 676.3,
-  "voice": "Kokoro (af_heart)"
- }
+ ]
 }
