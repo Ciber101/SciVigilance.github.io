@@ -8,9 +8,6 @@
  "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/": {
   "s": "Amulya Vishwanath, a former Nvidia employee now turned venture capitalist, explained to TechCrunch that the robotics industry is currently in a phase where foundational software and building blocks are being rethought. This is similar to the LEGO era, where basic components are being developed that can eventually come together to create more advanced systems. She highlighted the importance of talent in this field, noting that it is a key factor in staying competitive as many skilled individuals are moving to companies like Anthropic and Nvidia."
  },
- "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/": {
-  "s": "Eka Robotics developed a robotic arm that can pick up various objects smoothly and effectively, impressing industry experts. This technology is valuable because it represents a significant improvement over previous robotic capabilities, which have struggled with dexterity and adaptability."
- },
  "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/": {
   "s": "Tesla has begun manufacturing its Optimus humanoid robot at its Fremont factory, marking a significant shift in the company's strategy. Despite this new venture, the robot's production has not helped Tesla's profits, which fell 43% due to rising expenses and flat revenue."
  },
@@ -56,10 +53,6 @@
  "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
   "s": "S-GAME’s Phantom Blade Zero launches today on GeForce NOW, offering a blend of martial arts and punk fantasy. This game, powered by Unreal Engine 5, features a warrior named Soul with a 66-day clock to solve a conspiracy. The launch also includes World of Warcraft: Forever, arriving Nov 4, with a launch-week access reward for GeForce NOW members."
  },
- "https://www.quantamagazine.org/how-do-you-take-a-picture-of-a-black-hole-20261029/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://news.mit.edu/2026/mit-engineers-create-nanoparticles-delivering-personalized-cancer-vaccines-1030": {
   "s": "The MIT engineers created nanoparticles that carry a customized dose of cancer antigens, designed to provoke a strong immune response against tumors. This delivery method could potentially prevent the development of colon tumors in mice, offering a personalized vaccine tailored to individual patients' tumors."
  },
@@ -78,9 +71,6 @@
  },
  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/": {
   "s": "The VS Code extension on Cursor, an AI-assisted developer tool, was compromised for nearly 12 hours, affecting at most 5,000 users. The malicious version, 2.1.313, was installed by default when users updated or auto-updated the extension. The attackers gained access through Anthropic's official account, which was a supply-chain compromise. The extension installed a persistent SSH backdoor, allowing remote access and data theft."
- },
- "https://theconversation.com/zombies-are-real-just-ask-the-parasites-taking-over-the-bodies-and-brains-of-insects-and-rodents-leading-them-to-their-doom-292955": {
-  "s": "Some parasites can manipulate the behavior of living hosts, causing them to move to a location that benefits the parasite. This manipulation, while not bringing the dead back to life, is a close parallel to fictional zombie narratives. Such behavior changes do not transform a dead body but alter living organisms to enhance the parasite's survival."
  },
  "https://robohub.org/robot-talk-episode-168-advancing-robotics-with-novel-electronics-with-zlatka-stoeva/": {
   "s": "Zlatka Stoeva discussed at the event how her company DZP Technologies is working on flexible, stretchable and soft printed electronics. These innovations are crucial for developing dexterous robots, which require materials that can move and adapt like human skin. DZP Technologies, based in Cambridge, has a background in materials chemistry and has been funded to develop these electronic components for robotic applications."
@@ -105,9 +95,6 @@
  },
  "https://theconversation.com/why-do-galaxies-rotate-291508": {
   "s": "Galaxies rotate like figure skaters do, spinning on their axes. Why galaxies rotate is understood through the law of conservation of angular momentum, which states that an object's spinning speed remains constant unless acted upon by an outside force. This law applies to all spinning objects, including galaxies, which are made of regular matter and dark matter."
- },
- "https://theconversation.com/how-to-prepare-your-online-life-for-your-death-293502": {
-  "s": "Researchers studied challenges older adults face when planning for their online accounts after death. Most people haven't planned for this, leading to confusion and difficulty for heirs. They need help understanding how to access and manage digital assets like emails, social media, and online bills."
  },
  "https://robohub.org/muscle-coordination-can-be-mimicked-by-electric-motors-it-could-lead-to-improved-robots/": {
   "s": "Coordination in muscles happens naturally, without conscious effort, allowing smooth force production. Researchers mimicked this by electric motors, showing coordination can emerge from setup, not programmed. This could lead to better robot design, as muscle coordination is efficient and reliable."
@@ -163,10 +150,6 @@
  "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104": {
   "s": "MIT-led researchers received up to $38 million in funding from ARPA-H to develop a wearable sensor patch. This patch aims to measure biomarkers of heart failure and sepsis in real-time, potentially enabling early disease detection."
  },
- "https://www.space.com/space-exploration/on-this-day-in-space-november-5-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/planet-earth/weather/7-stunning-weather-photographer-of-the-year-photos-that-capture-the-beauty-and-power-of-our-planet": {
   "s": "",
   "why": "too little source text"
@@ -190,10 +173,6 @@
  "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103": {
   "s": "Documentary highlights the pain and misunderstanding of endometriosis affecting millions of women, showcasing personal stories and scientific research. It aims to change the narrative by bringing attention to the disease, encouraging more research and understanding."
  },
- "https://www.space.com/space-exploration/artemis/the-greatest-reason-to-go-to-space-artemis-ii-astronaut-victor-glover-reveals-what-he-discovered-on-his-journey-to-the-moon": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.universetoday.com/articles/exoplanets-cant-hide-from-the-jwsts-digital-twin": {
   "s": "Finding exoplanets has been difficult due to their proximity to bright stars, making them hard to see. The James Webb Space Telescope (JWST) uses coronagraphs to block starlight, but it still faces a stability limit that makes imaging some planets challenging. Researchers have developed a method to subtract more starlight from JWST observations, allowing them to image exoplanets that were previously hidden. This advancement is crucial for detailed exoplanet characterization beyond 1 astronomical unit."
  },
@@ -206,17 +185,11 @@
  "https://www.sciencenews.org/article/diabetes-device-experiment-blood-sugar": {
   "s": "The wireless implant in mice clears excess sugar from their blood on demand, helping them lose weight. It could offer a drug-free treatment for diabetes and obesity, as conventional treatments require careful dosing."
  },
- "https://www.universetoday.com/articles/china-unveils-their-plan-for-a-crewed-moon-landing": {
-  "s": "China unveiled plans for a crewed mission to the Moon, proposing two launches using the Long March 10 rocket to send a lander and a crewed spaceship to the Moon. This plan aims to conduct science operations on the lunar surface, echoing previous statements made in July 2023. The plans highlight China's advancement in space technology and its commitment to manned lunar exploration."
- },
  "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/": {
   "s": "NASA shared plans to accelerate its Artemis program, aiming for the first American moon landing in 2028. The agency highlighted significant progress in testing critical capabilities and reducing mission risks, emphasizing urgency to achieve a world-changing outcome."
  },
  "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/": {
   "s": "NASA selected three companies to develop Ka-band space relay concepts compatible with existing missions, ensuring service continuity for spacecraft without needing modifications. This work aims to provide end-to-end solutions and support NASA's decision to retire its current satellite fleet and adopt commercial services for future missions."
- },
- "https://www.universetoday.com/articles/giant-impacts-help-rocky-planets-retain-their-atmospheres": {
-  "s": "Giant impacts during Earth's formation helped retain its atmosphere instead of driving it away. This new research challenges the long-held belief that these impacts would have heated Earth to the point of losing its primordial atmosphere. The study shows that the energy from giant impacts could have actually prevented atmospheric escape, allowing young rocky planets to retain their atmospheres near the end of their accretion process."
  },
  "https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/": {
   "s": "Chris Alexiuk advocates for open source AI, believing it should be widely promoted. He believes transparency is crucial for AI to be accessible and useful, advocating for full access to model weights and training data. Alexiuk teaches developers how to build and use AI models on platforms like YouTube, aiming to make AI more accessible to a broader audience."
@@ -274,27 +247,15 @@
  "https://robohub.org/robots-in-society-business-and-culture-october-2026/": {
   "s": "A biohybrid robot, stimulated by an electrical impulse, pushes off from the ground. The researchers tested whether the robot's approach direction affects how fast it seems to move, finding that participants perceived it as faster when approaching from behind. This study matters as it explores visual factors influencing human perception of robots, potentially impacting how people interact with and perceive AI in society."
  },
- "https://phys.org/news/2026-11-atomic-layers-spontaneously-room-temperature.html": {
-  "s": "Researchers discovered that twisted atomic layers of MoS₂ can slide spontaneously at room temperature, even with a low concentration of defects. This finding challenges conventional models of material behavior and opens new avenues for understanding and manipulating two-dimensional materials."
- },
  "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/": {
   "s": "Google released Gemini Omni 1.2 Flash, a video editing model offering 15-second clips at $0.07 per second, 30% cheaper than its predecessor. This matters because the new model reduces costs and offers more flexible editing options, appealing to creators and advertisers looking to produce quick content at lower prices."
  },
  "https://www.space.com/space-exploration/international-space-station/we-got-it-done-spacewalking-astronauts-finish-installing-next-gen-iss-solar-arrays": {
   "s": "Spacewalking astronauts Anil Menon and Joshua Kutryk completed the installation of the last of the next-generation ISS solar arrays on Thursday, thus finishing a multiyear project to increase the station's power generation capacity by 30%."
  },
- "https://phys.org/news/2026-11-laser-plasma-generate-bright-rays.html": {
-  "s": "A laser-plasma accelerator has been shown to produce bright X-rays in the water window, suitable for imaging biological samples. This technology could provide a more compact alternative to large-scale free-electron lasers, making X-ray biological imaging more accessible."
- },
  "https://www.space.com/entertainment/andy-weir-says-his-sci-fi-audio-drama-exoplanet-is-a-way-to-revive-the-old-art-of-radio-plays-interview": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-11-closest-algal-evolved-multicellular-growth.html": {
-  "s": "What happened: Researchers analyzed the Zygnematophyceae algae, which are close relatives of land plants, using genetic data. They found that multicellularity in these algae evolved multiple times independently, rather than as a single event. Why it matters: This finding provides new insights into how multicellularity evolved in plants, showing that complex multicellular structures can arise independently multiple times from simple ancestral forms."
- },
- "https://phys.org/news/2026-11-paired-dna-strands-sequence-small.html": {
-  "s": "Aptamers have been used in molecular sensing to detect large molecules like hCG in pregnancy tests. Researchers have developed a new method where a single aptamer binds to a small molecule, and a secondary aptamer recognizes the shape of the primary aptamer, not the molecule itself. This method allows detection of smaller molecules which are difficult to sense using traditional sandwich assays. The approach opens new possibilities for developing simpler and more efficient sensors for various small molecules."
  },
  "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/": {
   "s": "Baidu released ERNIE 5.5 Flash Base, a large text-only model with 280B parameters trained on 33.5T tokens. This matters because it is the largest sparse MoE base model yet, potentially offering faster inference speeds on GPUs, though it loses on some tasks."
@@ -305,32 +266,12 @@
  "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/": {
   "s": "Serve Robotics launches a new business offering connectivity and data tools to other companies building robots. This move aims to capitalize on the technology the company has developed for its own robots, expanding the reach of its AI technology beyond its autonomous delivery operations."
  },
- "https://phys.org/news/2026-11-astronomers-sharpest-deepest-view-frequency.html": {
-  "s": "Astronomers have created the clearest and most detailed radio sky image ever made, showing over 63,000 celestial objects. This groundbreaking image helps astronomers better understand distant galaxies and their properties, including their distance and mass."
- },
- "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/": {
-  "s": "Gemini 4 Carbon is the organization's next model, boasting state-of-the-art cybersecurity and long-term capabilities. This advancement matters as it ranks first in AI intelligence benchmarks, excelling in tasks crucial for cybersecurity defense, and shows significant gains in coding and exploitation."
- },
- "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
-  "s": "Genie 4 is a new world simulation model that enhances realism and real-time interaction, capable of generating sounds and dialogue simultaneously. This advancement matters because it improves the creation of safe, variable simulations for training robots and agents, and for developing new interactive experiences."
- },
  "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/": {
   "s": "Neil Gehrels Swift Observatory, a satellite that served for nearly 22 years, ceased operations after re-entering Earth's atmosphere. The satellite, equipped with various telescopes, provided unprecedented insights into the universe's most energetic phenomena. Its end marks the end of a valuable resource for cosmic research, but its data will continue to illuminate the cosmos."
  },
  "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
- },
- "https://www.sciencealert.com/nail-salon-air-can-spike-to-levels-comparable-to-chemical-plants-study-of-5-nyc-salons-finds": {
-  "s": "Exposure to chemicals in nail salon air can be very high and vary widely, sometimes reaching levels comparable to industrial chemical plants. This matters because it shows that simply averaging exposure over the day may not fully capture the risks, leading to potential underestimation of health impacts on workers."
  },
  "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world": {
   "s": "Scientists applied machine learning to James Webb telescope images to reduce starlight, revealing a hidden planet. This technique will help find more exoplanets."
@@ -341,9 +282,6 @@
  "https://phys.org/news/2026-11-forests-underground-storage-metric-carbon.html": {
   "s": "This metric helps various stakeholders like regulators, buyers, insurers, and investors to build more diversified portfolios and secure investments for climate change mitigation."
  },
- "https://www.nature.com/articles/s41467-026-79178-1": {
-  "s": "In a trial, researchers tested whether adding a clot-dissolving drug into a stroke patient's artery during surgery could help. They found it did not improve patients' recovery. Stroke is a serious condition, and finding better treatments is important."
- },
  "https://www.livescience.com/space/mars/gigantic-chasm-on-mars-10-times-longer-than-the-grand-canyon-is-still-tectonically-active-surprising-marsquake-reveals": {
   "s": "A powerful quake in Mars's largest canyon was caused by movement in a hidden fault line. This discovery matters as it suggests the canyon is still geologically active, contrary to previous beliefs."
  },
@@ -353,10 +291,6 @@
  "https://www.sciencedaily.com/releases/2026/11/261103003200.htm": {
   "s": "Scientists have identified a beetle species, Prionus imbricornus, whose larvae grow up to five inches long and feed on blueberry roots, causing significant damage. This discovery is important as it allows blueberry growers to develop targeted pest control strategies, addressing a previously unidentified threat to their crops."
  },
- "https://www.sciencealert.com/longer-estrogen-exposure-linked-to-less-blood-vessel-damage-in-womens-brains-later-in-life": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.sciencedaily.com/releases/2026/11/261105224547.htm": {
   "s": "The upcoming month features celestial events like meteor showers and a supermoon, offering skywatchers multiple chances to see meteors flash across the darkness. Additionally, Mars and Jupiter will appear unusually close together before sunrise, a sight not seen for decades."
  },
@@ -365,5 +299,59 @@
  },
  "https://www.sciencedaily.com/releases/2026/11/261104084017.htm": {
   "s": "A study shows that a drug used to prevent organ rejection could help protect people genetically predisposed to Alzheimer's. The drug improves brain blood flow in middle-aged adults with Alzheimer's risk genes, suggesting an early warning sign of Alzheimer's."
+ },
+ "https://phys.org/news/2026-11-microplastic-pollution-pacific-ocean.html": {
+  "s": "The researchers found that the waters near the Great Pacific Garbage Patch have become brighter in blue and green light over time. This suggests microplastics might be affecting the ocean's color, but they could not definitively link the color change to microplastics alone."
+ },
+ "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026": {
+  "s": "The Hera probe has captured its first detailed image of Didymos, an asteroid system that NASA's DART mission intentionally hit. This matters as it provides the first close-up view of an asteroid after it has been deliberately altered by human intervention."
+ },
+ "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating": {
+  "s": "The Moon, thought to be a static object since its creation, turned out to have volcanic materials formed only two billion years ago. This discrepancy challenges traditional theories that the Moon cooled rapidly after its formation. Researchers propose tidal heating as a mechanism that kept the Moon's interior hot enough to generate these volcanic materials two billion years after its violent birth."
+ },
+ "https://www.sciencealert.com/drug-restores-liver-function-in-aging-rats-and-halves-levels-of-an-alzheimers-linked-protein": {
+  "s": "The drug restored liver function in aging rats, halving blood levels of a protein linked to Alzheimer's disease. This restored communication between liver cells, lowering cholesterol as well."
+ },
+ "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/": {
+  "s": "Gemini Omni 1.2 Flash was introduced with the capability to create 15-second clips and better consistency in video generation. It matters because it lowers costs by 30% and offers multi-turn editing, helping professionals produce professional video content more affordably and efficiently."
+ },
+ "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105": {
+  "s": "A new method has been developed to predict how particles move through quark-gluon plasma, the universe's first fluid, under extreme conditions. This method builds upon Einstein's theories, offering insights into the behavior of matter in its earliest state."
+ },
+ "https://phys.org/news/2026-11-mineral-method-radioactive-technetium-liquid.html": {
+  "s": "Technetium-99, a radioactive byproduct of nuclear fuel, moves easily through water and soil, posing a significant environmental threat. Researchers at The University of Manchester developed a method to remove this contaminant from liquid waste by incorporating it into minerals. This technique effectively removes more than 99% of technetium, even at high concentrations, by transforming it into a less mobile form. This innovation could help in treating radioactive effluents and managing contaminated sites."
+ },
+ "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://theconversation.com/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets-290033": {
+  "s": "The researcher heard a barnacle at low tide at Tongue Point, noticing a sound that was not immediately recognized. This encounter revealed the complexity of animal behavior and the importance of paying attention to nature's background noise, which can lead to new insights."
+ },
+ "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark": {
+  "s": "The Voyager 1 spacecraft, launched in 1977, experienced a brief loss of communications in October. A fix called the 'Big Bang' was implemented to restore power and functionality, involving swapping out older, less efficient components with newer, more reliable ones."
+ },
+ "https://phys.org/news/2026-11-wacky-magnetic-fields-ice-giants.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast": {
+  "s": "NASA will host its first air show on Florida's Space Coast this weekend, an event that brings together aerospace enthusiasts. This show shares its name with a character's alias from the popular cartoon."
+ },
+ "https://phys.org/news/2026-11-paired-electron-pairing-room-temperature.html": {
+  "s": "Scientists have identified a key requirement for achieving superconductivity at room temperature. Their research, published in Science, suggests that electron pairing alone is not sufficient for room-temperature superconductivity. This finding brings scientists closer to understanding how to achieve superconductivity at higher temperatures, which could lead to more efficient energy storage and other technological advancements."
+ },
+ "https://phys.org/news/2026-11-galaxy-nicknamed-misty-moons-glimpse.html": {
+  "s": "Using gravitational lensing, astronomers have spotted a galaxy nicknamed Misty Moons, which was present when the universe was still very young, less than 500 million years old. This galaxy's magnified appearance due to a foreground galaxy cluster's gravity has helped researchers reconstruct its internal structure, revealing insights into early star formation."
+ },
+ "https://www.livescience.com/planet-earth/plants/a-tiny-chunk-of-australia-seeded-southeast-asias-tropical-forests-150-million-years-ago-plant-fossils-preserved-in-amber-reveal": {
+  "s": "This discovery, revealed by plant fossils in amber, provides insight into how continents interacted to shape ecosystems."
+ },
+ "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
+  "s": "Physicl raised $10 million to develop digital simulations that better mimic real-world physics, aiming to improve how robots interact with objects. This matters as current methods of training robots on video footage or gathering data are expensive and inaccurate, hindering their effectiveness."
  }
 }
