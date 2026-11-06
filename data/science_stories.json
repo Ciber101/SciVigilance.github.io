@@ -1,25 +1,20 @@
 {
- "updated": "2026-11-05T22:40:00-08:00",
- "updated_pt": "Nov 5, 2026, 10:40 PM PT",
+ "updated": "2026-11-06T01:55:00-08:00",
+ "updated_pt": "Nov 6, 2026, 1:55 AM PT",
  "stories": [
   {
    "title": "LOFAR delivers an ultra-deep sub-arcsecond image of the ELAIS-N1 radio sky",
    "tag": "Astronomy",
    "date": "2026-11-05",
    "paragraphs": [
-    "In an arXiv preprint accepted for Astronomy & Astrophysics, J.M.G.H.J. de Jong (Leiden Observatory/ASTRON) and collaborators present ultra-deep sub-arcsecond radio images of the ELAIS-N1 field from 200 hours of LOFAR High-Band Antenna observations at 115–168 MHz over a 2.5×2.5 square-degree area.",
-    "According to the paper, the highest-resolution mosaic reaches a central point-source sensitivity of 5.3 μJy beam−1 at 0.33″×0.39″ (area-weighted 7.4 μJy beam−1 at 0.36″×0.45″). Combining the new data with prior deep 6″ LOFAR images yields a catalogue of 62,916 unique radio sources. The authors call these among the deepest radio images below 1.28 GHz and among the deepest at any radio frequency.",
-    "The preprint says recent long-baseline calibration and imaging advances made processing this volume feasible, with astrometric alignment to Gaia quasars giving milliarcsecond-level offsets. An ADASS 2026 talk abstract by the same effort notes the 200-hour set corresponds to about 400 TB of visibility data and frames the release as a benchmark for wider LOFAR2.0 and Square Kilometre Array–era deep surveys."
+    "Phys.org reports a Leiden University–led LOFAR team produced what it calls the sharpest and most sensitive low-frequency radio image yet of ELAIS-N1, covering about 25 full-Moon areas of sky and revealing nearly 63,000 radio sources.",
+    "In an arXiv preprint accepted for Astronomy & Astrophysics, J.M.G.H.J. de Jong and collaborators present 200 hours of High-Band Antenna data at 115–168 MHz over 2.5×2.5 deg². The highest-resolution mosaic reaches 5.3 μJy beam−1 at 0.33″×0.39″ centrally (area-weighted 7.4 μJy beam−1 at 0.36″×0.45″); combining with prior deep 6″ LOFAR images yields 62,916 unique sources.",
+    "According to Phys.org, the image is about 20 times sharper than the previous deepest LOFAR map of this field, contains about 8 billion pixels, and drew on roughly 400 terabytes of data processed on SURF's Spider platform after calibration advances cut costs by more than a factor of 10. The authors release the data publicly for multi-wavelength follow-up and frame it as a benchmark for LOFAR2.0 and SKA-era surveys."
    ],
    "sources": [
     {
      "name": "arXiv",
      "url": "https://arxiv.org/abs/2611.06152",
-     "date": "2026-11-05"
-    },
-    {
-     "name": "ADASS XXXVI",
-     "url": "https://pretalx.adass.org/adass2026/talk/UWABRY/",
      "date": "2026-11-05"
     }
    ],

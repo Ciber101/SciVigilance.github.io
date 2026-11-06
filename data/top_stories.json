@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-05T22:40:00-08:00",
- "updated_pt": "Nov 5, 2026, 10:40 PM PT",
+ "updated": "2026-11-06T01:55:00-08:00",
+ "updated_pt": "Nov 6, 2026, 1:55 AM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory burned up over Indonesia after nearly 22 years in orbit",
@@ -31,36 +31,26 @@
    }
   },
   {
-   "title": "LHCb finds evidence of a one-in-ten-billion beauty-particle decay",
-   "tag": "Physics",
-   "date": "2026-11-03",
+   "title": "LOFAR delivers the sharpest deep view yet of the low-frequency radio sky",
+   "tag": "Astronomy",
+   "date": "2026-11-05",
    "paragraphs": [
-    "CERN reported on Nov. 3, 2026, that the LHCb Collaboration announced evidence for the decay of a Bd meson—a particle with a beauty quark and a down antiquark—into a muon–antimuon pair (Bd → μ+μ−). CERN says the process is predicted to occur only about once in ten billion beauty-particle decays, rarer than the previously observed Bs → μ+μ− channel by roughly a factor of thirty, and that this is the first time a single experiment has reported solid evidence for it.",
-    "According to CERN, 2024–2025 data alone reached about 3.0 standard deviations, and combining that with 2011–2018 data raised the significance to 3.2 sigma—above the conventional 3-sigma evidence threshold but short of the 5-sigma discovery standard. ScienceAlert and the University of Manchester note the same 3.2-sigma figure and that a 2015 LHCb–CMS claim of evidence was not confirmed in later updates through 2018.",
-    "CERN and Manchester say a 2024 LHCb upgrade raised the data-collection rate about fivefold and improved particle identification; machine-learning methods helped suppress backgrounds. The same analysis also produced the most precise measurements yet of Bs → μ+μ−. CERN states the new Bd result is consistent with Standard Model expectations and constrains some scenarios with particles too heavy to produce directly at the LHC.",
-    "Further data aim for 5-sigma confirmation, which CERN says would make Bd → μ+μ− the rarest beauty-particle decay observed. Hi-Lumi LHC running from about 2030 and a later LHCb upgrade could raise the data rate by another order of magnitude, according to CERN and Manchester researchers quoted in the releases."
+    "Phys.org reports that an international team led by Leiden University used the Low Frequency Array (LOFAR) to produce what the researchers call the sharpest and most sensitive low-frequency radio image of the sky yet, covering the ELAIS-N1 field—about 25 times the area of the full Moon—and revealing nearly 63,000 radio sources such as active galactic nuclei and star-forming galaxies.",
+    "According to an arXiv paper accepted for Astronomy & Astrophysics by J.M.G.H.J. de Jong and collaborators, the images come from 200 hours of LOFAR High-Band Antenna observations at 115–168 MHz over 2.5×2.5 square degrees. The highest-resolution mosaic reaches a central point-source sensitivity of 5.3 μJy beam−1 at 0.33″×0.39″, with an area-weighted sensitivity of 7.4 μJy beam−1 at 0.36″×0.45″; combining the new data with prior deep 6″ LOFAR images yields a catalogue of 62,916 unique radio sources.",
+    "Phys.org says the image is about 20 times sharper than the previous most sensitive LOFAR map of this field, that the full image contains about 8 billion pixels, and that the 200-hour data set amounted to about 400 terabytes. Lead author Jurjen de Jong said the full set could be processed on SURF's Spider platform in a few months after calibration advances cut computational cost by more than a factor of 10.",
+    "The Phys.org release and paper note the data are public so astronomers can combine them with optical, infrared, and X-ray maps. Co-author Reinout van Weeren said the view opens a window on how radio jets interact with their surroundings over cosmic time, and the team frames the release as a benchmark for LOFAR2.0 and Square Kilometre Array–era surveys."
    ],
    "sources": [
     {
-     "name": "CERN",
-     "url": "https://home.cern/lhcb-finds-evidence-of-one-in-ten-billion-particle-decay/",
-     "date": "2026-11-03"
-    },
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/after-42-years-of-searching-physicists-find-evidence-of-a-one-in-10-billion-particle-decay",
-     "date": "2026-11-06"
-    },
-    {
-     "name": "University of Manchester",
-     "url": "https://www.manchester.ac.uk/about/news/manchester-physicists-step-closer-to-the-zeptoverse-after-42-year-particle-search/",
-     "date": "2026-11-03"
+     "name": "arXiv",
+     "url": "https://arxiv.org/abs/2611.06152",
+     "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://home.cern/wp-content/uploads/2026/11/LHCb-image-768x512.jpg",
-    "credit": "CERN",
-    "alt": "View of the LHCb experiment at CERN"
+    "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-galaxies-with-ra.jpg",
+    "credit": "De Jong et al., via Phys.org",
+    "alt": "Three galaxies with low-frequency radio emission in the LOFAR ELAIS-N1 image"
    }
   },
   {
