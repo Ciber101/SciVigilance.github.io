@@ -1,49 +1,32 @@
 {
- "updated": "2026-11-05T16:50:00-08:00",
- "updated_pt": "Nov 5, 2026, 4:50 PM PT",
+ "updated": "2026-11-05T19:45:00-08:00",
+ "updated_pt": "Nov 5, 2026, 7:45 PM PT",
  "stories": [
   {
-   "title": "Voyager 1 resumes contact after a 48-hour communications pause",
-   "tag": "Space",
+   "title": "LOFAR delivers an ultra-deep sub-arcsecond image of the ELAIS-N1 radio sky",
+   "tag": "Astronomy",
    "date": "2026-11-05",
    "paragraphs": [
-    "JPL said NASA's Deep Space Network lost Voyager 1's signal on Oct. 18–19, 2026, then regained it on Oct. 20 after about 48 hours, before troubleshooting commands could arrive. Space.com notes the probe is nearly one light-day from Earth and will hit that distance on Nov. 18.",
-    "Engineers found one thruster group went offline and backups engaged automatically under fault protection. Mission manager Kareem Badaruddin called it the first time the spacecraft has behaved this way. The root cause remains under investigation.",
-    "In early September, JPL finished Voyager 1's \"Big Bang\" power swap—replacing three devices with lower-power alternatives—after a similar change on Voyager 2 about six weeks earlier, aiming to keep remaining science instruments running longer as each craft loses about 4 watts of power per year."
+    "In an arXiv preprint accepted for Astronomy & Astrophysics, J.M.G.H.J. de Jong (Leiden Observatory/ASTRON) and collaborators present ultra-deep sub-arcsecond radio images of the ELAIS-N1 field from 200 hours of LOFAR High-Band Antenna observations at 115–168 MHz over a 2.5×2.5 square-degree area.",
+    "According to the paper, the highest-resolution mosaic reaches a central point-source sensitivity of 5.3 μJy beam−1 at 0.33″×0.39″ (area-weighted 7.4 μJy beam−1 at 0.36″×0.45″). Combining the new data with prior deep 6″ LOFAR images yields a catalogue of 62,916 unique radio sources. The authors call these among the deepest radio images below 1.28 GHz and among the deepest at any radio frequency.",
+    "The preprint says recent long-baseline calibration and imaging advances made processing this volume feasible, with astrometric alignment to Gaia quasars giving milliarcsecond-level offsets. The team frames the release as a benchmark for wider LOFAR2.0 and Square Kilometre Array–era deep surveys. An ADASS 2026 talk abstract by the same effort notes the 200-hour set corresponds to about 400 TB of visibility data."
    ],
    "sources": [
     {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
+     "name": "arXiv",
+     "url": "https://arxiv.org/abs/2611.06152",
+     "date": "2026-11-05"
+    },
+    {
+     "name": "ADASS XXXVI",
+     "url": "https://pretalx.adass.org/adass2026/talk/UWABRY/",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
-    "credit": "JPL-Caltech/NASA, via Space.com",
-    "alt": "Illustration of NASA's Voyager 1 probe"
-   }
-  },
-  {
-   "title": "Underwater volcano generator briefly makes net-positive electricity off Oregon",
-   "tag": "Earth science",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "ScienceAlert reports that Seattle-based Endurance Energy ran its Adélie seafloor generator at Axial Seamount, about 480 kilometers (300 miles) off Oregon and roughly 1,500 meters (5,000 feet) deep, and said the system produced more electricity than it consumed for 8.7 seconds during a Sept. 27 test announced Oct. 19.",
-    "According to ScienceAlert's summary of the company release, hot vent water near 281°C (538°F) drove a turbine to about 26,000 revolutions per minute. After subtracting pump and other loads, Endurance reported a median surplus of about 2 kilowatts during that interval, with a peak of 16.5 kilowatts. The run stopped when a battery safety system tripped; a pump power cable later failed on restart.",
-    "ScienceAlert notes the measurements come from Endurance with no peer-reviewed paper yet, and that energy used for shipping, drilling, and installation is not included. CEO Andrew Redd said the next 100-kilowatt Gentoo unit targets longer runs this winter, with first commercial power aimed at Tonga in 2027."
-   ],
-   "sources": [
-    {
-     "name": "ScienceAlert",
-     "url": "https://www.sciencealert.com/world-first-underwater-volcano-off-us-coast-generates-net-positive-electricity",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://www.sciencealert.com/images/2026/11/UnderwaterVolcanoNetElectricity.png",
-    "credit": "Endurance Energy, via ScienceAlert",
-    "alt": "Endurance Energy seafloor geothermal generator prototype"
+    "url": "https://scx2.b-cdn.net/gfx/news/hires/2026/three-galaxies-with-ra.jpg",
+    "credit": "De Jong et al., via Phys.org coverage",
+    "alt": "Three galaxies with low-frequency radio emission in the LOFAR ELAIS-N1 image"
    }
   },
   {
@@ -69,25 +52,53 @@
    }
   },
   {
-   "title": "Lyman-alpha radiation may clear fog around early bright galaxies",
-   "tag": "Astronomy",
-   "date": "2026-11-05",
+   "title": "SLAC-led team confirms altermagnetism, a third class of magnetism, in manganese telluride",
+   "tag": "Physics",
+   "date": "2026-11-04",
    "paragraphs": [
-    "Universe Today reports that Flatiron Institute researcher Shyam H. Menon and University of Texas at Dallas physicist Aaron Smith argue in The Astrophysical Journal that Lyman-alpha radiation pressure can help explain why JWST sees unexpectedly bright, dense star clusters only a few hundred million years after the Big Bang.",
-    "According to Universe Today, the team post-processed radiation-hydrodynamic simulation snapshots with Smith's COLT Monte Carlo code rather than simulating Lyα self-consistently from scratch. They conclude Lyα is unlikely to stop dense filament star formation, but once star formation saturates it can eject volume-filling gas and dust.",
-    "Menon told Universe Today that clearing that diffuse \"fog\" lets observers see early stars more clearly and can launch fast winds. The paper is titled \"Lyα Radiation Pressure in Dense Star Clusters: Implications for Star Formation and Winds at Cosmic Dawn.\""
+    "ScienceDaily and SLAC report that a team led by the U.S. Department of Energy's SLAC National Accelerator Laboratory published experimental evidence in Science for altermagnetism, a magnetic phase distinct from ferromagnetism and antiferromagnetism. Lead author Daniel Jost said the results provide \"robust experimental confirmation that this third phase—altermagnetism—is real.\" The paper, \"Chiral altermagnon in MnTe,\" is dated Oct. 29, 2026.",
+    "According to SLAC and Phys.org, the researchers studied manganese telluride (MnTe), long classified as an antiferromagnet. Altermagnets are described as having alternating electron spins like antiferromagnets, but with crystal structures around opposite spins rotated relative to each other—a symmetry break proposed when the term was introduced in 2022.",
+    "The team used circularly polarized X-rays at the European Synchrotron Radiation Facility's ID32 beamline. SLAC says chiral materials scatter left- and right-handed polarized beams differently; MnTe showed that chiral signature, which conventional antiferromagnets should not. The measurements were first made in 2024 and repeated in early 2025.",
+    "Jost told SLAC that ferromagnets are easily disturbed by stray magnetic fields, while antiferromagnets are hard to read or drive with spin currents. \"Altermagnets combine the best of both,\" he said: zero net magnetization with the ability to generate spin-polarized currents. The work received partial DOE Office of Science support."
    ],
    "sources": [
     {
-     "name": "Universe Today",
-     "url": "https://www.universetoday.com/articles/a-mighty-wind-blew-away-gas-and-made-early-galaxies-brighter",
+     "name": "ScienceDaily",
+     "url": "https://www.sciencedaily.com/releases/2026/11/261104012256.htm",
+     "date": "2026-11-04"
+    },
+    {
+     "name": "SLAC",
+     "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
+     "date": "2026-10-29"
+    }
+   ],
+   "image": {
+    "url": "https://www.sciencedaily.com/images/1920/three-mirrors-proposed-forms-of-magnetism.webp",
+    "credit": "Greg Stewart/SLAC National Accelerator Laboratory, via ScienceDaily",
+    "alt": "Graphic comparing ferromagnetism, altermagnetism, and antiferromagnetism"
+   }
+  },
+  {
+   "title": "Voyager 1 resumes contact after a 48-hour communications pause",
+   "tag": "Space",
+   "date": "2026-11-05",
+   "paragraphs": [
+    "JPL said NASA's Deep Space Network lost Voyager 1's signal on Oct. 18–19, 2026, then regained it on Oct. 20 after about 48 hours, before troubleshooting commands could arrive. Space.com notes the probe is nearly one light-day from Earth and will hit that distance on Nov. 18.",
+    "Engineers found one thruster group went offline and backups engaged automatically under fault protection. Mission manager Kareem Badaruddin called it the first time the spacecraft has behaved this way. The root cause remains under investigation.",
+    "In early September, JPL finished Voyager 1's \"Big Bang\" power swap—replacing three devices with lower-power alternatives—after a similar change on Voyager 2 about six weeks earlier, aiming to keep remaining science instruments running longer as each craft loses about 4 watts of power per year."
+   ],
+   "sources": [
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/space-exploration/voyager/nasas-voyager-1-probe-bounces-back-from-communications-glitch-in-interstellar-space",
      "date": "2026-11-05"
     }
    ],
    "image": {
-    "url": "https://www.universetoday.com/article_images/Lede_LymanAlpha_c.Matt-Twombly_Simons-Foundation.jpg-1024x576_20261105_133649.jpg",
-    "credit": "Matt Twombly for Simons Foundation, via Universe Today",
-    "alt": "Artist illustration of bright early galaxies at Cosmic Dawn"
+    "url": "https://cdn.mos.cms.futurecdn.net/bUP6ipSPwRnVPNkNak7LD7-2000-80.jpg",
+    "credit": "JPL-Caltech/NASA, via Space.com",
+    "alt": "Illustration of NASA's Voyager 1 probe"
    }
   }
  ]
