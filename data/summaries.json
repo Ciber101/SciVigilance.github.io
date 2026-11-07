@@ -121,10 +121,6 @@
  "https://news.mit.edu/2026/mit-led-team-receives-funding-for-early-disease-detection-wearable-monitor-1104": {
   "s": "MIT-led researchers received up to $38 million in funding from ARPA-H to develop a wearable sensor patch. This patch aims to measure biomarkers of heart failure and sepsis in real-time, potentially enabling early disease detection."
  },
- "https://www.livescience.com/planet-earth/weather/7-stunning-weather-photographer-of-the-year-photos-that-capture-the-beauty-and-power-of-our-planet": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/": {
   "s": "Cyprus, an island with a unique geological history, is composed of ophiolite, an ancient piece of the ocean floor, and is home to a colony of cats. This geological formation, visible in the Troodos Mountains, is a result of tectonic forces pushing oceanic crust upwards, creating a rugged island. The island's southernmost tip, the Akrotiri Peninsula, is a recent development, formed by sediment accumulation and river deltas."
  },
@@ -179,9 +175,6 @@
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "s": "Moonshot AI (Kimi) released Kimi-K3.1-Pro, a new image text to text model, on Hugging Face. This model offers significant improvements in coding, financial research, and other agentic capabilities, thanks to its large context window and advanced attention mechanisms."
  },
- "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/": {
-  "s": "Agility Robotics became the first U.S.-based legged humanoid company to go public, listing its stock on Nasdaq. This move matters as it opens new financial resources for the company, accelerating the development and deployment of intelligent robots in various workplaces."
- },
  "https://www.therobotreport.com/how-ambi-robotics-helps-customers-prepare-peak-season/": {
   "s": "Before peak season, Ambi Robotics installs eight new systems at customer sites. This helps prepare for a 9% to 10% increase in throughput compared to last year. The company's systems streamline final-mile deliveries, and McKinley says volume continues to rise, putting pressure on logistics providers."
  },
@@ -193,9 +186,6 @@
  },
  "https://spectrum.ieee.org/drone-delivery-noise": {
   "s": "Rick and Marcia LeCompte noticed Cooper's hawks were gone from their yard in October. They believe the hawks were scared away by flying robots, Amazon's MK30 delivery drones, which began flying near their home in September. The constant buzzing and noise made them feel harassed, spending less time outside and inside their home."
- },
- "https://www.therobotreport.com/robotics-startup-radar-2026/": {
-  "s": "The 2026 Startup Radar highlighted young robotics companies working on new technologies and business models. Such startups promise to make robots more autonomous, combining perception, understanding, and action. What matters is a strong technical foundation, visionary teams, business acumen, and partnerships. Understanding the target market is crucial, even if not every startup will succeed or be acquired."
  },
  "https://robohub.org/robots-in-society-business-and-culture-october-2026/": {
   "s": "A biohybrid robot, stimulated by an electrical impulse, pushes off from the ground. The researchers tested whether the robot's approach direction affects how fast it seems to move, finding that participants perceived it as faster when approaching from behind. This study matters as it explores visual factors influencing human perception of robots, potentially impacting how people interact with and perceive AI in society."
@@ -256,24 +246,14 @@
  "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105": {
   "s": "A new method has been developed to predict how particles move through quark-gluon plasma, the universe's first fluid, under extreme conditions. This method builds upon Einstein's theories, offering insights into the behavior of matter in its earliest state."
  },
- "https://www.space.com/stargazing/auroras/northern-lights-could-reach-new-york-and-idaho-this-weekend-as-speedy-solar-wind-races-toward-earth": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://theconversation.com/i-heard-a-barnacle-how-paying-attention-to-natures-background-noise-can-reveal-animal-secrets-290033": {
   "s": "The researcher heard a barnacle at low tide at Tongue Point, noticing a sound that was not immediately recognized. This encounter revealed the complexity of animal behavior and the importance of paying attention to nature's background noise, which can lead to new insights."
  },
  "https://www.universetoday.com/articles/big-bang-fix-puts-voyager-across-the-one-light-day-mark": {
   "s": "The Voyager 1 spacecraft, launched in 1977, experienced a brief loss of communications in October. A fix called the 'Big Bang' was implemented to restore power and functionality, involving swapping out older, less efficient components with newer, more reliable ones."
  },
- "https://www.space.com/space-exploration/max-power-nasa-hosting-its-1st-air-show-this-weekend-on-floridas-space-coast": {
-  "s": "NASA will host its first air show on Florida's Space Coast this weekend, an event that brings together aerospace enthusiasts. This show shares its name with a character's alias from the popular cartoon."
- },
  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
   "s": "Physicl raised $10 million to develop digital simulations that better mimic real-world physics, aiming to improve how robots interact with objects. This matters as current methods of training robots on video footage or gathering data are expensive and inaccurate, hindering their effectiveness."
- },
- "https://phys.org/news/2026-11-noise-pollution-biology-behavior-animal.html": {
-  "s": "Noise pollution affects 80% of animal species studied, altering body functions, development, and behavior. This study highlights the broader impact of noise on entire populations and ecosystems, potentially reshaping how species survive and interact."
  },
  "https://www.space.com/stargazing/you-can-see-another-galaxy-with-the-naked-eye-heres-how-to-find-it": {
   "s": "Finding the Andromeda galaxy is easy with the naked eye, but believing it's a separate galaxy from ours is challenging. The text suggests the galaxy is very distant, making it hard to grasp its true nature."
@@ -344,10 +324,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-11-fruit-fly-clues-insect-survival.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/": {
   "s": "Chainalysis reported that hackers accessed credentials and tokens for all of its customers, revealing sensitive information including usernames, full names, and passwords. This breach could pose a significant threat to the security of the compromised users, as the stolen tokens could be used to access their cryptocurrency holdings."
  },
@@ -363,5 +339,28 @@
  },
  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/": {
   "s": "Genie 4 is a new world simulation model that enhances realism and interactive capability. It matters because it enables more realistic and dynamic simulations, useful for training robots and agents, and creating new interactive experiences."
+ },
+ "https://phys.org/news/2026-11-wasps-horrified-darwin-reveal-evolution.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-november-6-2026": {
+  "s": "A German astronomer observed a supernova without any telescope, marking the first time a supernova was seen with the naked eye. This discovery challenged the prevailing view that stars were eternal and unchanging, prompting a reevaluation of the cosmos."
+ },
+ "https://www.livescience.com/space/mars/life-is-too-brief-to-leave-this-planet-live-science-readers-share-whether-theyd-go-to-mars-despite-health-risks": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/ast-spacemobile-announces-new-blacklift-rocket-targets-2028-launch-debut": {
+  "s": "AST SpaceMobile intends to use its own rocket, named Blacklift, for launching its broadband satellites. This project aims to debut in 2028, indicating a commitment to self-reliance in space technology."
+ },
+ "https://phys.org/news/2026-11-metabolite-enzyme-consumes.html": {
+  "s": "How a metabolite protects the enzyme that consumes it: Tryptophan, an essential amino acid, binds to a second site on the enzyme TDO2, preventing it from being consumed. This sequesters a region needed by two effectors, kinase CK2 and ubiquitin ligase CUL1–β-TrCP, which sequentially signal TDO2 degradation. This mechanism ensures that the cell maintains tryptophan levels within a physiological range, avoiding excessive consumption of this vital amino acid."
+ },
+ "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/": {
+  "s": "Boston Dynamics developed Stretch Gen 2 to improve reliability and performance, aiming for more consistent and reliable operation. The new version simplifies the design and reduces downtime by minimizing internal cabling and improving battery life."
+ },
+ "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/": {
+  "s": "Aaron Nathan, founder of Point One Navigation, discussed how precise GPS technology is making robots more capable. This matters because it enables robots to navigate, coordinate, and operate across real-world environments, enhancing their usefulness in various fields."
  }
 }
