@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "created_at": "2026-11-07T20:01:35.000Z",
+      "edit_history_tweet_ids": [
+        "2119158342870577563"
+      ],
+      "id": "2119158342870577563",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "A hidden red dwarf star may cause periodic comet impacts via the Oort Cloud, says physicist.\n\nhttps://t.co/qFNANGNAqr\n\n#StellarNemesis #OortCloud",
+      "url": "https://x.com/i/status/2119158342870577563"
+    },
+    {
+      "created_at": "2026-11-07T17:01:44.000Z",
+      "edit_history_tweet_ids": [
+        "2119113079434928437"
+      ],
+      "id": "2119113079434928437",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 5,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Bantu expansion reshaped Africa's languages, genes, and cultures—new research reveals how.\n\nhttps://t.co/w6pcfuplhB\n\n#BantuExpansion #AfricanHistory",
+      "url": "https://x.com/i/status/2119113079434928437"
+    },
+    {
       "created_at": "2026-11-07T14:01:28.000Z",
       "edit_history_tweet_ids": [
         "2119067713889046972"
@@ -615,45 +649,11 @@
       },
       "text": "New study reveals excess type I interferon disrupts lung development in trisomy 21, causing premature distalization.\n\nhttps://t.co/zWFp6K95UJ\n\n#Trisomy21 #LungDevelopment",
       "url": "https://x.com/i/status/2116938609123356738"
-    },
-    {
-      "created_at": "2026-11-01T14:01:05.000Z",
-      "edit_history_tweet_ids": [
-        "2116893292470423697"
-      ],
-      "id": "2116893292470423697",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 8,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Scientists create anti-spin ice using attracting particles, breaking traditional ice rules.\n\nhttps://t.co/2GCaUmigLc\n\n#AntiSpinIce #SpinIcePhysics",
-      "url": "https://x.com/i/status/2116893292470423697"
-    },
-    {
-      "created_at": "2026-11-01T11:01:19.000Z",
-      "edit_history_tweet_ids": [
-        "2116848052040597874"
-      ],
-      "id": "2116848052040597874",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 13,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Stunning Moon colors revealed! APOD explains how sunlight and minerals paint its surface in striking hues.\n\nhttps://t.co/7UZiEHYV9J\n\n#MoonColors #APOD",
-      "url": "https://x.com/i/status/2116848052040597874"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2119067713889046972",
-    "oldest_id": "2116848052040597874"
+    "newest_id": "2119158342870577563",
+    "oldest_id": "2116938609123356738"
   }
 }
