@@ -1,7 +1,29 @@
 {
- "updated": "2026-11-06T13:39:00-08:00",
- "updated_pt": "Nov 6, 2026, 1:39 PM PT",
+ "updated": "2026-11-06T19:57:00-08:00",
+ "updated_pt": "Nov 6, 2026, 7:57 PM PT",
  "stories": [
+  {
+   "title": "Boston Dynamics unveils Stretch Gen 2 trailer-unloading robot",
+   "tag": "Warehouse robots",
+   "date": "2026-11-06",
+   "paragraphs": [
+    "The Robot Report says Boston Dynamics unveiled Stretch Gen 2, the next generation of its autonomous mobile trailer-unloading robot, citing more than 100,000 operating hours and tens of millions of boxes handled with the earlier model. Vice president Brian Donnelly told the outlet the company spent about two and a half years simplifying and hardening the design for uptime and serviceability.",
+    "According to The Robot Report, Stretch Gen 2 can unload up to 1,000 cases per hour depending on case weight and stacking, with a multipick gripper, a battery rated for two shifts, and a fast charger that reaches about 90% in roughly 75 minutes. The redesign cuts about 81% of internal cabling (around half a mile), adds automotive-grade connectors, continuous-rotation joints past 360°, recessed emergency stop hardware, and sturdier exterior panels.",
+    "Donnelly said a full swerve-drive swap now takes about one hour instead of a full day, and new onboard diagnostics push more routine service to customer teams. The Robot Report notes Stretch Gen 2 is already running at multiple customer sites, with software updates rolling out roughly monthly; a recent fleet update raised unload rates by about 24%, per Donnelly."
+   ],
+   "sources": [
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
+     "date": "2026-11-06"
+    }
+   ],
+   "image": {
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
+    "credit": "Boston Dynamics, via The Robot Report",
+    "alt": "Boston Dynamics Stretch Gen 2 trailer-unloading robot"
+   }
+  },
   {
    "title": "Agility Robotics closes first Nasdaq day up after SPAC debut",
    "tag": "Humanoids",
@@ -71,28 +93,6 @@
     "url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
     "credit": "Physicl, via TechCrunch",
     "alt": "Physicl Studio kitchen simulation environment for robot training"
-   }
-  },
-  {
-   "title": "University of Tartu robot moth grows a UV sensor from artificial blood",
-   "tag": "Research robots",
-   "date": "2026-11-05",
-   "paragraphs": [
-    "New Atlas reports that engineers at the University of Tartu and the Italian Institute of Technology built a moth-shaped robot whose 3D-printed body carries artificial blood that can form a new ultraviolet sensor when a chosen patch is lit with UV, according to a study in Advanced Science.",
-    "According to New Atlas and first author Kadri-Ann Pankratov, a pump moves about 3 ml of fluid laced with pyrrole through tiny veins; UV plus a light-activated additive turns the soaked plastic into conductive polypyrrole, detected by gold wires printed into the body. The patch's resistance drops under UV, and an onboard chip can blink an LED or flap the wings.",
-    "New Atlas notes the prototype cannot fly, wings are bent by externally powered nitinol wire, researchers—not the robot—chose when and where to grow the sensor, and the reaction is not reversible. The sensor still worked after four months in storage and grew more sensitive with repeated exposures as leftover pyrrole kept reacting."
-   ],
-   "sources": [
-    {
-     "name": "New Atlas",
-     "url": "https://newatlas.com/robotics/tartu-iit-robot-moth-artificial-blood-uv-sensor/",
-     "date": "2026-11-05"
-    }
-   ],
-   "image": {
-    "url": "https://assets.newatlas.com/dims4/default/ab2597d/2147483647/strip/true/crop/2417x1269+231+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.ap-southeast-2.amazonaws.com%2Fcc%2F4a%2F4acd235442af8a74baa0b5d94f47%2Frobot-moth-gained-an-e-2.jpg&na.image_optimisation=0",
-    "credit": "Kadri-Ann Pankratov et al., via New Atlas",
-    "alt": "Robot moth with artificial circulatory system"
    }
   }
  ]
