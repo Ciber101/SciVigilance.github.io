@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T02:05:00-08:00",
- "updated_pt": "Nov 7, 2026, 2:05 AM PT",
+ "updated": "2026-11-07T08:00:00-08:00",
+ "updated_pt": "Nov 7, 2026, 8:00 AM PT",
  "stories": [
   {
    "title": "NASA's Swift Observatory re-enters after nearly 22 years of transient astronomy",
@@ -89,35 +89,35 @@
    }
   },
   {
-   "title": "FLIP processing recovers 51 Eridani b in archival JWST coronagraph data",
-   "tag": "Astronomy",
-   "date": "2026-11-06",
+   "title": "ExoMars Trace Gas Orbiter links hydrogen chloride near Alba Mons to dormant Martian volcanism",
+   "tag": "Planetary science",
+   "date": "2026-11-07",
    "paragraphs": [
-    "Northwestern University says a Nature paper published Nov. 4, 2026, introduces Physics-based Learning for Imaging Planets (FLIP), a digital-twin model of JWST that subtracts starlight after accounting for tiny telescope imperfections. Live Science and Space.com report Nov. 6 coverage of the same result.",
-    "According to Northwestern, FLIP improved faint-planet sensitivity by about 2 to 15 times versus standard methods on archival JWST observations of HIP 65426, 51 Eridani, and TYC 5899. The team reports a detection of giant exoplanet 51 Eridani b at 4.3 micrometers in data where conventional processing had not recovered it; Space.com notes the world was first found from the ground in 2015 and has roughly 11 Jupiter masses.",
-    "Lead author Rodrigo Ferrer-Chavez and co-author Jason Wang stress that FLIP uses optimization tools common in machine learning but is not an AI planet finder, because it embeds known telescope physics. Northwestern and Space.com say the approach could help reanalyze existing coronagraph data and support future missions such as the Habitable Worlds Observatory."
+    "ScienceAlert and the University of Oxford Department of Physics report a Science Advances study, published Nov. 4, 2026, in which researchers using ESA's ExoMars Trace Gas Orbiter detected hydrogen chloride (HCl) above fissured ground on the flanks of Alba Mons, the largest volcano on Mars by surface area. Space.com covers the same result.",
+    "According to Oxford and ScienceAlert, most Martian HCl varies with dust and water cycles and peaks in northern winter, but a subset of detections recurs in early northern summer over Alba Mons fissures when the atmosphere is clearer. TGO's Atmospheric Chemistry Suite and CaSSIS camera show fresh, narrow fissures—sometimes hundreds of meters long—with surface color changes. Co-lead author Daniel Mege says the orbiter found a \"smoking gun\" in parts-per-billion signals.",
+    "The team, led by Alexander Trokhimovskiy and including former Oxford researcher Kevin Olsen, argues a local igneous source best fits the pattern: magmatic gases may rise through ice-blocked cracks in winter and escape when ice sublimates in early summer, possibly linked to a dormant magma chamber. Oxford and Space.com note implications for hydrothermal niches; Mege says searching for life in Alba Mons seeping fissures \"would make a lot of sense\" if such systems are active. ESA project scientist Colin Wilson called the findings potentially TGO's greatest success yet, per Oxford."
    ],
    "sources": [
     {
-     "name": "Northwestern University",
-     "url": "https://news.northwestern.edu/stories/2026/11/hidden-planet-emerges-from-the-glare?fj=1",
+     "name": "ScienceAlert",
+     "url": "https://www.sciencealert.com/a-stinky-gas-seeping-from-the-bowels-of-mars-may-reveal-the-planet-is-still-volcanically-active",
+     "date": "2026-11-07"
+    },
+    {
+     "name": "University of Oxford Department of Physics",
+     "url": "https://www.physics.ox.ac.uk/news/european-orbiter-detects-hints-volcanic-activity-mars",
      "date": "2026-11-04"
     },
     {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world",
-     "date": "2026-11-06"
-    },
-    {
      "name": "Space.com",
-     "url": "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight",
-     "date": "2026-11-06"
+     "url": "https://www.space.com/astronomy/mars/mars-isnt-dead-recent-volcanic-activity-reveals-its-just-sleeping",
+     "date": "2026-11-04"
     }
    ],
    "image": {
-    "url": "https://news.northwestern.edu/assets/Stories/2026/11/hidden-planet970__FocusFillMaxWyIwLjAwIiwiMC4wMCIsMTIwMCw2MzBd.jpg",
-    "credit": "Rodrigo Ferrer-Chavez, via Northwestern University",
-    "alt": "JWST image comparison showing 51 Eridani b after FLIP starlight subtraction"
+    "url": "https://www.physics.ox.ac.uk/sites/default/files/styles/meta_open_graph/public/news_images/esa-mars-tgo.jpg?itok=S3cT7gp8",
+    "credit": "ESA, via University of Oxford Department of Physics",
+    "alt": "Artist impression of ESA ExoMars Trace Gas Orbiter analyzing the Martian atmosphere"
    }
   }
  ]
