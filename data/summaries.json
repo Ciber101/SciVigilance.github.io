@@ -14,9 +14,6 @@
  "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/": {
   "s": "Warp Sciences, founded by Kevin Weil, a former OpenAI science lead, trains robots to perform lab tasks. This startup aims to automate drug discovery by reducing reliance on overseas contractors, thus insulating the process from geopolitical risks."
  },
- "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023": {
-  "s": "Benjamin Lindquist, an MIT researcher, explains how engineers deliberately introduced randomness into early AI models, leading to deep-learning algorithms that sometimes produce hallucinations. This approach mimics human creativity by incorporating a degree of irrationality, essential for thinking like a human, according to Lindquist."
- },
  "https://newatlas.com/robotics/feather-star-underwater-robot/": {
   "s": "The researchers at North Carolina State University have developed an underwater robot inspired by a feather star. This robot can move in three dimensions using just two actuators, a significant improvement over previous designs. This innovation reduces complexity and enhances the robot's maneuverability, making it more efficient."
  },
@@ -137,9 +134,6 @@
  "https://news.mit.edu/2026/featured-video-changing-conversation-about-endometriosis-1103": {
   "s": "Documentary highlights the pain and misunderstanding of endometriosis affecting millions of women, showcasing personal stories and scientific research. It aims to change the narrative by bringing attention to the disease, encouraging more research and understanding."
  },
- "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/": {
-  "s": "NASA announced the X-70 Fractal, a crewed, adaptable research platform, at a summit. This aircraft aims to test new aviation technologies in real flight, offering rapid payload changes and high performance. Its modular design and advanced flight-control technology will help NASA explore and develop new aviation technologies."
- },
  "https://www.sciencenews.org/article/diabetes-device-experiment-blood-sugar": {
   "s": "The wireless implant in mice clears excess sugar from their blood on demand, helping them lose weight. It could offer a drug-free treatment for diabetes and obesity, as conventional treatments require careful dosing."
  },
@@ -202,9 +196,6 @@
  "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/": {
   "s": "Serve Robotics launches a new business offering connectivity and data tools to other companies building robots. This move aims to capitalize on the technology the company has developed for its own robots, expanding the reach of its AI technology beyond its autonomous delivery operations."
  },
- "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/": {
-  "s": "Neil Gehrels Swift Observatory, a satellite that served for nearly 22 years, ceased operations after re-entering Earth's atmosphere. The satellite, equipped with various telescopes, provided unprecedented insights into the universe's most energetic phenomena. Its end marks the end of a valuable resource for cosmic research, but its data will continue to illuminate the cosmos."
- },
  "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -235,9 +226,6 @@
  },
  "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating": {
   "s": "The Moon, thought to be a static object since its creation, turned out to have volcanic materials formed only two billion years ago. This discrepancy challenges traditional theories that the Moon cooled rapidly after its formation. Researchers propose tidal heating as a mechanism that kept the Moon's interior hot enough to generate these volcanic materials two billion years after its violent birth."
- },
- "https://www.sciencealert.com/drug-restores-liver-function-in-aging-rats-and-halves-levels-of-an-alzheimers-linked-protein": {
-  "s": "The drug restored liver function in aging rats, halving blood levels of a protein linked to Alzheimer's disease. This restored communication between liver cells, lowering cholesterol as well."
  },
  "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891": {
   "s": "",
@@ -362,5 +350,14 @@
  },
  "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/": {
   "s": "Aaron Nathan, founder of Point One Navigation, discussed how precise GPS technology is making robots more capable. This matters because it enables robots to navigate, coordinate, and operate across real-world environments, enhancing their usefulness in various fields."
+ },
+ "https://www.sciencealert.com/a-stinky-gas-seeping-from-the-bowels-of-mars-may-reveal-the-planet-is-still-volcanically-active": {
+  "s": "A new study suggests Mars is still volcanically active, based on the detection of hydrogen chloride gas. This hints at ongoing magmatic processes in the planet's interior, providing clues about its geologic activity."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": {
+  "s": "A mountainous formation named De Gerlache-Kocher massif was captured on the visible horizon of the Moon in a close-up image. This site, near the lunar south pole, is considered a potential landing site for future human missions due to its unique features."
+ },
+ "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems": {
+  "s": "The third interstellar visitor 3I/ATLAS was discovered in 2025, coinciding with the launch of the James Webb Space Telescope. The telescope's observations revealed that 3I/ATLAS contains water ice, but in a unique form: mixed with dark rocky minerals. This finding challenges previous assumptions and highlights the diversity of interstellar objects."
  }
 }
