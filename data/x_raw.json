@@ -1,6 +1,40 @@
 {
   "data": [
     {
+      "created_at": "2026-11-07T02:01:28.000Z",
+      "edit_history_tweet_ids": [
+        "2118886520849568248"
+      ],
+      "id": "2118886520849568248",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 3,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Revolutionary AI model, CheMeleon, predicts molecule behavior from minimal data, speeding up drug discovery.\n\nhttps://t.co/VlLzJ42OGQ\n\n#MachineLearning #DrugDiscovery",
+      "url": "https://x.com/i/status/2118886520849568248"
+    },
+    {
+      "created_at": "2026-11-06T23:01:31.000Z",
+      "edit_history_tweet_ids": [
+        "2118841235918217449"
+      ],
+      "id": "2118841235918217449",
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 16,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "text": "Sparkling stars of M30 reveal galactic history! NASA's Hubble captures this ancient globular cluster, named after astronomer Charles Messier.\n\nhttps://t.co/rXSd19l4r9\n\n#Hubble #Messier30",
+      "url": "https://x.com/i/status/2118841235918217449"
+    },
+    {
       "created_at": "2026-11-06T20:01:28.000Z",
       "edit_history_tweet_ids": [
         "2118795923572883743"
@@ -815,45 +849,11 @@
       },
       "text": "🎬 New Short: Hubble and Webb Just Found a Ghostly Cat Hiding in Space #shorts\nhttps://t.co/pPaKwdvbSX\n\nMore daily space Shorts: https://t.co/Ixim7fNj7d #Science #Space",
       "url": "https://x.com/i/status/2116681960978522355"
-    },
-    {
-      "created_at": "2026-10-31T22:01:07.000Z",
-      "edit_history_tweet_ids": [
-        "2116651708038418495"
-      ],
-      "id": "2116651708038418495",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 10,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Scientists develop novel compounds with strong cytotoxicity, hinting at new anticancer treatments.\n\nhttps://t.co/pjDW7g4ZAO\n\n#DrugDiscovery #CancerResearch",
-      "url": "https://x.com/i/status/2116651708038418495"
-    },
-    {
-      "created_at": "2026-10-31T19:01:15.000Z",
-      "edit_history_tweet_ids": [
-        "2116606444502163645"
-      ],
-      "id": "2116606444502163645",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 20,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Seabirds' long flights home disrupt their internal clocks, causing jet-lag-like effects.\n\nhttps://t.co/7dsh59trp3\n\n#Seabirds #JetLag",
-      "url": "https://x.com/i/status/2116606444502163645"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2118795923572883743",
-    "oldest_id": "2116606444502163645"
+    "newest_id": "2118886520849568248",
+    "oldest_id": "2116681960978522355"
   }
 }
