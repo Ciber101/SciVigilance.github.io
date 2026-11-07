@@ -1,11 +1,20 @@
 {
- "updated": "2026-11-07T15:12:33.693635+00:00",
+ "updated": "2026-11-07T21:18:35.528642+00:00",
  "accounts": [
   {
    "handle": "adcock_brett",
    "name": "Brett Adcock",
    "avatar": "img/x-robots-adcock_brett.jpg",
    "posts": [
+    {
+     "id": "2119127304265949511",
+     "text": "F.03 humanoid robots",
+     "date": "2026-11-07T17:58:15.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2119127224125403136/img/JPLTqUJGfEUqstbE.jpg",
+     "video": "https://video.twimg.com/amplify_video/2119127224125403136/vid/avc1/1280x720/GBslAlqSdVK7aQ6q.mp4?tag=16",
+     "url": "https://x.com/adcock_brett/status/2119127304265949511"
+    },
     {
      "id": "2117286067472937012",
      "text": "Newly manufactured F.03 robots leaving BotQ and heading across campus",
@@ -23,15 +32,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2114034917164072960/img/JrfEuGoOOl8T5skU.jpg",
      "video": "https://video.twimg.com/amplify_video/2114034917164072960/vid/avc1/1920x1080/Une7Rd9fIjIEK1ux.mp4",
      "url": "https://x.com/adcock_brett/status/2114035491540758563"
-    },
-    {
-     "id": "2112227583643509174",
-     "text": "F.03 just crossed 9 straight days walking on this treadmill: 348 miles and 1.2 million steps\n\nStarted as a side project to stress the robot for any failures. Let's see how long it can go",
-     "date": "2026-10-19T17:01:13.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112227376558120960/img/uW8PI1t5J9sQ42dO.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112227376558120960/vid/avc1/1920x1080/a3w2jn5RS97XgAO8.mp4?tag=16",
-     "url": "https://x.com/adcock_brett/status/2112227583643509174"
     }
    ]
   },
@@ -286,15 +286,6 @@
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
     {
-     "id": "2118838164567822624",
-     "text": "More NVIDIA models and tools are coming to robot learning with LeRobot 0.7. 🤖\n\nNew integrations include:\n•Cosmos 3 and Long-WAM for world action modeling.\n\n• RoboLab on NVIDIA Isaac Lab for evaluating policies across 120 tabletop tasks.\n\n•SONIC integration for humanoid",
-     "date": "2026-11-06T22:49:19.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2118838164567822624"
-    },
-    {
      "id": "2118751657169187110",
      "text": "Scale up testing for complex robot manipulation. 🤖\n\nRoboDojo is now available on NVIDIA Isaac Lab-Arena, bringing challenging bimanual tasks like precision insertion, folding, tool use, and multi-step manipulation to scalable evaluation in simulation.",
      "date": "2026-11-06T17:05:34.000Z",
@@ -311,6 +302,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2118418587983528257"
+    },
+    {
+     "id": "2118387954041164277",
+     "text": "Build and Deploy World Models with NVIDIA Cosmos | Cosmos Labs",
+     "date": "2026-11-05T17:00:20.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2118387954041164277"
     }
    ]
   }
