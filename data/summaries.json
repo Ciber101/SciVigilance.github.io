@@ -44,9 +44,6 @@
  "https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/": {
   "s": "S-GAME’s Phantom Blade Zero launches today on GeForce NOW, offering a blend of martial arts and punk fantasy. This game, powered by Unreal Engine 5, features a warrior named Soul with a 66-day clock to solve a conspiracy. The launch also includes World of Warcraft: Forever, arriving Nov 4, with a launch-week access reward for GeForce NOW members."
  },
- "https://www.quantamagazine.org/a-new-map-of-empty-space-challenges-a-tranquil-picture-of-the-galaxy-20261030/": {
-  "s": "A new 3D map of the interstellar medium challenges the long-held view of space as empty. This fog of hydrogen and other neutral atoms, once thought to be a static backdrop, is now seen as unstable, contradicting theoretical models."
- },
  "https://spectrum.ieee.org/ai-robot-safety-cybersecurity-vicone": {
   "s": "A robot designed to slow for someone in a hallway can still respond as programmed if someone is in the way. This matters because robots designed to ensure safety can be misled by manipulated information, altering their intended actions."
  },
@@ -163,9 +160,6 @@
  "https://blogs.nvidia.com/blog/memory-full-stack-codesign/": {
   "s": "More performance from every byte comes from full-stack codesign, a strategy where NVIDIA designs all parts of AI systems, including GPUs, CPUs, and software, to optimize memory use. This matters because an AI system's memory hierarchy, from fastest to slowest, limits how much useful work each byte can do. Optimizing this hierarchy, from reducing what needs to be stored to placing data on the right tier, improves overall efficiency and speed."
  },
- "https://www.marktechpost.com/2026/11/05/together-ai-together-compiler-continual-compilation-ai-inference/": {
-  "s": "Inference processing needs continual compilation because traffic patterns and input lengths are dynamic and unpredictable. Different data can lead to significant performance differences, affecting how well models handle real-world data."
- },
  "https://huggingface.co/moonshotai/Kimi-K3.1-Pro": {
   "s": "Moonshot AI (Kimi) released Kimi-K3.1-Pro, a new image text to text model, on Hugging Face. This model offers significant improvements in coding, financial research, and other agentic capabilities, thanks to its large context window and advanced attention mechanisms."
  },
@@ -209,9 +203,6 @@
  "https://www.livescience.com/space/mars/gigantic-chasm-on-mars-10-times-longer-than-the-grand-canyon-is-still-tectonically-active-surprising-marsquake-reveals": {
   "s": "A powerful quake in Mars's largest canyon was caused by movement in a hidden fault line. This discovery matters as it suggests the canyon is still geologically active, contrary to previous beliefs."
  },
- "https://www.sciencedaily.com/releases/2026/11/261103003200.htm": {
-  "s": "Scientists have identified a beetle species, Prionus imbricornus, whose larvae grow up to five inches long and feed on blueberry roots, causing significant damage. This discovery is important as it allows blueberry growers to develop targeted pest control strategies, addressing a previously unidentified threat to their crops."
- },
  "https://www.sciencedaily.com/releases/2026/11/261105224547.htm": {
   "s": "The upcoming month features celestial events like meteor showers and a supermoon, offering skywatchers multiple chances to see meteors flash across the darkness. Additionally, Mars and Jupiter will appear unusually close together before sunrise, a sight not seen for decades."
  },
@@ -220,9 +211,6 @@
  },
  "https://www.sciencedaily.com/releases/2026/11/261104084017.htm": {
   "s": "A study shows that a drug used to prevent organ rejection could help protect people genetically predisposed to Alzheimer's. The drug improves brain blood flow in middle-aged adults with Alzheimer's risk genes, suggesting an early warning sign of Alzheimer's."
- },
- "https://www.space.com/space-exploration/asteroid-comet-missions/hera-probe-gets-1st-good-luck-at-asteroid-system-clobbered-by-nasas-dart-mission-space-photo-of-the-day-for-nov-6-2026": {
-  "s": "The Hera probe has captured its first detailed image of Didymos, an asteroid system that NASA's DART mission intentionally hit. This matters as it provides the first close-up view of an asteroid after it has been deliberately altered by human intervention."
  },
  "https://www.universetoday.com/articles/earths-gravity-may-have-kept-the-early-moons-volcanic-heart-beating": {
   "s": "The Moon, thought to be a static object since its creation, turned out to have volcanic materials formed only two billion years ago. This discrepancy challenges traditional theories that the Moon cooled rapidly after its formation. Researchers propose tidal heating as a mechanism that kept the Moon's interior hot enough to generate these volcanic materials two billion years after its violent birth."
@@ -265,10 +253,6 @@
  "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/": {
   "s": "A year ago, NVIDIA released its Aerial software, joining other open-source tools to help researchers develop next-generation 6G networks. Today, these tools are being used to build networks that improve robot and autonomous system connectivity and adapt to real-world changes."
  },
- "https://www.space.com/astronomy/exoplanets/giant-exoplanet-emerges-from-the-dark-when-the-james-webb-space-telescope-turns-out-the-starlight": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.livescience.com/animals/birds/perfectly-preserved-owl-fossil-from-47-million-years-ago-could-help-to-solve-a-major-evolutionary-mystery": {
   "s": "An owl fossil found in Germany, including what it had eaten, helped researchers to better understand when these nocturnal birds became dominant. This finding could solve a long-standing mystery in bird evolution."
  },
@@ -307,10 +291,6 @@
  },
  "https://phys.org/news/2026-11-european-forests-crises-necessarily.html": {
   "s": "European forests can act as both carbon sinks and vital habitats for species—but not simultaneously. This matters because focusing solely on carbon storage can lead to uniform forests with low biodiversity, worsening both climate and biodiversity crises."
- },
- "https://phys.org/news/2026-11-high-precision-timeline-ancient-magma.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/": {
   "s": "Chainalysis reported that hackers accessed credentials and tokens for all of its customers, revealing sensitive information including usernames, full names, and passwords. This breach could pose a significant threat to the security of the compromised users, as the stolen tokens could be used to access their cryptocurrency holdings."
@@ -357,7 +337,29 @@
  "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": {
   "s": "A mountainous formation named De Gerlache-Kocher massif was captured on the visible horizon of the Moon in a close-up image. This site, near the lunar south pole, is considered a potential landing site for future human missions due to its unique features."
  },
- "https://www.universetoday.com/articles/interstellar-visitor-3iatlas-shows-water-ice-behaves-the-same-across-alien-star-systems": {
-  "s": "The third interstellar visitor 3I/ATLAS was discovered in 2025, coinciding with the launch of the James Webb Space Telescope. The telescope's observations revealed that 3I/ATLAS contains water ice, but in a unique form: mixed with dark rocky minerals. This finding challenges previous assumptions and highlights the diversity of interstellar objects."
+ "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission": {
+  "s": "NASA is soliciting public participation for a mission to Titan, a moon of Saturn, by 2034. This mission will feature a flying vehicle, and sending names will be included in the spacecraft's memory."
+ },
+ "https://phys.org/news/2026-11-theory-older-universe-dark-energy.html": {
+  "s": "An alternative cosmological model suggesting the universe is 26.7 billion years old and does not require dark matter or dark energy has passed several key tests in cosmology. This model, CCC+TL, proposes that fundamental constants governing particle interactions could explain what is currently attributed to these mysterious dark components. The findings challenge the standard model and offer a new perspective on the universe's age and composition, addressing some of the ΛCDM model's limitations."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261104012305.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.universetoday.com/articles/our-suns-undiscovered-stellar-nemesis-is-still-out-there-says-physicist": {
+  "s": "The decades-old idea that a low-mass red dwarf star, dubbed Nemesis, periodically perturbs the Oort Cloud, remains the best explanation for periodicities in Earth's impact record. This explanation suggests Nemesis causes billions of comets to be deflected into the inner solar system, resulting in periodic extinctions."
+ },
+ "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/": {
+  "s": "Kinference, a new open-source inference control plane, integrates with Kubernetes and vLLM to manage inference tasks. Its key feature is declarative routing policies that optimize load balancing and tenant metrics, significantly reducing inference time. Researchers at Buoyant, the organization behind Kinference, have benchmarked it against plain Kubernetes, showing a substantial improvement in median time-to-first-token. This suggests Kinference's load balancing and policy-driven approach can significantly enhance performance in inference tasks."
+ },
+ "https://www.space.com/space-exploration/i-think-we-will-prevail-nasa-chief-jared-isaacman-on-artemis-china-and-the-new-moon-race-exclusive": {
+  "s": "Jared Isaacman, NASA's chief, expressed optimism about the agency's future in a 2026 interview. He suggested NASA will win the new moon race, mentioning China as a competitor."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261104012333.htm": {
+  "s": "Scientists have discovered that Europe's ancient forests were not as dense and dark as previously thought, instead featuring scattered trees, open woodlands, and colorful meadows. This new understanding challenges the long-held belief that dense forests were Europe's natural state, suggesting that modern reforestation efforts may be misguided."
+ },
+ "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/": {
+  "s": "Robot integration has enabled midmarket manufacturers to achieve high precision production, challenging the notion that such capabilities were exclusive to large corporations. This shift democratizes precision manufacturing, making it accessible to smaller operations, thus leveling the competitive landscape."
  }
 }
