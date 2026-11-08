@@ -1,6 +1,24 @@
 {
  "data": [
   {
+   "created_at": "2026-11-08T02:01:00.000Z",
+   "edit_history_tweet_ids": [
+    "2119248791488573830"
+   ],
+   "id": "2119248791488573830",
+   "text": "NASA funds Moon base projects: robotic deliveries, nuclear rover PROMISE, and infrastructure for sustainable lunar presence.\n\nhttps://t.co/hoCF6SHwyv\n\n#MoonBase #SpaceExploration",
+   "url": "https://x.com/SciVigil/status/2119248791488573830"
+  },
+  {
+   "created_at": "2026-11-07T23:01:42.000Z",
+   "edit_history_tweet_ids": [
+    "2119203671380729991"
+   ],
+   "id": "2119203671380729991",
+   "text": "Trapped ions demonstrate Aharonov-Bohm interference in quantum lattice gauge theory simulations!\n\nhttps://t.co/NIZrzGKUk3\n\n#QuantumSimulation #LatticeGaugeTheory",
+   "url": "https://x.com/SciVigil/status/2119203671380729991"
+  },
+  {
    "created_at": "2026-11-07T20:01:35.000Z",
    "edit_history_tweet_ids": [
     "2119158342870577563"
@@ -615,45 +633,11 @@
    },
    "text": "FDA seeks to revoke Tavneos approval over manipulated data, sparking debate over patient access.\n\nhttps://t.co/sZfeYy75xP\n\n#FDARegulation #DrugApproval",
    "url": "https://x.com/i/status/2117029271097299099"
-  },
-  {
-   "created_at": "2026-11-01T20:01:17.000Z",
-   "edit_history_tweet_ids": [
-    "2116983940968067126"
-   ],
-   "id": "2116983940968067126",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 6,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "No BK/JC polyomavirus DNA found in laryngeal cancer specimens—study suggests no role in disease progression.\n\nhttps://t.co/sH8Qt41uZq\n\n#Polyomavirus #CancerResearch",
-   "url": "https://x.com/i/status/2116983940968067126"
-  },
-  {
-   "created_at": "2026-11-01T17:01:09.000Z",
-   "edit_history_tweet_ids": [
-    "2116938609123356738"
-   ],
-   "id": "2116938609123356738",
-   "public_metrics": {
-    "bookmark_count": 0,
-    "impression_count": 17,
-    "like_count": 0,
-    "quote_count": 0,
-    "reply_count": 0,
-    "retweet_count": 0
-   },
-   "text": "New study reveals excess type I interferon disrupts lung development in trisomy 21, causing premature distalization.\n\nhttps://t.co/zWFp6K95UJ\n\n#Trisomy21 #LungDevelopment",
-   "url": "https://x.com/i/status/2116938609123356738"
   }
  ],
  "meta": {
   "result_count": 50,
-  "newest_id": "2119158342870577563",
-  "oldest_id": "2116938609123356738"
+  "newest_id": "2119248791488573830",
+  "oldest_id": "2117029271097299099"
  }
 }
