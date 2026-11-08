@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07T20:10:00-08:00",
- "updated_pt": "Nov 7, 2026, 8:10 PM PT",
+ "updated": "2026-11-08T02:05:00-08:00",
+ "updated_pt": "Nov 8, 2026, 2:05 AM PT",
  "stories": [
   {
    "title": "NASA awards Moon Base contracts, including a $10 billion lander framework and a nuclear-powered rover",
@@ -138,26 +138,31 @@
    }
   },
   {
-   "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
+   "title": "Google DeepMind's AI agents find two weaknesses in legacy 1024-bit RSA encryption",
    "tag": "AI",
-   "date": "2026-11-05",
+   "date": "2026-11-06",
    "paragraphs": [
-    "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
-    "According to the Google DeepMind post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
-    "Google says the model holds character, product, and style references—including faces, garments, packaging type, and brand colors—more consistently across camera moves, and supports short motion clips up to three seconds plus audio cues. Multi-turn edits can swap backgrounds, lighting, weather, or aspect ratio without restarting from scratch.",
-    "The company also cites more natural multi-speaker dialogue and lip-sync, steadier cinematic camera moves with fewer jump cuts, and an imperceptible SynthID watermark on outputs. Provisioned Throughput is available for enterprise use on Google Cloud."
+    "On Nov. 6, 2026, Google DeepMind announced research in which AI agents, working under human direction, found two weaknesses in legacy 1024-bit RSA encryption, Crypto Briefing reports. DeepMind's Pushmeet Kohli wrote that the results \"only affect obsolete 1024-bit RSA systems, and modern encryption protocols, which almost universally use 2048-bit or larger keys, remain secure,\" as quoted by WebProNews. The work was led by Dj Dvijotham and Abhradeep Thakurta with cryptographers Nadia Heninger (UC San Diego and Inria) and Emmanuel Thomé (Inria) among the co-authors.",
+    "The first working paper looks at digital signatures. WebProNews reports the authors found that once a caller can supply about half of a 1024-bit block (65 of its 128 bytes) to a signing device, the padding gives no more protection than raw, unpadded signing. For a smaller 32-byte digest such as SHA-256, Kohli wrote that a new algorithm improves on the previous best method by roughly 1,600 times at 1024 bits, by DeepMind's theoretical estimates; the paper says that result was not run at this size.",
+    "To test the approach, two AI agents reran a known 1024-bit signature attack first carried out by an academic team that spent 1,380 CPU core-years on it. Using the same algorithm, DeepMind's agents computed the first result in 391 core-years, about 3.5 times less CPU time, with roughly 20 short messages from a human researcher, according to WebProNews. One model supervised and audited the work while a second wrote and ran about 33,500 lines of new code.",
+    "The second paper describes a theoretical method, which the authors call a \"fan factory,\" for factoring many RSA keys of the same size at once. WebProNews reports that each additional 1024-bit key would cost about 30 times less than with Coppersmith's method, the best known approach since 1993. The proofs' algebra was machine-checked in Lean 4, and the authors say the method has not been implemented."
    ],
    "sources": [
     {
-     "name": "Google",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "date": "2026-11-05"
+     "name": "Crypto Briefing",
+     "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "WebProNews",
+     "url": "https://www.webpronews.com/deepmind-ai-agents-legacy-1024-bit-rsa-weaknesses/",
+     "date": "2026-11-07"
     }
    ],
    "image": {
-    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-    "credit": "Google",
-    "alt": "Gemini Omni 1.2 Flash announcement graphic"
+    "url": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06125306/library-google-deepmind-s-ai-agents-expose-two-weaknesses-in-leg-800x450.png",
+    "credit": "Google, via Crypto Briefing",
+    "alt": "Google Gemini logo"
    }
   }
  ],

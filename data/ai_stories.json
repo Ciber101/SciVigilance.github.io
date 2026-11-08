@@ -1,81 +1,89 @@
 {
- "updated": "2026-11-07T14:00:00-08:00",
- "updated_pt": "Nov 7, 2026, 2:00 PM PT",
+ "updated": "2026-11-08T02:05:00-08:00",
+ "updated_pt": "Nov 8, 2026, 2:05 AM PT",
  "stories": [
   {
-   "title": "Google DeepMind launches Gemini Omni 1.2 Flash with 15-second video clips",
-   "tag": "AI video",
-   "date": "2026-11-05",
+   "title": "Google DeepMind's AI agents find two weaknesses in legacy 1024-bit RSA encryption",
+   "tag": "AI",
+   "date": "2026-11-06",
    "paragraphs": [
-    "On Nov. 5, 2026, Google said Gemini Omni 1.2 Flash is generally available on the Gemini API and Google Cloud. Product manager Anish Nangia wrote that the update adds native video up to 15 seconds (up from 10 seconds on Omni 1.1), multi-turn conversational editing, stronger reference following, and a 30% price cut to $0.07 per second for 720p video.",
-    "According to the Google post, creators can draft at 360p or 720p, fix details with follow-up edits instead of regenerating whole clips, then upscale selected results to 1080p or 4K. Duration can be set in one-second steps from 3 to 15 seconds.",
-    "Google says the model holds character, product, and style references more consistently across camera moves, supports short motion clips up to three seconds plus audio cues, and applies an imperceptible SynthID watermark, with Provisioned Throughput available on Google Cloud."
+    "On Nov. 6, 2026, Google DeepMind announced research in which AI agents, working under human direction, found two weaknesses in legacy 1024-bit RSA encryption, Crypto Briefing reports. DeepMind's Pushmeet Kohli wrote that the results \"only affect obsolete 1024-bit RSA systems, and modern encryption protocols, which almost universally use 2048-bit or larger keys, remain secure,\" as quoted by WebProNews. The work was led by Dj Dvijotham and Abhradeep Thakurta with cryptographers Nadia Heninger (UC San Diego and Inria) and Emmanuel Thomé (Inria) among the co-authors.",
+    "The first working paper looks at digital signatures. WebProNews reports the authors found that once a caller can supply about half of a 1024-bit block (65 of its 128 bytes) to a signing device, the padding gives no more protection than raw, unpadded signing. For a smaller 32-byte digest such as SHA-256, Kohli wrote that a new algorithm improves on the previous best method by roughly 1,600 times at 1024 bits, by DeepMind's theoretical estimates; the paper says that result was not run at this size.",
+    "To test the approach, two AI agents reran a known 1024-bit signature attack first carried out by an academic team that spent 1,380 CPU core-years on it. Using the same algorithm, DeepMind's agents computed the first result in 391 core-years, about 3.5 times less CPU time, with roughly 20 short messages from a human researcher, according to WebProNews. One model supervised and audited the work while a second wrote and ran about 33,500 lines of new code.",
+    "The second paper describes a theoretical method, which the authors call a \"fan factory,\" for factoring many RSA keys of the same size at once. WebProNews reports that each additional 1024-bit key would cost about 30 times less than with Coppersmith's method, the best known approach since 1993. The proofs' algebra was machine-checked in Lean 4, and the authors say the method has not been implemented."
    ],
    "sources": [
     {
-     "name": "Google",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-     "date": "2026-11-05"
+     "name": "Crypto Briefing",
+     "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/",
+     "date": "2026-11-06"
+    },
+    {
+     "name": "WebProNews",
+     "url": "https://www.webpronews.com/deepmind-ai-agents-legacy-1024-bit-rsa-weaknesses/",
+     "date": "2026-11-07"
     }
    ],
    "image": {
-    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
-    "credit": "Google",
-    "alt": "Gemini Omni 1.2 Flash announcement graphic"
+    "url": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06125306/library-google-deepmind-s-ai-agents-expose-two-weaknesses-in-leg-800x450.png",
+    "credit": "Google, via Crypto Briefing",
+    "alt": "Google Gemini logo"
    }
   },
   {
-   "title": "Thinking Machines Lab launches Inkling 2 Small on Tinker with closed weights first",
-   "tag": "Frontier models",
-   "date": "2026-11-05",
+   "title": "OpenAI introduces BioBasicsBench to test AI agents on routine wet-lab analysis",
+   "tag": "AI benchmarks",
+   "date": "2026-11-06",
    "paragraphs": [
-    "Thinking Machines Lab said on Nov. 5, 2026, that Inkling 2 Small is a 594B-total / 17B-active MoE with image input, variable effort, and a score of 31 on the Artificial Analysis Intelligence Index, available on Tinker Playground for fine-tuning and sampling.",
-    "The lab says full weights will follow under Apache 2.0 after external safety testing, and that the model does not support audio. Training notes include native NVFP4 pretraining on GB300 racks and a single joint RL run with more than 17 million rollouts.",
-    "Company tables highlight coding and vision scores such as 86.3% on SWE-Bench Pro v2 (Hard) and 64.7% on PerceptionBench, while also listing weaker Terminal-Bench results; those figures are self-reported."
+    "On Nov. 6, 2026, OpenAI introduced BioBasicsBench, a benchmark developed with Ligo, a biotech company focused on enzyme design, to measure how well AI agents interpret raw experimental data. OpenAI says its 100 tasks test whether agents can read lab data, spot errors and recognize when the evidence cannot support a conclusion.",
+    "According to OpenAI, the tasks cover five areas of routine wet-lab work: protein methods, imaging and cytometry, quantification and assays, nucleic acid methods, and molecular cloning. Inputs include gel and blot images, colony plate photos, microscopy, sequencing files, instrument exports and bench videos. Ligo scientists wrote the tasks from their own experiments, and each task was reviewed by a second Ligo scientist, an outside PhD-level wet-lab scientist, and a final internal reviewer, as AI Affairs also reports.",
+    "OpenAI tested seven of its own models across 37 model and reasoning-effort settings, with five attempts per task. At the \"xhigh\" setting, GPT-6 Astra earned an average of 66.7% of the available credit, compared with 43.8% for GPT-5.6 Sol. These are OpenAI's own results.",
+    "OpenAI also lists where models still fall short, including letting an assumption override the experiment's controls, discounting observations that contradict a preferred interpretation, and overcounting colonies on a plate by about 12%. The company says tracking these abilities will also help it understand their implications for biosafety and biosecurity."
    ],
    "sources": [
     {
-     "name": "Thinking Machines Lab",
-     "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-     "date": "2026-11-05"
+     "name": "OpenAI",
+     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+     "date": "2026-11-06"
     },
     {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
-     "date": "2026-11-05"
+     "name": "AI Affairs",
+     "url": "https://www.aiaffairs.com/technology/openai-biobasicsbench-ai-agents-wet-lab-tasks/",
+     "date": "2026-11-07"
     }
    ],
    "image": {
-    "url": "https://thinkingmachines.ai/news/inkling-2-small/images/cover-social.png",
-    "credit": "Thinking Machines Lab",
-    "alt": "Inkling 2 Small announcement graphic"
+    "url": "https://images.ctfassets.net/kftzwdyauwt9/3lNbSQIg31Dg9aBrUjuQMI/131fea8d534499ca30f7a9f880269d74/biobasicsbench-social.png?w=1600&h=900&fit=fill",
+    "credit": "OpenAI",
+    "alt": "OpenAI BioBasicsBench announcement graphic"
    }
   },
   {
-   "title": "Baidu releases ERNIE 5.5 Flash Base, a 280B MoE with 14B active",
-   "tag": "Frontier models",
-   "date": "2026-11-05",
+   "title": "Nous Research releases Arete-27B, an open-weight Qwen fine-tune aimed at removing state propaganda",
+   "tag": "Open-weight models",
+   "date": "2026-11-07",
    "paragraphs": [
-    "Baidu's Nov. 5, 2026 ERNIE blog says ERNIE-5.5-Flash-Base is a sparse MoE language model with 280B total parameters and 14B activated per token, pre-trained from scratch on 33.5T tokens with up to 128K training context and 1M-token fine-tuning and inference context. The released checkpoint stops at the end of pre-training, before mid- or post-training.",
-    "According to Baidu, the model has 43 layers and a 4096 hidden size, mixes Heavily Compressed Attention with Multi-head Latent Attention plus sparse attention, and uses Multi-Router Latent MoE with 512 routed experts (top-10) plus one shared expert. Weights are posted on Hugging Face and ModelScope in FP8 and BF16 under Baidu's ERNIE 5.5 Flash Base license.",
-    "In Baidu's unified evaluation against DeepSeek-V4-Flash-Base, Hy3-preview-Base, and MiMo-V2.5-Base, the company reports leading scores such as MMLU-Pro 78.4 and HumanEval+ 82.3, while trailing on some long-context tasks such as HELMET-Rerank; MarkTechPost's coverage matches those self-reported figures and notes serving via SGLang and vLLM."
+    "Nous Research has released Arete-27B, a supervised fine-tune of Alibaba's Qwen3.8-27B, MarkTechPost reported on Nov. 7, 2026. On its model card, Nous says it observed refusals, deflections and CCP-framed answers on politically sensitive topics in the base model and post-trained it to change those behaviors. MarkTechPost reports the license is Apache 2.0, matching the base model.",
+    "Nous says it used supervised fine-tuning only, with no reinforcement learning, preference optimization or architecture changes. The teacher model was Inkling, an open model from Thinking Machines, chosen in part to avoid terms-of-use limits on distillation. Training covered about 52.8 million tokens at 64k context over two epochs and 1,202 steps.",
+    "On Nous's own 803-prompt evaluation, graded by an LLM judge, the share of answers containing propaganda fell from 22% for Qwen3.8-27B to 0.9% for Arete-27B, and the average fact score rose from 2.32 to 2.98 out of 5. The largest change was in freedom of expression, where the propaganda rate fell from 60% to 1%. Nous says the improvement held in all seven value categories it tested.",
+    "On general capability, Nous reports Hermes Bench at 65.60% versus 65.77% for the base model, which it calls noise, and Terminal-Bench-2.1 at 70% versus 67% in its own setup, adding that it does not take credit for that gain. MarkTechPost reports community GGUF quantized versions run in llama.cpp, LM Studio and Ollama, with a 17.20 GB Q4_K_M build sized for 24 GB consumer GPUs."
    ],
    "sources": [
     {
-     "name": "Baidu ERNIE",
-     "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-     "date": "2026-11-05"
+     "name": "Nous Research (Hugging Face)",
+     "url": "https://huggingface.co/NousResearch/Arete-27B",
+     "date": "2026-11-07"
     },
     {
      "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
-     "date": "2026-11-05"
+     "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+     "date": "2026-11-07"
     }
    ],
    "image": {
-    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/banner-center.png",
-    "credit": "Baidu ERNIE",
-    "alt": "ERNIE 5.5 Flash Base announcement banner"
+    "url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/NousResearch/Arete-27B.png",
+    "credit": "Hugging Face",
+    "alt": "Arete-27B model page card on Hugging Face"
    }
   }
  ]
