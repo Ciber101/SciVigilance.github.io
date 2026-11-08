@@ -366,9 +366,22 @@
   }
  ],
  "date": "2026-11-07",
- "updated": "2026-11-07T21:19+00:00",
+ "updated": "2026-11-08T03:20+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
+  {
+   "id": "nasa-awards-moon-base-transportation-technology-science-proj",
+   "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+   "summary": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities.",
+   "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg?w=1936",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-07",
+   "ts": "2026-11-07T22:47:03+00:00"
+  },
   {
    "id": "a-mysterious-asteroid-is-accelerating-in-space-and-we-re-run",
    "title": "A Mysterious Asteroid Is Accelerating in Space, And We're Running Out of Explanations",
@@ -383,31 +396,18 @@
    "ts": "2026-11-07T21:00:00+00:00"
   },
   {
-   "id": "nasa-seeks-next-generation-of-explorers-to-join-astronaut-co",
-   "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
-   "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds…",
-   "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-07",
-   "ts": "2026-11-07T18:11:57+00:00"
-  },
-  {
-   "id": "ai-google-releases-gemini-omni-1-2-flash-15-second-ai-video",
-   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-   "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.",
-   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+   "id": "ai-how-to-run-nvidia-dory-4b-with-llama-cpp-loop-by-loop-gu",
+   "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
+   "summary": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.",
+   "url": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-11-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-1-1-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-11-05",
-   "ts": "2026-11-05T22:58:21+00:00",
-   "rank": 0
+   "date": "2026-11-07",
+   "ts": "2026-11-07T19:22:44+00:00",
+   "rank": 1
   },
   {
    "id": "two-paths-one-flux-trapped-ions-simulate-aharonov-bohm-inter",
@@ -462,17 +462,17 @@
    "ts": "2026-11-07T10:00:03+00:00"
   },
   {
-   "id": "ai-how-to-run-nvidia-dory-4b-with-llama-cpp-loop-by-loop-gu",
-   "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
-   "summary": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-loop compute costs, test memory caching, and run paired evaluations.",
-   "url": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
+   "id": "ai-buoyant-releases-kinference-an-open-source-inference-con",
+   "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
+   "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in…",
+   "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
    "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-1-1-scaled.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-14-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-11-07",
-   "ts": "2026-11-07T19:22:44+00:00",
+   "ts": "2026-11-07T08:16:33+00:00",
    "rank": 1
   },
   {
@@ -528,23 +528,23 @@
    "ts": "2026-11-06T15:48:54+00:00"
   },
   {
-   "id": "ai-buoyant-releases-kinference-an-open-source-inference-con",
-   "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-   "summary": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware load balancing and per-tenant metrics, and cut median TTFT 95% in…",
-   "url": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-14-scaled.png",
+   "id": "ai-how-nvidia-open-source-tools-are-helping-researchers-bui",
+   "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+   "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development.",
+   "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-8.30.25-PM-scaled.png",
    "tags": [
     "AI"
    ],
-   "date": "2026-11-07",
-   "ts": "2026-11-07T08:16:33+00:00",
+   "date": "2026-11-06",
+   "ts": "2026-11-06T16:00:35+00:00",
    "rank": 1
   },
   {
    "id": "flesh-eating-screwworm-is-spreading-in-the-us-threatening-li",
    "title": "Flesh-eating screwworm is spreading in the US, threatening livestock and wildlife – hunters can be the first line of defense",
-   "summary": "Over 100 screwworm cases have appeared in US animals in 2026, including in elk. Here’s how America’s 11.5 million hunters can help contain the spread.",
+   "summary": "Over 120 screwworm cases have appeared in US animals in 2026, including in elk. Here’s how America’s 11.5 million hunters can help contain the spread.",
    "url": "https://theconversation.com/flesh-eating-screwworm-is-spreading-in-the-us-threatening-livestock-and-wildlife-hunters-can-be-the-first-line-of-defense-292891",
    "source": "The Conversation",
    "image": "https://images.theconversation.com/files/769437/original/file-20261101-64-1co8ev.jpg?ixlib=rb-4.1.1&amp;rect=1%2C0%2C2338%2C1558&amp;q=45&amp;auto=format&amp;w=1050&amp;h=700&amp;fit=crop",
@@ -553,6 +553,19 @@
    ],
    "date": "2026-11-06",
    "ts": "2026-11-06T13:11:46+00:00"
+  },
+  {
+   "id": "nasa-seeks-next-generation-of-explorers-to-join-astronaut-co",
+   "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+   "summary": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds…",
+   "url": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+   "source": "NASA",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/jsc2025e076292large.jpg?w=1920",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-07",
+   "ts": "2026-11-07T18:11:57+00:00"
   },
   {
    "id": "heavy-rain-can-more-than-double-glacier-speeds-in-alaska",
@@ -592,19 +605,6 @@
    ],
    "date": "2026-11-07",
    "ts": "2026-11-07T09:44:48+00:00"
-  },
-  {
-   "id": "apod-2026-november-7-de-gerlache-kocher-massif",
-   "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-   "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
-   "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-   "source": "NASA",
-   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-07",
-   "ts": "2026-11-07T05:05:00+00:00"
   },
   {
    "id": "life-is-too-brief-to-leave-this-planet-live-science-readers",
@@ -711,6 +711,19 @@
    "ts": "2026-11-07T11:00:00+00:00"
   },
   {
+   "id": "apod-2026-november-7-de-gerlache-kocher-massif",
+   "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
+   "summary": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or…",
+   "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/cds/apod/apod/2026/november/GerlacheKocherMassif_Sans.jpg?w=1500&#038;h=1022&#038;fit=clip&#038;crop=faces%2Cfocalpoint",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-07",
+   "ts": "2026-11-07T05:05:00+00:00"
+  },
+  {
    "id": "50-of-long-covid-patients-show-improvement-in-3-years-but-th",
    "title": "50% of long COVID patients show improvement in 3 years — but the condition tends to linger in those with this subtype",
    "summary": "About half of people with long COVID see meaningful improvement in their symptoms after three years, a new study found.",
@@ -735,19 +748,6 @@
    ],
    "date": "2026-11-06",
    "ts": "2026-11-06T16:35:09+00:00"
-  },
-  {
-   "id": "m30-s-sparkling-stars",
-   "title": "M30’s Sparkling Stars",
-   "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who…",
-   "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-   "source": "NASA",
-   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-06",
-   "ts": "2026-11-06T16:23:41+00:00"
   },
   {
    "id": "scientists-just-found-dinosaur-blood-that-survived-115-milli",
@@ -841,17 +841,17 @@
    "ts": "2026-11-06T17:00:00+00:00"
   },
   {
-   "id": "supercomputing-tech-demo-schedule",
-   "title": "Supercomputing Tech Demo Schedule",
-   "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below.",
-   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+   "id": "m30-s-sparkling-stars",
+   "title": "M30’s Sparkling Stars",
+   "summary": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who…",
+   "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
    "source": "NASA",
-   "image": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+   "image": "https://www.nasa.gov/wp-content/uploads/2026/11/hubble-m30-potm2610a.jpg?w=2048",
    "tags": [
     "Space"
    ],
    "date": "2026-11-06",
-   "ts": "2026-11-06T16:03:52+00:00"
+   "ts": "2026-11-06T16:23:41+00:00"
   },
   {
    "id": "earth-s-gravity-may-have-kept-the-early-moon-s-volcanic-hear",
@@ -943,6 +943,19 @@
    ],
    "date": "2026-11-06",
    "ts": "2026-11-06T21:40:01+00:00"
+  },
+  {
+   "id": "supercomputing-tech-demo-schedule",
+   "title": "Supercomputing Tech Demo Schedule",
+   "summary": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below.",
+   "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+   "source": "NASA",
+   "image": "https://assets.science.nasa.gov/content/dam/science/astro/programs/cosmic-origins/images/misc/NASA-Meatball-Feature5.png/jcr:content/renditions/cq5dam.web.1280.1280.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-06",
+   "ts": "2026-11-06T16:03:52+00:00"
   },
   {
    "id": "big-bang-fix-puts-voyager-across-the-one-light-day-mark",
@@ -1177,36 +1190,9 @@
    ],
    "date": "2026-11-05",
    "ts": "2026-11-05T16:12:11+00:00"
-  },
-  {
-   "id": "nasa-is-racing-against-time-to-save-the-hubble-space-telesco",
-   "title": "NASA is racing against time to save the Hubble Space Telescope",
-   "summary": "NASA is exploring a daring plan to save the legendary Hubble Space Telescope from its eventual fiery plunge into Earth's atmosphere.",
-   "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
-   "source": "ScienceDaily",
-   "image": "https://www.sciencedaily.com/images/1920/hubble-space-telescope-over-earth.webp",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-04",
-   "ts": "2026-11-04T11:22:33+00:00"
   }
  ],
  "ai": [
-  {
-   "id": "ai-google-releases-gemini-omni-1-2-flash-15-second-ai-video",
-   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-   "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.",
-   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-11-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-05",
-   "ts": "2026-11-05T22:58:21+00:00",
-   "rank": 0
-  },
   {
    "id": "ai-how-to-run-nvidia-dory-4b-with-llama-cpp-loop-by-loop-gu",
    "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
@@ -1264,20 +1250,6 @@
    "rank": 1
   },
   {
-   "id": "ai-build-enterprise-agents-workflows-apps-in-mistral-studio",
-   "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
-   "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
-   "url": "https://mistral.ai/news/build-with-studio/",
-   "source": "Mistral AI",
-   "image": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-05",
-   "ts": "2026-11-05T00:00:00+00:00",
-   "rank": 1
-  },
-  {
    "id": "ai-chainalysis-says-hackers-stole-credentials-and-tokens-fo",
    "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
    "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
@@ -1320,6 +1292,20 @@
    "rank": 2
   },
   {
+   "id": "ai-google-releases-gemini-omni-1-2-flash-15-second-ai-video",
+   "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+   "summary": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% price cut to $0.07 per second of 720p video.",
+   "url": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+   "source": "MarkTechPost",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-10001-11-scaled.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-05",
+   "ts": "2026-11-05T22:58:21+00:00",
+   "rank": 2
+  },
+  {
    "id": "ai-vera-delivers-the-best-of-both-worlds-highest-throughput",
    "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
    "summary": "AI agents do more than generate answers. They search for information, query databases, write and test code and take action.",
@@ -1359,6 +1345,20 @@
    ],
    "date": "2026-11-05",
    "ts": "2026-11-05T16:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-build-enterprise-agents-workflows-apps-in-mistral-studio",
+   "title": "Build Enterprise Agents, Workflows & Apps in Mistral Studio",
+   "summary": "Build and deploy enterprise agents, workflows and apps faster with Mistral Studio and Le Chonk full control over your models, data and infrastructure.",
+   "url": "https://mistral.ai/news/build-with-studio/",
+   "source": "Mistral AI",
+   "image": "https://mistral.ai/cms-media/api/media/file/Studio%20V2%20-%20smal%20thumbnail.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-05",
+   "ts": "2026-11-05T00:00:00+00:00",
    "rank": 2
   },
   {
