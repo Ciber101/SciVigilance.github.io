@@ -168,18 +168,11 @@
  "https://robohub.org/robots-in-society-business-and-culture-october-2026/": {
   "s": "A biohybrid robot, stimulated by an electrical impulse, pushes off from the ground. The researchers tested whether the robot's approach direction affects how fast it seems to move, finding that participants perceived it as faster when approaching from behind. This study matters as it explores visual factors influencing human perception of robots, potentially impacting how people interact with and perceive AI in society."
  },
- "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/": {
-  "s": "Google released Gemini Omni 1.2 Flash, a video editing model offering 15-second clips at $0.07 per second, 30% cheaper than its predecessor. This matters because the new model reduces costs and offers more flexible editing options, appealing to creators and advertisers looking to produce quick content at lower prices."
- },
  "https://www.therobotreport.com/how-did-agility-robotics-perform-on-its-first-day-on-the-stock-market/": {
   "s": "Agility Robotics, a company that develops humanoid robots, began trading on the Nasdaq at $11.26 per share, but ended the first day at $11.49 per share, just 2% above its starting price. This performance was better than expected, given that tech stocks had a volatile day."
  },
  "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/": {
   "s": "Serve Robotics launches a new business offering connectivity and data tools to other companies building robots. This move aims to capitalize on the technology the company has developed for its own robots, expanding the reach of its AI technology beyond its autonomous delivery operations."
- },
- "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.livescience.com/space/scientists-removed-the-glare-from-a-james-webb-telescope-image-and-unmasked-a-hidden-world": {
   "s": "Scientists applied machine learning to James Webb telescope images to reduce starlight, revealing a hidden planet. This technique will help find more exoplanets."
@@ -309,9 +302,6 @@
  "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/": {
   "s": "Aaron Nathan, founder of Point One Navigation, discussed how precise GPS technology is making robots more capable. This matters because it enables robots to navigate, coordinate, and operate across real-world environments, enhancing their usefulness in various fields."
  },
- "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/": {
-  "s": "A mountainous formation named De Gerlache-Kocher massif was captured on the visible horizon of the Moon in a close-up image. This site, near the lunar south pole, is considered a potential landing site for future human missions due to its unique features."
- },
  "https://www.space.com/space-exploration/launches-spacecraft/send-your-name-to-saturns-moon-titan-with-nasas-upcoming-dragonfly-mission": {
   "s": "NASA is soliciting public participation for a mission to Titan, a moon of Saturn, by 2034. This mission will feature a flying vehicle, and sending names will be included in the spacecraft's memory."
  },
@@ -337,9 +327,6 @@
  "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/": {
   "s": "Robot integration has enabled midmarket manufacturers to achieve high precision production, challenging the notion that such capabilities were exclusive to large corporations. This shift democratizes precision manufacturing, making it accessible to smaller operations, thus leveling the competitive landscape."
  },
- "https://www.sciencealert.com/a-mysterious-asteroid-is-accelerating-in-space-and-were-running-out-of-explanations": {
-  "s": "KY26, an asteroid, is accelerating in space unlike typical asteroids, behaving more like a comet. Scientists propose KY26 might be a dark comet, one that doesn't produce visible tails but still has icy composition."
- },
  "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/": {
   "s": "NASA is seeking explorers to join the next class of astronauts, preparing for missions to the Moon and beyond. Applications are open as the agency returns to the Moon and builds a Moon Base, training candidates to operate on the lunar surface and prepare for Mars."
  },
@@ -362,5 +349,20 @@
  },
  "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/": {
   "s": "NASA awarded projects and technologies to advance its Moon Base exploration and infrastructure. The investments will support robotic deliveries, a nuclear rover, and surface infrastructure, helping the agency build a sustained presence on the Moon's South Pole. The initiative aims to establish the first elements of the Moon Base on the lunar surface, preparing for future astronaut missions."
+ },
+ "https://www.sciencealert.com/meet-the-hell-chicken-a-dinosaur-with-an-extremely-rare-type-of-diet": {
+  "s": "Meet Infernogallus jamesi, a dinosaur with a diet of fruit, named the 'hell chicken'. This discovery matters because it reveals a rare specialization among dinosaurs, suggesting unique adaptations for eating soft, mushy foods like fruit."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/": {
+  "s": "The sky featured a major fireball meteor in this mountaintop view, captured by chance as it flashed across the northern horizon. Sightings of this meteor were widely reported, making it one of the most reported events for Earth."
+ },
+ "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/": {
+  "s": "MoE routing strategies direct which experts process each token in a model, deciding which of many experts handle a given input. This guide outlines various methods, like Mixtral's top-2 softmax, which selects the two best experts for each token. Such routing is crucial for managing model complexity and computational costs, as it limits the number of experts active at any time, reducing the need for extensive computations."
+ },
+ "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/": {
+  "s": "Nous Research released Arete-27B, an improved version of Qwen3.8-27B, reducing propaganda answers from 22% to 0.9% on 803 prompts. This matters because it shows significant improvement in model behavior on sensitive topics, aligning with the organization's stated goal of reducing propaganda."
+ },
+ "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/": {
+  "s": "Gemini Omni 1.2 Flash introduces 15-second video generation and editing capabilities, offering faster and more cost-effective video creation. This update makes video production more accessible and affordable, especially for businesses needing to scale video content."
  }
 }
