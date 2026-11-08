@@ -1,7 +1,30 @@
 {
- "updated": "2026-11-06T10:45:00-08:00",
- "updated_pt": "Nov 6, 2026, 10:45 AM PT",
+ "updated": "2026-11-07T20:10:00-08:00",
+ "updated_pt": "Nov 7, 2026, 8:10 PM PT",
  "stories": [
+  {
+   "title": "NASA awards Moon Base contracts, including a $10 billion lander framework and a nuclear-powered rover",
+   "tag": "Space",
+   "date": "2026-11-07",
+   "paragraphs": [
+    "NASA announced a set of Moon Base awards and mission updates on Saturday, Nov. 7, 2026, at the MAX POWER aerospace expo and air show at Kennedy Space Center in Florida. According to the agency's release, the investments cover commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure for a sustained presence at the Moon's South Pole.",
+    "For cargo landers, NASA selected eight companies for its CLPS 2 contract: Blue Origin, Firefly Aerospace, Intuitive Machines, ispace-U.S., Lockheed Martin Space, Northrop Grumman Space Systems, SpaceX and Voyager Technologies. NASA describes CLPS 2 as a 10-year, multiple-award contract with a combined maximum value of $10 billion, and says it raised the current CLPS contract from $2.6 billion to $4.2 billion.",
+    "NASA says PROMISE, short for Polar Rover for Observation, Mapping, and In-Situ Exploration, is a six-wheeled rover that JPL will build from spare flight components and engineering test models for the Curiosity and Perseverance Mars rovers. It will carry a drill to sample regolith from about 3 feet (1 meter) down, and NASA is targeting a late-2028 launch for an 18-month mission. Blue Origin received a $94 million base contract, with a $140 million option, to deliver the rover on its Mark 1 lander.",
+    "The agency also awarded six launch and transport task orders worth about $1.3 billion combined to Arrow Science and Technology, Blue Origin and Impulse Space, and picked SpaceX to launch communications satellites to cislunar space on a Starship in 2028. \"We are building the Moon Base mission by mission,\" NASA Administrator Jared Isaacman said in the release."
+   ],
+   "sources": [
+    {
+     "name": "NASA",
+     "url": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+     "date": "2026-11-07"
+    }
+   ],
+   "image": {
+    "url": "https://www.nasa.gov/wp-content/uploads/2026/11/moon-base-artists-concept.jpg",
+    "credit": "NASA (artist's concept)",
+    "alt": "Artist's concept of living and working at Moon Base"
+   }
+  },
   {
    "title": "NASA's Swift Observatory burns up after nearly 22 years tracking cosmic explosions",
    "tag": "Space",
@@ -135,34 +158,6 @@
     "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.width-1300.png",
     "credit": "Google",
     "alt": "Gemini Omni 1.2 Flash announcement graphic"
-   }
-  },
-  {
-   "title": "OpenAI launches Images 2.6 with GPT-Image-2.6 Flare and Sunburst",
-   "tag": "AI",
-   "date": "2026-11-04",
-   "paragraphs": [
-    "On Nov. 4, 2026, OpenAI's community announcement said ChatGPT Images 2.6 plus GPT-Image-2.6 Flare and Sunburst are coming to the API with 50% faster image generation, GIF creation, reusable reference images, image markup, and SVG exports.",
-    "According to that announcement and MarkTechPost's launch coverage, Flare is the faster API model—generating images in as little as six seconds—while Sunburst targets higher-quality generation and stronger consistency across edits.",
-    "MarkTechPost, summarizing OpenAI's Images 2.6 launch materials, reports that Images 2.6 is available in ChatGPT, Codex, and the API; that a new complexity parameter offers low, medium, and high planning levels (default high); and that OpenAI says people now create more than 4 billion images per week across ChatGPT and the API.",
-    "MarkTechPost lists token pricing for Flare and Sunburst as identical on OpenAI's model pages and notes GIF and SVG output through the Image API. The community post links readers to the full release announcement, model cards, and pricing."
-   ],
-   "sources": [
-    {
-     "name": "OpenAI Community",
-     "url": "https://community.openai.com/t/images-upgraded-introducing-chatgpt-images-2-6/1412901",
-     "date": "2026-11-04"
-    },
-    {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/04/openai-gpt-image-2-6-flare-sunburst/",
-     "date": "2026-11-04"
-    }
-   ],
-   "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/6EYvL2y5CLXFr8E1pqoVUK/064e0d73b10087e20967b69ef0a06678/images-2-6-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI Images 2.6 announcement graphic"
    }
   }
  ],
