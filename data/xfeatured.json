@@ -8,7 +8,7 @@
    "posts": [
     {
      "id": "2118795218099253606",
-     "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating and comparing the severity of cyber jailbreaks, including the capabilities they unlock and how readily they can be used. Shared approaches like this can help the AI and security communities build a clearer evidence base and prioritize improvements to safeguards.\"  - OpenAI's Sasha Baker, Head of National Security Policy",
+     "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating",
      "date": "2026-11-06T19:58:39.000Z",
      "quoted": false,
      "image": null,
@@ -17,7 +17,7 @@
     },
     {
      "id": "2118782708767965238",
-     "text": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nDeveloped with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify errors, and recognize when the evidence doesn’t support a conclusion.\n\nAccelerating biological research starts with getting the everyday work right. BioBasicsBench shows where models need to improve, and helps us track what those gains mean for scientific progress, biosafety, and biosecurity.",
+     "text": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nDeveloped with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify",
      "date": "2026-11-06T19:08:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWdtpRua4AAuNL-.jpg",
@@ -26,7 +26,7 @@
     },
     {
      "id": "2118390190246879554",
-     "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and Cisco—alongside our own at OpenAI—are already putting it to work.\n\nGPT-6 Cyber is available to select Daybreak Red customers and we are expanding access over time.",
+     "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and",
      "date": "2026-11-05T17:09:13.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg",
@@ -219,7 +219,7 @@
     },
     {
      "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding & 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!\n\nArgon is rolling out today to Google Ultra and Pro subscribers in the @GeminiApp and Search, and Ultra subscribers in @antigravity! More info & full availability in the blog:",
+     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
      "date": "2026-10-13T16:12:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
@@ -244,17 +244,8 @@
      "url": "https://x.com/karpathy/status/2119114537442189652"
     },
     {
-     "id": "2116957135661945283",
-     "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n- Excellent",
-     "date": "2026-11-01T18:14:46.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWDnuuCaIAA__wa.jpg",
-     "video": null,
-     "url": "https://x.com/karpathy/status/2116957135661945283"
-    },
-    {
      "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come",
+     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
      "date": "2026-10-11T19:12:37.000Z",
      "quoted": true,
      "image": null,
@@ -312,15 +303,6 @@
      "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
      "video": null,
      "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
-    },
-    {
-     "id": "2108549075218120949",
-     "text": "🚀 Meet Qwen-Image-2.1-Turbo — create and edit images in just 8 denoising steps! Open weights now available!\n\nBuilt on Qwen-Image-2.1, Turbo is an accelerated checkpoint on the same 7B visual generation architecture. \n\nFewer steps does not mean lower quality: it still generates",
-     "date": "2026-10-09T13:24:09.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2108549075218120949"
     }
    ]
   },
@@ -332,7 +314,7 @@
    "posts": [
     {
      "id": "2118744719870066936",
-     "text": "Transcribing speech is one thing. Knowing when someone is done speaking is another.\n\n🎙 Voxtral 3’s end-of-turn detection helps developers identify when a user has finished speaking, making it easier to build responsive voice interactions without relying on science alone.\n\n See it in action ⬇️",
+     "text": "Transcribing speech is one thing. Knowing when someone is done speaking is another.\n\n🎙 Voxtral 3’s end-of-turn detection helps developers identify when a user has finished speaking, making it easier to build responsive voice interactions without relying on science alone.\n\n See",
      "date": "2026-11-06T16:38:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118623280009449472/img/Xvi2kHnY-ThT4v3-.jpg",
@@ -376,7 +358,7 @@
    "posts": [
     {
      "id": "2118768974779634084",
-     "text": "Today we're bringing specialized models trained using Muse Wonder to @Muse and Meta AI, giving users access to some of Muse Wonder's frontier capabilities for complex tasks at work and in everyday life.\n\nThese specialized models include Muse Wonder's Active Memory and Active",
+     "text": "Today we're bringing specialized models trained using Muse Wonder to @Muse and Meta AI, giving users access to some of Muse Wonder's frontier capabilities for complex tasks at work and in everyday life.\n\nThese specialized models include Muse Wonder's Active Memory and Active Focus, helping them stay aligned with your goals as tasks unfold:\n\n→ Active Memory helps recognize when earlier information matters and distinguish what's still relevant from what's become stale\n\n→ Active Focus helps recover from setbacks or find alternatives when constraints change\n\nIn Muse, the improved models show a 2.4x reduction in forgetting information critical to your goals and a 67% improvement in getting unstuck as constraints evolve. That means less repeating yourself and fewer dead ends when plans change.\n\nIn Meta AI, these improvements help it break complex problems into steps, ask sharper follow-up questions and adapt when you change direction.\n\nRead more on our research blog:",
      "date": "2026-11-06T18:14:23.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWdgfSKbEAAV_7y.jpg",
@@ -385,7 +367,7 @@
     },
     {
      "id": "2118412135340572850",
-     "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal",
+     "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents.\n\nLearn more about Muse Realtime Avatar on our research blog:",
      "date": "2026-11-05T18:36:25.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118411815852056576/img/6UaZfCrU4eOkGNWu.jpg",
@@ -394,7 +376,7 @@
     },
     {
      "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse",
+     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
      "date": "2026-10-28T17:08:33.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
@@ -403,7 +385,7 @@
     },
     {
      "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and",
+     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
      "date": "2026-10-19T19:33:10.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
@@ -508,7 +490,7 @@
    "posts": [
     {
      "id": "2118406227533435391",
-     "text": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app.\n\nPlus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long,",
+     "text": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app.\n\nPlus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, giving you more room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\n\nLearn more about Omni 1.2 Flash in our blog:",
      "date": "2026-11-05T18:12:57.000Z",
      "quoted": true,
      "image": null,
@@ -738,6 +720,23 @@
    ]
   },
   {
+   "handle": "Apptronik",
+   "name": "Apptronik",
+   "group": "robots",
+   "avatar": "img/x-robots-apptronik.jpg",
+   "posts": [
+    {
+     "id": "2117715446103146722",
+     "text": "Are you attending #CORL2026? The #Apptronik team is looking forward to connecting with top talent in robotics and embodied AI at our “Fueling the Future: Apptronik CoRL Networking Lunch” on Wednesday 11/11 in Austin!\n\nWhether you’re curious about what we've been building,",
+     "date": "2026-11-03T20:28:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HWOisP2WkAAIKU2.jpg",
+     "video": null,
+     "url": "https://x.com/Apptronik/status/2117715446103146722"
+    }
+   ]
+  },
+  {
    "handle": "UnitreeRobotics",
    "name": "Unitree",
    "group": "robots",
@@ -848,6 +847,15 @@
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
     {
+     "id": "2118838164567822624",
+     "text": "More NVIDIA models and tools are coming to robot learning with LeRobot 0.7. 🤖\n\nNew integrations include:\n•Cosmos 3 and Long-WAM for world action modeling.\n\n• RoboLab on NVIDIA Isaac Lab for evaluating policies across 120 tabletop tasks.\n\n•SONIC integration for humanoid",
+     "date": "2026-11-06T22:49:19.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2118838164567822624"
+    },
+    {
      "id": "2118751657169187110",
      "text": "Scale up testing for complex robot manipulation. 🤖\n\nRoboDojo is now available on NVIDIA Isaac Lab-Arena, bringing challenging bimanual tasks like precision insertion, folding, tool use, and multi-step manipulation to scalable evaluation in simulation.",
      "date": "2026-11-06T17:05:34.000Z",
@@ -873,15 +881,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118013116768251904/img/mBiZoH9KqBZcZGNz.jpg",
      "video": "https://video.twimg.com/amplify_video/2118013116768251904/vid/avc1/576x1024/0UVTlpA65YpPwDVe.mp4?tag=16",
      "url": "https://x.com/NVIDIARobotics/status/2118013144677195871"
-    },
-    {
-     "id": "2115924565817786666",
-     "text": "Robot skills start with the worlds they learn in. 🌍\n\nWatch frontier AI agents use NVIDIA Isaac tools to build simulation worlds and train and evaluate robot skills. Then see how Agile ONE SN helps developers bring new skills into the real world.",
-     "date": "2026-10-29T21:51:43.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2115924508825542656/img/xEa_whh7ypx8aANB.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115924508825542656/vid/avc1/1280x720/z_K05pQE6lczRu0B.mp4?tag=16",
-     "url": "https://x.com/NVIDIARobotics/status/2115924565817786666"
     }
    ]
   },
@@ -980,6 +979,15 @@
    "avatar": "img/x-nasa.jpg",
    "posts": [
     {
+     "id": "2119441731846639971",
+     "text": "American ambition at full throttle. 🇺🇸\n\nAn  incredible first day of MAX POWER at @NASAKennedy with @airdotshow, and  we’re not done yet. This is just a taste of what’s ahead with  @capeweek_us.\n\nMore power. More inspiration. Let’s go!",
+     "date": "2026-11-08T14:47:40.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2119441256052932608/img/eUdGd7NaWSonBfvm.jpg",
+     "video": "https://video.twimg.com/amplify_video/2119441256052932608/vid/avc1/3840x2160/Dsj5Gh0UXk7Mmu-z.mp4",
+     "url": "https://x.com/NASA/status/2119441731846639971"
+    },
+    {
      "id": "2119188276049228152",
      "text": "LIVE: @NASAAdmin and agency leaders are sharing our latest updates on the Moon Base, humanity's first lunar outpost.",
      "date": "2026-11-07T22:00:32.000Z",
@@ -1005,15 +1013,6 @@
      "image": "https://pbs.twimg.com/media/HWeXAj-W8AAOjrT.jpg",
      "video": null,
      "url": "https://x.com/NASA/status/2118841460791644434"
-    },
-    {
-     "id": "2118449337814352016",
-     "text": "Flying high!\n\nToday, our X-59 quiet supersonic X-59 aircraft traveled from Birmingham, Alabama, to Daytona Beach, Florida. The aircraft aims to fly faster than sound with just a gentle thump rather than a sonic boom — helping usher in a new era of faster air travel.\n\nWe're",
-     "date": "2026-11-05T21:04:15.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWY9OvvWoAA7DBr.jpg",
-     "video": null,
-     "url": "https://x.com/NASA/status/2118449337814352016"
     }
    ]
   },
@@ -1201,7 +1200,7 @@
    "posts": [
     {
      "id": "2118817863771344978",
-     "text": "✅ Sound check: complete. \n\nLaunch is one of the most punishing environments a spacecraft will ever face. To make sure Blue Ring is ready, our team put the fully integrated vehicle through acoustic testing, blasting it with over 140 decibels of sound for two straight minutes.",
+     "text": "✅ Sound check: complete. \n\nLaunch is one of the most punishing environments a spacecraft will ever face. To make sure Blue Ring is ready, our team put the fully integrated vehicle through acoustic testing, blasting it with over 140 decibels of sound for two straight minutes.\n\nBlue Ring passed, proving it can survive and operate through the harshest acoustic conditions of launch.",
      "date": "2026-11-06T21:28:39.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWeNnLCXMAEBw5f.jpg",
@@ -1219,7 +1218,7 @@
     },
     {
      "id": "2117633498085310863",
-     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new",
+     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new episode of Ascending Node is out now:",
      "date": "2026-11-03T15:02:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWNYcXEWEAAhL4C.jpg",
@@ -1245,7 +1244,7 @@
    "posts": [
     {
      "id": "2118804214831042777",
-     "text": "✅ Neutron’s Stage 1 Forward Dome has been built and cured.\n\nThe dome has come off the AFP machine as planned and completed its heat and pressure processing cycle to cure the carbon composite material. \n\nNext step: analysis and material tests to confirm quality and strength,",
+     "text": "✅ Neutron’s Stage 1 Forward Dome has been built and cured.\n\nThe dome has come off the AFP machine as planned and completed its heat and pressure processing cycle to cure the carbon composite material. \n\nNext step: analysis and material tests to confirm quality and strength, before it moves to the next phase of Stage 1 tank assembly.",
      "date": "2026-11-06T20:34:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2118803810277810176/img/pXLnZLPUGVemZpE9.jpg",
@@ -1253,17 +1252,8 @@
      "url": "https://x.com/RocketLab/status/2118804214831042777"
     },
     {
-     "id": "2118544706066055248",
-     "text": "See you soon, Mars.\n\nOur twin spacecraft – Blue &amp; Gold – are about to execute a trans-Mars Injection maneuver to propel themselves to Mars.\n\nSince launch 12 months ago, the spacecraft we designed and built for @NASA and @ucbssl for the  @escapade_mars mission, have been in space",
-     "date": "2026-11-06T03:23:13.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118539616127176704/img/ix78Gap98B2b4o6A.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118539616127176704/vid/avc1/1920x1080/UWYghjt2xp5lI9Mr.mp4",
-     "url": "https://x.com/RocketLab/status/2118544706066055248"
-    },
-    {
      "id": "2118521208639746494",
-     "text": "Electron's 100th mission. It's almost time.\n\n\"The Mountain God Rises\" will carry a QPS-SAR satellite for @QPS_Inc to a 575km LEO from Launch Complex 1 no earlier than Saturday Nov 14.\n\nLaunch window opens:\n🚀6:30pm NZDT\n🚀05:30 UTC\n🚀2:30pm JST\n🚀12:30am Eastern\n🚀9:30pm Pacific",
+     "text": "Electron's 100th mission. It's almost time.\n\n\"The Mountain God Rises\" will carry a QPS-SAR satellite for @QPS_Inc to a 575km LEO from Launch Complex 1 no earlier than Saturday Nov 14.\n\nLaunch window opens:\n🚀6:30pm NZDT\n🚀05:30 UTC\n🚀2:30pm JST\n🚀12:30am Eastern\n🚀9:30pm Pacific (Nov 13)",
      "date": "2026-11-06T01:49:51.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWZ-todaIAAHsoO.jpg",
@@ -1278,6 +1268,15 @@
      "image": null,
      "video": null,
      "url": "https://x.com/RocketLab/status/2117715361714016621"
+    },
+    {
+     "id": "2117448175271501907",
+     "text": "Get ready: Trans-Mars Injection incoming.\n\nOur two spacecraft - Blue & Gold - will slingshot Earth and shoot for Mars in four days.\n\nThe @escapade_mars mission for @NASA & @ucbssl is preparing for TMI – a critical maneuver in this epic interplanetary mission.\n\nBlue’s engine burn scheduled:  Saturday 7th November\nGold’s engine burn scheduled: Monday 9th November\n\nLearn more about ESCAPADE here:",
+     "date": "2026-11-03T02:45:59.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2117448088596185088/img/3bDZcWUAQP9BwI6K.jpg",
+     "video": "https://video.twimg.com/amplify_video/2117448088596185088/vid/avc1/1920x1080/Rci5p6QUg9HGb2mf.mp4",
+     "url": "https://x.com/RocketLab/status/2117448175271501907"
     }
    ]
   },
@@ -1506,6 +1505,15 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
      "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
      "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
+    },
+    {
+     "id": "2110344436643230019",
+     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
+     "date": "2026-10-14T12:18:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
+     "video": null,
+     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
     }
    ]
   },
