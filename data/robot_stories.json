@@ -1,49 +1,86 @@
 {
- "updated": "2026-11-08T02:05:00-08:00",
- "updated_pt": "Nov 8, 2026, 2:05 AM PT",
+ "updated": "2026-11-19T14:05:00-08:00",
+ "updated_pt": "Nov 19, 2026, 2:05 PM PT",
  "stories": [
   {
-   "title": "Boston Dynamics unveils Stretch Gen 2 trailer-unloading robot",
-   "tag": "Warehouse robots",
-   "date": "2026-11-06",
+   "title": "GlobalFoundries becomes the first non-automotive customer to test Boston Dynamics' Atlas humanoid",
+   "tag": "Robots",
+   "date": "2026-11-17",
    "paragraphs": [
-    "The Robot Report says Boston Dynamics unveiled Stretch Gen 2, the next generation of its autonomous mobile trailer-unloading robot, citing more than 100,000 operating hours and tens of millions of boxes handled with the earlier model. Vice president Brian Donnelly told the outlet the company spent about two and a half years simplifying and hardening the design for uptime and serviceability.",
-    "According to The Robot Report, Stretch Gen 2 can unload up to 1,000 cases per hour depending on case weight and stacking, with a multipick gripper, a battery rated for two shifts, and a fast charger that reaches about 90% in roughly 75 minutes. The redesign cuts about 81% of internal cabling (around half a mile), adds automotive-grade connectors, continuous-rotation joints past 360°, recessed emergency stop hardware, and sturdier exterior panels.",
-    "Donnelly said a full swerve-drive swap now takes about one hour instead of a full day, and new onboard diagnostics push more routine service to customer teams. The Robot Report notes Stretch Gen 2 is already running at multiple customer sites, with software updates rolling out roughly monthly; a recent fleet update raised unload rates by about 24%, per Donnelly."
+    "Boston Dynamics announced on Nov. 17, 2026, that semiconductor maker GlobalFoundries will be the first semiconductor manufacturer to test humanoid robots through the Atlas early adopter program, while also deploying more Spot robots across its global manufacturing network. The Robot Report reports that GlobalFoundries is the first customer outside the automotive industry to test Atlas, with testing set to begin in early 2027.",
+    "According to the companies, two Spot robots at GlobalFoundries' Singapore facility have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, with a 99% mission success rate. The Robot Report says the companies will identify humanoid applications in chip manufacturing and begin training Atlas on specific tasks, but did not disclose how many robots, which facilities or which first tasks are involved.",
+    "The Robot Report notes that Boston Dynamics' initial Atlas production for 2026 was committed to its parent company Hyundai and to Google DeepMind, and that Hyundai has outlined plans to deploy 25,000 Atlas humanoids across Hyundai Motor and Kia plants over the next several years."
    ],
    "sources": [
     {
      "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
-     "date": "2026-11-06"
+     "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
+     "date": "2026-11-17"
+    },
+    {
+     "name": "Boston Dynamics on X",
+     "url": "https://x.com/BostonDynamics/status/2122695488973467779",
+     "date": "2026-11-17"
     }
    ],
    "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/stretch-gen2-render-featured.jpg",
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/atlas-globalfoundries.jpg",
     "credit": "Boston Dynamics, via The Robot Report",
-    "alt": "Boston Dynamics Stretch Gen 2 trailer-unloading robot"
+    "alt": "Boston Dynamics' Atlas humanoid robot"
    }
   },
   {
-   "title": "Physicl raises $10M seed to build high-fidelity 3D worlds for robot training",
-   "tag": "Simulation",
-   "date": "2026-11-06",
+   "title": "Agility Robotics names a new president and product chief after its Nasdaq listing",
+   "tag": "Robots",
+   "date": "2026-11-18",
    "paragraphs": [
-    "TechCrunch reports that Physicl raised $10 million in seed funding led by Inovia Capital to help world-model designers and robot builders train on more realistic simulations. Founder and CEO Alex de Vigan previously built nfinite for e-commerce 3D product renderings.",
-    "According to TechCrunch, Physicl is releasing Studio with 10,000 3D environments and 100,000 assets so users can build scenes that generate synthetic data for edge cases such as a cup on a cluttered or shadowed counter. Early customer SpAItial used the data to improve fidelity for its Echo-3 world-model product.",
-    "de Vigan told TechCrunch the company aims to turn unstructured real-world inputs into high-fidelity geometry, materials, and physics for ongoing synthetic-data generation, not only one-off datasets. SpAItial CEO Matthias Niessner described on-the-fly data generation during training as especially attractive."
+    "Agility Robotics, maker of the Digit humanoid, announced three executive appointments on Nov. 18, 2026. Daniel Diez, previously Chief Business Officer, was promoted to President; Christopher \"Sully\" Sullivan, who joined in May as Vice President of Customer Success, became Chief Product Officer; and Ana Lang, previously Chief Legal & People Officer, was named Chief Administrative Officer.",
+    "The company says the appointments follow its Nov. 4 completion of a business combination with Churchill Capital Corp XI and its listing on Nasdaq under the symbol AGLT. Agility also points to the unveiling of Digit 5 in September, an expanded deployment agreement with GXO, a planned pilot with AGCO, and paid evaluation programs with three more manufacturing customers announced in October.",
+    "According to the release, Diez secured more than $300 million in committed multi-year orders for Digit 5, which the company describes as potential multi-year value subject to contractual milestones and product specifications. As Chief Product Officer, Sullivan will oversee Digit, Agility Arc and future products while continuing to lead customer success."
    ],
    "sources": [
     {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-     "date": "2026-11-06"
+     "name": "Agility Robotics",
+     "url": "https://www.agilityrobotics.com/content/agility-robotics-evolves-executive-leadership-team-to-support-next-phase-of-growth-as-a-public-company",
+     "date": "2026-11-18"
+    },
+    {
+     "name": "Agility Robotics on X",
+     "url": "https://x.com/agilityrobotics/status/2123069661487190053",
+     "date": "2026-11-18"
     }
    ],
    "image": {
-    "url": "https://techcrunch.com/wp-content/uploads/2026/11/physicl-studio-hero-kitchen-16x9-1.jpg?resize=1200,675",
-    "credit": "Physicl, via TechCrunch",
-    "alt": "Physicl Studio kitchen simulation environment for robot training"
+    "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png",
+    "credit": "Agility Robotics",
+    "alt": "Agility Robotics logo"
+   }
+  },
+  {
+   "title": "Humyn Labs raises $47 million to collect real-world training data for robots",
+   "tag": "Robots",
+   "date": "2026-11-18",
+   "paragraphs": [
+    "Bengaluru-based Humyn Labs announced a $47 million Series A on Nov. 18, 2026, made up of $26 million in equity led by Accel and $21 million in venture debt led by Lighthouse Canton, The Robot Report and TechCrunch report. The company collects data on how people perform tasks to help AI labs, robotics companies and world-model developers train robots for the real world.",
+    "TechCrunch reports that Humyn Labs uses its own two-camera hardware to record people doing everyday tasks, then processes and labels the footage, collecting data in more than 20 countries in Latin America and Asia, with Brazil, India and South Korea as main hubs. Co-founder Ishank Gupta told The Robot Report the company gathers data across vision, sound, touch and motion and works across robot types, from arms to mobile robots.",
+    "The Robot Report says the company reported more than $50 million in annualized revenue within six months of operations. TechCrunch reports co-founder Manish Agarwal said it generated $10 million in revenue between April and October with another $20 million in signed contracts, and that it has 12 paying customers, with about 90% of revenue from the U.S. TechCrunch also notes that recording people inside their homes has raised privacy and consent questions across this kind of data collection."
+   ],
+   "sources": [
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
+     "date": "2026-11-18"
+    },
+    {
+     "name": "TechCrunch",
+     "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+     "date": "2026-11-18"
+    }
+   ],
+   "image": {
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured-1024x665.png",
+    "credit": "Humyn Labs, via The Robot Report",
+    "alt": "Humyn Labs co-founders Ishank Gupta and Manish Agarwal"
    }
   }
  ]

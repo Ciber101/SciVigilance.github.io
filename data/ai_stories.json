@@ -1,89 +1,82 @@
 {
- "updated": "2026-11-08T02:05:00-08:00",
- "updated_pt": "Nov 8, 2026, 2:05 AM PT",
+ "updated": "2026-11-19T14:05:00-08:00",
+ "updated_pt": "Nov 19, 2026, 2:05 PM PT",
  "stories": [
   {
-   "title": "Google DeepMind's AI agents find two weaknesses in legacy 1024-bit RSA encryption",
+   "title": "Google DeepMind releases Gemini 4 Neon, a mid-tier model aimed at coding agents and science work",
    "tag": "AI",
-   "date": "2026-11-06",
+   "date": "2026-11-18",
    "paragraphs": [
-    "On Nov. 6, 2026, Google DeepMind announced research in which AI agents, working under human direction, found two weaknesses in legacy 1024-bit RSA encryption, Crypto Briefing reports. DeepMind's Pushmeet Kohli wrote that the results \"only affect obsolete 1024-bit RSA systems, and modern encryption protocols, which almost universally use 2048-bit or larger keys, remain secure,\" as quoted by WebProNews. The work was led by Dj Dvijotham and Abhradeep Thakurta with cryptographers Nadia Heninger (UC San Diego and Inria) and Emmanuel Thomé (Inria) among the co-authors.",
-    "The first working paper looks at digital signatures. WebProNews reports the authors found that once a caller can supply about half of a 1024-bit block (65 of its 128 bytes) to a signing device, the padding gives no more protection than raw, unpadded signing. For a smaller 32-byte digest such as SHA-256, Kohli wrote that a new algorithm improves on the previous best method by roughly 1,600 times at 1024 bits, by DeepMind's theoretical estimates; the paper says that result was not run at this size.",
-    "To test the approach, two AI agents reran a known 1024-bit signature attack first carried out by an academic team that spent 1,380 CPU core-years on it. Using the same algorithm, DeepMind's agents computed the first result in 391 core-years, about 3.5 times less CPU time, with roughly 20 short messages from a human researcher, according to WebProNews. One model supervised and audited the work while a second wrote and ran about 33,500 lines of new code.",
-    "The second paper describes a theoretical method, which the authors call a \"fan factory,\" for factoring many RSA keys of the same size at once. WebProNews reports that each additional 1024-bit key would cost about 30 times less than with Coppersmith's method, the best known approach since 1993. The proofs' algebra was machine-checked in Lean 4, and the authors say the method has not been implemented."
+    "Google DeepMind introduced Gemini 4 Neon on Nov. 18, 2026, describing it as a model that brings frontier-level intelligence with fast end-to-end task completion across software engineering, knowledge work and science workflows. MarkTechPost reports that Neon sits between Gemini 4 Carbon and Gemini 4 Hydrogen in the Gemini 4 family, and that according to the model card it is adapted from Carbon. Google lists a price of $3 per million input tokens and $15 per million output tokens, with a 1 million-token context window.",
+    "According to Google DeepMind, Neon scores 61 on the Artificial Analysis Intelligence Index at its highest thinking level, ranking third overall, and ranks first on the Artificial Analysis Coding Agent Index with 58.6. Google also reports 70.5% on Terminal-Bench Science, 84.0% on RiemannBench and 71.3% on HLE-Diamond. MarkTechPost stresses that these comparison scores are reported by Google, not independently reproduced, and notes that Claude Opus 5.5 still leads on Terminal-Bench 4.1 and FrontierCode 2.0.",
+    "Google says Neon is rolling out in the Gemini API in Google AI Studio, in Gemini for business, in Google Antigravity for paid Google AI Pro and Ultra subscribers, and in the Gemini app for Pro and Ultra subscribers. A version called Gemini 4 Neon for cyber is rolling out to trusted defenders in the coming days, according to the post.",
+    "Simon Willison writes that the lineup's pricing is confusing for now: Carbon is temporarily at a discounted $2 and $10, which makes Neon the most expensive of the three models until Carbon's price doubles to $4 and $20 on Dec. 1. He adds that in his own drawing test Neon's output looked better than Hydrogen's and worse than Carbon's."
    ],
    "sources": [
     {
-     "name": "Crypto Briefing",
-     "url": "https://cryptobriefing.com/google-deepmind-ai-rsa-1024-bit-weaknesses/",
-     "date": "2026-11-06"
-    },
-    {
-     "name": "WebProNews",
-     "url": "https://www.webpronews.com/deepmind-ai-agents-legacy-1024-bit-rsa-weaknesses/",
-     "date": "2026-11-07"
-    }
-   ],
-   "image": {
-    "url": "https://static.cryptobriefing.com/wp-content/uploads/2026/11/06125306/library-google-deepmind-s-ai-agents-expose-two-weaknesses-in-leg-800x450.png",
-    "credit": "Google, via Crypto Briefing",
-    "alt": "Google Gemini logo"
-   }
-  },
-  {
-   "title": "OpenAI introduces BioBasicsBench to test AI agents on routine wet-lab analysis",
-   "tag": "AI benchmarks",
-   "date": "2026-11-06",
-   "paragraphs": [
-    "On Nov. 6, 2026, OpenAI introduced BioBasicsBench, a benchmark developed with Ligo, a biotech company focused on enzyme design, to measure how well AI agents interpret raw experimental data. OpenAI says its 100 tasks test whether agents can read lab data, spot errors and recognize when the evidence cannot support a conclusion.",
-    "According to OpenAI, the tasks cover five areas of routine wet-lab work: protein methods, imaging and cytometry, quantification and assays, nucleic acid methods, and molecular cloning. Inputs include gel and blot images, colony plate photos, microscopy, sequencing files, instrument exports and bench videos. Ligo scientists wrote the tasks from their own experiments, and each task was reviewed by a second Ligo scientist, an outside PhD-level wet-lab scientist, and a final internal reviewer, as AI Affairs also reports.",
-    "OpenAI tested seven of its own models across 37 model and reasoning-effort settings, with five attempts per task. At the \"xhigh\" setting, GPT-6 Astra earned an average of 66.7% of the available credit, compared with 43.8% for GPT-5.6 Sol. These are OpenAI's own results.",
-    "OpenAI also lists where models still fall short, including letting an assumption override the experiment's controls, discounting observations that contradict a preferred interpretation, and overcounting colonies on a plate by about 12%. The company says tracking these abilities will also help it understand their implications for biosafety and biosecurity."
-   ],
-   "sources": [
-    {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
-     "date": "2026-11-06"
-    },
-    {
-     "name": "AI Affairs",
-     "url": "https://www.aiaffairs.com/technology/openai-biobasicsbench-ai-agents-wet-lab-tasks/",
-     "date": "2026-11-07"
-    }
-   ],
-   "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/3lNbSQIg31Dg9aBrUjuQMI/131fea8d534499ca30f7a9f880269d74/biobasicsbench-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI BioBasicsBench announcement graphic"
-   }
-  },
-  {
-   "title": "Nous Research releases Arete-27B, an open-weight Qwen fine-tune aimed at removing state propaganda",
-   "tag": "Open-weight models",
-   "date": "2026-11-07",
-   "paragraphs": [
-    "Nous Research has released Arete-27B, a supervised fine-tune of Alibaba's Qwen3.8-27B, MarkTechPost reported on Nov. 7, 2026. On its model card, Nous says it observed refusals, deflections and CCP-framed answers on politically sensitive topics in the base model and post-trained it to change those behaviors. MarkTechPost reports the license is Apache 2.0, matching the base model.",
-    "Nous says it used supervised fine-tuning only, with no reinforcement learning, preference optimization or architecture changes. The teacher model was Inkling, an open model from Thinking Machines, chosen in part to avoid terms-of-use limits on distillation. Training covered about 52.8 million tokens at 64k context over two epochs and 1,202 steps.",
-    "On Nous's own 803-prompt evaluation, graded by an LLM judge, the share of answers containing propaganda fell from 22% for Qwen3.8-27B to 0.9% for Arete-27B, and the average fact score rose from 2.32 to 2.98 out of 5. The largest change was in freedom of expression, where the propaganda rate fell from 60% to 1%. Nous says the improvement held in all seven value categories it tested.",
-    "On general capability, Nous reports Hermes Bench at 65.60% versus 65.77% for the base model, which it calls noise, and Terminal-Bench-2.1 at 70% versus 67% in its own setup, adding that it does not take credit for that gain. MarkTechPost reports community GGUF quantized versions run in llama.cpp, LM Studio and Ollama, with a 17.20 GB Q4_K_M build sized for 24 GB consumer GPUs."
-   ],
-   "sources": [
-    {
-     "name": "Nous Research (Hugging Face)",
-     "url": "https://huggingface.co/NousResearch/Arete-27B",
-     "date": "2026-11-07"
+     "name": "Google DeepMind",
+     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+     "date": "2026-11-18"
     },
     {
      "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
-     "date": "2026-11-07"
+     "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
+     "date": "2026-11-18"
+    },
+    {
+     "name": "Simon Willison",
+     "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+     "date": "2026-11-18"
     }
    ],
    "image": {
-    "url": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/NousResearch/Arete-27B.png",
-    "credit": "Hugging Face",
-    "alt": "Arete-27B model page card on Hugging Face"
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+    "credit": "Google DeepMind",
+    "alt": "Gemini 4 Neon announcement header image"
+   }
+  },
+  {
+   "title": "OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol",
+   "tag": "AI",
+   "date": "2026-11-17",
+   "paragraphs": [
+    "OpenAI has released GPT-6.2 Astra, which it describes as its new frontier model for the hardest projects, and GPT-6.2 Sol, an efficient, versatile model for everyday work, Simon Willison reports, quoting the announcement. Both are available in the API as gpt-6.2-astra and gpt-6.2-sol.",
+    "According to Willison, GPT-6.2 Astra costs $8 per million input tokens and $40 per million output tokens, 80% of the price of GPT-6 Astra, with cached input cut to $0.40 per million from $1. GPT-6.2 Sol keeps the same $2 and $10 pricing as GPT-6.1 Sol and GPT-6 Sol.",
+    "Willison describes early reaction to the models as mixed. He writes that Astra 6.2 is not scoring quite as high as Anthropic's Claude Fable 5.2 on various benchmarks, and that he has seen complaints that its communication style can be confusing, quoting developer Theo Browne's pre-release feedback as an example."
+   ],
+   "sources": [
+    {
+     "name": "Simon Willison",
+     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+     "date": "2026-11-17"
+    }
+   ],
+   "image": {
+    "url": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
+    "credit": "OpenAI",
+    "alt": "GPT-6.2 Astra and Sol launch graphic"
+   }
+  },
+  {
+   "title": "Anthropic prices its initial public offering at $83 per share",
+   "tag": "AI",
+   "date": "2026-11-18",
+   "paragraphs": [
+    "Anthropic announced on Nov. 18, 2026, that it priced the initial public offering of its Class A common stock at $83.00 per share. According to the company, the offering consists of 980,000,000 shares, of which 956,351,354 are being sold by Anthropic and 23,648,646 by certain selling stockholders; Anthropic says it will not receive proceeds from the shares sold by those stockholders.",
+    "The company said the shares were expected to begin trading on the Nasdaq Global Select Market on Nov. 19, 2026, under the symbol \"ANT,\" with the offering expected to close on Nov. 20, subject to customary closing conditions. Anthropic also granted the underwriters a 30-day option to buy up to 147,000,000 additional shares.",
+    "According to the announcement, the Securities and Exchange Commission declared the registration statement for the shares effective on Nov. 18, 2026. Goldman Sachs and Morgan Stanley are listed as the contacts for copies of the final prospectus."
+   ],
+   "sources": [
+    {
+     "name": "Anthropic",
+     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+     "date": "2026-11-18"
+    }
+   ],
+   "image": {
+    "url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+    "credit": "Anthropic",
+    "alt": "Anthropic logo"
    }
   }
  ]
