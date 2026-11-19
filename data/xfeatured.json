@@ -7,40 +7,40 @@
    "avatar": "img/x-openai.jpg",
    "posts": [
     {
-     "id": "2118795218099253606",
-     "text": "We partnered with @fmf_org and its member firms on a new framework to help identify when bypassing an AI system's safeguards could enable serious cyber harm, and prioritize stronger protections.\n\n\"...This framework is an important step toward a common methodology for evaluating",
-     "date": "2026-11-06T19:58:39.000Z",
+     "id": "2123100386638877054",
+     "text": "Working with @AMD, our models identified up to 14% PPA improvement on flagship GPU IP in less than five months—building on designs AMD’s engineers had already spent years optimizing.\n\nThe same approach helped improve Jalapeño, our first custom inference chip, with gains verified on real silicon.\n\nNew evaluations also show our models getting better at certain chip design tasks.\n\nWe’re sharing these results and how we’re working with @Synopsys to bring our model capabilities and their trusted EDA design and validation tools to more chip designers.",
+     "date": "2026-11-18T17:05:52.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXbDvvBbkAA_huj.jpg",
+     "video": null,
+     "url": "https://x.com/OpenAI/status/2123100386638877054"
+    },
+    {
+     "id": "2122750135608528984",
+     "text": "Starting today, GPT-6.2 Astra and Sol are available in ChatGPT Work and Codex for Plus, Pro, Enterprise, and Edu users.\n\nPro 500 subscribers can use Ultrafast with either model. For the first time, we’re also bringing Ultrafast to Pro 200 subscribers, starting with GPT-6.2 Sol.\n\nDevelopers can access gpt-6.2-astra and gpt-6.2-sol in the OpenAI API, with Ultrafast available.",
+     "date": "2026-11-17T17:54:05.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/OpenAI/status/2118795218099253606"
+     "url": "https://x.com/OpenAI/status/2122750135608528984"
     },
     {
-     "id": "2118782708767965238",
-     "text": "A new way to measure how AI agents handle the routine analyses of wet-lab science—BioBasicsBench.\n\nDeveloped with Ligo, a biotech company focused on enzyme design, the benchmark draws on 100 tasks from real experiments to test whether agents can interpret raw lab data, identify",
-     "date": "2026-11-06T19:08:57.000Z",
+     "id": "2122750133133791592",
+     "text": "GPT-6.2 Astra is our most capable model ever for cyber. It jumps 22 points over GPT-6 Astra on ExploitBench Internal Port.\n\nDue to increased capabilities, we’re launching GPT‑6.2 Astra and Sol with tighter safeguards for higher-risk cybersecurity assistance. We are working to bring these models to Daybreak so approved defenders can access them with reduced refusals.",
+     "date": "2026-11-17T17:54:05.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWdtpRua4AAuNL-.jpg",
+     "image": "https://pbs.twimg.com/media/HXWDPqjbsAA501X.png",
      "video": null,
-     "url": "https://x.com/OpenAI/status/2118782708767965238"
+     "url": "https://x.com/OpenAI/status/2122750133133791592"
     },
     {
-     "id": "2118390190246879554",
-     "text": "Introducing GPT‑6 Cyber: a major advance in security research that pairs stronger capabilities with better model alignment.\n\nThe model powered the Linux kernel research we announced yesterday, and security teams at companies like Mozilla, Palo Alto Networks, Calif, and",
-     "date": "2026-11-05T17:09:13.000Z",
+     "id": "2122750131519037617",
+     "text": "Take GPT-6.2 Astra for a test drive. \n\nIt brings greater accuracy to real-world engineering work and stronger visual reasoning for websites, with better layouts, thoughtful imagery, and more intuitive design.",
+     "date": "2026-11-17T17:54:04.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118387217588465664/img/N2grMUmP0O_EMvS2.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118387217588465664/vid/avc1/1920x1080/ggeDE9iY9Trxb8kO.mp4",
-     "url": "https://x.com/OpenAI/status/2118390190246879554"
-    },
-    {
-     "id": "2118124944928432327",
-     "text": "Images, upgraded—introducing ChatGPT Images 2.6.\n\nNow with GIFs and reference images.\n\nPlus, two new models are coming to the API with 50% faster image generation.",
-     "date": "2026-11-04T23:35:14.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118124891572748288/img/ZSIlzNmSPQEK0Sfd.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118124891572748288/vid/avc1/1920x1080/qMZriVE4i9oaFedx.mp4",
-     "url": "https://x.com/OpenAI/status/2118124944928432327"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122746933127385088/img/J8zmWprLusXQJxs3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122746933127385088/vid/avc1/3840x2160/0A8-3ujSrq_H3b72.mp4",
+     "url": "https://x.com/OpenAI/status/2122750131519037617"
     }
    ]
   },
@@ -50,6 +50,15 @@
    "group": "ai",
    "avatar": "img/x-anthropicai.jpg",
    "posts": [
+    {
+     "id": "2119867707546071125",
+     "text": "Claude Fable 5.2 and Claude Mythos 5.2 are available now:",
+     "date": "2026-11-09T19:00:21.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/AnthropicAI/status/2119867707546071125"
+    },
     {
      "id": "2118814753154064501",
      "text": "Memory is what allows Claude to learn from experience. In a new Engineering Blog post, we share how “dreaming” helps Claude organize what it’s learned, correct its mistakes, and find what it needs more easily the next time.",
@@ -69,22 +78,13 @@
      "url": "https://x.com/AnthropicAI/status/2118792930211107115"
     },
     {
-     "id": "2118073665296228863",
-     "text": "We’re sharing how our biology research team worked with Claude to map the first 3D structure of a vault particle from bacterial life.\n\nVault particles are a longstanding mystery. They are barrel-shaped objects, among the largest protein structures found in our cells. They were first discovered by Leonard Rome and Nancy Kedersha in 1986, but their function remains unknown.\n\nWith Claude, we’ve found results that might bring us closer to solving that mystery.\n\nUntil now, vaults were only known in the cells of complex things like animals and plants. We have shown that similar proteins from bacteria (and the viruses that infect them) can also assemble into vaults. Finding the structures in these simpler forms of life may make it easier to investigate their function in our own cells.\n\nFor our life sciences team, the project was also a demonstration of the potential (and the limitations) of using AI to accelerate science.\n\nIn our full piece, we discuss how Claude was able to dramatically speed up some stages—manually determining the vault particle’s structure would have taken weeks to months of painstaking work, but here it took days. We also discuss how Claude made some simple mistakes along the way, and how we collaborated with our machine learning researchers to address them.\n\nRead more:",
+     "id": "2118073667858887068",
+     "text": "Read the full preprint here:",
      "date": "2026-11-04T20:11:28.000Z",
      "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/AnthropicAI/status/2118073665296228863"
-    },
-    {
-     "id": "2115825653539025142",
-     "text": "We’ve expanded our AI for Science program beyond individual teams to support some of the world’s leading scientific foundations, institutions, and research groups.",
-     "date": "2026-10-29T15:18:40.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/AnthropicAI/status/2115825653539025142"
+     "image": "https://pbs.twimg.com/tweet_video_thumb/HWTlFvWWIAAYOhX.jpg",
+     "video": "https://video.twimg.com/tweet_video/HWTlFvWWIAAYOhX.mp4",
+     "url": "https://x.com/AnthropicAI/status/2118073667858887068"
     }
    ]
   },
@@ -94,6 +94,15 @@
    "group": "ai",
    "avatar": "img/x-spacexsi.jpg",
    "posts": [
+    {
+     "id": "2120584928983441826",
+     "text": "Introducing Grok Bot 1.0.\n\nBots can be shared and are more collaborative and capable than ever.",
+     "date": "2026-11-11T18:30:20.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2120584648887603200/img/7fJTC0_ehG0tmNNk.jpg",
+     "video": "https://video.twimg.com/amplify_video/2120584648887603200/vid/avc1/1920x1080/_5-Mr3wCmHhH2dyV.mp4",
+     "url": "https://x.com/SpaceXSI/status/2120584928983441826"
+    },
     {
      "id": "2113365443931148624",
      "text": "Proud to be a part of this important initiative from NVIDIA",
@@ -111,24 +120,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/SpaceXSI/status/2112959750786953386"
-    },
-    {
-     "id": "2110416580899168305",
-     "text": "Introducing Grok Voice 3.0, the world’s most intelligent speech-to-speech model.\n\nIt excels at resolving customer calls, responds in under a second, and costs less than other frontier models.",
-     "date": "2026-10-14T17:04:57.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUm0LiyW8AAHlzx.jpg",
-     "video": null,
-     "url": "https://x.com/SpaceXSI/status/2110416580899168305"
-    },
-    {
-     "id": "2109783335296008414",
-     "text": "We've unified plans across Grok, Cursor, and X Premium.\n\nIntroducing The X Subscription.",
-     "date": "2026-10-12T23:08:39.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2109782667579322368/img/mg9FwK4PAT7m7_mU.jpg",
-     "video": "https://video.twimg.com/amplify_video/2109782667579322368/vid/avc1/1920x1080/ThJXAcymAf1pV1vL.mp4",
-     "url": "https://x.com/SpaceXSI/status/2109783335296008414"
     }
    ]
   },
@@ -139,40 +130,40 @@
    "avatar": "img/x-googledeepmind.jpg",
    "posts": [
     {
-     "id": "2118755418675765656",
-     "text": "We’re sharing new research demonstrating how AI agents can accelerate the science of stress-testing encryption.\n\nGuided by humans, our models uncovered two major weaknesses in legacy 1024-bit RSA cryptosystems.\n\nOur VP Science @Pushmeet explains more ↓",
-     "date": "2026-11-06T17:20:31.000Z",
-     "quoted": true,
+     "id": "2123519775561380260",
+     "text": "Watch →\nSpotify →\nApple Podcasts →\n\nOr listen wherever you get your podcasts! 🎧",
+     "date": "2026-11-19T20:52:22.000Z",
+     "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/GoogleDeepMind/status/2118755418675765656"
+     "url": "https://x.com/GoogleDeepMind/status/2123519775561380260"
     },
     {
-     "id": "2115489356437651654",
-     "text": "Gemini 4 Carbon is our next frontier model.\n\nIt’s state-of-the-art across cybersecurity and long-horizon capabilities.",
-     "date": "2026-10-28T17:02:21.000Z",
+     "id": "2123167889976905966",
+     "text": "Neon ranks #3 with a score of 61 on the @ArtificialAnlys Intelligence Index at its xhigh thinking level.\n\nAvailable starting today:\n🔵 The Gemini API in @GoogleAIStudio, @AndroidStudio, and Gemini for business\n🔵 @Geminiapp for Google AI Pro and Ultra subscribers, and @Antigravity for paid subscribers\n🔵 Eligible Fairwind Program members soon\n\nFind out more →",
+     "date": "2026-11-18T21:34:06.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVu5JfhXkAAHYVr.jpg",
+     "image": "https://pbs.twimg.com/media/HXb_2CTXAAEjtah.jpg",
      "video": null,
-     "url": "https://x.com/GoogleDeepMind/status/2115489356437651654"
+     "url": "https://x.com/GoogleDeepMind/status/2123167889976905966"
     },
     {
-     "id": "2115114028338962672",
-     "text": "This is Genie 4, our most realistic and interactive world model yet. 🌐\n\nExplore dynamic environments in real time to see how the scene responds, sounds, and how the people in it move, react, and speak.",
-     "date": "2026-10-27T16:10:55.000Z",
+     "id": "2123167884411077030",
+     "text": "Gemini 4 Neon is rolling out now.\n\nSitting between Carbon and Hydrogen, it brings frontier intelligence and fast task completion for complex software engineering, knowledge work, and science.",
+     "date": "2026-11-18T21:34:04.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVplvENXUAA-sCS.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115110795553964032/vid/avc1/1920x1080/UjdIAfbWqSTv6JaM.mp4",
-     "url": "https://x.com/GoogleDeepMind/status/2115114028338962672"
+     "image": "https://pbs.twimg.com/media/HXb_xtqWIAAVtPL.png",
+     "video": null,
+     "url": "https://x.com/GoogleDeepMind/status/2123167884411077030"
     },
     {
-     "id": "2113645959762575623",
-     "text": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Gothic cathedral in @Antigravity.\n\nIt iterates on the geometry, textures, and lighting to create the finished scene.",
-     "date": "2026-10-23T14:57:21.000Z",
+     "id": "2123117735374659636",
+     "text": "It's rolling out to eligible Google AI Ultra subscribers with a community gallery to discover, remix, and share creations - and an updated Genie 3 in the model picker with up to 3-minute sessions.\n\nStart exploring ↓",
+     "date": "2026-11-18T18:14:48.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2113645779952807937/img/WXn93XhmXcD8Cp4D.jpg",
-     "video": "https://video.twimg.com/amplify_video/2113645779952807937/vid/avc1/1920x1080/mXBp-jHe7_mtt1jU.mp4",
-     "url": "https://x.com/GoogleDeepMind/status/2113645959762575623"
+     "image": null,
+     "video": null,
+     "url": "https://x.com/GoogleDeepMind/status/2123117735374659636"
     }
    ]
   },
@@ -183,8 +174,35 @@
    "avatar": "img/x-sama.jpg",
    "posts": [
     {
+     "id": "2123103873166381287",
+     "text": "So fun to do DealBook with my friend and partner of 11 years, @gdb. Thrilled the world got to see the brilliant, fiercely determined leader I have the privilege of working with every day.\n\nGreg’s role at OpenAI has evolved from writing code 100 hours a week in the early days to now leading some of the hardest and most consequential parts of our business.\n\nOne thing that has not changed is his extraordinary commitment to our mission. I can say with confidence that OpenAI would not exist without Greg, and I believe the world would be on a much worse path toward the AI future without him.",
+     "date": "2026-11-18T17:19:43.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/sama/status/2123103873166381287"
+    },
+    {
+     "id": "2122798042734633452",
+     "text": "Although the new models are very smart, we have more work ahead of us on making the models nice to work with, and will prioritize that for upcoming releases.\n\nBut even if it takes a little extra work, the intelligence and capability are extraordinary.",
+     "date": "2026-11-17T21:04:27.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/sama/status/2122798042734633452"
+    },
+    {
+     "id": "2122798039899263456",
+     "text": "6.2 Sol and Astra are out.\n\nThese models can do amazing things and are very token-efficient; we hope people will get great value from them.\n\nIn particular, 6.2 Sol ultrafast is something I think people will really enjoy.",
+     "date": "2026-11-17T21:04:27.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/sama/status/2122798039899263456"
+    },
+    {
      "id": "2117794005165748448",
-     "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to",
+     "text": "People should always be in control of the future.\n\nOpenAI is against the notion that it would be acceptable for people to be relegated to a role of doing things that “AI systems think makes sense to reward in humans”.\n\nPeople should not cede control of the future to superintelligence, and that requirement should ultimately constrain AI progress.",
      "date": "2026-11-04T01:40:12.000Z",
      "quoted": false,
      "image": null,
@@ -200,31 +218,40 @@
    "avatar": "img/x-demishassabis.jpg",
    "posts": [
     {
-     "id": "2115232001275924722",
-     "text": "Very excited to share Genie 4, our incredible interactive world model, bringing together real-time physics, reasoning, and audio! Simulations within simulations, makes you wonder just how deep the rabbit hole goes... I have a feeling we will be finding out soon enough...",
-     "date": "2026-10-27T23:59:42.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/demishassabis/status/2115232001275924722"
-    },
-    {
-     "id": "2113352276026990972",
-     "text": "Honoured to be featured in the @WSJ Innovators Issue. I’ve always believed in the power of human ingenuity to solve our hardest problems. I’m confident we can collectively navigate the potential challenges of frontier models and usher in a new golden age of scientific discovery!",
-     "date": "2026-10-22T19:30:21.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/demishassabis/status/2113352276026990972"
-    },
-    {
-     "id": "2110041008100843835",
-     "text": "Gemini 4 Argon is amazing for knowledge work and coding - and it’s super fun to build with! We asked it to create this wizard chess game and it's so cool to see Argon's physics understanding &amp; 3D modelling capabilities, makes me nostalgic for Battlechess on the Amiga - fun times!",
-     "date": "2026-10-13T16:12:33.000Z",
+     "id": "2123168218743554465",
+     "text": "Excited to launch Gemini 4 Neon: frontier-level intelligence, super fast task completion, and available to Pro &amp; Ultra users now!! We think you’ll enjoy this model. Alchemy at its finest… 🧪",
+     "date": "2026-11-18T21:35:24.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110040604264820737/img/rmwzw1tXnpyBPn6c.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110040604264820737/vid/avc1/1920x1080/MGQrVzLSYG_aq8xd.mp4",
-     "url": "https://x.com/demishassabis/status/2110041008100843835"
+     "image": "https://pbs.twimg.com/media/HXcAo5FbEAAB1wx.png",
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2123168218743554465"
+    },
+    {
+     "id": "2122662616367853670",
+     "text": "Thrilled to announce $5B in funding for @IsomorphicLabs to accelerate our mission to Solve All Disease. We continue to make rapid progress reimagining drug design from first principles with AI to radically cut the time &amp; cost to find new medicines. Gradually, then all at once...",
+     "date": "2026-11-17T12:06:19.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122661570731802624/img/ipBDASOeRrvKrEwk.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122661570731802624/vid/avc1/1920x1080/-Kw4vU-tOwuahXK0.mp4",
+     "url": "https://x.com/demishassabis/status/2122662616367853670"
+    },
+    {
+     "id": "2120942605466800374",
+     "text": "Very excited to release Gemini 4 Hydrogen! Incredible speed and intelligence for everyday coding, agentic work and all-round use. I think you'll love this model. More info in the blog - enjoy!",
+     "date": "2026-11-12T18:11:37.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2120942605466800374"
+    },
+    {
+     "id": "2120565316619284734",
+     "text": "Super proud to announce AlphaGenome 2 - our new DNA sequence model! 🧬 It predicts the impact of DNA variants in different specific cell types - unlocking crucial information for understanding complex diseases. Available for academic research via our API:",
+     "date": "2026-11-11T17:12:24.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/demishassabis/status/2120565316619284734"
     }
    ]
   },
@@ -244,39 +271,13 @@
      "url": "https://x.com/karpathy/status/2119114537442189652"
     },
     {
-     "id": "2109361546505966046",
-     "text": "Dusting off this tweet from April because this gap in shared understanding of LLM capability is *widening*. It's now less \"two groups of people speaking past each other\" and more a sharp funnel.\n\n- Napkin math somewhere around 6B people (~75% of the population) have barely come in contact with LLMs at all.\n- Around 1-2B (~20%) are casual and infrequent users of free-tier ChatGPT-like products. This group sees derpy chatbots and treats them a bit like a better Google search, a writing aid, or etc. Maybe an agent tries to book you a flight. I have non-tech friends who (reasonably, imo) say they have not much use for it at all. Even many professionals outside of math&code are in this tier. For example, execs and many other functions spend a lot of their time talking to other people, so while they understand what is happening intellectually, it is still second-hand and a bit abstract.\n- Now we get to professional use of frontier-grade LLMs in math&code. Somewhere around 20M people (0.2%) see first-hand that large, complex projects that used to take them weeks/months can now be completed by agents with a prompt. Building apps, copying apps, translating apps, decompiling apps from binaries... This has all happened very quickly and recently - less than 1 year ago, I was writing code manually by hand, typing memorized computer code commands into a code editor character by character, occasionally pressing Tab to autocomplete a little chunk of code.\n- And finally we get to the ~5,000 people (~0.00006%) with access to frontier-grade systems internally. The external world has seen the preview. It looks like swarms of thousands of agents collaborating over weeks on software mega projects: minting zero days, running cyber attacks and defenses at machine speeds, discovering new science, advancing the frontier of mathematics. Things that would have taken top professionals in the industry years of work. Meanwhile, human review and comprehension are starting to fall behind. For example, people are still involved in the \"archeology\" of the OpenAI-HF incident from many months ago. Mathematicians may be poring over the 722 manuscripts on frontier mathematics for a while.\n\nThe funnel is driven by a combination of factors:\n1. The impact scales with ambition, problem size, and horizon. A question with a paragraph answer barely stresses the system. You need a reservoir of big, difficult problems that you really care about. This aspect drives the consumer / professional dimension of the funnel.\n2. The jaggedness of the system (which I have written about a lot separately). Capability peaks in domains that are digital, verifiable and economically valuable. This is because LLM capability emerges from reinforcement learning on verifiable rewards on a curated environment mixture driven by revenue potential. This aspect primarily drives the area (e.g. math&code) dimension of the funnel.\n3. Access. Free-tier, paid-tier, internal.\n\nSo this is the weirdness of the moment. The general public has mostly not interacted with these systems. When they have, it looks like a derpy chatbot. The majority of professionals still see only a modest uplift. And a small sliver of professionals are experiencing the vertigo of the curve going vertical. And it is all happening at the same time.",
-     "date": "2026-10-11T19:12:37.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/karpathy/status/2109361546505966046"
-    }
-   ]
-  },
-  {
-   "handle": "deepseek_ai",
-   "name": "DeepSeek",
-   "group": "ai",
-   "avatar": "img/x-deepseek_ai.jpg",
-   "posts": [
-    {
-     "id": "2112476496283775135",
-     "text": "🚀 Introducing DeepInfer, our in-house inference framework, now fully open source!\n\nPowering DeepSeek-V4.1-Flash at scale with high throughput and low latency. We’re sharing our production stack to help the community lower compute costs, reduce energy use, and make AI more",
-     "date": "2026-10-20T09:30:19.000Z",
+     "id": "2116957135661945283",
+     "text": "Weekend hack: HackerTube. I was annoyed with YouTube's recommendations so I had Claude filter down 43M comments over 20 years of HN to 6,454 videos that keep being recommended. *Significantly* better viewing experience, ~2 hours with Opus 5.5:\n\n- Excellent",
+     "date": "2026-11-01T18:14:46.000Z",
      "quoted": false,
-     "image": null,
+     "image": "https://pbs.twimg.com/media/HWDnuuCaIAA__wa.jpg",
      "video": null,
-     "url": "https://x.com/deepseek_ai/status/2112476496283775135"
-    },
-    {
-     "id": "2111375640717033777",
-     "text": "🚀 DeepSeek-V4.1-Flash-1017 is here!\n\nStronger benchmark performance, faster task completion, and shorter outputs than the previous version—a Pareto improvement in performance and cost. Now live on our website, app, and API.\n\n🛠️ Optimized for @DeepSeekHarness, Tencent CodeBuddy,",
-     "date": "2026-10-17T08:35:54.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HU0b65KbsAAypqr.jpg",
-     "video": null,
-     "url": "https://x.com/deepseek_ai/status/2111375640717033777"
+     "url": "https://x.com/karpathy/status/2116957135661945283"
     }
    ]
   },
@@ -287,22 +288,40 @@
    "avatar": "img/x-alibaba_qwen.jpg",
    "posts": [
     {
-     "id": "2118674834632978755",
-     "text": "The becoming begins.",
-     "date": "2026-11-06T12:00:18.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWcJWyabAAAzP6_.jpg",
+     "id": "2123328957022081036",
+     "text": "Try Qwen4-Max on Nous Portal and show us your creations. 🔥 @NousResearch @inferact 🫶",
+     "date": "2026-11-19T08:14:07.000Z",
+     "quoted": true,
+     "image": null,
      "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2118674834632978755"
+     "url": "https://x.com/Alibaba_Qwen/status/2123328957022081036"
     },
     {
-     "id": "2109633085658808515",
-     "text": "Introducing QwenGyre, bringing elastic RL to extreme-long-horizon (XLong) agent training. ✨\n\nIt launches with two core designs: 🥳\n- Elastic Scheduler: reallocates GPUs between rollout &amp; training as demand shifts—live executions never interrupted. Up to 1.85× speedup over",
-     "date": "2026-10-12T13:11:37.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUboWdbboAA70KJ.jpg",
+     "id": "2122958542982508901",
+     "text": "Built for real-world work. 🛠️ Qwen4-Max is live on @TokenHarborAI. Give it a try!",
+     "date": "2026-11-18T07:42:13.000Z",
+     "quoted": true,
+     "image": null,
      "video": null,
-     "url": "https://x.com/Alibaba_Qwen/status/2109633085658808515"
+     "url": "https://x.com/Alibaba_Qwen/status/2122958542982508901"
+    },
+    {
+     "id": "2122888191950901534",
+     "text": "Qwen4-Max lands on @runware. Start building today! 🙌",
+     "date": "2026-11-18T03:02:40.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2122888191950901534"
+    },
+    {
+     "id": "2122623567674396990",
+     "text": "Qwen4-Max is now live on @LebrelAI. Come try agentic coding and show us what you build. 😎",
+     "date": "2026-11-17T09:31:09.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/Alibaba_Qwen/status/2122623567674396990"
     }
    ]
   },
@@ -313,40 +332,40 @@
    "avatar": "img/x-mistralai.jpg",
    "posts": [
     {
-     "id": "2118744719870066936",
-     "text": "Transcribing speech is one thing. Knowing when someone is done speaking is another.\n\n🎙 Voxtral 3’s end-of-turn detection helps developers identify when a user has finished speaking, making it easier to build responsive voice interactions without relying on science alone.\n\n See",
-     "date": "2026-11-06T16:38:00.000Z",
+     "id": "2123339999244636509",
+     "text": "We’re teaming up with @ClickHouseDB for a special one-day hackathon in Paris!\n\nCome build with Le Chonk, Timestral, ClickHouse, and Langfuse\n\n📅 Saturday, Dec 5\n\n📍 Paris\n\nRSVP required:",
+     "date": "2026-11-19T08:58:00.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118623280009449472/img/Xvi2kHnY-ThT4v3-.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118623280009449472/vid/avc1/1842x1908/ifSreKvl-hZlSnc8.mp4",
-     "url": "https://x.com/MistralAI/status/2118744719870066936"
+     "image": null,
+     "video": null,
+     "url": "https://x.com/MistralAI/status/2123339999244636509"
     },
     {
-     "id": "2118370229466153299",
-     "text": "🆕 Le Chonk brings the brains. Mistral Studio gets it working.\n\nIntroducing managed agents and apps, plus new capabilities for workflows, enterprise connections, observability and evaluations in Studio.\n\nBuild faster. Deploy where you choose. Keep control.\nSee what’s possible. 🧵",
-     "date": "2026-11-05T15:49:54.000Z",
+     "id": "2123073168659141119",
+     "text": "Mistral Vibe is now available on Desktop!\n\nRun agents locally or remotely, and start shipping straight from your MacOS or Windows device.\n\nYou can try the Pro plan for free if you’re building in Europe. Coupon code: LECHONK\n\n(yes, we added more  after we ran out yesterday).\n\nUse",
+     "date": "2026-11-18T15:17:42.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118366149817589760/img/w-0uis_jH9k-FJib.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118366149817589760/vid/avc1/1920x1080/YjVoMPaHteSYSWT3.mp4",
-     "url": "https://x.com/MistralAI/status/2118370229466153299"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123073010877825025/img/fnGdqX57-qa6NdP4.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123073010877825025/vid/avc1/2240x1024/_-RY80kZSJeF1iU1.mp4",
+     "url": "https://x.com/MistralAI/status/2123073168659141119"
     },
     {
-     "id": "2118051904899166279",
-     "text": "🔴 LIVE TOMORROW\n\nOffice Hours are back. We’re talking Studio and Vibe, with a guest from the Studio team.\n\nDrop your questions below 👇 or just come hang out.\n📅 Nov 5\n⏰ 6PM CET / 12PM EST\n📍 YouTube:\n📍 Discord:",
-     "date": "2026-11-04T18:45:00.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118042522106650624/img/ncIWVga2czclGJ-F.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118042522106650624/vid/avc1/3840x2160/i1CnTvOduaKBfcez.mp4",
-     "url": "https://x.com/MistralAI/status/2118051904899166279"
+     "id": "2122728226531545138",
+     "text": "That was fast! We’ve run out of codes for today.\nKeep an eye out tomorrow for more news. 👀",
+     "date": "2026-11-17T16:27:02.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/MistralAI/status/2122728226531545138"
     },
     {
-     "id": "2117925908572991748",
-     "text": "Can Mistral Large 4 find a critical vulnerability, prove it and fix it? We tested it on a recent Django CVE.\n\n133 agents map the code, hunt for flaws, test attack scenarios and confirm the bug. Then Le Chonk patches it.\n\nTriage, repro, patch. Shown at 90x speed.",
-     "date": "2026-11-04T10:24:20.000Z",
+     "id": "2120489851615084876",
+     "text": "What does real-time transcription look like in a live setting?\n\n🎙 We used Voxtral Transcribe 3 at AI Engineer Paris to capture every main-stage talk in real time. We boosted accuracy with context biasing, feeding the model speaker names and technical terms from the conference",
+     "date": "2026-11-11T12:12:32.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2117925760174260224/img/tm8zM-Pe2NWKXYB3.jpg",
-     "video": "https://video.twimg.com/amplify_video/2117925760174260224/vid/avc1/2698x1516/KgpzSDokH4eXC2VO.mp4",
-     "url": "https://x.com/MistralAI/status/2117925908572991748"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2120489615933018112/img/RVM_O5QqBFKQ5Uqh.jpg",
+     "video": "https://video.twimg.com/amplify_video/2120489615933018112/vid/avc1/1920x1080/ib1ZnuXvZdI5yKRR.mp4",
+     "url": "https://x.com/MistralAI/status/2120489851615084876"
     }
    ]
   },
@@ -357,40 +376,40 @@
    "avatar": "img/x-aiatmeta.png",
    "posts": [
     {
-     "id": "2118768974779634084",
-     "text": "Today we're bringing specialized models trained using Muse Wonder to @Muse and Meta AI, giving users access to some of Muse Wonder's frontier capabilities for complex tasks at work and in everyday life.\n\nThese specialized models include Muse Wonder's Active Memory and Active Focus, helping them stay aligned with your goals as tasks unfold:\n\n→ Active Memory helps recognize when earlier information matters and distinguish what's still relevant from what's become stale\n\n→ Active Focus helps recover from setbacks or find alternatives when constraints change\n\nIn Muse, the improved models show a 2.4x reduction in forgetting information critical to your goals and a 67% improvement in getting unstuck as constraints evolve. That means less repeating yourself and fewer dead ends when plans change.\n\nIn Meta AI, these improvements help it break complex problems into steps, ask sharper follow-up questions and adapt when you change direction.\n\nRead more on our research blog:",
-     "date": "2026-11-06T18:14:23.000Z",
+     "id": "2123484005089558692",
+     "text": "Legal work is a tough test for AI. \n\nMuse Wonder earned the highest overall quality score in Legora’s November BAR benchmark for legal work. A strong showing on the kinds of complex tasks businesses need help with.",
+     "date": "2026-11-19T18:30:13.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWdgfSKbEAAV_7y.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/AIatMeta/status/2118768974779634084"
+     "url": "https://x.com/AIatMeta/status/2123484005089558692"
     },
     {
-     "id": "2118412135340572850",
-     "text": "During Connect, we previewed Muse Realtime Avatar, our real-time embodiment technology that turns Muse Realtime Voice into expressive, interactive avatars.\n\nToday, we’re rolling it out in the @Muse app in the US, giving people a more natural way to engage with their personal agents.\n\nLearn more about Muse Realtime Avatar on our research blog:",
-     "date": "2026-11-05T18:36:25.000Z",
+     "id": "2119912647034642817",
+     "text": "Today we're also bringing Muse Ember to @GoogleCloud  along with Muse Wonder and Muse Spark 1.3.",
+     "date": "2026-11-09T21:58:55.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118411815852056576/img/6UaZfCrU4eOkGNWu.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118411815852056576/vid/avc1/1920x1080/eJ4LJN-bFJzbZAQu.mp4",
-     "url": "https://x.com/AIatMeta/status/2118412135340572850"
+     "image": null,
+     "video": null,
+     "url": "https://x.com/AIatMeta/status/2119912647034642817"
     },
     {
-     "id": "2115490919923548307",
-     "text": "Today we're announcing support for university research at @Caltech, @OhioStateMed, @LSU, @IndianaUniv, and @UTHealthHouston to help advance breakthroughs across science and medicine.\n\nAs part of the support for university researchers, we’ll provide access to our latest Muse models, including Muse Wonder and Muse Spark; open weight models like Muse Glimmer and Muse Spark Open; computer vision models such as SAM, V-JEPA, and DINO; as well as SeamlessM4T, our multilingual communication model.\n\nWe’re excited to support these five universities as they use our models to accelerate the important work they’re doing.\n\nRead more on our research blog:",
-     "date": "2026-10-28T17:08:33.000Z",
+     "id": "2119853597542568405",
+     "text": "Muse Ember is available today on the Meta Model API, at $0.10 per million input tokens and $0.50 per million output tokens.\n\nLearn more on our research blog:",
+     "date": "2026-11-09T18:04:17.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVu6oczagAAOCRE.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/AIatMeta/status/2115490919923548307"
+     "url": "https://x.com/AIatMeta/status/2119853597542568405"
     },
     {
-     "id": "2112265822274302066",
-     "text": "Today we published a technical report on Muse Glimmer, our 30B open-weight model built for agentic tasks on consumer hardware.\n\nIt runs at practical speeds on a Mac or PC with a single consumer GPU at 4-bit precision, and leads comparably-sized open models on tool use and multi-step planning.\n\nRead about the model architecture, distillation recipe, quantization and more:",
-     "date": "2026-10-19T19:33:10.000Z",
+     "id": "2119853595453702580",
+     "text": "For agents that perform hundreds of small tasks, efficiency matters at every step. Muse Ember is built to deliver more intelligence for the cost.\n\nOn the @ArtificialAnlys Intelligence Index, it achieves performance comparable to Claude Haiku 5.5 at roughly one-third of the cost per task, while scoring higher than GPT-6 Luna across all of Luna's reasoning settings.",
+     "date": "2026-11-09T18:04:16.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVBGWzGboAEu_NE.jpg",
+     "image": "https://pbs.twimg.com/media/HWs6A9VbIAEjodf.jpg",
      "video": null,
-     "url": "https://x.com/AIatMeta/status/2112265822274302066"
+     "url": "https://x.com/AIatMeta/status/2119853595453702580"
     }
    ]
   },
@@ -401,40 +420,40 @@
    "avatar": "img/x-nvidia.jpg",
    "posts": [
     {
-     "id": "2114827978748383342",
-     "text": "After a breast cancer diagnosis, one of the hardest questions is whether it will come back.\n\n@SimBioSys is helping doctors and patients better understand that risk. Powered by NVIDIA technology, its FDA-cleared TumorSight Risk analyzes an existing breast MRI alongside pathology and clinical information to estimate the risk of cancer returning at five and ten years.\n\nFor women with HR-positive, HER2-negative early-stage breast cancer, those insights can be available before surgery, giving them and their doctors more information as they talk through treatment options.\n\nAI can help give patients and their doctors more information when the decisions ahead feel most difficult.",
-     "date": "2026-10-26T21:14:16.000Z",
+     "id": "2121647278012441054",
+     "text": "With NVIDIA AI, our partners are helping recyclers recover more of what we can use again.\n\nRead more:",
+     "date": "2026-11-14T16:51:44.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2114827948523995136/img/fi5tuEXf2JBFgkx3.jpg",
-     "video": "https://video.twimg.com/amplify_video/2114827948523995136/vid/avc1/1080x1350/tCYd21JupPGaL6xD.mp4",
-     "url": "https://x.com/nvidia/status/2114827978748383342"
+     "image": null,
+     "video": null,
+     "url": "https://x.com/nvidia/status/2121647278012441054"
     },
     {
-     "id": "2114377680715980950",
-     "text": "Europe is building its AI future, and we’re all in. \n\nFrom AI factories and AI agents to robotics and healthcare, Jensen took the stage at #NVIDIAGTC Berlin to show how AI is taking shape across the continent.\n\nHere's a look back at the highlights:",
-     "date": "2026-10-25T15:24:56.000Z",
+     "id": "2121647274522734994",
+     "text": "Knowing what’s on the conveyor belt helps recyclers recover more material.\n\n@greyparrotai uses AI to identify passing materials, giving plant operators real-time information to improve sorting.",
+     "date": "2026-11-14T16:51:43.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVfHS85XkAA6wvW.jpg",
-     "video": "https://video.twimg.com/amplify_video/2114377565158662144/vid/avc1/1280x720/Y0QkPlLGU3q2nzuP.mp4?tag=16",
-     "url": "https://x.com/nvidia/status/2114377680715980950"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2121646679224918016/img/yqr-R2kgCQy5Bkq7.jpg",
+     "video": "https://video.twimg.com/amplify_video/2121646679224918016/vid/avc1/3840x2160/jHo0OoLVUWPhMvTu.mp4",
+     "url": "https://x.com/nvidia/status/2121647274522734994"
     },
     {
-     "id": "2113757030754443437",
-     "text": "A new look for a classic. 💚\n\nRTX Remix for Minecraft: Java Edition gives creators tools to remaster the game with realistic path-traced lighting and AI powered DLSS for maximum performance.\n\nAvailable on @NVIDIAGeForce and @NVIDIARTXSpark.",
-     "date": "2026-10-23T22:18:42.000Z",
+     "id": "2121647267622891945",
+     "text": "The more precisely plastic is sorted, the more can be recycled. \n\nAIRECO uses AI and robotic arms to separate mixed plastics, helping used items become new versions of the same product.",
+     "date": "2026-11-14T16:51:41.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2113756860428017664/img/06AoMv6wLAkLbem-.jpg",
-     "video": "https://video.twimg.com/amplify_video/2113756860428017664/vid/avc1/1080x1350/uRsnEBqrrDauS_Fr.mp4",
-     "url": "https://x.com/nvidia/status/2113757030754443437"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2121646241301909504/img/JY8x6YusYvc8dh1c.jpg",
+     "video": "https://video.twimg.com/amplify_video/2121646241301909504/vid/avc1/1920x1080/evJwE2GO2CVNFzDM.mp4",
+     "url": "https://x.com/nvidia/status/2121647267622891945"
     },
     {
-     "id": "2113604477261398148",
-     "text": "A country’s data carries its culture, history, and values. It belongs to its people.\n\n@JensenHuang on why that knowledge is a natural resource for Kazakhstan’s AI future.",
-     "date": "2026-10-23T12:12:30.000Z",
+     "id": "2121647264179564651",
+     "text": "Small defects can affect a garment’s quality and value. uses AI to spot those details and sort used clothing into its most valuable category.",
+     "date": "2026-11-14T16:51:40.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2113604443924996097/img/37ES4hXC3OAJtlYN.jpg",
-     "video": "https://video.twimg.com/amplify_video/2113604443924996097/vid/avc1/576x1024/vIyVKBm-dLKBgcpd.mp4?tag=16",
-     "url": "https://x.com/nvidia/status/2113604477261398148"
+     "image": "https://pbs.twimg.com/media/HXGZrCdXkAAaeab.jpg",
+     "video": "https://video.twimg.com/amplify_video/2121645899621273601/vid/avc1/1920x1080/-HYffQ2-EF7igN8k.mp4",
+     "url": "https://x.com/nvidia/status/2121647264179564651"
     }
    ]
   },
@@ -445,10 +464,28 @@
    "avatar": "img/x-huggingface.jpg",
    "posts": [
     {
+     "id": "2122393775314264519",
+     "text": "We're teaming up to accelerate open-source Al.\nOpenRouter is now integrated into Hugging Face directly. Same token, same endpoint, plus live model stats on the Hub and an inference widget we redesigned together.\nThe best of open, in one place.",
+     "date": "2026-11-16T18:18:02.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/huggingface/status/2122393775314264519"
+    },
+    {
+     "id": "2120200194247565645",
+     "text": "Local AI 301: Quantization",
+     "date": "2026-11-10T17:01:32.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/huggingface/status/2120200194247565645"
+    },
+    {
      "id": "2118715992343789911",
      "text": "Stream live training runs on Hugging Face!",
      "date": "2026-11-06T14:43:51.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/huggingface/status/2118715992343789911"
@@ -457,28 +494,10 @@
      "id": "2118430862949945612",
      "text": "Our open-source ML Intern is now available as a Slack bot you can install in your own workspace! \n\nEvaluate models, build datasets, and fine-tune models on the fly 🚀",
      "date": "2026-11-05T19:50:50.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/huggingface/status/2118430862949945612"
-    },
-    {
-     "id": "2118004921597665638",
-     "text": "Evaluating robot models in the real world is hard, but solvable. That's why we're a founding partner of RoboColosseum 🤗\n\n100+ real robots, 140+ in-the-wild scenes, and every rollout, failures included, open on the Hub.",
-     "date": "2026-11-04T15:38:18.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/huggingface/status/2118004921597665638"
-    },
-    {
-     "id": "2115507199623803084",
-     "text": "Great way to break into AI/ML research!",
-     "date": "2026-10-28T18:13:15.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/huggingface/status/2115507199623803084"
     }
    ]
   },
@@ -489,40 +508,40 @@
    "avatar": "img/x-geminiapp.png",
    "posts": [
     {
-     "id": "2118406227533435391",
-     "text": "Gemini Omni 1.2 Flash is rolling out starting today to all Google AI subscribers. Refine videos through multi-turn conversational edits and enjoy sharper visual stability in the Gemini app.\n\nPlus, Google AI Ultra subscribers can now create and edit videos up to 15 seconds long, giving you more room to tell complete stories, create product explainers, or produce full social ad spots in a single generation.\n\nLearn more about Omni 1.2 Flash in our blog:",
-     "date": "2026-11-05T18:12:57.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/GeminiApp/status/2118406227533435391"
-    },
-    {
-     "id": "2116304609383710988",
-     "text": "Whether you're tackling complex projects with Gemini 4 Argon, connecting your favorite apps to Gemini, or creating a custom skill for repetitive prompts, our latest Gemini Drops put more power and personalization at your fingertips. Here’s what’s new 🧵",
-     "date": "2026-10-30T23:01:52.000Z",
+     "id": "2123513203745538423",
+     "text": "With computer use in the Gemini app for Mac, you can now hand off tasks across your folders, apps, and the web, while your screen and cursor stay yours.\n\nWatch Gemini click, scroll, and type in a live background window, turning a quick sketch into a rigged 3D model in Blender.",
+     "date": "2026-11-19T20:26:15.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/GeminiApp/status/2116304609383710988"
+     "url": "https://x.com/GeminiApp/status/2123513203745538423"
     },
     {
-     "id": "2115885244805251519",
-     "text": "You can now create and share your avatar in Gemini to star in images and videos with friends.\n\nShare your personal avatars, tag each other in prompts, and maintain character and voice consistency. Plus, you're in control and can add or remove anyone's access whenever you want.",
-     "date": "2026-10-29T19:15:28.000Z",
+     "id": "2123168704662012079",
+     "text": "Starting today, Gemini 4 Neon is available to Google AI Pro and Ultra subscribers on mobile, desktop, and web.\n\nThis new model excels at work that requires frontier-level reasoning and fast responses. 🧵",
+     "date": "2026-11-18T21:37:20.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/GeminiApp/status/2115885244805251519"
+     "url": "https://x.com/GeminiApp/status/2123168704662012079"
     },
     {
-     "id": "2115845164824711247",
-     "text": "You can now generate, preview, and edit documents, PDFs, presentations, spreadsheets, and more directly in Gemini.\n\nEasily turn your handwritten notes into a PDF study guide, manually tweak content, highlight sections for Gemini to edit text or visuals, and even ask follow-ups.",
-     "date": "2026-10-29T16:36:12.000Z",
+     "id": "2123130390923878641",
+     "text": "Work smarter, save harder. See how everyday chores turned into serious savings with Tasks in Gemini.",
+     "date": "2026-11-18T19:05:05.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/GeminiApp/status/2115845164824711247"
+     "url": "https://x.com/GeminiApp/status/2123130390923878641"
+    },
+    {
+     "id": "2123100943604707606",
+     "text": "Brainstorm, learn, and create with the Gemini app, now on lower-memory @Android devices, including eligible Android (Go edition) phones.\n\nWe re-architected the app so the core Gemini experience runs smoothly on phones that have less memory, putting it in the hands of more people",
+     "date": "2026-11-18T17:08:04.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/GeminiApp/status/2123100943604707606"
     }
    ]
   },
@@ -533,40 +552,40 @@
    "avatar": "img/x-perplexity_ai.jpg",
    "posts": [
     {
-     "id": "2117659447518740960",
-     "text": "Perplexity Computer can automate every part of an e-commerce business.\n\nRun @Meta ads, email marketing in @klaviyo, and @Shopify stores directly inside Computer.\n\nGet started:",
-     "date": "2026-11-03T16:45:31.000Z",
+     "id": "2123486283791990850",
+     "text": "Download Perplexity or update your app to get started:",
+     "date": "2026-11-19T18:39:17.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2117659358691774464/img/eCzmFgWkvnefjz7S.jpg",
-     "video": "https://video.twimg.com/amplify_video/2117659358691774464/vid/avc1/1920x1080/4S8rmCfXDUcSpzUD.mp4?tag=16",
-     "url": "https://x.com/perplexity_ai/status/2117659447518740960"
-    },
-    {
-     "id": "2112571597798461920",
-     "text": "Perplexity Computer can now run fully local on your Mac.\n\nWork with your native Mac apps and local files, and run tasks without sending sensitive data to the cloud. The model and the agent both run on your Mac.\n\nAvailable now in the Perplexity Mac app.",
-     "date": "2026-10-20T15:48:13.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112571479745495040/img/6agUzZjpfbZMBBOA.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112571479745495040/vid/avc1/1920x1080/-Cm77YMLPTK8ejoZ.mp4?tag=16",
-     "url": "https://x.com/perplexity_ai/status/2112571597798461920"
-    },
-    {
-     "id": "2111110772747321460",
-     "text": "Gemini 4 Argon sets a new record on WANDR.\n\nIt is now available in Perplexity for Pro and Max subscribers.",
-     "date": "2026-10-16T15:03:25.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUwsDzfaAAEhrGS.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/perplexity_ai/status/2111110772747321460"
+     "url": "https://x.com/perplexity_ai/status/2123486283791990850"
     },
     {
-     "id": "2110793639727358422",
-     "text": "NVIDIA’s Nemotron 3.5 Super VL is now available in Perplexity for Pro and Max subscribers, and in Agent API.",
-     "date": "2026-10-15T18:03:15.000Z",
+     "id": "2123486281644560724",
+     "text": "People are managing teammates that build apps, ship code, and run parts of their business.\n\nYesterday we announced teammates on iOS and Android. You can also call teammates from the app.",
+     "date": "2026-11-19T18:39:16.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110793610962821120/img/prjLnJl6ktE9IJJk.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110793610962821120/vid/avc1/1920x1080/0TyfaBnYr3beAgCv.mp4?tag=16",
-     "url": "https://x.com/perplexity_ai/status/2110793639727358422"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123477568217022464/img/vthUZ6a7vidCSDvd.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123477568217022464/vid/avc1/1920x1080/8HeDrjJeKg0CzaRs.mp4",
+     "url": "https://x.com/perplexity_ai/status/2123486281644560724"
+    },
+    {
+     "id": "2123449541651534007",
+     "text": "Personal skill improvement is now available to all consumer and enterprise subscribers in the US. It's on by default for eligible users and can be turned off in your settings.\n\nRead more:",
+     "date": "2026-11-19T16:13:17.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/perplexity_ai/status/2123449541651534007"
+    },
+    {
+     "id": "2123449529999712548",
+     "text": "In the same test, the tool call failure rate dropped by 11% across all Computer activity, and by about 7% excluding the system's own background runs.\n\nMedium- and high-dissatisfaction threads per user dropped by 7.6%. Cost and response time didn't measurably change.",
+     "date": "2026-11-19T16:13:14.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/perplexity_ai/status/2123449529999712548"
     }
    ]
   },
@@ -584,33 +603,6 @@
      "image": "https://pbs.twimg.com/amplify_video_thumb/2119127224125403136/img/JPLTqUJGfEUqstbE.jpg",
      "video": "https://video.twimg.com/amplify_video/2119127224125403136/vid/avc1/1280x720/GBslAlqSdVK7aQ6q.mp4?tag=16",
      "url": "https://x.com/adcock_brett/status/2119127304265949511"
-    },
-    {
-     "id": "2117286067472937012",
-     "text": "Newly manufactured F.03 robots leaving BotQ and heading across campus",
-     "date": "2026-11-02T16:01:50.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2117286032630857728/img/z9gzqC_d_FkIWrM2.jpg",
-     "video": "https://video.twimg.com/amplify_video/2117286032630857728/vid/avc1/1080x1454/u7AVpJ-HYEOh2rXp.mp4?tag=16",
-     "url": "https://x.com/adcock_brett/status/2117286067472937012"
-    },
-    {
-     "id": "2114035491540758563",
-     "text": "3 generations of Humanoid Robots at Figure",
-     "date": "2026-10-24T16:45:12.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2114034917164072960/img/JrfEuGoOOl8T5skU.jpg",
-     "video": "https://video.twimg.com/amplify_video/2114034917164072960/vid/avc1/1920x1080/Une7Rd9fIjIEK1ux.mp4",
-     "url": "https://x.com/adcock_brett/status/2114035491540758563"
-    },
-    {
-     "id": "2112227583643509174",
-     "text": "F.03 just crossed 9 straight days walking on this treadmill: 348 miles and 1.2 million steps\n\nStarted as a side project to stress the robot for any failures. Let's see how long it can go",
-     "date": "2026-10-19T17:01:13.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2112227376558120960/img/uW8PI1t5J9sQ42dO.jpg",
-     "video": "https://video.twimg.com/amplify_video/2112227376558120960/vid/avc1/1920x1080/a3w2jn5RS97XgAO8.mp4?tag=16",
-     "url": "https://x.com/adcock_brett/status/2112227583643509174"
     }
    ]
   },
@@ -638,6 +630,24 @@
    "avatar": "img/x-robots-bostondynamics.jpg",
    "posts": [
     {
+     "id": "2123453503725027444",
+     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental progress, uniting inspection data from autonomous robots with other information sources to help identify problems, make better decisions, and act on insights more quickly.",
+     "date": "2026-11-19T16:29:01.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/BostonDynamics/status/2123453503725027444"
+    },
+    {
+     "id": "2122695488973467779",
+     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston Dynamics and Spot for over four years and recently expanded the program to Singapore, where two Spot robots have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, achieving a 99% mission success rate.",
+     "date": "2026-11-17T14:16:57.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXVUS2yXMAA3DgK.jpg",
+     "video": null,
+     "url": "https://x.com/BostonDynamics/status/2122695488973467779"
+    },
+    {
      "id": "2117663862564573240",
      "text": "We're thrilled to announce Stretch Gen 2, the next generation of our autonomous mobile trailer unloading robot!\n\n\"Our customers count on Stretch to keep freight moving, and every hour a robot sits idle is an hour of work that piles up on the dock. With Gen 2, we focused on the things that actually took robots offline in the real world. We made it tougher, we made it simpler to service, and we made sure it keeps getting better long after it's deployed.\" - Brian Donnelly, VP & GM - Logistics Robotics\n\nLearn more:",
      "date": "2026-11-03T17:03:03.000Z",
@@ -654,24 +664,6 @@
      "image": "https://pbs.twimg.com/media/HVzjACpXgAAMaOT.jpg",
      "video": "https://video.twimg.com/amplify_video/2115815423157362688/vid/avc1/1920x1080/KZi-8rHqjBzcKrI9.mp4?tag=16",
      "url": "https://x.com/BostonDynamics/status/2115815524051362095"
-    },
-    {
-     "id": "2115450377004826743",
-     "text": "This gripper sucks—literally. Stretch's vacuum gripper uses individually actuated cups to handle a range of boxes with ease. See what makes the cut, so you can avoid your own frightful freight mismatches this Halloween!",
-     "date": "2026-10-28T14:27:27.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVuW54tXQAAtCF1.jpg",
-     "video": "https://video.twimg.com/amplify_video/2115450267038613504/vid/avc1/1920x1080/Fr5d9kWw7sX-xJ3a.mp4?tag=16",
-     "url": "https://x.com/BostonDynamics/status/2115450377004826743"
-    },
-    {
-     "id": "2110755540401827986",
-     "text": "After an ongoing deployment in Barcelona, @CocaColaEP is scaling Spot globally. Spot is already up and running in East Kilbride, Scotland, locating air leaks and automating condition monitoring rounds.",
-     "date": "2026-10-15T15:31:51.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUro-WHXYAAzi4v.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110755331244544000/vid/avc1/1920x1080/sO9X5hOWssL1mJbA.mp4?tag=16",
-     "url": "https://x.com/BostonDynamics/status/2110755540401827986"
     }
    ]
   },
@@ -682,40 +674,40 @@
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
     {
-     "id": "2118749029404492143",
-     "text": "GeekWire’s @toddbishop sat down with our co-founder and Chief Robot Officer Jonathan Hurst to talk about what it takes to get a balancing robot safely out from behind the fence, and the standards work behind it.\n\nThe full conversation:",
-     "date": "2026-11-06T16:55:07.000Z",
+     "id": "2123504116408172671",
+     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
+     "date": "2026-11-19T19:50:08.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWdOjN4bIAAT68C.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2118749029404492143"
+     "image": "https://pbs.twimg.com/media/HXgzvXoWUAAxflY.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123504090638348288/vid/avc1/1080x1350/JpCRdSScmKWyNvbO.mp4?tag=16",
+     "url": "https://x.com/agilityrobotics/status/2123504116408172671"
     },
     {
-     "id": "2118435464919322717",
-     "text": "Thanks for the coverage, @business. \n\n🤖🎉",
-     "date": "2026-11-05T20:09:08.000Z",
-     "quoted": true,
-     "image": null,
+     "id": "2123069661487190053",
+     "text": "Three leadership appointments at Agility: Daniel Diez is now President, Christopher “Sully” Sullivan is Chief Product Officer, and Ana Lang is Chief Administrative Officer.",
+     "date": "2026-11-18T15:03:46.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXaolz2aAAAXQpo.png",
      "video": null,
-     "url": "https://x.com/agilityrobotics/status/2118435464919322717"
+     "url": "https://x.com/agilityrobotics/status/2123069661487190053"
     },
     {
-     "id": "2117663274527551660",
-     "text": "Traditional controls plus AI is how Digit works in facilities today, and it's the foundation Digit 5 is built on. Thanks for having Daniel on, @CES and @JamesKotecki.\n\nListen to the full episode:\n\n#Agility #MadeForWork #Digit",
-     "date": "2026-11-03T17:00:43.000Z",
+     "id": "2122823384446718088",
+     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
+     "date": "2026-11-17T22:45:09.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWNx8xDbcAIHeDq.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2117663274527551660"
+     "image": "https://pbs.twimg.com/media/HXXInjDXsAAIPwb.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122823356839874560/vid/avc1/1080x1350/-ftG1dIyuYE6fzxc.mp4?tag=16",
+     "url": "https://x.com/agilityrobotics/status/2122823384446718088"
     },
     {
-     "id": "2115526516947956133",
-     "text": "Majority staff from the @EdWorkforceCmte visited RoboFab, our factory in Salem, Oregon, for a firsthand look at what it takes to build an American humanoid robot that is Made for Work®.\n\nWe discussed our engineering, how customers are using Digit to address workforce challenges,",
-     "date": "2026-10-28T19:30:00.000Z",
+     "id": "2122377970170114379",
+     "text": "Perceiving, reasoning, and doing useful work in environments it’s never encountered before — our Chief Robot Officer Jonathan Hurst calls this the grand challenge of robotics.\n\nIt’s what Agility’s AI stack is built to solve 👇\n\n#Agility #Digit",
+     "date": "2026-11-16T17:15:14.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVvHUqGbgAA3QS_.jpg",
-     "video": null,
-     "url": "https://x.com/agilityrobotics/status/2115526516947956133"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122376656828743681/img/P0lHNAQalKfmlHk5.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122376656828743681/vid/avc1/1080x1350/Ue67663mi4KVbViC.mp4",
+     "url": "https://x.com/agilityrobotics/status/2122377970170114379"
     }
    ]
   },
@@ -726,13 +718,13 @@
    "avatar": "img/x-robots-apptronik.jpg",
    "posts": [
     {
-     "id": "2117715446103146722",
-     "text": "Are you attending #CORL2026? The #Apptronik team is looking forward to connecting with top talent in robotics and embodied AI at our “Fueling the Future: Apptronik CoRL Networking Lunch” on Wednesday 11/11 in Austin!\n\nWhether you’re curious about what we've been building,",
-     "date": "2026-11-03T20:28:02.000Z",
+     "id": "2120207146113753350",
+     "text": "Tying a bow, sorting car parts... it's called range.",
+     "date": "2026-11-10T17:29:09.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWOisP2WkAAIKU2.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/Apptronik/status/2117715446103146722"
+     "url": "https://x.com/Apptronik/status/2120207146113753350"
     }
    ]
   },
@@ -769,13 +761,13 @@
    "avatar": "img/x-robots-ubtechrobotics.jpg",
    "posts": [
     {
-     "id": "2109615224097501600",
-     "text": "Time travel to the Tang Dynasty🤖🏮\n\nOur ultra-bionic humanoid robot U1 Pro just landed in ancient Chang’an, and honestly… the Tang-style look suits her. 👀✨\n\n#UBTECH #UWORLD #UltraBionic #HumanoidRobot #ChineseCulture",
-     "date": "2026-10-12T12:00:38.000Z",
+     "id": "2123023424842768690",
+     "text": "🌏 A Shenzhen Moment for APEC 2026!\n \nUBTECH robots are ready to welcome everyone — and our U1 ultra-bionic robot is singing “Auld Lang Syne” to friends from across the Pacific. 🤖🎶👋\n \nLet’s make this moment count! ✨\n \n#UBTECH #Robotics #HumanoidRobot #AI #APEC2026",
+     "date": "2026-11-18T12:00:03.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2109614461111734272/img/QPKxNg9p2ePxTNCO.jpg",
-     "video": "https://video.twimg.com/amplify_video/2109614461111734272/vid/avc1/2160x3840/N1O7q4omKZRjkGzN.mp4",
-     "url": "https://x.com/UBTECHRobotics/status/2109615224097501600"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122996532823683072/img/-J__0XYLJ4L80N3H.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122996532823683072/vid/avc1/3840x2160/zt9FOxzxqoFYU4pL.mp4",
+     "url": "https://x.com/UBTECHRobotics/status/2123023424842768690"
     }
    ]
   },
@@ -787,7 +779,7 @@
    "posts": [
     {
      "id": "2117914213188239559",
-     "text": "Robots built for real workplaces need more than capable AI models. They need a seamless path from data to deployment and reliable performance amid changing materials, equipment constraints, and exceptions.  \n\nGenie Studio 2.0 brings the full embodied AI lifecycle together in one",
+     "text": "Robots built for real workplaces need more than capable AI models. They need a seamless path from data to deployment and reliable performance amid changing materials, equipment constraints, and exceptions.  \n\nGenie Studio 2.0 brings the full embodied AI lifecycle together in one platform.From data collection and model training to simulation, evaluation, deployment, task orchestration, and fleet operations, new tasks can reach deployment validation in as little as seven days.  \n\nDiscover more：   \n\n#AGIBOT #GenieStudio #EmbodiedAI #Robotics",
      "date": "2026-11-04T09:37:52.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117904335657160704/img/-aCUn-80x5hlk7K_.jpg",
@@ -796,7 +788,7 @@
     },
     {
      "id": "2117255659024470527",
-     "text": "It's one thing for a robot to perform a single action. It's another to complete an entire task on its own.  \n\nAt AGIBOT Innovation Day 2026, AGIBOT A3 Ultra demonstrated autonomous cross-floor navigation and extended autonomous room tidying, showcasing its ability to navigate",
+     "text": "It's one thing for a robot to perform a single action. It's another to complete an entire task on its own.  \n\nAt AGIBOT Innovation Day 2026, AGIBOT A3 Ultra demonstrated autonomous cross-floor navigation and extended autonomous room tidying, showcasing its ability to navigate complex indoor environments, recognize surroundings, make decisions, and carry out tasks over time with minimal human intervention.  \n\nThese demos go beyond individual movements, showing how humanoid robots are moving toward more autonomous and sustained work in real-world environments. \n\n #AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
      "date": "2026-11-02T14:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117191765782634496/img/86DNUZ5AX0IlAsRl.jpg",
@@ -805,7 +797,7 @@
     },
     {
      "id": "2117158349448139116",
-     "text": "110 humanoid robots. One synchronized performance. A GUINNESS WORLD RECORDS.  \n\n110 AGIBOT A3 humanoid robots danced in unison, setting the GUINNESS WORLD RECORDS for the most humanoid robots dancing simultaneously.  \n\nBeyond the spectacular light show, the performance showcased",
+     "text": "110 humanoid robots. One synchronized performance. A GUINNESS WORLD RECORDS.  \n\n110 AGIBOT A3 humanoid robots danced in unison, setting the GUINNESS WORLD RECORDS for the most humanoid robots dancing simultaneously.  \n\nBeyond the spectacular light show, the performance showcased the coordination capabilities behind large-scale robot deployments. Powered by UWB centimeter-level positioning and the LinkBots multi-robot control system, all 110 robots performed in precise synchronization, completing the challenge without a single error.  \n\nA new milestone in multi-robot coordination — where engineering precision meets the art of motion.  \n#AGIBOT #AGIBOTA3 #GuinnessWorldRecords #EmbodiedAI",
      "date": "2026-11-02T07:34:20.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2117156796381229056/img/7QmgbXu3n8BVsgSJ.jpg",
@@ -813,30 +805,13 @@
      "url": "https://x.com/AGIBOTofficial/status/2117158349448139116"
     },
     {
-     "id": "2116168495570333734",
-     "text": "🏆 AGIBOT Wins the Best Use of AI Award!\n\nWe’re honored to receive the Best Use of AI  from @HumanoidRTech!\n\nThis recognition highlights AGIBOT’s work in:\n🔹AI model development: Advancing models such as GO-3 and GE-2.\n🔹Open research: Making AGIBOT WORLD openly available to the",
-     "date": "2026-10-30T14:01:00.000Z",
+     "id": "2116145595668627804",
+     "text": "At AGIBOT Innovation Day 2026, robots demonstrated a range of capabilities. Beyond the demonstrations, AGIBOT robots are also taking on tasks in real-world settings, from production-line material handling and industrial logistics to visitor guidance and interactive services.\n\nDifferent tasks require different benchmarks. Now, Worken offers a framework for exploring how to measure the productive work robots actually perform.\n\n#AGIBOT #AGIBOTInnovationDay #Worken #EmbodiedAI",
+     "date": "2026-10-30T12:30:00.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2116155402190790656/img/QE9hcQb7jPoWyTQ0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2116155402190790656/vid/avc1/2160x2160/2bWrxOMcu3jjITL-.mp4",
-     "url": "https://x.com/AGIBOTofficial/status/2116168495570333734"
-    }
-   ]
-  },
-  {
-   "handle": "XPENG_Global",
-   "name": "XPENG",
-   "group": "robots",
-   "avatar": "img/x-robots-xpeng_global.jpg",
-   "posts": [
-    {
-     "id": "2117924611514069366",
-     "text": "XPENG and Academic Partners Release GroundingPI, a Pretrained Model for Embodied Perception, Outperforming GPT-6 Astra in Overall Perception Benchmarks. $XPEV",
-     "date": "2026-11-04T10:19:11.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/XPENG_Global/status/2117924611514069366"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2116111851528609792/img/cmo31H_0-w9YgIgI.jpg",
+     "video": "https://video.twimg.com/amplify_video/2116111851528609792/vid/avc1/1920x1080/BEF_Q1k6h5Rs0pAv.mp4",
+     "url": "https://x.com/AGIBOTofficial/status/2116145595668627804"
     }
    ]
   },
@@ -847,40 +822,40 @@
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
     {
-     "id": "2118838164567822624",
-     "text": "More NVIDIA models and tools are coming to robot learning with LeRobot 0.7. 🤖\n\nNew integrations include:\n•Cosmos 3 and Long-WAM for world action modeling.\n\n• RoboLab on NVIDIA Isaac Lab for evaluating policies across 120 tabletop tasks.\n\n•SONIC integration for humanoid",
-     "date": "2026-11-06T22:49:19.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2118838164567822624"
-    },
-    {
-     "id": "2118751657169187110",
-     "text": "Scale up testing for complex robot manipulation. 🤖\n\nRoboDojo is now available on NVIDIA Isaac Lab-Arena, bringing challenging bimanual tasks like precision insertion, folding, tool use, and multi-step manipulation to scalable evaluation in simulation.",
-     "date": "2026-11-06T17:05:34.000Z",
+     "id": "2123492195256685021",
+     "text": "The future of physical AI goes beyond what’s onboard. 🤖\n\nPhysical AI systems need reliable connectivity and distributed AI infrastructure to complement on-device computing. 6G will be the connective tissue for billions of physical AI devices, including robots.\n\nExplore what 6G will bring to robotics at #NVIDIAGTC Washington D.C. 🔗",
+     "date": "2026-11-19T19:02:46.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118751615985303552/img/FWqizyefkkXx6HFh.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118751615985303552/vid/avc1/1280x720/deEUooStjdvW7VMR.mp4?tag=16",
-     "url": "https://x.com/NVIDIARobotics/status/2118751657169187110"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123492164952903680/img/6WwqTdi8qp0Lx760.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123492164952903680/vid/avc1/1280x720/QRvD6CHq3tXQZRJR.mp4?tag=16",
+     "url": "https://x.com/NVIDIARobotics/status/2123492195256685021"
     },
     {
-     "id": "2118418587983528257",
-     "text": "Develop a Robot Policy with Agent Skills and NVIDIA Cosmos 3 Edge on Viam | Cosmos Labs",
-     "date": "2026-11-05T19:02:04.000Z",
+     "id": "2123462899548983731",
+     "text": "From Human Demonstrations to Robot Training Data With RLWRLD | Cosmos Labs",
+     "date": "2026-11-19T17:06:21.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2118418587983528257"
+     "url": "https://x.com/NVIDIARobotics/status/2123462899548983731"
     },
     {
-     "id": "2118013144677195871",
-     "text": "Danke, Berlin. 👋\n\nFrom show floor robots to automotive and industrial innovation, physical AI was on the move at #NVIDIAGTC Berlin. 🦾",
-     "date": "2026-11-04T16:10:59.000Z",
+     "id": "2123146352687505775",
+     "text": "What’s driving the next wave of physical AI? See for yourself at #NVIDIAGTC in Washington DC.\n\nLearn how open models, simulation, and accelerated computing are advancing robotics and autonomous vehicles.\n\nExplore sessions and build your agenda 👉",
+     "date": "2026-11-18T20:08:31.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118013116768251904/img/mBiZoH9KqBZcZGNz.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118013116768251904/vid/avc1/576x1024/0UVTlpA65YpPwDVe.mp4?tag=16",
-     "url": "https://x.com/NVIDIARobotics/status/2118013144677195871"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123144886484365312/img/wGjOOI2Yx1Q2LSeG.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123144886484365312/vid/avc1/1280x720/MZMceCnttchTDe7Q.mp4?tag=16",
+     "url": "https://x.com/NVIDIARobotics/status/2123146352687505775"
+    },
+    {
+     "id": "2123107852839501926",
+     "text": "Bring your robot data questions to Cosmos Labs. 🤖 \n\nNVIDIA, Encord and @Voxel51 go live Nov. 19 at 11 a.m. PT with Cosmos Data Factory demos, robotic inspection use cases, and Q&amp;A.\n\nSet a reminder 👉",
+     "date": "2026-11-18T17:35:32.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2123107852839501926"
     }
    ]
   },
@@ -891,40 +866,22 @@
    "avatar": "img/x-elonmusk.jpg",
    "posts": [
     {
-     "id": "2119131060806074732",
+     "id": "2123333341932052749",
+     "text": "Starlink started with a speech in Seattle",
+     "date": "2026-11-19T08:31:32.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/elonmusk/status/2123333341932052749"
+    },
+    {
+     "id": "2123163808592265639",
      "text": "Starlink saves lives",
-     "date": "2026-11-07T18:13:11.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/elonmusk/status/2119131060806074732"
-    },
-    {
-     "id": "2119114815931039992",
-     "text": "Starship flight maneuvers",
-     "date": "2026-11-07T17:08:38.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWibsJOW4AEDRv7.jpg",
-     "video": null,
-     "url": "https://x.com/elonmusk/status/2119114815931039992"
-    },
-    {
-     "id": "2119111269718364631",
-     "text": "Catching a giant rocket falling from space",
-     "date": "2026-11-07T16:54:32.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/elonmusk/status/2119111269718364631"
-    },
-    {
-     "id": "2118880932014997910",
-     "text": "It is so tempting to make a 500 ton thrust Raptor 4 in place of the 250 ton Raptor 3 for the outer ring of the Starship booster",
-     "date": "2026-11-07T01:39:15.000Z",
+     "date": "2026-11-18T21:17:53.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/elonmusk/status/2118880932014997910"
+     "url": "https://x.com/elonmusk/status/2123163808592265639"
     }
    ]
   },
@@ -935,40 +892,40 @@
    "avatar": "img/x-spacex.jpg",
    "posts": [
     {
-     "id": "2119093662957060389",
-     "text": "Starship is preparing for catch\n \nFlight 15 is targeting to launch as early as Friday, November 13, pending regulatory approval →",
-     "date": "2026-11-07T15:44:34.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2119092960125956096/img/Z8AJUBX8VV0RDzzY.jpg",
-     "video": "https://video.twimg.com/amplify_video/2119092960125956096/vid/avc1/3840x2160/GDn_AtzP9a7swQuw.mp4",
-     "url": "https://x.com/SpaceX/status/2119093662957060389"
-    },
-    {
-     "id": "2118953789357281607",
-     "text": "Falcon 9 launches USSF-432 to orbit from pad 4E in California",
-     "date": "2026-11-07T06:28:46.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWgJGcsXsAAgAeD.jpg",
-     "video": null,
-     "url": "https://x.com/SpaceX/status/2118953789357281607"
-    },
-    {
-     "id": "2118870818021097862",
-     "text": "Falcon 9’s first stage lands on the Of Course I Still Love You droneship",
-     "date": "2026-11-07T00:59:04.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118870452604960768/img/K8U8zCZpZP3Hl_Yp.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118870452604960768/vid/avc1/3840x2160/XKz1ZToA4_23F12g.mp4",
-     "url": "https://x.com/SpaceX/status/2118870818021097862"
-    },
-    {
-     "id": "2118864998407852102",
-     "text": "Watch Falcon 9 launch the USSF-432 mission from pad 4E in California",
-     "date": "2026-11-07T00:35:56.000Z",
-     "quoted": false,
+     "id": "2123516375805379040",
+     "text": "On Starship’s 15th flight last week, the Super Heavy booster correctly performed a safe abort when returning for a catch and ended its mission with a splashdown in the water off the coast of Starbase. Following splashdown, SpaceX recovery teams were immediately onsite to safe the",
+     "date": "2026-11-19T20:38:51.000Z",
+     "quoted": true,
      "image": null,
      "video": null,
-     "url": "https://x.com/SpaceX/status/2118864998407852102"
+     "url": "https://x.com/SpaceX/status/2123516375805379040"
+    },
+    {
+     "id": "2123193048574419212",
+     "text": "As Texas communities consider major supercomputing investments, careful long-term tax planning is essential. Under Texas’s no-new-revenue tax framework, rising property values generally drive tax rates down. But as expensive computing equipment rapidly depreciates, this can",
+     "date": "2026-11-18T23:14:04.000Z",
+     "quoted": true,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/SpaceX/status/2123193048574419212"
+    },
+    {
+     "id": "2123097995679867195",
+     "text": "The Starbase tower team on location with the first caught Starship🍌",
+     "date": "2026-11-18T16:56:22.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXbCSrEWMAAQ_Cm.jpg",
+     "video": null,
+     "url": "https://x.com/SpaceX/status/2123097995679867195"
+    },
+    {
+     "id": "2122814338893332591",
+     "text": "The Starbase tower chopsticks catching their first Starship. This unique architecture was designed for full and rapid reusability, enabling repeat launches and landings from the same pad",
+     "date": "2026-11-17T22:09:13.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122813666642825216/img/0xnS9d7S-MNoi-Gl.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122813666642825216/vid/avc1/3840x2160/R_ovrsC9lTeNHskU.mp4",
+     "url": "https://x.com/SpaceX/status/2122814338893332591"
     }
    ]
   },
@@ -979,40 +936,40 @@
    "avatar": "img/x-nasa.jpg",
    "posts": [
     {
-     "id": "2119441731846639971",
-     "text": "American ambition at full throttle. 🇺🇸\n\nAn  incredible first day of MAX POWER at @NASAKennedy with @airdotshow, and  we’re not done yet. This is just a taste of what’s ahead with  @capeweek_us.\n\nMore power. More inspiration. Let’s go!",
-     "date": "2026-11-08T14:47:40.000Z",
+     "id": "2123426372588638511",
+     "text": "Our @Reddit AMA from the @Space_Station is open! We'll be back to answer your questions at noon ET (1700 UTC):",
+     "date": "2026-11-19T14:41:13.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2119441256052932608/img/eUdGd7NaWSonBfvm.jpg",
-     "video": "https://video.twimg.com/amplify_video/2119441256052932608/vid/avc1/3840x2160/Dsj5Gh0UXk7Mmu-z.mp4",
-     "url": "https://x.com/NASA/status/2119441731846639971"
+     "image": "https://pbs.twimg.com/media/HXftBkRXgAAq0lQ.jpg",
+     "video": null,
+     "url": "https://x.com/NASA/status/2123426372588638511"
     },
     {
-     "id": "2119188276049228152",
-     "text": "LIVE: @NASAAdmin and agency leaders are sharing our latest updates on the Moon Base, humanity's first lunar outpost.",
-     "date": "2026-11-07T22:00:32.000Z",
+     "id": "2123156140288610715",
+     "text": "Join us for a @Reddit AMA from the International Space Station!\n\n@astro_anil (in orbit) and @zenanaut (on Earth) are taking your questions about how to become an astronaut and what it's like to live in space. Stop by on Nov. 19:",
+     "date": "2026-11-18T20:47:24.000Z",
      "quoted": false,
-     "image": null,
+     "image": "https://pbs.twimg.com/media/HXb3QZUW8AAmr-Z.jpg",
      "video": null,
-     "url": "https://x.com/NASA/status/2119188276049228152"
+     "url": "https://x.com/NASA/status/2123156140288610715"
     },
     {
-     "id": "2119089554837979631",
-     "text": "Good morning from MAX POWER @NASAKennedy!✈️\n\nThe tech toys are on display, aircraft are fueled up, and NASA experts are ready to meet you! \n\nFollow along on @NASA_Events for updates and more views from our aerospace expo and air show.",
-     "date": "2026-11-07T15:28:15.000Z",
+     "id": "2121280846183137564",
+     "text": "Let's talk about Voyager 1 and 2!\n \nJoin us Nov. 19 for a status update on the twin probes and a discussion of their unique mission. Plus, we'll have a Q&amp;A session and a sneak peek at the upcoming NASA+ Voyager documentary.",
+     "date": "2026-11-13T16:35:39.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWiEO6Ca8AAn4oC.jpg",
+     "image": "https://pbs.twimg.com/media/HXBNsEVWgAAsCUY.jpg",
      "video": null,
-     "url": "https://x.com/NASA/status/2119089554837979631"
+     "url": "https://x.com/NASA/status/2121280846183137564"
     },
     {
-     "id": "2118841460791644434",
-     "text": "LIVE: President Donald J. Trump provides remarks to kick off MAX POWER—America’s newest aerospace expo and air show, taking place Nov. 7-8 @NASAKennedy:",
-     "date": "2026-11-06T23:02:25.000Z",
+     "id": "2120974110335312297",
+     "text": "Tethys and Dione showed up for the group photo!\n \nIn addition to the two moons shown here, Saturn has a whole entourage of natural satellites—more than any other planet in our solar system. As of now, the ringed planet has 293 confirmed moons.",
+     "date": "2026-11-12T20:16:48.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWeXAj-W8AAOjrT.jpg",
+     "image": "https://pbs.twimg.com/media/HW82tqYWoAAnWCO.jpg",
      "video": null,
-     "url": "https://x.com/NASA/status/2118841460791644434"
+     "url": "https://x.com/NASA/status/2120974110335312297"
     }
    ]
   },
@@ -1023,40 +980,40 @@
    "avatar": "img/x-esa.jpg",
    "posts": [
     {
-     "id": "2116833879159980385",
-     "text": "October was a busy month! Here’s your monthly roundup from the European Space Agency.\n\n🔗",
-     "date": "2026-11-01T10:05:00.000Z",
+     "id": "2123360778350977184",
+     "text": "On 23 November, Ariane 6 will lift off from Europe’s Spaceport, carrying 36 Amazon Leo satellites into orbit.\n\n📺 Watch live from 11:39 GMT / 12:39 CET.\n▶️",
+     "date": "2026-11-19T10:20:34.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2116199684628680705/img/ip2l0l9dBlf6aHbr.jpg",
-     "video": "https://video.twimg.com/amplify_video/2116199684628680705/vid/avc1/768x432/RIYIz_1r06vTmF5a.mp4",
-     "url": "https://x.com/esa/status/2116833879159980385"
+     "image": "https://pbs.twimg.com/media/HXew1ceW4AAiydJ.jpg",
+     "video": null,
+     "url": "https://x.com/esa/status/2123360778350977184"
     },
     {
-     "id": "2115765869196251319",
-     "text": "We’ve signed three new contracts in Norway to strengthen the resilience of satellite navigation. 🛰️🇳🇴\n\nThe projects focus on GNSS interference testing, maritime navigation and drones operating in challenging environments.\n\nRead more:",
-     "date": "2026-10-29T11:21:06.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVyVeHfWMAEp6xU.jpg",
+     "id": "2123357437956940275",
+     "text": "On 15 December, our Member States meet in Rome to shape Europe’s future in space exploration.",
+     "date": "2026-11-19T10:07:17.000Z",
+     "quoted": true,
+     "image": null,
      "video": null,
-     "url": "https://x.com/esa/status/2115765869196251319"
+     "url": "https://x.com/esa/status/2123357437956940275"
     },
     {
-     "id": "2115032746716487737",
-     "text": "New Galileo Second Generation satellites are set to join the fleet, bringing the total to 16.\n\nThese additional satellites will support the long-term continuity and resilience of Europe’s satellite navigation services.\n\n🔗",
-     "date": "2026-10-27T10:47:56.000Z",
+     "id": "2120492806904901708",
+     "text": "Sentinel-3C has reached its operational orbit! 🎯\n\nAfter launching on 15 September, the spacecraft is now flying in tandem with, Sentinel-3B, as teams at #ESOC continue preparing Sentinel-3C for routine operations.",
+     "date": "2026-11-11T12:24:16.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVoai5HWYAESHCz.jpg",
-     "video": null,
-     "url": "https://x.com/esa/status/2115032746716487737"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2120492531607560193/img/AgUVVP1dBhnilPiK.jpg",
+     "video": "https://video.twimg.com/amplify_video/2120492531607560193/vid/avc1/768x432/qTvS0IgztMzT7SGT.mp4",
+     "url": "https://x.com/esa/status/2120492806904901708"
     },
     {
-     "id": "2114646399908200608",
-     "text": "🎙️ Journalists are invited to meet astronaut Sophie Adenot at our Headquarters in Paris on 2 November at 11:30 CET, for her first in-person press conference since returning from the International Space Station.\n\nAccreditation is open until 29 October:",
-     "date": "2026-10-26T09:12:44.000Z",
+     "id": "2119731262248132963",
+     "text": "Three years of the Zero Debris Charter!\n\nMore than 250 signatories from 36 countries are now working towards a zero debris future by 2030, with confidence growing that the technical targets can be achieved, and new members joining last week in Brasília. \n\nRead more:",
+     "date": "2026-11-09T09:58:10.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVi7LN2WkAAOmza.jpg",
+     "image": "https://pbs.twimg.com/media/HWrMEhTWcAAu1SB.jpg",
      "video": null,
-     "url": "https://x.com/esa/status/2114646399908200608"
+     "url": "https://x.com/esa/status/2119731262248132963"
     }
    ]
   },
@@ -1111,40 +1068,40 @@
    "avatar": "img/x-cnes.jpg",
    "posts": [
     {
-     "id": "2117990604433240166",
-     "text": "🛰️ Matériaux, eau, émissions de CO₂… Avec #OASIS, le #CNES estime l’empreinte environnementale de ses missions spatiales. On vous en parle aujourd'hui sur 👇",
-     "date": "2026-11-04T14:41:25.000Z",
+     "id": "2123459666424336658",
+     "text": "🚀 Le 10e vol d’#Ariane6 !\n🛰️ 36 satellites @AmazonLeo seront à bord d’une Ariane 64 pour le vol #VA271.\n\n📅 Le 23 novembre, entre 12 h 09 et 12 h 38 à Paris (8 h 09–8 h 38 en Guyane).\n\n@Arianespace @ArianeGroup @esa @EuropeSpacePort",
+     "date": "2026-11-19T16:53:31.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWSdN6uXUAA9pt0.jpg",
+     "image": "https://pbs.twimg.com/media/HXgLIRmWkAArLMQ.jpg",
      "video": null,
-     "url": "https://x.com/CNES/status/2117990604433240166"
+     "url": "https://x.com/CNES/status/2123459666424336658"
     },
     {
-     "id": "2116245121763295739",
-     "text": "☕️ Nouvelle fraîche, depuis leur centre de contrôle à Toulouse, les ingénieurs du #CNES ont réveillé #IDÉFIX®. La séquence de test prévue s'est bien déroulée. La sonde MMX est à plus de 3 millions de km de la Terre. L'aventure continue, prochain réveil dans un mois !",
-     "date": "2026-10-30T19:05:29.000Z",
+     "id": "2122618251159208089",
+     "text": "🚀 Le spatial est ouvert à toutes et à tous ! Le #CNES lance 4 #MOOC gratuits pour découvrir l’histoire du spatial, comprendre les enjeux du secteur, explorer l’éco-ingénierie etc. Aucun prérequis.",
+     "date": "2026-11-17T09:10:02.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HV5pU_6XsAEBoJn.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/CNES/status/2116245121763295739"
+     "url": "https://x.com/CNES/status/2122618251159208089"
     },
     {
-     "id": "2115836385059876907",
-     "text": "📷 Décoller, redescendre… et recommencer !\nAu @EuropeSpacePort, un démonstrateur grandeur nature de #CALLISTO teste les communications avec le sol, essentielles au décollage et à la redescente.",
-     "date": "2026-10-29T16:01:19.000Z",
+     "id": "2122313364559086056",
+     "text": "🎨 L’Art nouveau en micropesanteur !\nAvec « La Dame aux colibris », le #CNES, l’agence WAT et l’illustratrice Francesca Protopapa célèbrent @Soph_astro &amp; sa mission #εpsilon dans une affiche inspirée d’Alfons Mucha.\n\n⬇️ PDF HD gratuit jusqu’au 30 novembre.",
+     "date": "2026-11-16T12:58:31.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVzwDBaXAAAfrUG.jpg",
+     "image": "https://pbs.twimg.com/media/HXP4ISAXYAA4xt6.jpg",
      "video": null,
-     "url": "https://x.com/CNES/status/2115836385059876907"
+     "url": "https://x.com/CNES/status/2122313364559086056"
     },
     {
-     "id": "2115522552000868746",
-     "text": "Traquer les collisions de trous noirs commence en salle blanche 🔍\n\nÀ Toulouse, le #CNES prépare les essais des instruments de #LISA. Le but est de vérifier leur capacité à mesurer des variations de distance de quelques picomètres.",
-     "date": "2026-10-28T19:14:15.000Z",
+     "id": "2120221370604728372",
+     "text": "📸 À 60 km de distance, #Hera révèle une face inédite de Didymos. Le petit éclat en bas, c’est Dimorphos, l’astéroïde dont DART a modifié l’orbite en le percutant en 2022.\n\n📅 Le 25 novembre, l’@esa dévoilera des images détaillées des deux astéroïdes.\n\n📷 ESA / Hera AFC  @ESA_fr",
+     "date": "2026-11-10T18:25:41.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVvYe63WwAEoud3.jpg",
+     "image": "https://pbs.twimg.com/media/HWyKAVqWoAAyaag.png",
      "video": null,
-     "url": "https://x.com/CNES/status/2115522552000868746"
+     "url": "https://x.com/CNES/status/2120221370604728372"
     }
    ]
   },
@@ -1155,6 +1112,24 @@
    "avatar": "img/x-jaxa_en.png",
    "posts": [
     {
+     "id": "2119724668626272372",
+     "text": "CAPEWEEK is scheduled to launch in 2028, and we look forward to seeing how this exciting new event develops in the years ahead!\n\nMaxPower：\nUp.Summit：",
+     "date": "2026-11-09T09:31:58.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/JAXA_en/status/2119724668626272372"
+    },
+    {
+     "id": "2113502220880847303",
+     "text": "Please check this link for the live broadcast of the launch👇",
+     "date": "2026-10-23T05:26:11.000Z",
+     "quoted": false,
+     "image": null,
+     "video": null,
+     "url": "https://x.com/JAXA_en/status/2113502220880847303"
+    },
+    {
      "id": "2113502218326614406",
      "text": "JAXA launched the Martian Moons eXploration (MMX) spacecraft aboard H3 Launch Vehicle flight No.10 at 04:41:03 JST on October 20.\n\n🎥Activity Report mini🎥\n#MMX #H3F10 #JAXA",
      "date": "2026-10-23T05:26:10.000Z",
@@ -1164,31 +1139,13 @@
      "url": "https://x.com/JAXA_en/status/2113502218326614406"
     },
     {
-     "id": "2113206900166930596",
-     "text": "As of 6:00 p.m. on October 22(JST), maintenance is being carried out on some of our websites and services.\n\nMaintenance Period\nFrom Thursday, October 22, 2026\n*The maintenance period may be subject to change depending on the progress of the work.",
+     "id": "2113206901806968994",
+     "text": "Websites and services for which maintenance and safety checks have been completed are being restored sequentially.\nWe apologize for the inconvenience and sincerely appreciate your understanding.",
      "date": "2026-10-22T09:52:41.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/JAXA_en/status/2113206900166930596"
-    },
-    {
-     "id": "2113120597756842477",
-     "text": "As of October 22, some JAXA websites and services are undergoing maintenance.\n\nOctober 22 (Thu.), 2026 -\nThe maintenance period is subject to change depending on the progress of the work.\n\nWe apologize for any inconvenience this may cause and appreciate your understanding.",
-     "date": "2026-10-22T04:09:45.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/JAXA_en/status/2113120597756842477"
-    },
-    {
-     "id": "2112773417472762289",
-     "text": "[Press Release]\nCompletion of the Initial Critical Operations Phase of the Martian Moons eXploration (MMX) Spacecraft\n#JAXA",
-     "date": "2026-10-21T05:10:10.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/JAXA_en/status/2112773417472762289"
+     "url": "https://x.com/JAXA_en/status/2113206901806968994"
     }
    ]
   },
@@ -1200,7 +1157,7 @@
    "posts": [
     {
      "id": "2118817863771344978",
-     "text": "✅ Sound check: complete. \n\nLaunch is one of the most punishing environments a spacecraft will ever face. To make sure Blue Ring is ready, our team put the fully integrated vehicle through acoustic testing, blasting it with over 140 decibels of sound for two straight minutes.\n\nBlue Ring passed, proving it can survive and operate through the harshest acoustic conditions of launch.",
+     "text": "✅ Sound check: complete. \n\nLaunch is one of the most punishing environments a spacecraft will ever face. To make sure Blue Ring is ready, our team put the fully integrated vehicle through acoustic testing, blasting it with over 140 decibels of sound for two straight minutes.",
      "date": "2026-11-06T21:28:39.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWeNnLCXMAEBw5f.jpg",
@@ -1218,7 +1175,7 @@
     },
     {
      "id": "2117633498085310863",
-     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new episode of Ascending Node is out now:",
+     "text": "It took over a decade to build the International Space Station, and almost everything went right. Sandy Magnus was there, carrying a piece of the truss to orbit on her first mission and spending long stretches in Russia to learn how different countries approach space.\n\nThe new",
      "date": "2026-11-03T15:02:24.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWNYcXEWEAAhL4C.jpg",
@@ -1243,40 +1200,40 @@
    "avatar": "img/x-rocketlab.jpg",
    "posts": [
     {
-     "id": "2118804214831042777",
-     "text": "✅ Neutron’s Stage 1 Forward Dome has been built and cured.\n\nThe dome has come off the AFP machine as planned and completed its heat and pressure processing cycle to cure the carbon composite material. \n\nNext step: analysis and material tests to confirm quality and strength, before it moves to the next phase of Stage 1 tank assembly.",
-     "date": "2026-11-06T20:34:24.000Z",
+     "id": "2123141853528871143",
+     "text": "Development ➡️ Production. We've been building Archimedes for scale from day one.  \n \nAs we iterate through stages of engine development testing, we have set up our Engine Development Center in Long Beach to be capable of building and shipping one Archimedes engine every 8 days.  \n \nOnce final development testing is completed we will down-select our final qualification configuration of hardware and will begin delivering engines every 8 days to the stand for flight ATP testing.",
+     "date": "2026-11-18T19:50:38.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2118803810277810176/img/pXLnZLPUGVemZpE9.jpg",
-     "video": "https://video.twimg.com/amplify_video/2118803810277810176/vid/avc1/1920x1080/o_lmx7ZKIioBDJ5_.mp4",
-     "url": "https://x.com/RocketLab/status/2118804214831042777"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123139208907014144/img/yesJphXYCz9TmayD.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123139208907014144/vid/avc1/1080x1920/WBcwSeCLwnn1aqAQ.mp4",
+     "url": "https://x.com/RocketLab/status/2123141853528871143"
     },
     {
-     "id": "2118521208639746494",
-     "text": "Electron's 100th mission. It's almost time.\n\n\"The Mountain God Rises\" will carry a QPS-SAR satellite for @QPS_Inc to a 575km LEO from Launch Complex 1 no earlier than Saturday Nov 14.\n\nLaunch window opens:\n🚀6:30pm NZDT\n🚀05:30 UTC\n🚀2:30pm JST\n🚀12:30am Eastern\n🚀9:30pm Pacific (Nov 13)",
-     "date": "2026-11-06T01:49:51.000Z",
+     "id": "2123072571625320536",
+     "text": "Read the full story: 'Trust Me, It's Gonna Take Off': Inside Electron's First 100 Launches.",
+     "date": "2026-11-18T15:15:20.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWZ-todaIAAHsoO.jpg",
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123072456835608576/img/mw9rA4bCU2gHau-h.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123072456835608576/vid/avc1/1920x1080/MLTZVDWhEY0N6Mq4.mp4",
+     "url": "https://x.com/RocketLab/status/2123072571625320536"
+    },
+    {
+     "id": "2123071856987279468",
+     "text": "Jane McNicoll has worked ∼90 of Electron's first 100 launches, guiding customers from contract to the moment their satellite phones home.\n\nThe milestone snuck up on everyone, including our mission tracking software. It only had room for two digits.\n\nSomeone had to add a third.",
+     "date": "2026-11-18T15:12:30.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXaqjrqbMAAan9-.jpg",
      "video": null,
-     "url": "https://x.com/RocketLab/status/2118521208639746494"
+     "url": "https://x.com/RocketLab/status/2123071856987279468"
     },
     {
-     "id": "2117715361714016621",
-     "text": "Hello from orbit!\n\nOne of the first images from Maxwell, the spacecraft we built for @Viasat, featuring our solar array.\n \nMaxwell is healthy and moving through commissioning ahead of schedule.",
-     "date": "2026-11-03T20:27:42.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/RocketLab/status/2117715361714016621"
-    },
-    {
-     "id": "2117448175271501907",
-     "text": "Get ready: Trans-Mars Injection incoming.\n\nOur two spacecraft - Blue & Gold - will slingshot Earth and shoot for Mars in four days.\n\nThe @escapade_mars mission for @NASA & @ucbssl is preparing for TMI – a critical maneuver in this epic interplanetary mission.\n\nBlue’s engine burn scheduled:  Saturday 7th November\nGold’s engine burn scheduled: Monday 9th November\n\nLearn more about ESCAPADE here:",
-     "date": "2026-11-03T02:45:59.000Z",
+     "id": "2123071674799325294",
+     "text": "Murielle Baker became the voice of our launch webcasts the Rocket Lab way: she put her hand up.\n\n90+ launches later, she still gets nervous every time the intro rolls.",
+     "date": "2026-11-18T15:11:46.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2117448088596185088/img/3bDZcWUAQP9BwI6K.jpg",
-     "video": "https://video.twimg.com/amplify_video/2117448088596185088/vid/avc1/1920x1080/Rci5p6QUg9HGb2mf.mp4",
-     "url": "https://x.com/RocketLab/status/2117448175271501907"
+     "image": "https://pbs.twimg.com/media/HXaqa8JagAAa77N.jpg",
+     "video": null,
+     "url": "https://x.com/RocketLab/status/2123071674799325294"
     }
    ]
   },
@@ -1287,31 +1244,40 @@
    "avatar": "img/x-ulalaunch.jpg",
    "posts": [
     {
-     "id": "2118687484519596215",
-     "text": "One week to launch! Standby for the livestream of our Vulcan rocket carrying the Amazon Leo 1 mission.",
-     "date": "2026-11-06T12:50:34.000Z",
+     "id": "2123084509637759276",
+     "text": "Vulcan Leo 1 status update:",
+     "date": "2026-11-18T16:02:46.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/ulalaunch/status/2118687484519596215"
+     "url": "https://x.com/ulalaunch/status/2123084509637759276"
     },
     {
-     "id": "2118030646815629740",
-     "text": "ULA Enters into an Agreement to Bring All Production, Sustaining Engineering and Development Work for Payload Fairings and Composite Structures In-House",
-     "date": "2026-11-04T17:20:31.000Z",
+     "id": "2122700874417856902",
+     "text": "Follow the latest Vulcan Leo 1 status updates on our mission page:",
+     "date": "2026-11-17T14:38:20.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWTBpUNWsAA91uI.jpg",
+     "image": "https://pbs.twimg.com/media/HXVZMOJXAAEqVFs.jpg",
      "video": null,
-     "url": "https://x.com/ulalaunch/status/2118030646815629740"
+     "url": "https://x.com/ulalaunch/status/2122700874417856902"
     },
     {
-     "id": "2115458654333702570",
-     "text": "The launch of a United Launch Alliance Vulcan VC6L rocket carrying the next batch of production satellites for @AmazonLeo, Vulcan Leo 1, is planned for Friday, Nov. 13, pending range approval.",
-     "date": "2026-10-28T15:00:21.000Z",
+     "id": "2122034531658076417",
+     "text": "Based on data received by our Launch Director, we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit. \n\nEvery flight generates data, and every flight teaches us something. Since the anomaly just occurred, we don’t have any specific data yet to understand what occurred today. \n\nULA exists to provide assured access to space for our nation and for the customers who depend on us. That purpose is why we take on some of the hardest missions in spaceflight, and why we hold ourselves to the standard of mission success. Today, we did not meet that standard.\n\nWe will work closely with our customer and other appropriate organizations to find the cause, determine the appropriate corrective action, and return to flight as quickly as possible.\n\nULA is committed to full transparency with our customers, and they will have visibility into the investigation process, which utilizes rigorous methodology and corrective action.\n\nWe will provide further updates when new information becomes available.",
+     "date": "2026-11-15T18:30:32.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVuebn4XcAA-BYq.jpg",
+     "image": null,
      "video": null,
-     "url": "https://x.com/ulalaunch/status/2115458654333702570"
+     "url": "https://x.com/ulalaunch/status/2122034531658076417"
+    },
+    {
+     "id": "2122023504707018991",
+     "text": "And LIFTOFF of the first Vulcan Amazon Leo mission, carrying 40 broadband satellites to low Earth orbit!",
+     "date": "2026-11-15T17:46:43.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXLxIaUXgAA2tK3.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122023469688705025/vid/avc1/1920x1080/Lcc9fGi8CkSSGxdY.mp4?tag=16",
+     "url": "https://x.com/ulalaunch/status/2122023504707018991"
     }
    ]
   },
@@ -1322,40 +1288,40 @@
    "avatar": "img/x-arianespace.jpg",
    "posts": [
     {
-     "id": "2118765355136909763",
-     "text": "The Amazon Leo and Arianespace logos are now being added to the Ariane 6 fairing ahead of mission VA271/LE-04!\n\nThe fairing will protect 36 Amazon Leo satellites on their way to low Earth orbit aboard Ariane 64.\n\nA behind-the-scenes look at launch preparations!\n\n#LaunchingAmbitions #Ariane6 @AmazonLeo",
-     "date": "2026-11-06T18:00:00.000Z",
+     "id": "2122777904186540271",
+     "text": "🚀 The launch window is set for VA271/LE-04!\n\nAriane 6 is preparing for its 10th flight, carrying 36 Amazon Leo satellites into low Earth orbit.\n\n📅 Liftoff is scheduled for November 23, 2026, from Europe's Spaceport in French Guiana, within the following window:\n- 06:09 - 06:38",
+     "date": "2026-11-17T19:44:26.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWdd1I0XIAAJ_ry.jpg",
+     "image": "https://pbs.twimg.com/media/HXWfQFSW4AAexzg.jpg",
      "video": null,
-     "url": "https://x.com/Arianespace/status/2118765355136909763"
+     "url": "https://x.com/Arianespace/status/2122777904186540271"
     },
     {
-     "id": "2118604872736252197",
-     "text": "Ariane 6’s fairing is getting its Amazon Leo livery ahead of the next launch. 🚀",
-     "date": "2026-11-06T07:22:18.000Z",
-     "quoted": true,
-     "image": null,
+     "id": "2122389236074660174",
+     "text": "🌍 Bringing connectivity to more people around the world.\n\nAriane 6 is playing a key role in the deployment of Amazon Leo, a satellite constellation designed to bring fast, reliable internet to communities beyond the reach of existing networks.\n\nWith VA271/LE-04, Ariane 64 will",
+     "date": "2026-11-16T18:00:00.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXQ9uPQXMAA7SXB.jpg",
      "video": null,
-     "url": "https://x.com/Arianespace/status/2118604872736252197"
+     "url": "https://x.com/Arianespace/status/2122389236074660174"
     },
     {
-     "id": "2117329564313489525",
-     "text": "Every day, billions of people rely on satellite navigation, often without even thinking about it.\n\nFinding the fastest route, locating a delivery, guiding aircraft and ships or helping emergency services reach the right place all depend on signals transmitted from satellites orbiting thousands of kilometres above Earth.\n\nNavigation satellites provide precise positioning and timing information that supports countless services across transportation, logistics, agriculture, telecommunications and many other sectors.",
-     "date": "2026-11-02T18:54:40.000Z",
+     "id": "2121309103259517290",
+     "text": "🛰️ Helping us find our way.\n\nFrom everyday navigation to transport and critical infrastructure, satellite positioning and timing services have become part of our daily lives.\n\nAriane 6 contributes to these services by launching Galileo satellites, supporting the continued",
+     "date": "2026-11-13T18:27:56.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWJD_52XUAAye2o.jpg",
+     "image": "https://pbs.twimg.com/media/HXBnWDiXsAA3mgw.jpg",
      "video": null,
-     "url": "https://x.com/Arianespace/status/2117329564313489525"
+     "url": "https://x.com/Arianespace/status/2121309103259517290"
     },
     {
-     "id": "2116228604744847393",
-     "text": "Same constellation. Two generations of Ariane. 🚀\n\nThen: Ariane 5 launched four Galileo satellites at once in 2016.\n\nNow: Ariane 6 continues the journey, helping build Europe's navigation constellation.\n\nTwo generations of launchers. One mission: bringing Galileo satellites into orbit. 🛰️\n\n#LaunchingAmbitions\n@ArianeGroup  @esa  @CNES @EuropeSpacePort @ESA_transport @EU4Space",
-     "date": "2026-10-30T17:59:51.000Z",
+     "id": "2120226162764878032",
+     "text": "🚀 Ariane 6 is one step closer to launch!\n\nLast week, the central core and four P160C solid rocket boosters for the VA271/LE-04 mission were transferred to the launch pad at Europe's Spaceport in French Guiana.\n\nMade up of the main stage and upper stage, the central core was",
+     "date": "2026-11-10T18:44:43.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HV5asp8XkAAK6oS.jpg",
+     "image": "https://pbs.twimg.com/media/HWyOanlWQAE5HTx.jpg",
      "video": null,
-     "url": "https://x.com/Arianespace/status/2116228604744847393"
+     "url": "https://x.com/Arianespace/status/2120226162764878032"
     }
    ]
   },
@@ -1366,6 +1332,24 @@
    "avatar": "img/x-relativityspace.jpg",
    "posts": [
     {
+     "id": "2122418278341693815",
+     "text": "October was a full month of progress for Terran R. 🚀 The historic A2 test stand – built for Apollo and later used for Space Shuttle engine testing – is back in action, now firing for Terran R.\n\nPlus:\n✅ Interstage structural testing complete\n✅ Thrust structure breakover + mate",
+     "date": "2026-11-16T19:55:24.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2122411712313970688/img/_WTWLy1XjnQMf8RT.jpg",
+     "video": "https://video.twimg.com/amplify_video/2122411712313970688/vid/avc1/1280x720/LQQHOTQApuuM6TpY.mp4",
+     "url": "https://x.com/relativityspace/status/2122418278341693815"
+    },
+    {
+     "id": "2121060041780548018",
+     "text": "🔥 Hot metal. Blue fire. Stage 2 completed its mission duty cycle on the first try: a 400+ second burn and coast demo including an igniter hot fire, demonstrating everything it needs to do in flight.",
+     "date": "2026-11-13T01:58:16.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2121055327970107392/img/3Cfxhh285yPhMp-7.jpg",
+     "video": "https://video.twimg.com/amplify_video/2121055327970107392/vid/avc1/1280x720/lxDkaS4DsLxNIq_S.mp4",
+     "url": "https://x.com/relativityspace/status/2121060041780548018"
+    },
+    {
      "id": "2119206135509213251",
      "text": "Next stop: the Moon. 🚀 We’re partnering with @GoToImpulse on a lunar mission for @NASAMoonBase ! Terran R will launch Helios and lander vehicles to orbit for the first leg of the journey towards humanity’s first permanent lunar outpost.\n\nLearn more about the mission:",
      "date": "2026-11-07T23:11:30.000Z",
@@ -1373,33 +1357,6 @@
      "image": "https://pbs.twimg.com/media/HWjsBxYbgAAitEJ.jpg",
      "video": null,
      "url": "https://x.com/relativityspace/status/2119206135509213251"
-    },
-    {
-     "id": "2111221655469252860",
-     "text": "🔥 Just another day at Stennis. Stage 2 successfully completed its first integrated hotfire!\n\nThe A2 test stand was originally built in the 60s to support Saturn V Upper Stage testing (S-II). It was later reconfigured to be a single engine test stand for Shuttle Main Engine",
-     "date": "2026-10-16T22:24:01.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2111220819838029824/img/v2dEBmmuBHJ7Ifef.jpg",
-     "video": "https://video.twimg.com/amplify_video/2111220819838029824/vid/avc1/3840x2160/lFYb9b-jlOUbC1Yo.mp4",
-     "url": "https://x.com/relativityspace/status/2111221655469252860"
-    },
-    {
-     "id": "2110788104860966917",
-     "text": "Building the infrastructure to launch Terran R. September brought several key milestones across LC-16's launch pad and ground systems.\n\n✔️ The east lightning protection system tower reached its full height of 530 feet. \n✔️ Structural steel on the east side of the launch table is",
-     "date": "2026-10-15T17:41:15.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110787251542310913/img/fHWfGeLBY91LSWQn.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110787251542310913/vid/avc1/1280x720/_ktoOciSlA8r-AlL.mp4",
-     "url": "https://x.com/relativityspace/status/2110788104860966917"
-    },
-    {
-     "id": "2110413443144556617",
-     "text": "September was a big month for test operations across our sites.\n\n📍 NASA Stennis, MS\nStage 2 completed its first wet dress rehearsal! The team put the stage through flight-like propellant loading, COPV fills, engine chill operations, and a simulated stage 1 ascent timeline,",
-     "date": "2026-10-14T16:52:29.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110412433051242496/img/5naWQzgbGtAUxSOX.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110412433051242496/vid/avc1/1280x720/4wPAsYiRLK7mQ7Oh.mp4",
-     "url": "https://x.com/relativityspace/status/2110413443144556617"
     }
    ]
   },
@@ -1410,40 +1367,40 @@
    "avatar": "img/x-fireflyspace.png",
    "posts": [
     {
-     "id": "2118683379461656631",
-     "text": "$FLY 🤝 $ASTS\n\nTwo bold Texas companies, Firefly and @AST_SpaceMobile, signed a deal valued at more than $1.3 billion.\n \nFirefly will deliver 36 rocket engines, offer engineering support, and provide a license to manufacture our Miranda and Vira engines for AST SpaceMobile's new",
-     "date": "2026-11-06T12:34:15.000Z",
+     "id": "2123163847296983239",
+     "text": "A moment for our Alpha Stage Test Stand!🚀\n\nThis upgraded test stand supports our next-generation Alpha Block II rocket, built to handle a 7-foot taller vehicle, along with enhanced safety systems and streamlined maintenance capabilities. As we scale Alpha production, this",
+     "date": "2026-11-18T21:18:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXb-RHHW4AAYDQj.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123163770310557696/vid/avc1/1280x720/b_32FOvUHFHOVq1P.mp4?tag=16",
+     "url": "https://x.com/FireflySpace/status/2123163847296983239"
+    },
+    {
+     "id": "2122676796269154415",
+     "text": "Another payload passenger has booked its flight on a lunar trip!\n\nQASCOM’s Cislunar Orbiting L-band and LunaNet Integrated Navigation System (COLLINS), developed on behalf of the Italian Space Agency, just booked a ride to the Moon on our Elytra orbiter as part of our mission to",
+     "date": "2026-11-17T13:02:40.000Z",
      "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/FireflySpace/status/2118683379461656631"
+     "url": "https://x.com/FireflySpace/status/2122676796269154415"
     },
     {
-     "id": "2117729073208201234",
-     "text": "Solar panel deployment testing underway!🛰️\n\nFor this DoD mission, our Elytra orbiter will perform a series of responsive maneuvers and space domain awareness in low Earth orbit as part of the Defense Innovation Unit Sinequone Project.",
-     "date": "2026-11-03T21:22:11.000Z",
+     "id": "2120977952389161124",
+     "text": "Stage two acceptance testing complete for Alpha Flight 8!\n \nThis successful test confirms our propulsion, avionics, and structural components are ready for flight. Next step: first stage acceptance testing. \n\nThis is the first test on our upgraded stage test stand that",
+     "date": "2026-11-12T20:32:04.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWOvXkDWoAAZOkA.jpg",
-     "video": "https://video.twimg.com/amplify_video/2117729033374830592/vid/avc1/1080x1920/AR1qLkCKf1cwUW-v.mp4?tag=16",
-     "url": "https://x.com/FireflySpace/status/2117729073208201234"
+     "image": "https://pbs.twimg.com/media/HW86M8-WIAAW-qz.jpg",
+     "video": null,
+     "url": "https://x.com/FireflySpace/status/2120977952389161124"
     },
     {
-     "id": "2112885441305215014",
-     "text": "We have completed our first design review for our part in NASA's MoonFall mission! \n\nFor this mission, we'll use our Elytra spacecraft to deploy JPL-built drones above the Moon's south pole.\n\nCompleting the preliminary design review is a testament to the hard work, ingenuity, and",
-     "date": "2026-10-21T12:35:19.000Z",
+     "id": "2120622191129620617",
+     "text": "Honoring veterans means more than recognizing their service on Veterans Day. It means valuing their experiences, perspectives, and contributions every day.\n\nThis Veterans Day, take a moment to hear from our teammates as they share what the day means to them.\n\nTo our Firefly",
+     "date": "2026-11-11T20:58:24.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVJ6HKUW8AAK0_I.jpg",
-     "video": null,
-     "url": "https://x.com/FireflySpace/status/2112885441305215014"
-    },
-    {
-     "id": "2111189395206533402",
-     "text": "Every touchdown on the Moon or the football field takes a mission-focused team working together to make the extraordinary happen.",
-     "date": "2026-10-16T20:15:50.000Z",
-     "quoted": true,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/FireflySpace/status/2111189395206533402"
+     "image": "https://pbs.twimg.com/media/HW32pD8WYAAJxQv.jpg",
+     "video": "https://video.twimg.com/amplify_video/2120622096866852864/vid/avc1/1920x1080/nmfEx2-OBQPFSX-k.mp4?tag=16",
+     "url": "https://x.com/FireflySpace/status/2120622191129620617"
     }
    ]
   },
@@ -1454,66 +1411,40 @@
    "avatar": "img/x-ispace_inc.jpg",
    "posts": [
     {
-     "id": "2119205327677632885",
-     "text": "We’re pleased to see ispace-U.S. selected for @NASA's CLPS 2 contract vehicle, creating new opportunities to compete as a prime contractor for future lunar payload delivery missions.\n\nThis milestone reflects the strength of ispace’s global lunar mission heritage and our continued efforts to expand our capabilities and contribute to the growing lunar economy.\n\nWe’re proud to see the @ispace_us_inc team reach this milestone and look forward to the opportunities ahead. 🌕\n\nRead more here:",
-     "date": "2026-11-07T23:08:17.000Z",
-     "quoted": true,
+     "id": "2122186847765905491",
+     "text": "Our FY2027 Q2 financial results are now available, highlighting ispace's continued efforts to capture growing opportunities in cislunar security and lunar infrastructure and expand its global business foundation, including ispace-U.S.'s selection for NASA's CLPS 2 contract vehicle.\n\nENVALITH has published an independent report examining our latest financial results, business developments, and outlook. Read the full report here:",
+     "date": "2026-11-16T04:35:47.000Z",
+     "quoted": false,
      "image": null,
      "video": null,
-     "url": "https://x.com/ispace_inc/status/2119205327677632885"
+     "url": "https://x.com/ispace_inc/status/2122186847765905491"
     },
     {
-     "id": "2116772285994402005",
-     "text": "📣 Announcement: ispace is pleased to announce the appointment of Anas Al-Shuwayer as General Manager & Managing Director of our new Saudi Arabia entity! \n\nBringing more than 20 years of leadership experience, extensive knowledge of the Saudi market, and a global business perspective, Mr. Al-Shuwayer will lead the development of ispace’s operations in the Kingdom, pursue new business opportunities, and strengthen collaboration between Saudi Arabia’s growing space sector and ispace’s global teams.\n\nEffective today, November 1, his appointment marks another step in expanding ispace’s global presence and advancing international collaboration in lunar exploration. 🇸🇦🌕\n\nPlease join us in welcoming Mr. Al-Shuwayer to the ispace team!\n\n🔗 Read more:",
-     "date": "2026-11-01T06:00:15.000Z",
+     "id": "2121136851054436591",
+     "text": "Today, we announced our financial results for Q2 of the fiscal year ending March 2027, highlighting progress in expanding our global business foundation and capturing growing opportunities in cislunar security and lunar infrastructure.\n\nKey developments include NASA's CLPS 2 selection of ispace-U.S., progress on Mission 3's ULTRA lander, and continued expansion of lunar communications capabilities.\n\nispace maintains its FY2027 Project Revenue forecast of ¥9.0 billion, representing more than 50% year-over-year growth.\n\nRead the financial results and related materials:\n\n#ispace #FinancialResults #LunarExploration",
+     "date": "2026-11-13T07:03:28.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWBJLDlW8AAb6td.jpg",
+     "image": "https://pbs.twimg.com/media/HW_KuXtXAAAeH-C.jpg",
      "video": null,
-     "url": "https://x.com/ispace_inc/status/2116772285994402005"
+     "url": "https://x.com/ispace_inc/status/2121136851054436591"
     },
     {
-     "id": "2116066270307135550",
-     "text": "Hello from Bangkok! 🇹🇭🌕\n\nThis week, space agencies, universities, and private companies from across the Asia-Pacific region and beyond have gathered in Bangkok for the Moon Village Association (MVA), Thailand Space Expo, and Asia-Pacific Regional Space Agency Forum (APRSAF) events.\n\nispace is excited to be exhibiting and connecting with members of the global space community to exchange ideas and explore opportunities for collaboration! 🌏\n\nWe are also proud to share that ispace received the MVA Moon Market Annual Award 2026! 🏆\n\nThroughout the week, our crew members have also participated in panel discussions exploring lunar exploration in the Asia-Pacific region and opportunities for international collaboration in lunar activities.\n\n#ispace #MVA #ThailandSpaceExpo #APRSAF #Moon",
-     "date": "2026-10-30T07:14:48.000Z",
+     "id": "2120803920524025949",
+     "text": "📣 ispace and KDDI Partner to Build a Lunar Communications Network and Enable Future Services 🌕📡\n\nAs activities on the Moon and throughout cislunar space continue to expand, the development of infrastructure such as communications and positioning services is becoming increasingly important, in addition to transportation capabilities to and from the lunar surface.\n\nispace and KDDI have signed a new Memorandum of Understanding (MoU) to explore the development of a lunar communications architecture that seamlessly connects the lunar surface, cislunar space, and Earth. The collaboration will combine ispace’s planned Lunar Connect Service with KDDI’s proposed lunar communications ground stations, lunar mobile communications, and optical space communications technologies.\n\nAs a first step, ispace is planning to launch its first lunar-orbiting satellite into lunar orbit as Mission 2.5, with the earliest launch targeted for 2027.\n\nFurthermore, the two companies will work together on initiatives that contribute to Cislunar Security through the realization of a lunar communications network that Japan can independently operate, as well as on space industry promotion and talent development in Yamaguchi Prefecture.\n\n🔗 Learn more:\n\n#ispace #KDDI #LunarConnect #Cislunar #Space",
+     "date": "2026-11-12T09:00:31.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HV3HDXUW4AExESt.jpg",
+     "image": "https://pbs.twimg.com/media/HW6b7TzXEAE4vYK.jpg",
      "video": null,
-     "url": "https://x.com/ispace_inc/status/2116066270307135550"
+     "url": "https://x.com/ispace_inc/status/2120803920524025949"
     },
     {
-     "id": "2113186386564002027",
-     "text": "📣 Announcement: ispace has been selected by JAXA as a contractor for its competitive proposal solicitation, “Conceptual Design for the Realization of a Lunar Solar Power Tower (Parts A-B)\"\n\nAs lunar activities continue to expand, a stable power supply will be a critical component of the infrastructure needed to enable sustained operations on the lunar surface, with a projected requirement on the order of tens of kilowatts (kW) by the early 2030s. \n\nispace will proceed with arrangements to finalize a contract with JAXA and will work with partner companies on the conceptual design of the lunar solar power tower and its power distribution system for lunar surface equipment. Drawing on the expertise and experience gained through its lunar exploration missions and lander development programs, ispace will contribute to defining system requirements and specifications, interfaces with lunar landers, and plans for future development.\n\n“As activities on the lunar surface gain momentum, developing essential infrastructure—including power, communications, and positioning capabilities—will become increasingly important alongside transportation. We are very pleased to have the opportunity to participate in JAXA’s conceptual design initiative for a lunar solar power tower,\" said Takeshi Hakamada, Founder & CEO, ispace, inc.\n\nRead more here:\n\n@JAXA_jp @JAXA_en",
-     "date": "2026-10-22T08:31:10.000Z",
+     "id": "2120773673501982775",
+     "text": "🚀 ispace and Nammo strengthen partnership for future lunar missions!\n\nispace has signed an MoU with Nammo to explore long-term propulsion procurement and production cooperation, supporting a more resilient and cost-competitive supply chain for lunar exploration.\n\nBy expanding collaboration on flight-proven propulsion systems, including engines for the ULTRA lander, the companies aim to enable more frequent, flexible, and reliable lunar missions.\n\nThe agreement brings together ispace teams across Japan, Europe, and the U.S., reinforcing a shared commitment to building the infrastructure needed for a sustainable lunar economy. 🌕🤝 \n\n#ispace #Nammo #LunarExploration #SpaceIndustry #SupplyChain #MoonMission",
+     "date": "2026-11-12T07:00:20.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HVOL0elXEAE4SpS.jpg",
+     "image": "https://pbs.twimg.com/media/HW6Aas_WEAAK6sh.png",
      "video": null,
-     "url": "https://x.com/ispace_inc/status/2113186386564002027"
-    }
-   ]
-  },
-  {
-   "handle": "LandSpace_Tech",
-   "name": "LandSpace",
-   "group": "space",
-   "avatar": "img/x-landspace_tech.jpg",
-   "posts": [
-    {
-     "id": "2110779298454044724",
-     "text": "ZhuQue-2E Y4 Launch Mission Recap",
-     "date": "2026-10-15T17:06:15.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2110779165087780864/img/NmsrVIQ1IW3wzopK.jpg",
-     "video": "https://video.twimg.com/amplify_video/2110779165087780864/vid/avc1/1920x1080/9f51whQQTD7OOr7v.mp4",
-     "url": "https://x.com/LandSpace_Tech/status/2110779298454044724"
-    },
-    {
-     "id": "2110344436643230019",
-     "text": "MISSION SUCCESS |  ZhuQue-2E Y4 Launch Vehicle Achieved Full Mission Success\n\n- ZhuQue-2 Series' 10th Flight: Breaking New Ground in Spacecraft–Launch Vehicle Synergy\n\nOn October 14, 2026, 07:40 p.m. (UTC+8), the ZhuQue-2E (ZQ-2E) Y4 launch vehicle successfully lifted off from",
-     "date": "2026-10-14T12:18:16.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HUlzAh_a0AEfhZU.jpg",
-     "video": null,
-     "url": "https://x.com/LandSpace_Tech/status/2110344436643230019"
+     "url": "https://x.com/ispace_inc/status/2120773673501982775"
     }
    ]
   },
