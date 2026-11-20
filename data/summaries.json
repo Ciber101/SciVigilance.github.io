@@ -14,10 +14,6 @@
  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
   "s": "Physicl raised $10 million to develop digital simulations that better mimic real-world physics, aiming to improve how robots interact with objects. This matters as current methods of training robots on video footage or gathering data are expensive and inaccurate, hindering their effectiveness."
  },
- "https://phys.org/news/2026-11-rays-reveal-fleeting-intermediate-iron.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain": {
   "s": "",
   "why": "too little source text"
@@ -47,9 +43,6 @@
  "https://www.sciencedaily.com/releases/2026/11/261118073749.htm": {
   "s": "Scientists tested 212 plant-based foods and drinks, including meat alternatives and dairy substitutes, in the UK. Every single one contained at least one naturally occurring fungal toxin. This raises questions about potential health effects of regularly consuming these products, but mycotoxin concentrations were below recommended guideline levels."
  },
- "https://www.sciencealert.com/one-drug-may-reduce-nighttime-bathroom-trips-in-men-with-enlarged-prostates": {
-  "s": "One drug, vibegron, has been found to help men with enlarged prostates reduce nighttime bathroom trips. This drug relaxes the bladder muscle, allowing it to hold more urine. The findings suggest vibegron may provide some relief for overactive bladder symptoms, though the effect is modest."
- },
  "https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026": {
   "s": "Voyager 1 has traveled to one light-day from Earth, marking the first time a human-made object has reached this distance. This achievement is significant as it showcases the longevity and robustness of spacecraft technology from the 1970s."
  },
@@ -61,9 +54,6 @@
  },
  "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/": {
   "s": "The Dark Energy Survey, a 20-year study, has released its findings, suggesting that the cosmos contains more than previously thought. This implies the existence of dark energy, a mysterious force that makes up about two-thirds of the universe, pushing galaxies apart."
- },
- "https://phys.org/news/2026-11-genetic-method-quantify-roots-underground.html": {
-  "s": "Modified genetic method allows researchers to identify and quantify roots growing underground. This technique, called DNA metabarcoding, simplifies the process of identifying and measuring plant species in soil samples, overcoming the difficulty of digging up individual roots in the field."
  },
  "https://www.livescience.com/health/immune-system/the-immune-system-remembers-germs-by-tweaking-its-epigenetics-study-shows": {
   "s": "",
@@ -93,9 +83,6 @@
  "https://www.quantamagazine.org/can-network-science-transform-health-and-nutrition-20261112/": {
   "s": "Mapping networks inside the human body could reveal how diseases develop, leading to better treatments. Understanding the unseen molecules in food could improve nutrition, offering new insights into health."
  },
- "https://phys.org/news/2026-11-cryptography-method-elusive-pulsars.html": {
-  "s": "The scientists developed a faster method to find pulsars, which are rapidly spinning neutron stars, in data from NASA's Fermi Gamma-ray Space Telescope. This method speeds up searches by a million times, enabling the discovery of many more pulsars. Finding pulsars is difficult because the telescope detects only a few photons from each pulsar, mixed with background noise."
- },
  "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun": {
   "s": "Astronomers discovered two asteroids trailing Neptune, termed Neptune's L5 Trojans, in data from Vera C. Rubin Observatory. These rare asteroids could help scientists understand the conditions of the solar system when it was young."
  },
@@ -122,9 +109,6 @@
  "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/": {
   "s": "After decades of debate, scientists now believe life began with simple chemical reactions forming complex molecules. This shift in thinking matters as it challenges traditional views on the origins of life, suggesting life might have emerged from basic chemical processes rather than from more complex molecules."
  },
- "https://phys.org/news/2026-11-pathogen-p-aeruginosa-protein-limit.html": {
-  "s": "Bacteria limit entry of antibiotics by reducing production of specific channels. Researchers found a small protein, PtrA, reduces production of a channel called OprD, which allows antibiotics to enter. This discovery reveals a new mechanism of antibiotic resistance and could lead to new treatments."
- },
  "https://www.livescience.com/animals/dinosaurs/dinosaur-quiz-can-you-name-these-12-dinosaurs": {
   "s": "",
   "why": "too little source text"
@@ -149,9 +133,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://phys.org/news/2026-11-unusual-magnetism-revealed-simple-metal.html": {
-  "s": "The researchers identified p-wave magnetism in europium silicide (EuSi), a simple metallic compound. This discovery provides a new platform to explore how magnetic symmetry and chirality influence electronic properties, potentially opening new directions in areas like spintronics and topological quantum materials."
- },
  "https://www.livescience.com/physics-mathematics/what-if-space-and-time-dont-exist-physicists-are-chasing-hints-that-our-reality-emerges-from-something-deeper": {
   "s": "",
   "why": "too little source text"
@@ -172,18 +153,12 @@
  "https://www.sciencenews.org/article/nat-geo-saving-our-seas-documentary": {
   "s": "The documentary showcases scientists’ excitement in exploring the Southern Ocean, where they find new life forms. This matters because it highlights the biodiversity and fragility of ocean ecosystems, crucial for understanding climate impacts."
  },
- "https://phys.org/news/2026-11-bee-species-unique-islands-global.html": {
-  "s": "Researchers compiled data to create the first global list of island bees, finding 1,742 species unique to islands out of 4,128 known species. This highlights the importance of island biodiversity, which contains a significant portion of global bee species. Protection efforts are needed to safeguard these unique bee species, as their presence on islands influences the diversity of other species."
- },
  "https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/": {
   "s": "NASA, Northrop Grumman, and SpaceX are targeting Sunday, Nov. 29, at 10:47 a.m. EST for the launch of a spacecraft delivering supplies to the International Space Station. The mission will fill the spacecraft with approximately 11,000 pounds of cargo, including experiments for space research."
  },
  "https://www.space.com/astronomy/stars/astronomers-witness-a-star-eating-its-companion-in-1st-of-its-kind-observation": {
   "s": "",
   "why": "too little source text"
- },
- "https://www.livescience.com/space/space-exploration/voyager-1s-light-day-milestone-50-years-of-amazing-solar-system-discoveries-in-photos": {
-  "s": "Voyager 1 reached one light-day from Earth, marking the first time a human-made object has done so. This milestone reveals significant cosmic discoveries captured by the spacecraft."
  },
  "https://www.universetoday.com/articles/the-simons-observatory-is-online-and-surveying-the-cosmic-microwave-background": {
   "s": "The Simons Observatory has started surveying the Cosmic Microwave Background, aiming to detect evidence of the Big Bang and cosmic inflation. This survey is significant because it uses a unique setup of telescopes that increases resolution, allowing for detection of tiny fluctuations in the CMB. The effort is noteworthy in an era of large astronomical surveys, highlighting the importance of detailed observations of the early universe."
@@ -194,22 +169,8 @@
  "https://www.sciencenews.org/article/hell-chicken-dinosaur-terror-fruit-eat": {
   "s": "The ‘hell chicken’ dinosaur, a small theropod with a beak, evolved to eat a fruit-heavy diet. This is the first evidence of such specialized adaptations in non-avian dinosaurs, occurring when flowering plants were thriving."
  },
- "https://phys.org/news/2026-11-weight-loss-drugs-deaths-ease.html": {
-  "s": "New research from the University of Aberdeen indicates that weight-loss medications could improve health and reduce pressure on agricultural land. Scientists found that widespread use of GLP-1 medications could lead to up to 6.6 million fewer deaths globally and 32 million hectares more land outside agriculture in 2050. However, the study emphasizes that these benefits are not solely due to the medications and that supporting healthier diets is crucial."
- },
- "https://www.livescience.com/archaeology/neanderthals/neanderthal-genes-linked-to-lower-risk-of-schizophrenia-in-modern-humans": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://www.space.com/space-exploration/on-this-day-in-space-november-18-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://www.universetoday.com/articles/are-uranus-and-neptune-secretly-rock-giants-a-noble-gas-might-hold-the-answer": {
   "s": "A new study suggests using argon-40 concentration as a proxy to determine if there are hidden mountains of rock beneath the thick atmospheres of Uranus and Neptune. This method is inspired by the radioactive decay of potassium-40 in rocks, which produces argon-40, a noble gas that escapes into the atmosphere. The presence of argon-40 in the atmosphere could indicate the existence of rock beneath, offering a way to explore these distant worlds without direct surface contact."
- },
- "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/nasa-announces-mid-power-electric-rocket-challenge-for-us-companies/": {
-  "s": "NASA launched a new competition to encourage U.S. companies to create prototypes of mid-power Hall effect thrusters, essential for future space operations and exploration. The challenge aims to accelerate the development of mid-power electric propulsion systems that can be used for long-duration missions, offering $500,000 in prize money."
  },
  "https://www.sciencedaily.com/releases/2026/11/261118065521.htm": {
   "s": "",
@@ -223,9 +184,6 @@
  },
  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
   "s": "The Gemini app now supports lower-memory Android devices, making it accessible to hundreds of millions of people who previously had limited internet access. By re-architecting the app, researchers have made it run smoothly on devices with less memory, offering features like voice commands, translation, and image creation."
- },
- "https://www.marktechpost.com/2026/11/17/anthropic-claude-code-code-mode-javascript-tool-calls/": {
-  "s": "Claude Code v2.1.323 now supports Code Mode, allowing it to chain tool calls in JavaScript, reducing the number of requests and saving token usage. Admins can control whether Code Mode is enabled org-wide, but cannot force it on."
  },
  "https://www.anthropic.com/news/anthropic-prices-initial-public-offering": {
   "s": "Today Anthropic, a public benefit corporation, set the price for its initial public offering at $83 per share. This matters because it marks the corporation's transition from a private to a publicly traded entity, raising capital for future projects and operations."
@@ -320,9 +278,6 @@
   "s": "",
   "why": "too little source text"
  },
- "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/": {
-  "s": "Boston Dynamics’ Atlas humanoid robot will first be tested in a non-automotive industry by GlobalFoundries, a major semiconductor manufacturer, in early 2027. This trial marks a significant step for Boston Dynamics as it aims to commercialize its humanoid robot."
- },
  "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/": {
   "s": "An autonomous drone can successfully inspect a controlled environment, but fails at an industrial site due to various environmental challenges. Each challenge, such as satellite signal obstruction or equipment reflection, is manageable individually, but when combined, they pose significant problems. The challenge lies in how these disturbances interact and affect the overall system, not just in how they affect individual subsystems."
  },
@@ -382,5 +337,58 @@
  },
  "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/": {
   "s": "Recent advancements in humanoid robots have led to significant improvements in their ability to walk and move without human supervision. This year, RoboCup featured 55 teams of humanoid robots, showcasing the growing capabilities and complexity of these machines. The evolution has been driven by advances in hardware, algorithms, and training methods, enabling robots to perform tasks that were previously challenging."
+ },
+ "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars": {
+  "s": "A NASA orbiter captured images of what appeared to be trees growing on Mars, but these were actually dark sand streaks caused by seasonal sublimation of carbon dioxide ice. This phenomenon, not previously observed, highlights how Mars' unique seasonal transitions can produce surprising geological features."
+ },
+ "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html": {
+  "s": "The U.K.-built X-ray telescope aboard the BepiColombo spacecraft has delivered its first images of the Crab Nebula, a well-known X-ray source. This matter matters because it allows researchers to verify the telescope's performance in space, crucial for its mission to study Mercury."
+ },
+ "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2005": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with": {
+  "s": "Researchers conducted a study using AI to understand zebra finches. They asked readers which animal they would want to communicate with. The results show interest in zebra finches."
+ },
+ "https://phys.org/news/2026-11-pac-capsules-gobble-particles-turbulent.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone": {
+  "s": "Voyager 1 has traveled to a significant distance from Earth, reaching 1 light-day, but a computer issue is stopping it from sending scientific information back. NASA has a plan to address this problem."
+ },
+ "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/": {
+  "s": "NASA's Fermi mission data helped scientists discover pulsars much faster. This method opens the way to find many more pulsars, which are rapidly spinning cores of dead stars."
+ },
+ "https://phys.org/news/2026-11-secret-strange-metals-quantum-statistics.html": {
+  "s": "In ordinary metals, electrons behave like well-defined particles that bump into imperfections. In strange metals, electrons lose their momentum at the fastest quantum rate. This study suggests electrons' quantum nature, not collisions, causes strange metals' behavior, offering a new understanding."
+ },
+ "https://phys.org/news/2026-11-staying-alive-marsh-muck-tiny.html": {
+  "s": "Cattails thrive in wetlands, both in brackish and freshwater marshes. But their roots struggle in waterlogged soil, which lacks oxygen. Cattails have evolved to solve this problem by growing air-filled tubes, called aerenchyma, that carry oxygen from aboveground to belowground. This delicate balance is crucial; while oxygen helps roots survive, leakage from roots into sediment can accelerate decomposition, potentially harming marshes' ability to store carbon."
+ },
+ "https://phys.org/news/2026-11-dual-purpose-polymer-dots-combine.html": {
+  "s": "The research team has developed a polymer material capable of dual functions: it can emit bright fluorescent light for imaging, and when exposed to light, it can generate singlet oxygen to kill cancer cells. This innovation could streamline the creation of \"nanotheranostic\" technologies, which combine imaging and treatment in a single platform. The material's unique properties, including \"through-space charge transfer\" and conformational adaptability, help maintain its light-emitting and therapeutic capabilities."
+ },
+ "https://phys.org/news/2026-11-microbes-drug-chemicals.html": {
+  "s": "University of Michigan researchers discovered a mechanism that enables bacteria and fungi to produce drug-like molecules without harming themselves. This discovery involves a protein that both strengthens chemical reactions to generate these compounds and shields the organism from the harmful byproducts. The study, published in Science, provides insights into natural chemical synthesis and could lead to better pharmaceuticals."
+ },
+ "https://phys.org/news/2026-11-tiny-primordial-black-holes.html": {
+  "s": "If tiny 'primordial' black holes exist, they may have been forged in the early universe. Finding these black holes could reveal a significant component of dark matter. Physicists have devised a method to detect a primordial black hole captured by a modern star, predicting it would cause the star to explode with detectable light."
+ },
+ "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/": {
+  "s": "SID AI released SID-2, an agentic search model that can adapt and search again, scoring 0.720 NDCG in swarm mode, outperforming general chat models. This matters because it demonstrates a more efficient approach to search, requiring less data processing and fewer resources, yet achieving higher retrieval quality."
+ },
+ "https://www.therobotreport.com/robotics-enters-its-post-jensen-huang-era/": {
+  "s": "One of robotics' most influential advocates, Jensen Huang, has left his influential role at NVIDIA. The industry now faces uncertainty as it tries to sustain Huang's impact without him."
+ },
+ "https://spectrum.ieee.org/agentic-robotics": {
+  "s": "Robotics companies are betting that data will fix the biggest robotics challenges. Agentic robotics aims to solve practical tasks without needing data or humans, by focusing on understanding robots' mechanics and writing clear code for them to perform tasks."
+ },
+ "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/": {
+  "s": "At CoRL, NVIDIA and partners are showcasing how robots are rehearsing delicate work through simulation. This shift from locomotion to manipulation is crucial for tasks requiring precision, like aligning gears or assembling small components. World action models, like GR00T 2, enable robots to learn these tasks more effectively. These advancements help researchers train robots for complex tasks, improving their precision and adaptability."
+ },
+ "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": {
+  "s": "Korea is leveraging its strengths in manufacturing and engineering to advance AI in various industries. Efforts span from semiconductor innovation to robotics and autonomous vehicles, bringing AI from development to real-world production. Samsung and Kakao Mobility are among those collaborating with NVIDIA to accelerate AI and simulation, improving efficiency and speeding up design processes."
  }
 }

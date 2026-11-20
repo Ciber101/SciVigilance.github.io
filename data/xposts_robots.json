@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T21:22:08.711103+00:00",
+ "updated": "2026-11-20T03:21:13.718Z",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -10,7 +10,7 @@
      "id": "2123080663909978394",
      "text": "My podcast with Peter and David is now live. We talked about the global race in robotics and overall AI progress\n\nWe recorded at Figure HQ, we now have more humanoids on campus than humans",
      "date": "2026-11-18T15:47:29.000Z",
-     "quoted": false,
+     "quoted": true,
      "image": null,
      "video": null,
      "url": "https://x.com/adcock_brett/status/2123080663909978394"
@@ -58,7 +58,7 @@
    "posts": [
     {
      "id": "2123453503725027444",
-     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental progress, uniting inspection data from autonomous robots with other information sources to help identify problems, make better decisions, and act on insights more quickly.",
+     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental",
      "date": "2026-11-19T16:29:01.000Z",
      "quoted": false,
      "image": null,
@@ -67,7 +67,7 @@
     },
     {
      "id": "2122695488973467779",
-     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston Dynamics and Spot for over four years and recently expanded the program to Singapore, where two Spot robots have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, achieving a 99% mission success rate.",
+     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston",
      "date": "2026-11-17T14:16:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXVUS2yXMAA3DgK.jpg",
@@ -75,13 +75,13 @@
      "url": "https://x.com/BostonDynamics/status/2122695488973467779"
     },
     {
-     "id": "2119808355745071495",
-     "text": "When rubber meets the road, we have to get creative to ensure our robots will be reliable and performant outside of the lab! Putting wheels on Atlas let us test how faithfully an RL whole-body controller can work with real actuators running at the edge. \n\nLearn more about this experiment:\nJoin our team:",
-     "date": "2026-11-09T15:04:30.000Z",
+     "id": "2120912067985080628",
+     "text": "Did you see @BostonDynamics at the @SWEtalk #WE26 conference in Boston last week?\n\nSpot toured the convention center floor, while our team connected with industry professionals and future engineers and attended expert-led sessions. Our participation in the 2026 WE Conference is",
+     "date": "2026-11-12T16:10:16.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HWsSdkcWsAA4h1t.jpg",
-     "video": "https://video.twimg.com/amplify_video/2119807986361118720/vid/avc1/1920x1080/oKon5rYZHP7agZBk.mp4?tag=16",
-     "url": "https://x.com/BostonDynamics/status/2119808355745071495"
+     "image": "https://pbs.twimg.com/media/HW7-SQHWkAACSO0.jpg",
+     "video": "https://video.twimg.com/amplify_video/2120912028898365440/vid/avc1/1080x1920/gensmiBn0PinqCGj.mp4?tag=16",
+     "url": "https://x.com/BostonDynamics/status/2120912067985080628"
     }
    ]
   },
@@ -90,6 +90,15 @@
    "name": "Agility",
    "avatar": "img/x-robots-agilityrobotics.jpg",
    "posts": [
+    {
+     "id": "2123550395133759721",
+     "text": "Manufacturers face “an existential problem with the labor that they can’t get,” our CEO Peggy Johnson told @FT.\n\nWorkers are retiring, fewer are replacing them, and reshoring is adding demand.\n\nRead more:",
+     "date": "2026-11-19T22:54:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HXhd1L0XQAAYsfp.jpg",
+     "video": null,
+     "url": "https://x.com/agilityrobotics/status/2123550395133759721"
+    },
     {
      "id": "2123504116408172671",
      "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
@@ -107,15 +116,6 @@
      "image": "https://pbs.twimg.com/media/HXaolz2aAAAXQpo.png",
      "video": null,
      "url": "https://x.com/agilityrobotics/status/2123069661487190053"
-    },
-    {
-     "id": "2122823384446718088",
-     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
-     "date": "2026-11-17T22:45:09.000Z",
-     "quoted": false,
-     "image": "https://pbs.twimg.com/media/HXXInjDXsAAIPwb.jpg",
-     "video": "https://video.twimg.com/amplify_video/2122823356839874560/vid/avc1/1080x1350/-ftG1dIyuYE6fzxc.mp4?tag=16",
-     "url": "https://x.com/agilityrobotics/status/2122823384446718088"
     }
    ]
   },
@@ -128,10 +128,19 @@
      "id": "2120207146113753350",
      "text": "Tying a bow, sorting car parts... it's called range.",
      "date": "2026-11-10T17:29:09.000Z",
-     "quoted": false,
+     "quoted": true,
      "image": null,
      "video": null,
      "url": "https://x.com/Apptronik/status/2120207146113753350"
+    },
+    {
+     "id": "2117715446103146722",
+     "text": "Are you attending #CORL2026? The #Apptronik team is looking forward to connecting with top talent in robotics and embodied AI at our “Fueling the Future: Apptronik CoRL Networking Lunch” on Wednesday 11/11 in Austin!\n\nWhether you’re curious about what we've been building,",
+     "date": "2026-11-03T20:28:02.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HWOisP2WkAAIKU2.jpg",
+     "video": null,
+     "url": "https://x.com/Apptronik/status/2117715446103146722"
     },
     {
      "id": "2102553825995633068",
@@ -194,7 +203,7 @@
     },
     {
      "id": "2122708634346082611",
-     "text": "🌏 APEC CEO Summit 2026 is being held in Shenzhen today. @APEC\n\nOur Founder, Chairman of the Board, and CEO James Zhou represented UBTECH at #APECCEOSUMMIT2026, sharing how humanoid robots are powering the transformation of Asia-Pacific manufacturing and shaping our shared future. \n\nOne stage. One vision. A world of possibilities. 🤖\n\n#UBTECH #Robotics #HumanoidRobot #AI #APEC2026",
+     "text": "🌏 APEC CEO Summit 2026 is being held in Shenzhen today. @APEC\n\nOur Founder, Chairman of the Board, and CEO James Zhou represented UBTECH at #APECCEOSUMMIT2026, sharing how humanoid robots are powering the transformation of Asia-Pacific manufacturing and shaping our shared",
      "date": "2026-11-17T15:09:11.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXVgOwna4AEi2qu.jpg",
@@ -203,7 +212,7 @@
     },
     {
      "id": "2119774071588352453",
-     "text": "🤖📰 Meet the world's first bionic humanoid robot news anchors!\n\nJointly developed by UBTECH Robotics and #XinhuaNewsAgency, the news anchors were officially launched at the 7th World Media Summit in Beijing. Connected to \"Xinhua Yudian\", Xinhua's Al-poweredcurrent-affairs information intelligent agent, they are tailor-made for news communication scenarios.\n\nRenowned Chinese film director #ZhangYimou served as lead character designer, bringing a distinctive visual identity to this groundbreaking collaboration. 🎬\n\nTogether, we're making history again. ✨\n\n#UBTECH #UWORLD #BionicHumanoid #HumanoidRobot #AI",
+     "text": "🤖📰 Meet the world's first bionic humanoid robot news anchors!\n\nJointly developed by UBTECH Robotics and #XinhuaNewsAgency, the news anchors were officially launched at the 7th World Media Summit in Beijing. Connected to \"Xinhua Yudian\", Xinhua's Al-poweredcurrent-affairs",
      "date": "2026-11-09T12:48:16.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2119773913567899648/img/1IiFsgBD6vn9yRHL.jpg",
@@ -219,7 +228,7 @@
    "posts": [
     {
      "id": "2120486950742462933",
-     "text": "AGIBOT G2: The 24-Hour Nonstop Convenience Store Challenge\n\nWorking nonstop for 24 hours, powering through four grueling shifts, and completing hundreds of real-world service tasks. \n\nIn this \"no-holds-barred\" public evaluation, AGIBOT G2 not only withstood the pressure of real customer traffic but also demonstrated incredible stability. \n\nLet’s look back at the highlights of these 24 hours and check out G2's \"Work Performance Report\"! 👇",
+     "text": "AGIBOT G2: The 24-Hour Nonstop Convenience Store Challenge\n\nWorking nonstop for 24 hours, powering through four grueling shifts, and completing hundreds of real-world service tasks. \n\nIn this \"no-holds-barred\" public evaluation, AGIBOT G2 not only withstood the pressure of real",
      "date": "2026-11-11T12:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2120413766101950464/img/9BwZ2k6a_WC9wpzB.jpg",
@@ -228,7 +237,7 @@
     },
     {
      "id": "2120342415412478139",
-     "text": "AGIBOT G2 Max: A heavy-duty industrial robot built for demanding manufacturing and logistics tasks.  \n\nWith 21 degrees of freedom, up to 40 kg of dual-arm handling capacity, and an adjustable working height from 0.1 to 2.5 meters, G2 Max combines force-controlled manipulation, omnidirectional mobility and multiple safety features to support demanding industrial operations.  \n\nFrom production lines and CNC machine tending to warehouse handling and pallet operations, the G2 family is bringing robotic capabilities into real industrial workflows.  Built for the demands of real work.  \n\n#AGIBOT #AGIBOTG2Max #EmbodiedAI #IndustrialRobot",
+     "text": "AGIBOT G2 Max: A heavy-duty industrial robot built for demanding manufacturing and logistics tasks.  \n\nWith 21 degrees of freedom, up to 40 kg of dual-arm handling capacity, and an adjustable working height from 0.1 to 2.5 meters, G2 Max combines force-controlled manipulation,",
      "date": "2026-11-11T02:26:40.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2120335735916298241/img/EmTo2oaqQLRylPTk.jpg",
@@ -237,7 +246,7 @@
     },
     {
      "id": "2119740399740764517",
-     "text": "Last week, we welcomed Mary Callahan Erdoes, CEO of J.P. Morgan Asset & Wealth Management, Desiree Wang, CEO of J.P. Morgan Asset Management (China), and the J.P. Morgan Asset Management China team to AGIBOT, hosted by our founder, Chairman and CEO, Deng Taihua, and our co-founders.",
+     "text": "Last week, we welcomed Mary Callahan Erdoes, CEO of J.P. Morgan Asset &amp; Wealth Management, Desiree Wang, CEO of J.P. Morgan Asset Management (China), and the J.P. Morgan Asset Management China team to AGIBOT, hosted by our founder, Chairman and CEO, Deng Taihua, and our",
      "date": "2026-11-09T10:34:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWrJaRzaEAETzlR.jpg",
@@ -251,6 +260,15 @@
    "name": "NVIDIA Robotics",
    "avatar": "img/x-robots-nvidiarobotics.jpg",
    "posts": [
+    {
+     "id": "2123566020271251657",
+     "text": "This or that, robotics edition 🤖 What will senior research manager @UmarIqb pick?",
+     "date": "2026-11-19T23:56:07.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2123562364129693696/img/3b9v-3DnFrZ5w7Jd.jpg",
+     "video": "https://video.twimg.com/amplify_video/2123562364129693696/vid/avc1/576x1024/Q6kLXw7OIV8tvg9r.mp4?tag=16",
+     "url": "https://x.com/NVIDIARobotics/status/2123566020271251657"
+    },
     {
      "id": "2123491860421255324",
      "text": "Build Training-Ready Datasets in Two Prompts Featuring Encord and Voxel51 | Cosmos Labs",
@@ -268,15 +286,6 @@
      "image": null,
      "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2123462899548983731"
-    },
-    {
-     "id": "2123107852839501926",
-     "text": "Bring your robot data questions to Cosmos Labs. 🤖 \n\nNVIDIA, Encord and @Voxel51 go live Nov. 19 at 11 a.m. PT with Cosmos Data Factory demos, robotic inspection use cases, and Q&amp;A.\n\nSet a reminder 👉",
-     "date": "2026-11-18T17:35:32.000Z",
-     "quoted": false,
-     "image": null,
-     "video": null,
-     "url": "https://x.com/NVIDIARobotics/status/2123107852839501926"
     }
    ]
   }
