@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T03:21:13.718Z",
+ "updated": "2026-11-20T09:24:43.836Z",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -35,19 +35,28 @@
      "id": "2113292884200010101",
      "text": "Today we're sharing Figures internal All Hands publicly",
      "date": "2026-10-22T15:34:21.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/Figure_robot/status/2113292884200010101"
     },
     {
-     "id": "2105316680251650555",
-     "text": "F.02 Decommission",
-     "date": "2026-09-30T15:19:46.000Z",
+     "id": "2105317708539830678",
+     "text": "It’s worth being clear: we really trained robots to jump autonomously, shipped them to Finland, and had them leap into a vat of molten steel\n\nHere's some behind the scenes",
+     "date": "2026-09-30T15:23:51.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2105310982994382848/img/qENCF-Ie4xhbp5iR.jpg",
-     "video": "https://video.twimg.com/amplify_video/2105310982994382848/vid/avc1/3840x2160/kb0RuVDHLGIdFKxz.mp4",
-     "url": "https://x.com/Figure_robot/status/2105316680251650555"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2105317596686090240/img/qgfd5oqJDBuPgeBw.jpg",
+     "video": "https://video.twimg.com/amplify_video/2105317596686090240/vid/avc1/1920x1080/flP7gmFJbzMUFyVK.mp4",
+     "url": "https://x.com/Figure_robot/status/2105317708539830678"
+    },
+    {
+     "id": "2105317203264655363",
+     "text": "Today we're selling a limited edition F.02 Decommission Artifacts\n\nThese are from the metal recovered when F.02 robots were melted down in a 75-ton electric arc furnace\n\nLimited availability:",
+     "date": "2026-09-30T15:21:50.000Z",
+     "quoted": false,
+     "image": "https://pbs.twimg.com/media/HTeWsAubgAIUSB6.jpg",
+     "video": null,
+     "url": "https://x.com/Figure_robot/status/2105317203264655363"
     }
    ]
   },
@@ -58,7 +67,7 @@
    "posts": [
     {
      "id": "2123453503725027444",
-     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental",
+     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental progress, uniting inspection data from autonomous robots with other information sources to help identify problems, make better decisions, and act on insights more quickly.",
      "date": "2026-11-19T16:29:01.000Z",
      "quoted": false,
      "image": null,
@@ -67,7 +76,7 @@
     },
     {
      "id": "2122695488973467779",
-     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston",
+     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston Dynamics and Spot for over four years and recently expanded the program to Singapore, where two Spot robots have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, achieving a 99% mission success rate.",
      "date": "2026-11-17T14:16:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXVUS2yXMAA3DgK.jpg",
@@ -75,13 +84,13 @@
      "url": "https://x.com/BostonDynamics/status/2122695488973467779"
     },
     {
-     "id": "2120912067985080628",
-     "text": "Did you see @BostonDynamics at the @SWEtalk #WE26 conference in Boston last week?\n\nSpot toured the convention center floor, while our team connected with industry professionals and future engineers and attended expert-led sessions. Our participation in the 2026 WE Conference is",
-     "date": "2026-11-12T16:10:16.000Z",
+     "id": "2119808355745071495",
+     "text": "When rubber meets the road, we have to get creative to ensure our robots will be reliable and performant outside of the lab! Putting wheels on Atlas let us test how faithfully an RL whole-body controller can work with real actuators running at the edge. \n\nLearn more about this experiment:\nJoin our team:",
+     "date": "2026-11-09T15:04:30.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HW7-SQHWkAACSO0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2120912028898365440/vid/avc1/1080x1920/gensmiBn0PinqCGj.mp4?tag=16",
-     "url": "https://x.com/BostonDynamics/status/2120912067985080628"
+     "image": "https://pbs.twimg.com/media/HWsSdkcWsAA4h1t.jpg",
+     "video": "https://video.twimg.com/amplify_video/2119807986361118720/vid/avc1/1920x1080/oKon5rYZHP7agZBk.mp4?tag=16",
+     "url": "https://x.com/BostonDynamics/status/2119808355745071495"
     }
    ]
   },

@@ -141,9 +141,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/": {
-  "s": "Today's image resembles a painting, with bright blue Alnitak and the instantly recognizable dark horse's head in the Horsehead Nebula. The Flame Nebula to the left shows orange and dark filaments, while NGC 2023 is a blue reflection nebula actively forming stars. The data collection took almost six hours, controlled remotely by the photographer from a distance of 2,000 km."
- },
  "https://www.sciencedaily.com/releases/2026/11/261117033923.htm": {
   "s": "Excessive exercise without adequate recovery may disrupt brain chemistry, potentially affecting processes that help the brain return to its normal state. This research suggests that excessive training can lead to elevated dopamine levels, which might explain why excessive exercise sometimes causes insomnia, anxiety, and persistent fatigue."
  },
@@ -178,9 +175,6 @@
  },
  "https://www.sciencenews.org/article/europe-hera-mission-double-asteroid": {
   "s": "Europe's Hera spacecraft is about to explore the binary asteroid Didymos and its moonlet Dimorphos, marking the first time scientists will study an asteroid pair. This mission matters because Hera will investigate the aftermath of NASA's DART impact, providing insights into planetary defense and the formation of asteroids."
- },
- "https://deepmind.google/blog/introducing-gemini-4-neon/": {
-  "s": "Introducing Gemini 4 Neon, Google's new model offers advanced intelligence for coding and analysis at a lower cost. Neon ranks highly on various benchmarks and excels in multi-step instruction following, synthesizing complex inputs into structured deliverables."
  },
  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
   "s": "The Gemini app now supports lower-memory Android devices, making it accessible to hundreds of millions of people who previously had limited internet access. By re-architecting the app, researchers have made it run smoothly on devices with less memory, offering features like voice commands, translation, and image creation."
@@ -242,9 +236,6 @@
  "https://api-docs.deepseek.com/news/news261113": {
   "s": "The DeepSeek App's features like search, files, links, safety, and voice are now accessible via an API. This enables developers to integrate these capabilities into their own applications, rather than using the full app."
  },
- "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
-  "s": "Gemini 4 Hydrogen is a new model from Google designed for fast and efficient coding and workflow tasks. It matters because it offers significant speed improvements and intelligence, suitable for everyday coding and complex projects, complementing other models like Carbon and Argon in multi-model workflows."
- },
  "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/": {
   "s": "Google Search is getting a new feature called Gemini 4 Hydrogen, now available globally. This upgrade helps users ask complex questions and get more intuitive, visual, and precise answers with images, tables, and links."
  },
@@ -264,19 +255,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/gemini-4-carbon-is-now-available/": {
-  "s": "Gemini 4 Carbon is now available to developers, enterprises, scientists, and consumers who can try its latest frontier model. With cybersecurity capabilities and long-horizon agentic workflows, Carbon pushes the limits of a model’s intelligence, especially for complex, multi-step coding and scientific research."
- },
  "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
   "s": "NVIDIA is adding OpenShell, a runtime for securing AI agents, to the CNCF. This matters as it provides security infrastructure for autonomous agents to the community, accelerating development and improving AI infrastructure security."
- },
- "https://deepmind.google/blog/introducing-alphaproof-code/": {
-  "s": "",
-  "why": "too little source text"
- },
- "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.therobotreport.com/what-industrial-drone-deployments-reveal-about-real-world-autonomy-challenges/": {
   "s": "An autonomous drone can successfully inspect a controlled environment, but fails at an industrial site due to various environmental challenges. Each challenge, such as satellite signal obstruction or equipment reflection, is manageable individually, but when combined, they pose significant problems. The challenge lies in how these disturbances interact and affect the overall system, not just in how they affect individual subsystems."
@@ -338,9 +318,6 @@
  "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai/": {
   "s": "Recent advancements in humanoid robots have led to significant improvements in their ability to walk and move without human supervision. This year, RoboCup featured 55 teams of humanoid robots, showcasing the growing capabilities and complexity of these machines. The evolution has been driven by advances in hardware, algorithms, and training methods, enabling robots to perform tasks that were previously challenging."
  },
- "https://www.sciencealert.com/nasa-orbiter-snaps-what-looks-like-an-eerie-forest-growing-on-the-frozen-dunes-of-mars": {
-  "s": "A NASA orbiter captured images of what appeared to be trees growing on Mars, but these were actually dark sand streaks caused by seasonal sublimation of carbon dioxide ice. This phenomenon, not previously observed, highlights how Mars' unique seasonal transitions can produce surprising geological features."
- },
  "https://phys.org/news/2026-11-mercury-bound-ray-telescope-images.html": {
   "s": "The U.K.-built X-ray telescope aboard the BepiColombo spacecraft has delivered its first images of the Crab Nebula, a well-known X-ray source. This matter matters because it allows researchers to verify the telescope's performance in space, crucial for its mission to study Mercury."
  },
@@ -390,5 +367,17 @@
  },
  "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": {
   "s": "Korea is leveraging its strengths in manufacturing and engineering to advance AI in various industries. Efforts span from semiconductor innovation to robotics and autonomous vehicles, bringing AI from development to real-world production. Samsung and Kakao Mobility are among those collaborating with NVIDIA to accelerate AI and simulation, improving efficiency and speeding up design processes."
+ },
+ "https://www.sciencealert.com/physicists-propose-a-hidden-periodic-table-of-dark-matter": {
+  "s": "Physicists have proposed a new periodic table for dark matter, a mysterious substance that makes up five times as much of the universe as normal matter. This new table could help explain why dark matter and normal matter are in such close numbers, potentially indicating they have a common origin."
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/": {
+  "s": "The message \"V-G-R\" was sent from Earth to Voyager 1, a spacecraft 26 billion kilometers away, using a flashlight beam. It took just one Earth day for the message to reach Voyager, demonstrating the speed of light."
+ },
+ "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/": {
+  "s": "Chainalysis reported that hackers accessed credentials and tokens for all its customers, including those of government agencies and private companies. This breach could be significant as it exposed sensitive user information and compromised the security of its systems."
+ },
+ "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit/": {
+  "s": "AI agents now generate full-stack web apps in one sitting, spanning many thousands of lines of code. This scale makes manual review impractical, so teams focus on formal specifications and tests. However, agents can still diverge from these specifications, leading to hidden bugs. Proofs help address this by verifying code meets its formal specifications for all inputs, offering stronger assurance than testing alone."
  }
 }
