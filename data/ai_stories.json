@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:05:00-08:00",
- "updated_pt": "Nov 19, 2026, 2:05 PM PT",
+ "updated": "2026-11-20T02:04:00-08:00",
+ "updated_pt": "Nov 20, 2026, 2:04 AM PT",
  "stories": [
   {
    "title": "Google DeepMind releases Gemini 4 Neon, a mid-tier model aimed at coding agents and science work",
@@ -36,25 +36,25 @@
    }
   },
   {
-   "title": "OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol",
+   "title": "Google adds Tool Retrieval to the Gemini API so agents load tool details only when needed",
    "tag": "AI",
-   "date": "2026-11-17",
+   "date": "2026-11-19",
    "paragraphs": [
-    "OpenAI has released GPT-6.2 Astra, which it describes as its new frontier model for the hardest projects, and GPT-6.2 Sol, an efficient, versatile model for everyday work, Simon Willison reports, quoting the announcement. Both are available in the API as gpt-6.2-astra and gpt-6.2-sol.",
-    "According to Willison, GPT-6.2 Astra costs $8 per million input tokens and $40 per million output tokens, 80% of the price of GPT-6 Astra, with cached input cut to $0.40 per million from $1. GPT-6.2 Sol keeps the same $2 and $10 pricing as GPT-6.1 Sol and GPT-6 Sol.",
-    "Willison describes early reaction to the models as mixed. He writes that Astra 6.2 is not scoring quite as high as Anthropic's Claude Fable 5.2 on various benchmarks, and that he has seen complaints that its communication style can be confusing, quoting developer Theo Browne's pre-release feedback as an example."
+    "Google launched Tool Retrieval in the Gemini API on Nov. 19, 2026, available in preview in the Interactions API. In a post by Gemini API product manager Lucia Loher and Google DeepMind research scientist Nora Kassner, Google says that when an agent connects to dozens or hundreds of tools, sending every tool's full parameter description with each request inflates input token counts, adds latency and lowers tool-selection accuracy as the list grows.",
+    "With the feature, developers add a tool_search tool to a request and mark tools to hold back with defer_loading. According to Google, the model still sees each deferred tool's name and description, but its parameter details stay out of context until the model asks for that tool by name; the API then loads the details and the model calls the function, all inside the same request. Google says the search runs on its servers, so there is no index to build or host, and the feature also works with remote MCP servers.",
+    "Developers who keep their own tool registry or permission filters can instead run the search on their side, which Google says adds one round trip per search. The company says Tool Retrieval has no separate charge: tokens are billed at the model's standard rates, turning it on adds a small fixed block of input tokens, and each loaded tool description is billed as input for the rest of the conversation. Google says it works with Gemini 3.6 and later models, including all Gemini 4 models."
    ],
    "sources": [
     {
-     "name": "Simon Willison",
-     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-     "date": "2026-11-17"
+     "name": "Google",
+     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+     "date": "2026-11-19"
     }
    ],
    "image": {
-    "url": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
-    "credit": "OpenAI",
-    "alt": "GPT-6.2 Astra and Sol launch graphic"
+    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+    "credit": "Google",
+    "alt": "Gemini API Tool Retrieval announcement header image"
    }
   },
   {

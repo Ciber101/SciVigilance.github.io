@@ -1,34 +1,7 @@
 {
- "updated": "2026-11-19T14:05:00-08:00",
- "updated_pt": "Nov 19, 2026, 2:05 PM PT",
+ "updated": "2026-11-20T02:04:00-08:00",
+ "updated_pt": "Nov 20, 2026, 2:04 AM PT",
  "stories": [
-  {
-   "title": "GlobalFoundries becomes the first non-automotive customer to test Boston Dynamics' Atlas humanoid",
-   "tag": "Robots",
-   "date": "2026-11-17",
-   "paragraphs": [
-    "Boston Dynamics announced on Nov. 17, 2026, that semiconductor maker GlobalFoundries will be the first semiconductor manufacturer to test humanoid robots through the Atlas early adopter program, while also deploying more Spot robots across its global manufacturing network. The Robot Report reports that GlobalFoundries is the first customer outside the automotive industry to test Atlas, with testing set to begin in early 2027.",
-    "According to the companies, two Spot robots at GlobalFoundries' Singapore facility have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, with a 99% mission success rate. The Robot Report says the companies will identify humanoid applications in chip manufacturing and begin training Atlas on specific tasks, but did not disclose how many robots, which facilities or which first tasks are involved.",
-    "The Robot Report notes that Boston Dynamics' initial Atlas production for 2026 was committed to its parent company Hyundai and to Google DeepMind, and that Hyundai has outlined plans to deploy 25,000 Atlas humanoids across Hyundai Motor and Kia plants over the next several years."
-   ],
-   "sources": [
-    {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/boston-dynamics-atlas-humanoid-lands-first-non-automotive-trial/",
-     "date": "2026-11-17"
-    },
-    {
-     "name": "Boston Dynamics on X",
-     "url": "https://x.com/BostonDynamics/status/2122695488973467779",
-     "date": "2026-11-17"
-    }
-   ],
-   "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/atlas-globalfoundries.jpg",
-    "credit": "Boston Dynamics, via The Robot Report",
-    "alt": "Boston Dynamics' Atlas humanoid robot"
-   }
-  },
   {
    "title": "Agility Robotics names a new president and product chief after its Nasdaq listing",
    "tag": "Robots",
@@ -81,6 +54,33 @@
     "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured-1024x665.png",
     "credit": "Humyn Labs, via The Robot Report",
     "alt": "Humyn Labs co-founders Ishank Gupta and Manish Agarwal"
+   }
+  },
+  {
+   "title": "Rockwell Automation agrees to buy Austrian mobile robot maker AGILOX",
+   "tag": "Robots",
+   "date": "2026-11-18",
+   "paragraphs": [
+    "Rockwell Automation announced on Nov. 18, 2026, that it has signed a definitive agreement to acquire AGILOX, an Austria-based maker of autonomous mobile robots (AMRs). Rockwell says AGILOX's forklift robots and its own OTTO flatbed robots will together form a complete autonomous material-movement offering, and that the deal will more than double Rockwell's AMR business. Financial terms were not disclosed, The Robot Report notes.",
+    "According to Rockwell, AGILOX has deployed more than 2,500 AMRs since it was founded in 2017, employs more than 250 people and has subsidiaries in Europe, the U.S. and China. Its robots are used in automotive, third-party logistics, food and beverage and pharmaceutical work. The Robot Report explains that AGILOX robots have built-in lifting mechanisms for pallets and omnidirectional drives that let them move sideways and diagonally in tight spaces, while OTTO focuses on flatbed robots that can carry attachments such as conveyors and lift tables.",
+    "Rockwell says the deal is expected to close in the second quarter of its fiscal year 2027, subject to regulatory approval, and that AGILOX will join its Intelligent Devices segment. The Robot Report adds that the sale is an exit for investment firm Carlyle, which made a majority investment in AGILOX in 2021, and that Rockwell bought Clearpath Robotics, including OTTO Motors, three years ago in a deal it valued at $609 million at the time."
+   ],
+   "sources": [
+    {
+     "name": "Rockwell Automation press release (via AGILOX)",
+     "url": "https://www.agilox.net/media/press-release_agilox-rockwell-automation_18112026.pdf",
+     "date": "2026-11-18"
+    },
+    {
+     "name": "The Robot Report",
+     "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
+     "date": "2026-11-18"
+    }
+   ],
+   "image": {
+    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
+    "credit": "AGILOX, via The Robot Report",
+    "alt": "An AGILOX mobile robot operating inside a container"
    }
   }
  ]

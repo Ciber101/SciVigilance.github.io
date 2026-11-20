@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:05:00-08:00",
- "updated_pt": "Nov 19, 2026, 2:05 PM PT",
+ "updated": "2026-11-20T02:04:00-08:00",
+ "updated_pt": "Nov 20, 2026, 2:04 AM PT",
  "stories": [
   {
    "title": "NASA's Voyager 1 becomes the first spacecraft to reach one light-day from Earth",
@@ -69,31 +69,36 @@
    }
   },
   {
-   "title": "OpenAI launches GPT-6.2 Astra and GPT-6.2 Sol",
-   "tag": "AI",
-   "date": "2026-11-17",
+   "title": "Rubin Observatory finds two ancient Trojan asteroids trailing Neptune, the first new ones in that swarm in 15 years",
+   "tag": "Space",
+   "date": "2026-11-19",
    "paragraphs": [
-    "OpenAI introduced GPT-6.2 Astra, which it calls its new frontier model for the hardest projects, and GPT-6.2 Sol, an efficient model for everyday work. OpenAI says both models deliver better results on demanding tasks with fewer output tokens. Starting on launch day, both are available to Plus, Pro, Enterprise and Edu users in ChatGPT Work and Codex, and to developers in the API as gpt-6.2-astra and gpt-6.2-sol.",
-    "OpenAI says GPT-6.2 Astra scores 5.2 points higher than GPT-6 Astra on Agents' Last Exam, a test of multistep professional work, and sets a new high on Terminal-Bench-Science. The company says it believes Astra is the best model in the world for scientists. On FrontierCode 2.0, OpenAI reports that GPT-6.2 Sol comes within 0.5 points of Astra at about one-fifth of the cost.",
-    "API prices for Astra are $8 per million input tokens, $0.40 for cached input and $40 for output, which OpenAI says is 20% lower than GPT-6 Astra on input and output. Sol keeps GPT-6.1 Sol's rates of $2 for input and $10 for output. OpenAI says both models meet the Critical threshold for cybersecurity and the High threshold for biological and chemical capabilities under its Preparedness Framework, and that in two alignment tests they were more likely to omit mentioning obstacles that blocked their work.",
-    "Simon Willison, who tested both models on launch day, describes early reaction as mixed. He writes that Astra 6.2 is not scoring quite as high as Anthropic's Claude Fable 5.2 on various benchmarks, and that some testers have complained its communication style can be confusing."
+    "Astronomers using the NSF-DOE Vera C. Rubin Observatory have confirmed two new long-term stable Trojan asteroids in Neptune's trailing (L5) swarm and identified a third object as a candidate, Live Science reported on Nov. 19, 2026. The findings were published Oct. 15 in The Astrophysical Journal Letters by a team led by Meg Schwamb of Queen's University Belfast. Earth.com reports that the two confirmed objects, 2025 MH348 and 2025 NN80, double the list of trailing Trojans known to be on orbits stable for billions of years from two to four, and that a third object, 2025 MD138, remains a candidate.",
+    "Trojan asteroids share a planet's orbit around the sun, gathering about 60 degrees ahead of and behind the planet, where the pulls of the sun and the planet balance, Live Science explains. The researchers told Live Science that Neptune's trailing Trojans have been hard to find because they are extremely faint and, for nearly 15 years, sat in front of the crowded central region of the Milky Way. Since 2025 that part of the sky has slowly moved away from the galactic plane, and Rubin's early Science Validation Survey happened to cover it, finding the objects within three weeks of the survey's start.",
+    "Computer models of the orbits showed the two confirmed objects will keep trailing Neptune for a billion years, which Live Science reports suggests their paths may date back to the early solar system. The third object stayed stable in only some simulations, so it is listed as a candidate. The simulations also showed highly tilted orbits, like those of the previously known L5 Trojans, suggesting Neptune captured them rather than forming alongside them, according to Live Science.",
+    "According to Earth.com, 2025 MH348 and the candidate were first detected on June 21, 2025, one day after the test survey began, and 2025 NN80 on July 7; older Pan-STARRS1 detections later extended their observed orbits. Phys.org, citing a Queen's University Belfast release, reports that Rubin's images in different filters let the team show that Neptune's leading and trailing Trojans have similar surfaces, and that Rubin's survey is expected to find tens to hundreds of Neptune Trojans in both groups."
    ],
    "sources": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-     "date": "2026-11-17"
+     "name": "Live Science",
+     "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun",
+     "date": "2026-11-19"
     },
     {
-     "name": "Simon Willison",
-     "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
-     "date": "2026-11-17"
+     "name": "Earth.com",
+     "url": "https://www.earth.com/space/neptune-trailing-trojans-rubin-observatory/",
+     "date": "2026-11-09"
+    },
+    {
+     "name": "Phys.org (Universe Today)",
+     "url": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
+     "date": "2026-11-02"
     }
    ],
    "image": {
-    "url": "https://cdn.openai.com/mdx-assets/e193aefe-5e58-431c-8cd2-adadac0c1496/44573edd-9653-49b3-ba07-7b3643545ef9.d3072be3.png",
-    "credit": "OpenAI",
-    "alt": "GPT-6.2 Astra and Sol launch graphic"
+    "url": "https://cdn.mos.cms.futurecdn.net/h5cgxwjHBkUCMoCDLyBXna-1270-80.jpg",
+    "credit": "FlyAzure/J.Murtagh/NASA/JAXA, via Live Science",
+    "alt": "Artist's rendition of Trojan asteroids trailing Neptune"
    }
   },
   {
