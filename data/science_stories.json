@@ -1,7 +1,35 @@
 {
- "updated": "2026-11-20T08:01:03-08:00",
- "updated_pt": "Nov 20, 2026, 8:01 AM PT",
+ "updated": "2026-11-20T13:58:00-08:00",
+ "updated_pt": "Nov 20, 2026, 1:58 PM PT",
  "stories": [
+  {
+   "title": "NASA pauses science on the Perseverance rover and Mars Odyssey orbiter while teams work separate hardware problems",
+   "tag": "Space",
+   "date": "2026-11-19",
+   "paragraphs": [
+    "NASA said on Nov. 19 that teams for its Perseverance Mars rover and its 2001 Mars Odyssey orbiter are investigating separate technical issues, and that science work on both missions is temporarily paused. According to NASA, the rover is stable and communicating with the team, and both missions are hoped to return to science by the end of November.",
+    "On Oct. 30, NASA says, Perseverance's primary downlink radio failed to send its usual \"heartbeat\" pings to the rover's main computer, which triggered onboard fault protection: the rover switched to its backup UHF radio and entered safe mode. \"In this case, there were 25 missed heartbeats, or about 100 seconds of silence,\" NASA wrote, quoting project manager Steven Lee of NASA's Jet Propulsion Laboratory. After recovery, engineers found the backup radio was transmitting at about half its expected power, and the team stopped using both radios. The rover is now talking directly to NASA's Deep Space Network over its high-gain antenna at a much lower data rate, so instrument work and new raw images are on hold; Space.com notes the mission website had posted no new raw images since Nov. 7.",
+    "Odyssey was in safe mode from Nov. 4 to 6, and engineers then determined that one of its reaction wheels, which help orient the spacecraft, had stopped spinning, according to NASA. The orbiter has four wheels, one of which failed in 2013, and needs at least three. NASA says that without them Odyssey would have to rely on its hydrazine thrusters, and the team estimates it has only enough fuel to do that for one to two months. In one test the faulty wheel moved when commanded, and further tests are under way to see whether it can be recovered.",
+    "NASA notes that Odyssey, which entered Mars orbit in October 2001 on a mission planned for just over 2.5 years, has operated around Mars longer than any other mission and made the first global maps of the composition of the Martian surface. Space.com adds that Perseverance had just set a new off-Earth driving record on Oct. 11, passing the 28.06-mile (45.16-kilometer) mark held by NASA's Opportunity rover."
+   ],
+   "sources": [
+    {
+     "name": "NASA Science",
+     "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
+     "date": "2026-11-19"
+    },
+    {
+     "name": "Space.com",
+     "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+     "date": "2026-11-20"
+    }
+   ],
+   "image": {
+    "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/03/pia04304-mars.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+    "credit": "NASA/JPL-Caltech (Viking Orbiter 1 mosaic), via NASA Science",
+    "alt": "Mosaic of Mars made from images captured by NASA's Viking Orbiter 1"
+   }
+  },
   {
    "title": "NASA's Voyager 1 becomes the first spacecraft to reach one light-day from Earth",
    "tag": "Space",
@@ -60,28 +88,6 @@
     "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111926_LS_brain-speech_inline.jpg",
     "credit": "Chang lab, via Science News",
     "alt": "Brain diagram highlighting Wernicke's area and the left posterior superior temporal gyrus"
-   }
-  },
-  {
-   "title": "Engine trouble ends Hayabusa2's planned asteroid landing; JAXA switches to a 2028 flyby",
-   "tag": "Space",
-   "date": "2026-11-19",
-   "paragraphs": [
-    "Japan's space agency JAXA has dropped its plan for the Hayabusa2 spacecraft to rendezvous with and attempt to land on the small near-Earth asteroid 1998 KY26 in 2031, Space.com reported on Nov. 19, 2026. According to Space.com, the spacecraft will instead make a high-speed flyby of another tiny asteroid, 2015 BM510, in April 2028, with no landing.",
-    "Space.com reports that JAXA announced the decision at a press conference on Nov. 17, a day after a Cabinet Office space policy subcommittee meeting. According to JAXA officials cited by Space.com, the last working thruster of Hayabusa2's four ion engines malfunctioned in mid-August, and a sensor detected unexpected erosion of the spacecraft's surface. \"The deterioration of the onboard equipment ... is becoming increasingly evident,\" extended-mission team leader Yuya Mimasu said, as quoted by the Japan Times and reported by Space.com.",
-    "Hayabusa2 launched in 2014 to collect material from the asteroid Ryugu and delivered those samples to Earth in December 2020 in a reentry capsule, according to Space.com. Since then it has flown an extended mission, including a close flyby of the asteroid Torifune in July. Space.com reports that scientists describe 2015 BM510 as a D-type asteroid, thought to be organic-rich and comet-like, and that it is also the primary target of a proposal for the European Space Agency's mini-Fast mission series."
-   ],
-   "sources": [
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/asteroid-comet-missions/no-more-asteroid-landing-engine-trouble-forces-japans-hayabusa2-probe-to-change-plans",
-     "date": "2026-11-19"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/eu2FmcRSGP2BEPSmedZjm6-1920-80.jpg",
-    "credit": "JAXA, via Space.com",
-    "alt": "Artist's depiction of Japan's Hayabusa2 spacecraft passing near Earth"
    }
   },
   {
