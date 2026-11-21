@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T21:14:28.244Z",
+ "updated": "2026-11-21T03:19:09.331Z",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -10,7 +10,7 @@
      "id": "2123844175619846289",
      "text": "F.03’s at F1 Las Vegas",
      "date": "2026-11-20T18:21:25.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/adcock_brett/status/2123844175619846289"
@@ -19,7 +19,7 @@
      "id": "2123080663909978394",
      "text": "My podcast with Peter and David is now live. We talked about the global race in robotics and overall AI progress\n\nWe recorded at Figure HQ, we now have more humanoids on campus than humans",
      "date": "2026-11-18T15:47:29.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/adcock_brett/status/2123080663909978394"
@@ -67,7 +67,7 @@
    "posts": [
     {
      "id": "2123453503725027444",
-     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental",
+     "text": "The promise of AI and MCP is that integrating the physical and digital worlds is easier than ever. That may be true, but data siloes and real world messiness still stymy projects. Rather than wait for a perfect data environment, leading companies are building incremental progress, uniting inspection data from autonomous robots with other information sources to help identify problems, make better decisions, and act on insights more quickly.",
      "date": "2026-11-19T16:29:01.000Z",
      "quoted": false,
      "image": null,
@@ -76,7 +76,7 @@
     },
     {
      "id": "2122695488973467779",
-     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston",
+     "text": "We are thrilled to expand our collaboration with @GlobalFoundries. In addition to deploying Spot across their global manufacturing network, GF will be the first semiconductor manufacturer to test humanoid robots as part of Atlas early adopter program.\n\nGF has worked with Boston Dynamics and Spot for over four years and recently expanded the program to Singapore, where two Spot robots have traveled nearly 900 kilometers and completed more than 90,000 inspections in sub-fab areas since April, achieving a 99% mission success rate.",
      "date": "2026-11-17T14:16:57.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXVUS2yXMAA3DgK.jpg",
@@ -84,13 +84,13 @@
      "url": "https://x.com/BostonDynamics/status/2122695488973467779"
     },
     {
-     "id": "2120912067985080628",
-     "text": "Did you see @BostonDynamics at the @SWEtalk #WE26 conference in Boston last week?\n\nSpot toured the convention center floor, while our team connected with industry professionals and future engineers and attended expert-led sessions. Our participation in the 2026 WE Conference is",
-     "date": "2026-11-12T16:10:16.000Z",
+     "id": "2119808355745071495",
+     "text": "When rubber meets the road, we have to get creative to ensure our robots will be reliable and performant outside of the lab! Putting wheels on Atlas let us test how faithfully an RL whole-body controller can work with real actuators running at the edge. \n\nLearn more about this experiment:\nJoin our team:",
+     "date": "2026-11-09T15:04:30.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/media/HW7-SQHWkAACSO0.jpg",
-     "video": "https://video.twimg.com/amplify_video/2120912028898365440/vid/avc1/1080x1920/gensmiBn0PinqCGj.mp4?tag=16",
-     "url": "https://x.com/BostonDynamics/status/2120912067985080628"
+     "image": "https://pbs.twimg.com/media/HWsSdkcWsAA4h1t.jpg",
+     "video": "https://video.twimg.com/amplify_video/2119807986361118720/vid/avc1/1920x1080/oKon5rYZHP7agZBk.mp4?tag=16",
+     "url": "https://x.com/BostonDynamics/status/2119808355745071495"
     }
    ]
   },
@@ -110,7 +110,7 @@
     },
     {
      "id": "2123504116408172671",
-     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇",
+     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
      "date": "2026-11-19T19:50:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXgzvXoWUAAxflY.jpg",
@@ -262,9 +262,9 @@
    "posts": [
     {
      "id": "2123886653244924052",
-     "text": "🤖 Scaling physical AI with human experience.\n\nNVIDIA brings 1M hours of human demonstrations to the robotics community, with 100K hours open sourced, featuring egocentric video, head and hand tracking, and language annotations.\n\nExplore the dataset on @HuggingFace and start",
+     "text": "🤖 Scaling physical AI with human experience.\n\nNVIDIA brings 1M hours of human demonstrations to the robotics community, with 100K hours open sourced, featuring egocentric video, head and hand tracking, and language annotations.\n\nExplore the dataset on @HuggingFace and start building. 👇",
      "date": "2026-11-20T21:10:12.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/NVIDIARobotics/status/2123886653244924052"
@@ -279,13 +279,13 @@
      "url": "https://x.com/NVIDIARobotics/status/2123566020271251657"
     },
     {
-     "id": "2123492195256685021",
-     "text": "The future of physical AI goes beyond what’s onboard. 🤖\n\nPhysical AI systems need reliable connectivity and distributed AI infrastructure to complement on-device computing. 6G will be the connective tissue for billions of physical AI devices, including robots.\n\nExplore what 6G",
-     "date": "2026-11-19T19:02:46.000Z",
+     "id": "2123491860421255324",
+     "text": "Build Training-Ready Datasets in Two Prompts Featuring Encord and Voxel51 | Cosmos Labs",
+     "date": "2026-11-19T19:01:26.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2123492164952903680/img/6WwqTdi8qp0Lx760.jpg",
-     "video": "https://video.twimg.com/amplify_video/2123492164952903680/vid/avc1/1280x720/QRvD6CHq3tXQZRJR.mp4?tag=16",
-     "url": "https://x.com/NVIDIARobotics/status/2123492195256685021"
+     "image": null,
+     "video": null,
+     "url": "https://x.com/NVIDIARobotics/status/2123491860421255324"
     }
    ]
   }

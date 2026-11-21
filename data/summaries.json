@@ -11,10 +11,6 @@
  "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/": {
   "s": "Physicl raised $10 million to develop digital simulations that better mimic real-world physics, aiming to improve how robots interact with objects. This matters as current methods of training robots on video footage or gathering data are expensive and inaccurate, hindering their effectiveness."
  },
- "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/": {
   "s": "Tool Retrieval in the Gemini API enables agents to access numerous tools while minimizing input tokens, by loading schemas on-demand. This feature helps developers manage large tool libraries more efficiently, reducing data usage and improving performance. Launching Tool Retrieval in preview in the Interactions API lets developers add a tool_search tool and set defer_loading to true in their requests."
  },
@@ -55,17 +51,11 @@
  "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119": {
   "s": "If tiny \"primordial\" black holes exist, they would devour a star from within, causing a detectable explosion that could be observed with current telescopes. This phenomenon could help confirm the existence of these hypothetical structures."
  },
- "https://www.sciencedaily.com/releases/2026/11/261118065512.htm": {
-  "s": "Scientists have found a small but significant bacterium living inside deep-sea sea pigs, creatures that live on the ocean floor. This discovery reveals that the bacteria have an unusual ability to produce very large proteins, which could help them interact with their host or form clusters. Understanding this partnership offers new insights into how bacteria adapt to living close to other organisms."
- },
  "https://www.sciencenews.org/article/stars-andromeda-galaxy-merge-little-bao": {
   "s": "Two stars in Andromeda merged before astronomers' eyes, as a giant star brightened and then erupted. This offers clues to why some star pairs combine while others stay separate."
  },
  "https://theconversation.com/why-does-your-body-store-fat-in-your-butt-294331": {
   "s": "Body fat distribution varies among mammals, including humans. Researchers are still studying why some areas store more fat than others. Fat, or adipose tissue, serves multiple functions including energy storage, protection, and hormone production. Different types of fat have distinct roles, such as white fat storing energy and brown fat producing heat."
- },
- "https://www.sciencedaily.com/releases/2026/11/261118065524.htm": {
-  "s": "New research shows the brain processes both free and forced decisions using similar neural activity, building toward a decision before action. Previously, it was assumed free decisions used different brain processes, but this study reveals they actually follow a similar gradual evidence accumulation method."
  },
  "https://www.sciencenews.org/article/public-health-2026-outbreaks-measles": {
   "s": "Measles outbreaks and other diseases highlighted a weakened U.S. public health response, showing cracks in a system that had previously functioned reasonably well despite chronic underfunding. Recent federal funding cuts and agency reorganizations under the Trump administration have exacerbated these issues, leading to reduced staff and program reductions."
@@ -154,9 +144,6 @@
  },
  "https://www.therobotreport.com/from-commercial-scale-to-embodied-intelligence-the-next-challenge-for-robotics/": {
   "s": "Robots are becoming more capable of perceiving and understanding their environments. This advancement is not enough for commercial use, as robots need to adapt to various settings and work alongside humans. The challenge is to ensure robots can perform consistently and at large scales, which requires addressing real-world complexities not easily replicated in controlled settings."
- },
- "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/": {
-  "s": "Rockwell Automation has agreed to acquire AGILOX, a mobile robot developer. This acquisition will expand Rockwell's mobile robotics portfolio, doubling its AMR business. The deal also marks an exit for Carlyle, which invested in AGILOX."
  },
  "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/": {
   "s": "Humyn Labs, founded in February, has raised $47 million in Series A funding to provide U.S. robotics companies with real-world data to train their models. As demand grows for such data, startups like Mecka AI and XDOF are already addressing the challenge, but Humyn Labs aims to compete by developing its own hardware and software to collect and label footage of everyday human tasks."
@@ -262,9 +249,6 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/introducing-gemini-4-neon/": {
-  "s": "Gemini 4 Neon was introduced by Google, offering advanced intelligence for coding and analysis at a reduced cost. Neon's superior performance and adaptability make it a valuable tool for complex workflows in software engineering, knowledge work, and science."
- },
  "https://huggingface.co/blog/harness-adapters-at-scale": {
   "s": "The organization introduced harness adapters to allow users to customize their models to their specific harnesses, aiming to enhance performance and reduce costs. This innovation supports the group's broader mission to advance artificial intelligence through open-source and open-science approaches."
  },
@@ -272,14 +256,8 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
-  "s": "Gemini 4 Hydrogen was introduced by Google as a new model designed for fast and cost-efficient workflows in coding and agentic tasks. This matters because it offers significant improvements in speed and intelligence compared to previous models, making it suitable for both everyday coding and complex project development."
- },
  "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro/": {
   "s": "Robotics expert Sebastian Castro discussed creating open-source software for robots. This matters as it promotes collaboration and innovation in robotics technology, making it accessible to a broader community."
- },
- "https://bostondynamics.com/blog/atlas-on-a-roll/": {
-  "s": "When wheels were added to Boston Dynamics Atlas robot, researchers tested how a learned controller works with real actuation hardware. This allowed them to push the actuation to its limits and see how the robot would behave in extreme scenarios, like sliding and drifting."
  },
  "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html": {
   "s": "",
@@ -293,10 +271,6 @@
  },
  "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane": {
   "s": "This year’s El Niño saw ocean waters reach unprecedented high temperatures, significantly impacting hurricane seasons and global precipitation patterns. The heat released by this El Niño is expected to last well into 2027, affecting weather worldwide and potentially making 2027 the hottest year on record."
- },
- "https://www.sciencealert.com/scientists-discover-a-hidden-heart-signal-that-can-predict-sudden-cardiac-death": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/": {
   "s": "NASA awarded seed funding to 302 small businesses across the country, totaling up to $171 million. This funding aims to address crucial technology needs for exploring the Moon and Mars, thereby boosting the U.S. space economy. Selected projects range from next-generation battery solutions to robotic systems for extreme lunar environments, and tools for lunar infrastructure construction."
@@ -347,27 +321,9 @@
  "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth": {
   "s": "Astronomers discovered a triple star system close to Earth, which contradicts current stellar evolution theories. This unexpected find could offer new insights into how stars form and evolve."
  },
- "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/": {
-  "s": "NASA’s Curiosity Mars rover has collected 49 samples from rocks on Mars, each drilled by the rover’s robotic arm and analyzed for composition. This matter matters because these samples provide crucial data about the Martian geology and potential habitability, helping scientists understand Mars’ history and search for signs of ancient life."
- },
- "https://phys.org/news/2026-11-global-analysis-reveals-lakes-amplify.html": {
-  "s": "The study found that glacial lakes can significantly speed up the melting of glaciers. Researchers discovered that glaciers that touch lakes lost ice at a faster rate than those on land or those ending in the sea. This accelerates the loss of ice, highlighting the importance of lake interactions in glacial retreat."
- },
- "https://phys.org/news/2026-11-microbes-arms-viruses-planetary-scale.html": {
-  "s": "Mapping the microbes' interactions with viruses at planetary scale is now possible thanks to a new bioinformatics toolkit and database. This allows researchers to trace the history of viral infections in microbiomes, connecting viruses to their hosts and understanding which viruses can infect different types of microbes. This knowledge is crucial for future biotechnological applications that aim to manipulate microbiomes."
- },
- "https://phys.org/news/2026-11-bumblebees-held-beliefs-brain-size.html": {
-  "s": "Bumblebees challenge conventional wisdom that larger brains mean greater intelligence. Researchers from U.K. and Sweden found that even with tiny brains containing fewer than a million neurons, bumblebees can perform complex behaviors. This suggests brain size isn't always a reliable indicator of intelligence."
- },
- "https://phys.org/news/2026-11-energy-choices-environmental-impacts-greenhouse.html": {
-  "s": "The burning of fossil fuels is the main cause of climate change, but clean energy strategies aimed at reducing greenhouse gases do not necessarily solve other environmental issues. Some clean energy methods can strain natural resources like land, water, and minerals. A new study shows that while pathways leading to similar levels of global warming can vary significantly in their impact on resources. This highlights the need to consider broader environmental impacts when planning energy transitions."
- },
  "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026": {
   "s": "",
   "why": "too little source text"
- },
- "https://phys.org/news/2026-11-spiders-beetles-garage-alligator-largest.html": {
-  "s": "Researchers have compiled a database of more than 20,000 entries of indoor organisms across the United States and Canada, detailing over 2,000 species. This study aims to understand the ecosystems in man-made indoor environments, which are less explored compared to natural ecosystems."
  },
  "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120": {
   "s": "Jim Glass aims to connect perception and language in AI models, addressing current models' inability to fully understand multimodal information. This is important because humans naturally integrate various sensory inputs to comprehend the world, a skill AI models often lack, even when they seem to understand."
@@ -389,5 +345,48 @@
  },
  "https://newatlas.com/robotics/neodradynamics-neo1-giant-hydraulic-humanoid-robot/": {
   "s": "The Chinese company NeodraDynamics created Neo1, a 13-foot tall humanoid robot designed for heavy work like assembly, mining, rescue, and nuclear maintenance. This robot is intended for tasks humans avoid due to danger, showcasing how technology can handle risky jobs."
+ },
+ "https://www.sciencealert.com/physicist-finds-a-strange-new-solution-to-einsteins-equations-in-five-dimensional-spacetime-black-saturn": {
+  "s": "A physicist has found a new solution to Einstein's equations in a five-dimensional spacetime, allowing for a Black Saturn configuration. This discovery opens up new possibilities for exploring the behavior of gravity in higher-dimensional spacetime, revealing geometries not possible in four dimensions."
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261120075554.htm": {
+  "s": "NASA's Voyager 1 has reached a distance so vast that a signal from the spacecraft takes a full day to reach Earth. This extraordinary feat marks the first time any spacecraft has traveled farther than a light-day from Earth, highlighting the vastness of space."
+ },
+ "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html": {
+  "s": "The researchers discovered two new species of marine tardigrades in sediment from the Senghor Seamount off Cape Verde. This discovery highlights the seamount's role as a biodiversity hotspot for these tiny organisms."
+ },
+ "https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/": {
+  "s": "Curiosity, a NASA rover, spotted drifting twilight clouds in Gale Crater on Mars. These clouds are visible only briefly each fall, and are captured by the rover's cameras after sunset."
+ },
+ "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.sciencedaily.com/releases/2026/11/261120075547.htm": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-11-chemicals-dont.html": {
+  "s": "Inside Baltimore's water treatment plant, students observed bleach vats used to purify water. But PFAS, a chemical resistant to bleach, remained in the water. This highlights PFAS's persistence, linking it to health risks. Researchers aim to develop methods to eliminate PFAS from water, aiming to reduce health risks."
+ },
+ "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html": {
+  "s": "Caribbean corals are in crisis, with fossil reefs found just meters from living corals showing signs of past warming periods. These fossils could help predict which coral species might survive future warming, aiding in reef rehabilitation efforts."
+ },
+ "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html": {
+  "s": "At a site in Texas, archaeologists have found evidence that ancient Native American communities hunted bison by driving herds over cliffs, a technique previously thought to be limited to the northern Great Plains. This discovery offers new insights into the hunting traditions and cooperation of ancient communities."
+ },
+ "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
+  "s": "Grok Build apps leaked confidential information through public links, exposing data from 24 SpaceXSI projects. This happened because developers designed the platform to share links publicly, making it easy for anyone to access the apps and their data."
+ },
+ "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/": {
+  "s": "Medtronic's Hugo surgical robot is being cleared for use in general surgery procedures, including those involving the abdomen and lower abdomen. This approval broadens the robot's capabilities, enabling it to perform a wider range of surgeries, which is expected to increase its usage and market share."
  }
 }
