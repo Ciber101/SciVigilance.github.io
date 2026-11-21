@@ -2,6 +2,123 @@
   "data": [
     {
       "author_id": "1974272513917267972",
+      "conversation_id": "2123826572385833119",
+      "created_at": "2026-11-20T23:50:02.000Z",
+      "edit_history_tweet_ids": [
+        "2123926876582498810"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 15,
+            "id": "4783690002",
+            "start": 0,
+            "username": "GoogleDeepMind"
+          },
+          {
+            "end": 28,
+            "id": "1965856473084473347",
+            "start": 16,
+            "username": "antigravity"
+          }
+        ]
+      },
+      "id": "2123926876582498810",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 8,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 0
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123826572385833119",
+          "type": "replied_to"
+        }
+      ],
+      "text": "@GoogleDeepMind @antigravity now need dlss5 to do the rest for detail",
+      "url": "https://x.com/SciVigil/status/2123926876582498810"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2123926530787357028",
+      "created_at": "2026-11-20T23:48:40.000Z",
+      "edit_history_tweet_ids": [
+        "2123926530787357028"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 16,
+            "id": "1234183597583740929",
+            "start": 3,
+            "username": "SERobinsonJr"
+          }
+        ]
+      },
+      "id": "2123926530787357028",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 0,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 6
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123883736475324802",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @SERobinsonJr: Going to be pretty wild once SpaceX's terrestrial Starlink Mobile is integrated into Tesla's Optimus...",
+      "url": "https://x.com/SciVigil/status/2123926530787357028"
+    },
+    {
+      "author_id": "1974272513917267972",
+      "conversation_id": "2123893589558374712",
+      "created_at": "2026-11-20T21:37:46.000Z",
+      "edit_history_tweet_ids": [
+        "2123893589558374712"
+      ],
+      "entities": {
+        "mentions": [
+          {
+            "end": 19,
+            "id": "123981565",
+            "start": 3,
+            "username": "outerspacetoday"
+          }
+        ]
+      },
+      "id": "2123893589558374712",
+      "lang": "en",
+      "possibly_sensitive": false,
+      "public_metrics": {
+        "bookmark_count": 0,
+        "impression_count": 1,
+        "like_count": 0,
+        "quote_count": 0,
+        "reply_count": 0,
+        "retweet_count": 22
+      },
+      "referenced_tweets": [
+        {
+          "id": "2123773355073421730",
+          "type": "retweeted"
+        }
+      ],
+      "text": "RT @outerspacetoday: BREAKING: After eight years and roughly 6 billion miles in space, a European-Japanese spacecraft has reached Mercury a…",
+      "url": "https://x.com/SciVigil/status/2123893589558374712"
+    },
+    {
+      "author_id": "1974272513917267972",
       "conversation_id": "2123567146382835896",
       "created_at": "2026-11-20T00:21:56.000Z",
       "edit_history_tweet_ids": [
@@ -19,10 +136,11 @@
       },
       "id": "2123572517252264080",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 714,
-        "like_count": 15,
+        "impression_count": 768,
+        "like_count": 16,
         "quote_count": 0,
         "reply_count": 0,
         "retweet_count": 0
@@ -61,6 +179,7 @@
       },
       "id": "2123572083607355725",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 34,
@@ -97,13 +216,14 @@
       },
       "id": "2123511998503891021",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 329
+        "retweet_count": 340
       },
       "referenced_tweets": [
         {
@@ -151,13 +271,14 @@
       },
       "id": "2123508597263151117",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 402
+        "retweet_count": 410
       },
       "referenced_tweets": [
         {
@@ -199,6 +320,7 @@
       },
       "id": "2122818726978638154",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 9,
@@ -235,13 +357,14 @@
       },
       "id": "2122816044062625928",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 2596
+        "retweet_count": 2606
       },
       "referenced_tweets": [
         {
@@ -286,6 +409,7 @@
       "note_tweet": {
         "text": "About 15 days ago they halved the usage across all plans suddenly and without warning sneakily because it wasn't very profitable which basically killed grok bot for me and I'm assuming a lot of others. The only way people heard about this was 1 elon post saying it wasn't profitable. So basically they screwed over their customers without telling them and making the customers pay for their mistake."
       },
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 32,
@@ -337,6 +461,7 @@
       "note_tweet": {
         "text": "About 15 days ago they halved the usage across all plans suddenly and without warning sneakily because it wasn't very profitable which basically killed grok bot for me and I'm assuming a lot of others. The only way people heard about this was 1 elon post saying it wasn't profitable. So basically they screwed over their customers without telling them and making the customers pay for their mistake."
       },
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 47,
@@ -388,6 +513,7 @@
       "note_tweet": {
         "text": "About 15 days ago they halved the usage across all plans suddenly and without warning sneakily because it wasn't very profitable which basically killed grok bot for me and I'm assuming a lot of others. The only way people heard about this was 1 elon post saying it wasn't profitable. So basically they screwed over their customers without telling them and making the customers pay for their mistake."
       },
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 29,
@@ -430,6 +556,7 @@
       },
       "id": "2122785961461662083",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 3,
@@ -484,13 +611,14 @@
       },
       "id": "2122369909372104824",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 6033
+        "retweet_count": 6044
       },
       "referenced_tweets": [
         {
@@ -523,6 +651,7 @@
       "note_tweet": {
         "text": "It'd be nice if this wasn't forced and autonomous driving came by default with the purchase of the car. A lot of people would still be enticed to take on this subscription considering how much good stuff is there. Hardware already built into the car capable of fsd shouldnt have a subscription attached to it. That's like saying you have to pay a subscription fee monthly to use the ram in your phone."
       },
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 34,
@@ -574,6 +703,7 @@
       "note_tweet": {
         "text": "I think the difference is the car already has the hardware built in to autonomously drive the car so its just scummy and greedy to charge a subscription fee when tesla doesn't have to run the car themselves. They are charging a subscription fee just to charge a subscription fee and that's it. Now if you wanted wifi in the car or grok in the car or whatever addon like that THEN a subscription fee makes sense but if the car can drive itself without tesla involved at all then yeah, no need for sub."
       },
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 31,
@@ -628,13 +758,14 @@
       },
       "id": "2121721916558037416",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 0,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
-        "retweet_count": 27369
+        "retweet_count": 27370
       },
       "referenced_tweets": [
         {
@@ -664,9 +795,10 @@
       },
       "id": "2121380586543857987",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
-        "impression_count": 54,
+        "impression_count": 55,
         "like_count": 0,
         "quote_count": 0,
         "reply_count": 0,
@@ -700,6 +832,7 @@
       },
       "id": "2120606924962164887",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 26,
@@ -754,6 +887,7 @@
       },
       "id": "2120606842196005076",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 0,
@@ -790,6 +924,7 @@
       },
       "id": "2120592769114837061",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 1624,
@@ -855,6 +990,7 @@
       },
       "id": "2120290814383579585",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 22,
@@ -914,6 +1050,7 @@
       },
       "id": "2120245348765720916",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 17,
@@ -973,6 +1110,7 @@
       },
       "id": "2120200087091683672",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 13,
@@ -1032,6 +1170,7 @@
       },
       "id": "2120154757121876380",
       "lang": "en",
+      "possibly_sensitive": false,
       "public_metrics": {
         "bookmark_count": 0,
         "impression_count": 10,
@@ -1449,62 +1588,143 @@
       },
       "text": "Unveiling the De Gerlache-Kocher Massif: dramatic geological formation revealing planetary evolution secrets. #APOD #PlanetaryGeology\n\nhttps://t.co/dAP4wl1gZq\n\n#SpaceGeology #Astronomy",
       "url": "https://x.com/i/status/2119022506329931833"
-    },
-    {
-      "created_at": "2026-11-07T08:01:36.000Z",
-      "edit_history_tweet_ids": [
-        "2118977152523882885"
-      ],
-      "id": "2118977152523882885",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 23,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Ultra-diffuse galaxies are huge but star-poor—could the ELT’s new tool unlock their dark matter secrets?\n\nhttps://t.co/HZqYOjgLLw\n\n#DarkMatter #ELTTelescope",
-      "url": "https://x.com/i/status/2118977152523882885"
-    },
-    {
-      "created_at": "2026-11-07T05:01:39.000Z",
-      "edit_history_tweet_ids": [
-        "2118931865147179238"
-      ],
-      "id": "2118931865147179238",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 13,
-        "like_count": 0,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "NASA's Supercomputing 2026 event features cutting-edge tech demos! Explore Fortran 2028 innovations and more at Booth #4038!\n\nhttps://t.co/dgdTwx8H9e\n\n#Supercomputing2026 #NASAtech",
-      "url": "https://x.com/i/status/2118931865147179238"
-    },
-    {
-      "created_at": "2026-11-07T02:01:28.000Z",
-      "edit_history_tweet_ids": [
-        "2118886520849568248"
-      ],
-      "id": "2118886520849568248",
-      "public_metrics": {
-        "bookmark_count": 0,
-        "impression_count": 38,
-        "like_count": 1,
-        "quote_count": 0,
-        "reply_count": 0,
-        "retweet_count": 0
-      },
-      "text": "Revolutionary AI model, CheMeleon, predicts molecule behavior from minimal data, speeding up drug discovery.\n\nhttps://t.co/VlLzJ42OGQ\n\n#MachineLearning #DrugDiscovery",
-      "url": "https://x.com/i/status/2118886520849568248"
     }
   ],
   "meta": {
     "result_count": 50,
-    "newest_id": "2123572517252264080",
-    "oldest_id": "2118886520849568248"
+    "newest_id": "2123926876582498810",
+    "oldest_id": "2119022506329931833"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105533,
+        "height": 1920,
+        "media_key": "13_2123492811450523648",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2123492811450523648/img/DAJaXP_WjUz2Z-xM.jpg",
+        "public_metrics": {
+          "view_count": 25910
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2123492811450523648/pl/poA1ZaMGO6F0chgO.m3u8?v=460"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123492811450523648/vid/avc1/480x852/45nmNdLzJBFhhbBb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123492811450523648/vid/avc1/720x1280/0-vy-HhimT6mOyQG.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123492811450523648/vid/avc1/320x568/wMzi-QOqelYv-Bo9.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2123492811450523648/vid/avc1/1080x1920/22nUnR3z7nEuY-6X.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 54664,
+        "height": 2160,
+        "media_key": "13_2122367103676133376",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2122367103676133376/img/yzTQaoPWnW71rwM2.jpg",
+        "public_metrics": {
+          "view_count": 1745451
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/vid/avc1/1280x720/7Nb4fogqR3TYu66i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/pl/ThL0OmoaciUWISOZ.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/vid/avc1/640x360/M26kWpu7fwbxTM8o.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/vid/avc1/480x270/ep87FR60lQieVFL2.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/vid/avc1/3840x2160/9dUEKqNpvS499WXB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2122367103676133376/vid/avc1/1920x1080/tSDo23VEv8YClsu6.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "duration_ms": 92720,
+        "height": 2160,
+        "media_key": "13_2121715092903596032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2121715092903596032/img/RamESGt4tVwjBYVb.jpg",
+        "public_metrics": {
+          "view_count": 7698735
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/480x270/U-xvXXu3J0XFlw_a.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/3840x2160/epNZoVwS39gePomx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1280x720/7dvRx7teG1IMbfkl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/640x360/q-KjXppE9unIivtp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/pl/LxvDw-eAvZGPMyqM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2121715092903596032/vid/avc1/1920x1080/C2JFTEW74_Pa-Lsr.mp4"
+          }
+        ],
+        "width": 3840
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2120018644239572992",
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HWvRuX8a4AAAttk.jpg",
+        "width": 2048
+      }
+    ]
   }
 }
