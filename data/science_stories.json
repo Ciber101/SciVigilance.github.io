@@ -1,127 +1,123 @@
 {
- "updated": "2026-11-20T13:58:00-08:00",
- "updated_pt": "Nov 20, 2026, 1:58 PM PT",
- "stories": [
-  {
-   "title": "NASA pauses science on the Perseverance rover and Mars Odyssey orbiter while teams work separate hardware problems",
-   "tag": "Space",
-   "date": "2026-11-19",
-   "paragraphs": [
-    "NASA said on Nov. 19 that teams for its Perseverance Mars rover and its 2001 Mars Odyssey orbiter are investigating separate technical issues, and that science work on both missions is temporarily paused. According to NASA, the rover is stable and communicating with the team, and both missions are hoped to return to science by the end of November.",
-    "On Oct. 30, NASA says, Perseverance's primary downlink radio failed to send its usual \"heartbeat\" pings to the rover's main computer, which triggered onboard fault protection: the rover switched to its backup UHF radio and entered safe mode. \"In this case, there were 25 missed heartbeats, or about 100 seconds of silence,\" NASA wrote, quoting project manager Steven Lee of NASA's Jet Propulsion Laboratory. After recovery, engineers found the backup radio was transmitting at about half its expected power, and the team stopped using both radios. The rover is now talking directly to NASA's Deep Space Network over its high-gain antenna at a much lower data rate, so instrument work and new raw images are on hold; Space.com notes the mission website had posted no new raw images since Nov. 7.",
-    "Odyssey was in safe mode from Nov. 4 to 6, and engineers then determined that one of its reaction wheels, which help orient the spacecraft, had stopped spinning, according to NASA. The orbiter has four wheels, one of which failed in 2013, and needs at least three. NASA says that without them Odyssey would have to rely on its hydrazine thrusters, and the team estimates it has only enough fuel to do that for one to two months. In one test the faulty wheel moved when commanded, and further tests are under way to see whether it can be recovered.",
-    "NASA notes that Odyssey, which entered Mars orbit in October 2001 on a mission planned for just over 2.5 years, has operated around Mars longer than any other mission and made the first global maps of the composition of the Martian surface. Space.com adds that Perseverance had just set a new off-Earth driving record on Oct. 11, passing the 28.06-mile (45.16-kilometer) mark held by NASA's Opportunity rover."
-   ],
-   "sources": [
+  "updated": "2026-11-21T02:40:00-08:00",
+  "updated_pt": "Nov 21, 2026, 2:40 AM PT",
+  "stories": [
     {
-     "name": "NASA Science",
-     "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
-     "date": "2026-11-19"
+      "title": "Voyager 1 reaches one light-day from Earth while a computer problem pauses its science data",
+      "tag": "Space",
+      "date": "2026-11-19",
+      "paragraphs": [
+        "NASA says Voyager 1 reached one light-day from Earth, about 16.1 billion miles (25.9 billion kilometers), at 2:16 a.m. PST on Nov. 18, 2026, after more than 49 years of travel. NASA says the team at its Jet Propulsion Laboratory heard from the probe 24 hours later, early Thursday, Nov. 19, the time its radio transmission needed to reach Earth at the speed of light. No human-made object had reached that distance before, Live Science notes.",
+        "The milestone came during a fault. According to NASA, the team has not received science or engineering data from Voyager 1 since Nov. 14. The spacecraft is still sending its carrier wave, the radio tone that normally carries that data, and engineers used it together with trajectory calculations to confirm the light-day mark. NASA says they continue to analyze the problem.",
+        "Live Science reports that, according to NASA, the problem likely stems from the onboard computer that collects data from the science instruments and packages it for Earth. A similar problem in November 2023 stopped Voyager 1's science data until engineers fixed it in June 2024, and the team is approaching the new fault the same way. \"We have an anomaly that is not unseen before,\" project manager Suzanne Dodd said at a NASA news conference on Nov. 19, adding that she is confident the data will flow again. She also said it takes two days to diagnose anything on the spacecraft.",
+        "ScienceDaily, publishing NASA material, says both Voyagers lose about four watts of power each year, and that earlier in 2026 engineers switched off three devices on Voyager 1 and replaced them with lower-power alternatives. Those steps are expected to keep the current instruments running until at least summer 2027, the 50th anniversary of the launches. Live Science says Voyager 1 has two science instruments still working, a magnetometer and a plasma wave detector, and that Voyager 2 is expected to reach its own light-day in 2035."
+      ],
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "Live Science",
+          "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075554.htm",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
+        "credit": "NASA/JPL-Caltech",
+        "alt": "Artist's concept of NASA's Voyager 1 spacecraft in interstellar space"
+      }
     },
     {
-     "name": "Space.com",
-     "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-     "date": "2026-11-20"
+      "title": "Astronomers watch two stars merge in the Andromeda galaxy from start to finish for the first time",
+      "tag": "Space",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "Astronomers have for the first time followed two stars, a supergiant and a star slightly smaller than the Sun, through a complete merger, Live Science reports. The event, catalogued as AT 2025abao and nicknamed \"Bao,\" happened in the Andromeda galaxy, the closest major galaxy to ours. The study, led by Columbia University astrophysicist Viraj Karambelkar, was published Nov. 18 in the journal Nature.",
+        "According to Universe Today, the system brightened slowly in visible light from 2018 to early 2025, then faded in visible light while growing brighter in infrared. In October 2025 it erupted, brightening 100 times over 25 days. The James Webb Space Telescope observed it 47 days after the eruption peaked, which Karambelkar called the earliest follow-up ever of an event like this. Live Science says the changes were first picked up by NASA's now-retired NEOWISE spacecraft, with follow-up from an infrared instrument at Palomar Observatory.",
+        "The researchers describe a process called common envelope evolution, in which two stars end up orbiting inside a shared cloud of gas that drags them together. Simulations matched to the Webb data indicate the larger star was about seven times the Sun's mass, 350 times its radius and 18,000 times brighter, while the companion had about 0.7 solar masses, Universe Today reports. The pair merged after about seven orbits, roughly seven years.",
+        "Live Science reports that instead of exploding as a supernova or collapsing into a neutron star or black hole, the merged system appears to have settled into a single massive star. Universe Today notes that only a few dozen similar eruptions, called luminous red novae, have been detected so far, and that the Vera C. Rubin Observatory's survey is expected to find hundreds, possibly thousands."
+      ],
+      "sources": [
+        {
+          "name": "Live Science",
+          "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Universe Today",
+          "url": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://www.universetoday.com/article_images/2000x1346_20261119_194213.jpg",
+        "credit": "NASA, ESA, CSA, STScI, Viraj Karambelkar (Columbia), Kishalay De (Columbia); image processing: Alyssa Pagan (STScI), via Universe Today",
+        "alt": "Telescope views of the stellar merger AT 2025abao in the Andromeda galaxy, before, during and after its eruption"
+      }
+    },
+    {
+      "title": "This year's El Niño has broken ocean temperature records, and California is preparing for its peak",
+      "tag": "Earth",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "Science News reports that by Oct. 18, the ocean area researchers use to measure El Niño's strength averaged more than 30 degrees Celsius (86 degrees Fahrenheit) for the first time on record, and kept rising. In September, the region's daily average sea surface temperature reached more than 3.03 degrees Celsius above the 30-year average, the most extreme level ever recorded. The World Meteorological Organization predicts temperatures there may peak at 3.7 degrees above average by January, according to Science News. The two previous strongest El Niños on record began in 1997 and 2015.",
+        "According to Science News, the warm water fueled the most active Pacific hurricane season on record, with 331 units of accumulated cyclone energy by mid-October, beating the 2018 record of 318, while the Atlantic season was extraordinarily quiet. The magazine says rain and drought effects are expected around the world through spring 2027, and that the event's heat could combine with human-caused warming to make 2027 the hottest year on record.",
+        "In a second article, Science News reports that California officials are going door to door to warn residents, and the state has stockpiled sandbags, pumps and generators and cleared storm drains. Giant waves have already hit the coast, and the peak is expected by late November or early December, lasting through February or March. A preprint posted Sept. 30 on EarthArXiv suggests the risk of extreme sea levels could be 10 times higher than in earlier El Niño years along coastlines from Alaska to Chile.",
+        "For comparison, Science News says the 1997-98 El Niño, the strongest before this one, was linked to more than 22,000 deaths worldwide, including nearly 200 in the United States, and an estimated $5.7 trillion in global economic losses."
+      ],
+      "sources": [
+        {
+          "name": "Science News",
+          "url": "https://www.sciencenews.org/article/super-el-nino-historic-effect-hurricane",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Science News",
+          "url": "https://www.sciencenews.org/article/el-nino-climate-change-california",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/1226_scivis-elnino_main.jpg",
+        "credit": "ERA5, Climate Pulse/C3S/ECMWF, via Science News",
+        "alt": "Map of Pacific Ocean surface temperatures on Nov. 14, 2026, showing El Niño's band of warm water off South America"
+      }
+    },
+    {
+      "title": "NASA pauses science on the Perseverance rover and Mars Odyssey orbiter while teams work separate hardware problems",
+      "tag": "Space",
+      "date": "2026-11-19",
+      "paragraphs": [
+        "NASA said on Nov. 19 that teams for its Perseverance Mars rover and its 2001 Mars Odyssey orbiter are investigating separate technical issues, and that science work on both missions is temporarily paused. According to NASA, the rover is stable and communicating with the team, and both missions are hoped to return to science by the end of November.",
+        "On Oct. 30, NASA says, Perseverance's primary downlink radio failed to send its usual \"heartbeat\" pings to the rover's main computer, which triggered onboard fault protection: the rover switched to its backup UHF radio and entered safe mode. \"In this case, there were 25 missed heartbeats, or about 100 seconds of silence,\" NASA wrote, quoting project manager Steven Lee of NASA's Jet Propulsion Laboratory. After recovery, engineers found the backup radio was transmitting at about half its expected power, and the team stopped using both radios. The rover is now talking directly to NASA's Deep Space Network over its high-gain antenna at a much lower data rate, so instrument work and new raw images are on hold; Space.com notes the mission website had posted no new raw images since Nov. 7.",
+        "Odyssey was in safe mode from Nov. 4 to 6, and engineers then determined that one of its reaction wheels, which help orient the spacecraft, had stopped spinning, according to NASA. The orbiter has four wheels, one of which failed in 2013, and needs at least three. NASA says that without them Odyssey would have to rely on its hydrazine thrusters, and the team estimates it has only enough fuel to do that for one to two months. In one test the faulty wheel moved when commanded, and further tests are under way to see whether it can be recovered.",
+        "NASA notes that Odyssey, which entered Mars orbit in October 2001 on a mission planned for just over 2.5 years, has operated around Mars longer than any other mission and made the first global maps of the composition of the Martian surface. Space.com adds that Perseverance had just set a new off-Earth driving record on Oct. 11, passing the 28.06-mile (45.16-kilometer) mark held by NASA's Opportunity rover."
+      ],
+      "sources": [
+        {
+          "name": "NASA Science",
+          "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
+          "date": "2026-11-19"
+        },
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/03/pia04304-mars.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
+        "credit": "NASA/JPL-Caltech (Viking Orbiter 1 mosaic), via NASA Science",
+        "alt": "Mosaic of Mars made from images captured by NASA's Viking Orbiter 1"
+      }
     }
-   ],
-   "image": {
-    "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/03/pia04304-mars.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-    "credit": "NASA/JPL-Caltech (Viking Orbiter 1 mosaic), via NASA Science",
-    "alt": "Mosaic of Mars made from images captured by NASA's Viking Orbiter 1"
-   }
-  },
-  {
-   "title": "NASA's Voyager 1 becomes the first spacecraft to reach one light-day from Earth",
-   "tag": "Space",
-   "date": "2026-11-18",
-   "paragraphs": [
-    "NASA says its Voyager 1 probe reached one light-day from Earth at 2:16 a.m. PST on Nov. 18, 2026, after more than 49 years of travel. A light-day is the distance light covers in 24 hours, which NASA puts at about 16.1 billion miles (25.9 billion kilometers). According to the agency, Voyager team members at NASA's Jet Propulsion Laboratory heard from the probe 24 hours later, the time it took the spacecraft's radio transmission, traveling at the speed of light, to reach Earth. The Conversation notes that no human-built object of any kind had reached that distance before.",
-    "NASA says the team has not received science and engineering data from Voyager 1 since Nov. 14. The spacecraft is still transmitting a basic radio carrier wave that normally conveys that data, and NASA says mission engineers used it, plus trajectory calculations, to confirm the milestone while they continue to analyze the data issue. Space.com, quoting a JPL representative, also points to a roughly 48-hour period last month in which Voyager 1 stopped responding to commands before it recovered.",
-    "NASA says both probes lose about 4 watts of power each year as their plutonium supply decays, and that an energy-saving effort this year is expected to keep their current science instruments running until at least their 50th launch anniversaries. \"We listen to Voyager 1 every day and send commands to the spacecraft weekly. It just takes a little longer to communicate than it used to,\" Voyager project manager Suzanne Dodd said in NASA's release."
-   ],
-   "sources": [
-    {
-     "name": "NASA",
-     "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
-     "date": "2026-11-19"
-    },
-    {
-     "name": "The Conversation",
-     "url": "https://theconversation.com/nasas-voyager-1-has-reached-1-light-day-from-earth-the-first-human-made-object-in-space-to-reach-that-distance-296026",
-     "date": "2026-11-18"
-    },
-    {
-     "name": "Space.com",
-     "url": "https://www.space.com/space-exploration/voyager/whats-next-for-nasa-interstellar-voyager-1-probe-after-passing-1-light-day-from-earth",
-     "date": "2026-11-19"
-    }
-   ],
-   "image": {
-    "url": "https://www.nasa.gov/wp-content/uploads/2026/11/voyager-1-light-day-horizontal.png",
-    "credit": "NASA/JPL-Caltech",
-    "alt": "Artist's concept of NASA's Voyager 1 spacecraft in interstellar space"
-   }
-  },
-  {
-   "title": "A brain region known for understanding speech also helps start every spoken word, study finds",
-   "tag": "Biology",
-   "date": "2026-11-19",
-   "paragraphs": [
-    "A study published Nov. 19, 2026, in the journal Science finds that a small part of Wernicke's area, a brain region long known for helping people understand speech, also plays a key role in producing it, Science News and Live Science report. The spot is the left posterior superior temporal gyrus, just above the left ear. \"Every word that you have said today began in that small part above your left ear about a quarter of a second before you said it,\" Edward Chang of the University of California, San Francisco, said in a news briefing quoted by Science News.",
-    "According to Live Science, the team recorded brain activity in 28 people with epilepsy who already had electrodes implanted, and found a small group of cells that fired about a quarter of a second before participants spoke. The researchers also mapped the brains of hundreds of people having temporal-lobe tumors removed and found that patients were much more likely to have trouble speaking if surgery damaged Wernicke's area. In 13 people, electrical stimulation of the spot just before speaking caused word errors resembling Wernicke's aphasia.",
-    "The researchers also decoded what two volunteers with paralysis were attempting to say by monitoring neurons in this area through implanted electrodes, Live Science reports. UCSF bioengineer Alexander Silva told Science News that the region could be an additional target for speech-restoring brain implants, which have mostly focused on the motor cortex.",
-    "Neurologist Jeffrey Binder of the Medical College of Wisconsin, quoted by Science News, called the study convincing evidence that the spot is critical for speech production. \"We already knew that damage to Wernicke's area can lead to speech production errors, but this publication answers why,\" New York University neuroscientist Adeen Flinker, who was not involved, told Live Science."
-   ],
-   "sources": [
-    {
-     "name": "Science News",
-     "url": "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie",
-     "date": "2026-11-19"
-    },
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/health/neuroscience/new-study-rewrites-the-role-of-a-major-speech-hub-in-the-brain",
-     "date": "2026-11-19"
-    }
-   ],
-   "image": {
-    "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/111926_LS_brain-speech_inline.jpg",
-    "credit": "Chang lab, via Science News",
-    "alt": "Brain diagram highlighting Wernicke's area and the left posterior superior temporal gyrus"
-   }
-  },
-  {
-   "title": "Rubin Observatory finds two ancient Trojan asteroids trailing Neptune, the first new ones in that swarm in 15 years",
-   "tag": "Space",
-   "date": "2026-11-19",
-   "paragraphs": [
-    "Astronomers using the NSF-DOE Vera C. Rubin Observatory have confirmed two new long-term stable Trojan asteroids in Neptune's trailing (L5) swarm and identified a third object as a candidate, Live Science reported on Nov. 19, 2026. The findings were published Oct. 15 in The Astrophysical Journal Letters by a team led by Meg Schwamb of Queen's University Belfast. Earth.com reports that the two confirmed objects, 2025 MH348 and 2025 NN80, double the list of trailing Trojans known to be on orbits stable for billions of years from two to four, and that a third object, 2025 MD138, remains a candidate.",
-    "Trojan asteroids share a planet's orbit around the sun, gathering about 60 degrees ahead of and behind the planet, where the pulls of the sun and the planet balance, Live Science explains. The researchers told Live Science that Neptune's trailing Trojans have been hard to find because they are extremely faint and, for nearly 15 years, sat in front of the crowded central region of the Milky Way. Since 2025 that part of the sky has slowly moved away from the galactic plane, and Rubin's early Science Validation Survey happened to cover it, finding the objects within three weeks of the survey's start.",
-    "Computer models of the orbits showed the two confirmed objects will keep trailing Neptune for a billion years, which Live Science reports suggests their paths may date back to the early solar system. The third object stayed stable in only some simulations, so it is listed as a candidate. The simulations also showed highly tilted orbits, like those of the previously known L5 Trojans, suggesting Neptune captured them rather than forming alongside them, according to Live Science.",
-    "According to Earth.com, 2025 MH348 and the candidate were first detected on June 21, 2025, one day after the test survey began, and 2025 NN80 on July 7; older Pan-STARRS1 detections later extended their observed orbits. Phys.org, citing a Queen's University Belfast release, reports that Rubin's images in different filters let the team show that Neptune's leading and trailing Trojans have similar surfaces, and that Rubin's survey is expected to find tens to hundreds of Neptune Trojans in both groups."
-   ],
-   "sources": [
-    {
-     "name": "Live Science",
-     "url": "https://www.livescience.com/space/asteroids/rubin-observatory-finds-ultra-rare-asteroids-from-the-solar-systems-youth-trailing-neptune-around-the-sun",
-     "date": "2026-11-19"
-    },
-    {
-     "name": "Earth.com",
-     "url": "https://www.earth.com/space/neptune-trailing-trojans-rubin-observatory/",
-     "date": "2026-11-09"
-    },
-    {
-     "name": "Phys.org (Universe Today)",
-     "url": "https://phys.org/news/2026-11-queen-university-belfast-students-neptune.html",
-     "date": "2026-11-02"
-    }
-   ],
-   "image": {
-    "url": "https://cdn.mos.cms.futurecdn.net/h5cgxwjHBkUCMoCDLyBXna-1270-80.jpg",
-    "credit": "FlyAzure/J.Murtagh/NASA/JAXA, via Live Science",
-    "alt": "Artist's rendition of Trojan asteroids trailing Neptune"
-   }
-  }
- ]
+  ]
 }

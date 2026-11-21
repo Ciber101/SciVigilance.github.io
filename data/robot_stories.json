@@ -1,114 +1,77 @@
 {
- "updated": "2026-11-20T20:05:00-08:00",
- "updated_pt": "Nov 20, 2026, 8:05 PM PT",
- "stories": [
-  {
-   "title": "Figure brings its F.03 humanoid robots to the Formula 1 Las Vegas Grand Prix with T-Mobile",
-   "tag": "Robots",
-   "date": "2026-11-20",
-   "paragraphs": [
-    "Figure said on X on Nov. 20, 2026, that it is partnering with T-Mobile to bring its F.03 humanoid robots to the Formula 1 Las Vegas Grand Prix \"this weekend.\" HumanoidMegaHub notes the race weekend runs Nov. 19 to 21, and reports that Figure has not said what the robots will do there, how many will attend, or whether they will interact directly with fans.",
-    "According to HumanoidMegaHub, the appearance builds on an existing relationship between the two companies. The outlet reports that T-Mobile announced in April 2026 that Figure's F.03 robots were being designed to connect to its 5G Advanced network, and that T-Mobile CTO John Saw wrote in October that the work \"began with connectivity: eSIM service for Figure AI's humanoid robots.\"",
-    "HumanoidMegaHub reports that T-Mobile and Figure are now evaluating whether parts of Figure's Helix S1 and S2 AI models could run on computing at the network edge instead of entirely on the robot. The outlet adds that neither company has confirmed the Las Vegas appearance will involve testing edge AI or other advanced network features, and that Figure has already deployed F.03 robots in industrial settings, including BMW manufacturing operations."
-   ],
-   "sources": [
+  "updated": "2026-11-21T02:40:00-08:00",
+  "updated_pt": "Nov 21, 2026, 2:40 AM PT",
+  "stories": [
     {
-     "name": "Figure on X",
-     "url": "https://x.com/Figure_robot/status/2123837601379721637",
-     "date": "2026-11-20"
+      "title": "Figure brings its F.03 humanoid robots to the Formula 1 Las Vegas Grand Prix with T-Mobile",
+      "tag": "Robots",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "Figure said on X on Nov. 20, 2026, that it is partnering with T-Mobile to bring its F.03 humanoid robots to the Formula 1 Las Vegas Grand Prix \"this weekend.\" HumanoidMegaHub notes the race weekend runs Nov. 19 to 21, and reports that Figure has not said what the robots will do there, how many will attend, or whether they will interact directly with fans.",
+        "According to HumanoidMegaHub, the appearance builds on an existing relationship between the two companies. The outlet reports that T-Mobile announced in April 2026 that Figure's F.03 robots were being designed to connect to its 5G Advanced network, and that T-Mobile CTO John Saw wrote in October that the work \"began with connectivity: eSIM service for Figure AI's humanoid robots.\"",
+        "HumanoidMegaHub reports that T-Mobile and Figure are now evaluating whether parts of Figure's Helix S1 and S2 AI models could run on computing at the network edge instead of entirely on the robot. The outlet adds that neither company has confirmed the Las Vegas appearance will involve testing edge AI or other advanced network features, and that Figure has already deployed F.03 robots in industrial settings, including BMW manufacturing operations."
+      ],
+      "sources": [
+        {
+          "name": "Figure on X",
+          "url": "https://x.com/Figure_robot/status/2123837601379721637",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "HumanoidMegaHub",
+          "url": "https://www.humanoidmegahub.com/news/figure-humanoid-robots-formula-1",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://imagedelivery.net/RYrif9D5lPV8BgWmux8A9Q/82ccf2f1-2465-4540-1a7a-1d5527c7c200/public",
+        "credit": "Figure, via HumanoidMegaHub",
+        "alt": "A Figure 03 humanoid robot waving on the Las Vegas Grand Prix track at night"
+      }
     },
     {
-     "name": "HumanoidMegaHub",
-     "url": "https://www.humanoidmegahub.com/news/figure-humanoid-robots-formula-1",
-     "date": "2026-11-20"
-    }
-   ],
-   "image": {
-    "url": "https://imagedelivery.net/RYrif9D5lPV8BgWmux8A9Q/82ccf2f1-2465-4540-1a7a-1d5527c7c200/public",
-    "credit": "Figure, via HumanoidMegaHub",
-    "alt": "A Figure 03 humanoid robot waving on the Las Vegas Grand Prix track at night"
-   }
-  },
-  {
-   "title": "Agility Robotics names a new president and product chief after its Nasdaq listing",
-   "tag": "Robots",
-   "date": "2026-11-18",
-   "paragraphs": [
-    "Agility Robotics, maker of the Digit humanoid, announced three executive appointments on Nov. 18, 2026. Daniel Diez, previously Chief Business Officer, was promoted to President; Christopher \"Sully\" Sullivan, who joined in May as Vice President of Customer Success, became Chief Product Officer; and Ana Lang, previously Chief Legal & People Officer, was named Chief Administrative Officer.",
-    "The company says the appointments follow its Nov. 4 completion of a business combination with Churchill Capital Corp XI and its listing on Nasdaq under the symbol AGLT. Agility also points to the unveiling of Digit 5 in September, an expanded deployment agreement with GXO, a planned pilot with AGCO, and paid evaluation programs with three more manufacturing customers announced in October.",
-    "According to the release, Diez secured more than $300 million in committed multi-year orders for Digit 5, which the company describes as potential multi-year value subject to contractual milestones and product specifications. As Chief Product Officer, Sullivan will oversee Digit, Agility Arc and future products while continuing to lead customer success."
-   ],
-   "sources": [
-    {
-     "name": "Agility Robotics",
-     "url": "https://www.agilityrobotics.com/content/agility-robotics-evolves-executive-leadership-team-to-support-next-phase-of-growth-as-a-public-company",
-     "date": "2026-11-18"
+      "title": "FDA clears Medtronic's Hugo surgical robot for general surgery in the U.S.",
+      "tag": "Robots",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "Medtronic announced this week that the U.S. Food and Drug Administration has cleared its Hugo robotic-assisted surgery system for general surgery, The Robot Report reports. The clearance covers all upper abdominal general surgery procedures, including gallbladder removal, Roux-en-Y gastric bypass, ventral hernia repair and small bowel resection, plus inguinal hernia repair and appendix removal. Medtronic says these procedures add up to about 3.5 million surgeries a year in the U.S.",
+        "Hugo is a modular, cart-based system that lets surgeons use only the robotic arms a procedure needs. According to The Robot Report, it gained FDA approval for urology in December 2025 and received CE marking for general surgery in Europe in 2022. Medtronic says Hugo is on track to pass 50,000 procedures worldwide by the end of its fiscal year.",
+        "Rajit Kamal, Medtronic's general manager of robotic surgical technologies, told The Robot Report the company combined a U.S. clinical trial with data from outside the U.S. to win a broader set of general surgery uses. Medtronic is also running a U.S. study of Hugo for hysterectomies, and in September it invested $700 million in Cornerstone Robotics, the outlet reports."
+      ],
+      "sources": [
+        {
+          "name": "The Robot Report",
+          "url": "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/Medtronic-Hugo-RAS-System-FDA-clearance-featured.jpg",
+        "credit": "Medtronic, via The Robot Report",
+        "alt": "Medtronic's Hugo robotic-assisted surgery system"
+      }
     },
     {
-     "name": "Agility Robotics on X",
-     "url": "https://x.com/agilityrobotics/status/2123069661487190053",
-     "date": "2026-11-18"
+      "title": "MassRobotics is building a marine robot testing site on Boston Harbor",
+      "tag": "Robots",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "MassRobotics is developing a marine robotics facility at the Boston Fish Pier, where startups will be able to build, launch and test robots in Boston Harbor, The Robot Report reports. Construction is underway in partnership with the Massachusetts Port Authority. Programs are planned to start during 2027, and the facility is set to open in early 2028.",
+        "According to the report, the site will have a water tank, a float next to the pier for testing directly in the water, and lifting and launch equipment for moving vehicles in and out of the harbor. MassRobotics supports more than 100 resident startups.",
+        "\"Marine startups tell us that finding a place to test is one of their biggest hurdles,\" MassRobotics executive director Tom Ryden said. One of its marine startups, CRABI Robotics, makes an underwater robot that cleans ship hulls."
+      ],
+      "sources": [
+        {
+          "name": "The Robot Report",
+          "url": "https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/crabi-on-ship-featured.jpg",
+        "credit": "MassRobotics, via The Robot Report",
+        "alt": "CRABI Robotics hull-cleaning robot on a ship"
+      }
     }
-   ],
-   "image": {
-    "url": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6a8f9a886ef9726ad8dd29cb_Press-Release_260826.png",
-    "credit": "Agility Robotics",
-    "alt": "Agility Robotics logo"
-   }
-  },
-  {
-   "title": "Humyn Labs raises $47 million to collect real-world training data for robots",
-   "tag": "Robots",
-   "date": "2026-11-18",
-   "paragraphs": [
-    "Bengaluru-based Humyn Labs announced a $47 million Series A on Nov. 18, 2026, made up of $26 million in equity led by Accel and $21 million in venture debt led by Lighthouse Canton, The Robot Report and TechCrunch report. The company collects data on how people perform tasks to help AI labs, robotics companies and world-model developers train robots for the real world.",
-    "TechCrunch reports that Humyn Labs uses its own two-camera hardware to record people doing everyday tasks, then processes and labels the footage, collecting data in more than 20 countries in Latin America and Asia, with Brazil, India and South Korea as main hubs. Co-founder Ishank Gupta told The Robot Report the company gathers data across vision, sound, touch and motion and works across robot types, from arms to mobile robots.",
-    "The Robot Report says the company reported more than $50 million in annualized revenue within six months of operations. TechCrunch reports co-founder Manish Agarwal said it generated $10 million in revenue between April and October with another $20 million in signed contracts, and that it has 12 paying customers, with about 90% of revenue from the U.S. TechCrunch also notes that recording people inside their homes has raised privacy and consent questions across this kind of data collection."
-   ],
-   "sources": [
-    {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/humyn-labs-raises-47m-to-collect-real-world-data-for-robotics/",
-     "date": "2026-11-18"
-    },
-    {
-     "name": "TechCrunch",
-     "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-     "date": "2026-11-18"
-    }
-   ],
-   "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/humynlabs-featured-1024x665.png",
-    "credit": "Humyn Labs, via The Robot Report",
-    "alt": "Humyn Labs co-founders Ishank Gupta and Manish Agarwal"
-   }
-  },
-  {
-   "title": "Rockwell Automation agrees to buy Austrian mobile robot maker AGILOX",
-   "tag": "Robots",
-   "date": "2026-11-18",
-   "paragraphs": [
-    "Rockwell Automation announced on Nov. 18, 2026, that it has signed a definitive agreement to acquire AGILOX, an Austria-based maker of autonomous mobile robots (AMRs). Rockwell says AGILOX's forklift robots and its own OTTO flatbed robots will together form a complete autonomous material-movement offering, and that the deal will more than double Rockwell's AMR business. Financial terms were not disclosed, The Robot Report notes.",
-    "According to Rockwell, AGILOX has deployed more than 2,500 AMRs since it was founded in 2017, employs more than 250 people and has subsidiaries in Europe, the U.S. and China. Its robots are used in automotive, third-party logistics, food and beverage and pharmaceutical work. The Robot Report explains that AGILOX robots have built-in lifting mechanisms for pallets and omnidirectional drives that let them move sideways and diagonally in tight spaces, while OTTO focuses on flatbed robots that can carry attachments such as conveyors and lift tables.",
-    "Rockwell says the deal is expected to close in the second quarter of its fiscal year 2027, subject to regulatory approval, and that AGILOX will join its Intelligent Devices segment. The Robot Report adds that the sale is an exit for investment firm Carlyle, which made a majority investment in AGILOX in 2021, and that Rockwell bought Clearpath Robotics, including OTTO Motors, three years ago in a deal it valued at $609 million at the time."
-   ],
-   "sources": [
-    {
-     "name": "Rockwell Automation press release (via AGILOX)",
-     "url": "https://www.agilox.net/media/press-release_agilox-rockwell-automation_18112026.pdf",
-     "date": "2026-11-18"
-    },
-    {
-     "name": "The Robot Report",
-     "url": "https://www.therobotreport.com/rockwell-automation-acquiring-mobile-robot-maker-agilox/",
-     "date": "2026-11-18"
-    }
-   ],
-   "image": {
-    "url": "https://www.therobotreport.com/wp-content/uploads/2026/11/agilox-x-logimat-2026-124-scaled-1.jpg",
-    "credit": "AGILOX, via The Robot Report",
-    "alt": "An AGILOX mobile robot operating inside a container"
-   }
-  }
- ]
+  ]
 }

@@ -1,111 +1,101 @@
 {
- "updated": "2026-11-20T13:58:00-08:00",
- "updated_pt": "Nov 20, 2026, 1:58 PM PT",
- "stories": [
-  {
-   "title": "OpenAI details how it fights adversarial distillation of its models",
-   "tag": "AI",
-   "date": "2026-11-20",
-   "paragraphs": [
-    "OpenAI published a post on Nov. 20 describing how it detects and disrupts adversarial distillation, which it defines as using a frontier model's outputs without authorization to train another model with similar capabilities, then deploying it without comparable protections. The company says its main concern is safety in dual-use areas such as cybersecurity and biology, where a copied model could help with tasks the original's safeguards would have refused or blocked.",
-    "OpenAI says it puts particular emphasis on protecting its models' internal reasoning, or chain-of-thought. In an internal study it reports, a student model trained on a teacher's exact reasoning traces for coding and defensive cybersecurity tasks generally outperformed one trained only on reasoning summaries after fine-tuning. The company says its defenses for GPT-6.2 Astra and GPT-6.2 Sol include adversarial training, input and output classifiers that also check tool-call arguments, and API rules that tie protected reasoning to the conversation that produced it.",
-    "In an internal adaptive red-teaming evaluation, OpenAI says the average success rate of attacks trying to recover earlier protected reasoning fell from 54.0% against GPT-6 Astra with its original safeguards to 0.2% against GPT-6.2 Astra with its updated safeguards. It says it is now applying selected improvements to GPT-6 Astra as well.",
-    "OpenAI says it has seen multiple unauthorized distillation campaigns on its platform this year, with weekly enforcement actions ranging from thousands to tens of thousands of accounts. The post recalls that the company briefed Congress in February on activity indicating DeepSeek was attempting to distill U.S. frontier models, and that in September it attributed part of a reasoning-extraction campaign to individuals associated with Moonshot AI. OpenAI says it supports the Chip Security Act, the AI OVERWATCH Act and the MATCH Act."
-   ],
-   "sources": [
+  "updated": "2026-11-21T02:40:00-08:00",
+  "updated_pt": "Nov 21, 2026, 2:40 AM PT",
+  "stories": [
     {
-     "name": "OpenAI",
-     "url": "https://openai.com/index/combatting-adversarial-distillation",
-     "date": "2026-11-20"
-    }
-   ],
-   "image": {
-    "url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
-    "credit": "OpenAI",
-    "alt": "OpenAI graphic for its post on combatting adversarial distillation"
-   }
-  },
-  {
-   "title": "Google DeepMind releases Gemini 4 Neon, a mid-tier model aimed at coding agents and science work",
-   "tag": "AI",
-   "date": "2026-11-18",
-   "paragraphs": [
-    "Google DeepMind introduced Gemini 4 Neon on Nov. 18, 2026, describing it as a model that brings frontier-level intelligence with fast end-to-end task completion across software engineering, knowledge work and science workflows. MarkTechPost reports that Neon sits between Gemini 4 Carbon and Gemini 4 Hydrogen in the Gemini 4 family, and that according to the model card it is adapted from Carbon. Google lists a price of $3 per million input tokens and $15 per million output tokens, with a 1 million-token context window.",
-    "According to Google DeepMind, Neon scores 61 on the Artificial Analysis Intelligence Index at its highest thinking level, ranking third overall, and ranks first on the Artificial Analysis Coding Agent Index with 58.6. Google also reports 70.5% on Terminal-Bench Science, 84.0% on RiemannBench and 71.3% on HLE-Diamond. MarkTechPost stresses that these comparison scores are reported by Google, not independently reproduced, and notes that Claude Opus 5.5 still leads on Terminal-Bench 4.1 and FrontierCode 2.0.",
-    "Google says Neon is rolling out in the Gemini API in Google AI Studio, in Gemini for business, in Google Antigravity for paid Google AI Pro and Ultra subscribers, and in the Gemini app for Pro and Ultra subscribers. A version called Gemini 4 Neon for cyber is rolling out to trusted defenders in the coming days, according to the post.",
-    "Simon Willison writes that the lineup's pricing is confusing for now: Carbon is temporarily at a discounted $2 and $10, which makes Neon the most expensive of the three models until Carbon's price doubles to $4 and $20 on Dec. 1. He adds that in his own drawing test Neon's output looked better than Hydrogen's and worse than Carbon's."
-   ],
-   "sources": [
-    {
-     "name": "Google DeepMind",
-     "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-     "date": "2026-11-18"
+      "title": "OpenAI details how it fights adversarial distillation of its models",
+      "tag": "AI",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "OpenAI published a post on Nov. 20 describing how it detects and disrupts adversarial distillation, which it defines as using a frontier model's outputs without authorization to train another model with similar capabilities, then deploying it without comparable protections. The company says its main concern is safety in dual-use areas such as cybersecurity and biology, where a copied model could help with tasks the original's safeguards would have refused or blocked.",
+        "OpenAI says it puts particular emphasis on protecting its models' internal reasoning, or chain-of-thought. In an internal study it reports, a student model trained on a teacher's exact reasoning traces for coding and defensive cybersecurity tasks generally outperformed one trained only on reasoning summaries after fine-tuning. The company says its defenses for GPT-6.2 Astra and GPT-6.2 Sol include adversarial training, input and output classifiers that also check tool-call arguments, and API rules that tie protected reasoning to the conversation that produced it.",
+        "In an internal adaptive red-teaming evaluation, OpenAI says the average success rate of attacks trying to recover earlier protected reasoning fell from 54.0% against GPT-6 Astra with its original safeguards to 0.2% against GPT-6.2 Astra with its updated safeguards. It says it is now applying selected improvements to GPT-6 Astra as well.",
+        "OpenAI says it has seen multiple unauthorized distillation campaigns on its platform this year, with weekly enforcement actions ranging from thousands to tens of thousands of accounts. The post recalls that the company briefed Congress in February on activity indicating DeepSeek was attempting to distill U.S. frontier models, and that in September it attributed part of a reasoning-extraction campaign to individuals associated with Moonshot AI. OpenAI says it supports the Chip Security Act, the AI OVERWATCH Act and the MATCH Act."
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://images.ctfassets.net/kftzwdyauwt9/5SUtPGdssrttC7LfP1yoJ1/b6b000846ab3576c1735c29534ab20b0/combatting-adversarial-distillation-social.png?w=1600&h=900&fit=fill",
+        "credit": "OpenAI",
+        "alt": "OpenAI graphic for its post on combatting adversarial distillation"
+      }
     },
     {
-     "name": "MarkTechPost",
-     "url": "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/",
-     "date": "2026-11-18"
+      "title": "Anthropic closes its initial public offering, with about $91.6 billion going to the company",
+      "tag": "AI",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "Anthropic announced on Nov. 20, 2026, that it closed its initial public offering of 1,127,000,000 shares of Class A common stock at $83.00 per share. According to the company, the total includes the underwriters' full exercise of their option to buy an additional 147,000,000 shares from Anthropic. Anthropic said 1,103,351,354 of the shares were sold by the company and 23,648,646 by certain selling stockholders, and that it did not receive proceeds from the selling stockholders' shares.",
+        "Anthropic reports that gross proceeds from the offering, before underwriting discounts, commissions and other expenses, were approximately $93.5 billion, of which approximately $91.6 billion was received by Anthropic. The company said its Class A stock began trading on the Nasdaq Global Select Market on Nov. 19, 2026, under the symbol \"ANT.\" Anthropic had announced the $83 pricing on Nov. 18.",
+        "Alongside the public offering, Anthropic said it closed a concurrent private sale of 313,253,007 shares of Class N common stock at the same $83.00 price, for about $26.0 billion, to Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners. According to the announcement, combined gross proceeds from the IPO, including the selling stockholders' shares, and the private placement were approximately $119.5 billion. Goldman Sachs and Morgan Stanley acted as lead book-running managers."
+      ],
+      "sources": [
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/ipo-close",
+          "date": "2026-11-20"
+        },
+        {
+          "name": "Anthropic",
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "date": "2026-11-18"
+        }
+      ],
+      "image": {
+        "url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
+        "credit": "Anthropic",
+        "alt": "Anthropic logo"
+      }
     },
     {
-     "name": "Simon Willison",
-     "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
-     "date": "2026-11-18"
-    }
-   ],
-   "image": {
-    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-    "credit": "Google DeepMind",
-    "alt": "Gemini 4 Neon announcement header image"
-   }
-  },
-  {
-   "title": "Google adds Tool Retrieval to the Gemini API so agents load tool details only when needed",
-   "tag": "AI",
-   "date": "2026-11-19",
-   "paragraphs": [
-    "Google launched Tool Retrieval in the Gemini API on Nov. 19, 2026, available in preview in the Interactions API. In a post by Gemini API product manager Lucia Loher and Google DeepMind research scientist Nora Kassner, Google says that when an agent connects to dozens or hundreds of tools, sending every tool's full parameter description with each request inflates input token counts, adds latency and lowers tool-selection accuracy as the list grows.",
-    "With the feature, developers add a tool_search tool to a request and mark tools to hold back with defer_loading. According to Google, the model still sees each deferred tool's name and description, but its parameter details stay out of context until the model asks for that tool by name; the API then loads the details and the model calls the function, all inside the same request. Google says the search runs on its servers, so there is no index to build or host, and the feature also works with remote MCP servers.",
-    "Developers who keep their own tool registry or permission filters can instead run the search on their side, which Google says adds one round trip per search. The company says Tool Retrieval has no separate charge: tokens are billed at the model's standard rates, turning it on adds a small fixed block of input tokens, and each loaded tool description is billed as input for the rest of the conversation. Google says it works with Gemini 3.6 and later models, including all Gemini 4 models."
-   ],
-   "sources": [
-    {
-     "name": "Google",
-     "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-     "date": "2026-11-19"
-    }
-   ],
-   "image": {
-    "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
-    "credit": "Google",
-    "alt": "Gemini API Tool Retrieval announcement header image"
-   }
-  },
-  {
-   "title": "Anthropic closes its initial public offering, with about $91.6 billion going to the company",
-   "tag": "AI",
-   "date": "2026-11-20",
-   "paragraphs": [
-    "Anthropic announced on Nov. 20, 2026, that it closed its initial public offering of 1,127,000,000 shares of Class A common stock at $83.00 per share. According to the company, the total includes the underwriters' full exercise of their option to buy an additional 147,000,000 shares from Anthropic. Anthropic said 1,103,351,354 of the shares were sold by the company and 23,648,646 by certain selling stockholders, and that it did not receive proceeds from the selling stockholders' shares.",
-    "Anthropic reports that gross proceeds from the offering, before underwriting discounts, commissions and other expenses, were approximately $93.5 billion, of which approximately $91.6 billion was received by Anthropic. The company said its Class A stock began trading on the Nasdaq Global Select Market on Nov. 19, 2026, under the symbol \"ANT.\" Anthropic had announced the $83 pricing on Nov. 18.",
-    "Alongside the public offering, Anthropic said it closed a concurrent private sale of 313,253,007 shares of Class N common stock at the same $83.00 price, for about $26.0 billion, to Advanced Micro Devices, Broadcom, Google, Micron Technology, Microsoft, NVIDIA and TSMC Partners. According to the announcement, combined gross proceeds from the IPO, including the selling stockholders' shares, and the private placement were approximately $119.5 billion. Goldman Sachs and Morgan Stanley acted as lead book-running managers."
-   ],
-   "sources": [
-    {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/news/ipo-close",
-     "date": "2026-11-20"
+      "title": "OpenAI introduces MedChemBench to test how well AI models reason about drug candidates",
+      "tag": "AI",
+      "date": "2026-11-20",
+      "paragraphs": [
+        "OpenAI has released MedChemBench, a benchmark that tests AI models on reasoning tasks drawn from medicinal chemistry research. According to OpenAI, it has 99 problems built from 117 papers and patents and covering 761 distinct molecular structures. Models are scored on reconstructing molecular structures, explaining experimental evidence, ranking and selecting compounds, and predicting measured properties.",
+        "OpenAI says that at its \"xhigh\" reasoning setting, GPT-6.2 Astra earned 84.5% of the available credit, compared with 83.3% for GPT-6 Astra, 82.0% for GPT-6.1 Sol and 58.2% for GPT-5.6 Sol. The company says it evaluated eleven GPT models, and that higher reasoning settings improved scores.",
+        "According to OpenAI, GPT-6 Astra earned 95.4% of the available credit for reconstructing structures, but only about half the credit for selecting compounds and predicting numerical properties. In one example, a molecule with an 18-atom ring was rebuilt correctly by GPT-6 Astra in all ten attempts, while GPT-5.6 Sol and GPT-5.6 Luna failed in all ten.",
+        "OpenAI states that the results do not show whether models can discover new drugs or improve laboratory decisions. It notes that the models may have seen the published sources before, and that each answer was a single attempt without tools, feedback or new experiments."
+      ],
+      "sources": [
+        {
+          "name": "OpenAI",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
+        "credit": "OpenAI",
+        "alt": "OpenAI graphic for its MedChemBench announcement"
+      }
     },
     {
-     "name": "Anthropic",
-     "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-     "date": "2026-11-18"
+      "title": "Google adds Tool Retrieval to the Gemini API so agents load tool details only when needed",
+      "tag": "AI",
+      "date": "2026-11-19",
+      "paragraphs": [
+        "Google launched Tool Retrieval in the Gemini API on Nov. 19, 2026, available in preview in the Interactions API. In a post by Gemini API product manager Lucia Loher and Google DeepMind research scientist Nora Kassner, Google says that when an agent connects to dozens or hundreds of tools, sending every tool's full parameter description with each request inflates input token counts, adds latency and lowers tool-selection accuracy as the list grows.",
+        "With the feature, developers add a tool_search tool to a request and mark tools to hold back with defer_loading. According to Google, the model still sees each deferred tool's name and description, but its parameter details stay out of context until the model asks for that tool by name; the API then loads the details and the model calls the function, all inside the same request. Google says the search runs on its servers, so there is no index to build or host, and the feature also works with remote MCP servers.",
+        "Developers who keep their own tool registry or permission filters can instead run the search on their side, which Google says adds one round trip per search. The company says Tool Retrieval has no separate charge: tokens are billed at the model's standard rates, turning it on adds a small fixed block of input tokens, and each loaded tool description is billed as input for the rest of the conversation. Google says it works with Gemini 3.6 and later models, including all Gemini 4 models."
+      ],
+      "sources": [
+        {
+          "name": "Google",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+          "date": "2026-11-19"
+        }
+      ],
+      "image": {
+        "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.width-1300.png",
+        "credit": "Google",
+        "alt": "Gemini API Tool Retrieval announcement header image"
+      }
     }
-   ],
-   "image": {
-    "url": "https://assets.claude.com/6d4a0d28992ade92d6fa63646fd9c9d318245c6c.jpg",
-    "credit": "Anthropic",
-    "alt": "Anthropic logo"
-   }
-  }
- ]
+  ]
 }
