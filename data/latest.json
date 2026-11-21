@@ -183,6 +183,20 @@
    "rank": 1
   },
   {
+   "id": "rb-breaking-down-data-silos-in-the-physical-world",
+   "title": "Breaking Down Data Silos in the Physical World",
+   "summary": "Industrial organizations don’t need to wait for perfect data to connect physical and digital operations. Many are already making progress with inspection data from robots.",
+   "url": "https://bostondynamics.com/blog/breaking-down-data-silos-in-the-physical-world/",
+   "source": "Boston Dynamics",
+   "image": "https://bostondynamics.com/wp-content/uploads/2026/11/plant-manager-reviews-data-orbit-1440x1016-1.jpg",
+   "tags": [
+    "Robots"
+   ],
+   "date": "2026-11-16",
+   "ts": "2026-11-16T18:59:41+00:00",
+   "rank": 1
+  },
+  {
    "id": "rb-can-robots-bring-stroke-surgery-to-remote-hospitals",
    "title": "Can Robots Bring Stroke Surgery to Remote Hospitals?",
    "summary": "I am practicing brain surgery on a patient lying 6 meters away, out of my sight and reach. I press a foot pedal, activating the controller in my hand, and carefully steer a thin flexible tube called a catheter up…",
@@ -408,21 +422,74 @@
   }
  ],
  "date": "2026-11-21",
- "updated": "2026-11-21T09:15+00:00",
+ "updated": "2026-11-21T15:12+00:00",
  "tagline": "63 real discoveries in biology, chemistry, physics, astronomy and earth science, each linked to its source.",
  "articles": [
   {
-   "id": "spacex-launches-classified-mission-for-us-space-force-from-c",
-   "title": "SpaceX launches classified mission for US Space Force from California",
-   "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+   "id": "star-trek-first-contact-at-30-resistance-is-futile-when-it",
+   "title": "'Star Trek: First Contact' at 30: Resistance is futile when it comes to the 'Next Generation' crew's greatest big-screen adventure",
+   "summary": "Assimilate this! How cyber-zombies and the \"birth of 'Star Trek'\" gave Jean-Luc Picard one of his finest hours.",
+   "url": "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/Lk7KWwRZdwsKrpVCVhW7c-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-21",
-   "ts": "2026-11-21T05:28:14+00:00"
+   "ts": "2026-11-21T15:00:00+00:00"
+  },
+  {
+   "id": "winter-stargazing-2026-the-best-skywatching-sights-this-wint",
+   "title": "Winter stargazing 2026: The best skywatching sights this winter (and how to see them)",
+   "summary": "All the must-see supermoons, meteor showers, star clusters, constellations and deep sky objects this winter — and the gear you need to see them.",
+   "url": "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/ACbBKrGDi3FTxv7Q3FKbU3-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T15:00:00+00:00"
+  },
+  {
+   "id": "ai-openai-ships-gpt-live-1-1-for-voice-agents-cuts-idle-cos",
+   "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+   "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.",
+   "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T11:46:17+00:00",
+   "rank": 0
+  },
+  {
+   "id": "an-ancient-failed-rift-is-reawakening-inside-one-of-africa-s",
+   "title": "An ancient failed rift is reawakening inside one of Africa's oldest landmasses",
+   "summary": "In April 2017, a magnitude 6.5 earthquake shook southern Africa from an unlikely place: the middle of the Kalahari Craton in eastern Botswana.",
+   "url": "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html",
+   "source": "Phys.org",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/shaded-relief-map-of-e.jpg",
+   "tags": [
+    "Earth"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T14:00:06+00:00"
+  },
+  {
+   "id": "space-entrepreneurs-should-look-to-16th-century-spice-trade",
+   "title": "Space Entrepreneurs Should Look To 16th Century Spice Trade For Inspiration",
+   "summary": "In the short term, human exploration of the Moon and Mars seems practical, but for the next 50 years at least, robotic exploration may be the most cost-effective and efficient.",
+   "url": "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/nvweb_20261121_102438.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T10:39:27+00:00"
   },
   {
    "id": "apod-2026-november-21-voyager-s-neptune",
@@ -436,6 +503,19 @@
    ],
    "date": "2026-11-21",
    "ts": "2026-11-21T05:05:00+00:00"
+  },
+  {
+   "id": "physicist-finds-a-strange-new-solution-to-einstein-s-equatio",
+   "title": "Physicist Finds a Strange New Solution to Einstein's Equations in Five-Dimensional Spacetime: Black Saturn",
+   "summary": "Einstein's equations have some explaining to do. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
+   "url": "https://www.sciencealert.com/physicist-finds-a-strange-new-solution-to-einsteins-equations-in-five-dimensional-spacetime-black-saturn",
+   "source": "ScienceAlert",
+   "image": "https://www.sciencealert.com/images/2026/11/dark-saturn-1200x675.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T03:00:00+00:00"
   },
   {
    "id": "ai-combatting-adversarial-distillation",
@@ -452,19 +532,6 @@
    "rank": 0
   },
   {
-   "id": "physicist-finds-a-strange-new-solution-to-einstein-s-equatio",
-   "title": "Physicist Finds a Strange New Solution to Einstein's Equations in Five-Dimensional Spacetime: Black Saturn",
-   "summary": "Einstein's equations have some explaining to do. ScienceAlert stories are written, fact-checked, and edited by humans, never generated by AI. Don't miss a story, subscribe here.",
-   "url": "https://www.sciencealert.com/physicist-finds-a-strange-new-solution-to-einsteins-equations-in-five-dimensional-spacetime-black-saturn",
-   "source": "ScienceAlert",
-   "image": "https://www.sciencealert.com/images/2026/11/dark-saturn-1200x675.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-21",
-   "ts": "2026-11-21T03:00:00+00:00"
-  },
-  {
    "id": "nasa-s-voyager-1-is-now-so-far-away-that-light-takes-24-hour",
    "title": "NASA’s Voyager 1 is now so far away that light takes 24 hours to reach it",
    "summary": "NASA’s Voyager 1 has reached an extraordinary milestone, traveling 16.1 billion miles from Earth to become the first spacecraft so distant that its signals take a full day to reach us.",
@@ -476,59 +543,6 @@
    ],
    "date": "2026-11-21",
    "ts": "2026-11-21T02:24:22+00:00"
-  },
-  {
-   "id": "the-call-of-the-seamount-two-new-armored-tardigrades-describ",
-   "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
-   "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades.",
-   "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
-   "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-call-of-the-seamou.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-21",
-   "ts": "2026-11-21T02:00:01+00:00"
-  },
-  {
-   "id": "visible-light-drives-bright-extreme-ultraviolet-high-harmoni",
-   "title": "Visible light drives bright extreme-ultraviolet high harmonics",
-   "summary": "Nature Communications, Published online: 21 November 2026; doi:10.1038/s41467-026-79615-1 High-harmonic generation (HHG) brings bright extreme ultraviolet (XUV) light to the laboratory, but achieving high photon flux at…",
-   "url": "https://www.nature.com/articles/s41467-026-79615-1",
-   "source": "Nature Communications",
-   "image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-026-79615-1/MediaObjects/41467_2026_79615_Fig1_HTML.png",
-   "tags": [
-    "Physics"
-   ],
-   "date": "2026-11-21",
-   "ts": "2026-11-21T00:00:00+00:00"
-  },
-  {
-   "id": "ai-hebbia-sees-improvements-in-financial-research-with-gpt",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T00:00:00+00:00",
-   "rank": 0
-  },
-  {
-   "id": "brains-of-people-with-ptsd-have-unique-epigenetic-marks-stud",
-   "title": "Brains of people with PTSD have unique epigenetic marks, study finds",
-   "summary": "The brains of people with PTSD bear molecular changes that differ from those in people with other conditions, like depression, a new study finds.",
-   "url": "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/u48ZGtMRhUG9JrKTPP8fBH-1920-80.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T21:50:00+00:00"
   },
   {
    "id": "this-year-s-el-ni-o-is-unlike-any-other-on-record",
@@ -544,19 +558,6 @@
    "ts": "2026-11-20T21:00:00+00:00"
   },
   {
-   "id": "complex-life-on-earth-may-not-have-appeared-without-tall-mou",
-   "title": "Complex Life on Earth May Not Have Appeared Without Tall Mountains",
-   "summary": "As Earth's surface area grew, weathering fed more nutrients into Earth's ancient oceans. This eventually resulted in more oxygen, making Earth more habitable.",
-   "url": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/North-Norway_Credit-Matthijs-Smit_1000x680_20261120_183507.jpg",
-   "tags": [
-    "Earth"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T20:22:08+00:00"
-  },
-  {
    "id": "scientists-create-the-first-whole-body-single-cell-atlas-of",
    "title": "Scientists create the first whole-body single-cell atlas of an adult vertebrate",
    "summary": "Researchers mapped gene activity across the entire body of a tiny fish, creating a resource for studying brain regeneration, cellular diversity, and tissue function.",
@@ -570,20 +571,6 @@
    "ts": "2026-11-19T17:00:00+00:00"
   },
   {
-   "id": "ai-can-ai-help-scientists-identify-promising-drug-candidate",
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-   "url": "https://openai.com/index/introducing-medchembench",
-   "source": "OpenAI",
-   "image": "https://images.ctfassets.net/kftzwdyauwt9/37ZvKdwVigsgJ7G3FMr4Nb/12854063a79d19d63278704bf54e3010/introducing-medchembench-social.png?w=1600&h=900&fit=fill",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T00:00:00+00:00",
-   "rank": 0
-  },
-  {
    "id": "nasa-s-voyager-1-makes-history-reaching-one-light-day-from-e",
    "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day from Earth",
    "summary": "The probe, launched in 1977, is more than 16 billion miles away in interstellar space.",
@@ -595,6 +582,20 @@
    ],
    "date": "2026-11-19",
    "ts": "2026-11-19T14:00:00+00:00"
+  },
+  {
+   "id": "ai-hebbia-sees-improvements-in-financial-research-with-gpt",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "summary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "source": "OpenAI",
+   "image": "https://images.ctfassets.net/kftzwdyauwt9/70gWqYyqb096it9EoD7OqI/5df8cad1c7fdf2a4e942c3183a10f405/hebbia-smoked-depth-social.png?w=1600&h=900&fit=fill",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T00:00:00+00:00",
+   "rank": 0
   },
   {
    "id": "nasa-s-voyager-1-has-reached-1-light-day-from-earth-the-firs",
@@ -623,6 +624,32 @@
    "ts": "2026-11-16T15:15:33+00:00"
   },
   {
+   "id": "scientists-put-78-000-letters-of-human-dna-into-a-mouse-and",
+   "title": "Scientists put 78,000 letters of human DNA into a mouse — and unraveled how a rare disease worked",
+   "summary": "By inserting human genes into lab mice, scientists were able to study the underlying mechanics of a disease that's been notoriously difficult to research.",
+   "url": "https://www.livescience.com/health/genetics/scientists-put-78-000-letters-of-human-dna-into-a-mouse-and-unraveled-how-a-rare-disease-worked",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/SDnuChhbcS9ZhohM4CDYKY-1920-80.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T12:00:00+00:00"
+  },
+  {
+   "id": "european-japanese-bepicolombo-probe-arrives-in-orbit-around",
+   "title": "European-Japanese BepiColombo probe arrives in orbit around Mercury today",
+   "summary": "The BepiColombo spacecraft will finally arrive in orbit around Mercury today (Nov. 21), more than eight years after leaving its home planet.",
+   "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T11:00:00+00:00"
+  },
+  {
    "id": "after-8-years-in-space-a-groundbreaking-x-ray-telescope-fina",
    "title": "After 8 years in space, a groundbreaking X-ray telescope finally opens its eyes",
    "summary": "After eight years and 10 billion kilometers in space, a groundbreaking X-ray telescope heading to Mercury has captured its first cosmic observations and is performing even better than scientists expected.",
@@ -636,17 +663,17 @@
    "ts": "2026-11-21T02:11:14+00:00"
   },
   {
-   "id": "forever-chemicals-don-t-be-so-sure-says-engineer",
-   "title": "'Forever' chemicals? Don't be so sure, says engineer",
-   "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant…",
-   "url": "https://phys.org/news/2026-11-chemicals-dont.html",
+   "id": "the-call-of-the-seamount-two-new-armored-tardigrades-describ",
+   "title": "The call of the seamount: Two new armored tardigrades described in the Atlantic",
+   "summary": "An international team led by researchers from Senckenberg am Meer in Wilhelmshaven has described two new species of marine tardigrades.",
+   "url": "https://phys.org/news/2026-11-seamount-armored-tardigrades-atlantic.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/forever-chemicals-dont.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/the-call-of-the-seamou.jpg",
    "tags": [
     "Biology"
    ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T22:40:02+00:00"
+   "date": "2026-11-21",
+   "ts": "2026-11-21T02:00:01+00:00"
   },
   {
    "id": "curiosity-spots-drifting-twilight-clouds",
@@ -662,43 +689,17 @@
    "ts": "2026-11-20T22:27:05+00:00"
   },
   {
-   "id": "don-t-turn-the-moon-into-the-wild-west-scientists-warn",
-   "title": "Don't turn the moon into the Wild West, scientists warn",
-   "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
-   "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T21:00:00+00:00"
-  },
-  {
-   "id": "waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-win",
-   "title": "Waterfall of fog spills over Mallorca cliffs in stunning winning image for Weather Photographer of the Year 2026",
-   "summary": "A spectacular sea of fog, a perfectly formed rainbow and dramatic lightning strikes feature among this year's winning photographs for Weather Photographer of the Year 2026.",
-   "url": "https://www.livescience.com/planet-earth/weather/waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-winning-image-for-weather-photographer-of-the-year-2026",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/bF6HhiizhVeEMToJdkhCS-1920-80.jpg",
+   "id": "complex-life-on-earth-may-not-have-appeared-without-tall-mou",
+   "title": "Complex Life on Earth May Not Have Appeared Without Tall Mountains",
+   "summary": "As Earth's surface area grew, weathering fed more nutrients into Earth's ancient oceans. This eventually resulted in more oxygen, making Earth more habitable.",
+   "url": "https://www.universetoday.com/articles/complex-life-on-earth-may-not-have-appeared-without-tall-mountains",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/North-Norway_Credit-Matthijs-Smit_1000x680_20261120_183507.jpg",
    "tags": [
     "Earth"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T20:32:11+00:00"
-  },
-  {
-   "id": "a-radical-theory-about-the-universe-just-passed-some-key-tes",
-   "title": "A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?",
-   "summary": "An alternative model in which the Universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study.",
-   "url": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/960px-Messier_77_spiral_galaxy_by_HST_20260515_070014_20261120_200628.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T20:07:21+00:00"
+   "ts": "2026-11-20T20:22:08+00:00"
   },
   {
    "id": "the-libido-drug-women-want-is-testosterone",
@@ -753,17 +754,43 @@
    "ts": "2026-11-16T13:36:41+00:00"
   },
   {
-   "id": "a-fish-as-old-as-montana-the-blue-sucker-discovered-to-live",
-   "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
-   "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous…",
-   "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
+   "id": "why-do-wolves-howl",
+   "title": "Why do wolves howl?",
+   "summary": "Wolves howl for a variety of reasons. But none of them are triggered by the sight of the moon.",
+   "url": "https://www.livescience.com/animals/why-do-wolves-howl",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/qypZFj3Cy5CQbVHkdscsHf-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T10:00:00+00:00"
+  },
+  {
+   "id": "spacex-launches-classified-mission-for-us-space-force-from-c",
+   "title": "SpaceX launches classified mission for US Space Force from California",
+   "summary": "SpaceX launched a classified mission for the U.S. Space Force tonight (Nov. 20), sending a mystery payload to orbit from California's central coast.",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/YaShmYFZ8edZqBUjFWgP3-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T05:28:14+00:00"
+  },
+  {
+   "id": "forever-chemicals-don-t-be-so-sure-says-engineer",
+   "title": "'Forever' chemicals? Don't be so sure, says engineer",
+   "summary": "Inside the disinfection room of Baltimore's Ashburton water filtration plant, 14 University of Maryland students clad in hard hats peered up at six towering vats of bleach used to treat water that flows from the distant…",
+   "url": "https://phys.org/news/2026-11-chemicals-dont.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fish-as-old-as-monta.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/forever-chemicals-dont.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T22:20:06+00:00"
+   "ts": "2026-11-20T22:40:02+00:00"
   },
   {
    "id": "new-nasa-seed-funding-primes-small-businesses-for-innovation",
@@ -779,17 +806,17 @@
    "ts": "2026-11-20T20:46:14+00:00"
   },
   {
-   "id": "trouble-at-mars-nasa-s-perseverance-rover-odyssey-orbiter-ha",
-   "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
-   "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
-   "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/47TSjax8rWx4cPw6p8CEJe-1920-80.jpg",
+   "id": "a-radical-theory-about-the-universe-just-passed-some-key-tes",
+   "title": "A Radical Theory about the Universe Just Passed Some Key Tests. So... What Does that Mean?",
+   "summary": "An alternative model in which the Universe is 26.7 billion years old and needs neither dark matter nor dark energy has held up against several major cosmology tests, according to a new University of Ottawa study.",
+   "url": "https://www.universetoday.com/articles/a-radical-theory-about-the-universe-just-passed-some-key-tests-so-what-does-that-mean",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/960px-Messier_77_spiral_galaxy_by_HST_20260515_070014_20261120_200628.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T19:50:15+00:00"
+   "ts": "2026-11-20T20:07:21+00:00"
   },
   {
    "id": "an-el-ni-o-amped-by-climate-change-has-california-bracing-fo",
@@ -803,32 +830,6 @@
    ],
    "date": "2026-11-20",
    "ts": "2026-11-20T17:47:05+00:00"
-  },
-  {
-   "id": "james-webb-telescope-spots-giant-star-swallowing-its-compani",
-   "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger",
-   "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion.",
-   "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/6WTdSErCWeS8t5puPmhPhc-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T17:12:24+00:00"
-  },
-  {
-   "id": "a-triple-star-system-that-shouldn-t-exist-only-28-light-year",
-   "title": "A Triple Star System 'That Shouldn't Exist,' Only 28 Light-Years from Earth",
-   "summary": "Astronomers have found a triple star system in our neighborhood that has defied the odds. It shouldn't really exist, according to astronomers' understanding of stellar evolution and common envelopes. Yet, there it is.",
-   "url": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/IMHD-UdeM-System_Welopoai_20261120_130730.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T16:52:03+00:00"
   },
   {
    "id": "scientists-turn-moon-dust-into-lego-like-bricks-for-future-l",
@@ -857,30 +858,56 @@
    "ts": "2026-11-16T19:00:00+00:00"
   },
   {
-   "id": "caribbean-corals-are-in-crisis-fossil-reefs-can-help-point-t",
-   "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
-   "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years.",
-   "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
+   "id": "a-fish-as-old-as-montana-the-blue-sucker-discovered-to-live",
+   "title": "A fish as old as Montana—the blue sucker discovered to live well over 100 years",
+   "summary": "Using bomb radiocarbon dating on microscopic otoliths (earstones), researchers have found that a native species of fish in the Upper Missouri River in Montana is living up to 130 years—more than triple the previous…",
+   "url": "https://phys.org/news/2026-11-fish-montana-blue-sucker-years.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/scuba-diver-swims-near.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-fish-as-old-as-monta.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T22:00:01+00:00"
+   "ts": "2026-11-20T22:20:06+00:00"
   },
   {
-   "id": "there-s-an-impostor-hiding-in-the-hyades-star-cluster-can-yo",
-   "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
-   "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
-   "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
+   "id": "brains-of-people-with-ptsd-have-unique-epigenetic-marks-stud",
+   "title": "Brains of people with PTSD have unique epigenetic marks, study finds",
+   "summary": "The brains of people with PTSD bear molecular changes that differ from those in people with other conditions, like depression, a new study finds.",
+   "url": "https://www.livescience.com/health/genetics/brains-of-people-with-ptsd-have-unique-epigenetic-marks-study-finds",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/u48ZGtMRhUG9JrKTPP8fBH-1920-80.jpg",
+   "tags": [
+    "Biology"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T21:50:00+00:00"
+  },
+  {
+   "id": "don-t-turn-the-moon-into-the-wild-west-scientists-warn",
+   "title": "Don't turn the moon into the Wild West, scientists warn",
+   "summary": "Researchers are calling for a moratorium on industrial exploitation of the moon, fearing the lunar environment may suffer irreversible damage if things move too fast.",
+   "url": "https://www.space.com/astronomy/moon/dont-turn-the-moon-into-the-wild-west-scientists-warn",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/t6dSNrTvpEr2jN8TwJN8de-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/QqobdB5e8LcM5ERUWc2mqV-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T19:00:00+00:00"
+   "ts": "2026-11-20T21:00:00+00:00"
+  },
+  {
+   "id": "a-triple-star-system-that-shouldn-t-exist-only-28-light-year",
+   "title": "A Triple Star System 'That Shouldn't Exist,' Only 28 Light-Years from Earth",
+   "summary": "Astronomers have found a triple star system in our neighborhood that has defied the odds. It shouldn't really exist, according to astronomers' understanding of stellar evolution and common envelopes. Yet, there it is.",
+   "url": "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/IMHD-UdeM-System_Welopoai_20261120_130730.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T16:52:03+00:00"
   },
   {
    "id": "nasa-honor-awards-ceremony-recognizes-employees-at-stennis-s",
@@ -894,19 +921,6 @@
    ],
    "date": "2026-11-20",
    "ts": "2026-11-20T16:27:46+00:00"
-  },
-  {
-   "id": "sound-waves-from-sunspots-launch-fiery-plasma-jets-across-th",
-   "title": "Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun",
-   "summary": "It feels like every week for the past few months we’ve been reporting on more research regarding the temperature difference between the Sun’s surface and its corona.",
-   "url": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/DKIST-First-Sunspot_20261120_145705.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T14:58:26+00:00"
   },
   {
    "id": "a-fast-growing-heart-is-good-for-the-grinch-people-are-anoth",
@@ -935,82 +949,56 @@
    "ts": "2026-11-20T12:23:23+00:00"
   },
   {
-   "id": "ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
-   "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
-   "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
-   "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/9zveBhiML7gewe85rRDy2X-1920-80.png",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T12:00:00+00:00"
-  },
-  {
-   "id": "waves-that-clear-waste-from-the-brain-during-sleep-are-impai",
-   "title": "Waves that clear waste from the brain during sleep are impaired in older adults",
-   "summary": "Researchers now hope to investigate whether increasing the flow of cerebrospinal fluid during sleep could improve brain health.",
-   "url": "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113",
-   "source": "MIT News",
-   "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202611/MIT-Sleep-Aging-01-press.jpg?itok=jGTMAvk9",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-13",
-   "ts": "2026-11-13T10:00:00+00:00"
-  },
-  {
-   "id": "ancient-bison-hunting-site-in-texas-challenges-long-held-ass",
-   "title": "Ancient bison hunting site in Texas challenges long-held assumptions",
-   "summary": "For decades, archaeologists questioned whether Native American communities in the Southern Plains hunted bison by driving herds over cliffs, a sophisticated technique widely documented farther north.",
-   "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html",
+   "id": "caribbean-corals-are-in-crisis-fossil-reefs-can-help-point-t",
+   "title": "Caribbean corals are in crisis. Fossil reefs can help point to where corals may persist",
+   "summary": "The fossilized remains of ancient coral reefs often sit just meters from living corals in the Caribbean, where reefs have declined sharply over the past 70 years.",
+   "url": "https://phys.org/news/2026-11-caribbean-corals-crisis-fossil-reefs.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-bison-stands-against.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/scuba-diver-swims-near.jpg",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T21:40:02+00:00"
+   "ts": "2026-11-20T22:00:01+00:00"
   },
   {
-   "id": "iss-astronauts-look-down-on-the-snow-capped-himalayas-space",
-   "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
-   "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
-   "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/hzGpxrUGKLGE3JV5xUEzob-1920-80.png",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T15:00:00+00:00"
-  },
-  {
-   "id": "this-is-the-first-time-astronomers-have-seen-one-of-these-st",
-   "title": "This is the First Time Astronomers Have Seen One of These Stellar Mergers",
-   "summary": "Some binary stars end up sharing a common envelope of gas, as the primary star draws material away from its companion. The envelope exerts drag on the stars and they can spiral toward each other.",
-   "url": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/2000x1346_20261119_194213.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-20",
-   "ts": "2026-11-20T13:04:40+00:00"
-  },
-  {
-   "id": "quantum-entanglement-could-thwart-hackers-and-scammers-physi",
-   "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",
-   "summary": "In a first-of-its-kind experiment, physicists used pairs of entangled photons to verify a person's location. That's a step toward anchoring digital security to the physical world.",
-   "url": "https://www.livescience.com/physics-mathematics/quantum-entanglement-could-thwart-hackers-and-scammers-physicists-demonstrate-in-new-experiment",
+   "id": "waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-win",
+   "title": "Waterfall of fog spills over Mallorca cliffs in stunning winning image for Weather Photographer of the Year 2026",
+   "summary": "A spectacular sea of fog, a perfectly formed rainbow and dramatic lightning strikes feature among this year's winning photographs for Weather Photographer of the Year 2026.",
+   "url": "https://www.livescience.com/planet-earth/weather/waterfall-of-fog-spills-over-mallorca-cliffs-in-stunning-winning-image-for-weather-photographer-of-the-year-2026",
    "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/FxJokePxQ7DVXxSvzbyugj-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/bF6HhiizhVeEMToJdkhCS-1920-80.jpg",
    "tags": [
-    "Physics"
+    "Earth"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T11:00:00+00:00"
+   "ts": "2026-11-20T20:32:11+00:00"
+  },
+  {
+   "id": "trouble-at-mars-nasa-s-perseverance-rover-odyssey-orbiter-ha",
+   "title": "Trouble at Mars: NASA's Perseverance rover, Odyssey orbiter halt science work due to glitches",
+   "summary": "Perseverance has been sidelined by an antenna issue, and the venerable Odyssey orbiter is dealing with a balky reaction wheel. NASA hopes both can get back to work by the end of November.",
+   "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/47TSjax8rWx4cPw6p8CEJe-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T19:50:15+00:00"
+  },
+  {
+   "id": "sound-waves-from-sunspots-launch-fiery-plasma-jets-across-th",
+   "title": "Sound Waves From Sunspots Launch Fiery Plasma Jets Across the Sun",
+   "summary": "It feels like every week for the past few months we’ve been reporting on more research regarding the temperature difference between the Sun’s surface and its corona.",
+   "url": "https://www.universetoday.com/articles/sound-waves-from-sunspots-launch-fiery-plasma-jets-across-the-sun",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/DKIST-First-Sunspot_20261120_145705.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T14:58:26+00:00"
   },
   {
    "id": "two-massive-stars-may-be-secretly-feeding-the-milky-way-s-su",
@@ -1052,43 +1040,56 @@
    "ts": "2026-11-19T19:00:00+00:00"
   },
   {
-   "id": "record-setting-x-ray-laser-reliably-generates-flashes-with-w",
-   "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
-   "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European…",
-   "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
+   "id": "ancient-bison-hunting-site-in-texas-challenges-long-held-ass",
+   "title": "Ancient bison hunting site in Texas challenges long-held assumptions",
+   "summary": "For decades, archaeologists questioned whether Native American communities in the Southern Plains hunted bison by driving herds over cliffs, a sophisticated technique widely documented farther north.",
+   "url": "https://phys.org/news/2026-11-ancient-bison-site-texas-held.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/instruments-such-as-th.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-bison-stands-against.jpg",
    "tags": [
-    "Physics"
+    "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T21:00:01+00:00"
+   "ts": "2026-11-20T21:40:02+00:00"
   },
   {
-   "id": "i-got-to-tour-spacex-s-starfactory-facility-in-starbase-texa",
-   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
-   "summary": "SpaceX invited media on an unprecedented behind-the-scenes tour of its Starfactory facility, where it manufactures and assembles both stages of its massive Starship rocket.",
-   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+   "id": "there-s-an-impostor-hiding-in-the-hyades-star-cluster-can-yo",
+   "title": "There's an impostor hiding in the Hyades star cluster. Can you spot it?",
+   "summary": "Aldebaran looks for all the world like the brightest member of the Hyades star cluster. It isn't — and discovering why changes the way you look at constellations.",
+   "url": "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it",
    "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/G8BaMEVyvn9LdvXRCrtDD3-1920-80.jpg",
+   "image": "https://cdn.mos.cms.futurecdn.net/t6dSNrTvpEr2jN8TwJN8de-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T13:00:00+00:00"
+   "ts": "2026-11-20T19:00:00+00:00"
   },
   {
-   "id": "tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-win",
-   "title": "Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds",
-   "summary": "We’ve managed to take high-resolution orbital images of many worlds across our solar system, and many of them with an atmosphere have one feature in common - sand dunes.",
-   "url": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/7135_MRO-HIRISE-Mars-Nilli-Patera-Dune-Field-Activity-PIA18818-full2_20261120_115719.jpg",
+   "id": "james-webb-telescope-spots-giant-star-swallowing-its-compani",
+   "title": "James Webb telescope spots giant star swallowing its companion in first-ever observations of a stellar merger",
+   "summary": "Astronomers using the James Webb Space Telescope followed up on years-old observations to confirm the first recorded act of a giant star swallowing its companion.",
+   "url": "https://www.livescience.com/space/astronomers-spot-giant-star-swallowing-its-companion-in-first-ever-observations-of-a-stellar-merger",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/6WTdSErCWeS8t5puPmhPhc-1920-80.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T11:57:20+00:00"
+   "ts": "2026-11-20T17:12:24+00:00"
+  },
+  {
+   "id": "this-is-the-first-time-astronomers-have-seen-one-of-these-st",
+   "title": "This is the First Time Astronomers Have Seen One of These Stellar Mergers",
+   "summary": "Some binary stars end up sharing a common envelope of gas, as the primary star draws material away from its companion. The envelope exerts drag on the stars and they can spiral toward each other.",
+   "url": "https://www.universetoday.com/articles/this-is-the-first-time-astronomers-have-seen-one-of-these-stellar-mergers",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/2000x1346_20261119_194213.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:04:40+00:00"
   },
   {
    "id": "a-3-million-year-old-child-just-made-human-evolution-far-mor",
@@ -1102,19 +1103,6 @@
    ],
    "date": "2026-11-20",
    "ts": "2026-11-20T03:17:52+00:00"
-  },
-  {
-   "id": "i-would-want-to-know-my-horse-s-backstory-live-science-read",
-   "title": "'I would want to know my horse's backstory': Live Science readers share which animals they'd want to speak with",
-   "summary": "Recently, Live Science asked its readers which animal they'd want to communicate with, based on a new study that leveraged AI to decode different vocalizations of zebra finches.",
-   "url": "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/SwMsReCcGqMeGJ2KetGhEf-1920-80.jpg",
-   "tags": [
-    "Biology"
-   ],
-   "date": "2026-11-19",
-   "ts": "2026-11-19T22:03:04+00:00"
   },
   {
    "id": "nasa-science-data-powers-new-method-to-discover-hard-to-find",
@@ -1143,56 +1131,56 @@
    "ts": "2026-11-18T16:00:00+00:00"
   },
   {
-   "id": "new-hemp-plant-produces-no-detectable-thc-potentially-reduci",
-   "title": "New hemp plant produces no detectable THC, potentially reducing risk of crop destruction",
-   "summary": "Scientists at Texas A&M AgriLife Research, a member of The Texas A&M University System, have developed a hemp plant that produces no detectable cannabinoids, including THC.",
-   "url": "https://phys.org/news/2026-11-hemp-thc-potentially-crop-destruction.html",
+   "id": "record-setting-x-ray-laser-reliably-generates-flashes-with-w",
+   "title": "Record-setting X-ray laser reliably generates flashes with wavelengths shorter than distances between atoms",
+   "summary": "Researchers from DESY and European XFEL have demonstrated reliable production and transport of X-ray laser flashes with a wavelength of about 0.04 nanometers (or a photon energy of 30,000 electronvolts) at European…",
+   "url": "https://phys.org/news/2026-11-ray-laser-reliably-generates-wavelengths.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/texas-am-agrilife-rese.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/instruments-such-as-th.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T21:00:01+00:00"
+  },
+  {
+   "id": "iss-astronauts-look-down-on-the-snow-capped-himalayas-space",
+   "title": "ISS astronauts look down on the snow-capped Himalayas | Space photo of the day for Nov. 20, 2026",
+   "summary": "The Himalayas tower below the clouds, capped in icy snow in new snapshots captured from aboard the International Space Station.",
+   "url": "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/hzGpxrUGKLGE3JV5xUEzob-1920-80.png",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T15:00:00+00:00"
+  },
+  {
+   "id": "ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
+   "title": "Ghostly 'sand body' double burial unearthed at Sutton Hoo",
+   "summary": "During a month-long excavation with the documentary series \"Time Team,\" archaeologists unearthed another mysterious \"sand body\" at Sutton Hoo.",
+   "url": "https://www.livescience.com/archaeology/ghostly-sand-body-double-burial-unearthed-at-sutton-hoo",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/9zveBhiML7gewe85rRDy2X-1920-80.png",
    "tags": [
     "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T20:40:01+00:00"
+   "ts": "2026-11-20T12:00:00+00:00"
   },
   {
-   "id": "einstein-was-right-scientists-verify-1st-image-of-a-black-ho",
-   "title": "Einstein was right! Scientists verify 1st image of a black hole ever captured",
-   "summary": "An independent team of researchers has validated the first image of a supermassive black hole captured by humanity, and that verifies Einstein's greatest theory.",
-   "url": "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured",
-   "source": "Space.com",
-   "image": "https://cdn.mos.cms.futurecdn.net/B6udrvzScShF4sK8KB6sLT-1920-80.png",
+   "id": "tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-win",
+   "title": "Tiny Grains of Sand Act as Cosmic Speedometers for Alien Winds",
+   "summary": "We’ve managed to take high-resolution orbital images of many worlds across our solar system, and many of them with an atmosphere have one feature in common - sand dunes.",
+   "url": "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds",
+   "source": "Universe Today",
+   "image": "https://www.universetoday.com/article_images/7135_MRO-HIRISE-Mars-Nilli-Patera-Dune-Field-Activity-PIA18818-full2_20261120_115719.jpg",
    "tags": [
     "Space"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T11:00:00+00:00"
-  },
-  {
-   "id": "voyager-1-stops-sending-science-data-ahead-of-its-light-day",
-   "title": "Voyager 1 stops sending science data ahead of its light-day milestone — but NASA has a plan",
-   "summary": "NASA's Voyager 1 spacecraft just reached 1 light-day from our planet, but a newfound glitch in the probe's onboard computer is preventing it from sharing science data with Earth.",
-   "url": "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone",
-   "source": "Live Science",
-   "image": "https://cdn.mos.cms.futurecdn.net/EnX8imbkhXb8psRkAP6vRB-1920-80.jpg",
-   "tags": [
-    "Space"
-   ],
-   "date": "2026-11-19",
-   "ts": "2026-11-19T21:49:56+00:00"
-  },
-  {
-   "id": "earth-s-atmosphere-took-three-deep-breaths-of-oxygen-before",
-   "title": "Earth's Atmosphere Took Three Deep Breaths of Oxygen Before the Oceans Caught Up",
-   "summary": "The accumulation of oxygen in Earth's atmosphere and oceans was a multi-stage process that played out over geologic timescales. Scientists have worked hard to understand all the details of this complex process.",
-   "url": "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up",
-   "source": "Universe Today",
-   "image": "https://www.universetoday.com/article_images/1280px-Meteosat-12-fci-march-equinox-2025-noon_20261119_175503.jpg",
-   "tags": [
-    "Earth"
-   ],
-   "date": "2026-11-19",
-   "ts": "2026-11-19T18:04:23+00:00"
+   "ts": "2026-11-20T11:57:20+00:00"
   },
   {
    "id": "scientists-tested-212-plant-based-foods-every-single-one-con",
@@ -1221,20 +1209,60 @@
    "ts": "2026-11-18T14:00:00+00:00"
   },
   {
-   "id": "a-million-tiny-crystals-reveal-how-semiconductors-form-disti",
-   "title": "A million tiny crystals reveal how semiconductors form distinct cores and shells",
-   "summary": "Perovskites and related materials called perovskitoids are promising semiconductor materials for solar cells, LEDs and light detectors.",
-   "url": "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html",
+   "id": "new-hemp-plant-produces-no-detectable-thc-potentially-reduci",
+   "title": "New hemp plant produces no detectable THC, potentially reducing risk of crop destruction",
+   "summary": "Scientists at Texas A&M AgriLife Research, a member of The Texas A&M University System, have developed a hemp plant that produces no detectable cannabinoids, including THC.",
+   "url": "https://phys.org/news/2026-11-hemp-thc-potentially-crop-destruction.html",
    "source": "Phys.org",
-   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/chips-holding-a-millio.jpg",
+   "image": "https://scx1.b-cdn.net/csz/news/800a/2026/texas-am-agrilife-rese.jpg",
    "tags": [
-    "Tech"
+    "Biology"
    ],
    "date": "2026-11-20",
-   "ts": "2026-11-20T20:00:11+00:00"
+   "ts": "2026-11-20T20:40:01+00:00"
+  },
+  {
+   "id": "i-got-to-tour-spacex-s-starfactory-facility-in-starbase-texa",
+   "title": "I got to tour SpaceX's Starfactory facility in Starbase, Texas, and what I saw blew my mind",
+   "summary": "SpaceX invited media on an unprecedented behind-the-scenes tour of its Starfactory facility, where it manufactures and assembles both stages of its massive Starship rocket.",
+   "url": "https://www.space.com/space-exploration/private-spaceflight/i-got-to-tour-spacexs-starfactory-facility-in-starbase-texas-and-what-i-saw-blew-my-mind",
+   "source": "Space.com",
+   "image": "https://cdn.mos.cms.futurecdn.net/G8BaMEVyvn9LdvXRCrtDD3-1920-80.jpg",
+   "tags": [
+    "Space"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T13:00:00+00:00"
+  },
+  {
+   "id": "quantum-entanglement-could-thwart-hackers-and-scammers-physi",
+   "title": "Quantum entanglement could thwart hackers and scammers, physicists reveal",
+   "summary": "In a first-of-its-kind experiment, physicists used pairs of entangled photons to verify a person's location. That's a step toward anchoring digital security to the physical world.",
+   "url": "https://www.livescience.com/physics-mathematics/quantum-entanglement-could-thwart-hackers-and-scammers-physicists-demonstrate-in-new-experiment",
+   "source": "Live Science",
+   "image": "https://cdn.mos.cms.futurecdn.net/FxJokePxQ7DVXxSvzbyugj-1920-80.jpg",
+   "tags": [
+    "Physics"
+   ],
+   "date": "2026-11-20",
+   "ts": "2026-11-20T11:00:00+00:00"
   }
  ],
  "ai": [
+  {
+   "id": "ai-openai-ships-gpt-live-1-1-for-voice-agents-cuts-idle-cos",
+   "title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+   "summary": "OpenAI has released GPT-Live-1.1 in the API. The full-duplex voice model improves multilingual accents and transcription, and a new standby mode bills idle WebRTC time at $0.02 per minute instead of $0.05.",
+   "url": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+   "source": "MarkTechPost",
+   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-21",
+   "ts": "2026-11-21T11:46:17+00:00",
+   "rank": 0
+  },
   {
    "id": "ai-combatting-adversarial-distillation",
    "title": "Combatting adversarial distillation",
@@ -1348,31 +1376,17 @@
    "rank": 1
   },
   {
-   "id": "ai-time-series-models-in-the-streamhouse-a-new-frontier-and",
-   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-   "summary": "A Blog post by IBM Research on Hugging Face",
-   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-   "source": "Hugging Face",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-18",
-   "ts": "2026-11-18T15:00:23+00:00",
-   "rank": 1
-  },
-  {
-   "id": "ai-baseten-releases-bison-1-and-groundhog-1-topping-decisio",
-   "title": "Baseten Releases Bison-1 and Groundhog-1, Topping Decision Model Index",
-   "summary": "Baseten released bison-1 and groundhog-1, open-weight decision models built on Gemma 4. bison-1 scores 76 on the AA Decision Index v2.1, and both models support 128k context and image input.",
-   "url": "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/",
+   "id": "ai-meet-thinking-machines-inkling-2-mini-26b-looped-moe-run",
+   "title": "Meet Thinking Machines Inkling 2 Mini: 26B Looped MoE Runs on a 32GB Mac",
+   "summary": "Thinking Machines released Inkling 2 Mini, a 26.4B-parameter looped MoE transformer with 3.4B active parameters. It runs on a 32GB Mac or one DGX Spark and scores 79.2% on SWE-bench Verified.",
+   "url": "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/",
    "source": "MarkTechPost",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/25b6.png",
+   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/mj1-scaled.png",
    "tags": [
     "AI"
    ],
    "date": "2026-11-21",
-   "ts": "2026-11-21T04:01:04+00:00",
+   "ts": "2026-11-21T12:13:50+00:00",
    "rank": 2
   },
   {
@@ -1418,48 +1432,6 @@
    "rank": 2
   },
   {
-   "id": "ai-13-best-agent-gateways-in-2026-for-mcp-a2a-and-llm-traff",
-   "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-   "summary": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options and the trade-offs each vendor's marketing leaves out.",
-   "url": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-2-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-19",
-   "ts": "2026-11-19T18:13:21+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-perplexity-launches-orchestrator-api-for-failover-and-mo",
-   "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-   "summary": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unified billing and a preview perplexity/auto router that sends each…",
-   "url": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-   "source": "MarkTechPost",
-   "image": "https://www.marktechpost.com/wp-content/uploads/2026/11/WP-BLOG-BANNER-123456789-1-scaled.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-19",
-   "ts": "2026-11-19T17:47:00+00:00",
-   "rank": 2
-  },
-  {
-   "id": "ai-introducing-gemini-4-neon",
-   "title": "Introducing Gemini 4 Neon",
-   "summary": "Google introduces Gemini 4 Neon, delivering frontier-level intelligence for complex coding and analysis at a lower cost. See what's new.",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-18",
-   "ts": "2026-11-18T21:35:43+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-the-gemini-app-is-now-available-on-lower-memory-android",
    "title": "The Gemini app is now available on lower-memory Android devices.",
    "summary": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
@@ -1471,6 +1443,20 @@
    ],
    "date": "2026-11-18",
    "ts": "2026-11-18T17:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-time-series-models-in-the-streamhouse-a-new-frontier-and",
+   "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+   "summary": "A Blog post by IBM Research on Hugging Face",
+   "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+   "source": "Hugging Face",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64e8143f6de557454220921e/yf6E9vJHIkGHG_toGSasb.gif",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-18",
+   "ts": "2026-11-18T15:00:23+00:00",
    "rank": 2
   },
   {
@@ -1670,20 +1656,6 @@
    "rank": 2
   },
   {
-   "id": "ai-introducing-gemini-4-hydrogen",
-   "title": "Introducing Gemini 4 Hydrogen",
-   "summary": "Google introduces Gemini 4 Hydrogen, a fast, cost-efficient model built for reliable agentic workflows and everyday tasks. Get the details.",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "source": "Google DeepMind",
-   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-hydrogen__key-art__lockup__16-9.width-1300.jpg",
-   "tags": [
-    "AI"
-   ],
-   "date": "2026-11-12",
-   "ts": "2026-11-12T18:00:50+00:00",
-   "rank": 2
-  },
-  {
    "id": "ai-google-search-gets-a-major-upgrade-with-gemini-4-hydroge",
    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
@@ -1737,6 +1709,48 @@
    ],
    "date": "2026-11-11",
    "ts": "2026-11-11T00:00:00+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-grok-build-coding-agent-leaks-oodles-of-confidential-inf",
+   "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+   "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+   "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+   "source": "Ars Technica",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/grok-plugin-marketplace-1152x648.webp",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-10",
+   "ts": "2026-11-10T21:12:59+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-lazare-veni-foras-reprogramming-dormant-neurons-to-backd",
+   "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+   "summary": "Microsoft researchers have discovered “Lazarus,” a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears.",
+   "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/",
+   "source": "Microsoft Research",
+   "image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/11/MSR-BLG_LAZ_HERO.png",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-10",
+   "ts": "2026-11-10T20:52:56+00:00",
+   "rank": 2
+  },
+  {
+   "id": "ai-nvidia-expands-open-source-commitment-with-openshell-con",
+   "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+   "summary": "Kubernetes, the open source system that manages how applications run across thousands of AI factories, has become the foundation for AI, and the demands on it are only growing.",
+   "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+   "source": "NVIDIA",
+   "image": "https://blogs.nvidia.com/wp-content/uploads/2026/11/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2.jpg",
+   "tags": [
+    "AI"
+   ],
+   "date": "2026-11-10",
+   "ts": "2026-11-10T16:00:03+00:00",
    "rank": 2
   }
  ]

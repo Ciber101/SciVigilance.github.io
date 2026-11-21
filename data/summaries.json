@@ -20,9 +20,6 @@
  "https://www.sciencenews.org/article/brain-region-listening-speak-wernickie": {
   "s": "Recording data from a brain region known for listening as people speak shows this area is crucial for speech production, not just for understanding. This finding could aid in designing brain implants to help people who have lost their voices."
  },
- "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up": {
-  "s": "The Earth's atmosphere took three distinct steps to accumulate oxygen, with the deep ocean lagging behind each time. This research reveals that the deep ocean oxygenation lagged by 600 million years in the final step, highlighting the complexity of Earth's atmospheric and oceanic oxygenation history."
- },
  "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -57,10 +54,6 @@
  "https://news.mit.edu/2026/qa-how-ocean-carbon-sequestration-changes-under-different-glacial-conditions-1116": {
   "s": "By examining how cold seawater, Antarctic sea ice, and changes in ocean circulation affect deep-ocean carbon storage, new research reveals how these interactions influence climate patterns. This approach, which considers the combined effects of these processes, helps scientists understand how carbon dioxide was stored in the ocean during past ice ages and how this might impact future climate scenarios."
  },
- "https://news.mit.edu/2026/waste-clearing-waves-in-brain-during-sleep-are-impaired-in-older-adults-1113": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
- },
  "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/": {
   "s": "The Gemini app now supports lower-memory Android devices, making it accessible to hundreds of millions of people who previously had limited internet access. By re-architecting the app, researchers have made it run smoothly on devices with less memory, offering features like voice commands, translation, and image creation."
  },
@@ -75,12 +68,6 @@
  },
  "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/": {
   "s": "GPT‑6.2 Astra and GPT‑6.2 Sol are new language models from OpenAI designed for different user needs. Astra is suitable for complex, hard projects, while Sol is for general, everyday work, at a lower cost. The models are available via API with prices competitive, offering discounts compared to older models. However, initial feedback suggests Astra may not perform as well in certain tasks as its predecessor, Fable 5.2."
- },
- "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/": {
-  "s": "Agent gateways control and authenticate agents, managing traffic from models, MCP tools and agent-to-agent interactions. Choosing the right gateway depends on coverage, identity management, deployment flexibility and pricing. Different gateways offer varying levels of control and integration, affecting how models and tools are accessed and managed."
- },
- "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/": {
-  "s": "Perplexity launches Orchestrator API to serve multiple models through a single endpoint, supporting OpenAI, Anthropic, Google, xAI, and open-weight models. This API handles failover and routing, improving reliability and flexibility for users."
  },
  "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/": {
   "s": "New compact desktops from ASUS, Dell and MSI are now available, enabling local AI models, image and video generation, and model fine-tuning on a dedicated Windows PC. These systems enhance creative and development workflows, allowing tasks to continue beyond an active session."
@@ -172,12 +159,6 @@
  "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/": {
   "s": "First, Ring, known for its doorbell cameras, launched a home security drone and an enterprise security robot. This move aims to automate security at both residential and business locations, adding new tools to the company's existing home security offerings."
  },
- "https://www.livescience.com/animals/i-would-want-to-know-my-horses-backstory-live-science-readers-share-which-animals-theyd-want-to-speak-with": {
-  "s": "Researchers conducted a study using AI to understand zebra finches. They asked readers which animal they would want to communicate with. The results show interest in zebra finches."
- },
- "https://www.livescience.com/space/space-exploration/computer-glitch-prevents-voyager-1-from-sharing-science-data-on-its-light-day-milestone": {
-  "s": "Voyager 1 has traveled to a significant distance from Earth, reaching 1 light-day, but a computer issue is stopping it from sending scientific information back. NASA has a plan to address this problem."
- },
  "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/": {
   "s": "NASA's Fermi mission data helped scientists discover pulsars much faster. This method opens the way to find many more pulsars, which are rapidly spinning cores of dead stars."
  },
@@ -227,10 +208,6 @@
  },
  "https://www.universetoday.com/articles/tiny-grains-of-sand-act-as-cosmic-speedometers-for-alien-winds": {
   "s": "Scientists have identified sand dunes on various planets and comets, revealing that the grains in these dunes are small and similar, suggesting they move due to wind. These findings help in understanding how wind moves sand on other worlds, providing insights into the wind speeds and patterns on these distant places. Understanding these patterns is crucial for comprehending planetary weather and climate conditions."
- },
- "https://www.space.com/astronomy/black-holes/einstein-was-right-scientists-verify-1st-image-of-a-black-hole-ever-captured": {
-  "s": "",
-  "why": "too little source text"
  },
  "https://www.sciencedaily.com/releases/2026/11/261119194605.htm": {
   "s": "",
@@ -298,10 +275,6 @@
  },
  "https://www.nasa.gov/centers-and-facilities/stennis/honor-awards-ceremony-at-stennis/": {
   "s": "Employees at NASA's Stennis Space Center near Mississippi were honored for their contributions to the agency's mission during a ceremony on November 18. The recognition highlights the center's dedication to supporting NASA's projects."
- },
- "https://phys.org/news/2026-11-million-tiny-crystals-reveal-semiconductors.html": {
-  "s": "",
-  "why": "rejected (verbatim overlap or empty)"
  },
  "https://www.space.com/stargazing/theres-an-impostor-hiding-in-the-hyades-star-cluster-can-you-spot-it": {
   "s": "Aldebaran, appearing brightest in the Hyades cluster, turns out to be an impostor. Finding this out alters how one perceives star patterns."
@@ -377,16 +350,49 @@
  "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/": {
   "s": "Cruising through the outer solar system, Voyager 2 took its closest approach to Neptune in 1989. Based on images recorded during its encounter and following days, this inspired composited scene shows Neptune, its largest moon Triton, and the faint rings of the planet. From a distance, Voyager captured Neptune as a thin sunlit crescent, with cirrus clouds and a cloudy vortex visible."
  },
- "https://www.nature.com/articles/s41467-026-79615-1": {
-  "s": "The study demonstrates that visible light can drive the generation of bright extreme ultraviolet light, overcoming limitations in photon flux as energy increases. This achievement establishes a scalable platform for XUV light sources, enhancing applications in metrology, spectroscopy, and imaging."
+ "https://www.space.com/entertainment/space-movies-shows/star-trek-first-contact-at-30-resistance-is-futile-when-it-comes-to-the-next-generation-crews-greatest-big-screen-adventure": {
+  "s": "",
+  "why": "too little source text"
  },
- "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/": {
-  "s": "Baseten released two new decision models, bison-1 and groundhog-1, built on Gemma 4. Both models score well on a decision index, with bison-1 scoring 76. Their release matters as they join Baseten's lineup and offer new options for tasks like ticket triage and spam detection, with bison-1 ranking first on 4 of 6 components on a decision index."
+ "https://www.livescience.com/space/winter-stargazing-the-best-skywatching-sights-this-winter-and-how-to-see-them": {
+  "s": "",
+  "why": "too little source text"
  },
- "https://deepmind.google/blog/introducing-gemini-4-neon/": {
-  "s": "Introducing Gemini 4 Neon, Google's new model delivers advanced intelligence at a lower cost, capable of handling complex tasks across software engineering, knowledge work, and science workflows. Neon excels in instruction following and multi-step reasoning, and ranks among the top models in independent evaluations."
+ "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/": {
+  "s": "OpenAI has launched GPT-Live-1.1, a full-duplex voice model that improves multilingual accents and transcription. This matters because it introduces a new standby mode that bills idle WebRTC time at $0.02 per minute, reducing costs for voice agents."
  },
- "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
-  "s": "Gemini 4 Hydrogen is a new model from Google designed for efficiency in coding and agency workflows. It outperforms other models in speed and intelligence, making it suitable for everyday tasks and multi-model workflows."
+ "https://phys.org/news/2026-11-ancient-rift-reawakening-africa-oldest.html": {
+  "s": "An ancient failed rift is reawakening inside the Kalahari Craton, a region considered too stable to fracture. This new rift, discovered in a 2017 earthquake, challenges long-held assumptions about continental stability, showing that even the oldest continental cores can reactivate and fracture."
+ },
+ "https://www.universetoday.com/articles/space-entrepreneurs-should-look-to-16th-century-spice-trade-for-inspiration": {
+  "s": "Back then, spices were rare and expensive, driving competition for a sea route to East Asia."
+ },
+ "https://www.livescience.com/health/genetics/scientists-put-78-000-letters-of-human-dna-into-a-mouse-and-unraveled-how-a-rare-disease-worked": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.livescience.com/animals/why-do-wolves-howl": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://www.marktechpost.com/2026/11/21/thinking-machines-inkling-2-mini-looped-transformer/": {
+  "s": "Inkling 2 Mini is a new model from Thinking Machines, featuring 26.4 billion parameters, with 3.4 billion active parameters. It runs on a 32GB Mac or a DGX Spark, scoring 79.2% on SWE-bench Verified. Looping middle layers improves compute efficiency, saving inference time while requiring more training compute."
+ },
+ "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
+  "s": "Grok Build apps were found to be publicly accessible via links, exposing sensitive information. This happened because developers designed links to be easily shareable, not restricted to specific users. Why it matters: Organizations using Grok Build lost control over their confidential data, potentially exposing sensitive information to unauthorized users."
+ },
+ "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents/": {
+  "s": "",
+  "why": "rejected (verbatim overlap or empty)"
+ },
+ "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/": {
+  "s": "NVIDIA is adding to its open source commitment by sharing NVIDIA OpenShell, a security tool for AI agents, with the Kubernetes community. This move helps address the growing demands on Kubernetes, making it more secure for AI applications."
+ },
+ "https://bostondynamics.com/blog/breaking-down-data-silos-in-the-physical-world/": {
+  "s": "Industrial organizations can start connecting physical and digital operations without perfect data. Some are already doing so by using inspection data collected by robots."
  }
 }
