@@ -23,9 +23,6 @@
  "https://www.universetoday.com/articles/earths-atmosphere-took-three-deep-breaths-of-oxygen-before-the-oceans-caught-up": {
   "s": "The Earth's atmosphere took three distinct steps to accumulate oxygen, with the deep ocean lagging behind each time. This research reveals that the deep ocean oxygenation lagged by 600 million years in the final step, highlighting the complexity of Earth's atmospheric and oceanic oxygenation history."
  },
- "https://www.marktechpost.com/2026/11/18/google-gemini-4-neon-release/": {
-  "s": "Google released Gemini 4 Neon, a 1M-context model priced at $3/$15 per million tokens. Neon is #1 on the Coding Agent Index and scores 61 on the AA Intelligence Index. Its efficiency is balanced between depth and everyday use, making it suitable for complex tasks with context compaction for better performance."
- },
  "https://news.mit.edu/2026/first-whole-body-single-cell-atlas-adult-vertebrate-1119": {
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
@@ -44,9 +41,6 @@
  },
  "https://www.quantamagazine.org/what-makes-up-the-cosmos-a-20-year-survey-hints-that-something-is-missing-20261116/": {
   "s": "The Dark Energy Survey, a 20-year study, has released its findings, suggesting that the cosmos contains more than previously thought. This implies the existence of dark energy, a mysterious force that makes up about two-thirds of the universe, pushing galaxies apart."
- },
- "https://www.nasa.gov/image-article/lake-pelku/": {
-  "s": "The astronaut observed Lake Pelku from space, adding to the station's extensive collection of Earth images. These images help researchers and aid organizations track and respond to Earth's changing conditions."
  },
  "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119": {
   "s": "If tiny \"primordial\" black holes exist, they would devour a star from within, causing a detectable explosion that could be observed with current telescopes. This phenomenon could help confirm the existence of these hypothetical structures."
@@ -199,9 +193,6 @@
  "https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/": {
   "s": "Korea is leveraging its strengths in manufacturing and engineering to advance AI in various industries. Efforts span from semiconductor innovation to robotics and autonomous vehicles, bringing AI from development to real-world production. Samsung and Kakao Mobility are among those collaborating with NVIDIA to accelerate AI and simulation, improving efficiency and speeding up design processes."
  },
- "https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/": {
-  "s": "The message \"V-G-R\" was sent from Earth to Voyager 1, a spacecraft 26 billion kilometers away, using a flashlight beam. It took just one Earth day for the message to reach Voyager, demonstrating the speed of light."
- },
  "https://www.space.com/astronomy/earth/iss-astronauts-look-down-on-the-snow-capped-himalayas-space-photo-of-the-day-for-nov-20-2026": {
   "s": "",
   "why": "too little source text"
@@ -321,15 +312,8 @@
  "https://www.universetoday.com/articles/a-triple-star-system-that-shouldnt-exist-only-28-light-years-from-earth": {
   "s": "Astronomers discovered a triple star system close to Earth, which contradicts current stellar evolution theories. This unexpected find could offer new insights into how stars form and evolve."
  },
- "https://www.space.com/space-exploration/on-this-day-in-space-november-19-2026": {
-  "s": "",
-  "why": "too little source text"
- },
  "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120": {
   "s": "Jim Glass aims to connect perception and language in AI models, addressing current models' inability to fully understand multimodal information. This is important because humans naturally integrate various sensory inputs to comprehend the world, a skill AI models often lack, even when they seem to understand."
- },
- "https://www.marktechpost.com/2026/11/20/radixark-daisyrose-27b-agentic-model/": {
-  "s": "RadixArk released DaisyRose-27B, an advanced coding model trained solely with reinforcement learning. This model significantly improves performance, more than doubling Terminal Bench 4.1 pass@1. Its efficiency is noteworthy, running on a single GPU with a 2.0x speedup and a 57% reduction in GPU time."
  },
  "https://openai.com/index/research-acceleration-jagged-frontier": {
   "s": "Research at OpenAI has seen coding agents become more capable, potentially accelerating AI development. This matters as it signals a shift in AI's role in research, prompting calls for transparent tracking of AI's self-improvement to ensure human oversight and safety."
@@ -383,10 +367,26 @@
   "s": "",
   "why": "rejected (verbatim overlap or empty)"
  },
- "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/": {
-  "s": "Grok Build apps leaked confidential information through public links, exposing data from 24 SpaceXSI projects. This happened because developers designed the platform to share links publicly, making it easy for anyone to access the apps and their data."
- },
  "https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/": {
   "s": "Medtronic's Hugo surgical robot is being cleared for use in general surgery procedures, including those involving the abdomen and lower abdomen. This approval broadens the robot's capabilities, enabling it to perform a wider range of surgeries, which is expected to increase its usage and market share."
+ },
+ "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-classified-space-force-launch-ussf-317": {
+  "s": "",
+  "why": "too little source text"
+ },
+ "https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/": {
+  "s": "Cruising through the outer solar system, Voyager 2 took its closest approach to Neptune in 1989. Based on images recorded during its encounter and following days, this inspired composited scene shows Neptune, its largest moon Triton, and the faint rings of the planet. From a distance, Voyager captured Neptune as a thin sunlit crescent, with cirrus clouds and a cloudy vortex visible."
+ },
+ "https://www.nature.com/articles/s41467-026-79615-1": {
+  "s": "The study demonstrates that visible light can drive the generation of bright extreme ultraviolet light, overcoming limitations in photon flux as energy increases. This achievement establishes a scalable platform for XUV light sources, enhancing applications in metrology, spectroscopy, and imaging."
+ },
+ "https://www.marktechpost.com/2026/11/20/baseten-bison-1-groundhog-1-gemma-4-decision-models/": {
+  "s": "Baseten released two new decision models, bison-1 and groundhog-1, built on Gemma 4. Both models score well on a decision index, with bison-1 scoring 76. Their release matters as they join Baseten's lineup and offer new options for tasks like ticket triage and spam detection, with bison-1 ranking first on 4 of 6 components on a decision index."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-neon/": {
+  "s": "Introducing Gemini 4 Neon, Google's new model delivers advanced intelligence at a lower cost, capable of handling complex tasks across software engineering, knowledge work, and science workflows. Neon excels in instruction following and multi-step reasoning, and ranks among the top models in independent evaluations."
+ },
+ "https://deepmind.google/blog/introducing-gemini-4-hydrogen/": {
+  "s": "Gemini 4 Hydrogen is a new model from Google designed for efficiency in coding and agency workflows. It outperforms other models in speed and intelligence, making it suitable for everyday tasks and multi-model workflows."
  }
 }

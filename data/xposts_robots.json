@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T03:19:09.331Z",
+ "updated": "2026-11-21T09:14:07.848Z",
  "accounts": [
   {
    "handle": "adcock_brett",
@@ -10,7 +10,7 @@
      "id": "2123844175619846289",
      "text": "F.03’s at F1 Las Vegas",
      "date": "2026-11-20T18:21:25.000Z",
-     "quoted": false,
+     "quoted": true,
      "image": null,
      "video": null,
      "url": "https://x.com/adcock_brett/status/2123844175619846289"
@@ -19,7 +19,7 @@
      "id": "2123080663909978394",
      "text": "My podcast with Peter and David is now live. We talked about the global race in robotics and overall AI progress\n\nWe recorded at Figure HQ, we now have more humanoids on campus than humans",
      "date": "2026-11-18T15:47:29.000Z",
-     "quoted": false,
+     "quoted": true,
      "image": null,
      "video": null,
      "url": "https://x.com/adcock_brett/status/2123080663909978394"
@@ -44,19 +44,19 @@
      "id": "2113292884200010101",
      "text": "Today we're sharing Figures internal All Hands publicly",
      "date": "2026-10-22T15:34:21.000Z",
-     "quoted": false,
+     "quoted": true,
      "image": null,
      "video": null,
      "url": "https://x.com/Figure_robot/status/2113292884200010101"
     },
     {
-     "id": "2105317708539830678",
-     "text": "It’s worth being clear: we really trained robots to jump autonomously, shipped them to Finland, and had them leap into a vat of molten steel\n\nHere's some behind the scenes",
-     "date": "2026-09-30T15:23:51.000Z",
+     "id": "2105316680251650555",
+     "text": "F.02 Decommission",
+     "date": "2026-09-30T15:19:46.000Z",
      "quoted": false,
-     "image": "https://pbs.twimg.com/amplify_video_thumb/2105317596686090240/img/qgfd5oqJDBuPgeBw.jpg",
-     "video": "https://video.twimg.com/amplify_video/2105317596686090240/vid/avc1/1920x1080/flP7gmFJbzMUFyVK.mp4",
-     "url": "https://x.com/Figure_robot/status/2105317708539830678"
+     "image": "https://pbs.twimg.com/amplify_video_thumb/2105310982994382848/img/qENCF-Ie4xhbp5iR.jpg",
+     "video": "https://video.twimg.com/amplify_video/2105310982994382848/vid/avc1/3840x2160/kb0RuVDHLGIdFKxz.mp4",
+     "url": "https://x.com/Figure_robot/status/2105316680251650555"
     }
    ]
   },
@@ -110,7 +110,7 @@
     },
     {
      "id": "2123504116408172671",
-     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇\n\n#Agility #Digit #MadeForWork",
+     "text": "Every Digit robot is its own secured system, with a unique cryptographic identity baked into the hardware. No two share an identity.\n\nThe reason: if something happens to one unit, it stays contained — not spread across the fleet.\n\nOur CTO Pras Velagapudi 👇",
      "date": "2026-11-19T19:50:08.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HXgzvXoWUAAxflY.jpg",
@@ -162,7 +162,7 @@
      "id": "2117996574584574130",
      "text": "Excited to support RoboColosseum, one of the largest in-the-wild real-world robotics benchmark project!  Great to see Unitree G1s being used as the primary embodiment used in the humanoid benchmark category on RoboColosseum.",
      "date": "2026-11-04T15:05:08.000Z",
-     "quoted": true,
+     "quoted": false,
      "image": null,
      "video": null,
      "url": "https://x.com/UnitreeRobotics/status/2117996574584574130"
@@ -228,7 +228,7 @@
    "posts": [
     {
      "id": "2120486950742462933",
-     "text": "AGIBOT G2: The 24-Hour Nonstop Convenience Store Challenge\n\nWorking nonstop for 24 hours, powering through four grueling shifts, and completing hundreds of real-world service tasks. \n\nIn this \"no-holds-barred\" public evaluation, AGIBOT G2 not only withstood the pressure of real customer traffic but also demonstrated incredible stability. \n\nLet’s look back at the highlights of these 24 hours and check out G2's \"Work Performance Report\"! 👇",
+     "text": "AGIBOT G2: The 24-Hour Nonstop Convenience Store Challenge\n\nWorking nonstop for 24 hours, powering through four grueling shifts, and completing hundreds of real-world service tasks. \n\nIn this \"no-holds-barred\" public evaluation, AGIBOT G2 not only withstood the pressure of real",
      "date": "2026-11-11T12:01:00.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2120413766101950464/img/9BwZ2k6a_WC9wpzB.jpg",
@@ -237,7 +237,7 @@
     },
     {
      "id": "2120342415412478139",
-     "text": "AGIBOT G2 Max: A heavy-duty industrial robot built for demanding manufacturing and logistics tasks.  \n\nWith 21 degrees of freedom, up to 40 kg of dual-arm handling capacity, and an adjustable working height from 0.1 to 2.5 meters, G2 Max combines force-controlled manipulation, omnidirectional mobility and multiple safety features to support demanding industrial operations.  \n\nFrom production lines and CNC machine tending to warehouse handling and pallet operations, the G2 family is bringing robotic capabilities into real industrial workflows.  Built for the demands of real work.  \n\n#AGIBOT #AGIBOTG2Max #EmbodiedAI #IndustrialRobot",
+     "text": "AGIBOT G2 Max: A heavy-duty industrial robot built for demanding manufacturing and logistics tasks.  \n\nWith 21 degrees of freedom, up to 40 kg of dual-arm handling capacity, and an adjustable working height from 0.1 to 2.5 meters, G2 Max combines force-controlled manipulation,",
      "date": "2026-11-11T02:26:40.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/amplify_video_thumb/2120335735916298241/img/EmTo2oaqQLRylPTk.jpg",
@@ -246,7 +246,7 @@
     },
     {
      "id": "2119740399740764517",
-     "text": "Last week, we welcomed Mary Callahan Erdoes, CEO of J.P. Morgan Asset & Wealth Management, Desiree Wang, CEO of J.P. Morgan Asset Management (China), and the J.P. Morgan Asset Management China team to AGIBOT, hosted by our founder, Chairman and CEO, Deng Taihua, and our co-founders.",
+     "text": "Last week, we welcomed Mary Callahan Erdoes, CEO of J.P. Morgan Asset &amp; Wealth Management, Desiree Wang, CEO of J.P. Morgan Asset Management (China), and the J.P. Morgan Asset Management China team to AGIBOT, hosted by our founder, Chairman and CEO, Deng Taihua, and our",
      "date": "2026-11-09T10:34:28.000Z",
      "quoted": false,
      "image": "https://pbs.twimg.com/media/HWrJaRzaEAETzlR.jpg",
