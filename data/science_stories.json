@@ -1,7 +1,35 @@
 {
-  "updated": "2026-11-21T02:40:00-08:00",
-  "updated_pt": "Nov 21, 2026, 2:40 AM PT",
+  "updated": "2026-11-21T07:59:37-08:00",
+  "updated_pt": "Nov 21, 2026, 7:59 AM PT",
   "stories": [
+    {
+      "title": "BepiColombo is set to enter orbit around Mercury today after an eight-year trip",
+      "tag": "Space",
+      "date": "2026-11-21",
+      "paragraphs": [
+        "The BepiColombo mission, a joint project of the European Space Agency (ESA) and the Japan Aerospace Exploration Agency (JAXA), is scheduled to arrive in orbit around Mercury today, Nov. 21, more than eight years after leaving Earth, Space.com reports. The orbit-insertion burn is scheduled to begin at 1:24 p.m. EST (10:24 a.m. PT) and last 37 minutes.",
+        "BepiColombo is made up of two main spacecraft, ESA's Mercury Planetary Orbiter (MPO) and JAXA's Mercury Magnetospheric Orbiter, known as Mio. They launched together with a power and propulsion element, the Mercury Transfer Module, on an Ariane 5 rocket from French Guiana in October 2018. According to Space.com, reaching Mercury required one flyby of Earth, two of Venus and six of Mercury, and the trip was lengthened by a year after a problem with the solar panels reduced power to the module's electric thrusters.",
+        "Space.com says the arrival phase began Sept. 3, when the transfer module released the two orbiters, and will take about six months in total. The orbiters are expected to separate around Dec. 9, MPO should reach its final polar orbit on March 10, 2027, and science work is scheduled to start April 6, 2027. ESA says the mission will study Mercury's magnetosphere, its interior and large iron core, and the origin of its magnetic field.",
+        "Ahead of arrival, one of the instruments has already passed its first test in space. ScienceDaily reports that the UK-built Mercury Imaging X-ray Spectrometer (MIXS), developed with the University of Leicester, observed the Crab Nebula on Sept. 11 and 12, and showed slightly sharper resolution than in its last lab tests in 2015. Principal investigator Emma Bunce said the detector \"has suffered no radiation damage after 8 years in space.\""
+      ],
+      "sources": [
+        {
+          "name": "Space.com",
+          "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+          "date": "2026-11-21"
+        },
+        {
+          "name": "ScienceDaily (University of Leicester)",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261120075547.htm",
+          "date": "2026-11-20"
+        }
+      ],
+      "image": {
+        "url": "https://cdn.mos.cms.futurecdn.net/d7pYhNBUCPVYiaqD7aQLwE-1920-80.jpg",
+        "credit": "ESA, via Space.com",
+        "alt": "Artist's illustration of the European-Japanese BepiColombo spacecraft at Mercury"
+      }
+    },
     {
       "title": "Voyager 1 reaches one light-day from Earth while a computer problem pauses its science data",
       "tag": "Space",
@@ -89,34 +117,6 @@
         "url": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/11/1226_scivis-elnino_main.jpg",
         "credit": "ERA5, Climate Pulse/C3S/ECMWF, via Science News",
         "alt": "Map of Pacific Ocean surface temperatures on Nov. 14, 2026, showing El Niño's band of warm water off South America"
-      }
-    },
-    {
-      "title": "NASA pauses science on the Perseverance rover and Mars Odyssey orbiter while teams work separate hardware problems",
-      "tag": "Space",
-      "date": "2026-11-19",
-      "paragraphs": [
-        "NASA said on Nov. 19 that teams for its Perseverance Mars rover and its 2001 Mars Odyssey orbiter are investigating separate technical issues, and that science work on both missions is temporarily paused. According to NASA, the rover is stable and communicating with the team, and both missions are hoped to return to science by the end of November.",
-        "On Oct. 30, NASA says, Perseverance's primary downlink radio failed to send its usual \"heartbeat\" pings to the rover's main computer, which triggered onboard fault protection: the rover switched to its backup UHF radio and entered safe mode. \"In this case, there were 25 missed heartbeats, or about 100 seconds of silence,\" NASA wrote, quoting project manager Steven Lee of NASA's Jet Propulsion Laboratory. After recovery, engineers found the backup radio was transmitting at about half its expected power, and the team stopped using both radios. The rover is now talking directly to NASA's Deep Space Network over its high-gain antenna at a much lower data rate, so instrument work and new raw images are on hold; Space.com notes the mission website had posted no new raw images since Nov. 7.",
-        "Odyssey was in safe mode from Nov. 4 to 6, and engineers then determined that one of its reaction wheels, which help orient the spacecraft, had stopped spinning, according to NASA. The orbiter has four wheels, one of which failed in 2013, and needs at least three. NASA says that without them Odyssey would have to rely on its hydrazine thrusters, and the team estimates it has only enough fuel to do that for one to two months. In one test the faulty wheel moved when commanded, and further tests are under way to see whether it can be recovered.",
-        "NASA notes that Odyssey, which entered Mars orbit in October 2001 on a mission planned for just over 2.5 years, has operated around Mars longer than any other mission and made the first global maps of the composition of the Martian surface. Space.com adds that Perseverance had just set a new off-Earth driving record on Oct. 11, passing the 28.06-mile (45.16-kilometer) mark held by NASA's Opportunity rover."
-      ],
-      "sources": [
-        {
-          "name": "NASA Science",
-          "url": "https://science.nasa.gov/blogs/mars/2026/11/19/nasas-perseverance-odyssey-teams-investigate-technical-issues/",
-          "date": "2026-11-19"
-        },
-        {
-          "name": "Space.com",
-          "url": "https://www.space.com/astronomy/mars/trouble-at-mars-nasas-perseverance-rover-odyssey-orbiter-halt-science-work-due-to-glitches",
-          "date": "2026-11-20"
-        }
-      ],
-      "image": {
-        "url": "https://assets.science.nasa.gov/content/dam/science/cds/general/images/2024/03/pia04304-mars.jpg/jcr:content/renditions/cq5dam.web.1280.1280.jpeg",
-        "credit": "NASA/JPL-Caltech (Viking Orbiter 1 mosaic), via NASA Science",
-        "alt": "Mosaic of Mars made from images captured by NASA's Viking Orbiter 1"
       }
     }
   ]
